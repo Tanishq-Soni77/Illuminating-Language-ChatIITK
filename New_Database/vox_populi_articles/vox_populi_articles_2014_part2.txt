@@ -1,0 +1,929 @@
+VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 (part 2 of 2)
+Name: Vox Populi (VOX) articles of 2014: campus news, reports, interviews, As We Leave series, internship experiences, events, Gymkhana, institute and academic stories.
+Type: STUDENT MEDIA BODY - Vox Populi (VOX), the student media body of IIT Kanpur and a Cell of the Students' Gymkhana; articles from https://voxiitk.com. Vox Populi aims to be the voice of the campus community and a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. Snapshot: scraped in 2026 (articles 2014-2026; entries marked 'from the 2024 snapshot' carry category tags recorded then).
+Notices that appeared on the site: 'Vox Populi, IIT Kanpur, is the exclusive owner of the information on this website. No part of this content may be duplicated, paraphrased, or interpreted in any other way without written consent from Vox Populi. For reproduction contact the chief editors or voxpopuli@iitk.ac.in.' Opinion pieces (As We Leave etc.) carried: 'The views presented below are the author's own and are not in any manner representative of the views of Vox Populi as a body or IIT Kanpur in general.'
+
+=== My Internship Experience: Cornell; Ithaca, NY ===
+Source: https://voxiitk.com/my-internship-experience-cornell-ithaca-ny/
+Date: 2014-08-30
+
+It was a summer of numerous firsts for me. Not only was I going to fly on an airplane for the first time, this was also the first time I was going to even enter an airport. The flights went off fine, or so I thought they did, until I saw Prof. Sanghi’s Facebook status. It was about how his flight, before landing, had to take off again, and then come back to try and land again. I got to experience this first-hand when my flight landed in Abu Dhabi for a stopover. While looking down at the ant-hill like cities, I wondered how easily we manufacture normalcy from the really difficult tasks that are rendered simple by technology. Going at 800 km/hr above the clouds makes me wonder how far we’ve come from wild jungle beasts we once were.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+After landing at the JFK Airport in NYC and getting out to see the city from the AirTrain, I was surprised at how I unsurprised I felt. (I think I’ve seen way too many American TV shows and movies to notice the cultural reset.) We took a bus and reached Ithaca on a chilly Sunday evening. Something noteworthy I observed was the utter lack of any humans or animals on the way from NYC to Ithaca. The way was naturally beautiful and serene, yet all I could see were people inside cars — no pedestrians, no birds. (In retrospect, the cold was just getting over, and the birds would migrate back in due time.)
+
+I lived in an Indian apartment, and that made a lot of things easier for me. I did not have to worry about Indian food because my roommate Ashudeep was really good at cooking, and Indian masalas etc. were readily available in the kitchen. The people we were living with were extremely helpful, and we quickly acclimated to the apartment. Other than the technical things I learned in the course of the internship, cooking was the other most important thing that I learned. I already miss the daily breakfast of a variety of cereals and milk. In fact, I could probably live just on cereals now if the need arises.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+The work I did during the internship was great. We had weekly group meetings where each member talked about the work done over the current week and the plans for the next one. The group was extremely helpful, especially the Ph.D. student with whom I was working. He helped me settle down quickly in the lab, and was always ready to discuss any problem whenever I felt stuck. I quickly got access to the necessary resources like computers with little bureaucracy.  You can always contact me for the real technical details if you want.
+
+Jayesh working at the lab
+
+The Cornell campus is big — even bigger if you also include the plantation groves and the like. It even has it own dairy with its own bar where you can get oodles of great ice cream at a relatively cheap price. (Converting to Indian currency, nothing is cheap there.) Just as I reached there, they organized their annual Slope Day, where the student community gets drunk before the exams. I was really incredulous to see so many drunk people that day.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+Slope Day at Cornell
+
+Comparing IIT Kanpur and Cornell in terms of infrastructure would be unfair for obvious reasons, but there certainly was a much more free-wheeling atmosphere at the latter. Professors don’t care if one comes to the lab at any time or at all, as long as you do your work. You got free coffee, at least in the CS department. People could meet and discuss in the numerous student lounges in various buildings. On the other hand, at IITK, even though we live in quite cramped-up hostel rooms, living at Cornell in an apartment: doing your own laundry, cooking your own food, doing your own dishes; you realize how little work we have to do while staying at the campus here.
+
+The IIT community at Cornell is pretty close-knit and helpful. I met a lot of them even while hitching a ride to Niagara on my first weekend. We joined them on a hiking trip to the local Robert Treman State Park, apart from the numerous rides across the city for groceries to potluck.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+According to me, one of the perks of being a university intern is that you get ample time to travel and visit various places. I went to NYC and Boston which were pretty close to Ithaca. I much prefer the laidback simple life at Ithaca compared to the skyscrapers and crowd at NYC and Boston, but I sure understand their appeal (and at the same time finally understanding so many movie/TV references). The well-maintained museums in NYC  and the aquarium at Boston were a treat to visit. Even though we spent hours there, we had to run through most of the displays. The crowd at Times Square would certainly remind you of the crowded Indian cities like New Delhi. Although I couldn’t find Finney’s third level, Grand Central Station surely was beautiful. Finally, instead of doing the typical Indian tourist drill of visiting Madame Tussauds or riding up the elevators of Empire State Building, we leisurely spent our evening playing NY based Dumb-C at the Bryant Park.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+Jayesh at the MIT Stata Center, famous for its Deconstructionist architecture
+
+Personally, I think, even if you do not eventually go into research, foreign internship is one hell of an opportunity to expand your horizons. One gets to see how big the world is, and how varied people’s point of view can be. Mohit has detailed this and much more in his article as well. As far as suggestions go for getting into an internship programme, especially to the first and second year undergrads, I would say:  talk to professors, and try doing research during the summer vacations. This will not only help you ferret out your fields of interest and whether you do want to continue doing research at all. Junior undergrads of course don’t have many options, but to apply at various places.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Cornell; Ithaca, NY]
+This article was written by Jayesh Kumar Gupta, final year undergraduate student in the Department of Electrical Engineering at IIT Kanpur.
+
+This article is a part of the thread My Internship Experience, as a part of the Career Series to help and guide students in their internship and placement preparations.
+
+=== My Internship Experience: Fuzzy Logix, US ===
+Source: https://voxiitk.com/my-internship-experience-fuzzy-logix-us-4/
+Date: 2014-09-02
+
+While applying for the company, I had no hope of landing an intern here for I had a negligible background in Computer Sciences or Mathematics which are relevant to their work. With nothing to lose, I just said what I believed in when asked why I should be given a chance when there were more qualified students lined up. I got the internship and before I knew it, I was on my way to Charlotte, the company headquarters based in US. It was my first time out of the country, so the adrenaline rush was expected. Manish Mehta, the second intern selected, had already been to US before on a research intern at Purdue University. We were received at the airport by a colleague at the office and due to some mistakes in the booking at the hotel, we were driven straight to the office.  It was something we had not expected because we had just traveled for over 2 days (including our journey back home) and there we were in the office. The office suite was modest with a conference room, cabins for the higher ups and spacious cubicles for employees and a small kitchen. The people working there were very kind and considerate but also never backed down from pulling your leg. The first comments they made on meeting us were like – So you guys are from IIT, you must be very smart and can you figure out these bugs that I have in my code? The company’s co-founder and CEO Partha Sen is from IIT Roorkee, and so they obviously were just trying to pick our brains, but we did panic.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Fuzzy Logix, US]
+The White House
+Later we were given accommodation in a nice locality. The accommodations were way better than our expectation with an all-expense paid studio apartment for each of us. The office was within 2 miles from the hotel as was the University of North Carolina. The people around were very friendly and common courtesies like holding the door or the elevator open for the next person, expressing their gratitude, wishing someone good morning or giving a stranger a warm smile were granted which seems to be a big thing now that I am back in India. The streets were safer than those in India; people tend to follow rules even when there was no one to keep a check. Also the roads were way better than back home with clear markings for lanes for going straight or to make a turn. There were pavements in all the residence areas for pedestrians. There were trails into the woods where you could go for a jog or a hike. The food was a mixed experience. The Americans have a very developed taste or putting it simply they have a very bland taste. Coming from the country famous for its spices, it was sometime difficult for me to find something savory and tasty. There were quite a few Indian restaurants and infact the food in one of them was even better than restaurants in Kanpur.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Fuzzy Logix, US]
+The work started gradually. We were given some smaller projects in the beginning, most concerning sales and advertising. We then helped with the Indian election predictions made by the company. You can check that out at http://www.india-polls.com. There is also a YouTube lecture series explaining how these predictions were made; you can find them on the YouTube channel of the company. Then we were involved with a movie-recommendation engine. We had a database of ratings by different users of different movies and we were to come up with recommendations of movies. We were greatly helped by Partha who had taken it as his pet project. Then we hosted the engine at http://www.movie-reco.com. We became more and more involved in the website. The first job was to get data relevant to the movies like release year, cast, posters, backdrops, and plot etc. Then we switched to social widgets, to enable people to share the results on Facebook or Twitter. But we had a problem, we had user data only up to 2006, and we needed to update it. We devised an alternate and more ambitious plan. We switched from collaborative filtering using k-nearest neighbors to orthogonal partial least squared regression. We used different filters like the cast, year of release, writers to increase the efficiency of the recommendations. These along with a login system for the website using web credentials or social networking sites like Facebook and Google+ were done in the last two weeks of our stay and have not been published on the website yet. I would keep my fingers crossed for that.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Fuzzy Logix, US]
+Ashutosh in Washington DC
+We had a lot of fun. We went on a memorable trip to Washington, which is an 8 hour bus ride from Charlotte, full of beautiful museums, statues, landmarks and historic or important places. If you have a valid driver license there are quite a few places nearby Charlotte you could go to like Charleston, Myrtle Beach, Lake Norman, and Smoky Mountains which are at max. 2-3 hour drives. Because both of us didn’t have a license, we were stuck with public transport more often than we wanted to.
+
+We went to the Carrowinds amusement park, a must if a you are a roller-coster fanatic. The highest ride there was of 211 feet which attained a maximum speed of 80 mph and took a total time of over three and a half minutes. Then we went to the US White Water Center based in the outskirts of Charlotte. The US Olympic team practises there and the place is a treat for both the mind as well as the body. You can do river rafting or go for kayaking or try stand up paddling on a very calm surface of water and be as mesmerized as I was in the beauty of it all. I am at a loss of words to describe the calm that I felt lying on my back on an SUP board and drifting slowly with the flow of the river.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Fuzzy Logix, US]
+Offices of Fuzzy Logix
+The best thing was the office environment. Contrary to my expectation of a dull, all to themselves situation, it was quite lively with people showing concern about you and your work as well as never abstaining from taking a dig at you or cracking a joke at your cost. We were also invited to the residence of Partha thrice for lunch/dinner by his very lovely wife who also happens to be an employee at the company. Since we had no cars and the public transportation was sparse, we were chaperoned around by one or the other employee from office to hotel and vice-versa and they took it very graciously and never complained if we were late and kept them waiting. It won’t be wrong to conclude that not only did I learn something valuable in my internship there but I also made some good friends and had lots of fun.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Fuzzy Logix, US]
+This article was written by Ashutosh Kumar, fourth year undergraduate student in the Department of Chemical Engineering at IIT Kanpur.
+
+This article is a part of the thread My Internship Experience, as a part of the Career Series to help and guide students in their internship and placement preparations.
+
+=== FWD: Found an online -Lost and Found- portal ===
+Source: https://voxiitk.com/777/
+Date: 2014-09-05
+
+These are some of the mails sent by the Dean of Student Affairs (DOSA) of IIT- Kanpur to all students’ list in the past month. These days the “lost and found” mails are qualified enough to be termed as spam. As you can see, not even a single mail was read by the student. Many delete these mails straightaway.
+
+There have been cases when a person found something but didn’t know who the owner was. Later a mail titled “found” was circulated to every soul in the campus and still the owner couldn’t be located. Possible reason? The mail wasn’t read by the very person who lost the thing.
+
+And the students are not to be blamed. If X lost an object or Y found one, this is not something that the whole campus should be informed of. The indifference towards such mails by the campus junta render the mails useless. Added to this, students tend to ignore even other mails by DOSA which may be pertinent to them.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > FWD: Found an online -Lost and Found- portal]
+To do away with these exasperating mails, actually help students find their belongings ( and help prompt substance into the mails by DOSA), some motivated students of IIT-K namely – Sohil Bansal, Abhimanyu Jaju and Atulya Shivam Shree have come up with an online- lost and found- portal. The link to the portal is:- http://students.iitk.ac.in/lnf/ .
+
+The website has a lucid interface and aims at providing a handy platform to the people who have either lost or found something. This provides an advantage over the earlier mass-mailing ritual as only the concerned individuals will bother to visit the portal and others would not be troubled. Also, this will reserve webmail for more important information and announcements .Actually, what’s astonishing is why something like this took this long to surface when we all have had “lost and found sections” in our school which made finding lost stuff a hands down experience. But now we at the campus too have a lost and found section. Only, this one has an upper hand, as it is virtual.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > FWD: Found an online -Lost and Found- portal]
+So, if you’ve lost or found something, simply post it on the portal. The success of the portal depends on us, the users. Instead of mailing DOSA, asking him to forward your mail and later be read by none, post on the portal so that if someone happens to find your belonging, the person can contact you directly.
+
+Such ingenious ideas can greatly simplify life on campus. The Vox team urges you all to make efforts towards identifying problems in and around the campus and come up with innovative solutions. A simple idea of yours might solve a problem that may be pestering a multitude.
+
+We have had examples when extremely simple ideas of some individuals had effectual results. A striking instance is that of the “Gopi Search”. Another example was the introduction of bag tags in library during the last end semester exams. It was a very simple idea that nearly brought down the bag exchanges to zero and also helped the webmail inbox stay clear of the plethora of extremely annoying “exchanged bag” mails.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > FWD: Found an online -Lost and Found- portal]
+We are the stakeholders of the campus. We the partakers in the benefits as well. Just being aware towards your surroundings and conscious of the happenings can make all the difference. After all, only an aware and conscious student community can create a robust campus.
+
+P.S.- Vox sincerely hopes somebody takes up the task of revamping OARS.
+
+Written by Rishabh Anand
+
+=== IITK Polluting its Neighbors ===
+Source: https://voxiitk.com/iitk-polluting-its-neighbors/
+Date: 2014-09-06
+
+Barasirohi, with which IIT Kanpur shares a boundary wall, is what you would call the “stereotypical village of urban India”. This village has seen our campus emerge since its inception. Many of the villagers consider IIT Kanpur to be “Mini-America”.
+
+We went to this village, to know more about their basic lifestyle, needs and problems. Over several visits and multiple conversations with local people, we were intrigued by the condition of basic infrastructure facilities; facilities we so often take for granted. And all within the vicinity of our beautiful campus.
+
+We realized that apart from running Shiksha Sopan(which aims to uplift underdeveloped sections of the society through meaningful education), we haven’t done anything significant for our neighboring communities. Quoting the ex- Union Rural Development Minister, Mr.Jairam Ramesh: “I am sure that IIT Kanpur has done more for the US than for Kanpur city”. Certainly makes sense.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > IITK Polluting its Neighbors]
+Anyway, for once, lets accept it. We, as a community, have a ton of “important” stuff on our plate, and can’t pay heed to the problems nearby. Fine. But then we got to know something shocking.
+
+“The sewage discharged from IIT is responsible for spread of diseases in our area.”, said one village person. “Yes, and singada cultivation, which served as a source of livelihood for some families,is no more possible due to polluted water.”
+
+Yes, IITK is using its neighboring village Barasirohi, with which it shares a boundary wall, as dumping ground for solid-waste and contaminating its ground water through runoff from IITK’s sewage plant/tank. The pictures below tell an interesting story:
+
+Trash from a Hostel Party is being collected…..
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > IITK Polluting its Neighbors]
+To be hauled to Barasirohi Village next door with which IITK shares its boundary wall.
+
+Trash from IITK being dumped at Barasirohi Village: Problem of Trash Solved!
+
+Dumping Ground!
+
+Image shows the boundary wall that separates IITK Sewage Plant and Village Water Resources.
+
+Whenever, IITK sewage plant tank overflows, Barasirohi gets the share of dirty water that pollutes its water resources.
+
+And interestingly, IITK has an interdisciplinary M.Tech. and a “vibrant” Ph.D. program in Environmental Engineering and Management, offered by the Civil Engineering Department considered to be “unique across the country.”
+
+By writing this article, we intend to make the IIT Kanpur community aware of this problem, and hope that concerned authorities will take relevant steps to combat this.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > IITK Polluting its Neighbors]
+This article has been written by Samarth Bansal. Special thanks to Aditya Tandon and Dr.Ashok Gupta(Alumnus of ’72 batch and currently President, IITK Alumni Association – as of 2014).
+
+=== My Internship Experience: MITACS ===
+Source: https://voxiitk.com/my-internship-experience-mitacs/
+Date: 2014-09-15
+
+It was the last day of my semester and I had an exam scheduled just few hours before I was expected to leave for Canada. My bag was still unpacked; I hastily dumped all my items in the bag and departed to New Delhi. Reluctant to leave my parents who had accompanied me to the airport, I departed with a heavy heart and an exhausted mind.
+
+After a 26 hour long journey, I reached Calgary International Airport to find a friendly Nigerian graduate student waiting for me. MITACS had assigned him to be my student mentor and made sure attention was given to my comfort. As I hesitantly greeted him and we made our way outside the airport, a gasp escaped my lips. It was 9.30 pm (local time), yet the city shone bright with sunlight. This was my first experience to what days being longer in summer meant in Canada.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+The day was about nineteen hours long and sunset lasted for hours. In the initial days during my stay, I couldn’t feel like eating at normal dinner time. Albeit my stomach sensed the hunger, my eyes were pretty convinced that it was still evening. I was one of the first Globalink Research Intern (GRI) to reach Canada. The university residence was not yet open for interns, so I stayed at a hotel already reserved by MITACS, where nature welcomed me with snow. Wrapped in a cozy blanket, a peaceful weekend took my jet lag away.
+
+My first meeting with my project supervisor was scheduled after two days. Meanwhile I paid a visit to the university, to familiarize myself with the surroundings and my department. The work culture at the university was visibly different. The interaction between professors and students was more open. Additionally, there was a lot of diversity- I met graduate students from Turkey, Japan, China, Iraq, Bangladesh and many other countries. My supervisor’s administrative assistant welcomed me, and introduced me to my office mates- two cheerful third year graduate students who happily agreed to give me a campus tour. The process of making friends for lifetime had just begun.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+I had begun to notice few differences even outside of the university. The population density of Canada is about a hundred times lower than that of India. To an average Indian, public places like subway platforms might occasionally appear to be isolated, haunted even. The driving system was left handed and traffic rules were strictly followed–I could rarely hear the honking of a horn. People were humble and polite; almost everyone greeted strangers and vehicles compulsorily stopped for pedestrians. I felt a strange sense of importance.
+
+My supervisor was a prominent Canadian economist- an immensely energetic man, full of brilliant ideas. Even a small conversation with him could turn out to be so insightful. He was gregarious and approachable, and could talk endlessly about his research experiences over years. Our first meeting began talking about cultural differences in both countries and concluded with deciding on the topic of study, as well as the step by step approach to go about it. I started my research on Energy Economics and Energy Transitions by reading popular press articles to ensure that the field of study was important enough.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+Everything was going great, except the hunt for good food. Being a spice craving foodie, having some flavourful delicious food became a rarely accomplished task. In the first few days, I had trouble trying new cuisines and I couldn’t eat much and would invariably throw my food into the bin after first few bites. I was desperate to have some Indian food and resolved to prepare it on my own as soon as we shifted to our new residence.
+
+It took me almost two weeks to complete my first survey, which was followed by another exhaustive survey on theoretical and empirical academic literature. The study started from being quite interesting, but became tedious in between. My supervisor remained cheerful and supportive ensuring that I was not lacking behind. This is when I learnt the best and worst parts of doing research.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+Meanwhile, more GRIs had started arriving. We shifted to our new residence at university. We had a furnished, fully air-conditioned, 3-bedroom apartment with queen size beds, along with an unparalleled room service- nothing less than a splendid five star hotel. The access to new kitchen was accompanied by what I would call an ‘irrational exuberance’. I enthusiastically bought a lot of groceries, only to find quite a bit rotting in the fridge after few days. I never had done groceries before, I was only learning. Since I had never cooked before, googling recipes and troubling my mother over skype became a routine. It made me realize the tireless efforts she puts in everyday.
+
+The research was going well now, and I was falling in love with the work culture. After the prolonged literature survey, I began collecting and refining a huge data set, which I continue to do even now, the analysis is yet to follow. Throughout my stay at university, my supervisor’s assistant kept me informed with the department news. One fine day, she emailed about the three day ‘Rocky Mountain Empirical Trade Conference’ supposed to be held at Banff. About 130 km away from Calgary, Banff is one of the finest places in Alberta. My supervisor kindly proposed to fund all my expenses during trip, giving me the rare treasured opportunity to attend the insightful talks by eminent economists across the country, informally interact with them, as well as enjoy the mesmerizing beauty that nature has bestowed upon Canada.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+Apart from the high quality research, MITACS made sure that GRIs had a steep learning curve through several other ways. We were frequently invited to workshops, industry meetings and social events. Additionally, we had weekly department seminars that promised a lot of knowledge along with free food (which of course was the main motivation to attend them.)
+
+About thirty people from India, Brazil, Vietnam, Saudi Arabia, China and Mexico joined me during my 12 week stay. The weekends spent with fellow GRIs were one of their kinds. Together, we visited every tourist place nearby. We celebrated each other’s culture. While Indians cooked dinner for everyone; Brazilians prepared dessert and shared a few a dance moves; Chinese, Mexicans and Vietnamese made farewell dishes for all. The fun part was teaching non Indians to play mafia and dumb charades.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: MITACS]
+I spent the last few weeks contemplating the wonderful things that Canada gave me, a legacy that I shall never forget. I was missing so much of it already. Even today, all the last meetings, and the warm farewell hugs are fresh in my memory. Everyone has a story, and is capable of teaching you so much. Living with an ethnically diverse group made me embrace our differences while also realizing our innumerable similarities. Although I could only get glimpse of Alberta’s rich culture, breathtaking beauty, inspiring heritage, multicultural society and peaceful environment, there is so much that I have brought back with this intern.
+
+Written by Nafisa Lohawala, Fourth Year Undergraduate, Department of Economics
+
+=== #Hokkolorob ===
+Source: https://voxiitk.com/hokkolorob/
+Date: 2014-09-22
+
+A peaceful gathering of people not older than you or I. Singing, dancing, standing up for a cause. The exuberance of unabashed youth twinkling in their eyes. And suddenly, in a matter of a few hours their world had turned completely turtle. Lathis flew, friends were injured and lives were threatened. And through all this, the student community of Jadavpur University has come out in unison, with courage and strength.
+
+Source : https://www.facebook.com/hokkolorob2013
+Hok Kolorob isn’t just another phrase from a Bengali textbook. Roughly translated, it means “let voices rise”. And that is exactly what the Jadavpur agitation is all about. To raise one’s voice against what is wrong even in the face of the gravest oppression and staunch opposition. Given the coverage and support this agitation has received from all parts of the country, people already must have a fair idea about the issue. But still, for the sake of relevance, a brief overview of the events is given below.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+These events are quoted from two of our friends present in the JU campus who prefer to remain anonymous.
+
+On 28th August, 2014, a female student of Jadavpur University (JU) was allegedly molested by a group of ten men inside the boys’ hostel of JU main campus. Her male friend accompanying her was taken aside and beaten.
+
+The students of JU decide to hold a general body meeting following the incident to decide on a course of action.
+
+Their demands- An impartial investigation be carried out to ensure justice. A committee already formed was allegedly partial.
+
+Protests, demonstrations and sit-ins were completely peaceful.
+
+The Vice Chancellor, allegedly indifferent wished to not converse with the students.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+On the 16th, after more than 150 hours of sit-in demonstrations, a gherao was organized, which was peaceful and no staff members were denied entry/exit.
+
+The students only demanded a public statement from the Vice Chancellor regarding a fresh probe into the molestation case.
+
+At about 2 am, on the 17th, police and certain people in civil dress attacked demonstrators to extract the Vice Chancellor from the University while beating up the students. Male policemen attacked female and male students. Lights were put off.
+
+More than forty students were injured and hospitalized and around 37 arrested.
+
+Students then organized a peaceful rally on the following day in protest.
+
+Now, as an individual sitting in the campus of IIT Kanpur, 1200 kilometres up the Ganga, far from where this agitation is on in full swing one may wonder about the relevance of the movement. Although one  cannot comment on whether it was correct on the part of the students to use the method they did to bring justice to the accused for this shameful crime. But it a completely valid and legal path. But as a student and more so as a human being, one simply cannot justify the use of violence on a group of peaceful protestors.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+This article however is not about the lathi-charge, it is not a character sketch of the Vice Chancellor or a personal rant of the authors against either of the two parties involved. No, instead this article is about the validity of such a step, of its repercussions, of the need for people to be aware of what is turning out to be a matter of national importance as well as to make sure the original issue does not get overshadowed.
+
+So, firstly, why should one unleash the police force on a group of unarmed students? Could the Vice Chancellor not have been rescued without resorting to such measures? As a nation proud of her democratic identity which also upholds the right to peaceful protest, this was completely uncalled for. September 17, 2014 will perhaps be registered as a black day in the history of Indian Education.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+Following the issue, however, presumably neither the police nor the concerned authorities would have anticipated what this would snowball into. From being an isolated event in Kolkata, it transformed almost overnight into a nation-wide movement making #hokkolorob the most trending topic over social media. Students from distant parts of the country have extended their solidarity. From protest marches being undertaken in multiple campuses, to petitions being raised against this blatant use of power, support and solidarity has arrived from the most unlikely sources. A mega protest march on Saturday, 20th September, saw over a lakh students and common citizens of Kolkata converge to march towards Raj Bhavan and lodge a complaint to the Governor of West Bengal, who also happened to be the Chancellor of Jadavpur University.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+So, why should the event bother us?
+
+Bengal, especially Kolkata, is notorious over the nation for the influence of politics on education – there is an understandable repulsion for student politics which usually transcends being truly representative of the student voice are often fabricated over greater political gain. This incident though is different. These are our colleagues, our friends, who are protesting, without any tinge of political colour. From a personal view, these are people whom the authors have known and grown up with. And to see them hurt and physically assaulted, without any fault on their part, while standing up for justice –  is something any rational mind cannot fathom.
+
+This event also serves as an eerie reminder of the attack by goons allegedly owing allegiance to a local politician at GSVM College, Kanpur, in March 2014. The campus of IIT Kanpur had not been affected directly, but the audacity of people in power came as a rude shock to many and made us raise our voice. We know now that howsoever isolated such incidents may seem or how far-off and detached one might be, there is no guarantee that this might never happen to you. Sitting far-off in the comforts of one’s home with the escapist view of being glad to be away from all the hullabaloo while wanting the nation to change at the same time is a fool’s utopia. Discussing how wrong such matters are over coffee and yet not doing anything about it, or worse, shrugging them off as something of little concern, is downright dangerous. A nation’s strength lies not in its numbers but in the ideals it is beset in. And the idea of justice has been dealt a blow by this incident. It is precisely this reason that students all over the nation need to (and are) show their solidarity.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+A word of caution. The use of oppressive force on unarmed students has somehow taken the limelight away from the root cause of it all. The molestation charges levelled by the girl and justice to be meted out to the ones responsible for such a heinous crime. We would like to emphasize that it is of prime importance this issue is not forgotten. And of course, not allowing any untoward incident to take place that would invalidate the non-violent nature of the protest is also vital. The attitude of the people of Kolkata regarding this has been admirable. There has been no violence or vandalism and we hope that it remains this way.
+
+Finally to conclude, the authors of this article meant it to inspire people to rise up in support of our fellow mates waging their battle miles away. We hope and pray that good sense finally prevails and justice is served. And if such an event happens in the future, the students of the nation, the back-bone of the society, do not need to take to the streets to protest.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > #Hokkolorob]
+It has often been said that there are only two ways to live: “You either let things be or take up the mantle to change what is wrong”. In the end, it is a choice we all have to make.
+
+As an epilogue, a candle march is going to be organized at IIT Kanpur to show solidarity and we encourage the campus junta to support the cause.
+
+This article has been written by Archish Mazumdar and Sharbatanu Chatterjee
+
+=== Memoirs of a Freshman ===
+Source: https://voxiitk.com/memoirs-of-a-freshie/
+Date: 2014-09-22
+
+A New Beginning
+
+5 am, 16th July 2014
+
+I set my feet on Kanpur Central Railway Station with verve and panache. Two more turns of the minute hand – I cross the KIAP era halls and set my eyes on the imperious Hall 10. I’m introduced to an amiable fellow, my ‘bapu’ ‘Aditya Jain’ who I later realized is an ordinary person with extraordinary sensibilities. C416 it is and I march forward and upwards onto the third floor.
+
+An Antithetical World
+
+Towers of my expectations started crumbling in the heat and humidity of a room infinitesimally larger than a coffin for two people. A sense of foreboding developed, a sense that was vindicated by events that have followed. That night I was drilled on customary observances. That night I developed a factitious hall identity,and a tolerance for peculiarly ornate and metaphorical language. That night, I realized that the first ‘I’ in ‘IIT’ means ‘Indian’, that I was momentarily not proud to be. I had no one to talk to, so I slept after half an hour of existential self introspection.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Memoirs of a Freshman]
+A New Day, But Not A New Beginning
+
+The orientation started officially. The addresses by the professors, especially the DOAA were the most prudent words to be heard over the next 10 days. They were in the most literal sense, the real golden rules, to be adopted in thought and action. A few things he said, left me disconcerted: people in the highest echelons knew what was happening and statements being made were nothing more than a legal boilerplate, but …… more on that later. The orientation program progressed seamlessly. The articulate planning by the Counselling Service implicitly revealed their hours of hard work. The concern of the Assistant Coordinators I talked to and of others by extension is indescribable in words, but our agony in its absence is. Our lives would have been exquisitely miserable if it were not for these people. I would like to categorically thank Gaurav Doshi, Shubham Karnawat, Prasham Jain and Ankit Goyal for being so considerate.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Memoirs of a Freshman]
+Sexism Masqueraded As Opening Up
+
+I had my first encounter with blatant sexism on the very first day, and it only increased in orders of magnitude in days to come. I could not but notice the transition from innocuous ‘meant to open up’, double entendres to the unabashed invocations of salacious symbolism, unmistakably intended to demean and vilify the fairer sex. The latter is not justifiable on any grounds. To be fair, the counselling service did organise an excellent session ‘Cognizance’, with the aim of inculcating gender sensitivity.
+
+Perverted Pseudo-intellectuals
+
+To break a [senior (your age + 1 or 2)/junior] “interaction” barrier one needs to go through some rites of passage.
+
+They can be anything from enacting a pornographic act in all audio and graphic detail or invoking a female family member and describing an act about the center of gravity of her body. On doing so, seniors apparently reveal the much touted maxims which form the cornerstone of senior-junior interactions. The most thoughtful ones are listed for reference:
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Memoirs of a Freshman]
+Not using expletives is unbecoming of a man.
+
+Not watching porn is unbecoming of a man.
+
+Not stimulating genitals is unbecoming of a man.
+
+Studying is an anathema.
+
+Sleeping on time is an anathema.
+
+Waking up on time is an anathema.
+
+Prof’s are stupid. People talking to profs are stupid.
+
+“We will confiscate any laptops if found but we will provide you the choicest of stuff even if you don’t ask for it”(Read between the lines).
+
+There are many more ‘sutras’ of becoming ‘bakait’, but all are essentially freudian frustrations vented in the facade of cultivating creative genius.
+
+A New Hope
+
+When one is trapped in this blitzkrieg of insanity, it is our own task to find advice for making rational choices. In the last session with Profs, Suchitra Ma’am repeatedly emphasized one thing: “Do not ignore the profs”. I was listening and it has paid me back. There are some really intelligent and helpful seniors, people you can look up to for advice on all matters, but one has to find such people. In my case it is a certain ShCh. There are many good people, but what sets him apart from the rest is his unassuming disposition and childlike curiosity towards life in general. So, yes, there is hope, maybe as evanescent as the morning dew, but it is there!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Memoirs of a Freshman]
+Written by Aditya Kumar
+
+=== My Internship Experience: Credit Suisse ===
+Source: https://voxiitk.com/my-internship-experience-credit-suisse/
+Date: 2014-09-25
+
+I was delighted when I was selected for summer internship at Credit Suisse, Mumbai as a Prime Services Analyst in my third year. Being recruited as an intern at CS (Credit Suisse) was something I was looking forward to. For one, I have always envisioned working in a financial institution upon graduation. Interning at CS was therefore a big step towards fulfilling my goal. At the same time, it was a real test to determine if the long hours of banking would be suitable for me. Before the internship, I had very little idea about the kind of work done in an investment bank. Most of the information I had gathered about it was from random conversations with seniors working at IBs and reading novels like Random Walk, Liar’s Poker, Barbarians at the Gate, etc. All of us were given an orientation on our first day of work. Our human resource manager, Ackroyd Rodrigues, gave a comprehensive overview of the organization, the behavior expected from an intern, and the attitude to bring forth during the internship. We were briefed on the dress code suitable for CS corporate culture (which was mainly business casual), and how to get the most out of this internship (by asking questions to clear your doubts during appropriate times). There was initially a steep learning curve. I was introduced to various divisions within Prime Services, the role of each division and how they worked in tandem. The initial phase of the internship was more focused on reading about the various financial products and getting used to the jargon of the industry. I used to get my doubts clarified as often as I could. To add on to my initial clumsiness with the various platforms, I also had to make management reports to be sent to the various trading desks and senior officials. To be truthful, all these were very daunting at the beginning. As my manager said during the internship evaluation later on, the interns are made to learn a lot of things in a very short span of time. Through liaising with several teams, I have acquired a valuable skill of expressing myself concisely and with confidence.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Credit Suisse]
+Credit Suisse offices
+As my ability to comprehend and utilize the systems improved over the weeks, I was eventually assigned two projects: Listed Derivatives Analytics on Tableau and Dividend Forecasting for SPX and NSE. Along with the daily deliverables, CS ensured that we had ample opportunity to interact with Senior Management starting with sessions by various Directors and Vice Presidents over lunch and ultimately with the Asian and Global CEOs of CS. The sessions were great fun. Apart from the free food, we got valuable inputs from people who have been there, done that. They spoke about their careers, the cross roads they faced, and gave valuable advice about our future prospects at CS and otherwise. We had a Philanthropy event in line with the CS policy of Giving Back to the Community wherein we demonstrated science experiments to kids from an NGO Vidya. The internship was not always about working hard. We had a lot of office parties, team dinners etc. I guess everyone goes the extra mile to be nice to the interns. We tried our hand in networking with a lot of people and received guidance from recent graduates and industry veterans. I would say that the internship was a great learning experience. I acquired new skill sets, made a lot of friends, got a taste of Investment Banking and experienced life in a new city. The working hours were long but I enjoyed my work.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Credit Suisse]
+Mumbai
+I believe the aim of an internship is to recognize your interests and whether you really want to work in that industry or not. For me, this internship helped me decide that and gave me a head-start for the same. In conclusion, if you have an inclination towards the banking sector, start preparing early. Follow the news, read novels and do projects. Best of Luck!
+
+This article was written by Atul Agarwal, fourth year undergraduate student in the Department of Civil Engineering at IIT Kanpur.
+
+This article is a part of the thread My Internship Experience, as part of the Career Series to help and guide students in their internship and placement preparations.
+
+=== The Silent March for Justice ===
+Source: https://voxiitk.com/the-march-for-justice/
+Date: 2014-09-26
+
+A group of students, gathered with a common motive – to show solidarity with the students of Jadavpur University who were subject to violence without any provocation; to raise awareness amongst the junta about the incident and to demand justice for the girl who was wronged. A few hours of preparation and the group had found within itself creative poster-makers, able administrators and overall motivated individuals. And it all culminated on the 24th in a silent march from New SAC to the IIT Gate, with candles and posters.
+
+The march – courtesy Sauvik Samanta
+It was 7:30 pm when a steady trickle of students from all batches and all halls started gathering at OAT, IIT Kanpur and before long, the group had grown to about 120. Posters, black bands and candles in hand, under the able and headstrong leadership of Samarth Bansal along with the enthusiastic participation of the charismatic students, the three kilometer long march began, in deafening silence. The posters and the discipline made many people join in en route. However none of this would have been possible without the admirable efficiency of the SIS guards on campus, who were there at every step of the way, organizing the walk, controlling the traffic and ensuring that the entire march was smoothly conducted.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Silent March for Justice]
+Photo courtesy Sauvik Samanta
+Upon culmination, the students placed their candles on the road and met media personnel near the gate to express their views on the event. The students reiterated their demands for justice and expressed hope that an impartial investigation into the events of the 28th of August would take place. Let us hope the march for justice does indeed make justice see the light of the day.
+
+Written by Sharbatanu Chatterjee and Archish Mazumdar
+
+=== Vignettes of History: Abhay Bhushan reminisces (Part I) ===
+Source: https://voxiitk.com/vignettes-of-history-abhay-bhushan-reminisces/
+Date: 2014-09-28
+
+Starting with this post, Vox Populi aims to bring forth vignettes of beauty from the rich and vastly unexplored repertoire of IIT Kanpur’s history. An institute like IIT Kanpur, which holds a special place in the history of education in India, is bound to find a lot to cherish and a lot to overlook at even a cursory glance back. A slightly more scrutinizing look would reveal the familiar and the unfamiliar, the mundane and the extraordinary, the glory and the murky. As the conscience of the campus, we feel it is of vital importance to know about the legacy bequeathed upon us. And what better way to introduce the institute and the history than reminiscences from the first student of IIT Kanpur, the inimitable Abhay Bhushan. His article will be published in three parts, the first of which is given below:
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+My Undergraduate Years at IIT Kanpur – Part I
+
+Abhay K. Bhushan, BT EE 1965, Roll No. 60001
+
+My journey through IIT Kanpur began towards the end of July 1960, when I landed at Kanpur Central with a few Naya Paisas in my pocket. Yes, there were Naya Paisas then, worth only 0.64 of the old Paisa, a result of conversion to the metric system. To me these Naya Paisas came to symbolize not a loss in value, but the new currency of innovation and entrepreneurship, and a pioneering spirit that welcomed progress.
+
+There was a little blue truck waiting at the train station with the legendary Shishupal, waiting for scores of dreamy-eyed boys who arrived from all parts of the country (there were no girls, not even one among the hundred who started). The truck took us to Government Central Textile Institute (GCTI) Hostel in Gwaltoli, where we stayed for almost three years, until our move to Hall 1 in March 1963. Shishupal, and the little blue truck, took all of us back and forth every working day, to Harcourt Butler Technological Institute (HBTI) campus, a few miles away, where we had our lecture halls and labs. After about a year, the Institute got a bus, and our bus driver was none other than Shishupal.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+I have called Shishupal legendary, as he was perhaps the most colorful character at the Institute for forty years, until his death in 2000. He was immensely popular with the students, spoke a dozen languages, told great story stories, and was a man of many talents. He had a passion for theatre and mime, and was our stage prop manager and make-up man for almost all of our early plays. I remember at one time, just for fun he applied make-up on me and a couple of friends, to look like a Sadhu (Indian mendicant). I still have a photograph from that time with me. He was an intriguing personality, and the stories he told about his life were incredible and unbelievable. He used to tell us that earlier he had been with the Bombay Film Industry where he learned the art of make-up and theater. Later, when World War II started, he joined Subhash Chandra Bose’s Indian National Army, was trained in espionage and enlisted in the British Army as an undercover agent. He was awarded a medal by the British but soon disappeared as he feared he was being caught as a spy. He spent time in the Far East, and after India’s independence Shishupal drifted from one job to another, until he found his true home with generations of students at IIT Kanpur. In the premier issue of Voices, the IIT KanpurAlumni magazine, there was a memorable article on Shishupal, and carried a poem by Gayatri Natu,
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+The Jester comes forth as a Jack
+
+A King, an Ace, the rest of the pack
+
+I could’ve found out
+
+What he’s all about
+
+But I really haven’t quite got his knack
+
+During our first year, we were the only class at the Institute. However, we did not escape ragging or hazing, as we were ragged by the Textile Institute seniors, who were not too happy with these brash IITians usurping their brand new Hostel. I have vivid memories of these ragging sessions, when a bunch of us on successive days, were woken up late at night and marched in front of a large group of Textile Institute seniors, who tried to intimidate us, by shouting at us and threatening to strip us and mete out other punishments if we did not obey them. I was a little scared but also somewhat amused, as they were holding court, with King Lingam, presiding. We were all asked to hail King Lingam by shouting, “L*** Maharaj ki Jai”. After that we were called one by one, and made to a special salutation, requiring us to be in a prone position, and raising our right hand in a salute. Then people were asked to sing a song, do some vulgar displays of AC-DC, and repeat some foul swear words pertaining to mothers and sisters. They often threatened to put Elgin Mill’s chimney up ours. I distinctly remember that a friend of mine was asked to hold his private parts and sing the old Hindi song, “Nanhe munhe bacche teri mutthi me kya hai? Mutthi me hai taqdir hamari” (Little children what is in your hands? In Our hands is our Destiny). I still get a few chuckles when I think of those ragging scenes.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+On the first day our classes started, Dr. P. K. Kelkar, the first Director of IITK, welcomed us at the newly constructed wing of HBTI. He assured us that a journey of a thousand miles begins with a single step, and a great building starts with a mound of dirt. In 1961, we actually walked from Kanpur to the new campus at Kalyanpur, a distance of about 8 miles, giving a hand in digging the foundation for the Institute, and contributing that proverbial small mound of dirt. Dr. Kelkar symbolized the spirit of innovation and quest that has been a hallmark of IITK from its humble beginnings at HBTI and the Textile Hostel, to the beautiful campus we have today. Through my early experience at IIT Kanpur, I learnt that we don’t have to own buildings and equipment, or even have paid employees, in order to succeed. When we do something useful and worthwhile, these come later. Consider all the great enterprises that started in a garage or borrowed facilities with borrowed equipment, and people putting in sweat equity. And these include Hewlett Packard, Microsoft, Apple Computer, Cisco, Google, Infosys, and many others.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+Dr. P. K. Kelkar, the first Director of IIT Kanpur, was a most remarkable man. He had all the characteristics of a great leader – imagination, boldness, resourcefulness, perseverance, integrity and humility. He was always prepared to meet any of us students at a moment’s notice, which was most unusual in India, especially in those days. When we had problems, he asked for our patience, and encouraged us to do our best, even in trying circumstances.
+
+I remember that in the first year of IIT Kanpur, we had many professors borrowed from the archaic U.P. educational system. These professors believed in memory and rote, even for math problems. We had books by S. L. Loney (or Looney it might be, as I thought of Looney Tunes), and solved examples by S. L. Loney for our text book. In our final exam for the first year, we had some of these problems from the solved examples text books, to do. As memorizing the solutions verbatim to math problems was anathema to me, and I refused to do it by memory and solved the problems by applying principles. Naturally, this took time and I was only able to solve four of the six problems. Considering myself to be quite fast in math, I wrote in my answer book, that I challenged anyone to solve the problems in time allotted,. This comment of mine bothered the professor who called me to his office and chided me for writing rubbish in my answer book, and added that many of my classmates completed the problems in time, just fine. I asked him to show me one of the answer books, and I pointed it out to him that these were memorized answers, verbatim from the book, including statements such as “from here we can get the answer as on page 87.” I pointed to him that doing math by memorizing solutions without understanding or doing the steps was completely ridiculous. This incensed the professor, who told me that for being impertinent, he could get me expelled from the Institute! I walked out of his office angry, saying that truth is on my side and not even his father could get me expelled. I went straight to the Director’s office, and explained the whole situation to Dr. Kelkar. Dr. Kelkar listened very patiently, and then calmly told me, “Abhay, don’t mind this too much. Take heart, the Institute is hiring new faculty, and the second year will be very different. IIT Kanpur will be the best Institute in India with the most progressive education system.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+Dr. Kelkar’s words were indeed prophetic! In our second year in 1961, we had excellent new faculty. Dr. Kelkar had been able to attract some of the best young minds to come and join IIT Kanpur. Many of these teachers had obtained their doctorates in the United States, Canada and UK, and had experience of teaching there. Further, Dr. Kelkar gave full freedom to the faculty to discuss and decide the academic directions. The new professors gave emphasized original thinking and application of principles over memory and rote. What a refreshing change for me! In one of the first tests, I solved the test paper in less than half the time, while most of my classmates were still sitting there when time was up. They came out and complained how these problems were so difficult. Upon asking what the difficulty was, they replied that they had not seen the problem before in “solutions book”. As a result of these progressive changes I went from the bottom half of my class to the top five percentile!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part I)]
+_____________________________________________________________________________________________________________________
+
+Second installment can be found here.
+
+=== My Internship Experience: Capital One, Bangalore ===
+Source: https://voxiitk.com/my-internship-experience-capital-one-bangalore/
+Date: 2014-09-29
+
+Third year at Indian Institute of Technology, Kanpur turned out to be quite an eventful year for me. It was a year of many firsts, some of which I will cherish for the rest of my life. And I would place amazing internship experiences among those many firsts. To put things in perspective (and getting to the point of this article), I did a couple of internships in my third year at two fabulous places – GreenAlpha Power, a start-up integrating kickass financial engineering in the solar development business, and Capital One, the big-shot American credit card company. I would like to add that I also interned at the end of my second year where I had a, to be very brief, pathetic experience (and that, among other things, forms Intern Experience 1.0.)
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Capital One, Bangalore]
+So, giving respect to chronology (proximity bias did tempt me there to write about Capital One first), I start with GreenAlpha Power. It started with an email from SPO on a blurry day somewhere in the middle of endsems. I applied, telephonic interviews happened and a week later, I was on a train to Jaipur. Office comprised of a single room equipped with a table, few chairs, a bean bag, a couch, a whiteboard and internet connection. I was assigned the role of Market Research Analyst and was expected to prepare a tariff map of India. But my managers (and also the co-founders) were really cool to involve me in all the aspects of business. I also proactively took interest, shared ideas and provided suggestions (most of them turned out unfeasible but those discussions were simply enriching). Eventually, at the end of 25 days, in addition to the tariff map, I had worked on the financial model, legalities of business model and website development. To summarize, I would rate working in an early stage start-up as an essential business experience.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Capital One, Bangalore]
+Coming to the important part – key takeaways. All of us have heard the management gurus talk about the importance of working with the right people. And my experience at GreenAlpha made me a staunch supporter of the argument; especially if it’s a start-up, people are as important as the idea itself. There were times when I was supposed to do extremely monotonous work, some other times my project was diametrically opposite to my areas of interest and expertise. But just because I was hanging around with cool people, I sailed through. Another thing that I found very useful was proactively taking interest in all the aspects of business – even if they are not related in any manner to your assigned project. I used to tag along even for the chai-sutta breaks (though I admire neither) just to be involved. You can see the pieces joining together and that opens avenues of relevance for any project.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Capital One, Bangalore]
+Aman Pandya’s ID card at Capital One
+
+Moving on to the summer intern now. I never really fancied a chance at Capital One (bless my CPI for that) until they announced that a DI test and not resumes would be used for short-listing. And even then, I wasn’t really excited about cracking the internship process. But I took the test, cleared the case studies and booked my tickets to Bangalore. There, a cosy service apartment and a swanky office spread over two storeys greeted me. Working hours were flexible, office had an open structure and culture was surprisingly cool. I was assigned to a team but had a project of my own, with complete ownership. It was the first time Capital One had interns for their India office and we were pampered accordingly. Treats and gifts were pouring in from all corners and there was negligible work pressure. For the first couple of weeks, I divided my time between networking, foosball and FIFA (yes, we had a dedicated PS3 room in the office.) Eventually, project work started moving and I was able complete all deliverables within the set timeframe. Overall, a pleasantly nice experience.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Capital One, Bangalore]
+Aman Pandya’s office workdesk
+
+The most pertinent realization from my internship at CapOne was the importance of structured communication. One may come up with excellent ideas, analysis or research but eventually, he/she needs to sell it to people. And that’s where communication and presentations come in. One needs to gauge his audience and modify his story language accordingly. For instance, I had tested around 15 hypotheses for my project at Capital One. But I included just 5 in my final presentation. Some were excluded just because they disrupted the flow and looked like loose ends. And even the way they were presented differed according to the audience. There were significant differences in the slides I presented to my manager and team and the ones I presented to VP and Senior Directors. Another key takeaway was to always keep the big picture in mind. Your work should be implementable and should have a positive impact on the company. Always. Otherwise all the hard work and time is of no practical use.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Capital One, Bangalore]
+I conclude here with a hope that the readers found my insights helpful. Feel free to contact/meet me (a bottle of beer would be much appreciated. I prefer Heineken) and join me in the most honest disgust towards the pathetic Kanpur weather.
+
+This article was written by Aman Pandya, fourth year undergraduate student in the Department of Economics at IIT Kanpur.
+
+This article is a part of the thread My Internship Experience, as part of the Career Series to help and guide students in their internship and placement preparations.
+
+=== Vignettes of History: Abhay Bhushan reminisces (Part II) ===
+Source: https://voxiitk.com/vignettes-of-history-abhay-bhushan-reminisces-part-ii/
+Date: 2014-10-05
+
+Continuing with the reminiscences of Abhay Bhushan, here comes the second part in the trilogy. Enjoy! (You can view the first part here.)
+
+My Undergraduate Years at IIT Kanpur – Part II
+
+Abhay K. Bhushan, BT EE 1965, Roll No. 60001
+
+Life at Textile hostel was fun for the most part. There were badminton courts in the little courtyard and a playing field behind the hostel. I used to play most evenings, and also did some friendly wrestling with friends. Sometimes we would walk to the River Ganges which was not too far away and take a bath or a swim. There was also a common room where we had a table tennis table and carom and chess. There was a small dining hall. A contractor was hired to provide the food, which was generally of poor quality. Unfortunately, there was child labor in those days, and some of the mess servants were under 14 years of age. They were generally abused by the older adult mess servants. For entertainment, we went to Green Park, whenever there was a cricket test match in town, and also saw movies as we were in the City of Kanpur. When we could afford it, we went to the restaurant Khayyam. In the very first year we also had a very nice all day picnic in Allen Forest behind HBTI campus, which was most enjoyable.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+Every year, we had an annual sports day, with all types of games and races. We also put our own cultural program annually, with plays in Hindi and English and music, songs and skits. We also had debating competitions. Prof J. P. Bhargava, our drawing teacher, was in charge of sports, and encouraged us to play games, ensuring that we had the necessary equipment and supplies. Later on, he also became in charge of the National Cadet Corps (NCC) program, which became compulsory after the 1962 India China border war.
+
+Prof. E. K. Das, our English teacher took a lot of interest in the cultural activities and directed a number of English plays. He tried to encourage us to read English classics, and also public speaking. English was our first humanities subject.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+In our second year, Prof G. D. Agarwal joined the faculty in Civil Engineering and became our hostel warden. For those who know GD, he was very dedicated to us students and to mother India. You may recall that he recently declared a fast to help protect River Bhagirathi, the source of the Ganga. Now GD was an early riser and declared compulsory morning exercises (P.T.) at 6 a.m. for all of us. He would arrive at day break at the hostel, blow his whistle and exhort us all to become physically active and strong. He took attendance and was disappointed that many students would not show up. As a punishment for our tardy attendance, GD had us all march to Kalyanpur to help symbolically lay the foundation for the new IITK campus. GD was also fun and took us all on a memorable trip to Khajuraho.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+In our second year, Prof. N. C. Nigam also joined the faculty in Civil Engineering. His brother Prof. P. C. Nigam was already a Chemistry teacher. NC was quite friendly to the students and played tennis with us on the HBTI campus courts. It was fun to get together with teacher’s informally. Another teacher who joined us in second year was Prof. A. S. Parasnis who taught us material science. At that time England-returned Prof. Parasnis was quite fashionable and meticulous, bordering on being snobbish. He was a good teacher who was erudite and communicated well. Years later, I found Prof. Arvind Parasnis to be extremely warm, full of human qualities, quite different from my initial perceptions. Prof. K. R. Sarma also joined the faculty in second year and taught us Electrotechnique. He was the first professor at IIT Kanpur that I came across who made up new types of problems for Quiz’s and Tests himself, that were not found in the books. This certainly put emphasis on fundamentals and original thinking.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+There were several tragic incidents that made a deep impression on me. In our second year, we had the first student suicide at IITK, when our classmate V.K. Agarwal took his own life by ingesting rat poison. As we were fewer than 70 students in the hostel, two to a room, we were a close-knit group. None of us had any inkling that something may be amiss. Not even VK’s roommate suspected that anything was wrong. On going through VK’s belonging, we discovered some letters that seem to suggest that being rejected in love could have been a reason. It was definitely not academic pressure or performance. I do vividly remember the funeral procession from the Textile hostel to the Shamshan Ghat on the banks of the Ganges.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+There were two shameful incidents at the hostel that instilled in me a deep commitment to protecting civil liberties and human rights. The first involved our hostel Chowkidar Raghunath, a very nice congenial fellow. One day, one of the students found a pen with Raghunath that the student claimed was his. Raghunath explained that he had found it on the ground and picked it up and put in his pocket. The student accused Raghunath of stealing. Then another student, who had recently lost a watch started accusing Raghunath of stealing his watch. Then began a third degree interrogation of Raghunath, followed by manhandling and beating by some cowardly students, joined by the bigger boys from the Textile Institute. Thus began a Calcutta style mob justice and Raghunath was beaten mercilessly. Fortunately, some of us had the courage to speak up, so this beating was stopped but not before some of Raghunath’s bones were broken, and he was bleeding profusely. Several months later, I saw Raghunath driving a Rickshaw with slightly deformed arm, as a result of broken bone not having been set right.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+The second incident involved a mess boy who was scarcely 14 or 15 years old. One of my class mates, who had gone to visit a friend at a hospital claimed that he saw this boy steal his bicycle from a distance of about 100 yards. Soon the student and some of his friends started the third degree interrogation of the poor mess boy, and some of them started burning the soles of the mess boy’s feet to get him to confess and tell them where the lost or stolen bicycle was. Some of us again got wind of this happening, and quickly intervened to rescue the boy but not before there were severe burns to his feet. While I am aware that the Indian Police still practices these brutal torture methods, I had certainly expected better from my classmates. I recall these incidents with a profound sense of shame, and they strengthened my resolve to protect human rights everywhere.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+When our second year started, we had a choice of whether to do ragging of the freshmen or not. We had two distinct camps, one that favored ragging, and the other that opposed it. Both camps were quite adamant in their position. Some of us were on the fence, and did not care strongly one way or the other. The general consensus was that the “ragging” or “introductions” should be humane and more fun, and not degrading or threatening. The 1961 batch of almost 100 students was housed in several rented houses in city of Kanpur and the Leather Institute hostel, so it was difficult for the anti-ragging crowd led by fellow student Nahar Singh to monitor and control the pro-ragging guys. I am sure that much of the ragging introductions got out of hand and the two camps also came to blows with each other.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part II)]
+_____________________________________________________________________________________________________________________
+
+Final installment can be found here.
+
+=== How to become a faculty member? ===
+Source: https://voxiitk.com/how-to-become-a-faculty-member/
+Date: 2014-10-06
+
+Cheshire Cat was a humour publication in IIT Kanpur, launched in 1976 by a bunch of comic journalism enthusiasts, led by Mahadevan Ramesh. Some of the people who have been associated with the Cheshire Cat in the past include – Deepak Khanna, Mahadevan Ramesh, K. S. Balaji, David Thomas, P. R. Reddy, M. Vedhanayagam, K. Surinder Lal, Ajai Banerjee, A. P. Mukherjee, Satish Kaul, Sunil Gupta, Girish Pande and Probir D Satish Kaul, Sunil Gupta, Girish Pande and Probir Dutt.
+
+The content was a satirical take on the happenings in the campus. The publication was hugely successful and was well received by faculty and student community alike. With this series, we hope to archive some of the finest articles of Cheshire Cat and introduce the campus community to the IITK of not-so-distant past.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > How to become a faculty member?]
+The road to a room in the faculty building is rough, rocky and tortuous. To reach there, it takes much more than a ‘high second class and a high standard of published work’, which is what the ads ask for. To be a successful, satisfied faculty member, you must master more than a few tricks. So, for those outside the Great Wall who have fixed their eyes on a coveted cubby-hole in that six storey, should I say brick building. And for those already there, who wish to climb the well spaced rungs of the ladder of hierarchy, here are a few helpful hints from Cheshire Cat.
+
+It helps, of course, to change your name: to Rao (with at least four initials). Failing this, Gupta or Sharma will do fine. Having crossed this first, rather easy hurdle in the Grand Faculty Steeplechase you can proceed.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > How to become a faculty member?]
+First your speech. A nasal twang is a must. You can choose between a correct Bostonian accent and the drawl of the Deep South. Smoke a pipe, a bidi or chew gum, Never, set a bad example for impressionable students by smoking cigarettes.
+
+Collect a set of sick jokes (definition; a joke is sick when other faculty members consider it funny) and use them year after year on your helpless students. A laugh is almost guaranteed. You may have trouble with some of the PGs, who can’t recognise a sick joke (leave alone a joke) when they hear one.
+
+You must cultivate a taste for the finer things in life. (Preferably classical music, even though it gets on your nerves) Be seen at every cultural program. If you keep at it, you’ may even be asked to appear on IIT-TV.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > How to become a faculty member?]
+Join the relevant regional society. If none exists, start one. Coming back to the classroom, you must master the art of giving references – especially in foreign languages (but be alert for the person who corrects your German pronunciation). You needn’t bother about giving the correct page number, since nobody reads anyway. You must learn to give surprise ‘kooeejjes’ say every Monday.
+
+Then, there are a few subtle touches which never fail to impress the uninitiated. You must, in the course of your lectures, slip in the phrase ‘Back home in the US’. In problems involving money, always use the word ‘dollars’ instead of ‘rupees’. This must he done without batting an eyelid, otherwise, they’ll see through you. There are some on-the-spot improvisations. Before you use a piece of chalk, make sure to break it in two and throw half of it away. Also, when lecturing in L7 use the mike. This is not only for effective communication but when you get stuck at a point you can shout ‘coooo’ into it, in a shrill voice and people will mistake it for amplifier troubles. Thus escape the ordeal.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > How to become a faculty member?]
+Mark your etiquette. Refuse to recognise your students outside the class. Also, when an assistant professor meets an associate professor you should know who wishes first.
+
+One last magic hint – never be in your room when someone wants to meet you.
+
+Best of luck and hope you rise to be an H.O.D.!
+
+=== Interview with Prof. Anupam Saxena ===
+Source: https://voxiitk.com/interview-with-prof-anupam-saxena/
+Date: 2014-10-07
+
+Equipped with a disarming smile and a self assured gait, he has an irresistible charm. An absolute favourite with his students, he connects to them instantly with his youthful energy and dynamism. A master of all trades, he steals the show wherever he goes. Be it playing a game of badminton or singing a Kishore Kumar number, he does it with equal finesse. An artist par excellence, he augmented my interest in art through the TA101 course I took under him last semester. With his firm authority on the subject matter and masterful delivery, he manages to hold even a packed L7 in rapt attention. Debonair and suave,à la Bond, the name’s Saxena, Anupam Saxena.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+(I enter into his office with a certain amount of hesitation, it being my first interview as an interviewer. He asks me to take a seat and offers me tea which I politely refuse. Sensing my nervousness, he asks me to put down my bag and sit back comfortably. By this time my nervousness has diffused to a great extent. I take a look around his office room. Decorated tastefully, his room is minimalistic yet aesthetically appealing. Averse to any kind of publicity, he says he believes only in work. He takes a look at my Questionnaire and finds the questions interesting. Then he lets me take a look at some of his sketches. I am left spellbound. There is one particular sketch of Amitabh Bachchan, which is still lingering in my mind. I tell him I am into sketching and show him the only sketch I had with me. He is very impressed. Having further gained confidence, I set off to a great start.)
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+Excerpts from my tête-à-tête with him.
+
+You are a professor by choice. You had once told in our TA101 class that in your final year at IITB, you were at crossroads, not knowing what to do and finally after long introspection you chose to teach? What exactly was going on in your mind?
+
+I like academics, I like problem solving. I do not like bosses, which does not at all mean bosses are bad.  Just that for me, working in a private/public firm was ruled out. I didn’t really know what to pursue as a career option till my final year. My father is a researcher, my mother is a teacher. Those aspects were in my mind! It was Professor Vinay Kripal, a faculty member with the HSS department at IIT B with whom I was taking a course on Communication Skills in my final year, who, I believe, changed my course of life! She listened to me very patiently and suggested I did a SWOT (Strength Weakness Opportunity threats) analysis. Putting it simply, I listed down the bunch of traits (my likings – things that make me happy) on the left column and a bunch of job options on the right.  Then, I did match making  — faculty position emerged as a top option which I could relate to very well. I was so impressed with Professors who taught me then – Profs. Seshu, Maiti, Chinchalkar, Gaitonde, Amarnath and many others. I wanted to be free, to be my own boss. I wanted to pursue what I liked, what my interests were (and are). I wanted to be free yet be totally accountable to myself!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+2.20 years hence, I am sure you must be proud of your decision.
+
+Has it been 20 years! No kidding (laughs). I still feel I am a student. Well, actually I am a student, because I am still learning. I will always keep learning, I guess. 20 years down the line, not a bad choice, not a bad choice at all. I do whatever I had envisaged 20 years ago.
+
+3.How does it feel to be closely in contact with the next generation?
+
+Fantastic! Fantabulous! – ‘Fun’ tabulous!  They say it’s generation gap, but I don’t know, I can relate very well with students. I reckon, and my colleagues will probably agree with me, that professors stay young because they get a chance to interact with a lot of young minds, over and over again!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+4.Any particular incident that has stood out in all these years of association with IITK.
+
+There are many. I would rather talk about only positive instances —  I am super proud that IIT Kanpur has won the General Championship this year for the first time. I am a B. Tech from IIT Bombay. During my time there, we were sports crazy people. Here in IITK, we have a lot of faculty colleagues who are into serious (competitive) sports – in cricket, badminton, table tennis, basket ball, volley ball, squash and many others. All of us actually wanted the IIT Kanpur student contingent to win the General Championship, as much as the students wanted themselves. This has been our(faculty, students and coaches inclusive) collective dream! Most of us sweated for many years and thanks to the hard work and good wishes of all that we finally have the General Championship Trophy – one of the many highlights of my stay over here. I feel tremendously happy about it. The challenge is now to retain it! A hidden lesson, at least for me – Sports teaches us to not give up – I like the message Rocky Balboa gives – it is not about winning but the ability to stand up every time one is down. And of course, one has to win right!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+5. You have been on both sides of the table, as a student and as a professor. How does it feel?
+
+I wish the table wasn’t there. I still feel I am a student and learning. Ya so the table, the way I see it, isn’t there at all.
+
+6. How do you feel the IIT system has changed over the years?
+
+Quite a difficult question for me to answer! I feel (my colleagues may agree or disagree) that the IIT system was for long quite focussed on teaching as it was perhaps expected to be. The academic curricula developed over the years have led the entire system to offer a fantastic undergraduate programme we are all proud of. Our postgraduate programmes are now equally good and at par with many leading universities worldwide. The efficacy of our training is exemplified by the alumni from different IITs doing so well worldwide. And that is something as a faculty member of the IIT system, and IIT Kanpur in particular, I am very proud of. I only wish the quality of our training/teaching is not compromised. You know, OLD is GOLD. Of course research is very important, and so are many other activities. The overall development of our students is also essential and that is something we focus on implicitly. There are plethora of opportunities in fields other than academics (e.g., Arts, Sports, Adventures, Dance, Music) we provide that students can pursue outside their regular classes. Students have complete freedom to pick (m)any activity(ies). I know many of my colleagues, who themselves are IIT alumni, have become fantastic musicians. I remember my conversation with Somesh Mishra (a flutist) a few months ago. He goes like Sir, what I realize now is how we actually got trained. We thought we were learning only the material provided to us through the courses. Years down the line, I realised something. If I want to learn anything new now, I can do so much faster and with so much ease. That’s the actual training the IIT System provides. Well, I was in complete agreementwith him. I can still sense this attribute of the IIT system to be present. The system now is in transition – and a lot is expected from it. You know, there is this concept of inner beauty and outer beauty. It is the inner self (already so beautiful) in the system we need to focus on, because if we do that the outer self will automatically be beautiful. We should not make compromises and should not let go of the good things that have served us so well over many years.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+7. You must have been an all rounder in your college days at IITB. What were the various activities you were involved in?
+
+Well, I used to play table tennis, cricket and soccer. I still remember getting injured when I was playing barefoot in my hostel’s quad and my left foot got pierced through by a piece of glass. I used to sing, I had sung for Surbahaar for a couple of years. In my final year I had participated in Mood Indigo – I did a bit of Arts as well. (I ask him about his painting ‘The Corridor, 1995’, he shows it to me and explains it enthusiastically. It is a single point perspective of a corridor, 4 people sitting in the corridor, he could be spotted among them. Medium used is spray water-color. I almost took it for a photograph.)
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+8.You had also quipped once that you have been associated with nearly all IITs. Could you elaborate on that.
+
+Absolutely! My father did his Phd from IIT Kharagpur. I did my B.Tech from IIT Bombay. My former Phd advisor, and my mentor for life, Prof. G. K. Ananthasuresh, he is a B.Tech from IIT Madras. And I am teaching at IIT Kanpur. If my 12 year old goes to IIT Delhi, the affiliation (with older IITs) will be complete. Naah! there are many new IITs now in place, I am very positive that around that time,  they will come at par, and hopefully the overall IIT system will make our country proud.
+
+9.Age does not seem to have caught up with you. You still have that childlike enthusiasm and vitality. What keeps you motivated?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+Perhaps my profession because I like to interact with my students. As I said before, one advantage of being a faculty member is to always stay in touch with young minds. And of course in my personal opinion, it’s a nice idea for one to have that child within. You need to play every now and then – you need to have fun. And why not? You should always have fun. You should not pretend to be an adult everytime. You should unleash that childlike aura as often as possible, if not always, and enjoy to the fullest without really worrying about what others think. Prof. R. Balasubramanium, a great friend and colleague, a multi-faceted personality, a fantastic human being and my personal role model, was miles ahead. We have played together on the field and stage so many times.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+10 . You are actively involved in a lot of things, academic and non-academic. How do you find time for your passions?
+
+I don’t worry about time at all. Frankly speaking, I don’t plan anything; I just do it, impulsively. If your heart tells you to pursue something, just go ahead and pursue. That’s what I believe in and try to practice. I fail so many times but I still keep trying.
+
+11. You have a rather peculiar habit of not carrying a cellphone around. A lot of people are curious to know the reason.
+
+Unfortunately that is not true anymore. I am now affiliated with the Office of International Relations and I have to carry a cellphone. You know it’s very funny, the way I feel. These gadgets, this technology has been invented to facilitate communication. But what’s happening (and I am not sure if this is only my observation or of others as well) is that people are not communicating face to face these days. Looks like this has become a thing of the past! People are now shying away from communicating conventionally, rather they are getting addicted (possibly heavily) to these gadgets. They don’t find the need to come together and have, say, a bulla session or Cak session, what we used to have in IIT Bombay. We had a group of 13 members, wingmates, of different backgrounds, of all batches and even PG students. Often I used to find myself in a common room, a very large room at the end of our wing which could accommodate all 13 people in there. We used to Cak away on all topics under the sky  till 2 o’clock or 3 o’clock in the morning. That thing seems missing, or I could be wrong. If I am not, you know, having these gadgets is fine so long as one does not let go of the conventional modes of communication.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+12.You never felt the need to carry a cellphone?
+
+No, absolutely  not! I can already sense some sort of dependence in the question. But I have a different, rather personal reason. If I start using something, I become totally addicted to that, so I try to refrain from using such gadgets. I know I am totally addicted to emails, and to something else you folks know well (Of course we do!).
+
+13.Word is around that you had earned the nickname ‘Bond’ at IITB. How did it come about?
+
+It’s not how it seems. Back then, we used to have a senior Hemal Naik, he was in Chemical engineering, and was in my anti wing. In my first or second year, I don’t remember quite well, every morning when I used to walk along the corridor of my wing, I often used to spot him. He used to see me walk towards him, and used to go like, “My name is Bond”, followed by a very long pause, and then “Black Bond”. Well, thanks to my complexion! That’s how it started but sooner or later ‘Black’ faded away and what remained was ‘Bond’. It’s definitely not related to the 007. By the way, we have another colleague bearing the nick name Bond, a graduate from IIT KGP.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+14.Words you live by.
+
+Contentment (Anyone who has done the TA101 course under him last semester will be able to relate to it). That is the most important word everybody lives by. Everybody wants to be happy, everybody wants to be content. Some think they would get it by making a lot of money, some want to be celebrities, some want to make a difference, some go for social work etc. etc. Whatever it is, everybody wants to be satisfied and happy every moment.
+
+15. Any final message for the student community.
+
+I will share one thing that one of your seniors, Manish Dwivedi, told me way back in 2002-2003 or around that time: Whatever one does, one should do it well – irrespective of whether it is academics, sports, or any interest or any hobby one wants to pursue. That makes a lot of sense because if one is not putting her/his own best, it’s a waste of time and effort. If one puts in 100% in the task one is engaged in, either by choice or (hopefully not) by force, he/she should do it as best as possible to extract maximum possible satisfaction. I still keep this mental note to myself; Whatever you do, do it well (give your 100%), otherwise there is no point.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Interview with Prof. Anupam Saxena]
+(With this he signs off but not before getting into a philosophical mood. He shares with me his insights on life in general and tells me about an article he has written which delves into the deepest recesses of his mind. After this profound discussion, I leave, absolutely mesmerised.)
+
+–Samanwita Samal
+
+=== In Conversation with Dhanraj Pillay ===
+Source: https://voxiitk.com/in-conversation-with-dhanraj-pillay/
+Date: 2014-10-08
+
+Having represented India for over 16 years in more than 300 international matches, Dhanraj Pillay is the name which is synonymous with Indian Hockey. He led India to the golden victories in the 1998 Asian Games and 2003 Asia Cup. Vox Populi and Insight360 got the opportunity to meet this living legend on the final day of Udghosh, the annual sports festival of IIT Kanpur, though briefly. He talked about various things including hockey, Incheon Asian Games and a couple of talismans for the youth. Here is the full interview, straight from the horse’s mouth.
+
+VP:Everyone who knows about Hockey in India knows you. After being synonymous with Hockey for all these years, what has been the most prized moment of your career?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In Conversation with Dhanraj Pillay]
+DP: I think the most memorable moment of my career was my debut, the day when my coach offered me the Indian jersey for the first time at the Allwyn Asia Cup, 1989. It was the first time when I got the feeling of accomplishment. Again, when I was playing in the SAF Games, 1995, Chennai, we were up against Pakistan in the finals. We defeated them by 5-2 and I scored 3 goals whereas Mukesh Kumar scored 2. I think this was the turning point of my career as people started to know me thereafter. Before this, Mohammed Shahid( my idol) and Pargat Singh were the only reknowned players. Indian Hockey players were declared national heroes. The whole team was felicitated by Jayalalitha, the then Chief Minister of Tamil Nadu. There was no turning back after this achievement.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In Conversation with Dhanraj Pillay]
+VP: India has made it to the semi-finals of the Asian Games at Incheon. The last time we won the Gold was under your captaincy in 1998. Can Indian Hockey team end its 16 year long draught of an Asian Games Gold this time?
+
+DP:I sincerely wish that all the previous records are broken by the current Hockey squad.  I will be elated to see the Hockey team winning the Gold under the leadership of Sardara Singh. But I must admit that the level of Hockey has gone down in recent years and a prime reason for it is the foreign coaches. It is a general belief that foreign coaches are the best but in my opinion Indian coaches are equally good. Looking back at the performance of the Indian Hockey team, you can easily witness a constant decline in the last decade. We lost two finals in the Commonwealth Games. In 2010, Delhi Commonwealth Games, we lost to Australia by 8 goals. In the recent Commonwealth Games at Glasgow, we were again defeated by Australia, 4-0,  in the finals. It hurts me when we face such huge debacles.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In Conversation with Dhanraj Pillay]
+VP: How has been your experience at Udghosh?
+
+DP: Udghosh’14 has done a remarkable job, both the student and faculties. The infrastructure of IIT Kanpur is one of the best in the nation. The stay facilities are excellent. I would also like to mention  Mr. Santosh Upadhyay and Mr. Abhishek Pandey. Mr. Santosh has been with me for the last 10-12 years and has had a great influence on sports. If you want to know any player in Kanpur, one should go to him as he knows all of them. Abhishek Pandey has been a fellow international athlete.
+
+VP: A talisman for all budding sportspersons and others out there.
+
+DP: Whatever you do, do it with passion and hard-work and you will never fail in life. Success is directly proportional to the amount of hard-work you put in. My mother has been an instrumental figure behind this philosophy. I usually say: Do it with all your heart, whatever the task is! Let me put it this way, I had never thought to represent India one day. My brother, who had played some matches for the national side, inspired me to work hard. He told me that it is very easy to break into the team but sustenance is very difficult. For example, getting into IIT Kanpur is easier than sustaining oneself for four years. I think that it is my brother whose inspiration culminated in the hard work and subsequently my position in the team. So, to be precise, do what you like. If you do not like something, do not do it.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In Conversation with Dhanraj Pillay]
+(With this we put an end to the question spree and asked him for a photograph. Even after a two hour long felicitation function, Dhanraj Pillay happily agreed for the snaps and also went on to chat with the enthusiasts outside his room for a considerable amount of time.)
+
+Written by Bhanu Pratap Singh Tanwar
+
+=== My Internship Experience: TinyOwl, Mumbai ===
+Source: https://voxiitk.com/my-internship-experience-tinyowl/
+Date: 2014-10-13
+
+I, Bhanu Pratap Singh Tanwar, BPST, to be precise, worked as a Marketing Executive in TinyOwl during the summers of 2014. With two undergraduate years beneath my wings, I was the tiniest owl at TinyOwl. Here is an abridged version of my experience of working in a uber-cool start-up.
+
+What is TinyOwl?
+
+Hoot. Hoot. TinyOwl brings you food!
+
+TinyOwl, founded by IITB grads, is a mobile application which digitizes the menu of restaurants around, enabling you to order food from your smartphone, sans those long calls to the restaurant. For example, you can choose whether to add jalapenos, onion sauce, mayonnaise in your sub or not, without making the pilgrimage to the nearest Subway. Tap to order and get the food delivered at your doorstep.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: TinyOwl, Mumbai]
+TinyOwl is divided in five divisions: Tech, Marketing, Business Development (which again is an umbrella department for categorisation, logistics and operations) and Customer Care.
+
+Desk at TinyOwl, Floral Deck Plaza
+How did I get the internship?
+
+TinyOwl called for applications via SPO. From the numerous profiles that were listed, I applied for Content Writing and reluctantly for Marketing. I was shortlisted for Marketing profile (luck!) after which there was a Skype interview.
+
+What is Marketing?
+
+Marketing is the process of communicating the value of a product or service to customers, for the purpose of selling that product or service. The aim was simple, devise new methods and strategies to grab popular attention! (and obviously convert this attention into user base).
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: TinyOwl, Mumbai]
+No Caption Required!
+What did we do at TinyOwl?
+
+TinyOwl, in its infancy, used to operate in Powai. Thus, we focussed on on-field/office campaigns on weekends and brochure distribution during weekdays.  We used to analyse effectiveness of different campaigns and modify future strategies accordingly.
+
+As the field of flight started growing, the successful campaigns were replicated across new locations. When my internship was about to end, we had spread our operations to more than half of Mumbai.
+
+The team also looked after the popularity of the Owl via brochures and fliers. The content creation was done by the Marketing team; creatives as well as the text. As the operations expanded, the focus increased on social media platforms and you can see the cool illustrations synonymous with TinyOwl these days.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: TinyOwl, Mumbai]
+‘Customer is King’, is taken pretty seriously here and feedback collection used to be the last task before calling it a day. After roaming around in apartments of Hiranadani and Nahar, in a short span of time, I became well-versed with the real estate prices.
+
+My ‘tryst’ with umbrellas ended here!
+Simply put, the parent task was “to get things done”. I remember the trips to South Bombay , to seal the deal for the umbrellas for the referral campaign, the cancellation of order by the vendor and placing the order with another vendor on the penultimate day of internship. Similarly, we organised a very low-cost “Chai” campaign. I remember organising a Chai campaign for Social Scribblers at three times the cost. Apart from working smart, I learnt how to work cheap!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: TinyOwl, Mumbai]
+The only thing which gave me nightmares was thinking one-liners. Something like, ‘Hoot Hoot! TinyOwl fetches you delicious food’. Meh.
+
+How are the other Owls?
+
+Awesome. The founder used to flaunt his IPhO tee in the office: Goyal, a silver medallist. Someone made a switch to entrepreneurship after Investment Banking: Shikhar, a former DB intern. Then there was this epic duo of Less is More, Manish and Avik. Shahbaz is the cost cutting expert,  who helped to buy this domain at half the price.
+
+The Marketing Team.
+Oh….wait… Parul is also awesome! (TIP: Never forget to keep the HR in good humour!!)
+
+Internship Experience in one line?
+
+‘Being Street Smart 101’
+
+Mumbai and random musings!
+
+Almost everyone encounters ‘frust’ moments during internships. I think they are a part and parcel of life which are easily diluted by the joy of accomplishing the task at hand. So, Keep Calm. The start-up enthusiasts should definitely give a shot to internships in start-ups to gain hands-on experience because you can take immense initiatives and work in a close-knit environment.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: TinyOwl, Mumbai]
+All in all, Mumbai’14 was bliss, especially how Vox Populi happened. That’s another chapter about which I will write at length someday.  The hospitality of Mumbai was remarkable. The food. Bus No. AS422. Local. H13’s night canteen. Theobroma. Subway. 322/9-IITB.
+
+Kitab Khana. An awesome bookstore with a bakery inside.
+Written by Bhanu Pratap Singh Tanwar
+
+If you want to share your internship experience with Vox Populi, send your piece to contact@voxiitk.com
+
+=== Vignettes of History: Abhay Bhushan reminisces (Part III) ===
+Source: https://voxiitk.com/vignettes-of-history-abhay-bhushan-reminisces-part-iii/
+Date: 2014-10-14
+
+The third and final installment of the reminiscences of Abhay Bhushan, IIT Kanpur’s first graduate, is here! You can have a look at the first and second parts of this fascinating tale before moving on.
+
+My Undergraduate Years at IIT Kanpur – Part III
+
+Abhay K. Bhushan, BT EE 1965, Roll No. 60001
+
+At the start of our third year, the Kanpur Indo American Program (KIAP) had started with Prof. Norman Dahl from MIT and Robert Zimmerman from Ohio State University coming from the U.S. I specially remember Prof Zimmerman, as he had brought with him a Polaroid camera, and it was marvelous to see instant photography for the first time, pictures appearing right before our eyes just after they were taken. The system of education at IITK which was already rapidly changing in the second year got a bigger boost with the introduction of fresh ideas from the American faculty.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part III)]
+Indian and American professors from some of the best universities in the U.S. including MIT, Princeton and UC Berkeley, came to IITK starting in 1962 with the start of Kanpur Indo-American Program (KIAP). These men inspired us with their can-do enterprising spirit. We had many firsts, including the first digital computer, the first airfield, and many state of the art labs. I also remember a sign on Professor Charles Dryden’s desk, “When your grades are low and rewards are few, remember the big oak was once a nut like you.” These intellectual giants, both Indian and American, inspired us with their vision for the future, their passion for excellence, and their relentless action to make it all happen. These eminent men went on to change the face of education in India, and through example showed us the importance of working with our hands as well as our brains, and treating every one with dignity and respect, especially the poor and the illiterate people who did manual work. The Indo-US cooperation was so successful, that John Kenneth Galbraith, US Ambassador to India in the 1960’s remarked, “Of all the contributions of the United States to the Indian economic, social and cultural endeavour, the Indian Institute of Technology is perhaps the outstanding case.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part III)]
+Towards the end of our third year at IIT Kanpur, we moved to the new Campus in March of 1963. Not many buildings completed by this time. Only Hall I and Workshop were ready. So our first classes in the new Campus were held in the Workshop. After our summer vacations were over, when we came back in our 4th year, the lecture hall complex was completed, the Computer Center within this complex was being established, and new labs and facilities were coming up. There was also a basketball court, and Prof. Holt Ashley Aeronautics professor from MIT had brought several American basketballs with him. Holt, as Prof Ashley liked to be called was am imposing personality, about 6 feet 4 inches tall, but very warm and friendly. He gave us some basketball lessons and soon we had a team practicing and playing every day. We also played football (soccer), hockey, cricket, volleyball and tennis. During our Annual Sports Day, we had inter-year competition, and in December 1964, we went to our very first Inter-IIT sports meet at IIT Kharagpur.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part III)]
+As we were now some distance from the City of Kanpur, it was not convenient to go to see a movie in the city of Kanpur, so we formed a film society, and brought films to be screened within the campus. We also invited guest artists and musicians, holding the event in the quadrangle of Hall 1. We also had our annual cultural day with plays and variety show, which was always a hit. As there were no girl students, the boys dressed up as girls for the plays, and they made quite a hit with the other students! The only girl around campus of high school age was Kavery Muthana, who happened to be the Deputy Director’s daughter, so practically off-limits for us. She later graduated from IIT Kapur.
+
+During our summer vacations, we would go for all-India tours to visit industry and for sightseeing. These tours, organized by departments, were quite educational and fun and led to all of us bonding together more. We also had NCC camps during our summer vacations, and these were fun too.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Vignettes of History: Abhay Bhushan reminisces (Part III)]
+The Student Gymkhana was also formed during the start of our fourth year, with the Deputy Director Dr. M. S. Muthana as its first President and Ram Jag Prasad, our class mate as its first Vice-President. At that time the President was a faculty member, and the Vice-President a student.
+
+Then came July of 1964, and we were in our final year. We started the student guide program with the final year students mentoring the first year students. There were more American professors, new equipment and new labs, and the computer center was flourishing. The airfield was also ready with Prof. Ashley’s guidance, and a gliding club was started with preference given to Aeronautical Engineering students.
+
+Soon it was spring of 1965 and it was time to graduate. Jobs were scarce and Brand IIT was not yet established. Very few of us had any job offers by the time we graduated. Eventually all of us found jobs or went for higher studies, mostly abroad to US and Canada. I was fortunate to have been accepted at M.I.T. and given a Research Assistantship. Our education at IITK had prepared us well for the challenges at M.I.T. and the semester at Bell Labs in 1966, working on the world’s first color picture phone for my masters’ thesis. In 1969 at M.I.T., the ARPAnet, the forerunner of the Internet was starting, and I was fortunate enough to get involved and connected M.I.T.’s Multics system to the Net (Node #4), designing and building the hardware myself. Being part of the very first Network Working Group with Vint Cerf, I chaired the File Transfer Protocol Working Group, and ended up authoring the FTP and early versions of the Email standards. What is important in life, which was reinforced at IITK, is to show up and take the initiative. Success is often being in the right place at the right time. However, one has to seize the opportunities both visible and latent.
+
+=== In conversation with Director: Student Faculty Interaction ===
+Source: https://voxiitk.com/in-conversation-with-director-student-faculty-interaction/
+Date: 2014-10-20
+
+Rishabh Jain and Anushank Jain (Inquisitive Wanderers) interviewed Prof. Indranil Manna, Hon’ble Director of IIT Kanpur. The converstaion revolved around the state of Student Faculty Interaction at our campus!
+
+What is the status of Student Faculty interaction in the Campus ?
+
+Director – I personally believe that it should be very good. It has always been one of the major traditions of IIT kanpur to have a very strong student faculty interaction. I believe it should be good even now, but recently I encountered a group of students and it was real shock to me to hear that students find it difficult in some courses with some faculty members, they have very alarming experiences and they feel kind of threatened, inhibited or intidimated to approach the faculty for clarification and compared to that they even clarified that they used to feel at home with their teachers during their school days and that’s how they grew up and after coming here for whatever reasons they feel that teachers are not forthcoming or not very friendly to them. If that is the reality then I am really alarmed and thats a very shocking news to me and we must reverse this track .
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+Should interaction be extended beyond academic walls ?
+
+Director –  See you must realize that today we are dealing with very large classes compared to 20 years ago. Now even I am teaching a class of about 100 students, I have taught for more than 25 years in another IIT, I never had in my discipline more than 25-30 students, so to keep track of every single student I always used to make a roll call so I could remember their first names. That’s no longer possible, so interaction has to go beyond the class and this is how you create bonds and I have many many fond memories of my earlier days when students, beyond classroom, they kind of approached, and thats how we thought of, and created an All India Student Congress which still continues in IIT KGP which was started in 1992-93 and it’s a student congress with undergraduate students. So I have always enjoyed interacting with students beyond classroom also because of my background of affection for physical activities, games and sports. I think it should be true here and it was true when I was a student here at PG level. I remember I wrote almost the entire thesis sitting in the drawing room of my guide, because there was a reason I had completed my entire masters thesis in just 3 days working day and night. We used to go and visit our teachers during Durga Pooja and Diwali and all those occasions. Those are very fond meories and this still continues and I hope this should continue. In other institutes wherever I have served this is a very common tradition. Yes, classroom is a formal atmosphere but interaction must go beyond the classroom .
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+How has interaction level changed with time ?
+
+Director– As I mentioned, class size has grown enormously which is one of the impediments against having a close interaction, but at the same time amenities are much better now, the facilities available are better and certain things have changed over the years. For example, the emphasis on practical work or practical sessions in my opinion has reduced which is a very detrimental thing. In engineering, we must learn from practical experiences, working with our own hands, running the equipments, machines, collecting data and analysing it and so on. So in a group, students should work and then carry out an experiment and then discuss mong themselves. I must say, even  project work beyond normal setup is a very healthy practice, one need not always wait untill the final semester or the final year. One can start working even at an earlier stage and that’s how you learn a subject better and create interest in the subject much better, so beyond classroom, beyond academic activities, in areas where one has particular apetite, this is how one should pursue. It could be anything, it could be writing, it could be organizing an event, it could be games and sports, it could be taking group of students to industrial visit or any kind of activity which allows more interaction.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+What is the status of Student Faculty ratio in the campus
+
+Director – Student to faculty ratio hasn’t really changed much, even though we have grown in terms of students we also have more and more number of faculty members. Infact I possibly would say that student to faculty ratio today is not really anything to be worried about. We need more teachers, not for teaching, but for interaction outside the academic curriculum for project work, for research, for organization of events, for career guidance and various kinds of constructive activities. But yes, we are actually looking for good number of new faculty members. Even beyond regular faculty members we are very keen to hire faculty from industries, from R&D laboratories even faculty from abroad. If someone wishes to come and spend a semester or even a few weeks teaching module, or even without formal teaching interact with a group of students at PG level, we will definitely welcome that, so we are very actively trying to hire faculty from industry and other spheres as well.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+How was your interaction with your Faculty when you were an Undergraduate ?
+
+Director –  Very close and very warm, I mean I remember Prof. KC Gupta coming on a Sunday and working with me to change the big rolls of the carpet. I carried out my Masters in precisely one year, 3 to 4 months at the most, so there was a huge rush and I had to do things very quickly. So that was the kind of interaction and he was already close to retirement, a very senior person. I sat in Professor’s house and wrote my thesis, and corrected it. Those were the days when we did not have word processors, basically you write and then correct, and then again. Not only teachers, even laboratory staff were like very close mentors and I learned a lot of things from them. I must also mention that IIT Kanpur in those days had one of the finest labs and facilities in Materials Research. Of course, we still have very good ones, but I must say, at that time probably we were probably the best institution in terms of research facilities in Materials Department .
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+What is the importance of healthy Student Faculty interaction ?
+
+Director – Basically we must realize one thing that the faculty member exists because of the students and not the the other way round. Teachers are here because the students come here. And learning is a continuous process, I always keep maintaining that it never suddenly starts and suddenly ends. You learn till your last breath, and its a continuous process. And the same thing is true about one’s career and its a long walk and you have many milestones. You learn at every stage, and remember learning is not necessarily by the students alone, teachers while teaching also learn a lot and that’s why these close interactions are absolutely essential. I personally would always urge the students a few things. First of all  I would quote the famous Sanskrit saying, “Shraddhawan lavte kendram” – You have to have a healthy respect. If someone is teaching you, it is purely because of certain circumstances that someone was born earlier than you, studied the courses, and has got experiences before you. So there’s no necessity that the teacher has to be always mentally or intellectually far superior than you. A student can be IQ-wise much superior than the teacher but it is the discipline which is created through this mutual respect which allows the pupil to learn from the teacher. And that has been the tradition of this country and we must maintain that. On the other hand, the teachers have always treated their students as their own children. So that kind of a healthy mutual respect develops. But another very important thing is that whatever your are doing, you must do it to perfection. You may have many many things in front of you, but you have to apply your judgement and be selective and prioritize. So if you are a student, you must consider learning as your first priority and rest of the things should fall. Learning is not necessarily sitting in a classroom, learning occurs in whatever you are doing. The other part is when a teacher is teaching, he should teach to the best of his ability and by teaching I don’t mean only teaching the textbook because for that there are many modules available. But teaching has to be supplemented with new knowledge which comes through research. So for that, this interaction is very important. We all have certain duties to perform in the society and we must not stay away from that. So we must first fulfill our primary duty and rest of the things should follow. I would also urge all my young friends in the campus that they must undertake a decent amount of physical activity and should not be confined only within a room and be hooked to a computer or laptop. You must indulge in sporting activities so that your physical agility comes to a required level and the level of your skill and various other things and you basically grow your muscles and your tissues. And beyond a certain age they don’t grow, so at this age I would say a healthy diet and healthy physical activity both are important.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > In conversation with Director: Student Faculty Interaction]
+Special Note to the Campus Community
+
+I did (that) already, and in fact ever since I joined, I don’t know if you are aware, I met and pressed research scholars, PG students, UG students, Counselling Service, Volunteers; of course I met all the set of faculty members and I would like to repeat that, I got very valuable input and I try to implement some of them. No student should ever be able to say that I wanted to meet Prof. Manna and he did not give me time, so I am always available and always ready to meet them. But I can’t alone solve all the problems, so that’s why we have created certain bodies and we must remember that we have the Senate, the supreme academic authority of the institute, we have certain sets of rules, we have certain sets of traditions and so on. So we can’t deviate too far away from that but I think there is enough room for improvement and I personally think that IIT Kanpur Academic Senate should devote more time in understanding the academic needs of the students and how to address them rather than spending more time on rules and regulations, terminations, failures. And infact, I find it very strange that we repeatedly allow someone to get terminated and then he reappeals several times. Although I have often been told that our failure rate is very low but in my opinion there is no necessity that somebody has to fail. If we can have zero failure I think the country would prefer that kind of a system, without compromising the standards. Since you have flagged it off I certainly would take very serious note of it and would like to collect more information by direct interaction with the students and faculty members, may be the wardens and all. You possibly are aware that to make life more comfortable and homely, the institute administration has introduced a new layer called hall guardians. Essentially they are faculty spouses. We have just made a beginning, we picked only a few who would be spending very flexible hours in the hostels without any administrative responsibility, only to look after the students. You know our spouses anyway know how to raise children. That’s exactly what they are doing, so nobody can be better than them to take care of these young 18-19 year olds who arrive here away from their home. So Hall Guardians will take care of the hall amenities, safety, food quality, hygiene, many other issues, without having any administrative power though. So they are more like a motherly care for the students. We also have introduced a new layer called faculty advisors, faculty members who volunteered to remain attached to a batch who are joining this year for the next 3-4 years until they finish their course. We are talking only about the UG, not PG since they are supposed to be more mature. So the faculty advisors actually advice the students, in terms of what kind of courses to take, if one is not doing well what course he should take, what courses he should drop, how can one plan the future so that without losing a year or a semester, one can clear all the backlogs and get going. Faculty advisors give them advice and tips as to what kind of extra curriculars [sic] he should take or simply if you have any problem in terms of communication or having difficulty in a particular subject. Many of them do not know the rules properly or what kind of flexibility this IIT offers in terms of major, minor, dual degree and so on. We also have an office called ombudsperson who can actually take care of any kind of conflicts that may arise between UG students and a particular instructor. So we have introduced multiple layers of interaction who can act as mentors or guardians. The whole idea is to improve the faculty student interaction so that all of us can live in an ambience which will be more like a family and which we could retain in our memory and recollect fondly forever.
+
+=== The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet 2014 ===
+Source: https://voxiitk.com/the-comeback-kings-iitk-shines-at-inter-iit-aqauatics-meet-2014/
+Date: 2014-10-21
+
+I would like to present not an article, but a story. Once upon a time, there was a team. It happened to be one of the most under-performing teams in the Inter-IITs. Exiting the league stages was a norm. The team could hardly score a goal in the tournament. And then sometime in 2004 came a visionary captain in Avik Bhandari, who along with Vadi sir converted this team into a family.  A culture of belongingness, discipline and integrity was ushered in and petty politics on the lines of seniority and halls of residence abolished. The result – 7 consecutive podium finishes between 2005 and 2011. It was this period that produced legends like Ronny, Kush, DOPA, Pappu, Anda, Murgi, Pulkit, Anurag (the list is non-exhaustive) and transformed Kanpur’s aquatics team into one of the most successful sporting units in the history of Inter-IITs.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Fast-forward to 2014. Aquatics team had failed to secure a podium finish in the previous two editions. It was heart-breaking but the culture imbibed years back kept the team strong. Those two trophy-less seasons only brought the team closer and hungrier for success. And 2014 also happened to be a watershed year of sorts. A good portion of first-choice eleven would be playing their final Inter-IIT. And no stone was left unturned this time around. A radically new strategy was adopted and players were defragmented from specialized to fluidic roles. In other words, focus of each and every team member was not to go in as a 2nd attack or centre defence, rather just as a water-polo player. So now you know the mind-set with which our team left for 50th Inter-IIT meet conducted by IIT Bombay.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+The first league match was against the home team. The swimming pool at IIT Bombay has a capacity to accommodate over 700 spectators and obviously, it was filled with IITB supporters. Undeterred by the cacophony of the home crowd, the visitors did what they knew best – smashing goals. And they did it in style. At the end of four quarters, an uneasy silence prevailed in the stands and the final score line read 7-2 in favour of the visiting team! Kanpur contingent ended Day 1 with silver in 400m freestyle (Parth Tripathi aka Genda), bronze in 50m breaststroke (Harshita Varshney) and another bronze in 4*100m freestyle (Genda, Kasauti, Vasu & Pikachu).
+
+Day 2 started on an equally positive note. In the morning slot, there was the water-polo match against Delhi. Our team resumed the goal scoring streak they had displayed against Bombay the previous evening and smashed 13 powerful goals. Delhi had no answer to such a violent attack and succumbed to a 1-13 defeat. With this win, Kanpur qualified for semi-finals irrespective to of result of the evening match against Kharagpur. Also, the 12 goal difference remained the highest in the tournament. This was followed by gold medal in 200m freestyle for our very own Genda. Next we faced Kharagpur in the evening match. Kharagpur had finished as second runner-ups in the last edition and according to expectations, displayed considerable improvement in the tournament. What followed was a tightly contested match. Though our team fought bravely, final result was 4-5 in their favour.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Day 3 was a crucial day in our quest for gold. We faced the mighty Madras, champions of last edition in the semi-finals. Both sides weren’t looking to settle for nothing less than a win. Each team matched other team’s move; every goal was answered with a goal. There was little to differentiate the two teams and with just 2 minutes left on the clock scores were tied at 8-8. Kanpur held strongly to its fort and were just waiting for the Maddus to commit an error. And sure they did. In what proved to be mistake of the tournament, Madras team sent in a player who had been cap-rolled (equivalent to football’s red card) for the match. Immediately, a penalty was awarded to us. Parth, our most experienced and potent attacker made the most of this opportunity and converted the penalty in an intense-pressure situation. Defence did its job to perfection and match ended with a score line of 9-8. We were a win away from gold! But the day was not over yet. Kanpur’s torpedo, Parth was to compete in 50m freestyle and 200m individual medley. And the giant delivered with a bang! He not only bagged gold in 50m freestyle but also equalled the Inter-IIT record of 27.4 seconds (which incidentally, was set by our alumni Prateek Gupta aka Pappu.) To sweeten the day, he also added silver medal in the 200m individual medley.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Fourth day dawns and we faced our old nemesis Kharagpur in the final. Match started on a very spirited note from both the ends. But in the first quarter itself, things got bloody. Pranjal Gupta aka Kasauti while defending against Aman Kharb was hit just above his right eye. He had to be rushed to the Health Centre. Undoubtedly the most stupendous defender of our team was out of the final. Things didn’t turn up well for Kanpur from then. Just before the last quarter, we were trailing 2-5 to Kharagpur. No one admitted at that time but many confessed later that moral was low. People had started losing hope and just then Mayura suggested to go in with double centre attack. With nothing to lose, we decided to play all out aggressive. Early in the final quarter and GOAL! The strategy was working and team started aiming for what others would have considered impossible. The team played out of their skin, fought for every inch and banged two more goals in their post. Kanpur had just pulled off mother of all comebacks! We were very much in contention and hearing this news, Kasauti fled the Health Centre to be there with the team. A penalty shoot-out was to decide the final outcome of the match. Match was on a cliff-hanger and it seemed like an eternity before the referee finally signalled the start of penalty shoot-out.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Kgp takes the first shoot. And MoGo (Captain Mohit Goenka) saves! Score: 0-0
+
+MaMe (Manish Mehta) goes to take the first shoot from our side. Ball pierces the net like a bullet! GOAL! Score: 1-0
+
+Kgp comes in for their second shoot. And MoGo save again! The captain’s breathing fire! Score: 1-0
+
+Mistry boy (Zubin) takes up position for our second shoot. He exudes raw power and before the Kgp goalie could even react, it’s a GOAL! Score: 2-0
+
+Our rivals come in for their third shoot. And MoGo overcomes the battle of nerves to save again! The Kgp camp can’t believe what has struck them. Score: 2-0
+
+Superstar Parth proceeds to take third shoot from our side. He finishes it perfectly! How poetic is it for Parth to finish it for Kanpur in his last Inter-IIT! His last goal brings in the gold!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Penalty shoot-out and celebration video
+
+Kanpur camp was on an ecstasy. In addition to the water-polo gold, we also have a bronze in swimming. No words can describe the feeling that followed. All those laps, all those drills, all those cramps seemed like a small price to pay in lieu of that feeling. We pulled, we kicked, and we bled for a beautiful dream. The trophy has come home after a hiatus of two years and this sets the perfect preclude to retaining the general championship during the main meet. #JeetegaKanpur
+
+Some heart-warming moments:
+
+Kanpur’s Aquatics Team has 8 water-polo podium finishes in the last decade. These include 4 Golds, 3 Silvers and 1 Bronze. The team scored a homerun (perfect 20 points) in 2009 Kanpur meet.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Barely a month before 2014 Aquatics meet, Parth Tripathi suffered from a LCL tear in his knee. In other words, his ligament couldn’t hold his bone from popping out of knee socket. Additionally, he suffered from a Baker’s cyst behind the same knee. Braving all odds, he gave a rocking performance, match after match; and broke records, race after race. Parth passes out this year with a career tally of 11 gold, 9 silver and 5 bronze medals. You sir, leave behind a legacy which will serve as an inspiration for future batches. Respect!
+
+MaMe (12 goals), Zubin(10 goals) & Parth(9 goals) completed the line-up for top 3 goal scorers of the team.
+
+Such is the culture of the team that it keeps pulling alumni to Inter-IIT meets even years after they have passed out. This edition saw the presence of as many as 7 alumni (Kittu, Anda, Anurag, Handa, Kunal, Meena and Tuti) cheering from the pool deck.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > The Comeback Kings : IITK shines at Inter-IIT Aqauatics Meet]
+Vox Populi congratulates the Aquatics Team of IIT Kanpur for the glorious victory. Our best wishes to the entire InterIIT Sports contingent for Mission Mumbai. #JeetegaKanpur
+
+This article has been aritten by Aman Pandya. Aside, you can read about his experiences as a final year student in this blog : Final Year Weekly!
+
+=== My Internship Experience: Ecole Normale Superiere, Paris ===
+Source: https://voxiitk.com/my-internship-experience-ecole-normale-superiere-paris/
+Date: 2014-10-29
+
+My internship with INRIA Research Labs, Ecole Normale Superiere, Paris was definitely a unique experience for me. I left for Paris quite unprepared and unplanned, as I had completed the Visa process only 2 days before I was expected to leave. The journey was not bad; unexpectedly, I even met an IITK student on the same flight! It turns out, it’s a small world indeed!
+
+I reached around 8.30 pm in the evening but was quite surprised to see the sun still shining brightly when I stepped under the Paris sky. Heaving the 30-odd kg luggage I had with me, I made my way to my chosen abode. Reaching my room, I immediately went on to my fellow in shining armour, Vijay Keswani, 3rd year CSE, IITK; who was also selected for the same project under the same professor. He helped me settle down and we ate some nice Indian food (I had taken nothing!).
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Ecole Normale Superiere, Paris]
+On the top of Mt. Pilatus, Switzerland
+Next morning we went for our first day of work. We were greeted by the head of our research group and some fellow teammates. Our mentor joined us next and considerately asked us about the state of things. He was a really friendly and nice guy who never pressured us into anything. He tried his best to ensure we don’t have any problems in adjusting to the new environment. He even advised us to travel around Paris and see all the famous places!
+
+I would say the most difficult thing with any internship in Europe is the language barrier. The fraction of people who know English is quite small. We thus had a lot of problem in expressing ourselves to the people around. This was compounded by the fact that the French are particularly proud of their language and look at you incredulously if you try to converse with them in English. Nevertheless, we managed with some broken English, broken French and a lot of gestures throughout the internship period.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Ecole Normale Superiere, Paris]
+Siddharth and Vijay (leftmost) on a group trip to Etretat, France
+Regarding the research work, my project was basically about the verification of a compiler. The topic was completely alien to me. My mentor graciously helped me learn about the same, mainly through online courses. Vijay also helped me a lot throughout the internship period; patiently answering my silly doubts and helping me whenever I was stuck.
+
+Here, I would like to stress the importance of doing something which you are genuinely interested in. Being a 2nd year intern, I really hadn’t explored my interests and was selected on the basis of a good CPI. I found my topic uninteresting and hence lacked the will and the determination to actually do something substantial. Hence, my earnest request to everyone out there; find your interest before going for anything!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Ecole Normale Superiere, Paris]
+However, the internship really changed my perception in a great way. I got firsthand experience of the research work that is done in one of the top universities of Europe. I got a close look into the life of researchers and academics in general. I attended some really interesting talks and was constantly in the presence of creative people. It was a nice experience overall.
+
+At Eiffel Tower, Paris
+I also had a lot to learn culturally from Europe. I made a lot of friends from different parts of the world; from countries like Iran, Germany, Spain, USA, Algeria, Japan, China, Australia and even Nigeria! The amount of diversity you get in Europe is simply amazing. I visited about 7-8 countries of Europe (lost count actually!). Each country had its own distinct culture, people, places, food and drinks to try out and enjoy. I would say I would always remember the scintillating places and the mind-blowing beauty I found everywhere. From the mountaintops of Switzerland to the cathedrals of Rome, from the vineyards of Germany to the Eiffel Tower Paris; I loved each and every place I visited.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > My Internship Experience: Ecole Normale Superiere, Paris]
+The amount of exposure you get and the experiences you undergo from an internship always stay with you. I would say that this internship will always stay with me throughout my life.
+
+This article was written by Siddharth Prusty, third year undergraduate student in the Department of Electrical Engineering at IIT Kanpur.
+
+This article is a part of the thread My Internship Experience, as part of the Career Series to help and guide students in their internship and placement preparations.
+
+=== What are ‘Coding’ Jobs? ===
+Source: https://voxiitk.com/what-are-coding-jobs/
+Date: 2014-11-08
+
+The placement season is near, and lot of ‘coding’ companies are recruiting. Here is a primer on the different profiles the companies offer.
+
+First of all, let us make it clear that coding merely means writing lines in a particular ‘language’ which follow a structure and are meant to be executed. CSE(Computer Science and Engineering) Jobs, are those in which the core of problem solving involves basic CS principles.  It is also different from a job like CFD(Computational Fluid Dynamics) Engineer, where even though the person would write significant amounts of code, the principles are derived from a different field.
+
+Roles and Details
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+Most profiles tend to use the word “Developer” and “Engineer” interchangeably, and we would be using only Developer going forward except when there is a difference.
+
+Software Developer/Engineer
+
+This is more of a general term than most of which would follow.  A software developer is someone who works on a Software, or a Service and contributes code to it. This may involve adding new features, fixing bugs, or making the software work better. Many of the profiles given below can effectively be classified under Software Engineering, and are merely specializations. If this is the profile that has been mentioned, then it is better to talk to the company to figure out what the exact nature of the job would be.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+Web Developer
+
+A web developer is a specialization of the above said Software Developer where the difference is that he would be working on Web Applications. This is often confused with Web Designers, who deal more with the look and feel of the webpage. A webpage is in general merely a HTML page with information, while a web application is a software that a user interacts with over the internet. This involves a lot of challenges of its own like reducing response times, load balancing etc. that may not be present in other areas. But also involves certain benefits like no need to consider installation platforms etc.
+
+Not so long ago, most operations of web application happened on the servers, and the browser was used just to show the results. Often the only people who worked on the front end were designers and a handful of front end engineers whose job was not that challenging. However this has currently changed a lot, as people have started writing full applications that reside on the browser and treat the server like a datastore, interacting with it just to get data. This has given rise to mainly 3 profiles:
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+1. Backend Developer – The amount of job of a backend developer varies a lot, in many older applications, he was responsible for a lot of what the user finally viewed. However in modern times, a backend engineer works on serving data in particular formats to the frontend, and the rest is taken care of by the frontend code. Backend engineers have to write code, that computes the data as fast as possible and returns the data. The challenges lie in writing performant code, that can scale and handle a lot of users. The developer would also have to write code that processes the data in the back end, for later use.
+
+2. Frontend Developer – A front end developer is repsonsible for writing code that communicates with the backend and finally interacts with the user. The user would be interacting almost entirely with the frontend code which would be written in Javascript (or in certain cases a language that is then converted to Javascript). He would be dealing with the challenges of having multiple browsers, and non-unified JS specification, and would be working along with the UI Developer who would work on the look and feel of the application.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+3. In many web applications, and in most web applications that have only a few developers, the web application is divided into modules. A particular engineer might handle both the backend of that particular module, and are generally called web developers. Sometimes, they are also called full stack developers, although that is a much vertically integrated job.
+
+Systems Engineer
+
+A computer system in this context is merely a combination of the hardware and software for a specific application. For a installed software, like a browser, this would entirely lie within your computer. But for most large applications, this would be spread across multiple servers : Webservers that serve the web application, database servers that store the data, storage servers to handle the storage of content, networking to connect all these together, and other specialized services like caching services, logging services, analytics services etc. A systems engineer would be responsible for architecting the whole structure. They would be responsible for the block level architecture of a computer service. As can be inferred from the description, this is a higher level job, and rather than coding involves more of architecting components such that they work together.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+SysOps
+
+SysOps or Systems Operation Engineer is someone who manages and monitors the system the software is running on. He makes sure that all the various parts that we covered above in systems engineering work as expected, and in general write code for the monitoring and maintenance of these systems. In general, he would be in charge of the operations of all the servers that the services run on, and the interconnects between them.
+
+Applications Developer
+
+Applications developer is a software developer who would in general be working on a user facing application, rather than things like database, and infrastructure. If it is in the web area, where most of the current work is in, it is same as that of a Web developer. The other important area for applications developer is developing Mobile Applications, which I would be explaining below. The third part of applications developer is writing software for  desktop computers. Microsoft would be the leading recruiter in this area.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+Mobile Applications Developer
+
+The major difference in this profile from an applications developer lies in the fact that the way people interact with mobile applications is very different from desktop software. A mobile application is often close to a web application from the perspective of a user. Hence this introduces challenges that both a Web Developer and a normal applications developer has to face, with other considerations like writing battery efficient code, and the limited screen area they have. The developers in this field have to exclusively work on Obective-C/Swift for iOS development, Java for Android development, or .NET platform for Windows Mobile development.
+
+Research Developer & Research Scientist
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+A research engineer is generally an engineer in the research team, that would finally be responsible for implementing and testing out the research findings. They would work closely with the research scientist to either test the research work for practical considerations, or to implement a simple software, that would then be taken forward to the software team. They form a connect between the research teams and the software/hardware teams, and they generally do not conduct research but understand and implement it.
+
+A research scientist on the other hand would be researching in the areas the company is involved in, and in general this profile is reserved for Doctorates, and only in rare cases opens for Bachelors and Masters. However most research firms offer a form of gateway researcher position, where the person would be in a research team, with the expectation that once he gets a feel of it, would later go for a PhD.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > What are ‘Coding’ Jobs?]
+There is not much to tell about the exact work a researcher would be doing, since it varies a lot, however currently a significant percentage of the research recruitment is in area of Data Mining and Machine Learning.
+
+If you have any questions, feel free to discuss in the comments section. Vox Populi wishes Good Luck to people sitting for placements!
+
+This article has been written by Abhimanyu Mongandh Ambalath.
+
+=== Opportunities and Challenges of Building a World Class IIT from the Ground Up: The IIT Gandhinagar Story ===
+Source: https://voxiitk.com/opportunities-and-challenges-of-building-a-world-class-iit-from-the-ground-up-the-iit-gandhinagar-story/
+Date: 2014-12-07
+
+Dr. Sudhir Jain was the first speaker in the latest lecture series initiated by IIT Kanpur, Making of a University, in which distinguished academicians are invited to share their vision which has been instrumental in the establishment of the eminent educational institutes of India. The lecture was held on 27 November 2014 in the Outreach Auditorium.
+
+For those who do not know, Prof. Jain is a faculty member of the Department of Civil Engineering, IIT Kanpur. He went on a leave in June 2009, on a journey to set up an academic institution from scratch, serving as the director of IIT Gandhinagar, one of the eight new IITs established in 2011.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+Prof. Jain started with the recollection of his golden days at IIT Kanpur, the institute which he joined as a “young boy” of 25 years with hardly any understanding of the real world and of the complexities of life. ‘I grew and learnt there, succeeded in many things while failed in others, where people cheered me up when I did well and supported me when I did not’, quoting his facebook status, prior to the talk.
+
+At the time the new IITs were being set up, Prof. Jain received 4 mails, including one from the then director, Prof.S.G.Dhande, requesting him to submit his resume for the role of director of one of the new IITs. Though disappointed by the decision of setting up of new IITs, at a time when the older ones themselves needed a lot of attention to fix many diverse problems which were preventing our rise to the international scenario, a 5-week introspection led him to the realisation that the older IITs will anyway march ahead, considering that establishment of new IITs is imminent, he thought that leading one will be a really exciting journey.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+950 Students, 88 faculty members, 100 staff members – That is what constitutes the IIT Gandhinagar family. They were allotted a beautiful 400 acre land, on the Sabarmati banks, on July 30, 2012, and in the summer of 2015, they will move to that place from the temporary campus they are currently running in.
+
+Within a few years of inception, IIT GN has incubated three companies, 10-15% of graduates are pursuing a PhD from top US Schools and 3 of them are continuing their education at IIT GN itself, significant of the trust the students have in their institute. Few students have gone ahead and joined TISS, NID, Shrishti and were well encouraged by the institute for the same, as they believe that students should chase their passion. One-third of their students graduated with an international experience, as the institute facilitates the process of grabbing an international research internship (it makes no sense that a student wastes time sending over 2000 mails for an internship). They have filed 7 US, and 1 Indian patent.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+“We will train you for your last job, not your first one.”
+
+IIT Gandhinagar hires only the most outstanding candidates of a field as faculties, regardless of the discipline. Endowed with immense freedom, the faculties are provided high support and in return, the institute expects highly from them. The unique disciplinary diversity witnesses a professor of Chemistry teaching a course of Sociology.
+
+One of the peculiar things about IIT GN is their 5 week foundation programme for the freshmen with an aim to foster creativity, leadership, societal awareness, values, ethics, engagement in sports and physical activities. While majority of Indians did not know about Kailash Satyarthi, Nobel Laureate, 2014, the students of IIT GN had interacted with him in the foundation programme. When someone pointed out that the students may lose on the initial curriculum due to the lengthy orientation period, Prof. Jain said, “How does it matter whether I learnt ‘that’ 20 percent portion of a particular course? What matters is whether I learnt life-skills or not in my initial days”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+Innovating in the undergraduate curriculum, IIT GN has compulsory courses in Biology, Design & Innovation, World Civilization, along with 8 HSS courses as a requirement of the engineering degree. They have a comprehensive Viva Voce for all students, where in 3 people meet every student once in a semester and talk about their life at the institute, academics and career.
+
+In his charismatic tone. Dr. Sudhir made it clear, “I want my students to either be entrepreneurs or professors, because that is what contributes back to the society. Working for a multinational company is not what I see them pursuing.” No doubts that 3 companies, namely Grid Ants, Doopica and Tinker Tank have been started by the students of IIT GN
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+There is zero tolerance for things no one approves of. Academic dishonesty, including proxy attendance, is strictly dealt with. Students have been suspended for a semester for looking into their peers exam copies during the exam. Bullying another student or any kind of financial misconduct is not acceptable.
+
+A distinguished feature of this institute, is that it treats the students as adults, responsible for their well being or otherwise. No grade sheets are sent to home. No restriction on entry to girls or boys hostel for either gender. In short: ‘It is your life. You are welcome to either do wonders out of it or make a mess out of it.
+
+“We will provide you everything you need, but we can’t provide everything you want”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+The temporary campus of IIT Gandhinagar has all the facilities for a sustainable lifestyle. The laboratories are collaborative, not differentiating between different ‘sects’ of scholars, a connected campus with a central mess and day-care centres for the infants of the female staff of the campus are some of the unique features of the institute infrastructure.
+
+Remaining true to the spirit of outreach, IIT Gandhinagar runs NYASA which primarily aims to support and educate the children of the migrant construction workers in and around campus. This humble initiative includes adequate temporary housing equipped with RO water facility and toilet system.
+
+“We are not in a hurry to be a new IIT. Once old, you are old forever. We are enjoying the fact that we are young.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+Setting up a new organization comes up with challenges, and IIT GN is no exception. There is a mindset of low expectation from all stakeholders, on the grounds that it is a new IIT, and that if it aims to be a world class institute, it is a technical institue in a developing nation. Lack of self esteem in quite a many of undergraduate students, lack of mid-career faculty, alumni body and academic administrators are the other key issues on the chart.
+
+Under the leadership of Dr.Sudhir, IIT GN is marching ahead, ready to face all these challenges. They are aiming for internationalization of the institute, close linkage with the industries and establish a culture of sustained excellence. He rightly summed up the mood of the institute: “IIT GN is not a place for unhappy people”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2014 > Opportunities and Challenges of Building a World Class IIT f]
+Written by Samarth Bansal and Bhanu Pratap Singh Tanwar
+

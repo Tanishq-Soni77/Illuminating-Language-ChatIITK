@@ -1,0 +1,657 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AND DEPARTMENT CALENDAR
+Name: Department of Computer Science and Engineering (CSE), IIT Kanpur - courses, course timetables and department calendar.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department); website https://www.cse.iitk.ac.in. Snapshot: scraped in 2026 (page text only, original page URLs not recorded).
+
+=== courses ===
+Source: https://www.cse.iitk.ac.in/
+Courses Offered By CSE Department
+
+SNo | Code | Course Name
+
+1 | CS201 | Mathematics for Computer Science - I
+
+2 | CS202 | Mathematics for Computer Science - II
+
+3 | CS203 | Mathematics for Computer Science - III
+
+4 | CS220 | Computer Organisation
+
+5 | CS251 | Computing Laboratory - I
+
+6 | CS252 | Computing Laboratory - II
+
+7 | CS253 | Software Development and Operations
+
+8 | CS315 | Principles of Database Systems
+
+9 | CS330 | Operating Systems
+
+10 | CS330 (L) | Operating Systems (L)
+
+11 | CS335 | Compiler Design
+
+12 | CS340 | Theory of Computation
+
+13 | CS345 | Algorithms II
+
+14 | CS350 | Principles of Programming Languages
+
+15 | CS360 | Introduction to Computer Graphics
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+16 | CS365 | Artificial Intelligence
+
+17 | CS395 / 496 | Undergraduate Project - I (UGP-1)
+
+18 | CS396 / 497 | Undergraduate Project - II (UGP-2)
+
+19 | CS397 | Special Topics in Computer Science
+
+20 | CS422 | Computer Architecture
+
+21 | CS423 | Multi-core and Multiprocessor Architecture
+
+22 | CS425 | Computer Networks
+
+23 | CS429 | Algorithms for Big Data
+
+24 | CS433 | Parallel Programming
+
+25 | CS455 | Introduction to Software Engineering
+
+26 | CS496 | Undergraduate Project - I (UGP-1)
+
+27 | CS497 | Undergraduate Project - II (UGP-2)
+
+28 | CS498 | Undergraduate Project - III (UGP-3)
+
+29 | CS499 | Undergraduate Project - IV (UGP-4)
+
+30 | CS601 | Mathematics for Computer Science
+
+31 | CS602 | Design and Analysis of Algorithms
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+32 | CS603 | Fundamentals of Theoretical Computer Science
+
+33 | CS605 | Gems from the world of data structures
+
+34 | CS610 | Programming for Performance
+
+35 | CS611 | System level data formats and representations for AI
+
+36 | CS612 | Computer Arithmetic
+
+37 | CS614 | Linux Kernel Programming
+
+38 | CS615 | Skyline Queries in Database
+
+39 | CS616 | Human Centered Computing
+
+40 | CS617 | Database Queries
+
+41 | CS618 | Indexing and Searching Techniques in Databases
+
+42 | CS619 | Advances in DBMS
+
+43 | CS621 | Topics in Contemporary Microarchitecture
+
+44 | CS622 | Advanced Computer Architecture
+
+45 | CS623 | VLSI Design for Parallel Architectures
+
+46 | CS623 | GPU Architecture and Programming
+
+47 | CS624 | Topics in Embedded Systems
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+48 | CS625 | Advanced Computer Networks
+
+49 | CS626 | Fault Tolerant Computing Systems
+
+50 | CS627 | E-commerce
+
+51 | CS628 | Computer Systems Security
+
+52 | CS629 | Parallel Execution of Programs
+
+53 | CS630 | Advanced Operating Systems For Embedded Systems, Pervasive Computing and Internet Of Things [Details]
+
+54 | CS631 | Cyber security of critical infrastructure
+
+55 | CS632 | Topics in Distributed Systems
+
+56 | CS633 | Parallel Computing
+
+57 | CS634 | Mobile Computing
+
+58 | CS635 | Approximation Algorithms
+
+59 | CS636 | Analysis of Concurrent Programs
+
+60 | CS637 | Embedded and Cyber-Physical Systems
+
+61 | CS638 | Formal Methods in Robotics and Automation
+
+62 | CS639 | Program Analysis, Verification and Testing
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+63 | CS640 | Computational Complexity
+
+64 | CS641 | Modern Cryptology
+
+65 | CS642 | Circuit Complexity Theory
+
+66 | CS643 | Abstract State Machines
+
+67 | CS644 | Finite Automata on Infinite Inputs
+
+68 | CS645 | Topics in Design and Analysis of Algorithms
+
+69 | CS646 | Parallel Algorithms
+
+70 | CS647 | Advanced Topics in Algorithms and Data Structures
+
+71 | CS648 | Randomized Algorithms
+
+72 | CS649 | Logic in Computer Science
+
+73 | CS650 | Topics in Lambda Calculus
+
+74 | CS651 | Concurrent Data Structures and Algorithms
+
+75 | CS652 | Computer Aided Verification
+
+76 | CS653 | Functional Programming
+
+77 | CS654 | Software Architecture
+
+78 | CS655 | Topics in Linear Programming
+
+79 | CS656 | Algorithmic Game Theory
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+80 | CS657 | Information Retrieval
+
+81 | CS658 | Topics in Malware Analysis and Intrusion Detection
+
+82 | CS659 | Autonomous Cyber-physical Systems
+
+83 | CS660 | Fundamentals of Interactive Computer Graphics
+
+84 | CS661 | Big Data Visual Analytics
+
+85 | CS662A | Introduction to Linear Logic
+
+86 | CS663 | Computational Geometry
+
+87 | CS664 | IoT System Design
+
+88 | CS665 | Secure Memory Systems
+
+89 | CS666 | Hardware Security for Internet-of-Things
+
+90 | CS667 | Introduction to Internet of Things and its Industrial Applications
+
+91 | CS668A | Practical Cyber Security for Cyber Practitioners
+
+92 | CS669 | Design for Security
+
+93 | CS670 | Cryptographic Techniques for Privacy Preservation
+
+94 | CS671 | Introduction to Natural Language Processing
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+95 | CS672 | Complexity Measures for Boolean Functions
+
+96 | CS673 | Machine Translation
+
+97 | CS674 | Post Quantum Security
+
+98 | CS675 | Cryptography for Cybersecurity
+
+99 | CS676 | Computer Vision and Image Processing
+
+100 | CS677 | Topics in Large Data Analysis and Visualization
+
+101 | CS678 | Learning with Kernels
+
+102 | CS680 | Category Theory and Applications in Computing
+
+103 | CS681 | Computational Algebra and Number Theory
+
+104 | CS682 | Quantum Computing
+
+105 | CS684 | Introduction to Algorithms and Logics in Game Theory
+
+106 | CS685 | Data Mining
+
+107 | CS686 | Data Driven Program Analysis
+
+108 | CS687 | Algorithmic Information Theory
+
+109 | CS688 | Computational Arithmetic-Geometry and Applications
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+110 | CS689 | Computational Linguistics for Indian Languages
+
+111 | CS690 | Computational Genomics
+
+112 | CS697 | MTech Independent Study
+
+113 | CS698A | Selected Areas of Mechanism Design
+
+114 | CS698B | Fundamentals of Data Engineering
+
+115 | CS698B (L) | Fundamentals of Data Engineering (Lab)
+
+116 | CS698C | Sketching and Sampling For Big Data Analysis
+
+117 | CS698D | Topics in Data Compression
+
+118 | CS698E | Topics in Computer Architecture and Operating Systems
+
+119 | CS698H | Topics in Homotopy Type Theory
+
+120 | CS698I | Relational Structures in Games
+
+121 | CS698J | Introduction to Constructive Types Theory and its Applications
+
+122 | CS698K | Designing Verifiably Secure Systems
+
+123 | CS698N | Great Ideas in Theoretical Computer Science
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+124 | CS698O | Special Topics in Natural Language Processing
+
+125 | CS698P | Applications of Markov Chains in Combinatorial Optimization and in Evolutionary Dynamics
+
+126 | CS698V | Introduction to Lambda Calculus, Types and Models
+
+127 | CS698W | Topics in Game Theory and Collective Choice
+
+128 | CS698X | Topics in Probabilistic Modeling and Inference
+
+129 | CS698Y | Human AI Interaction
+
+130 | CS698Z | Fundamentals of Error Correcting Codes
+
+131 | CS699 | M.Tech. Thesis
+
+132 | CS710 | Lattice-Based Cryptography
+
+133 | CS711 | Introduction to Game Theory and Mechanism Design
+
+134 | CS712 | Selected Areas of Mechanism Design
+
+135 | CS714 | Secure Computation
+
+136 | CS715 | Cryptographic Protocols
+
+137 | CS718 | Sublinear Algorithms for Processing Massive Data Sets
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+138 | CS719 | Data Streaming Algorithms and Systems
+
+139 | CS720 | VLSI Testing and Fault-Tolerance
+
+140 | CS724 | Sensing, Communications and Networking for Smart Wireless Devices
+
+141 | CS725 | Topics in Networking
+
+142 | CS726 | Topics in Multimedia
+
+143 | CS727 | Topics in Internet Technologies
+
+144 | CS728 | Theory of Multi-Armed Bandits
+
+145 | CS729 | Differential Privacy in Machine Learning
+
+146 | CS730 | Topics in Operating Systems
+
+147 | CS731 | Blockchain Technology and Application
+
+148 | CS733 | Topics in Parallel Computing
+
+149 | CS738 | Advanced Compiler Optimizations
+
+150 | CS740 | Topics in Logic and Computation
+
+151 | CS741 | Structural Complexity
+
+152 | CS742 | Parallel Algorithms II:Parallel Complexity and Sub-Logarithmic Time Algorithms
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+153 | CS743 | Advanced Graph Algorithms
+
+154 | CS744 | Pseudo-Random Generators
+
+155 | CS745 | Small Space Bounded Computations
+
+156 | CS746 | Riemann Hypothesis and Its Applications
+
+157 | CS747 | Randomized Methods in Computational Complexity
+
+158 | CS748 | Arithmetic Circuit Complexity
+
+159 | CS749 | Elliptic Curves and Their Applications
+
+160 | CS750 | Programs, Proofs and Types
+
+161 | CS755 | Topics in Software Engineering
+
+162 | CS771 | Introduction to Machine Learning
+
+163 | CS772 | Probabilistic Machine Learning
+
+164 | CS773 | Online Learning and Optimization
+
+165 | CS774 | Optimization Techniques
+
+166 | CS775 | Topics in Probabilistic Modelling and Inference
+
+167 | CS776 | Deep Learning for Computer Vision
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+168 | CS777 | Topics in Learning Theory
+
+169 | CS778 | Foundations of Modern AI
+
+170 | CS779 | Statistical Natural Language Processing
+
+171 | CS780 | Deep Reinforcement Learning
+
+172 | CS781 | Large Language Models (LLMS)
+
+173 | CS782 | Cognitive Semantics
+
+174 | CS783 | Visual Recognition
+
+175 | CS784 | Language Acquisition
+
+176 | CS785 | Multiagent Systems: Games, Algorithms, Evolution
+
+177 | CS786 | Computational Cognitive Science
+
+178 | CS787 | Generative Artificial Intelligence
+
+179 | CS789 | Special Topics in Language Acquisition and Origins
+
+180 | CS797 | PhD Independent Study
+
+181 | CS798D | Algorithms for Bayesian Networks and Causality
+
+182 | CS798F | Introduction to Probability for Computer Science
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > courses]
+183 | CS798H | Human-Computer Interaction
+
+184 | CS799 | PhD Thesis
+
+185 | CS801 | Innovations in Computer Science and Engineering
+
+186 | CS888 | Introduction to Profession and Communications Skills
+
+187 | CS899 | M.S. Thesis
+
+188 | ESC111/2 | Fundamentals of Computing - I/II
+
+189 | ESO207 | Data Structures and Algorithms
+
+=== course timetable ===
+Source: https://www.cse.iitk.ac.in/
+Current SEM Timetable
+
+Course Code | Credits | Time Slot | Classroom | Course Name | Instructor | Instructor Mail
+
+CS201 | 3-1-0-0 (11) | MWF 12:00-13:00 | RM101 | Mathematics for Computer Science - I | Gunjan Kumar | gunjan
+
+CS330 | 3-0-4-0 (13) | TuWTh 08:00-09:00 | RM101 | Operating Systems | Preeti Malakar | pmalakar
+
+CS330 (L) | 3-0-4-0 (13) | TuF 14:00-17:00 | RM-606 | Operating Systems (L) | Preeti Malakar | pmalakar
+
+CS340 | 3-0-0-0 (9) | MF 08:00-09:00
+Tu 09:00-10:00 | RM101 | Theory of Computation | Anil Seth | seth
+
+CS345 | 3-0-0-0 (9) | MWF 09:00-10:00 | RM101 | Algorithms II | Raghunath Tewari | rtewari
+
+CS350 | 3-0-0-0 (9) | MTh 14:00-15:15 | RM101 | Principles of Programming Languages | Pritam Choudhury | pritam
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+CS429 | 3‐0‐0‐0 (9) | MTh 14:00-15:30 | KD103 | Algorithms for Big Data | Sumit Ganguly | sganguly
+
+CS433 | 3-0-0-0 (9) | MTh 12:00-13:15 | KD101 | Parallel Programming | Mainak Chaudhuri | mainakc
+
+CS455 | 3-0-0-0 (9) | MTh 10:35-11:50 | KD101 | Introduction to Software Engineering | Priyanka Bagade | pbagade
+
+CS602 | 3-0-0-0 (9) | WF 12:00-13:15 | KD101 | Design and Analysis of Algorithms | Surender Baswana | sbaswana
+
+CS610 | 3-0-0-0 (9) | MF 08:00-09:00
+Tu 09:00-10:00 | KD101 | Programming for Performance | Swarnendu Biswas | swarnendu
+
+CS611 | 3‐0‐0‐0 (9) | MWF 17:00-18:00 | KD101 | System level data formats and representations for AI | Urbi Chatterjee | urbic
+
+CS612 | 3‐0‐0‐0 (9) | WF 10:35-11:50 | RM101 | Computer Arithmetic | Debapriya Basu Roy | dbroy
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+CS622 | 3-0-0-0 (9) | MTh 10:35-11:50 | KD102 | Advanced Computer Architecture | Debadatta Mishra | deba
+
+CS623 | 3‐0‐0‐0 (9) | WF 09:00-10:15 | KD102 | GPU Architecture and Programming | Debadatta Mishra
+Mainak Chaudhuri
+Swarnendu Biswas | deba
+mainakc
+swarnendu
+
+CS637 | 3-0-0-0 (9) | MTh 10:35-11:50 | RM101 | Embedded and Cyber-Physical Systems | Indranil Saha | isaha
+
+CS670 | 3-0-0-0 (9) | WF 09:00-10:15 | KD101 | Cryptographic Techniques for Privacy Preservation | Adithya Vadapalli | avadapalli
+
+CS690 | 3‐0‐0‐0 (9) | WF 10:35-11:50 | KD102 | Computational Genomics | Hamim Zafar | hamim
+
+CS698B | 3‐0‐3‐0 (12) | WF 10:35-11:50 | KD101 | Fundamentals of Data Engineering | Purushottam Kar | purushot
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+CS698B (L) | 3-0-3-0 (12) | Tu 10:00-13:00 | - | Fundamentals of Data Engineering (Lab) | Purushottam Kar | purushot
+
+CS698I | 3-0-0-0 (09) | WF 09:00-10:15 | KD103 | Relational Structures in Games | Sunil Simon | simon
+
+CS710 | 3‐0‐0‐0 (9) | TuF 12:00-13:00
+W 14:00-15:00 | KD103 | Lattice-Based Cryptography | Anshu Yadav | anshuy
+
+CS715 | 3‐0‐0‐0 (9) | Tu 14:00-15:15
+M 15:35-16:50 | KD102 | Cryptographic Protocols | Angshuman Karmakar | angshuman
+
+CS724 | 3-0-0-0 (9) | WF 12:00-13:15 | KD102 | Sensing, Communications and Networking for Smart Wireless Devices | Amitangshu Pal | amitangshu
+
+CS731 | 3-0-0-0 (9) | WF 10:35-11:50 | KD103 | Blockchain Technology and Application | Somitra Kumar Sanadhya | somitra
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+CS744 | 3-0-0-0 (09) | WF 18:10-19:25 | KD101 | Pseudo-Random Generators | Satyadev Nandakumar | satyadev
+
+CS748 | 3-0-0-0 (9) | TuTh 12:00-13:15 | KD102 | Arithmetic Circuit Complexity | Nitin Saxena | nitin
+
+CS771 | 3-0-3-0 (12) | WF 18:10-19:25 | L20 | Introduction to Machine Learning | Piyush Rai | piyush
+
+CS777 | 3-0-0-0(9) | Tu 14:00-15:15
+M 15:35-16:50 | KD103 | Topics in Learning Theory | Sutanu Gayen | sutanu
+
+CS778 | 3‐0‐0‐0 (9) | Tu 14:00-15:15
+M 15:35-16:50 | KD101 | Foundations of Modern AI | Sayak Ray Chowdhury | sayakrc
+
+CS781 | 3-0-0-0 (9) | MTh 12:00-13:15 | DJ205H/RM101 | Large Language Models (LLMS) | Ashutosh Modi | ashutoshm
+
+CS787 | 3-0-0-0 (9) | WF 12:00-13:15 | L20/L19 | Generative Artificial Intelligence | Arnab Bhattacharya | arnabb
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+CS888 | 2-0-0-0 (6) | MTh 14:00-15:15 | KD101 | Introduction to Profession and Communications Skills | Sayak Ray Chowdhury
+Urbi Chatterjee
+Satyadev Nandakumar
+Sunil Simon | sayakrc
+urbic
+satyadev
+simon
+
+ESC111/2 | 3-1-3-0 (14) | MThF 12:00-13:00 | L20 | Fundamentals of Computing - I/II | Soumya Dutta
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+ESC111/2 (L) | ThF 14:00-17:00 | - | Fundamentals of Computing - I/II (Lab) | Soumya Dutta
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+ESC111/2 (T) | Tu 17:00-18:00 | - | Fundamentals of Computing - I/II (Tutorial) | Soumya Dutta
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+ESO207 | 3-0-3-0 (12) | MWF 10:00-11:00 | L7 | Data Structures and Algorithms | Rajat Mittal | rmittal
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > course timetable]
+ESO207 (L) | 3-0-3-0 (12) | MW 14:00-17:00 | - | Data Structures and Algorithms (Lab) | Rajat Mittal | rmittal
+
+=== next course timetable ===
+Source: https://www.cse.iitk.ac.in/
+Current SEM Timetable
+
+CS340 | 3-0-0-0 (9) | MF 08:00-09:00
+
+CS350 | 3-0-0-0 (9) | MTh 14:00-15:15 | KD102 | Principles of Programming Languages | Pritam Choudhury | pritam
+
+CS429 | 3‐0‐0‐0 (9) | MTh 09:00-10:15 | KD102 | Algorithms for Big Data | Sumit Ganguly | sganguly
+
+CS610 | 3-0-0-0 (9) | MF 08:00-09:00 | KD102 | Programming for Performance | Swarnendu Biswas | swarnendu
+
+CS611 | 3‐0‐0‐0 (9) | MWF 17:00-18:00 | KD102 | System level data formats and representations for AI | Urbi Chatterjee | urbic
+
+CS622 | 3-0-0-0 (09) | MTh 10:35-11:50 | KD103 | Advanced Computer Architecture | Debadatta Mishra | deba
+
+Mainak Chaudhuri
+Swarnendu Biswas | deba
+mainakc
+swarnendu
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > next course timetable]
+CS710 | 3‐0‐0‐0 (9) | TuF 12:00-13:00
+W 14:00-15:00 | TB110 | Lattice-Based Cryptography | Anshu Yadav | anshuy
+
+CS715 | 3‐0‐0‐0 (9) | Tu 14:00-15:15
+
+CS771 | 3-0-3-0 (12) | WF 18:10-19:25 | L7 | Introduction to Machine Learning | Piyush Rai | piyush
+
+CS777 | 3-0-0-0(9) | Tu 14:00-15:15
+
+CS778 | 3‐0‐0‐0 (9) | Tu 14:00-15:15
+
+Urbi Chatterjee
+Satyadev Nandakumar
+Sunil Simon | sayakrc
+urbic
+satyadev
+simon
+
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+Sruti Srinivasa Ragavan | soumyad
+srutis
+
+=== previous course timetable ===
+Source: https://www.cse.iitk.ac.in/
+Previous SEM Timetable
+
+CS202/3 | 3-0-0-0 (10) | MWF 08:00-09:00 | RM101 | Mathematics for Computer Science - II/III | Pritam Choudhury
+Sumit Ganguly | pritam
+sganguly
+
+CS220 | 3-0-4-0 (13) | WThF 11:00-12:00 | RM101 | Computer Organisation | Mainak Chaudhuri | mainakc
+
+CS253 | 3-0-3-0 (12) | TuWF 10:00-11:00 | L7 | Software Development and Operations | Indranil Saha | isaha
+
+CS315 | 3-0-0-0 (9) | Tu 10:30-11:45
+Th 12:00-13:15 | KD101 | Principles of Database Systems | Arnab Bhattacharya | arnabb
+
+CS335 | 3-0-4-0 (13) | Tu 09:00-10:15
+M 12:00-13:15 | KD102 | Compiler Design | Amey Karkare
+Subhajit Roy | karkare
+subhajit
+
+CS422 | 3-0-0-0 (9) | TuW 12:00-13:15 | KD101 | Computer Architecture | Urbi Chatterjee | urbic
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > previous course timetable]
+CS425 | 3-0-0-0 (9) | TuF 15:30-16:45 | RM101 | Computer Networks | Amitangshu Pal | amitangshu
+
+CS496 | 0-0-0-0 (9) | - | Undergraduate Project - I (UGP-1) | DUGC
+
+CS497 | 3-0-0-0 (9) | - | Undergraduate Project - II (UGP-2) | DUGC
+
+CS498 | 0-0-9-0 (9) | - | Undergraduate Project - III (UGP-3) | DUGC
+
+CS601 | 3-0-0-0 (9) | Tu 10:30-11:45
+Th 12:00-13:15 | KD102 | Mathematics for Computer Science | Sanjeev Saxena | ssax
+
+CS614 | 3-0-0-0 (9) | TuTh 17:15-18:30 | L19 | Linux Kernel Programming | Debadatta Mishra | deba
+
+CS633 | 3-0-0-0 (9) | MW 15:30-17:00 | L7 | Parallel Computing | Preeti Malakar | pmalakar
+
+CS636 | 3-0-0-0 (9) | TuThF 08:00-09:00 | KD102 | Analysis of Concurrent Programs | Swarnendu Biswas | swarnendu
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > previous course timetable]
+CS640 | 3-0-0-0 (9) | TuW 12:00-13:15 | KD102 | Computational Complexity | Raghunath Tewari | rtewari
+
+CS641 | 3-0-0-0 (9) | MW 15:30-17:00 | KD101 | Modern Cryptology | Somitra Kumar Sanadhya | somitra@iitk.ac.in
+
+CS648 | 3-0-0-0 (9) | MW 15:30-17:00 | RM101 | Randomized Algorithms | Surender Baswana | sbaswana
+
+CS656 | 3-0-0-0 (9) | MW 15:30-17:00 | KD102 | Algorithmic Game Theory | Sunil Simon | simon
+
+CS672 | 3-0-0-0 (9) | Tu 09:00-10:15
+M 12:00-13:15 | KD103 | Complexity Measures for Boolean Functions | Rajat Mittal | rmittal
+
+CS675 | 3‐0‐0‐0 (9) | MW 14:00-15:15 | KD102 | Cryptography for Cybersecurity | Angshuman Karmakar | angshuman
+
+CS687 | 3-0-0-0 (9) | WThF 11:00-12:00 | DJ 205H | Algorithmic Information Theory | Satyadev Nandakumar | satyadev
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > previous course timetable]
+CS699 | 0-0-0-0 (0) | - | M.Tech. Thesis | DPGC
+
+CS714 | 3-0-0-0- [9] | Tu 09:00-10:15
+M 12:00-13:15 | KD101 | Secure Computation | Adithya Vadapalli | avadapalli
+
+CS728 | 3-0-0-0 (09) | MW 14:00-15:15 | KD101 | Theory of Multi-Armed Bandits | Gunjan Kumar | gunjan
+
+CS729 | 3‐0‐0‐0 (9) | MW 15:30-17:00 | KD103 | Differential Privacy in Machine Learning | Sayak Ray Chowdhury | sayakrc
+
+CS771 | 3-0-3-0 (12) | TuTh 17:15-18:30 | L17 | Introduction to Machine Learning | Purushottam Kar | purushot
+
+CS772 | 3-0-0-0 (9) | MW 18:00-19:15 | RM101 | Probabilistic Machine Learning | Piyush Rai | piyush
+
+CS776 | 3-0-0-0 (9) | TuW 12:00-13:15 | RM101 | Deep Learning for Computer Vision | Priyanka Bagade | pbagade
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > previous course timetable]
+CS780 | 3-0-0-0 (9) | TuTh 17:15-18:30 | RM101 | Deep Reinforcement Learning | Ashutosh Modi | ashutoshm
+
+CS798H | 3-0-0-0 (09) | MW 14:00-15:15 | RM101 | Human-Computer Interaction | Sruti Srinivasa Ragavan | srutis
+
+CS799 | 0-0-0-0 (0) | - | PhD Thesis | DPGC
+
+CS801 | [0] (0-0-0-0) (S/X mode) | F 17:15-18:30 | RM101 | Innovations in Computer Science and Engineering | Debadatta Mishra
+Purushottam Kar | deba
+purushot
+
+CS899 | 0-0-0-0 (0) | - | M.S. Thesis | DPGC
+
+ESC111/2 | 3-1-3-0 (14) | MThF 12:00-13:00 | L20 | Fundamentals of Computing - I/II | Sutanu Gayen
+Soumya Dutta | sutanu
+soumyad
+
+ESO207 | 3-0-3-0 (12) | MWTh 12:00-13:00 | L7 | Data Structures and Algorithms | Anil Seth
+Abhranil Chatterjee | seth
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - COURSES, COURSE TIMETABLES AN > previous course timetable]
+abhranil
+
+=== dept calendar ===
+Source: https://www.cse.iitk.ac.in/
+Department Calendar
+

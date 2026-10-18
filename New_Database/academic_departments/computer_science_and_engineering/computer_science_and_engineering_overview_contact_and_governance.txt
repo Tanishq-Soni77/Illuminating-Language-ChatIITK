@@ -1,0 +1,660 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES, AWARDS, CHAIRS, NEWSLETTERS, STAFF AND FACILITIES
+Name: Department of Computer Science and Engineering (CSE), IIT Kanpur - overview, contact, committees, awards, chairs, newsletters, staff and facilities.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department); website https://www.cse.iitk.ac.in. Snapshot: scraped in 2026 (page text only, original page URLs not recorded).
+
+=== about the department ===
+Source: https://www.cse.iitk.ac.in/
+About The Department
+
+Indian Institute of Technology Kanpur was the first Institute in India to start Computer Science education. The initial "computer-related" courses were started at IIT Kanpur in August 1963 on an IBM 1620 system installed in the nation's first "computer classroom," a novelty then even in many North American and European universities. Gradually, the Institute drew upon some of the brightest young Indians in Computer Science to serve on its faculty and initiated an independent academic program in 1971, leading to Ph.D. and M. Tech. degrees. The undergraduate program started later, with the first batch graduating in 1983. The department was formally established in 1984. Many of the nation's leading experts, educationists and consultants in computer science today are the alumni of this department. Currently, the department has a faculty of 33 whose interests span almost all areas of Computer Science.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > about the department]
+The department admits about 78 students every year in the B.Tech. program and 50 students in the M.Tech. program. 27 students are admitted to the dual-degree program, which results in students getting both a BTech and an MTech degree at the end of 5 years. There are about 15 students registered in Ph.D. program at a time. The department has recently started M.S. program, which is mainly focussed in research in various domains of Computer Science. There is one software engineer and five other staff attached to the laboratory facilities. Besides, there are a number of research engineers working in various sponsored projects.
+
+=== cse dept info ===
+Source: https://www.cse.iitk.ac.in/
+Department Information
+
+=== how to reach ===
+Source: https://www.cse.iitk.ac.in/
+How To Reach
+
+Nestled on the banks of the sacred River Ganges, Kanpur is famous as one of North India's major industrial centers, and has great historical, religious and commercial importance. According to the legends, it is believed that the city was founded by king Hindu Singh of Sachendi and was then known as "Kanhpur". Kanpur is the largest and most famous industrial town of Uttar Pradesh, and is the administrative headquarters of Kanpur Nagar district, Kanpur Dehat district and Kanpur division. This beautiful city is a major tourist destination and is the main center of India's leather industry.
+
+IIT Kanpur is a residential campus (1055 acres) located off GT Road near Kalyanpur, about 15 km west of Kanpur city.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > how to reach]
+You can reach Kanpur by flying to any of the three nearby airports: Kanpur, Lucknow and Delhi.
+
+Kanpur airport is located around 23 kms from campus in Chakeri. The airport is still growing and has relatively fewer flights compared to Lucknow and Delhi. However as of April 2019, there are now flights to other important cities like Mumbai, Delhi, Kolkata, and Bengaluru from Kanpur. The cabs will cost around Rs. 700 and will take around an hour to hour and a half to reach campus.
+
+Lucknow airport is located about 95 kms from IIT Kanpur. You can hire taxis (OLA outstation is also available) at the airport. The average cost is around Rs. 1600 depending on the vehicle used.  It takes anywhere between two and three hours to drive from the Lucknow airport to the IIT campus.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > how to reach]
+Delhi is the adjoining major airport which has flights to all Indian cities along with important foreign destinations. Delhi is just about 438 km from the city of Kanpur. Flights from Delhi to Kanpur are also available. After reaching Delhi, there are multiple ways to reach Kanpur.
+
+Kanpur Central Railway (CNB) station is among the busiest railway stations in the country, and is well connected to most cities in North, East and Central India. It is located on the Delhi-Kolkata train route and all major trains between these cities usually pass through and stop at Kanpur. You can easily get regular trains to Kanpur from other major cities of the country.
+
+IIT Kanpur is located at a distance of about 16 kilometers from the Kanpur Central Railway station.  It is possible to hire taxis (about Rs. 350) and auto rickshaws (about Rs.220) to IITK campus from the station. It takes about 40 minutes to an hour to drive from Kanpur Central Railway station to IIT Kanpur.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > how to reach]
+There are other railway stations like Kanpur Anwarganj (CPA) and Kalyanpur (KYP) that serve the city and its metropolitan region.
+
+There are several important national highways that pass through Kanpur. National Highway (NH) 19, which connects several important Indian cities like Delhi, Agra and Kolkata, passes through Kanpur. Kanpur is connected to Lucknow via NH 27 and is about 90 km from Lucknow. NH 86 and NH 91 are other highways that connect Kanpur to Ghaziabad, Bhopal and Indore.
+
+The Uttar Pradesh State Road Transport Corporation (UPSRTC) has a number of public bus services that ply between Kanpur and other cities like Lucknow, Allahabad, Agra, Jhansi, and Rai Barely.  There are also bus services that ply between Delhi and Kanpur overnight.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > how to reach]
+There are regular buses from other major cities of the country to Kanpur.
+
+=== contact us ===
+Source: https://www.cse.iitk.ac.in/
+How To Reach Us
+
+Dr. Surender Baswana
+Professor and Head
+Department of Computer Science & Engineering
+Indian Institute of Technology, Kanpur
+Kanpur - 208 016 (UP)
+INDIA
+
+Head: +91 (512) 259-6074 (office)
+
+Office: +91 (512) 259-7638 (Dept. office)
+
+FAX: +91 (512) 259-0725
+
+{ head } @ { cse.iitk.ac.in }
+
+For phone number or email of individual faculty members, please see the Faculty list.
+
+=== new fac ===
+Source: https://www.cse.iitk.ac.in/
+Prospective Faculty
+
+Computer Science and Engineering Department, IIT Kanpur, is looking for bright and dynamic faculty in all areas of computer science, including computer networks, databases, new areas of algorithms, theoretical computer science, distributed systems, internet technologies, and software engineering.
+
+Faculty members in the department enjoy a very friendly and flexible work environment. Some of the attractions of a faculty position are:
+
+Inititation Grant: The department provides a minimum initiation grant of Rs. 3 lakhs to new faculty members. In addition to this, the institute provides an inititation grant of at least Rs. 2 lakhs. The grant from the institute can be as high as Rs. 10 lakhs, depending on a proposal.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+Departmental Research Grants: There are also regular research grants available from the department, open to all faculty in the department. These grants are awarded based on a written proposal. They can provide an additional salary of up to Rs. 1 lakh per year, as well as money for travel, inviting researchers, etc.
+
+Young Faculty Chair: This position is available for young faculty (up to the age of 35 years) who excel in research. The chair position is for a duration of up to 3 years. It includes Rs. 1.2 lakhs additional salary as well as Rs. 3 lakhs research grant per year.
+
+The department provides support for international travel to present a paper in one conference every year.
+
+This is in addition to the one international travel support every three years from the institute.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+Further, the department also supports unlimited travel to a select set of top conferences if there is an accepted paper
+
+In addition, travel support is available from other sources like IBM, Microsoft, Google, Government funding agencies etc.
+
+National Conference Travel Support: Support for attending about two to three conferences every year within India is available from the department funds.
+
+Inviting researchers from around the world: You can invite world class researchers from anywhere with international airfare and other expenses paid through the N Rama Rao Chair, the Poonam and Prabhu Goel Chair, and the Research I Foundation.
+
+Visiting other research groups in the world: If you have collaborative research work going on with a group outside India, you can interact with them during the summer breaks. You can either visit them, or invite them to IIT Kanpur. Your/your visitor's travel and stay are supported by the Research I Foundation. This facility is also available to your PhD students.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+Low teaching load: Each faculty is expected to teach at most 2.5 courses per year, that is an average of 4 contact hours per week. Normally one teaches one compulsory course, and one elective course. Besides, one takes either a tutorial in either semester, or offer a joint course with another faculty member.
+
+Excellent working environment: The department has a brand new, centrally air-conditioned building. There is ample space for research groups, MTech and PhD students, etc., in the building. The institute subscribes to most of the digital libraries and access to these is available from the desktop in your office.
+
+Excellent CEP/Consulting Opportunities: The department and the institute have enough infrastructure that can be used to offer courses to industry. In addition, excellent consulting opportunities exist for faculty. IIT Kanpur has arguably the most flexible norms for consultancy.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+Attractive Pay Package: IIT pay packages are better than other colleges/institutes in India. IIT Kanpur normally gives additional increments to deserving candidates. All the perks given to central government employee are also given (e.g., PF, LTC, Medical, etc.). Relocation expenses are also covered by the institute subject to some limits.
+
+Flexible Leave rules: IIT Kanpur has one of the most flexible leave rules. A faculty member can get two months of vacation every year, sabbatical every six years, and short-term and long-term leave to temporarily work at other places. Short-term leave is for 1 semester, and can be availed after every two semesters. Long-term leave is for upto two years, and can be availed after every five years.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+All faculty members get spacious housing on the campus, which provides pollution-free and safe environment for family with 24-hour power (very rare power outages on campus) and water supply.
+
+Every house has an internal telephone connection with ADSL connectivity to the Internet.
+
+We have a self-contained campus with a shopping center, hospital, schools, library, restaurant, swimming pool, etc.
+
+We also have an active faculty club and women's association.
+
+If you are interested in applying for the position, please send email to head AT [cse.iitk.ac.in] Head, CSE. We will be glad to invite you to visit our deparment, and organise a seminar. We will cover travel and related expenses for travelling within India.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > new fac]
+Permanent appointments are made two to three times in a year, through a selection committee. But visiting appointments can be made any time during the year. Visiting faculty can apply for permanent position whenever the next formal selections take place.
+
+=== post doctoral fellows ===
+Source: https://www.cse.iitk.ac.in/
+Prospective Postdoctoral Fellows
+
+Applications are invited under the Institute Post Doctoral Fellowship Scheme, from Indian Nationals, Persons of Indian Origin (PIO), Overseas Citizens of India (OCI) and foreign nationals who have completed their Ph.D within last three years. The positions are purely temporary. The initial appointment will be for a period of one year, and extendable subject to satisfactory performance.
+
+Candidates with papers published in topmost International conferences (for example, conferences listed as A in this ranking) in their field of research, or ACM/IEEE journal publications will be preferred. Candidates with publications in non-SCI indexed journals or conferences that are little known will not be considered. At least three strong letters of recommendations will be required.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > post doctoral fellows]
+Openings are available in all areas of Computer Science & Engineering. Details of research interests of faculty members of our department, please see the Faculty list. The applications received will be processed throughout the year, and the selection will be made through an institute approved committee.
+Annual reviews will be conducted for the continuation of the fellowship and the maximum duration of the fellowship will be three years.
+
+Fellowships amount will be Rs. 50,000/- per month for the first year and Rs. 55,000/- per month for the second year, and Rs 60,000/ per month for the third year.
+
+The candidate will also get a travel and contingency amount of Rs. 1,00,000/- per year.
+
+A post-doctoral fellow would also be eligible to apply for the INSPIRE Faculty scheme of the Department of Science and Technology through the Institutional Mode. In addition to the research work, the duties of the post-doctoral fellows will involve teaching laboratory and/or tutorial classes up to 8 hours per week.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > post doctoral fellows]
+Medical benefits and other campus facilities will be the same as those of the registered students of IIT Kanpur.
+
+Post doctoral fellows will be provided suitable accommodation in the campus as per availability. They will also be eligible for accommodation in the students’ hostels. In case accommodations cannot be provided, HRA will be given as per rules.
+
+Leave rules for post doctoral fellows will be same as the leave rules of PG students.
+
+Interested candidate may send (a) his/her complete CV, (b) Cover letter mentioning preferred laboratory/faculty members of our department for undertaking research and (c) Detailed research plan by e-mail (.pdf file) or by post to the following address.
+
+Head of the Department,
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > post doctoral fellows]
+Indian Institute of Technology, Kanpur
+Kanpur - 208 016 (UP)
+INDIA
+E-mail: { head } @ { cse.iitk.ac.in }
+Application Website
+
+=== staff openings ===
+Source: https://www.cse.iitk.ac.in/
+Staff Openings
+
+=== students in cse ===
+Source: https://www.cse.iitk.ac.in/
+Students At CSE Department, IIT Kanpur
+
+=== suo moto disclosure ===
+Source: https://www.cse.iitk.ac.in/
+Suo Moto Disclosure
+
+Information as of Oct 21,  2019.
+
+• Number of faculty: 33
+
+• Number of Adjunct Faculty: 3
+
+• Number of Visiting Faculty: 1
+
+• Number of Institute Postdoctoral Fellows: 1
+
+• Number of Project Postdoctoral Fellows: 3
+
+• Number of Technical Staff: 8
+
+• Number of Ministerial Staff: 6
+
+• Number of Instructional Labs: 3
+
+• Number of Research Labs: 20
+
+Program | BTech | Dual
+Degree | MTech | MS | PhD
+
+Dual
+
+Degree
+
+Year
+
+2011 | - | - | - | - | 1
+
+2012 | - | - | - | - | 2
+
+2013 | 28 | 1 | - | - | 3
+
+2014 | 20 | - | - | - | 5
+
+2015 | 19 | 7 | - | - | 13
+
+2016 | 91 | 2 | 1 | 3 | 11
+
+2017 | 97 | - | 4 | 5 | 11
+
+2018 | 76 | - | 75 | 10 | 15
+
+2019 | - | - | 82 | 13 | 9
+
+• B.Tech.: The admissions are governed by the rules of IIT JEE .
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > suo moto disclosure]
+• M.Tech./M.S./Ph.D.: The admissions criteria is that the candidate has to clear the tests and interviews. The selection procedure is available here.
+
+The recruitment criteria of the institute is followed by the department. The call for regular appointments is available here.
+
+To teach with passion, to seek and radiate new knowledge with vigor, and to participate in building our nation's digital base with commitment and integrity
+
+1. Develop education and research in frontier areas such as algorithm engineering, computer systems, machine learning cyber security, human-computer interaction, & Artificial Intelligence at par with this department's reputation in theoretical computer science.
+
+2. Develop large research programs with government and industrial funding.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > suo moto disclosure]
+3. Develop a critical mass of faculty, undergraduate researchers, M.Tech/MS/PhD students and post-doctoral fellows in target areas
+
+4. Develop a funding level from sponsored research and consultancy that is unparalleled in India.
+
+5. Develop presence in online education for scalable dissemination of knowledge nationally and internationally.
+
+6. Try to recruit more women faculty and researchers and continue to improve the environment conducive to women faculty.
+
+7. Make the department a great place to work for all employees and students.
+
+=== webmail ===
+Source: https://www.cse.iitk.ac.in/
+Webmail Service
+
+=== committees ===
+Source: https://www.cse.iitk.ac.in/
+Committees
+
+• Liaison with the Institute regarding the PG program.
+
+• Welfare of PG students of CSE, including monitoring and advising weaker students.
+
+• Scheduling of PG activities.
+
+• Initiatives to improve the PG program.
+
+• New programs, e.g. integrated M.Tech., M.S. by research.
+
+Name | Role | Email | Phone
+
+Debadatta Mishra | Convener, Counselling advisor | deba | 2004
+
+Surender Baswana | Head | sbaswana | 6074
+
+Rajat Mittal | Member | rmittal | 6210
+
+Piyush Rai | Ex-DPGC Convener | piyush | 6894
+
+Anjali Chouhan | Student Representative - 1 | anjalic24 | -
+
+Shrey Sharma | Student Representative - 2 | ssharma25 | -
+
+• Liaison with the Institute regarding the UG program.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+• Welfare of UG students of CSE, including monitoring and advising weaker students.
+
+• Scheduling of UG activities.
+
+• BTP grading.
+
+• Initiatives to improve the UG program.
+
+Name | Role | Email | Phone
+
+Sunil Simon | Convener, Counselling advisor | simon | 6212
+
+Debadatta Mishra | DPGC Convener | deba | 2004
+
+Nitin Saxena | Counselling advisor | nitin | 7588
+
+Sutanu Gayen | Placement Incharge | sutanu | 2276
+
+Raghunath Tewari | Ex-DUGC Convener | rtewari | 7174
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+Saagar K V | Student Representative - 1 | saagar22 | -
+
+Brinda Fadadu | Student Representative - 2 | brindaf23 | -
+
+• Liaison with Central Library and SLC representative.
+
+• Look after the functioning of the department Library.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+• Procurement of electronic as well as regular books.
+
+Name | Role | Email | Phone
+
+Sruti S Ragavan | Incharge | srutis | 2231
+
+Swarnendu Biswas | Ex-Incharge | swarnendu | 2055
+
+• Smooth functioning of the lab.
+
+• Planning for Lab's future. Prepare a priority list for procurement and upgradation for the year.
+
+• Purchase of all equipment that goes in the lab.
+
+• Coordinate with Computer Centre
+
+• Lab Incharge is CCCC representative
+
+Name | Role | Email | Phone
+
+Ashutosh Modi | Incharge | ashutoshm | 2131
+
+Preeti Malakar | Web Incharge-1 | pmalakar | 2024
+
+Sruti S Ragavan | Web Incharge-2 | srutis | 2231
+
+Sumit Ganguly | Member | sganguly | 7597
+
+Brajesh Kumar Mishra | Member | brajeshm | 7234
+
+Swarnendu Biswas | Ex-Lab Incharge | swarnendu | 2055
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+Amey Karkare | Ex-Head | karkare | 7520
+
+Piyush Rai | Ex-Web Incharge | piyush | 6894
+
+• Prepare a budget for the Department Promotion Account.
+
+• Keep track of credit (and debit) in CSE's accounts (DPA, MHRD funds, Endowents, etc.)
+
+• Preparing a statement of all expenditures and income of the department, say every semester, and presenting them to the faculty.
+
+• Initiatives for raising funds.
+
+Name | Role | Email | Phone
+
+Mainak Chaudhuri | Member | mainakc | 7890
+
+Nitin Saxena | Member | nitin | 7588
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+• Plan seminars - Identify speakers, domestic, international, and internal.
+
+• Initiatives to invigorate seminar series.
+
+• Making arrangements for the seminar, speaker.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+• Prepare timetable and guidelines for timetabling.
+
+• Prepare department calendar for each semester.
+
+Name | Role | Email | Phone
+
+Sunil Simon | Incharge | simon | 6212
+
+Surender Baswana | Ex-Incharge | sbaswana | 6074
+
+• Liaison with the Students' Placement Office.
+
+• Any department level placement activities.
+
+Name | Role | Email | Phone
+
+Sutanu Gayen | Incharge | sutanu | 2276
+
+Raghunath Tewari | Ex-Incharge | rtewari | 7174
+
+• Liason with Institute Counselling Service.
+
+• Counsel students as per Institute norms and procedures.
+
+Name | Role | Email | Phone
+
+Nitin Saxena | Advisor | nitin | 7588
+
+• Counsel students on ACA related matters
+
+Name | Role | Email | Phone
+
+Urbi Chatterjee | Advisor | urbic | 2211
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+Indranil Saha | Ex-Advisor | isaha | 6343
+
+• Allocate space to various users in the department
+
+• Plan for future space requirements of the department
+
+Name | Role | Email | Phone
+
+Nitin Saxena | Member | nitin | 7588
+
+Rajat Mittal | Member | rmittal | 6210
+
+• Coordinate with CC regarding Networking
+
+• Provide user feedback to CC
+
+Lab Incharge is CCCC representative.
+
+Name | Role | Email | Phone
+
+Sunil Simon | Convener | simon | 6212
+
+Raghunath Tewari | DUGC Convener | rtewari | 7174
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+Name | Role | Email | Phone
+
+Urbi Chatterjee | Convener | urbic | 2211
+
+Raghunath Tewari | Member | rtewari | 7174
+
+Rohit Singh | Student Member | rsingh | 7598
+
+• Collate all the department ranking-related information.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+• Coordinate with the institute ranking cell
+
+Name | Role | Email | Phone
+
+Adithya Vadapalli | SPOC | avadapalli | 2422
+
+• Systematic and timely disposal of obsolete records
+
+• Coordinate with the Registrar's Office
+
+Name | Role | Email | Phone
+
+Yadubir Singh | Member | yadubirs | 7638
+
+Gopendra Mishra | Member
+(Registrar Office) | gopendra@iitk.ac.in | 6984
+
+Name | Role | Email | Phone
+
+Rajat Mittal | Member | rmittal | 6210
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+Name | Role | Email | Phone
+
+Surender Baswana | Editor | sbaswana | 6074
+
+• Decisions on Website Design, Contents
+
+• Maintaining the department website.
+
+• Ensuring that for all BTP and theses, a copy is uploaded on the website
+
+Name | Role | Email | Phone
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > committees]
+Preeti Malakar | Incharge-1 | pmalakar | 2024
+
+Sruti S Ragavan | Incharge-2 | srutis | 2231
+
+Piyush Rai | Ex-Incharge | piyush | 6894
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+Akash Misra | Administrator | akash | 7590
+
+• Decisions on Kendra's Design, Contents
+
+• Maintaining the Kendra website.
+
+Name | Role | Email | Phone
+
+Amey Karkare | Ex-Head | karkare | 7520
+
+=== awards ===
+Source: https://www.cse.iitk.ac.in/
+Annual Best Teacher Award In CSE
+
+2025 - 2026
+
+Professor Mainak Chaudhuri (mainakc)
+Professor
++91 (512) 259/679-7890
+Computer Hardware and Architecture
+
+2024 - 2025
+
+Professor Debadatta Mishra (deba)
+Associate Professor
++91 (512) 259/679-2004
+Operating Systems, Virtualization and Cloud Computing and Computer Networks
+
+2023 - 2024
+
+Professor Surender Baswana (sbaswana)
+Professor
++91 (512) 259/679-6074
+Graph Algorithms, Dynamic Algorithms and Randomized Algorithms and Algorithms
+
+2022 - 2023
+
+Professor Mainak Chaudhury
+Professor
+Computer Hardware and Computer Architecture.
+
+2021 - 2022
+
+Professor Piyush Rai
+Associate Professor
+Machine Learning.
+
+2020 - 2021
+
+Professor Mainak Chaudhury
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > awards]
+Professor
+
+2019 - 2020
+
+Late Professor Pramod Subramanyan
+Assistant Professor
+Formal Methods, Computer Architecture, Systems Security and Design Automation.
+
+2018 - 2019
+
+Professor Surender Baswana (sbaswana)
+Professor
++91 (512) 259/679-6074
+
+This award, as well as an award for the best software, are sponsored by Pankaj Jalote through a corpus. Pankaj Jalote, who got his BTech from IIT Kanpur in Electrical Engineering in 1980, spent most of his academic life as a faculty member in the Department of CSE, which he joined as Asst Professor in 1989. In his over 16 years as faculty in CSE, he was also the Head of the department for four years, during which, with funds from Mr. NRN Murthy, he got the first CSE building (Kadim Diwan) build, and also established the first chair in the department. As he says, his IITK days have been very fruitful and also academically the most productive - his first four books were written while being a faculty at IIT Kanpur. Both his daughters, Sumedha and Sunanda, were also born while he was in IITK, and spent their childhood years in the campus. More about him is on his homepage (http://faculty.iiitd.ac.in/~jalote/)
+
+=== n rama rao chair ===
+Source: https://www.cse.iitk.ac.in/
+N. Rama Rao Chair
+
+The N. Rama Rao Chair was set up in the year 1998 in the Department of Computer Science and Engineering by a generous corpus of over Rs 65 Lakhs, set by one of the distinguished alumnus of IIT Kanpur (who wishes that his name be used sparingly) in the memory of his father Mr. N. Rama Rao.
+
+The basic objective of the chair is to encourage research and development work in all areas of Computer Science. There are three modes of operation that the Chair allow:
+
+In mode 1, occupancy by a Full Professor in Computer Science and Engineering at IIT Kanpur for 5 years, extensible to 10 years.
+
+In mode 2, occupancy for 1 year or 1 semester for eminent researchers from around the world, of any nationality.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > n rama rao chair]
+In mode 3, short term occupancy (upto a few weeks) by top- class computer science researchers from around the world of any nationality.
+
+Besides, the chair also supports a Distinguished Lecture Series
+
+A complete list of occupants of this chair is available here.
+
+The Department of Computer Science and Engineering encourages any reputed computer scientist who is interested in associating with the Department in any of the three modes to contact the Head of the Department. For any other information also, contact the Head (head@cse.iitk.ac.in).
+
+Any well reputed Computer Science researcher from any part of the world can apply. The occupant of the Chair will also hold a regular Professor position in Computer Science and Engineering Department at IIT Kanpur. This mode is likely to be of interest primarily to researchers of Indian Origin.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > n rama rao chair]
+The salary for the occupant will be that of a senior Full Professor, which is around Rs 30,000 per month. In addition, the Institute will provide a bunglow- style, 3-bedroom house on campus. Travel cost will also be reimbursed. From the Chair endowment, the occupant will get every year a grant of about Rs 3.75 lakhs, which can be used for travel, equipment, hiring staff, etc. It may be pointed out that for graduate students, the Institute provides full scholarship from its own funds (and the grant does not have to support them).
+
+Any well reputed computer scientist from any part of the world, of any nationality, can apply. This mode is best for faculty and researchers who wish to spend their Sabbaticals and Leave in India.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > n rama rao chair]
+In this mode, the occupant will be given a salary or honorarium consistent with his/her experience (likely to be between Rs. 25,000 to Rs. 30,000 per month.) In addition, the occupant will have from the endowment a grant of about Rs. 3.75 lakhs for one year. This can be used to cover the travel expenses of the occupant (both domestic and international travel), and other contingency expenses. The Department will provide accommodation on Campus, which can also be furnished.
+
+It is expected that during the stay, the occupant will offer one course every semester, and strengthen the research program in the Department in his/her area. B.Tech. projects and M.Tech. thesis may also be guided.
+
+Any well reputed computer scientist from any part of the world, of any nationality, can apply. This is the most unstructured mode, and anything is workable in it. The visit duration should be such that both the Department and the occupant can derive suitable benefits.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > n rama rao chair]
+In this mode, the occupant will be given a honorarium of about Rs. 1,000 per day. In addition, the occupant's travel expenses, and other contingency expenses, can be covered by the Chair endowment. The occupant will also be provided accommodation in the Guest House of IITK campus (which is furnished and also has dining facilities).
+
+It is expected that during the stay, the occupant will give some seminars, offer some workshop, collaborate with faculty members in suitable courses, and provide inputs to strengthen the research program in the Department in his/her area.
+
+=== prabhu goel chair ===
+Source: https://www.cse.iitk.ac.in/
+Poonam And Prabhu Goel Chair
+
+Dr. Prabhkar (Prabhu) Goel, a distinguished alumnu of IIT Kanpur, and his wife Mrs. Poonam Goel have set up the ''Poonam and Prabhu Goel Chair'' IIT Kanpur. The current occupant of this chair is Professor Sandeep Kumar Shukla.
+
+Annual Report for the year 2015-16
+
+Annual Report for the year 2016-17
+
+=== department newsletters ===
+Source: https://www.cse.iitk.ac.in/
+Department Newsletter
+
+• Volume 1 / Issue 8
+
+• Flip Book
+
+• PDF
+
+• Volume 2 / Issue 7
+
+• Flip Book
+
+• PDF
+
+• Volume 1 / Issue 6
+
+• Flip Book
+
+• PDF
+
+• Volume 2 / Issue 5
+
+• Volume 1 / Issue 4
+
+• Volume 2 / Issue 3
+
+• Volume 1 / Issue 2
+
+• Volume 1 / Issue 1
+
+=== inflections in computing ===
+Source: https://www.cse.iitk.ac.in/
+Hari Sahasrabuddhe Lecture Series
+
+A lecture series in honor of Hari Sahasrabuddhe, a pioneer in Computer Science Education in India to be delivered by people who have made pioneering advances in the theory and practice of computing.
+
+Any field of human endeavor is typically punctuated with major shifts in principles and metaphors that apply. Often these changes can be attributed to individuals, who through their insight and enterprise bring about paradigmatic changes in the theory and practice of that domain. This lecture series is intended to bring the young minds at IIT Kanpur in contact with such pioneers in the domain of computing, for interaction, understanding and inspiration.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - OVERVIEW, CONTACT, COMMITTEES > inflections in computing]
+The lecture series is sponsored by Mr. N. R. Narayana Murthy, a distinguished alumnus of IIT Kanpur
+
+Lecture 1 : Advances in Compilers in Last 40 Years by Frances E. Allen, 2007.
+
+Lecture 2 : When Biology is Computation by Prof. Leslie G. Valiant, 2008. [Poster]
+
+Lecture 3 : The Power of Abstraction by Prof. Barbara H. Liskov, 2009. [Poster]
+
+Lecture 4 : The Unexplained Success of Heuristic Algorithms for NP-Hard Combinatorial Optimization Problems by Prof. Richard M. Karp, 2010.
+
+Lecture 5 : Physarum Computations by Prof. Kurt Mehlhorn, 2012. [Poster]
+
+Lecture 6 : Homotopy Type Theory by Prof. Steve Awodey, 2015. [Poster]   [Slides]
+
+Lecture 7 : Learning Symbols for Trustworthy AI by Prof. Rajeev Alur, 2025. [Poster]   [Slides]  [Lecture Video]
+

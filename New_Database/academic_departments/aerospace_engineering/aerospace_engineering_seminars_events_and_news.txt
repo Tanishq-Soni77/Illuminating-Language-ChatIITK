@@ -1,0 +1,415 @@
+DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Department of Aerospace Engineering, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/aero. Snapshot: scraped in 2026.
+
+=== admission notice ===
+Source: https://www.iitk.ac.in/aero/admission-notice
+2022-23 1st Semester
+
+M.Tech.
+
+Admissions will be conducted using COAP (https://coap.iitb.ac.in/).
+
+No written exam or interviews will be conducted.
+
+MS (Research)
+
+Admissions will be based on shortlisting followed by online written examination and then interview of shortlisted candidates based on online written examination.
+
+Tentative dates are from 23rd to 27th of May 2022. You are required to be available during these days.
+
+Examination syllabus: Problems from Mathematics and Aerospace Engineering subjects (AE-GATE syllabus).
+
+Ph.D.
+
+Admissions will be based on shortlisting followed by online written examination and then interview of shortlisted candidates based on online written examination.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > admission notice]
+Tentative dates are from 23rd to 27th of May 2022. You are required to be available during these days.
+
+Examination syllabus: Problems from Mathematics (AE-GATE syllabus).
+
+=== aerospace sports day ===
+Source: https://www.iitk.ac.in/aero/aerospace-sports-day
+Aerospace Sports Day Winner's and Runner's List
+
+Sports Day
+
+Badminton Winner
+
+Badminton Winner+Runnerup
+
+Cricket Winner
+
+Chess Winner
+
+Chess Runnerup
+
+Football Winner
+
+Football Runnerup
+
+Throwball Winner
+
+Throwball Runnerup
+
+Volleyball Winner
+
+Volleyball Runnerup
+
+=== design competition ===
+Source: https://www.iitk.ac.in/aero/design-competition
+"Vibhram" a novel helicopter design by a team of post graduate students (two PhD and six MTech) from Aerospace Engineering Department of IIT Kanpur have won third prize in the graduate category of 34th Annual Student Design Competition organized by the American Helicopter Society (AHS) (see link below). This is the first time in 34 years history of this competition that a team from Asia has finished on the podium of this competition in the graduate category. They could achieve the current position by beating multiple teams from University of Liverpool, a second team from Georgia Tech., Nanjing University of Aeronautics and Astronautics (China) etc.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > design competition]
+See: https://vtol.org/education/student-design-competition
+
+The objective of this year's competition was to carry out conceptual system level design of an unmanned helicopter that can fly continuously for 24 hours while carrying a payload of 80 kg. The entire design work was carried out as part of AE 660: Preliminary Design of Helicopter course taught by Dr. Abhishek (assistant professor in Aerospace Department) in the previous semester. Prof. C. Venkatesan (Emeritus Fellow Professor in Aerospace Department) was the go to person for the team to discuss ideas and seek guidance whenever the team ran out of ideas.
+
+The design from IIT Kanpur is very innovative novel dissimilar coaxial rotor concept (see attached image) which was conceived for this competition by PhD student Mr. Rahul Ramanujam (a patent has already been filed on this concept). This rotor concept has been predicted to be more efficient than any existing helicopter concept such as conventional (single main rotor and tail rotor) and regular coaxial helicopters by 15-30%. This revolutionary new design is expected to have a strong impact on the future of helicopter technology. A research paper on the design authored by Rahul would be presented in September at European Rotorcraft Forum in Milan, Italy.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > design competition]
+The team members included:
+
+Mr. Karthik S. (Team leader, MTech)
+
+Mr. Rahul Ramanujam (Team technical leader, PhD)
+
+Mr. Ramdas (PhD)
+
+Ms. Diksha Aggarwal (MTech)
+
+Ms. Sakshi Gupta (MTech)
+
+Mr. Avinash Shet (MTech)
+
+Mr. Vishesh Kumar Singh (MTech)
+
+Mr. Naba Kishore Routray (MTech)
+
+=== event archives ===
+Source: https://www.iitk.ac.in/aero/event-archives
+Aerospace Engineering Students's Symposium 2016
+Graduate students will present their research work. We have a total of 42 technical presentations spread out in five sessions. The program schedule can be downloaded using the link below.
+
+Venue & Date:
+Outreach Auditorium 8th - 9th April 2016
+
+Program Synopsis:
+Registration – 15:30-16:00 (8th April 2016, Friday)
+Number of technical sessions – 6
+Number of presentations - 42
+
+Click Here to Download the Symposium's Program.
+
+Aerospace Engineering Doctoral Students's Symposium 2014
+Department of Aerospace Engineering, IIT Kanpur is organizing "Aerospace Engineering Doctoral Students’ Symposium" on 12th and 13th May 2014 at IIT Kanpur.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+The symposium provides a platform for the doctoral students to present their research work and interact with research students from other institutions. Further, it provides an exposure for the research scholars about the various state of the art research activities going on in the field of aerospace engineering at other premier institutions in India by creating an avenue for interaction. The students are requested to send the abstract in the prescribed format as given in the website www.iitk.ac.in/aero/aedss14
+
+Feb 27th: Seminar on Motion Planning and Target-Capturing Algorithms
+Dr. Mangal Kothari, who is currently working as a Post Doctoral Researcher in the Northumbria University, UK, would be giving a talk as per the following schedule. All interested are welcome to attend. Tea will be served at 3:15 pm.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+Dr. Kothari is a candidate for the faculty position in the Aerospace Engineering Department. Abstract of his talk and a brief biographical sketch are also appended below.
+
+Speaker: Dr. Mangal Kothari
+Title: Motion Planning and Target-Capturing Algorithms
+Date : Thursday, Feb 27, 2014
+Time : 03:30 PM
+Venue : AE seminar room
+
+Abstract
+
+In this talk, motion planning and target-capturing algorithms for aerospace applications will be presented. In the first part, a probabilistically robust motion planner for unmanned aerial vehicles (UAVs) will be discussed that combines philosophies of probabilistic approaches that include rapidly-exploring random trees (RRTs), chance constraint, and overlapping coefficient. The motion planner takes various forms of uncertainties present in the real world into account while planning the paths. To manage the level of uncertainty, the most likely future measurements are considered and then a priori closed-loop distribution is predicted.The predicted distributions are used to determine feasibility of while growing the tree to find in uncertain environments. In the second part, I will briefly outline my research contributions in the area of coordination of multi-UAV systems. Finally, I will outline my future research plans and teaching interests.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+About the Speaker
+
+Mangal Kothari did his B.E from University of Rajasthan, Masters from Indian Institute of Science, Bangalore, and Ph.D from University of Leicester. His research interests include guidance, control, and navigation of aerospace vehicles. He has worked on optimal control, motion planning of UAVs, and coordination of multiple UAVs. He is currently a postdoctoral fellow at Northumbria University and working on cooperative algorithms. He earlier worked as a scientist at National Aerospace Laboratories, Bangalore, and was a postdoctoral fellow at the University of Porto for a short period of time. He also visited MIT for six months to do some part of his doctoral research in collaboration with Prof. Jonathan P How at Aerospace Control Laboratory.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+International Workshop on Novel Combustion Concepts for Sustainable Energy Development
+With depleting Hydrocarbon fuel reserves, it is important to develop new technologies to reduce energy cost and to improve efficiency of the existing systems. Keeping these goals in mind, an International workshop is to be held at IIT Kanpur, India, between 2nd and 4th January 2014 to bring experts in Combustion Science and Technology from around the world on a single platform. The experts will present their ongoing research on “Novel Combustion Concepts for Sustainable Energy Development” followed by a panel discussion to identify few promising technologies and to develop a strategy to promote collaborative research on those technologies in order to offer few viable novel technologies for improved, efficient and sustainable utilization of Combustion based energy production using fossil/ bio fuels. As part of this activity special emphasis will be placed on micro-scale combustion systems that offer new challenges and opportunities.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+Apart from the inaugural session and the panel discussion, the workshop will be divided into eight technical sessions in which the 3-4 leading experts on the topic will present their work. These include dedicated sessions on Micro-combustion, Low temperature combustion in IC engines, Ultra lean combustion, Partially premixed combustion, Combustion of renewable fuels, Distributed combustion, Supersonic combustion, Combustion instability and control, and Noise. These topics are of significant importance for sustainable use of fossil fuels due to their lower fuel consumption rates and enhanced performance including efficiency, pollutants emission levels, lower thermal signatures, and enhanced life of the engine.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+The topics included in this volume are:
+
+Micro-combustion
+
+Low Temperature/Ultra Lean Combustion
+
+Gas Turbine Combustion
+
+Partially Premixed Combustion
+
+Gasification and Coal combustion/ Combustion of renewable fuels
+
+HCCI of Gasoline and Diesel like Fuels
+
+Distributed combustion and other Novel combustion and Ignition Concepts
+
+Combustion Modeling and Simulation
+
+Novel Combustion Concepts for Sustainable Growth
+
+Fuel Reforming to Cleaner Fuels
+
+Energy DevelopmentFor details see: http://www.iitk.ac.in/comb/
+
+Pravartana 2013 : TEQIP Workshop on Applied Mechanics
+The Mechanics & Applied Mathematics Group at IIT Kanpur is organizing Pravartana 2013: A TEQIP Workshop on Applied Mechanics from 05 to 07 Oct 2013 in Outreach Auditorium. The workshop is supported by TKIC (TEQIP Knowledge Incubation Center) at IIT Kanpur.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+The workshop will be inaugurated at 8:30 am on 05 Oct 2013.
+
+The detailed program is available here.
+
+Aug 2: Seminar on Flow control past bluff bodies
+Dr. Sanjay Kumar, Associate Professor at Department of Engineering, University of Texas at Brownville, USA would be presenting a seminar in the department as per the following schedule.
+
+Speaker: Dr. Sanjay Kumar
+Title: Flow control past bluff bodies
+Date : Friday, August 2, 2013
+Time : 04:00 PM
+Venue : AE seminar room
+
+Tea would be served at 3:45PM.
+
+Abstract
+
+Study and control of wake structure behind bluff bodies has several engineering applications. Some areas where knowledge of vortex shedding behind bluff bodies becomes important are: flow induced vibrations, acoustic noise, fluid mixing, among several others. The present talk will focus on presenting some of our recent experimental results on two investigations involving control of wake structure past a very simple bluff body – a circular cylinder, by controlled surface motion. In the first problem we study the classical problem of flow past a rotating cylinder (J. Fluids Engg. (2011)). In this work we present changes in the wake structure at various speeds of cylinder rotation at Reynolds number, Re, of 200 and for the first time show a clear evidence of new vortex shedding mode which occurs at sufficiently high cylinder rotation rates after the regular vortex shedding has been suppressed. In the second problem, we investigate flow past a rotationally oscillating cylinder with focus on lock-on (to appear in J. Fluid Mech. (2013)) at Reynolds numbers of 185 and 400. It is found that the wake lock-on depends not only on the forcing amplitude/frequency but also on the downstream extent. The circulation measurements reveal a universal decay curve with forcing frequency, independent of forcing amplitude, beyond Strouhal forcing and a scaling behavior with forcing amplitude at lesser forcing frequencies. In addition, we find a very interesting result that the far wake (~ 35 to 40 diameters downstream) can be forced to become two dimensional by rotational oscillations in certain forcing parameter range at Re = 400 thereby providing significant control on fluid mixing.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+About the Speaker
+
+Education:
+
+B.Tech (Aersopace Engineering) 1994 - IIT/K
+
+M.Tech (Aerospace Engineering) 1996 - IIT/K
+
+P.hD (Aeronautics) 2003 - Cal Tech.
+
+Professional Experience:
+
+2003 - 2006: Post-doctoal fellow at the Los Alamos National Laboratory, Los Alamos, NM (USA).
+
+2006 - 2011: Assistant Professor Department of Engineering, University of Texas at Brownville, Texas
+
+2011 - present: Associate Professor Department of Engineering, University of Texas at Brownville, Texas.
+
+Research Interests: Shock accelerated flows, Wakes, Fluid Instabilities.
+
+Team EndureAir from Helicopter Lab qualify for final phase of payload and endurance challenge
+
+Team of PG Students Win Third Place in AHS Student Design Competition
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > event archives]
+Students Talks on Research Scholar Day- Aerospace Engineering
+
+Research Scholar Day April 14-15, 2017
+
+Graduate Student's Symposium 2016
+
+Graduate Student's Symposium 2015
+
+5 major international events held in the department in last 10 years
+
+IUTAM symposium on Advances in Computation, Modeling and Control of Transitional and Turbulent Flows, 15-18 December 2014
+
+International workshop on, Novel combustion concepts for sustainable energy", 2-4, January 2014.
+
+9th International Conference on Intelligent Unmanned Systems (ICIUS 2013), 25-27 September 2013. Funded byDRDO, HAL, DST
+
+IUTAM Symposium on Bluff Body Flows, 12-16 December 2011.
+
+Indo-German discussion meeting on smart materials and structures, Dec 8-9, 2005 - Funded by DST, DFG
+
+=== feb 10 seminar on aircraft system identification and control ===
+Source: https://www.iitk.ac.in/aero/feb-10-seminar-on-aircraft-system-identification-and-control
+Aerospace Seminar on: Aircraft System Identification and Control
+
+Speaker: Dr. Majeed Mohamed, NAL Bangalore
+Date: Wednesday (10th February, 2015)
+Time: 04:30 pm
+Venue: NWFT Lecture Hall, Aerospace Engineering
+Tea will be served at 4:15 pm.
+
+Abstract
+
+In this talk, aircraft system identification and control will be presented. Aircraft system identification is the process of determining an adequate mathematical model of aircraft system, with unknown aerodynamic parameters which have to be determined from measured flight data. The accurate knowledge of aerodynamic parameters is very essential for controlling the aircraft system dynamics. In my presentation, the following parameter estimation problems related to aircraft systems will be discussed.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > feb 10 seminar on aircraft system identification and control]
+Calibration of aircraft flow angles in airdata system using sensor fusion approach.
+
+Aircraft aerodynamic parameter estimation from noisy data using adaptive nonlinear filter.
+
+Identification of aerodynamic derivatives and structural modes of a flexible aircraft.
+
+Brief outline on my research contributions in the area of stability analysis will also be presented. Finally, the presentation will be concluded with glimpse of my future research plan and teaching interest.
+
+Biographical Sketch of Speaker
+
+Majeed Mohamed obtained his B. Tech. from Calicut University, Kerala in 1988, and M. Tech. and Ph.D. from the Indian Institute of Technology Delhi on 2002 and 2012 respectively. He is currently working as Senior Scientist in CSIR-National Aerospace Laboratories, Bangalore. His research interests include aircraft parameter estimation and system identification, flight dynamics and control, stochastic estimation and aircraft modeling, nonlinear control and adaptive state estimation for flight vehicles, and flight instrumentation and sensor fusion. He has been working in the area of aircraft parameter estimation from flight data for transport aircraft (SARAS) and light compact aircraft (TEJAS). He has also expertise in the field of micro-processor based instrumentation system design while working at CSIR-Central Road Research Institute, New Delhi.
+
+=== jan 1 seminar on cfd and hypersonic flows ===
+Source: https://www.iitk.ac.in/aero/jan-1-seminar-on-cfd-and-hypersonic-flows
+Aerospace Seminar on: CFD and Hypersonic Flows
+
+Speaker: Dr. Akshay Prakash, Senior Researcher at Technical University of Graz, Austria
+Date: Thursday (1st January, 2015)
+Time: 03:30 pm
+Venue: Seminar room, Aerospace Engineering
+Tea will be served at 3:15 pm.
+
+Abstract
+
+The talk will focus on use of CFD as a research tool, particularly in hypersonic flows where experimental and flight test data are not easy to obtain. Shock fitting methods have recently been used to study the receptivity process for hypersonic boundary layer. These methods are particularly suited for receptivity studies since they are capable of a uniformly high order solution throughout the computational domain, including the near-shock regions. Further research efforts will include addition of state-to-state kinetics and effects of surface curvature and roughness. Also included in the discussion will be alternatives to increase simulation capabilities to include larger domains. One such way is to use the highly parallelizable LBM, which have recently been extended to supersonic flows. Other techniques like adaptive mesh refinement also have potential to enhance the efficiency of solution schemes, making simulation of larger domains more feasible.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > jan 1 seminar on cfd and hypersonic flows]
+Biographical Sketch of Speaker
+
+Dr. Akshay Prakash earned his BTech and MTech from IITB, India in Mechanical Engineering in the year 2005. Thereafter in 2011 he was awarded PhD from UCLA on accomplishment of his research, aimed at understanding receptivity and stability of hypersonic boundary by studying the effects of thermochemical non-equilibrium in a Mach 5.7 air flow over a blunt body. Dr. Prakash thereafter contributed towards two different Postdoctoral researches. The first was a simulation of a new IFMIF design by ENEA using Fluent. His contribution was towards establishing the safety margins for the range of prescribed design operating conditions. The latest of the researches was an industrially-collaborated research on the turbulence modelling of a large Bioreactor based on the highly parallelizable Lattice Boltzmann Methods.
+
+=== jan 7 seminar on state estimation cubature filters and sliding mode observers ===
+Source: https://www.iitk.ac.in/aero/jan-7-seminar-on-state-estimation-cubature-filters-and-sliding-mode-observers
+Aerospace Seminar on: State Estimation: Cubature Filters and Sliding Mode Observers
+
+Speaker: Dr. Bharani Chandra Kumar Pakki, Post-doctoral researcher at the University of Exeter
+Date: Wednesday (7th January, 2015)
+Time: 03:30 pm
+Tea will be served at 3:15 pm.
+
+Abstract
+
+State estimation plays a key role in several real life applications. In most of the cases it is not advisable to measure the complete states of the system due to system limitations or the sensors used for measurements are bulky, noisy or expensive. In this talk two classes of state estimators will be presented. The first class consists of recently developed cubature filters namely cubature information filters and cubature H-infinity filters. Cubature information filters are developed in information domain and they can easily be extended for multiple sensors, whereas cubature H-infinity filters are deveoped by fusing cubature Kalman filter and H-infinity filter and can handle non-Gaussian noise. The square root versions of these filters are further developed for numerical accuracy. The efficacy of these filters are validated on SLAM (simultaneous localisation and mapping) problem. The next class of filters consist of LPV (linear parameter varying) sliding mode observer. This observer has a capability to deal with inexact scheduling parameter knowledge. Further, it is developed to reconstruct the faults. This observer is then used to reconstruct the actuator faults of a high-fidelity aircraft model.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > jan 7 seminar on state estimation cubature filters and slidi]
+Biographical Sketch of Speaker
+
+Bharani Chandra Kumar Pakki received B.Tech degree from JNTU, Hyderabad, India, M.Tech in Control Systems from College of Engineering, Thiruvananthapuram, India and Ph.D from University of Leicester, UK. Before joining Ph.D, for a short period, he worked as a research assistant at Dept. of Aerospace Engineering at IISc, Bangalore and at IIT-Bombay, India. He also worked as an assistant Professor at GMRIT, India and was a Team lead, Control Systems Group at Coral Digital Technologies (P) Ltd., Bangalore, India. Currently he is a post-doctoral researcher at the University of Exeter.
+
+His research interests include control systems design, state estimation and robotics. He has published a few papers in refereed conferences and journals.
+
+=== openings for postdoctoral fellows ===
+Source: https://www.iitk.ac.in/aero/openings-for-postdoctoral-fellows
+The Department of Aerospace Engineering, IIT Kanpur, invites applications for postdoctoral positions in the following areas.
+
+Aerospace Vehicle Design
+
+Flight Mechanics and Control
+
+Space Dynamics
+
+Turbo Machinery
+
+Rocket and Gas Turbine Propulsion
+
+High Speed/Low Speed Aerodynamics
+
+CFD/CSD
+
+Wind Energy
+
+Aeroacoustics
+
+Dynamics and Control
+
+Aerospace Structures and Materials
+
+Structural Dynamics and Aeroelasticity
+
+Helicopter Dynamics and Control
+
+MAV and UAV
+
+The applicants must have a PhD degree in Aerospace Engineering or related fields from reputed universities in India and abroad. Candidates who have submitted their PhD thesis are also eligible to apply. However, they are expected to successfully defend their PhD thesis within six months from the date of their joining (if selected). The applicant may or may not specify the name of the mentor faculty member during the time of application. However, we encourage potential applicants to get in touch with prospective mentors before applying.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > openings for postdoctoral fellows]
+The details of research topics and faculty profile of the department can be seen at https://www.iitk.ac.in/aero/all-disciplines
+
+More details regarding the Institute Postdoctoral Fellowship can be accessed at https://iitk.ac.in/dofa/institute-postdoctoral-fellowship
+
+=== photo gallery ===
+Source: https://www.iitk.ac.in/aero/photo-gallery
+Aero India 2013
+
+XVII National Seminar on Aerospace Structures (NASAS)
+
+Aircrafts which are used for flight lab experiments for the students.
+
+=== student symposium ===
+Source: https://www.iitk.ac.in/aero/student-symposium
+Aerospace Engineering Graduate Students' Symposium (AEGSS-2016)
+
+"Aerospace Engineering Graduate Students' Symposium", is scheduled for 8-9th April 2016 in the Outreach Auditorium.
+
+Graduate students will present their research work. We have a total of 42 technical presentations spread out in six sessions. The program schedule can be downloaded using the link below.
+
+Venue & Date:
+Program Synopsis:
+Number of technical sessions – 6
+Number of presentations - 42
+
+=== student symposium 2015 ===
+Source: https://www.iitk.ac.in/aero/student-symposium-2015
+Aerospace Engineering Graduate Students' Symposium (AEGSS-2015)
+
+"Aerospace Engineering Graduate Students' Symposium", is scheduled for 11th April (Saturday) 2015 in the Outreach Auditorium.
+
+Graduate students will present their research work. We have a total of 35 technical presentations spread out in five sessions. The inauguration of the event begins at 8.30 AM and technical sessions start from 9.00 AM. The program schedule can be downloaded using the link below.
+
+Click Here to Download the Symposiums Program
+
+=== summer workshop ===
+Source: https://www.iitk.ac.in/aero/summer-workshop
+Since last 2 years SAE has been organizing Summer Camp / Workshop for First Year Students to excite them towards all things related to Aerospace Engineering. This has been a great success with strong participation every year. In 2012 the following activities were arranged.
+
+Coordinators: Tushar Sikroria and Ankur Chawla
+
+Special Lecture and Workshop: Patent Information for Research and Entrepreneurship Speaker: Mr. Amit Shukla, Consultant, SIDBI-Innovation & Incubation Centre, IITK Date: June 1, 2012
+
+Lectures by Faculty
+
+Dr. Abhijit Kushari: Propulsion (28 May )
+
+Dr. Sudhir Kamle: Structures (29 May)
+
+Dr. Abhishek: Helicopters (29 May)
+
+Dr. T K Sengupta: Aerodynamics (29 May)
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCE > summer workshop]
+Dr. A K Ghosh: Flight Mechanics (31 May)
+
+Dr. Kamal Poddar: LabVIEW (4 June)
+
+Lectures by Students
+
+Inertial Measurement Units (30 May)
+
+Sensors (31 May)
+
+Projects Undertaken by Students
+
+Fixed Wing MAV Design
+
+Wing and Wing Box Structure
+
+Rocket Design
+
+=== workshops ===
+Source: https://www.iitk.ac.in/aero/workshops
+MATLAB
+
+Ansys
+
+Solidworks
+
+CATIA
+

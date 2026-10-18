@@ -1,0 +1,83 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF MS (MS) COURSES
+Name: All courses of Department of MS (MS) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course MS601 - STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Crystal structure, Bonding of atoms, Crystal chemistry, Equilibrium thermodynamics, Phase equilibria, Phase transformations, Dia, Para, Ferro, Ferri and Anti ferromagnetism, Magnetic domains, Anisotropy effects, Magnetostriction, Measurement of magnetic properties, Soft and hard magnetic materials and their technology.
+
+Course MS601A - STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Crystal structure, Bonding of atoms, Crystal chemistry, Equilibrium thermodynamics, Phase equilibria, Phase transformations, Dia, Para, Ferro, Ferri and Antiferromagnetism, Magnetic domains, Anisotropy effects, Magnetostriction, Measurement of magnetic properties, Soft and hard magnetic materials and their technology.
+
+Course MS602 - ELECTRICAL AND DIELECTRIC MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Metallic conduction, Energy bands, Brillouin zones, Temperature dependence of metallic conductivity, Impurity contributions, Semiconductor materials, Doping effects, Law of mass action, Electrical resistivity and Hall effect measurements, Recombination Processes, pn junctions, MOS field effect transistors, Semiconductor technology, Point defects, Diffusion phenomenon, Ionic conduction, Temperature and (aliovalent) impurity effects, Superionic conductors and devices, Di, piezo and ferroelectric materials, Mechanisms of polarization, Dielectric parameters and their measurements.
+
+Course MS602A - ELECTRICAL AND DIELECTRIC MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Metallic conduction, Energy bands, Brillouin zones, Temperature dependence of metallic conductivity, Impurity contributions, Semiconductor materials, Doping effects, Law of mass action, Electrical resistivity and Hall effect measurements, Recombination Processes, pn junctions, MOS field effect transistors, Semiconductor technology, Point defects, Diffusion phenomenon, Ionic conduction, Temperature and (aliovalent) impurity effects, Superionic conductors and devices, Di, piezo and ferroelectric materials, Mechanisms of polarization, Dielectric parameters and their measurements.
+
+Course MS603 - MECHANICAL PROPERTIES OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-1-5. Source: Courses of Study 2021, IIT Kanpur.
+Stress and strain tensors, Elastic constants, Effect of structure on elastic behaviour, Elastic stress distributions, Viscosity and viscoelasticity in polymers, Yielding criteria, Dislocations and plastic deformation of metals and ceramics, Strengthening mechanisms, Creep, Brittle fracture in ceramics and glasses, Toughening of ceramics and composites, Fatigue, Mechanical testing, Strength and engineering design with brittle solids, Heat treatment, Powder processing.
+
+Course MS603A - MECHANICAL PROPERTIES OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Stress and strain tensors, Elastic constants, Effect of structure on elastic behaviour, Elastic stress distributions, Viscosity and viscoelasticity in polymers, Yielding criteria, Dislocations and plastic deformation of metals and ceramics, Strengthening mechanisms, Creep, Brittle fracture in ceramics and glasses, Toughening of ceramics and composites, Fatigue, Mechanical testing, Strength and engineering design with brittle solids, Heat treatment, Powder processing.
+
+Course MS604 - CHARACTERIZATION OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-1--5. Source: Courses of Study 2021, IIT Kanpur.
+Crystallography, Reciprocal lattice, Diffraction methods, Electron microscopy, Metallography, Thermal analysis, Chemical analysis, Spectroscopic techniques, Laboratory sessions.
+
+Course MS604A - CHARACTERIZATION OF MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-1-0-10. Source: Courses of Study 2021, IIT Kanpur.
+Crystallography, Reciprocal lattice, Diffraction methods, Electron microscopy, Metallography, Thermal analysis, Chemical analysis, Spectroscopic techniques, Laboratory sessions.
+
+Course MS605 - MATERIALS ENGINEERING
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Solidification, Powder processing, Crystal growth, Heat treatment and microstructures, Nondestructive evaluation, Processing of glasses and polymers, Novel processing methods, Thin films, Surface phenomena and corrosion.
+
+Course MS605A - MATERIALS ENGINEERING
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Solidification, Powder processing, Crystal growth, Heat treatment and microstructures, Nondestructive evaluation, Processing of glasses and polymers, Novel processing methods, Thin films, Surface phenomena and corrosion.
+
+Course MS606 - ELECTRONIC MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Classification, Crystal growth techniques, Wafer processing, Doping methods, Formation of oxide layer, CVD, MOCVD and MBE, Metallic contacts and interconnects, Lithography, Processing integration. Photonic materials solar cells, photodetectors, light emitting diodes, Superlattice structures, Materials for high frequency and high temperature devices, Application of linear and nonlinear dielectric materials, Electrooptic ceramics, Materials for signal processing, transducers and digital data storage, Superconducting materials and applications.
+
+Course MS606A - ELECTRONIC MATERIALS
+Department: Department of MS. Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Classification, Crystal growth techniques, Wafer processing, Doping methods, Formation of oxide layer, CVD, MOCVD and MBE, Metallic contacts and interconnects, Lithography, Processing integration. Photonic materials solar cells, photodetectors, light emitting diodes, Superlattice structures, Materials for high frequency and high temperature devices, Application of linear and nonlinear dielectric materials, Electrooptic ceramics, Materials for signal processing, transducers and digital data storage, Superconducting materials and applications.
+
+Course MS611 - MATERIALS FOR ENERGY CONVERSION & STORAGE
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Characteristics of solar radiation, Basic features of solar cells, Various junction configurations, pn homojunction, Schottky barrier, Heterojunction, Photo electrochemical cells, Desired material properties, Promising semiconductor materials, Various fabrication techniques, Solid state diffusion, Vacuum evaporation, Sputtering, Thermal oxidation, Chemical displacement, Plasma deposition, Energy storage devices.
+
+Course MS614 - ENGINEERING POLYMERS
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Classification and structure of polymers, Glass transition, Linear viscoelasticity, Stress relaxation and dynamic experiments, Mechanical models, Superposition principles, Effect of structure on mechanical properties, Rubber elasticity, Yield and fracture.
+
+Course MS617 - INTRODUCTION TO NANOMATERIALS AND NANOTECHNOLOGY
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Effects of confinement and finite size zero, one and two dimensional nanostructures(concepts of surface and interfacial energies), Intermolecular and interfacial forces in organic, polymeric, biological and aqueous systems Van derWaals, electrostatic, double layer, acid base, depletion interactions, hydrophobic force, layering, mesoscale thermodynamics, Gibbs treatment of interfaces, mesoscale fluid dynamics, thin soft films, mesoscale phenomena in soft matter and applications: adhesion, wetting, nucleation, Nanofabrication: patterning of soft materials by self organisation and other techniques, chemical selfassembly, artificial multilayers, cluster fabrication, Langmuir Blodget growth, Nano lithography, Scanning probe lithography, Micro contact printing, Synthesis of nanoparticles and films: solgel, hydrothermal, freeze drying, intercalation, attrition, ion implantation, Gas phase condensation, Chemical vapour deposition, Nanosuspensions ferro fluids, Compaction of nanocrystlline materials, Carbon nanotubes, short and long term applications and perspectives, Demonstration of some techniques in preparation and characterization of nanomaterials.
+
+Course MS617A - INTRODUCTION TO NANOMATERIALS AND NANOTECHNOLOGY
+Department: Department of MS. Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Effects of confinement and finite size zero, one and two dimensional nanostructures(concepts of surface and interfacial energies), Intermolecular and interfacial forces in organic, polymeric, biological and aqueous systems Van der Waals, electrostatic, double layer, acid base, depletion interactions, hydrophobic force, layering, mesoscale thermodynamics, Gibbs treatment of interfaces, mesoscale fluid dynamics, thin soft films, mesoscale phenomena in soft matter and applications: adhesion, wetting, nucleation, Nanofabrication: patterning of soft materials by self organisation and other techniques, chemical self assembly,artificial multilayers, cluster fabrication, Langmuir Blodget growth, Nanolithography, Scanning probe lithography, Micro contact printing, Synthesis of nanoparticles and films: solgel, hydrothermal, freeze drying, intercalation, attrition, ionimplantation, Gas phase condensation, Chemical vapour deposition, Nanosuspensions ferrofluids, Compaction of nanocrystlline materials, Carbon nanotubes, short and long term applications and perspectives, Demonstration of some techniques in preparation and characterization of nanomaterials.
+
+Course MS698 - GRADUATE SEMINAR
+Department: Department of MS. Credits (L-T-P-D-C): ----0. Source: Courses of Study 2021, IIT Kanpur.
+Graduate Seminar
+
+Course MS698A - GRADUATE SEMINAR
+Department: Department of MS. Credits (L-T-P-D-C): 0-0-0-0-0. Source: Courses of Study 2021, IIT Kanpur.
+Graduate Seminar
+
+Course MS699 - M TECH THESIS
+Department: Department of MS. Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+M. Tech. Thesis
+
+Course MS799 - PHD THESIS
+Department: Department of MS. Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis

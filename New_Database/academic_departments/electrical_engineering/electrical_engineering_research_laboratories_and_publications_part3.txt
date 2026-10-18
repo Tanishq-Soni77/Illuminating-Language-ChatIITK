@@ -1,0 +1,621 @@
+DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS (part 3 of 3)
+Name: Department of Electrical Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/ee. Snapshot: scraped in 2026.
+
+=== teaching laboratories ===
+Source: https://www.iitk.ac.in/ee/teaching-laboratories
+Basic Electronics Laboratory
+The lab is used for course no ESc201A (Introduction to Electronics) and is located in CL102B and CL105B
+Contact No: 7856
+
+Dr. Rik Dey (Faculty Coordinator)
+
+Mr. Kaushal Kishore (In-chagre)
+
+Mr. Anand Kumar Maurya
+
+Mr. Himanshu Dhiman
+
+Mr. Ashish
+
+Mr. Rishabh Verma
+
+DC Power Supply.
+
+Digital Multimeter.
+
+Function Generator.
+
+Digital Oscilloscope.
+
+Trainer Kit
+
+List of Experiments
+
+Familiarization with Laboratory Instruments (Oscilloscope, Function Generator, Digital Multimeter, DC Power Supply)
+
+Characterization of Passive Circuit Elements (R, L, C)
+
+Time & Frequency Response of RC and RL Circuits
+
+Diodes and DC Power Supply
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Bipolar Junction Transistor (BJT) Circuits (Inverter, Common Emitter Amplifier)
+
+Operation Amplifiers
+
+Wave Shaping
+
+Basic Combinatorial Circuits
+
+Sequential Circuits
+
+Photos
+
+Control Systems Laboratory
+This lab is used for course no. EE380 (Electrical Engineering Lab - Control Section)
+Contact No: 0512-679-7821
+
+30 benches, each with
+
+A permanent magnet dc motor control setup built around a dsPIC30F4012 microcontroller
+
+Function generator
+
+Power supply
+
+PC with MPLAB IDE, GNU Octave, etc.
+
+Each setup is capable of communication with the remaining setups using Controller Area Network (CAN) protocol. This experimental setup was developed in the NCS Laboratory .
+
+Ramprasad Potluri
+
+Laxmidhar Behera
+
+Nishchal Verma
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Soumya Ranjan Sahoo
+
+Abhilash Patel
+
+Twinkle Tripathy
+
+Lab model worth replicating?
+
+Reason for why this lab is a model worth replicating
+
+Sanjay Kumar Ram (Lab In-charge)
+
+Vikas Kumar
+
+EE380 Controls Lab Downloads
+
+More information, such as video demos, may be added to this page over time.
+For clarifications, feel free to contact: Dr. Ramprasad Potluri, [email address hidden on the website]
+
+How to set up the EE380 Control Systems Laboratory Module
+
+Source files and bill of materials for designing a dsPIC board
+
+Source Codes (.m files, .mdl files, .c files, .h files)
+
+Lab Manual
+
+Lecture Notes
+
+Lab and Prelab Templates
+
+Contact Person
+
+Mr. Sanjay Kumar Ram
+
+Location: DJAC-504H-B
+Contact: 0512-679-7821
+
+Digital Signal Processing Laboratory
+The lab is used by research students and course no: EE606 (ARCHITECTURE AND APPLICATIONS OF DIGITAL SIGNAL PROCESSORS)
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Contact No: 7773
+
+projects
+
+The software facilities include the following:Code Composer Studio MatLab LabVIEW
+
+Test and measuring instruments:Digital Storage Oscilloscopes 100 MHz Function/ Pulse Generators 20 MHz Microphones Headphones Speakers
+
+Computers include various software and applicationsb Intel Quad Core Desktop Computer Intel Pentium IV Desktop Computer Intel Core I7 Desktop Computer
+
+List of Experiments
+
+Introduction to Code Composer Studio-I
+
+Introduction to Code Composer Studio-II
+
+Introduction to the Addressing Modes
+
+FFT and Bit Reversal Operation
+
+FFT and its Applications
+
+Audio Codec and its Applications
+
+Real Time Data Exchange
+
+FIR filtering by interfacing Matlab with Code Composer Studio
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Introduction to Interrupts
+
+Digital communication using Binary Phase Shift Keying
+
+Adrish Banerjee
+
+Vijay Kumar Yadav
+
+Contact Person
+
+Mr. Vijay Kumar Yadav
+Location: ACES 305
+
+Electrical Science Laboratory
+The lab is used for course no ESO203 (Introduction to Electrical Engineering)
+Contact No: 7857
+
+Resources
+
+Dr. Ankush Sharma - Faculty In-charge
+
+Overview
+
+Located in WLE-313, the Basic Electrical Sciences lab., has 24 fully equipped setup benches to carry out numerous fundamental experiments. The experiments are designed to expose students to the practical executions of the fundamental theories of Electrical Engineering.
+
+Experiments
+
+Some of the experiments carried out in this lab as a part of the ESO 203 curriculum are
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+SINGLE PHASE TRANSFORMERS
+
+3-PHASE POWER MEASUREMENT
+
+AC/DC MOTORS COUPLED WITH GENERATORS
+
+SPEED CONTROL AND THEIR CHARACTERISTICS OF DC MACHINES
+
+SINGLE PHASE MOTORS
+
+Equipment
+
+Each experimental bench is equipped with variable AC and DC power supplies with adequate protections, which enables students to carry out the experiments in an electrically safe environment. The lab is equipped with energy meters, power meters, voltage meters, ammeters, various size and type of transformers, various types and sizes of motors.
+
+Contact Person
+
+Mr. Ambi Nageswaraiah
+
+Location : WLE313
+Contact Phone number: 259-7857
+
+Lab-in-charge
+
+Mr. Ambi Nageswaraiah
+
+Technical  staff:
+Mr. Srikanta Hota
+Mr. Sarvendra Kumar Singh
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Photos
+
+Lab Photo 1
+
+Lab Photo 2
+
+Electronic Circuits Laboratory
+This lab is used for EE380 and EE381 Electronic Circuit laboratories
+Contact Information:
+Room No.: WL 212
+Contact No: 7848
+
+Overview
+
+This lab caters mainly to the EE380 and EE381 Electronic Circuit laboratories. Each lab experiment has a design part, simulation and an actual experimental verification in the laboratory (bread-boarding/soldering). The basic objective is to give hands-on experience in the design and implementation of analog and mixed-signal circuits.
+
+Baquer Mazhari
+
+A. R. Harish
+
+Adrish Banerjee
+
+Vijay Kumar Yadav
+
+Sunil Kumar
+
+location
+
+WL-212 (Western Laboratories), IIT Kanpur
+
+Phone: 0512-2597848 (Mr. Vijay Kumar Yadav)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+EMEC Laboratory
+The lab is used for course no EE380A & EE381A (Electrical Engineering Laboratory) and is located in WL112
+Contact No: 7849
+
+Overview
+
+Electromechanical Energy Conversion (EMEC) Laboratory is the one the oldest and important laboratory of Electrical Engineering Department. The lab is equipped with conventional and modern electrical& electronic measuring equipments and ac & dc electrical machines. It is used for UG lab courses EE -380A & EE 381A. In the lab students study, learn & perform the experiments on different types of electrical machines such as - transformers, Synchronous motors, alternators, dc motors & generators, three phase and single phase induction motors, relays and controlled rectifiers to verify the different characteristics of the electrical machines.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Dr. A Joshi
+
+Dr. S C Srivastava
+
+Dr. S P Das
+
+Dr. P. Sensarma
+
+Dr. S N Singh
+
+Equipment
+
+DC Rectifier Sets, 0-270 V, 100 Amps and 50 Amps.
+
+Step Down Transformer, 25 kVA, 415/230V, 3-phase, 50Hz,
+
+Three Phase Alternators coupled with DC Motors.
+
+Open type dc & ac machines.
+
+Synchronous Motor coupled with DC Generators.
+
+Three Phase Squirrel cage Induction Motors
+
+Three Phase Squirrel cage Induction Motors Coupled with DC shunt Generators.
+
+Single phase Squirrel cage capacitor start capacitor run induction motors.
+
+Single phase Squirrel cage capacitor start capacitor run induction motors coupled with DC shunt Generators.
+
+Experimental tables with panel boards.
+
+Single phase full and half controlled rectifier’s kits.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Step down transformers of various ratings.
+
+Three and Single Phase Auto Transformers of various ratings.
+
+Test setups of directional over current relay
+
+Test setups of determination of phase sequence of three phase system.
+
+Digital Storage Oscilloscopes.
+
+Various ratings and various types of portable measuring equipments such as Watt meters, Voltmeters, Ammeters, Phase sequence indicator, Digital True RMS Multimeter, Electronic and rotary type Synchronoscopes.
+
+Insulation Tester (test voltage up to 5 kV)
+
+Clamp Meters,
+
+Infrared Thermometer.
+
+Current Probes.
+
+Voltage Differential Probes.
+
+Clamp on Earth Tester.
+
+Digital Contact and Non-contact type Tachometers
+
+Stroboscopes.
+
+Programmable LCR Bridge.
+
+Current Transformers.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Rheostats of various ratings.
+
+Three Phase and Single phase resistive loads.
+
+Three and single phase Capacitive Loads.
+
+Three Phase and Single phase fixed & variable Inductors.
+
+List of Experiments for EE380A
+
+Experiment No 1
+
+To perform Sumpner's test on two identical transformers and calculate their efficiency at 110%, 100%, 75% and 25% of full load at unity and 0.8 p.f. lagging
+
+To separate the hysteresis and eddy current losses combined in the core of a 1-phase transformer under the rated conditions
+
+Experiment No. 2
+
+To conduct load flow studies on a power system using Power System software and study the effect of the following:
+(a) Generation rescheduling
+(b) Increasing transmission line length
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+(c) Increasing system load
+(d) Shunt compensation (e) Series compensation
+
+Experiment No. 3
+
+To connect three single phase transformers into three-phase transformer bank and study the waveforms for various configurations.
+
+Experiment No. 4
+
+To perform no-load, blocked rotor and load tests on l-phase capacitor start-capacitor run induction motor and determine:
+(a) The parameters for the equivalent circuit.
+(b) Compute the performance of motor from the parameters and compare with experimental results.
+
+Experiment No. 5
+
+To perform no load, blocked rotor and load tests on a 3-phase squirrel cage induction motor and draw its equivalent circuit referred to the stator and calculate the efficiency of the motor.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Also obtain the performance characteristics of the motor theoretically from the equivalent circuit parameters and compare it with the experimentally obtained results.
+
+Experiment No. 6
+
+To perform open and short circuit tests on a synchronous generator and determine its synchronous impedance (i) neglecting saturation and
+(ii) considering saturation.
+
+To determine an equivalent circuit of the generator using the synchronous impedance values determined in above (i) and (ii).
+
+To determine and draw the terminal voltage versus load current characteristics of the generator for unity power factor load using the equivalent circuit determined in part 2 above.
+
+Also to determine voltage regulation of the generator for unity power factor load.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+List of Experiments for EE381A
+
+To study single phase AC regulator and its operation with R-load, and RL-load.
+
+To study single phase half controlled rectifier and its operation with R-load and RL–load.
+
+To obtain ‘V’ curves of a Synchronous Motor.
+
+(a) To Synchronize a Synchronous Generator with infinite bus Bar by Synchroscope and lamps methods.(b) To determine the maximum power transfer capacity across a transmission line in a single machine infinite bus system.
+
+(a) To study the directional inverse time over-current relay type CDD-21.(b) To determine the phase sequence or direction of phase rotation in a 3-phase system and compare it with the sequence determined by a phase sequence meter.
+
+To conduct experiment in the High Voltage lab to observe the followings. (a) Distinction between the types of electrostatic fields.(b) Different stages in gas breakdown.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Testing Facilities
+
+High Current Transformer and test setups for temperature rise test
+
+RCCB Test Setups.
+
+MCCB Test setups.
+
+Main Switches and Starters Test Setups except short circuit test.
+
+Electrical Endurance and over load test Setup up to 800 amps for three phase and single phase RCCBs, MCCBs, Starters and Main switches.
+
+Humidity Chamber.
+
+AC High Voltage Break Down Tester.
+
+Oven.
+
+Sound Proof Box.
+
+Leakage Current Clamp Meter.
+
+Contact Person
+
+Mr. Lekhraj Singh
+
+Location: WL112
+Contact No: 7849
+
+Lab-in-charge:
+Mr. Lekhraj Singh
+
+Support staff: Mr. S.P. Sahu
+
+Power Electronics Laboratory
+This lab is used for course no EE660, EE662
+Contact No: 6131
+
+List of Experiments
+
+Buck Convertor
+
+Boost Convertor
+
+Fly Back Convertor
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Forward Convertor
+
+Zero Current Switching Convertor
+
+Zero Voltage Switching Convertor
+
+Equipment
+
+Frequency Response Analyzer, DSP Controllers, Current Probes, Differential Probes, Various type of Variacs , Function Generator, Electrical Machines, Drives.
+
+Contact Person
+
+Lab-in-charge:Mr. Amit Kumar Basu
+
+Microprocessor and Microcontroller Laboratory
+The lab is used for course no EE381 (Electrical Engineering Lab) and is located in DJAC-504H
+Contact No: 7840
+
+Dr. Shubham Sahay (Faculty Coordinator)
+
+A. P. Bajpai
+
+Shivam Kumar
+
+Major facilities/Equipments available:
+
+Digital Storage Oscilloscopes (100 MHz)
+
+Arbitrary Function Generators (20 MHz)
+
+Microprocessor kits and data acquisition cards
+
+DC Power Supplies
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Microcontroller Programmer
+
+Universal IC Tester
+
+PC-based Data Acquisition System
+
+List of Experiments
+
+Synchronous and Ripple Counters
+
+Pseudo Random Binary Sequence (PRBS) and Sequence Generators using Shift Registers
+
+Familiarization of 8085 Microprocessor Kit
+
+Digital I/O Experiments Using the Logic Interface Card of the 8085 Microprocessor Kit
+
+Interface Experiments Using Dual DAC Card of the 8085 Microprocessor Kit
+
+Familiarization and Programming of PIC Microcontroller (PIC16F877A)
+
+Programming of PIC Microcontroller (Advanced Features of PIC16F877A)
+
+Computer based Data Acquisition I (Basic LabVIEW Programming and Digital I/O)
+
+Computer based Data Acquisition II (Analog OUT and Analog IN Using LabVIEW)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Contact Person
+
+Mr. A. P. Bajpai
+
+Phone: 0512-2597840
+Location: DJAC-504H
+
+Photos
+
+Lab Photo 1
+
+Lab Photo 2
+
+Lab Photo 3
+
+Microwave Laboratory
+The lab is used for course no EE647 (Microwave Measurements and design) and following research areas. It is located in ACES225
+
+Microwave Measurement and Design
+
+Characterization of Microwave devices and circuits
+
+Contact No: 7105
+
+Dr. Kumar Vaibhav Srivastava
+
+Dr. M. J. Akhtar
+
+Equipment:
+
+Agilent PNA-L Network Analyzer N5230A (10 MHz to 50 GHz)
+
+Agilent ENA Series Network Analyzer E5062A (300 KHz to 3 GHz)
+
+Agilent Network Analyzer 8714ET (300 KHz to 3000 MHz)
+
+Agilent Spectrum Analyzer N9320B (9 KHz to 3GHz)
+
+Rohde and Schwarz Spectrum Analyzer FS300 (9 KHz to 3GHz)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Agilent PSG analog signal generator E8257D 250 KHz to 20 GHz
+
+Agilent RF Signal Generator N9310A (9 KHz to 3GHz)
+
+WaveTek Microwave Source Model-952 (1 GHz to 4 GHz)
+
+WaveTek Microwave Source Model-954 (3.7 GHz to 7.6 GHz)
+
+WaveTek Microwave Source Model-955 (7.5 GHz to 12.4 GHz)
+
+HP Signal Generator 8656B (0.1 MHz to 990 MHz)
+
+Agilent Function/Arbitrary Waveform Generator 33250A 80 MHz
+
+HP Power Meter 437B
+
+HP Power Sensor 8481A
+
+HP Noise Figure Meter 8970B
+
+Agilent RF Amplifier 83006A, 0.01-26.5 GHz, 20 dB gain
+
+Agilent Calibration kit 85056D 2.4 mm
+
+Agilent Calibration kit 85032F Type-N
+
+Agilent Calibration kit 85033D 3.5 mm
+
+Shielded Anechoic Chamber:
+
+A Radio frequency (RF) anechoic chamber is a closed RF echo free space that simulates infinite free space condition inside a room. It is constructed by covering the inner walls of the room by RF absorbers made of carbon impregnated foam shaped in the form of pyramids (Fig. 1). The size of the pyramids and the carbon composition determines the lowest frequency that can be effectively absorbed. Larger sized cones are capable of absorbing lower frequency waves.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Anechoic chamber are used for measurement of antenna radiation pattern, electromagnetic compatibility, radar cross section, etc. Apart from creating a reflection free environment, an anechoic chamber should also suppress the unwanted signals penetrating into the chamber and interfering with the measurements. This is achieved by first lining the walls of the chamber by high permeability metal sheets and then with the RF absorber material. The metal cage is grounded using a specially prepared low conductivity earth pit connection to provide a zero potential cage. The metal cage shields the measurement space from external interferences.
+
+The chamber dimension are 7 m x 6 m x 3.3 m (LxWxH). It can be used for conducting measurements at frequencies from 1 GHz to 26 GHz. The quiet zone is 2m x 0.8 m x 0.8 m (WxHxL) at 1 GHz, and 2m x 0.3 m x 0.3 m (WxHxL) between 10 GHz and 26 GHz centered at a distance of about 4 m from the transmitting antenna. The shielded effectiveness is -50 dB at 1 GHz and – 40 dB from 2 to 18 GHz.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+List of Experiments
+
+VSWR Measurement and Impedance Calculation. Measure the VSWR using normal method and double minima method. Measure the frequency using the frequency meter and compare with calculated guided wavelength. Calculate the input impedance of a given load from the VSWR measurements and shift in the minima
+
+Study of Tuners and Impedance Matching using single, double and E-H tuners Measure the post reactance as a function of the depth of the post Impedance matching of a given load using slide screw tuner, E-H Tuner, Double stub tuner.
+
+To study the behavior of terminated coaxial transmission line in both frequency and time domains.
+
+Familiarization with basic operation of Vector Network Analyzer (VNA)Study the operation of VNA and understand the use of menus/soft keys Study the method of setting reference and introducing offset to obtain accurate readings. Use the VNA to measure the complete S parameters of the component under test.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Calibration and measurement with Vector Network Analyzer. Performing the 2-port calibration on the coaxial media. Characterization of the directional coupler, filter, attenuator etc.
+
+Understanding of Power Meter and calibration of variable attenuator. Understand the use of power meter. Calibration of variable attenuator. Determination of detector characteristics.
+
+Directional Coupler Characteristics and application to Scalar Network Analyzer. Measure the characteristics of a directional coupler like coupling, isolation and directivity. Use the directional coupler to set up a scalar network analyzer and measure the scattering matrix of a two-port device.
+
+Familiarization with the Noise Figure Meter and Measurement of Noise Figure of different devices. Familiarization with the Noise Figure Meter. Measurement of Noise Figure of different devices.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > teaching laboratories]
+Study of Spectrum Analyzer Measurement. Familiarization with the Spectrum Analyzer. Study of the spectra of modulated waveforms. Measure the 1 dB compression point of the amplifier and the harmonics produced. Gain flatness. Use the tracking generator as a scalar analyzer.
+
+Measure the radiation pattern and gain of the antenna. Measure the radiation pattern of the antenna under test. Measure the gain of the antenna using absolute gain measurement and gain comparison method.
+
+Ms. Anchal Agrawal
+
+Photos
+
+Pyramidal absorbers
+
+Anechoic chamber with a pair of antenna
+
+Contact Person
+
+Dr. Kumar Vaibhav Srivastava
+
+Phone: 91-512-259-7105
+Location: ACES-225
+
+Last Updated: Thursday, 24 July 2025 16:32
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/ee/mimt_lab/about.php (mimt lab about)
+https://www.iitk.ac.in/ee/mimt_lab/award.php (mimt lab award)
+https://www.iitk.ac.in/ee/mimt_lab/publications.php (mimt lab publications)
+https://www.iitk.ac.in/ee/rf-and-microwaves-publications (rf and microwaves publications)

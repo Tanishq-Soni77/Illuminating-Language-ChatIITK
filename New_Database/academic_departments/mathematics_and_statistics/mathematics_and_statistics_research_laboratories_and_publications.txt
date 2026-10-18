@@ -1,0 +1,790 @@
+DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Mathematics and Statistics, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/math. Snapshot: scraped in 2026.
+
+=== computer facilities ===
+Source: https://www.iitk.ac.in/math/computer-facilities
+In addition to the Computer Centre of the institute which caters to specialized computational needs of the academic community, the department has its own computing facilities for faculty, staff and students of the department. These include:
+
+Linux and Windows lab with high-end desktops with remote access facility;
+
+Advanced GPU and non-GPU workstations;
+
+Two clusters installed in centralized Data Centre; one with 4 nodes and the other with 18 nodes;
+
+Separate UPS' for network racks and switches;
+
+A MAPLE server with 30 users network license.
+
+Computer Labs
+
+One Linux Lab with 48 desktop computers and one Windows Lab with 34 desktop computers. These labs are available from 8 AM to 2 AM.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > computer facilities]
+Ph D scholars of the department are facilitated with personal computers in their personal cubicles.
+
+All PCs have advanced configurations (Core i7 processors and 8/16 GB RAM) with advanced and latest softwares.
+
+=== publication ===
+Source: https://www.iitk.ac.in/math/publication
+MATHSCINET Publications
+
+2022-2023
+
+2020-2021
+
+2018-2019
+
+2017-2018
+
+2016-2017
+
+2015-2016
+
+2014-2015
+
+2013-2014
+
+2012-2013
+
+2011-2012
+
+2010-2011
+
+2008-2009
+
+2007-2008
+
+2005-2006
+
+=== research areas in mathematics ===
+Source: https://www.iitk.ac.in/math/research-areas-in-mathematics
+Here are the areas of Mathematics in which research is being done currently.
+
+Algebraic geometry
+Geometric Invariant Theory:
+Faculty: Santosha Pattanayak
+
+The geometry of algebraic varieties:
+The geometry of algebraic varieties with reductive group actions, including flag varieties, toric varieties, torus actions on algebraic varieties, and spherical varieties. I am also interested in studying the structure of algebraic groups and GIT (Geometric Invariant Theory) quotients of algebraic varieties and exploring toric degenerations of algebraic varieties. Moreover, my interest extends to areas such as the Seshadri constants of algebraic varieties and the symplectic invariants of smooth projective algebraic varieties, including the Gromov width.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Narasimha Chary Bonala
+
+Commutative Algebra
+The research areas are Derivations, Higher Derivations, Differential Ideals, Multiplication Modules and the Radical Formula.
+Faculty: A. K. Maloo
+
+Complex Analysis & Operator Theory
+I mainly consider various analytic function spaces defined on the unit disk or on some half plane of the complex plane and various operators on these spaces such as multiplication operators, composition operators, Cesaro operators. Also, I work on similar operators on some discrete function spaces defined on an infinite rooted tree (graph), in particular, on the discrete analogue of Hardy spaces. I deal with number of other problems which connects geometric function theory with function spaces and operator theory.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: P. Muthukumar
+
+Computational Acoustics and Electromagnetics
+The study of interaction of electromagnetic fields with physical objects and the environment constitutes the main subject matter of Computational Electromagnetics. One of the major challenges in this area of research is in the development of efficient, accurate and rapidly-convergent algorithms for the simulation of propagation and scattering of acoustic and electromagnetic fields within and around structures that possess complex geometrical characteristics. These problems are of fundamental importance in diverse fields, with applications ranging from space exploration, medical imaging and oil exploration on the civilian side to aircraft design and decoy detection on the military side - just to name a few.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Computational modeling of electromagnetic scattering problems has typically been attempted on the basis of classical, low-order Finite-Difference-Time-Domain (FDTD) or Finite-Element-Method (FEM) approaches. An important computational alternative to these approaches is provided by boundary integral-equation formulations that we have adopted owing to a number of excellent properties that they enjoy. Listed below are some of the key areas of interest in related research:
+
+Design of high-order integrators for boundary integral equations arising from surface and volumetric scattering of acoustic and electromagnetic waves from complex engineering structures including from open surfaces and from geometries with singular features like edges and corners.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Accurate representation of complex surfaces in three dimensions with applications to enhancement of low quality CAD models and in the development of direct CAD-to-EM tools.
+
+High frequency scattering methods in three dimensions with frequency independent cost in the context of multiple scattering configurations. A related field of interest in this regard includes high-order geometrical optics simulator for inverse ray tracing.
+
+High performance computing.
+
+Faculty: Akash Anand, B. V. Rathish Kumar
+
+Computational Fluid Dynamics
+Development of Numerical Schemes for Incompressible Newtonian and Non-Newtonian Fluid Flows based on FDM, FEM, FVM, Wavelets, SEM, BEM etc. Development of Parallel Numerical Methods for Heat & Fluid Flow Analysis on Large Scale Parallel Computing systems based on MPI-OpenMP-Cuda programming concepts, ANN/ML methods for Flow Analysis. Global Climate Modelling on Very Large Scale Parallel Systems.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: B. V. Rathish Kumar, Saktipada Ghorai
+
+Differential Equations
+Semigroups of linear operators and their applications, Functional differential equations, Galerkin approximations
+Many unsteady state physical problems are governed by partial differential equations of parabolic or hyperbolic types. These problems are mostly prototypes since they represent as members of large classes of such similar problems. So, to make a useful study of these problems we concentrate on their invariant properties which are satisfied by each member of the class. We reformulate these problems as evolution equations in abstract spaces such as Hilbert or more generally Banach spaces. The operators appearing in these equations have the property that they are the generators of semigroups. The theory of semigroups then plays an important role of establishing the well-posedness of these evolution equations. The analysis of functional differential equations enhances the applicability of evolution equations as these include the equations involving finite as well as infinite delays. Equations involving integrals can also be tackled using the techniques of functional differential equations. The Galerkin method and its nonlinear variants are fundamental tools to obtain the approximate solutions of the evolution and functional differential equations.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: D. Bahuguna
+
+Homogenization and Variational methods for partial differential equation
+The main interest is on Aysmptotic Analysis of partial differential equations. This is a technique to understand the macroscopic behaviour of a composite medium through its microscopic properties. The technique is commonly used for PDE with highly oscillating coefficients. The idea is to replace a given heterogeneous medium by a fictitious homogeneous one (the `homogenized' material) for numerical computations. The technique is also known as ``Multi scale analysis''. The known and unknown quantities in the study of physical or mechanical processes in a medium with micro structure depend on a small parameter $\varepsilon$. The study of the limit as $ \varepsilon \rightarrow0 $, is the aim of the mathematical theory of homogenization. The notion of $G$-convergence, $H$-convergence, two-scale convergence are some examples of the techniques employed for specific cases. The variational characterization of the technique for problems in calculus of variations is given by $\Gamma$- convergence.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: T. Muthukumar, B.V. Rathish Kumar
+
+Functional inequalities on Sobolev space
+Sobolev spaces are the natural spaces where one looks for solutions of Partial differential equations (PDEs). Functional inequalities on this spaces ( for example Moser-Trudinger Inequality, Poincare Inequality, Hardy- Sobolev Inequality and many other) plays a very significant role in establishing existence of solutions for various PDEs. Existence of extremal function for such inequalities is another key aspect that is investigated
+
+Asymptotic analysis on changing domains
+Study of differential equations on long cylinders appears naturally in various branches of Physics, Engineering applications and real life problems.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Problems (not necessarily PDEs, can be purely variational in nature) set on cylindrical domains whose length tends to infinity, is analysed.
+Faculty: Prosenjit Roy, Kaushik Bal, Indranil Chowdhury
+
+Analysis of Nonlinear PDEs involving fractional/nonlocal operator:
+Fully nonlinear elliptic and parabolic equation involving nonlocal operators. Equations motivated from stochastic control/ Game problems including Hamilton Jacobi Bellman Equations, Isaacs Equations, Mean Field Games problems -
+
+Viscosity Solution theory, Comparison Principle, Wellposedness theory, Stability, Continuous Dependence.
+
+Numerical Analysis –Wellposedness, Convergence, Error estimates of Finite difference method, Semi-lagrangian Method.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Indranil Chowdhury
+
+Control Theory and its applications:
+We study several aspects of controllability, say exact controllability, null controllability, approximate controllability, controllability to the trajectories of a given system of ordinary and partial differential equations (both linear and nonlinear). We study stabilizability (exponential, asymptotic) of a system of differential equations and construct feedback control for that system. Currently we are studying controllability of reaction diffusion systems of partial equations using Carleman inequalities and fixed point technique. Multiplier techniques are also used to show controllability of system of hyperbolic partial differential equations. Several mixed systems (hyperbolic and parabolic) are also been studied.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Mrinmay Biswas
+
+Functional Analysis & Operator Theory
+Banach space theory
+Geometric and proximinality aspects in Banach spaces.
+Faculty: P. Shunmugaraj
+
+Function-theoretic and graph-theoretic operator theory
+The primary goal is to implement methods from the complex function theory and the graph theory into the multivariable operator theory. The topics of interests include de Branges-Rovnyak spaces and weighted shifts on directed graphs.
+Faculty: Sameer Chavan
+
+Non-commutative geometry
+The main emphasis is on the metric aspect of noncommutative geometry.
+Faculty: Satyajit Guin
+
+Bounded linear operators
+A central theme in operator theory is the study of B(H), the algebra of bounded linear operators on a separable complex Hilbert space. We focus on operator ideals, subideals and commutators of compact operators in B(H). There is also a continuing interest in semigroups of operators in B(H) from different perspectives. We work in operator semigroups involve characterization of special classes of semigroups which relate to solving certain operator equations.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Sasmita Patnaik
+
+Harmonic Analysis
+Operator spaces
+The main emphasis is on operator space techniques in abstract Harmonic Analysis.
+
+In the Euclidean setting
+Analysis, boundedness and weighted boundedness of singular integral operators are major thrust areas in the department. In abstract Harmonic analysis we do work in studying Lacunary sets in the non-commutative Lp spaces.
+Faculty: Parasar Mohanty
+
+On Lie groups
+Problems related to integral geometry on Lie groups are being studied.
+Faculty: Rama Rawat
+
+Homological Algebra
+Cohomology and Deformation theory of algebraic structures
+Research work in this area encompasses cohomology and deformation theory of algebraic structures, mainly focusing on Lie and Leibniz algebras arising out of topology and geometry. In particular, one is interested in the cohomology and Versal deformation for Lie and Leibniz brackets on the space of sections of vector bundles e.g. Lie algebroids and Courant algebroids. This study naturally relate questions about other algebraic structures which include Lie-Rinehart algebras, hom-Lie-Rinehart algebras, Hom-Gerstenhaber algebras, homotopy algebras associated to Courant algebras, higher categories and related fields.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Ashis Mandal
+
+Image Processing
+TPDE based Image processing for Denoising, Inpainting, Classification, Compression, Registration, Optical flow analysis etc. Bio-Medical Image Analysis based on CT/MRI/US clinical data, ANN/ML methods in Image Analysis, Wavelet methods for Image processing.
+Faculty: B. V. Rathish Kumar
+
+Mathematical Biology
+There is an active group working in the area of Mathematical Biology. The research is carried out in the following directions.
+
+Mathematical ecology
+
+Research in this area is focused on the local and global stability analysis, detection of possible bifurcation scenario and derivation of normal form, chaotic dynamics for the ordinary as well as delay differential equation models, stochastic stability analysis for stochastic differential equation model systems and analysis of noise induced phenomena. Also the possible spatio-temporal pattern formation is studied for the models of interacting populations dispersing over two dimensional landscape.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Mathematical Modeling of the survival of species in polluted water bodies; depletion of dissolved oxygen in water bodies due to organic pollutants.
+
+Mathematical epidemiology
+
+Mathematical Modeling of epidemics using stability analysis; effects of environmental, demographic and ecological factors.
+
+Mathematical Modeling of HIV Dynamics in vivo
+
+Bioconvection
+Bioconvection is the process of spontaneous pattern formation in a suspension of swimming micro-organisms. These patterns are associated with up- and down-welling of the fluid. Bioconvection is due to the individual and collective behaviours of the micro-organisms suspended in a fluid. The physical and biological mechanisms of bioconvection are investigated by developing mathematical models and analysing them using a variety of linear, nonlinear and computational techniques.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Bio-fluid dynamics
+Mathematical Models for blood flow in cardiovascular system; renal flows; Peristaltic transport; mucus transport; synovial joint lubrication.
+Faculty: Malay Banerjee, Saktipada Ghorai, B.V. Rathish Kumar
+
+Cardiac electrophysiology
+Theory, Modeling & Simulation of Cardiac Electrical Activity (CEA) in Human Cardiac Tissue based on PDE-ODE models such as Monodomain Model, Biodomain model, Cardiac Arrhythmia, pace makers etc
+Faculty: B.V. Rathish Kumar
+
+Number Theory & Arithmetic Geometry
+Algebraic number theory and Arithmetic geometry
+Iwasawa Theory of elliptic curves and modular forms, Galois representations, Congruences between special values of L-functions.
+Faculty: Sudhanshu Shekhar
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Analytic number theory
+L-functions, sub-convexity problems, Sieve method
+Faculty: Saurabh Kumar Singh
+
+Number theory and Arithmetic geometry
+Iwasawa Theory of elliptic curves and modular forms, Selmer groups
+Faculty: Somnath Jha
+
+Number theory, Dynamical systems, Random walks on groups
+During the last four decades, it has been realized that some problems in number theory and, in particular, in Diophantine approximation, can be solved using techniques from the theory of homogeneous dynamics, random walks on homogeneous spaces etc. Indeed, one translates such problems into a problem on the behavior of certain trajectories in homogeneous spaces of Lie groups under flows or random walks; and subsequently resolves using very powerful techniques from the theory of dynamics on homogeneous spaces, random walk etc. I undertake this theme
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Arijit Ganguly
+
+Numerical Analysis and Scientific Computing
+The faculty group in the area of Numerical Analysis & Scientific Computing are very actively engaged in high-quality research in the areas that include (but are not limited to): Singular Perturbation problems, Multiscale Phenomena, Hyperbolic Conservation Laws, Elliptic and Parabolic PDEs, Integral Equations, Computational Acoustics and Electromagnetics, Computational Fluid Dynamics, Computer-Aided Tomography and Parallel Computing. The faculty group is involved in the development, analysis, and application of efficient and robust algorithms for solving challenging problems arising in several applied areas. There is expertise in several discretization methods that include: Finite Difference Methods, Finite Element Methods, Spectral Element Methods, Boundary Element Methods, Nyström Method, Spline and Wavelet approximations, etc. This encompasses a very high level of computation that requires software skills of the highest order and parallel computing as well.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: B. V. Rathish Kumar, Akash Anand, Indranil Chowdhury
+
+Operator Algebra
+Broadly speaking, I work with topics in C*-algebras and von Neumann algebras. More precisely, my work involves Jones theory of subfactors and planar algebras.
+Faculty: Keshab Chandra Bakshi
+
+Representation Theory
+Representation of Lie and linear algebraic groups over local fields, Representation-theoretic methods, automorphic representations over local and global fields, Linear algebraic groups and related topics MSC classification (22E50, 11F70, 20Gxx:)
+Faculty: Santosh Nadimpalli
+
+Representations of finite and arithmetic groups
+Current research interests: Representations of Linear groups over local rings, Projective representations of finite and arithmetic groups, Applications of representation theory.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Pooja Singla
+
+Representation theory of Lie algebras and algebraic groups
+Faculty: Santosha Pattanayak
+
+Representation theory of infinite dimensional Lie algebras
+Current research interest: Representation theory of Kac-Moody algebras; Toroidal Lie algebras and extended affine Lie algebras.
+Faculty: Sachin S. Sharma
+
+Representation theory and Invariant theory
+Current research interest: Representation and structure theory of algebraic groups, Classical invariant theory of reductive algebraic groups and associated Weyl groups.
+Faculty: Preena Samuel
+
+Combinatorial representation theory
+String algebras form a class of tame representation type algebras that are presented combinatorially using quivers and relations. Currently I am interested in studying the combinatorics of strings to understand the Auslander-Reiten quiver that encodes the generators for the category of finite length R-modules as well as the Ziegler spectrum associated with string algebras whose topology is described model-theoretically
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Amit Kuber
+
+Representation Theory of Algebraic groups: Representation theory of Algebraic groups and Lie algebras, and its applications to Invariant theory and Algebraic geometry.
+Faculty: Narasimha Chary Bonala
+
+Set Theory and Logic
+Set theory (MSC Classification 03Exx)
+We apply tools from set theory to problems from other areas of mathematics like measure theory and topology. Most of these applications involve the use of forcing to establish independence results. For examples of such results see https://home.iitk.ac.in/~krashu/
+Faculty: Ashutosh Kumar
+
+Rough set theory and Modal logic
+Algebraic studies of structures and corresponding logics that have arisen in the course of investigations in Rough Set Theory (RST) constitute a primary part of my research. Currently, we are working on algebras and logics stemming from a combination of formal concept analysis and RST, and also from different approaches to paraconsistency.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Mohua Banerjee
+
+Several Complex Variables
+Broadly speaking, my work lies in the theory of functions of several complex variables. Two major themes of my work till now are related to _Pick-Nevanlinna interpolation problem_ and on the _Kobayashi geometry of bounded domains_. I am also interested in complex potential theory and complex dynamics in one variable setting.
+Faculty: Vikramjeet Singh Chandel
+
+Topology and Geometry
+Algebraic topology and Homotopy theory
+The primary interest is in studying equivariant algebraic topology and homotopy theory with emphasis on unstable homotopy. Specific topics include higher operations such as Toda bracket, pi-algebras, Bredon cohomology, simplicial/ cosimplicial methods, homotopical algebra.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Debasis Sen
+
+Algebraic topology, Combinatorial topology
+I apply tools from algebraic topology and combinatorics to address problems in topology and graph theory.
+Faculty: Nandini Nilakantan
+
+Low dimensional topology
+The main interest is in Knot Theory and its Applications. This includes the study of amphicheirality, the study of closed braids, and the knot polynomials, specially the Jones polynomial.
+Faculty: Aparna Dar
+
+Geometric group theory and Hyperbolic geometry
+Work in this area involves relatively hyperbolic groups and Cannon-Thurston maps between relatively hyperbolic boundaries. Mapping Class Groups are also explored.
+Faculty: Abhijit Pal
+
+Manifolds and Characteristic classes
+We are interested in the construction of new examples of non-Kahler complex manifolds. We aim also at answering the question of existence of almost-complex structures on certain even dimension real manifolds. Characteristic classes of vector bundles over certain spaces are also studied.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Ajay Singh Thakur
+
+Moduli spaces of hyperbolic surfaces
+The central question we study here to find combinatorial descriptions of moduli spaces of closed and oriented hyperbolic surfaces. Also, we study isometric embedding of metric graphs on surfaces of following types: (a) quasi-essential on closed and oriented hyperbolic surfaces (b) non-compact surfaces, where complementary regions are punctured discs, (c) on half-translation surfaces etc.
+Faculty: Bidyut Sanki
+
+Systolic topology and Geometry
+We are interested to study the configuration of systolic geodesics (i.e., shortest closed geodesics) on oriented hyperbolic surfaces. Also, we are interested in studying the maximal surfaces and deformations on hyperbolic surfaces of finite type to increase systolic lengths.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > research areas in mathematics]
+Faculty: Bidyut Sanki
+
+Topological graph theory
+We study configuration of graphs, curves, arcs on surfaces, fillings, action of mapping class groups on graphs on surfaces, minimal graphs of higher genera.
+Faculty: Bidyut Sanki
+
+Tribology
+Active work has been going on in the area of "Tribology". Tribology deals with the issues related to lubrication, friction and wear in moving machine parts. Work is going in the direction of hydrodynamic and elastohydrodynamic lubrication, including thermal, roughness and non-newtonian effects. The work is purely theoretical in nature leading to a system on non-linear partial differential equations, which are solved using high speed computers.
+Faculty: B. V. Rathish Kumar
+
+=== sponsored projects ===
+Source: https://www.iitk.ac.in/math/sponsored-projects
+Analyzing Non-stationary Signals
+Project Area: Statistics
+Duration: 2008-2011
+Budget: 953280.00
+PI: Amit Mitra
+Co-PI: D. Kundu
+
+Modelling Inter Speaker Variability in Automatic Sp. Recog
+Project Area: Statistics
+Duration: 2008-2012
+Budget:1941000.00
+PI: Debasis Kundu
+Co-PI: -
+
+Development of Nodal Platform for Quantitative Methods for MRI Spectrocopy for the study of Human Brain
+Project Area: Mathematics
+Duration: 2009-2012
+Budget:3500000.00
+PI: R. K. S. Rathore
+Co-PI: Prof. RK Gupta, Dr. RP Tripathi, Director, INMAS
+
+Accelerated life Testing
+Project Area: Statistics
+Duration: 2009-2012
+Budget:1166880.00
+PI: Sharmishtha Mitra
+Co-PI: D. Kundu
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > sponsored projects]
+Study of Completely Bounded Multipliers and Non-Commutative Space
+Project Area: Mathematics
+Duration: 2009-2012
+Budget: 562500.00
+PI: Parasar Mohanty
+Co-PI: -
+
+Non-Local Initial Boundary Value Problems and their Applications
+Project Area: Mathematics
+Duration: 2010-2013
+Budget:1314000.00
+PI: Prof. R K Gupta (SGPGIMS)
+Co-PI: R K S Rathore
+
+Comparative Evaluation of Human Brain in Vitamin B-12 Deficiency Using EPI Based and steam Based DTI Techniques
+Project Area: Mathematics
+Duration: 2010-2013
+Budget: 899200.00
+PI: D. Bahuguna
+Co-PI: Malay Banerjee
+
+Attitude from vector observations
+Project Area: Mathematics
+Duration: 2011-2013
+Budget:1440000.00
+PI: Akash Anand
+Co-PI: -
+
+Analytical and Numerical study of mixed convection process in corrugated fluid saturated porous configurations
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > sponsored projects]
+Project Area: Mathematics
+Duration: 2012-2015
+Budget: 1982400.00
+PI: B V R Kumar
+Co-PI: -
+
+Mathematical Modelling of Bio-Terrorism and Biological Warfare
+Project Area: Mathematics
+Duration: 2012-2014
+Budget: 1823397.00
+PI: Peeyush Chandra
+Co-PI: -
+
+Efficient and accurate algorithms for acoustic and electromagnetic scattering form inhomogeneous scatters in two and three dimensions
+Project Area: Mathematics
+Duration: 2013-2016
+Budget: 1500000.00
+PI: Akash Anand
+Co-PI: -
+
+Inspire Faculty Award Research Grant for DR. Debasis Sen [MA-15]
+Project Area: Mathematics
+Duration: 2013-2018
+Budget: 700000.00
+PI: Debasis Sen
+Co-PI: -
+
+=== weekly webinar on pde and related areas ===
+Source: https://www.iitk.ac.in/math/weekly-webinar-on-pde-and-related-areas
+The Indian Institute of Technology, Kanpur (IIT-K), in collaboration with TIFR-CAM, IISER-Pune and IISER-Kolkata, is setting up an online platform for research seminars in partial differential equations (PDEs) and related areas.
+
+The main goal of this webinar series is to bring together researchers, and encourage them to discuss and share their ideas in a virtual and inclusive environment to bring back academic closeness. We also encourage students to participate in large number to get a flavour of active research areas in PDEs and related topics. We aim to initially invite leading experts, from the areas mentioned below, to raise visibility.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Control Theory
+
+Dispersive PDEs
+
+Elliptic PDEs
+
+Fluid Dynamics
+
+Harmonic Analysis
+
+Hyperbolic PDEs
+
+Inverse Problem
+
+Nonlocal PDEs
+
+Probability Theory and Stochastic PDEs
+
+Zoom and Youtube link for next talk
+
+Zoom link: https://zoom.us/webinar/register/WN_2AAJcCdkQGmDv7xpz8UF4w
+
+Youtube link: https://www.youtube.com/watch?v=AIMtsykuTYw
+
+Date and Time
+
+We plan to hold this seminar twice every week (Tesdays and Thursdays), and this will take place online via Zoom.
+
+Time: 3.00 PM, INDIAN STANDARD TIME (+5 hrs 30min, GMT, 10.30 AM Paris time, 4.30 AM New York time, 11.30 PM Israel time.)
+
+LIST OF SPEAKERS
+
+Date | Name | Title | Link of Abstract |
+
+3rd September
+Thursday
+3.00 pm
+IST |
+Sandeep Kunnath
+(Tata Institute of Fundamental Research, India.) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Riesz Kernel type estimates and Adams Inequality.
+Youtube link |
+Read Abstract |
+
+8th September
+Tuesday
+3.00 pm
+IST |
+Enrique Zuazua
+(Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany. Deusto Foundation, Bilbao, Spain. Universidad Autónoma de Madrid, Spain.) |
+Turnpike control and deep learning
+Youtube link |
+Read Abstract |
+
+10th September
+Thursday
+3.00 pm
+IST |
+Yehuda Pinchover
+(Technion, Israel Institute of Technology, Israel.) |
+How large can Hardy-weight be?
+Youtube link |
+Read Abstract |
+
+15th September
+Tuesday
+3.00 pm
+IST |
+Emmanuel Trelat
+(Sorbonne Université, Laboratoire Jacques-Louis Lions, France.) |
+Sparse control and stabilization to consensus of collective behavior models.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Youtube link |
+Read Abstract |
+
+17th September
+Thursday
+3.00 pm
+IST |
+Roberta Filippucci
+(Universita Degli studi di Perugia, Italy.) |
+p-Laplacian problems with gradient terms
+Youtube link |
+Read Abstract |
+
+22nd September
+Tuesday
+4.30 pm
+IST |
+Eduardo Cerpa
+(Pontificia Universidad Catolica de Chile, Chile.) |
+Control properties of a parabolic-elliptic system
+Youtube link |
+Read Abstract |
+
+24th September
+Thursday
+3.00 pm
+IST |
+Emil Wiedemann
+(Ulm university, Germany.) |
+Weak and measure-valued solutions of the compressible Euler equations.
+Youtube link |
+Read Abstract |
+
+29th September
+Tuesday
+3.00 pm
+IST |
+Saugata Bandyopadhyay
+(IISER-Kolkata, India.) |
+On the Equation (∇u)^tH(u)(∇u) = G
+Youtube link |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Read Abstract |
+
+1st October
+Thursday
+3.00 pm
+IST |
+Siddhartha Mishra
+(ETH Zurich, Switzerland.) |
+Deep Learning and Computations of PDEs.
+Youtube link |
+Read Abstract |
+
+6th October
+Tuesday
+3.00 pm
+IST |
+Jean-Pierre Raymond
+(Institut de Mathématiques, Université Paul Sabatier, France.) |
+Existence and uniqueness of maximal strong solution of a 1D Blood flow in a network of vessels
+Youtube link |
+Read Abstract |
+
+8th October
+Thursday
+3.00 pm
+IST |
+Jean-Michel Coron
+(Jacques-Louis Lions Laboratory, Université Pierre et Marie Curie, France.) |
+Stabilization in finite time of some partial differential equations
+Youtube link |
+Read Abstract |
+
+13th October
+Tuesday
+6.30 pm
+IST |
+Gunther Uhlmann
+(University of Washington, USA.) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Seeing Through Space Time
+Youtube link |
+Read Abstract |
+
+15th October
+Thursday
+3.00 pm
+IST |
+Eduard Feireisl
+(Institute of Mathematics AS CR, Czech Republic.) |
+(S)-convergence and approximation of oscillatory solutions in fluid dynamics
+Youtube link |
+Read Abstract |
+
+20th October
+Tuesday
+3.00 pm
+IST |
+Helge Holden
+(Norwegian University of Science and Technology, Norway.) |
+A Lipschitz metric for the Camassa–Holm equation
+Youtube link |
+Read Abstract |
+
+22th October
+Thursday
+3.00 pm
+IST |
+Laurent Véron
+(Universite de tour, France.) |
+Nonlinear boundary value problems in connexion with harmonic functions
+Youtube link |
+Read Abstract |
+
+27th October
+Tuesday
+3.00 pm
+IST |
+Stefano Bianchini
+(SISSA, Trieste, Italy.) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+On the sticky particle solutions to the multi-dimensional pressureless Euler equations
+Youtube link |
+Read Abstract |
+
+29th October
+Thursday
+3.00 pm
+IST |
+Guy Vallet
+(University of Pau, France.) |
+Lewy-Stampacchia’s inequalities
+Youtube link |
+Read Abstract |
+
+3rd November
+Tuesday
+8.30 pm
+IST |
+Plamen Stefanov
+(Purdue University West Lafayette, USA.) |
+Local and global boundary rigidity
+Youtube link |
+Read Abstract |
+
+5th November
+Thursday
+3.00 pm
+IST |
+Itai Shafrir
+(Technion, Israel Institute of Technology, Israel.) |
+Minimizers of a variational problem for nematic liquid crystals with variable degree of orientation in two dimensions
+Youtube link |
+Read Abstract |
+
+10th November
+Tuesday
+3.00 pm
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+IST |
+Michel Chipot
+(University of Zurich, Switzerland.) |
+PROPAGATION OF INTERACTING SPECIES IN A SPECIAL ENVIRONMENT
+Youtube link
+
+Read Abstract |
+
+12th November
+Thursday
+3.00 pm
+IST |
+Moshe Marcus
+(Technion, Israel Institute of Technology, Israel.) |
+Boundary value problems for Schrodinger equations with Hardy type potentials.
+Youtube link |
+Read Abstract |
+
+17th November
+Tuesday
+3.00 pm
+IST |
+Xavier Ros-Oton
+(University of Zurich, Switzerland.) |
+The Neumann problem for the fractional Laplacian
+Youtube link |
+Read Abstract |
+
+19th November
+Thursday
+3.00 pm
+IST |
+Giampiero Palatucci
+(University of Parma, Italy.) |
+Holder regularity for nonlocal double phase equations
+Youtube link |
+Read Abstract |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+24th November
+Tuesday
+3.00 pm
+IST |
+Enrico Valdinoci
+(The University of western Australia, Australia.) |
+Boundary behavior of nonlocal minimal surfaces
+Youtube link |
+Read Abstract |
+
+26th November
+Thursday
+3.00 pm
+IST |
+Martina Hofmanova
+(Bielefeld University, Germany.) |
+On ill- and well-posedness of dissipative martingale solutions to stochastic 3D Euler equations
+Youtube link |
+Read Abstract |
+
+1st December
+Tuesday
+3.00 pm
+IST |
+Manjunath Krishnapur
+(Indian Institute of Science, India.) |
+The random plane wave and related objects
+Youtube link |
+Read Abstract |
+
+3rd December
+Thursday
+3.00 pm
+IST |
+Arick Shao
+(Queen Mary University of London, United Kingdom.) |
+Controllability of Waves and Geometric Carleman Estimates
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+Youtube link |
+Read Abstract |
+
+8th December
+3.00 pm
+IST |
+Gyula Csato
+(University of Barcelona, Spain.) |
+Fractional Michael-Simon Sobolev inequalities
+Youtube link |
+Read Abstract |
+
+10th December
+Thursday
+3.00 pm
+IST |
+Luca Esposito
+(University of Salerno, Italy.) |
+Density lower bound estimate for local minimizers of free interface problem with volume constraint
+Youtube link |
+Read Abstract |
+
+15th December
+Tuesday
+3.00 pm
+IST |
+Sylvain Ervedoza
+(Institut de Mathématiques de Bordeaux, Université de Bordeaux, France.) |
+Insensitizing controls for the heat equation with respect to boundary variations |
+Read Abstract |
+
+MAILING LIST
+
+We plan to create a common mailing list, where regular announcements about the webinar will be shared. If you would like to receive webinar announcements(including zoom ID and password to attend the talk), please feel free to send a blank email with the subject line ``WWOPARA_sub" to the following email "pdewebinar[AT]iitk.ac.in". In order to unsubscribe, please send us a blank email with the subject ``WWOPARA_unsub". You can also email comments and suggestions.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+We apologise, in case you have registered, but did not hear back from us. Please send us one more mail again.
+
+ABOUT THE MEDIUM ZOOM
+
+The chosen medium of the webinar series is zoom. Participant would be allowed to join by clicking at the link that we shall provide in advance. You may require a zoom ID and password that will also be provided from our side. We recommend the participants to download zoom from the following website (link).
+
+FOR THE PARTICIPANTS
+
+Attendees (participants) can ask their queries to the speaker by writing in the "Q&A section" which may get answered depending on the total number of questions we receive.
+There is no registration charges for this event.
+
+YOUTUBE LINK
+
+You can also watch the entire session on "YOUTUBE" live session. The link will appear 10 to 5 minutes before in this webpage.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, > weekly webinar on pde and related areas]
+LOCAL ORGANISER
+
+Mr. Kaushik Mohanta (IIT Kanpur)
+
+Purbita Jana (IIT Kanpur)
+
+Mr. Firoj SK (IIT Kanpur)
+
+ORGANIZERS OF THE EVENT
+
+Prosenjit Roy
+
+Ujjwal Koley
+
+Mousomi Bhakta
+
+Shirshendu Chowdhury
+

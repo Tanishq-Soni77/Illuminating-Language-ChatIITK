@@ -1,0 +1,91 @@
+MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Materials Science Programme (interdisciplinary programme), IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/msp. Snapshot: scraped in 2026.
+
+=== compulsory courses ===
+Source: https://www.iitk.ac.in/msp/compulsory-courses
+MS-601A STRUCTURAL AND MAGNETIC PROPERTIES OF MATERIALS, 3-0-0-9
+
+Crystal structure, Bonding of atoms, Crystal chemistry, Equilibrium thermodynamics, Phase equilibria, Phase transformations, "Dia-, para-, ferro-, ferri-, and antiferro-magnetism, Anisotropic effects, Magnetic domains, Magnetostriction, Measurements of magnetic properties, Soft and hard magnetic materials and their technology.
+
+MS-602A ELECTRICAL AND DIELECTRIC MATERIALS, 3-0-0-9
+
+Free electron theory, Metallic conduction, Energy bands, Brillouin zones. Temperature dependence of metallic conductivity, Impurity contributions, Semiconductor materials, Doping effects, Law of mass action, Electrical resistivity and Hall effect measurements, P-N junctions, MOS field effect transistors, Semiconductor technology, Point defects, Diffusion phenomena, Ionic conduction, Temperature and (aliovalent) impurity effects, Superionic conductors and devices, Di-, ferro-, and piezo- electric materials, Mechanism of polarization, Dielectric para- meters and measurements.
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > compulsory courses]
+MS-603A MECHANICAL PROPERTIES OF MATERIALS, 3-0-0-9
+
+Stress and strain tensors, Elastic constants, Effect of structure on elastic behaviour, Elastic stress distributions, Viscosity and viscoelasticity in polymers, Yielding criteria, Dislocations and plastic deformation of metals and ceramics, Strengthening mechanisms, Creep, Brittle fracture in ceramics and glasses, Toughening of ceramics and composites, Fatigue, Mechanical testing, Strength and engineering design with brittle solids, Heat treatment, Powder processing.MS-604 CHARACTERIZATION OF MATERIALS, 3-0-1-5
+
+Crystallography, Reciprocal lattice, Stereographic projections, Diffraction methods, Electronmicroscopy, Metallography, Thermal analysis, Chemical analysis, Laboratory sessions
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > compulsory courses]
+MS-604A CHARACTERIZATION OF MATERIALS
+
+MS-605A MATERIALS ENGINEERING, 3-0-0-9
+
+Solidification, Powder processing, Crystal growth, Heat treatment, Non destructive evaluation, Processing of glasses and polymers, Novel processing methods, Thin films, Surface phenomena and corrosion.
+
+=== elective courses ===
+Source: https://www.iitk.ac.in/msp/elective-courses
+MS-606A ELECTRONIC MATERIALS, 3-0-0-9 #
+
+Classification, Crystal growth techniques, Wafer processing, Doping methods, Formation of oxide layer, CVD, MOCVD and MBE, Metallic contacts and interconnects, Lithography, Processing integration. Photonic materials - solar cells, photodetectors, light emitting diodes, lasers and optical computers, Quantum wells, wires and dots, Superlattice structures, Materials for high frequency and high temperature devices, Application of linear and non-linear dielectric materials, Electro-optic ceramics, Materials for signal processing, transducers and digital data storage, Superconducting materials and applications
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+MS-607A ELECTRONIC CERAMICS, 3-0-0-9 #
+
+Introduction to ceramic materials, Structure of oxide and nonoxide ceramics, Review of defects and diffusion in ionic solids, Ionic conductivity. Linear dielectrics, Frequency dependence of polarization and associated mechanisms, Impedance spectroscopy, Breakdown mechanisms, Material design for dielectric constants, Dielectric materials for microwave, thin film capacitor, micro- electronics, and VLSI applications.
+Non-linear dielectrics, Structural origin of non-linear behaviour, Ferroelectrics and Piezoelectrics, Thermodynamic formulation of ferroelectrics, Domains, Applications of ferroelectric bulk and thin films, Microstructure - property relationships, Applications of piezoelectric materials in transducers, electrochemical filters and positioning devices.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+Electro-optic ceramics: Optical phenomena - birefringence, linear and quadratic electro-optic effects (Pockels and Kerr), Electro- optic coefficients, Materials - KDP, LiNbo3, LiTao3,.PLZT, Optimisation of optical properties through processing, Applications in modulators, shutters, image storage, displays, etc.
+Magnetic ceramics and their applications in power transformers, filters, microwave ferrites, recording media, etc. New high permeability materials, Novel recording media, Giant and collosal magneto-resistance, Magneto-electronics. High temperature super- conductors: Review of superconductivity and their applications to high field magnets, Josephson junction, etc
+
+MS-611A MATERIALS FOR ENERGY CONVERSION AND STORAGE, 3-0-0-9, #
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+Characteristics of solar radiation, Basic features of solar cells, Various junction configurations, P-N homojunctions, Schottky barrier, Heterojunction, Photo-electrochemical cells, Desired material properties, Promising semiconductor materials, various fabrication techniques, Solid state diffusion, Vacuum evaporation, Sputtering, Thermal oxidation, Chemical displacement, Plasma deposition, Energy storage devices
+
+MS-612A ELECTRON MICROSCOPY AND MICROANALYSIS, 3-1-0-12
+
+TEM - Introduction, instrument details, Resolution, Modes of operation, Specimen preparation, Principles of electron diffraction, Formation of ring, spot, and textured patterns, Indexing procedures, Identification of phase, Amplitude and phase contrasts, BF and DF images, Kinematical and dynamical theories, Contrast from defects, Weak beam technique, Lattice resolution, etc.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+SEM - Electron specimen interactions, Signal characteristics, Image formation, SE-, BSE-, and CL-detecting systems, Contrast mechanisms, Resolution, EBIC microscopy, Electron channelling patterns and Kossel technique.
+MICROANALYSIS - X-ray emission, Wavelength and energy dispersive analysers, Point analysis, Line scans, Distribution mapping, Quantitative analysis
+
+MS-613A CRYSTAL GROWTH - THEORY AND PRACTICE, 3-0-1-12
+
+Crystal growth techniques, Thermodynamic principles and crystal growth equilibria, Nucleation from solution, melt, vapour, and solid phases, Heat transfer, Interface stability, Diffusion processes and growth kinetics, Crystal growth theories, Crystal habit and morphology, Surface energy anisotropy and Wulff theorem, Epitaxy, Whisker growth, Case studies of different systems.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+Selected experiments in Crystal growth, Crystal pulling, Temperature gradient freezing, Zone melting, Vapour phase growth, Re- crystallisation and grain growth, Flux/ aqueous solution growth, Seed crystal preparation, Crystal slicing, lapping and polishing, Quality assessment by X-ray diffraction and optical techniques.
+
+MS-614A ENGINEERING POLYMERS, 3-0-0-9 #
+
+Classification and structure of polymers, Glass transition, Linear viscoelasticity, Stress relaxation and dynamic experiments, Mechanical models, Superposition principles, Effect of structure on mechanical properties, Rubber elasticity, Yield and fracture.
+
+MS-615A PRINCIPALS OF CERAMIC PROCESSING, 3-0-0-9
+
+Particle size, Particle packing, Size reduction, Particles in liquid suspension, Rheology, Polymers in ceramic processing, Colloidal processing, Sintering, Sintering defects, Surfaces and interfaces in processing, Sol-gel and other chemical processing methods
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+MS-616A HIGH PERFORMANCE POLYMERS AND COMPOSITES, 3-0-0-9 #
+
+Introduction to polymeric materials, Classifications, High performance engineering polymers, Characteristic properties evaluation, Concepts of polymer processing, Structure/ chemistry, grades, properties, processing parameters and applications of variety of polymers, polymer composites, case studies.
+
+MS-617A INTRODUCTION TO NANOMATERIALS AND NANOTECHNOLOGY, 3-0-0-9, Prereq. #
+
+Effects of confinement and finite size zero, one and two dimensional nano- structures (concepts of surface and interfacial energies, intermolecular and interfacial forces in organic, polymeric, biological and aqueous systems-Vander Waals, electrostatic, double layer, acid base, depletion interactions, hydrophobic force, layering, mesoscale thermodynamics, Gibbs treatment of interfaces, mesoscale fluid dynamics, thin soft films, mesoscale phenomena in soft matter and applications: adhesion, wetting, nucleation, nanofabrication: pattering of soft materials by self organization and other techniques, chemical self assembly, artificial multilayers, cluster fabrication, Langmuir-Blodget growth, nanolithography, scanning probe lithography, microcontact printing, intercalation, attrition, ion implantation gas phase condensation, chemical vapour deposition, nanosuspensions- ferrofluids, compaction of nanocrystalline materials, carbon nanotubes, short and long term applications and perspectives, demonstration of some techniques in preparation and characterization of nanomaterials
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - COURSES, CURRICULA AND T > elective courses]
+MS-691A SPECIAL TOPICS 3 OR 4 UNITS
+
+MS-698A GRADUATE SEMINAR 1-0-0-0
+
+MS-699A M. TECH. THESIS
+
+Units- Multiple of 4
+
+MS-799A PhD. THESIS
+
+Units Multiple of 4
+

@@ -1,0 +1,1384 @@
+ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR
+Name: ISRO-IIT Kanpur Space Technology Cell (STC IITK), website https://www.iitk.ac.in/stc/
+Type: A joint research programme/cell of ISRO and IIT Kanpur under the Dean of Research and Development (DORD), established on 2 March 2001 by a Memorandum of Understanding between the Chairman of ISRO and the Director of IIT Kanpur. It funds and coordinates space-related research projects at IIT Kanpur. THIS IS NOT the Students' Gymkhana "Science and Technology Council" (SnT) and not a student club. Coordinator/In-charge: Prof. Bishakh Bhattacharya (Department of Mechanical Engineering). Joint Programme Committee (JPC) chaired by the Director of IIT Kanpur (Dr. Manindra Agrawal) with an ISRO co-chair (Dr. Ramanagouda V Nadagouda, URSC). The site shows Dr. V. Narayanan as Chairman, ISRO. Contact: stc@iitk.ac.in.
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR]
+Snapshot: website pages scraped in 2026 (JPC membership shown for 2025; the site footer says "Copyright 2014 DORD, IITK" and the envisioning page lists activities planned for 2014-2022).
+
+=== STC page: /stc ===
+Source: https://www.iitk.ac.in/stc
+
+About Us
+
+Indian Institute of Technology Kanpur carries out original research of significance and technology development at the cutting edge. It imparts training for students to make them competent, motivated engineers and scientists. The Institute not only celebrates freedom of thought, cultivates vision and encourages growth, but also inculcates human values and concern for the environment and the society.
+
+Dr. Manindra Agrawal
+Director, IITK & Chairman, JPC IITK
+
+IITK
+
+The ISRO-IITK Space Technology Cell was established on March 02, 2001 with the signing of Memorandum of Understanding between the Chairman, Indian Space Research Organization and the Director, Indian Institute of Technology Kanpur with the realization of growing importance attached to the extending scope for generation of knowledge through advanced academic Research & Development efforts to ensure a truly self-reliant and self generating Space Programmes for our nation in future years.Read More
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc]
+Dr. Bishakh Bhattacharya
+Professor, Incharge, STC IITK
+
+ISRO
+
+Space activities in the country started during early 1960s with the scientific investigation of upper atmosphere and ionosphere over the magnetic equator that passes over Thumba near Thiruvananthapuram using small sounding rockets Realising the immense potential of space technology for national development, Dr. Vikram Sarabhai, the visionary leader envisioned that this powerful technology could play a meaningful role in national development and solving the problems of common man.Read More
+
+Dr. Ramanagouda V Nadagouda,
+Distinguished Scientist, URSC & Co-Chair, JPC IITK
+
+=== STC page: /stc/wepledge.htm ===
+Source: https://www.iitk.ac.in/stc/wepledge.htm
+
+Our Vision
+	"To march ahead as the torchbearers of the scientific community by initiating Space Programmes of world class importance, putting India in the reckoning as a potential global player with the state-of-art technology"
+
+Mission
+	To visualize and identify the challenging issues & the complex multi-disciplinary problems in the years to come by adopting a proactive approach regarding the future needs of the Indian Space Programme through extensive research base and optimal utilization of knowledge, expertise and experience.
+
+Objective
+	We, at Space Technology Cell, intend to harness the advanced areas of space science & technology by taking up quality and quantity initiatives to carry out researches of high importance to the Indian Space Programme, thereby contribute to the all round development of nation.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/wepledge.htm]
+Strategy
+	The collaborative efforts of IIT Kanpur with the Indian Space Research Organization and various other Space Centres have been extremely helpful in bringing us closer to achieving our objectives.
+
+Focal Points
+	1) Maximize research base, expertise and experience.
+2) Generate basic knowledge through advanced academic researches.
+3) Tackle multi-disciplinary problems in the Space Technology.
+4) Focus specially on the ongoing Space Programmes and the application areas.
+
+Thrust Areas
+	1) Structural Engineering dealing with Composites and Smart Structures.
+2) Dynamic Analysis and Control of Spacecraft and Launch Vehicles.
+3) Software related to different applications.
+4) Identification of new Advanced SpaceTechnology and its Application Areas.
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/wepledge.htm]
+5) High Performance Ceramics and Composite Materials.
+6) Development of Computational Models for Complex Space Problems.
+
+=== STC page: /stc/envisioning.htm ===
+Source: https://www.iitk.ac.in/stc/envisioning.htm
+
+The excitementand achievements of Space Science and Technology constantly bring new challenges to space technologists that encourage them to face it head-on and come up with brilliant solutions.
+
+
+
+The activities planned for 2014 - 2022 are:
+
+Continuation/ completion of the work on ongoing projects.
+Identification of new problems requiring immediate attention.
+Short term courses / workshops / symposia / seminars/ Space Science and Technology Colloquia.
+Enhanced participation in the visiting scientist programme.
+Technical publications.
+Augmentation of infrastructural facilities for the cell.
+
+=== STC page: /stc/stcprojects.htm ===
+Source: https://www.iitk.ac.in/stc/stcprojects.htm
+
+2025
+Ongoing Projects Under Space Technology Cell
+Sr.No.	Project Title	Project Investigator
+1.
+
+Design and Development of Heat Switches and their Characterization for Spacecraft Thermal Control.
+
+Prof. Vaibhav Arghode
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+2.
+
+Prediction of Spacecraft Charging Under Real-time Space Environment Conditions.
+
+Prof. Rohit Sharma
+
+Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE)
+Indian Institute of Technology Kanpur
+
+3.
+
+Development of binders for in-situ powder metallurgy manufacturing using lunar regolith simulants.
+
+Prof. Ishan Sharma
+
+Indian Institute of Technology Kanpur
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+4.
+
+Gas-Surface Interaction Study for Evaluation of Energy/Thermal Accommodation Coefficient for Hypersonic Rarefied Flows.
+
+Prof. Rakesh Kumar Mathpal
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+5.
+
+Design and development of a quadruped robot for interplanetary missions.
+
+Prof. Shakti S Gupta
+
+Department of Mechanical Engineering
+Indian Institute of Technology Kanpur
+
+6.
+
+Numerical modeling for Geotechnical Characterization of Slopes Vulnerable to Landslides.
+
+Prof. Jagdish Prasad Sahoo
+
+Department of Civil Engineering
+Indian Institute of Technology Kanpur
+
+7.
+
+Development of Space Probiotics for Vitamin D Production using Synthetic Biology.
+
+Prof. Abhilash Patel
+
+Department of Electrical Engineering
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Indian Institute of Technology Kanpur
+
+8.
+
+Developing discrete element methods to understand ejecta evolution at using Lonar as a terrestrial analogue.
+
+Prof. Amar Agarwal
+
+Department of Earth Science
+Indian Institute of Technology Kanpur
+
+9.
+
+Design and Development of a High-Efficiency Low-Cost 120 W C-Band Power Amplifier.
+
+Prof. Nagaditya Poluri
+
+Department of Electrical Science
+Indian Institute of Technology Kanpur
+
+10.
+
+Deep Learning based Computer Vision Model for PCB Component Defect Detection.
+
+Prof. Priyanka Vijay Bagade
+
+Department of Computer Science and Engineering
+Indian Institute of Technology Kanpur
+
+11.
+
+Design and development of plasmonic point-of-care biosensors or diagnosing cardiovascular diseases of astronauts in space.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. Debdatta Ray
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+12.
+
+Design of an Electrodynamic Shaker With Extended Velocity Range.
+
+Prof. Nachiketa Tiwari
+
+Department of Mechanical Engineering
+Indian Institute of Technology Kanpur
+
+13.
+
+Improving space debris detection and characterization for impact assessments.
+
+Prof. Amitesh Omar
+
+Department of Space Planetary & Astronomical Science & Engineering (SPASE)
+Indian Institute of Technology Kanpur
+
+14.
+
+Femtosecond Laser Machining improvements with femtosecond pulse shaping.
+
+Prof. Debabrata Goswami
+
+Department of Department of Chemistry
+Indian Institute of Technology Kanpur
+
+15.
+
+Investigation of Combustion Characteristics of Carbon Coated Aluminium Nanoparticles.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. Vaibhav Arghode
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+16.
+
+Smart Metasurface-based Reconfigurable Partially Reflecting Surface for 2-40 GHz.
+
+Prof. R. Vijaya
+
+Department of Physics
+Indian Institute of Technology Kanpur
+
+17.
+
+Integrating satellite and UAV remote sensing for Land Surface Temperature (LST) and soil moisture estimations to map crop water stress in an agriculture-dominated Critical Zone Observatory (CZO).
+
+Prof. Rajiv Sinha
+
+Department of Earth Sciences
+Indian Institute of Technology Kanpur
+
+18.
+
+Determining the origin of the Simlipal Volcanics: meteoritic Impact vs effusive volcanism.
+
+Prof. Amar Agarwal
+
+Department of Earth Sciences
+Indian Institute of Technology Kanpur
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+19.
+
+Development of efficient algorithms and a co-located system of low-cost GNSS receiver and corner reflector to improve SAR calibration and InSAR activities.
+
+Prof. Onkar Dikshit
+
+Department of Civil Engineering
+Indian Institute of Technology Kanpur
+
+20.
+
+Studying aggregation of interstellar molecules in superfluid helium nanodroplets using high-resolution infrared spectroscopy.
+
+Prof. Devendra Mani
+
+Department of Chemistry
+Indian Institute of Technology Kanpur
+
+21.
+
+Deflagration-to-Detonation Transition Studies in a Detonation Tube Facility
+
+Prof. Prof. Ajay Vikram Singh
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+22.
+
+Selective Heat Assisted incremental forming of Free form surface for space application.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. J Ramkumar
+
+Department of Mechanical Engineering
+Indian Institute of Technology Kanpur
+
+23.
+
+Development of earth abundant organic materials as cathode for high energy density solid-state Li-ion batteries.
+
+Prof. Kanwar S. Nalwa
+
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+24.
+
+Development of a GPU-enabled LES Solver for Unsteady Hypersonic Flows Using Curvilinear Grids.
+
+Prof. Rajesh Ranjan
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+25.
+
+Investigations into Phase Equilibria and Diffusion Kinetics of Permanent Magnet Materials.
+
+Prof. Kaustubh N. Kulkarni
+
+Department of Materials Science and Engineering
+Indian Institute of Technology Kanpur
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+26.
+
+An Experimentally Validated Phasefield Damage Model for Fatigue Crack Growth in Residual Stress Field.
+
+Prof. Pritam Chakraborty
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+27.
+
+Synthesis and Characterization of Nitrogen-rich Ingredient for Propellants, Gas-generator and Energetic Materials.
+
+Prof. Srinivas Dharavath
+
+Department of Chemistry
+Indian Institute of Technology Kanpur
+
+28.
+
+Development of acoustic materials for controlling vibration-induced damage in space structures.
+
+Prof. Akhilesh Mimani
+
+Department of Mechanical Engineering
+Indian Institute of Technology Kanpur
+
+29.
+
+A systematic investigation on the role of magnetohydrodynamic (MHD) turbulence in the heating of the solar corona.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. Supratik Banerjee
+
+Department of Physics
+Indian Institute of Technology Kanpur
+
+30.
+
+Conformal, Transparent and Lightweight Microwave Absorbers for Ground and Space ApplicationsPhase-2.
+
+Prof. Kumar Vaibhav Srivastava
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+31.
+
+DAVi: An Intelligent Data Analytics and Visualisation Framework for Spacecraft Health Monitoring.
+
+Prof. Soumya Dutta
+
+Indian Institute of Technology Kanpur
+
+32.
+
+LNA and Receiver Design for Cryocooled and Room Temperature Radar Systems.
+
+Prof. M. J. Akhtar
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+33.
+
+Atmospheric Characterization for ground-based Optical and near-IR Surveillance.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. Prashant Pathak
+
+Department of Space Planetary & Astronomical Sciences & Engineering (SPASE)
+Indian Institute of Technology Kanpur
+
+34.
+
+Slip Estimation, Slip Mitigation, and Path Planning Techniques of Planetary Exploration Rovers.
+
+Prof. Dipak Kumar Giri
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+35.
+
+Laboratory experiments on morphological changes on surfaces of materials exposed to space-like.
+
+Prof. Sudeep Bhattacharjee
+
+Department of Physics
+Indian Institute of Technology Kanpur
+
+36.
+
+Finite element method simulation guided full field crystal plasticity simulations to predict deformation microstructure and mechanical properties of aerospace alloys.
+
+Prof. Nilesh P. Gurao
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Department of Materials Science & Engineering
+Indian Institute of Technology Kanpur
+
+37.
+
+Development of Optically Transparent Dynamic Emissivity Regulators for Spacecraft Temperature Control.
+
+Prof. Amit Verma
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+38.
+
+Wake characterization of Crew module at low-subsonic Mach numbers using the hot-wire anemometry and particle image velocimetry techniques.
+
+Prof. Alakesh Chandra Mandal
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+39.
+
+Heat Transfer Rate and Pressure Measurements over a Gaganyan Re-entry Configuration.
+
+Prof. Mohammed Ibrahim. S
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+40.
+
+Process modeling and optimization of reduction and distillation operations of Titanium Sponge processing.
+
+Prof. Amarendra K Singh
+
+Indian Institute of Technology Kanpur
+
+41.
+
+Realization of >99% purity LaB6 and fabrication of LaB6 tubes for application in Hollow Cathodes of LPSC.
+
+Prof. Sudhanshu Shekhar Singh
+
+Indian Institute of Technology Kanpur
+
+42.
+
+Corrosion characterization of stainless steels used in semi cryogenic engine application.
+
+Prof. Kallol Mondal
+
+Indian Institute of Technology Kanpur
+
+43.
+
+Conjugate Heat Transfer Analysis of a Charring Ablative Throat in Rocket Propulsion System.
+
+Prof. Rakesh Kumar
+
+Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+
+44.
+
+Characterization and Modeling of High Voltage N/P LDMOS FETs for 180nm SCL Process.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+Prof. Yogesh Singh Chauhan
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+45.
+
+Design of a 1kSps Delta-Sigma Analog-to-Digital Converter with greater than 18 bits resolution.
+
+Prof. R. S. Ashwin Kumar
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+46.
+
+An Integrated GNSS-NavIC/LiDAR system for localization and mapping in outdoor, indoor and GNSS denied environments.
+
+Prof. Salil Goel
+
+Department of Civil Engineering
+Indian Institute of Technology Kanpur
+
+47.
+
+RTE-modelled fully-3D satellitebased atmospheric microphysical tomography for cloud-aerosol-trace gas estimation.
+
+Prof. Naren Naik
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/stcprojects.htm]
+48.
+
+Fingerprinting Neutrino Selfinteractions by Analysis of Terrestrial and Cosmological Observations.
+
+Prof. Debtosh Chowdhury
+
+Department of Physics
+Indian Institute of Technology Kanpur
+
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+
+=== STC page: /stc/interactions.htm ===
+Source: https://www.iitk.ac.in/stc/interactions.htm
+
+Interaction of ISRO Expert & IITK Faculty
+2025
+ IITK Experts
+
+IIT Kanpur's Space Technology Cell (STC) successfully organized the "25th Annual Joint Policy Committee (JPC) meeting" on February 5, 2025, at the Outreach Centre, IIT Kanpur. The meeting was conducted in a hybrid mode, with participation both online and offline.
+
+Dr. Brij Bhushan, Deputy Director chaired the meeting on behalf of the Director, IIT Kanpur, while Shri Sumitesh Sarkar served as the Co-Chairman, ISRO. Senior faculty members from IIT Kanpur — Dr. Tarun Gupta, Dean of Research and Development (DoRD); Dr. Bishakh Bhattacharya; Dr. G. M. Kamath; Dr. Yogesh Singh Chauhan; and Dr. Kumar Vaibhav Srivastava — attended the meeting in person.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+Representing ISRO, Shri R. V. Nadagouda (URSC), Dr. J. Krishna Kishore (URSC, Bengaluru), and Smt. Nirupama Tiwari (ISRO HQ, Bengaluru) were present physically. Additionally, numerous scientists from various ISRO centers joined the proceedings online, contributing actively to the discussions.
+
+The meeting witnessed productive deliberations aimed at strengthening collaborative research initiatives between IIT Kanpur and ISRO under the Space Technology Cell framework.
+
+Previous
+Next
+1
+2
+3
+4
+5
+6
+7
+
+2024
+ IITK Experts
+
+The 24th Annual Joint Policy Committee (JPC) meeting of the Space Technology Cell (STC), IIT Kanpur, was held on March 12, 2024, in hybrid mode. Chaired by Dr. S. Ganesh, Officiating Director, IIT Kanpur, and co-chaired by Shri Sumitesh Sarkar from ISRO, the meeting highlighted the launch of IITK’s new Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE) and the strengthened collaboration with ISRO. Senior ISRO officials emphasized timely project completion, achieving higher Technology Readiness Levels (TRLs), and enhancing skill development. Discussions also focused on promoting new technologies, especially in Space Robotics, and leveraging industry-academia partnerships. The meeting reflected a strong commitment to advancing space research and innovation through collaborative efforts.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+Dr. Tarun Gupta, Dean of Research and Development (DoRD); Dr. Bishakh Bhattacharya; Dr. G. M. Kamath; Dr. Kallol Mondal; and Dr. Kumar Vaibhav Srivastava — attended the meeting in person.
+
+Representing ISRO, Shri N Sudheer Kumar, Director, CBPO, ISRO, HQ, Dr. V. Ashok, (VSSC), Shri R. V. Nadagouda (URSC), Shri Muthuchezhian S(SHAR), Shri Raghavendra M R(ISTRAC) and Dr. M. A. Paul (ISRO HQ, Bengaluru) were present physically.
+
+The principal investigators of both ongoing and newly submitted proposals presented their project updates during the meeting. Scientists from various ISRO centers also joined the session virtually and actively contributed to the discussions, further enriching the collaborative efforts between ISRO and IIT Kanpur.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+2023
+ IITK Experts
+
+The Space Technology Cell (STC) at IIT Kanpur organized The 23rd Interim Joint Policy Committee (JPC) meeting on June 15, 2023. The meeting was conducted via video conferencing. Shri Sumitesh Sarkar attended as the Co-Chair from ISRO. From IIT Kanpur, Dr. A. R. Harish, Dean of Research and Development (DoRD), along with Dr. Bishakh Bhattacharya and Dr. G. M. Kamath, joined the meeting.
+
+The principal investigators of ongoing projects presented the closing reports of their respective projects.
+
+ IITK Experts
+
+The 22nd Annual Joint Policy Committee (JPC) meeting of the Space Technology Cell (STC) at IIT Kanpur was held on February 15, 2023, via video conferencing. The meeting was chaired by Dr. S. Ganesh, Deputy Director of IIT Kanpur, with Shri Sumitesh Sarkar, SAC, ISRO, as Co-Chair from ISRO. Dr. Ganesh highlighted the strong partnership between IIT Kanpur and ISRO, encouraging faculty members to collaborate with ISRO on scaling up their research contributions and developing new products for space applications. Shri Sumitesh Sarkar emphasized the need for IIT Kanpur faculty to actively engage in critical ISRO projects such as Gaganyaan and quantum technology initiatives.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+The principal investigators of ongoing projects presented their project progress, while the principal investigators of newly submitted proposals shared their proposals with the JPC members. Scientists from various ISRO centers also joined the session virtually and actively contributed to the discussions, further enriching the collaborative efforts between ISRO and IIT Kanpur.
+
+2021
+ ISRO Experts
+
+Space Applications Centre, Ahmedabad, organized the Annual SAC-STC Review 2021 through Video Conferencing from 22nd November to 3rd December 2021. Principal Investigators from IIT Kanpur represented the ongoing progress of projects.
+
+ IITK Experts
+
+STC IIT Kanpur organized The 21th Annual JPC Meeting 2021 on November 16 2021 through Video Conferencing to review STC Projects. JPC Members form IIT Kanpur and ISRO with Respond Coordinator from SAC, VSSC, SHAR, SCL, PRL, URSC and LPSC attended the meeting through Video Conferencing.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+2020
+ ISRO Experts
+
+Space Applications Centre, Ahmedabad, organized the Annual SAC-STC Review 2019 through Video Conferencing from 01 to 05 December 2020. Principal Investigators from IIT Kanpur represented the ongoing progress of projects.
+
+1
+
+ IITK Experts
+
+STC IIT Kanpur organized the Annual JPC Meeting 2020 on November 11 2020 through Video Conferencing to review STC Projects. JPC Members form IIT Kanpur and ISRO with Respond Coordinator from SAC, VSSC, SHAR,SCL and LPSC attended the meeting through Video Conferencing.
+
+2019
+ IITK Experts
+
+STC IIT Kanpur organized the Annual JPC Meeting 2019 on 13-14 December 2019 at IIT, Kanpur. JPC Members and the Respond Coordinator from SAC, VSSC, and LPSC attended the meeting.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+ ISRO Experts
+
+Space Applications Centre, Ahmedabad, organized the Annual SAC-STC Review 2019 from 2 to 4 December 2019 at SAC, Ahmedabad. Principal Investigators from IIT Kanpur represented the ongoing progress of projects.
+
+ IITK Experts
+
+IIT Kanpur celebrated National Technology Day 2019 with a thematic program titled "Space Technologies and ISRO" organized by Space Technology Cell, IITK. A couple of popular talks were delivered by scientists from the ISRO. In keeping with this theme, STC invited two well-known scientists in the field of space technology for presentation. The first talk was delivered by Dr. B.S Munjal, Space Applications Centre (SAC), ISRO. Dr. Munjal spoke on "Technology Applications in Space/Ground Segment of SATCOM Domain". This was followed by a talk by Dr. Mehul R Pandya, SAC, ISRO, who spoke on "Eye in Space for Earth and Planetary Observations". It was followed by the demonstration/display of technologies developed at IIT Kanpur. A group of school children from the city participated in the event.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+Previous
+Next
+1
+2
+3
+4
+5
+6
+
+2018
+ IITK Experts
+
+"A successful video Conference Meeting had organized between IIT Kanpur PI's and SAC, Ahmedabad Co-PI's and LPSC, ISRO in august 2018 to "Review Status of the Ongoing Projects" in IIT Kanpur.
+
+ IITK Experts
+
+2017
+ IITK Experts
+
+Prof. Bishakh Bhattacharya, Prof. Tanmoy Maiti, Prof. Debabrata Goswami , Prof.Naren Naik, Prof. G. Rajshekhar, Prof. Kantesh Balani, Prof. Sudip Ghosh and their students visited SAC, Ahmedabad for review of Ongoing Projects in the "Annual RESPOND Internal Meeting." Click here.
+
+Previous
+Next
+1
+2
+3
+4
+5
+6
+7
+8
+
+ ISRO Experts
+
+Mr. A S Kiran Kumar
+Chairman, Space Commission and Chairman, ISRO
+" Talks and Discussions on Present and Future Challenges in Space "
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+"A successful video Conference Meeting had organised between IIT Kanpur PI's and SAC, Ahmedabad Co-PI's to "Review Status of the Ongoing Projects" in IIT Kanpur.
+
+2016
+ IITK Experts
+
+Prof. Sameer Khandekar
+"RESPOND Internal Meeting", SAC, Ahmedabad
+
+Prof. Nachiketa Tiwari
+
+2003
+ ISRO Experts
+
+Dr. S. Dasgupta,
+INAE Professor & Engineer H, VSSC, Trivandrum
+Topics: "Modelling of Flexible Body and Slosh Mode Dynamics of Rockets and their Stability Analysis"
+              "Design & Analysis of control Loop for PSLV Rocket - A Case Study"
+
+Dr. P.D. Agarwal,
+Head, PPEG, ISRO, Inertial Systems Unit, VSSC, Trivandrum
+Topics: "Data Mining and Knowledge Discovery"
+
+Mr. A. K. Gupta
+Group Director IESG with a team of engineers of IISU, Trivandrum.
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+Topics: "Data Mining and Knowledge Discovery on sensor data of IISU"
+              "First hand experimentation on statistical tools, as CART- MARS"
+
+ IITK Experts
+
+Prof. Phalguni Gupta
+"RESPOND Annual Meeting", SAC, Ahmedabad
+
+Prof. P. K. Kalra, Prof. L. Behera, Prof. J. Chatterjee
+"Talks and Discussions on Knowledge Management" with the concerned ISRO engineers.
+IISU, VSSC
+
+Dr. Krishna Kumar
+"Space Colloquium" on the Present and Future Challenges in Aerospace.
+ISAC, Bangalore
+
+2002
+ ISRO Experts
+
+Dr. R. Ramakrishnan,
+Scientist / Engineer, SAC, Ahmedabad.
+Topics: "Insights into Efficient Algorithm for Stimulus Mosaic Problem"
+              "Parallel Implementation of Efficient Digital Image Processing Algorithm of Remotely Sensed Data"
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+Dr. B. Subramoniam,
+Topics: "A Discussion on Spacecraft Technology"
+
+Dr. V. Adimurthy,
+Deputy Director, VSSC, Trivandrum.
+Topics: "The Re-entry of Objects from GTO Orbits"
+              "The On-Orbit Explosion of Upper Stages"
+
+Dr. S. Dasgupta,
+INAE Professor & Engineer H, VSSC, Trivandrum.
+Topics: "Challenges in Guidance and Control Design for Launch Vehicles"
+
+Dr. Padmanabhan,
+Space Applications Centre, Ahemdabad.
+Topics: "A discussion on Geometric Correction Techniques of IRS 1C/ 1D Images"
+
+ IITK Experts
+
+Dr. Krishna Kumar
+"National Workshop on University Initiatives For Micro Satellite Development"
+(held jointly with Astronautical Society of India) to provide a glimpse of activities planned on the development and fabrication of the Micro satellite.
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/interactions.htm]
+ANNA University, Chennai
+
+=== STC page: /stc/spacelinks.htm ===
+Source: https://www.iitk.ac.in/stc/spacelinks.htm
+
+Shri Somanath S
+
+Isro Centers
+
+The Department of Space (DOS) has, over the years, built up a strong research and development and technology base with necessary infrastructure and manpower for implementing the space programme.
+
+
+
+The various space centres of DOS are as follows:
+
+ISRO-CENTER	RESPOND COORDINATORS
+Space Applications Centre (SAC)	Dr. Abha Chabra,
+Space Applications Centre(SAC)
+abha@sac.isro.gov.in
+research_sac@sac.isro.gov.in
+Directory of Space Applications Centre (SAC)
+Vikram Sarabhai Space Centre (VSSC)	Shri Santhosh Kumar S
+Vikram Sarabhai Space Centre
+Thiruvananthapuram
+s_santhoshkumar@vssc.gov.in
+
+Liquid Propulsion Systems Centre (LPSC)	Shri Sandeep Kumar
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/spacelinks.htm]
+Liquid Propulsion Systems Centre (LPSC-V),
+Valiamala, Thiruvananthapuram
+respond@lpsc.gov.in
+sandeepkumar@lpscv.dos.gov.in
+
+Physical Research Laboratory (PRL)	Dr. Nandita Srivastava
+Physical Research Laboratory
+Udaipur, Rajasthan
+respond@prl.res.in
+nandita@prl.res.in
+
+U R Rao Satellite Centre (URSC)	Smt. V. Chinna Ponnu GH
+U R Rao Satellite Centre(URSC)
+Bengaluru, Karnataka
+chinna@ursc.gov.in
+
+ISRO Telemetry Tracking and Command Network, (ISTRAC)	Shri Pradeep Kumar C
+ISRO Telemetry Tracking and Command Network, (ISTRAC)
+Bangalore, Karnataka
+pradeepkc@istrac.gov.in
+
+Human Space Flight Centre (HSFC)	Shri Ravinthar Sekar
+Human Space Flight Centre (HSFC)
+Bengaluru- 560094, Karnataka
+ravinthar-hsfc@isro.gov.in
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/spacelinks.htm]
+National Remote Sensing Center (NRSC)	Dr Chandrasekar K
+National Remote Sensing Centre(NRSC)
+Hyderabad: 500 037
+Chandrasekar_k@nrsc.gov.in
+
+ISRO Propulsion Complex, (IPRC)	S. Krishna Diwakar
+ISRO Propulsion Complex, (IPRC)
+IPRC Mahendragiri: 627 133
+diwakar@iprc.gov.in
+
+Indian Institute of Remote Sensing, (IIRS)	Dr. Ashutosh Bhardwaj
+Indian Institute of Remote Sensing (IIRS)
+Dehradun: 248001
+respond@iirs.gov.in
+ashutosh@iirs.gov.in
+
+Semi-Conductor Laboratory (SCL)	Shri Manoj Wadhwa
+Semi-Conductor Laboratory (SCL)
+Chandigarh-160071
+manoj@scl.gov.in
+
+Shri Gurpreet Singh Bimbro
+Semi-Conductor Laboratory (SCL)
+Chandigarh-160071
+gurpreet@scl.gov.in
+
+National Atmospheric Research Laboratory (NARL)	Dr. S. Sridharan
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/spacelinks.htm]
+National Atmospheric Research Laboratory(NARL)
+Chittoor District, Andhra Pradesh
+susridharan@narl.gov.in
+
+Satish Dhawan Space Centre, (SHAR)	Shri Bala Narayanan N R
+Satish Dhawan Space Centre (SHAR)
+Sriharikota, Andhra Pradesh -524 124
+nrbala@shar.gov.in
+hrdd@shar.gov.in
+
+North Eastern Space Applications Centre, (NESAC)	Dr. K K Sharma
+North Eastern Space Applications Centre (NESAC)
+Umiam: 793 103, Meghalaya
+Email: kk.sarma@nesac.gov.in
+Tele Phone No:
+
+0364 2570138
+
+ISRO Inertial Systems Unit, (IISU)	Shri K S Nandhakumar
+ISRO Inertial Systems Unit (IISU)
+Thiruvananthapuram: 695 013,
+Kerala
+Email: ks_nandhakumar@vssc.gov.in
+Tele Phone No:
+
+0471 2569357
+
+Master Control Facility, (MCF)	Shri S.N. Jaggannatha
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/spacelinks.htm]
+Master Control Facility
+Hassan-573201, Karnataka
+Email:jagannath@mcf.gov.in
+Tele Phone No:
+
+081 72-273112
+
+Laboratory for Electro-Optics Systems (LEOS)	Shri Raja VLN Sridhar
+Laboratory for Electro-Optics Systems (LEOS)
+Peenya Bengaluru-560058,Karnataka
+Email: rvlnsridhar@leos.gov.in
+Tele Phone No:
+
+080 2268 5166/5130
+
+=== STC page: /stc/research-areas.htm ===
+Source: https://www.iitk.ac.in/stc/research-areas.htm
+
+Supported Areas of Research
+
+Research proposals are Supported by ISRO in any area of relevance to the space programme of which the following are few examples:
+
+Space Science: Physics of the ionosphere and magnetosphere; meteorology, dynamics of the atmosphere; geophysics, geology; astronomy; cosmology; astrophysics; planetary and interplanetary space physics and climatology.
+
+Space Technology: Rocket and satellite technology; propulsion systems design and optimization; aerodynamics and heat transfer problems related to space vehicles; guidance and control systems for launch vehicles and spacecraft; polymer chemistry, propellant technology; ultra-light-weight structure; satellite energy systems; space electronics, Space communication systems; orbital mechanics ,computer sciences and new material development.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/research-areas.htm]
+Space Application: Remote sensing of the earth’s resources: space communication; satellite geodesy image processing, satellite meteorology including weather forecasting, Space Education and Ecology.
+
+Some illustrative examples of specific problems in the above-mentioned areas can be made available by ISRO from time to time by sharing the titles of the old projects - list of projects from 2000 - July 2023. Proposers need not feel to be restricted in the selection of subjects, research areas etc for the proposals, but they need to demonstrate the intrinsic scientific merit. However, ISRO reserves the right to not to fund any proposal (s), if in its opinion, similar proposals are already funded or similar work is already done in ISRO.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/research-areas.htm]
+For more details visit:
+
+www.isro.gov.in/sponsored-research-respond
+www.sac.gov.in/respond/
+www.vssc.gov.in/activities/respond/
+www.lpsc.gov.in/researchareas
+www.prl.res.in/prl-eng/respond_program
+www.ursc.gov.in/research.jsp
+www.istrac.gov.in/index.html
+www.iirs.gov.in/respond
+www.iprc.gov.in/
+www.shar.gov.in/sdscshar/index.jsp
+
+Research Areas in Space, ISRO-HQ (2025): Research proposals are Supported by ISRO in the areas of Space Science, Space technology and Space Applications which are of relevance to ISRO.
+
+Download
+
+Research Areas of SAC (2025): A Compendium of Themes for Sponsored Research at SAC, ISRO, Ahmedabad
+
+Download
+
+=== STC page: /stc/procedure-new.htm ===
+Source: https://www.iitk.ac.in/stc/procedure-new.htm
+
+Sponsored Research at STC  |
+
+Procedure for New Proposal
+
+Step 1: |
+
+Proposal prepared in standard Format by PI  (Principle Investigator).
+
+Step 2: |
+
+Proposal received at STC, IIT Kanpur.
+
+Step 3: |
+
+Proposal referred to DD RESPOND, ISRO, HQ.
+
+Step 4: |
+
+Proposal referred to ISRO Subject Experts.
+
+Step 5: |
+
+Comments received from ISRO Subject Experts.
+
+Step 6: |
+
+If ISRO Subject Experts find any kind of modification, PI will  prepare the revised Proposal
+and send it to STC (Step 1  to Step 4). This process is in loop till SSE is satisfied and then proposal is  discussed in  JPC(Joint Proof Review Committe )
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/procedure-new.htm]
+.
+
+Step 7: |
+
+If JPC members find any kind of modification, again PI will prepare the
+revised Proposal and send  it to  STC (Step 1 to Step 5). This  process is in loop till JPC clearance.
+
+Step 8: |
+
+After clearance  by JPC, Director IITK recommend  the proposal for approval by ISRO.
+
+Step 9: |
+
+Approval of Chairman, ISRO.
+
+Step 10: |
+
+A letter from DD, RESPOND will be sent to PI on approval intimation and further procedure for release of grant.
+
+Step 11: |
+
+STC Coordinator will Grant-in-aid bill for all the projects to Pay and Accounts Officer, Department of Space, Antariksh Bhavan, New BEL Road, Bangalore 560 231  with a copy to DD, RESPOND (Department of Space, Antariksh Bhavan, New BEL Road, Bangalore 560 231)  for releasing the grants.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/procedure-new.htm]
+
+Step 12: |
+
+The release of approved ISRO grants to the project is subject to the submission of all the outstanding  Fund Utilization Certificate (FUC) and Audited Accounts Statement (AAS) by institution, for the ISRO grants released earlier to the institution for conducting ISRO sponsored projects and other scientific activities.
+
+Step 13: |
+
+DOS will release order for the approved grants followed by release of fund to Institute.
+
+=== STC page: /stc/procedure-ongoing.htm ===
+Source: https://www.iitk.ac.in/stc/procedure-ongoing.htm
+
+Sponsored Research at STC  |
+
+Procedure for Ongoing Projects
+
+Step 1: |
+
+PI will be required to submit Annual Progress Report(APR) in standard Format at the end of every year, indicating the progress of the work
+accomplished during concerned year
+.
+
+Step 2: |
+
+Assessment of project by ISRO Respond Center and Focal Person(Contact Scientist).
+
+Step 3: |
+
+Review report received from Respond Center.
+
+Step 4: |
+
+PI will be required to present the work in the Joint Policy Committe Meeting (JPC Meeting).
+
+Step 5: |
+
+Recommendation by JPC Members.
+
+Step 6: |
+
+Recommendation by Director, IIT Kanpur.
+
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/procedure-ongoing.htm]
+
+Step 7: |
+
+Approval of Chairman, ISRO.
+
+Step 8: |
+
+A letter from DD, RESPOND will be sent to STC-IIT Kanpur on approval intimation and further procedure for release of grants.
+
+Step 9: |
+
+STC-IITK needs to submit FUND Utilization Certificate (FUC), Audited Accounts Statement (AAS) and Grant-in-aid bill to Account Officer, Department of Space with a copy to DD, RESPOND for releasing the grants.
+
+Step 10: |
+
+=== STC page: /stc/procedure-completion.htm ===
+Source: https://www.iitk.ac.in/stc/procedure-completion.htm
+
+Sponsored Research at STC  |
+
+Procedure for Project Completion
+
+Step 1: |
+
+PI will be required to submit Project Completion Report in standard Format at the end of final year, indicating the progress of the work
+accomplished during concerned year.
+.
+
+Step 2: |
+
+PI will prepare Project Completion Report in consultation with Focal Person(Contact Scientist).
+.
+
+Step 3: |
+
+Assessment of Project Completion Report by ISRO RESPOND Center and Focal Person(Contact Scientist).
+
+Step 4: |
+
+Review report received from ISRO RESPOND Center.
+
+Step 5: |
+
+Step 6: |
+
+PI will be required to submit a hard copy of the project completion report and a soft copy of the project completion report to the RESPOND Center along with all deliverables.
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/procedure-completion.htm]
+Also, PI must submit a copy and a Hard copy of the project completion report to the STC-IITK
+.
+
+Step 7: |
+
+STC-IITK needs to submit FUND Utilization Certificate (FUC), Audited Accounts Statement (AAS) and Grant-in-aid bill to Account Officer, Department of Space with a copy to DD, RESPOND.
+
+=== STC page: /stc/forms.htm ===
+Source: https://www.iitk.ac.in/stc/forms.htm
+
+Forms and Procedure
+
+New Proposals
+Procedure for New Proposals
+
+Proposal Preparation Format
+
+
+
+Ongoing Projects
+Procedure for Ongoing Projects
+
+Format for Annual Progress Report (APR)
+
+
+
+Project Completion
+Procedure for Project Completion
+
+Format for Project Completion Report
+
+
+
+Project Extension
+Procedure for Project Extension
+
+Format for Project Extension
+
+
+
+Account Formats
+Grant-in-aid bill
+
+Fund Utilization Certificate (FUC)
+
+
+
+
+
+=== STC page: /stc/drivingforce.htm ===
+Source: https://www.iitk.ac.in/stc/drivingforce.htm
+
+ISRO JPC Members – ISRO-IIT Kanpur Space Technology Cell (STC) 2025
+
+Member	Designation	Contact details
+Dr. Ramanagouda V Nadagouda,
+Distinguished Scientist
+Associate Director(Projects)
+URSC, Bengaluru	Co Chair
+
+rvngowda@ursc.gov.in
+
+Shri Shyam Kumar U,
+Deputy Director, MVIT,
+Outstanding Scientist,
+VSSC, Thiruvananthapuram
+	Member
+
+u_shyamkumar@vssc.gov.in
+
+Dr. Arumugam M,
+Deputy Director, MME,
+Outstanding Scientist,
+LPSC, Valiamala,
+	Member
+
+m_arumugam@lpsc.gov.in
+
+Shri Muthuchezhian S,
+Deputy Director ESPG/LSSF,
+Outstanding Scientist,
+SDSC-SHAR, Sriharikota
+	Member
+
+muthu@shar.gov.in
+
+Ms. Nandini Harinath,
+Dy Project Director, SOA
+Scientist/Engineer-G,
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/drivingforce.htm]
+ISTRAC, Bengaluru
+	Member
+
+nandini_h@istrac.gov.in
+
+Shri Jaison Joseph,
+Gp Head, Flight Mech Group,
+Scientist/Engineer G,
+VSSC, Thiruvananthapuram
+	Member
+
+jaison_joseph@vssc.gov.in
+
+Director, DTDI Nominee,
+ISRO HQ, Bangaluru,
+	Member
+
+victor@isro.gov.in
+
+Director, CBPO/ Nominee
+ISRO HQ, Bangaluru,
+	Member
+
+dir.cbpo@isro.gov.in
+
+Smt. Nirupma Tiwari,
+Deputy Director,
+RESPOND, CBPO,
+ISRO, HQ,
+Bengaluru	Member-Coordinator
+
+nirupama@isro.gov.in
+
+IITK JPC Members – ISRO-IIT Kanpur Space Technology Cell (STC) 2025
+
+Dr. Manindra Agrawal,
+Director- IIT Kanpur,
+Kanpur : 208016	Chairman
+
+director@iitk.ac.in
+
+Dr. Tarun Gupta,
+Dean Research and Development,
+IIT Kanpur
+	Member
+
+dord@iitk.ac.in
+
+Dr. Bishakh Bhattacharya,
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/drivingforce.htm]
+Department of Mechanical Engineering,
+IIT Kanpur
+	Member-Coordinator
+
+bishakh@iitk.ac.in
+stc@iitk.ac.in
+
+Dr. Gopal M Kamath,
+Head, Aerospace Engineering,
+IIT Kanpur
+	Member
+
+head_aero@iitk.ac.in
+
+Dr. Yogesh Singh Chauhan,
+Head, Electrical Engineering,
+IIT Kanpur
+	Member
+
+head_ee@iitk.ac.in
+
+Dr. Ashish Dutta,
+Head, Mechanical Engineering,
+IIT Kanpur
+	Member
+
+head_me@iitk.ac.in
+
+Dr. Surender Baswana,
+Head, Computer Science & Engineering,
+IIT Kanpur
+	Member
+
+head@cse.iitk.ac.in
+
+=== STC page: /stc/publication.htm ===
+Source: https://www.iitk.ac.in/stc/publication.htm
+
+Publications
+Sr No.	Journal	Year
+1	“Mechanically reconfigurable single-layer metasurface for continuously tunable polarization conversion and frequency filtering in C-Ka band for reflection and transmission”, Physica Scripta, Prof. R. Vijaya	2025
+2	Effect of Layering on Brittle Deformation: Results from Hypervelocity Impact Experiments on Gneiss, International Journal of Impact Engineering, Prof. Amar Agarwal	2025
+3	Incremental Sheet Forming of Aluminum Alloy Using a Hemispherical-End Tool Heated by Electromagnetic Induction, Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering, Prof. J. Ramkumar	2025
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+4	Heat-Assisted Incremental Sheet Forming: An Overview, Advances in Materials and Processing Technologies, Prof. J. Ramkumar	2025
+5	An Experimental Study of Forming Force and Hardness of Deformed Sheet in Induction Heated Incremental Forming of AA6061 Alloy, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, Prof. J. Ramkumar	2025
+6	Stabilized Interface with High Discharge Voltage in Lithium Solid-State Batteries of Organic Cathode and Composite Electrolyte, Materials Today Energy, Prof. Sudarshan Narayanan	2025
+7	Designing Fluorocarbon-Based Polymeric Electrolytes with High Cationic Transference Number for All-Solid-State Sodium-Ion Batteries, Polymer, Prof. Sudarshan Narayanan	2025
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+8	Role of Curvature in Controlling SWBLI Behavior in a Hypersonic Double Ramp Flow, Frontiers in Mechanical Engineering, Prof. Rajesh Ranjan	2025
+9	On the Origin of Fragments Observed in Electron Ionisation Mass Spectrometry of Water Clusters in Superfluid Helium Nanodroplets, Physical Chemistry Chemical Physics, Prof. Devendra Mani	2025
+10	Universal Energy Cascade and Relaxation in Three-Dimensional Inertial Electron Magnetohydrodynamic Turbulence, Physics of Plasmas, Prof. Supratik Banerjee	2025
+11	Universal Relations Between Parallel and Perpendicular Spectral Power-Law Exponents in Nonaxisymmetric Magnetohydrodynamic Turbulence, Physical Review E, Prof. Supratik Banerjee	2025
+12	Emergence of Two Inertial Subranges in Solar Wind Turbulence: Dependence on Heliospheric Distance and Solar Activity, The Astrophysical Journal, Prof. Supratik Banerjee	2025
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+13	Field Emission Study on Atomically Heterogeneous Micro-Metallic Emitters Produced by Ion Beam from Inert Gas Plasmas, Journal of Physics D: Applied Physics, Prof. Sudeep Bhattacharjee	2025
+14	Exploring the hot deformation behavior of novel Si-containing austenitic stainless steel, Vacuum, Prof. Shashank Shekhar	2024
+15	Effects of Hugoniot properties on jet onset conditions, International Journal of Impact Engineering,Prof. Amar Agarwal	2024
+16	A Combined Physical and Virtual Digital Image Correlation Technique for Calibration and Validation of Elasto-Plastic-Damage Models,Prof. Pritam Chakraborty	2024
+17	Evaluating the Effect of Ignition Energy on Gaseous Hydrogen-Oxygen Detonations, International Journal of Hydrogen Energy, Prof. Ajay Vikram Singh	2024
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+18	Effect of Initial Conditions on the Inhibition Process of H2-O2/air Detonations Using CF3I, CO2, and H2O, Shock Wave, Prof. Ajay Vikram Singh	2024
+19	Detonation Inhibition using Retardant Weight Analysis for Halogenated Compounds, Shock Wave, Prof. Ajay Vikram Singh	2024
+20	Universal cascade and relaxation of strong anisotropic turbulence in fusion plasmas, Prof. Supratik Banerjee	2024
+21	A Novel Low Temperature Synthesis of Pure LaB6 Powder by Solid-State Reduction Reactions Involving La2O3 and B2O3, Journal of Materials Engineering and Performance, Prof. K. Mondal	2024
+22	Effect of Leading-Edge Bluntness on Shockwave–Boundary-Layer Interaction in a Scramjet Intake, Journal of Spacecrafts and Rockets, Prof. Mohammed Ibrahim Sugarno	2024
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+23	Investigating the effects of intermolecular interactions on nonlinear optical properties of binary mixtures with high repetition rate femtosecond laser pulses, PeerJ Physical Chemistry, Prof. Debabrata Goswami	2023
+24	Intense femtosecond optical pulse shaping approaches to spatiotemporal control, Frontiers in Chemistry, Prof. Debabrata Goswami	2023
+25	Multivariant microstructure evolution in Ti-alloys: insights from a quantitative phase-field study, Modelling and Simulation in Materials Science and Engineering, Prof. Rajdip Mukherjee	2023
+26	Multivariant microstructure evolution in Ti-alloys: insights from a quantitative phase-field study, MODELLING AND SIMULATION IN MATERIALS SCIENCE AND ENGINEERING, Prof. Rajdip Mukherjee	2023
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+27	Molecular dynamic study on modulating the interfacial thermal conductivity of carbon fiber/epoxy interfaces, COMPUTATIONAL MATERIALS SCIENCE, Prof. Sumit Basu	2023
+28	Recent progress and prospects of NASICON framework electrodes for Na-ion batteries, Progress in Materials Science, Prof. Shobit Omar	2023
+29	Mg-doped NASICON-type electrolyte for rechargeable solid-state sodium-ion batteries, Journal of Power Sources, Prof. Shobit Omar	2023
+30	Incessant tribo-layer formation supresses high temperature wear damage in SiC reinforced equi-volume ZrB2-HfB2 composite, Surface & Coating Technology, Prof. Kantesh Balani	2023
+31	Development and validation of a material evaporation assisted thermal model for time-efficient calculation of thermal and solidification parameters during laser powder bed fusion process for Ti6Al4V, ADDITIVE MANUFACTURING, Prof. Arvind Kumar	2023
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+32	Development and validation of a material evaporation assisted thermal model for time-efficient calculation of thermal and solidification parameters during laser powder bed fusion process for Ti6Al4V, ADDITIVE MANUFACTURING, Prof. Arvind Kumar	2023
+33	Spark plasma joining of HfB2-ZrB2 based Ultra High Temperature Ceramics using Ni interlayer, Materials Science and Engineering A, Prof. Kantesh Balani	2022
+34	Mechanical and high temperature oxidation behavior of HfB2-ZrB2-SiC-B4C CNT composites joint with and without Ni interlayer, Ceramics International, Prof. Kantesh Balani	2022
+35	High Entropy Alloys: Laboratory to Industrial Attempt, International Journal of Metalcasting, Prof. Krishanu Biswas	2022
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+36	Deciphering the individual effects of the fluid flow and material evaporation physics on the melting characteristics and the re-solidification parameters during laser melting of solid Ti6Al4V substrate, THERMAL SCIENCE AND ENGINEERING PROGRESS, Prof. Arvind Kumar	2022
+37	Characterization and modeling of drain lag using a modified RC network in the ASM-HEMT framework, Solid State Electronics, Prof. Yogesh Singh Chauhan	2022
+38	Sensing non-ideal microheterogeneity in binary mixtures of dimethyl sulfoxide and water, Journal of Optics, Prof. Debabrata Goswami	2022
+39	Achieving molecular distinction in alcohols with femtosecond thermal lens spectroscopy, Chemical Physics, Prof. Debabrata Goswami	2022
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+40	Conjugate Flow-Thermal Analysis of a Hypersonic Reentry Vehicle in the Rarefied Flow Regime, PHYSICS OF FLUIDS , Prof. Rakesh Kumar Mathpal	2022
+41	CDeriving wetland-cover types (WCTs) from integration of multispectral indices based on Earth observation data, ENVIRONMENTAL MONITORING AND ASSESSMENT , Prof. Rajiv Sinha	2022
+42	Influence of Si content on the microstructure and mechanical properties of silicon stainless steel, Materials Science and Engineering: A, Prof. Shashank Shekhar	2022
+43	Design and Analysis of Polarization-Insensitive Broadband Microwave Absorber for Perfect Absorption, Progress In Electromagnetics Research M, Prof. Kumar Vaibhav Srivastava	2021
+44	Densification mechanism of spark plasma sintered ZrB2 and ZrB2-SiC composites, Materials Characterization, Prof. Kantesh Balani	2021
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+45	Effect of vortex and entropy sources in sound generation for compressible cavity flow, Physics of Fluids, Prof. Ashoke De	2021
+46	Optical Parameters of Atomically Heterogeneous Systems Created by Plasma Based Low Energy Ion Beams: Wavelength Dependence and Effective Medium Model, Frontiers of Physics, Prof. Sudeep Bhattacharjee	2021
+47	Unraveling Molecular Interactions in Binary Liquid Mixtures with Time-Resolved Thermal-Lens- Spectroscopy, Journal of Molecular Liquids, Prof. Debabrata Goswami	2021
+48	Metasurface‐based Triple‐band High‐gain Fabry‐Perot cavity antenna, International Journal of RF and Microwave Computer‐aided Engineering, Prof. R Vijaya	2021
+49	Performance Analysis and Optimization of a SnSe-Based Thermoelectric Generator, ACS APPLIED ENERGY MATERIALS, Prof. Tanmoy Maiti	2021
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+50	Modeling of Bias Dependent Effective Velocity and its Impact on Saturation Transconductance in AlGaN/GaN HEMTs, IEEE TRANSACTIONS ON ELECTRON DEVICES , Prof. Yogesh Singh Chauhan	2021
+51	Experimental Study on the Mean Flow Characteristics of a Supersonic Multiple Jet Configuation, AEROSPACE SCIENCE AND TECHNOLOGY , Prof. Rakesh Kumar Mathpal	2021
+52	Effect of Thermal Ablation at the Fluid-Solid Interface of a Hypersonic Reentry Vehicle in Rarefied Flow Regime, INTERNATIONAL JOURNAL OF COMPUTATIONAL FLUID DYNAMICS, Prof. Rakesh Kumar Mathpal	2021
+53	Correlations for Aerodynamic Coefficients for Prolate Spheroids in the Free Molecular Regime, COMPUTERS & FLUIDS, Prof. Rakesh Kumar Mathpal	2021
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+54	Absorption Properties of CNF Mixed Cobalt Nickel Ferrite Nanocomposite for Radar and Stealth Applications, JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS, Prof. M. J. Akhtar	2021
+55	Acid-directed preparation of micro/mesoporous heteroatom doped defective graphitic carbon as bifunctional electroactive material: Evaluation of trace metal impurity, JOURNAL OF COLLOID AND INTERFACE SCIENCE, Prof. Kamal K. Kar	2021
+56	Effect of B4C reinforcement on microstructure, residual stress, toughening and scratch resistance of (Hf, Zr) B2 ceramics, Materials Science and Engineering A, Prof. Kantesh Balani	2020
+57	Engineered role of SiC particle size on multi-length wear damage of spark plasma sintered Zirconium Diboride, Advanced Engineering Materials, Prof. Kantesh Balani	2020
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+58	Oxidation kinetics of ZrB2 and HfB2 powders and their reinforced composites, Corrosion Science, Prof. Kantesh Balani	2020
+59	Tuning optical properties of atomically heterogeneous systems created by plasma-based low-energy ion beams, Applied Optics, Prof. Sudeep Bhattacharjee	2020
+60	Reduction in lithiation-induced stresses in Si nanopillar anodes through alloying with Ge and hallowing, JOURNAL OF THE ELECTROCHEMICAL SOCIETY, Prof. Raj Ganesh Pala	2020
+61	Unravelling the molecular dependence of femtosecond laser-induced thermal lens spectroscopy in fluids, Journal of Analyst, Prof. Debabrata Goswami	2020
+62	Two-photon induced fluorescence study of Rhodamine-6G dye in different sets of binary solvents, Journal of Fluorescence, Prof. Debabrata Goswami	2020
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+63	Adsorption preference of HF over ethylene carbonate leads to dominant presence of fluoride products in LiFePO4 cathode-electrolyte interface in Li-Ion batteries, JOURNAL OF PHYSICAL CHEMISTRY C, Prof. Raj Ganesh Pala	2020
+64	Alloying with Ge and Hollowing Reduces Lithiation-Induced Stresses in Si Nanopillar Anodes, JOURNAL OF THE ELECTROCHEMICAL SOCIETY, Prof. Raj Ganesh Pala	2020
+65	Higher Voltage, Wider Voltage Plateau, Longer Cycle Life, and Faster Kinetics via Thermally Modulated Intergrowth Structure of Ramsdellite and Pyrolusite MnO2 for Lithium-Ion Battery Cathodes, JOURNAL OF POWER SOURCES, Prof. Raj Ganesh Pala	2020
+66	Device modeling and performance optimization of thermoelectric generators under isothermal and isoflux heat source condition, JOURNAL OF POWER SOURCES, Prof. Tanmoy Maiti	2020
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+67	Numerical Investigation of Coaxial GCH4 /LOx Combustion at Supercritical Pressures, COMBUSTION SCIENCE AND TECHNOLOGY, Prof. Ashoke De	2020
+68	Correlation between EMI Shielding and Reflection Loss Mechanism for Carbon Nanofiber/Epoxy Nanocomposite, MATERIALS TODAY COMMUNICATIONS, Prof. M. J. Akhtar	2020
+69	Estimation of broadband complex permeability using SIW cavity based multimodal approach, IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT, Prof. M. J. Akhtar	2020
+70	Highly coercive strontium hexaferrite nanodisks for microwave absorption and other industrial applications, COMPOSITES PART B-ENGINEERING, Prof. M. J. Akhtar	2020
+71	Hierarchical Trellis Based Decoder for Total Variation Sequence Detection (TVSD) in Space-Time Trellis Coded (STTC) Wireless Image/Video Communication, IEEE ACCESS, Prof. Aditya K. Jagannatham	2020
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+72	Effect of heat-treatment on the microstructure evolution and corrosion response of high-silicon stainless steel, JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE , Prof. Shashank Shekhar	2020
+73	Fabrication of Al-Si controlled expansion alloys by unique combination of pressureless sintering and hot forging, ADVANCED POWDER TECHNOLOGY, Prof. Kallol Mondal	2020
+74	Biowaste derived activated carbon electrocatalyst for oxygen reduction reaction: Effect of chemical activation, INTERNATIONAL JOURNAL OF HYDROGEN ENERGY, Prof. Kamal K. Kar	2020
+75	Atomically dispersed Ni/NixSy anchored on doped mesoporous networked carbon framework: Boosting the ORR performance in alkaline and acidic media, JOURNAL OF COLLOID AND INTERFACE SCIENCE, Prof. Kamal K. Kar	2020
+[Context: ISRO-IITK SPACE TECHNOLOGY CELL (STC), IIT KANPUR > STC page: /stc/publication.htm]
+76	Sub-zero Temperature Dependence of Tensile Response of Friction Stir Welded Al-Cu-Li (AA2198) Alloy, Metallurgical and Materials Transactions A, Prof. Nilesh P. Gurao	2020
+77	First report on entire sets of experimentally determined interdiffusion coefficients in quaternary and quinary high-entropy alloys, JOURNAL OF MATERIALIA RESEARCH, Prof. Kaustubh Kulkarni	2020
+78	Investigation of flow characteristics inside a dual bell nozzle with and without film cooling, AEROSPACE SCIENCE AND TECHNOLOGY, Prof. Ashoke De	2020
+
+=== STC page: /stc/reachus.htm ===
+Source: https://www.iitk.ac.in/stc/reachus.htm
+
+Contact
+
+Dr. Bishakh Bhattacharya
+
+Department of Mechanical Engineering
+
+Coordinator, ISRO-IIT Kanpur, Space Technology Cell,
+
+Indian Institute of Technology Kanpur, Kanpur.
+
+E-mail id: bishakh@iitk.ac.in
+
+Tel: 0512-2597824
+
+
+
+
+
+
+
+Dr. Abhilash Patel
+
+Department of Electrical Engineering
+
+Co-PI, ISRO-IIT Kanpur, Space Technology Cell,
+
+E-mail id: apate@iitk.ac.in
+
+Tel: 0512-679-2322
+
+
+
+
+
+
+
+Ms. Kadambari Jagannatham
+
+Project Engineer
+
+Space Technology Cell
+
+Room No. 203 Computer Center
+
+Indian Institute of Technology Kanpur,
+
+E-mail id: stc@iitk.ac.in
+
+Tel: 0512-2596638,   8081303357 (M)
+
+
+
+
+
+
+
+
+

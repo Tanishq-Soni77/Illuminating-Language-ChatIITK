@@ -1,0 +1,546 @@
+GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Gangwal School of Medical Sciences and Technology, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/gsmst. Snapshot: scraped in 2026.
+
+=== cancer research ===
+Source: https://www.iitk.ac.in/gsmst/cancer-research
+CoE: Cancer Research
+
+Liquid biopsies, owing to their minimally invasive nature, are associated with significantly less morbidity and can be scheduled more frequently to provide a personalised snapshot of the disease at successive time points. The fabrication of a cost-effective cluster chip is being developed for isolating circulating tumour cells and its utility in cancer diagnostics.
+
+Faculty Members
+
+Dr. Bushra Ateeq
+
+Biological Sciences and Bioengineering
+
+Molecular oncology and cancer therapeutics
+
+Dr. Rakesh Majhi
+
+Biological Sciences and Bioengineering
+
+Ion channels; Cancer Immunotherapy; Antimicrobial Peptides; Tissue Restoration; Oral Health; Fertility and Contraception
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cancer research]
+Associated Faculty Members
+
+Dr. Gautam Biswas
+
+Mechanical Engineering
+
+Dr. Hamim Zafar
+
+Biological Sciences and Bioengineering
+
+Dr. J. Ramkumar
+
+Mechanical Engineering
+
+Dr. Suresh Kumar
+
+Biological Sciences and Bioengineering
+
+Students/ PhDs
+
+Anjali Rameswari
+
+(BT-MTech)
+
+Isolation and analysis of rare circulating cancer cells (CTCs) through specialized bifurcating traps under low shear stress conditions
+
+Sushmita Kundu
+
+PhD
+
+Characterizing Cluster Chip for patients' specimens
+
+Clinical advisors
+
+Dr. Anjali Tewari
+
+Consultant & Director in Pathology, Regency Hospital, Kanpur
+
+Pathology, Histopathology ,Cytopathology
+
+Dr. Sanjeev Mehrotra
+
+Consultant Urologist & Renal Transplant Surgeon, Regency Hospital, Kanpur
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cancer research]
+Kidney Transplant, Reconstructive Surgery, Laser Surgery, Laparoscopic Surgery ,Robotic Surgery
+
+Dr. Apul Goel
+
+Urologist
+Department of Urology
+King George's Medical University, Lucknow
+
+Endourology, Reconstructive urology, Female urology
+
+Dr. Atin Singhai
+
+Department of Pathology
+King George's Medical University, Lucknow
+
+Nephro, Uro, Dermatopathology, Endocrine pathology, Electron Microscopy
+
+Publications
+
+Targeting MALAT1 Augments Sensitivity to PARP Inhibition by Impairing Homologous Recombination in Prostate Cancer.
+
+Yadav A, Biswas T, Praveen A, Ganguly P, Bhattacharyya A, Verma A, Datta D, Ateeq B. Cancer Res Commun. 2023 Oct 9;3(10):2044-2061.
+
+An integrative proteomics approach identifies tyrosine kinase KIT as a therapeutic target for SPINK1-positive prostate cancer.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cancer research]
+Manzar N, Khan UK, Goel A, Carskadon S, Gupta N, Palanisamy N, Ateeq B. iScience. 2024 Jan 4;27(3):108794
+
+The G Protein-Coupled Receptor GPR56 Is an Inhibitory Checkpoint for NK Cell Migration. Palacios D, Majhi RK, Szabo EK, Clement D, Lachota M, Netskar H, Penna L, Krokeide SZ, Vincenti M, Kveberg L, Malmberg KJ. J Immunol. 2024 Nov 1;213(9):1349-1357.
+
+Evaluation of Osteogenic Potential of a Polysaccharide-Based Hydrogel Coating on Titanium. Majhi R, Patro TK, Dhal A, Kumar S, Guha P, Goswami L, Goswami C, Majhi RK, Garhnayak L. Cureus. 2024 Apr 7;16(4):e57785.
+
+Exercise Delays Brain Ageing Through Muscle-Brain Crosstalk. Pourteymour S, Majhi RK, Norheim FA, Drevon CA. Cell Prolif. 2025 Jul;58(7):e70026.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cancer research]
+Association and Collaboration
+
+=== cardiovascular and pulmonary diseases research ===
+Source: https://www.iitk.ac.in/gsmst/cardiovascular-and-pulmonary-diseases-research
+CoE: Cardiovascular & Pulmonary Diseases Research
+
+The CoE for Cardiovascular and Pulmonary Research is creating comprehensive computational and experimental frameworks that unify appropriate MRI methods, image analysis, model building and visualisation algorithms, and simulation techniques based on computational mechanics. It aims to provide a highly efficient tool for clinicians to diagnose disease and assess its progression, thereby enabling personalised therapeutic measures. The CoE is developing affordable medical support devices like LVAD, IV-LITHOTRIPSY, Heart Valves, Pacemakers, etc., to meet the demands of low-income countries.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cardiovascular and pulmonary diseases research]
+Flagship project
+
+Percutaneous Mechanical Circulatory Support
+
+A miniature device to pump blood from the left ventricle to the ascending aorta is mapped out. The planned device will include subsystems that may serve as critical components of other medical devices and interventions, such as intravascular lithotripsy, intra-arterial balloon pumps, stent delivery, and dental equipment.
+
+PI
+
+Name: Dr. Pranav Ramkrishna Joshi
+
+Faculty Members
+
+Dr. B.V. Rathish Kumar
+
+Mathematics and Statistics
+
+Numerical Analysis, Applied Mathematics, Scientific Computing, Computational Biomechanics, PDEs, CFD, HPC, Image Processing
+
+Dr. Niraj Sinha
+
+Mechanical Engineering
+
+Additive Manufacturing, Biomaterials, Biomedical Engineering, Prosthetic Devices, Nanotechnology
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cardiovascular and pulmonary diseases research]
+Associated Faculty Members
+
+Dr. Ashoke De
+
+Aerospace Engineering
+
+Dr. Indranil Saha
+
+Computer Science and Engineering
+
+Dr. Kamal K. Kar
+
+Mechanical Engineering
+
+Dr. Kantesh Balani
+
+Material Science and Engineering
+
+Dr. K. Muralidhar
+
+Mechanical Engineering
+
+Dr. Malay K. Das
+
+Mechanical Engineering
+
+Dr. Navrose
+
+Aerospace Engineering
+
+Dr. Nikunj Bhagat
+
+Electrical Engineering
+
+Dr. P.K. Panigrahi
+
+Mechanical Engineering
+
+Dr. Pranav Ramkrishna Joshi
+
+Mechanical Engineering
+
+Dr. Rakesh Kumar
+
+Aerospace Engineering
+
+Dr. Suvendu Samanta
+
+Electrical Engineering
+
+Clinical advisors
+
+Dr. Satyendra Tewari
+
+Prof. of Cardiology at SGPGIMS, Lucknow
+
+Clinical Cardiology, Interventional cardiology
+
+Dr. Shantanu Pande
+
+Robotic Cardio-Thoracic Surgeon Professor at Sanjay Gandhi Postgraduate Institute of Medical Sciences
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > cardiovascular and pulmonary diseases research]
+Cardiovascular and thoracic surgery
+
+Team
+
+Amita Sahu
+
+Senior Research fellow
+
+Ashok Vishwakarma
+
+Senior Research fellow
+
+Arvind Kumar Singh
+
+Project Postdoc Fellow
+
+Ranjan Kumar
+
+MS Research
+
+Bhrigu Nath
+
+Technical Staff
+
+Association and Collaboration
+
+=== collaborations ===
+Source: https://www.iitk.ac.in/gsmst/collaborations
+Collaborations
+
+MoU with All India Institute of Medical Sciences, Gorakhpur
+
+MoU with the University of California San Diego
+
+MoU with Apollo hospitals
+
+MoU with Laurus Labs
+
+MoU with KSSSI
+
+MoU with Swansea University, UK
+
+MoU with the University of Glasgow, UK
+
+MoU with FMDHS, University of Melbourne, Australia
+
+MoU with the Department of Medical Health and Family Welfare, Government of Uttar Pradesh - Uttar Pradesh Digital Health Stack
+
+MoU with Fondazione CNAO - Centro Nazionale di Adroterapia Oncologica in Pavia, Italy
+
+MoU with the Armed Forces Medical Services
+
+MoU with ICICI Foundation for Inclusive Growth
+
+MoU with IIM Lucknow
+
+Agreement with The Global Consortium of Innovation and Engineering in Medicine
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > collaborations]
+MoU with NSite Medical, Stanford University Prof Michael J Gardner, MD, Stanford Medicine, USA
+
+MoU with Narayana Hrudayalaya Ltd., Bangaluru
+
+MoU with Ram Manohar Lohiya Institute of Medical Sciences, Lucknow
+
+MoU with Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow
+
+MoU with Patanjali Research Foundation Trust
+
+=== project hridyantra ===
+Source: https://www.iitk.ac.in/gsmst/project-hridyantra
+Project Hridyantra
+
+An Advanced Implantable Blood Pump for Heart Failure Patients
+
+Device specifications/features
+
+Biocompatible Titanium Alloy
+
+Compact design and implantable dimensions
+
+Continuous Flow Blood Pump
+
+Efficient electrical motor and drive system
+
+Engineered Surfaces for Biocompatibility
+
+Minimum Adverse Events Probability
+
+A left ventricular assist device (LVAD) is a mechanical pump implanted in patients with weakened hearts to support the left ventricle, the main pumping chamber of the heart to pump blood more effectively.
+
+&mbsp;
+A cost effective technology developed at IIT Kanpur
+
+&mbsp;
+Novel blood flow path design
+
+&mbsp;
+Well balanced rotor pump assembly with MAGLEV technology
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+&mbsp;
+Improved Biocompatibility
+
+A "Make in India" Device, developed by IIT Kanpur, with superior performance and advanced and improved technology, to minimise adverse events in patients and enhance their quality-of-life post -implantation
+
+Left ventricular assist devices (LVADs) are life-saving mechanical pumps designed for people with severe heart failure, when the heart can no longer keep blood moving through the body on its own. By taking over much of the heart’s pumping work, LVADs restore healthy blood flow and can dramatically reduce the debilitating symptoms of heart failure. The device is implanted by an open-chest surgery under general anaesthesia. Once in place, the pump is powered and controlled by equipment worn outside the body, connected through a small cable that passes through the abdomen. This system allows the device to support the heart and sustain vital circulation continuously.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+The device will support patients suffering from advanced heart failure or congestive heart failure (CHF), Stage D, or end-stage heart failure. In the future, the advanced mock circulation loop can be used for other cardiovascular support. The device will serve both as the bridge to transplantation and as destination therapy. Initiated in May 2022, the project brings together a multidisciplinary team from academia and hospitals to deliver an innovative, sustainable solution to India’s growing burden of heart failure.
+
+Fabrication of LVAD
+
+Faculty Members
+
+Dr. Niraj Sinha
+
+Mechanical Engineering
+
+Dr. K. Muralidhar
+
+Mechanical Engineering
+
+Experiments and modelling in fluid and thermal sciences
+
+Dr. Amitabha Bandyopadhyay
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Biological Sciences and Bioengineering
+
+Skeletal development and differentiation
+
+Dr. Pranav R Joshi
+
+Mechanical Engineering
+
+Experimental fluid mechanics and heat transfer
+
+Dr. Nikunj Bhagat
+
+Electrical Engineering and Biological Sciences and Bioengineering
+
+Neural & Bio-signal processing, Medical Instrumentation, Brain-machine interfaces, Functional Electrical Stimulation, rehabilitation Engineering
+
+Dr.Jayandharan G. Rao
+
+Biological Sciences and Bioengineering
+
+Gene therapy: Neuro-ophthalmic disorders; Blood disorders; Cancer gene therapy; Human molecular genetics
+
+Dr. Kantesh Balani
+
+Materials Science and Engineering
+
+Biomaterials, Computational Modeling, CNT Reinforced Nanocomposites, Nanomechanics & Tribology
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Dr. Mandeep Singh Rana
+
+Electric Vehicle automation and maglev drive, power electronic converters design and control
+
+Clinicians
+
+Dr. Devi Shetty
+
+Cardiac Surgeon and Founder of Narayana Health
+
+Cardiothoracic surgeon, pediatric cardiac surgery, valve repairs, pulmonary endarterectomy, Ross procedure, redo heart surgery, and surgery for aortic aneurysms
+
+Dr. Sandeep Attawar
+
+Founder Director & Chair of Advanced Heart Failure, KIMS Hospital, Hyderabad
+
+Heart and lung transplants, Complex cardiac surgery, heart bypass surgery, valve repair and replacement surgery, robotic cardiac surgery, Mechanical circulatory support
+
+Dr. Aditi Singhvi
+
+Cardiologist, Narayan Hrudayalaya, India
+
+Angioplasty -PTCA, Coronary Angiogram, CT Coronary Angiography, Angioplasty -PTCA
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Dr. Julius Punnen
+
+Cardiac Surgeon, Narayan Hrudayalaya, India
+
+Adult Cardiac Surgery, Heart and Lung Transplantation, Mechanical Circulatory Support Chronic Thromboembolic pulmonary hypertension, Heart Valve Tissue Banking
+
+Dr. Naresh Trehan
+
+Chairman & Managing Director, Medanta Heart Institute, Gurugram
+
+Cardiothoracic Surgery, Cardiovascular Surgery, Minimally Invasive Cardiac Surgery, Heart Transplant
+
+Dr. Ramakant Panda
+
+Chairman of the Asian Heart Institute
+
+Total arterial revascularization, off-pump, By pass surgery, Coronary artery bypass grafting, beating heart surgery, redo bypass surgery, valve repair, and complex aneurysms
+
+Dr. Ajay Kaul - (Fortis Healthcare)
+
+Chairman, Cardiac Science, Fortis Hospital, Noida
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Total Arterial coronary bypass surgery, Paediatric cardiac surgery, Heart Valve repairs, Surgery for aneurysm and surgery for cardiac failure, Left Ventricular Assist Device (Artificial Heart), Heart Transplant, and Implantation of various devices for heart failure.
+
+Dr. Thangaraj Paul Ramesh
+
+MBBS, FRCS - Cardiothoracic Surgeon, Apollo Hospitals Greams Road Chennai
+
+Atrial Fibrillation Surgery, Endocarditis,Thoracic Surgery, Mitral and Tricuspid Valve Repair, Minimally invasive cardiac surgery, Pulmonary Embolectomy
+
+Dr. D.C. Sharma
+
+Veterinary surgeon, Palamur Biosciences, Hyderabad
+
+Management of pre-clinical studies for medical devices, cardiac devices testing and coronary interventions, functional safety testing of medical devices in large animals
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Team
+
+Dr. Supriya Das
+
+Project Executive Officer
+
+Medical device development, Surface modifications (design and fabrication) Biocompatibility studies of medical devices (cells, blood), Chemical toxicology, Materials Chemistry, Wearable diagnostic sensor, Project design and execution, Regulatory Compliance
+
+Dr. Vinay Kumar Tripathi
+
+Project Post Doctoral Fellow
+
+Bio instrumentation and data acquisition, Motor and drive control testing on a centrifugal pump and its optimization, Closed loop feedback control, Pump Characteristics
+
+Dr. Priya Singh
+
+Institute Postdoc Fellow
+
+Development of Hydrophobic/Hemophobic Surfaces for LVAD
+
+Mr. Rushit M Bhanderi
+
+Project Executive Officer
+
+Project planning, Active and passive medical device development, Patent analysis, Designing (Mechanical), Manufacturing (Mechanical), Testing (Mechanical), Data analysis, Regulatory Compliance, Quality Assurance
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Mr. Akshay Namdeo
+
+Senior Project Engineer
+
+Design (Mechanical), Manufacturing (Mechanical), Cellular Metamaterials, Surface Engineering and Tribology, Biocompatibility studies
+
+Abhishek Kumar
+
+Project Engineer
+
+Electronics & Drives, Circuit Design, Controller Optimisation, In-vitro test-pump characteristics PCB design, Motor fabrication, Quality Assurance
+
+Mr. Phool Chand Gond
+
+Project Technical Officer
+
+Mr. Harindra P Sharma
+
+Project Technical Officer
+
+Mr. Manoj Sharma
+
+Senior Technical Superintendent
+
+Patents
+
+Collaborations
+
+Visits
+
+Defence Medical staff
+
+Dr Anil Lalwani and Dr Renu B Lalwani
+
+Dr Devi Shetty
+
+Dr Lyle D. Joyce and Dr Julius Punnen
+
+Dr Shabnam Bashir
+
+Mr. Rakesh Gangwal and Mr. Hemant Jalan
+
+The Niti Aayog
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > project hridyantra]
+Mr. Rakesh Sharma
+
+Mr. Narayana Murthy
+
+=== research ===
+Source: https://www.iitk.ac.in/gsmst/research
+Innovative Solutions
+
+Redefining Healthcare
+
+Research in the medical school is at the core of IIT Kanpur’s academics, to enhance the health of our patients and communities. We integrate medical research into technology to drive innovation, enhance learning and better clinical care. Through partnerships with leading medical institutes, we foster discovery and innovation to develop high-quality, affordable solutions that address the medical needs of India.
+
+Initiation
+
+The medical school was initiated in 2022, and several translational research projects were executed by interdisciplinary groups of IIT Kanpur faculty members, students from different departments, clinical mentors from renowned hospitals, and industry professionals. The strong MedTech ecosystem at IIT Kanpur is leveraged to develop and deliver quality healthcare, particularly in rural, tier one, and two cities, thereby boosting the medical technology business in India.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > research]
+Vision
+
+The vision of the Medical School is to provide an unparalleled experience in transforming healthcare, integrating cutting-edge research to ensure breakthroughs in medical treatments and discoveries, and promoting excellence in medical education, thereby responding to the needs of underserved populations in India.
+
+Mission
+
+Our mission is to be an integral part of the unique and excellent health care delivery system, to develop and advance medical research and innovation, and to champion excellence in medical education, using the highest professional standards, to nurture future clinicians.
+
+Biomedical Research at IIT Kanpur
+
+Explore our research
+
+Our research is dedicated to advancing medical knowledge, focusing on innovative solutions for chronic diseases such as cancer, diabetes, and cardiovascular conditions. Our approach integrates cutting-edge research and technology to ensure breakthroughs in medical treatments and procedures. We are committed to delivering comprehensive care that prioritises the health and well-being of individuals.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > research]
+Our Focus areas
+
+AI in Health Care
+
+Publication
+
+Publication
+
+Research News
+
+AI-Based Automatic Scoliosis Intensity Estimation
+An end-to-end deep learning pipeline is developed to reconstruct a 3D model of a patient’s back from a single smartphone video and automatically estimate scoliosis severity, reducing reliance on repeated X-ray exposure. The system leverages state-of-the-art vision foundation models to extract clinically relevant metrics from a non-contact scan completed in under 30 seconds. This radiation-free, low-cost, non-invasive approach is intended for preliminary screening and early detection, enabling wider accessibility in schools, primary care clinics, and resource-limited settings where radiographic assessment may be limited.
+
+[Context: GANGWAL SCHOOL OF MEDICAL SCIENCES AND TECHNOLOGY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FA > research]
+Tech Transfer
+
+MoU with Prevest DenPro Limited
+
+MoU with DICUL AM Private Limited
+

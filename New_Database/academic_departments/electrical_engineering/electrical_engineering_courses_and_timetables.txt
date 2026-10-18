@@ -1,0 +1,2156 @@
+DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Electrical Engineering, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/ee. Snapshot: scraped in 2026.
+
+=== control and automation courses ===
+Source: https://www.iitk.ac.in/ee/control-and-automation-courses
+Under-Graduate Courses
+
+EE 250 CONTROL SYSTEM ANALYSIS
+Linear feedback control systems, frequency and time domain analysis, I/O relationships, transfer function, performance analysis, Routh-Hurwitz and Nyquist stability criteria, Bode diagrams, Nicholas chart, Root locus method, Feedback system design, Non-linear systems, phase-plane analysis, limit cycles, describing functions.
+
+EE 451 ADVANCED CONTROL SYSTEMS
+Modeling of physical systems, Concepts of state, state-space, Controllability and observability. Sensitivity and error analysis. Nonlinear systems, singular points, phase plane analysis, Lyapunov stability, describing functions, on-off and dual mode systems. Sampled Data Systems. Computer control system.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 455 TRANSDUCERS AND INSTRUMENTATION
+Measurement process; scales of measurement; configuration and functional description of measurement systems; performance characteristics; sensing elements and transducers for measurement of motion, force, pressure, flow, temperature, light, vacuum, etc.; transducer interfacing; signal conditioning, transmission and recording; microprocessor based instrumentation
+
+Post-Graduate Courses
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+. Advanced protective relaying, basic protection schemes, relay terminology, Vector spaces, Linear systems, similarity transformations, Canonical forms, Controllability, Observability, Realisability etc. Minimal realization, Digital systems, Nonlinear systems, Phase-plane analysis, Poincare theorems, Lyapunov theorem, Circle and Popov criterion; Robust control, Linear Quadratic Regulator (LQR), Linear Quadratic Gaussian (LQG) control, Loop Transfer Recovery (LTR), Hinfinity control.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 651 NONLINEAR SYSTEMS
+Describing function, phase-plane analysis. Poincare's Index, Bendixson's theorem. Linearization. Lyapunov stability, stability theorems, variable-gradient technique,and Krasovskii's method for generating Lyapunov functions, statement of Lure problem, circle criterion, Popov criterion, input-output stability.
+
+EE 652 LINEAR STOCHASTIC DYNAMICAL SYSTEMS
+Wiener processes; Markov chains & processes; Filtering, prediction & smoothing. Least squares, Minimum variance, ML and Minimax estimates, error bounds. Kalman and Wiener filters. Optimal control in presence of uncertainty, Synthesis of regulators and terminal controllers, Effect of noisy components on optimal control law. Partially characterised systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 653 DIGITAL CONTROL
+Discrete-time signals and systems, Z-transform, pulse transfer functions. Compensator design by root locus, error coefficients and frequency response. State-space models of discrete time systems, controllability, observability, stability, state estimation, Kalman filtering. Linear regulation. Parameter estimation.
+
+EE 654 ROBUST CONTROL SYSTEMS
+Linear Quadratic Regulators: return ratio & difference, sensitivity function. Kalman's optimality condition. Gain/phase margins, robustness to time delay and nonlinearity. Characterization of sensitivity. Kharitonov theorem robustness. Singular values - properties, application in stability, robustness and sensitivity. Robustness of discrete time LQR systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 655 OPTIMAL CONTROL
+Basic mathematical concepts. Conditions for optimality, variational calculus approach, Pontryagin's maximum principle and Hamilton Jacobi-Bellman theory. Structures and properties of optimal systems. Various types of constraints; singular solutions. Minimum time problems.
+
+EE 656 CONTROL SYSTEM DESIGN
+Linear multivariable control systems. Equivalence of internal and external stability of feedback control systems and the stabilization problem. Stable factorization approach for solving stabilization problem. Feedback system design. Solutions of H2 and Ha problems. Robust stabilization, graph topology and graph metric.
+
+EE 637 MATHEMATICAL METHODS IN CONTROL SYSTEMS
+Real and complex Euclidean spaces, Infinite dimensional inner product, complete spaces, Linear functionals and operators, Eigenvalues and eign vectors, complete, orthogonal representations, Errors solutions to systems of linear equations, Matrix inversion, pivoting eigenvalue and eigen vector calculations, SVD, Non linear equations, probability theory, concepts, random variables, distribution functions, moments and statistics of multiple variables, MS estimations, stochastic processes.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainty, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+Courses Offered to PG Students
+
+In 2012-2013 1st semester
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+Advanced protective relaying, basic protection schemes, relay terminology, Vector spaces, Linear systems, similarity transformations, Canonical forms, Controllability, Observability, Realisability etc. Minimal realization, Digital systems, Nonlinear systems, Phase-plane analysis, Poincare theorems, Lyapunov theorem, Circle and Popov criterion; Robust control, Linear Quadratic Regulator (LQR), Linear Quadratic Gaussian (LQG) control, Loop Transfer Recovery (LTR), Hinfinity control.
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainty, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+In 2012-2013 2nd semester
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainty, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 617 INDUSTRIAL AUTOMATION & CONTROL
+
+EE 671 NEURAL NETWORKS
+
+EE698Y INTELLIGENT INFORMATICS
+
+In 2013-2014 1st semester
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+Advanced protective relaying, basic protection schemes, relay terminology, Vector spaces, Linear systems, similarity transformations, Canonical forms, Controllability, Observability, Realisability etc. Minimal realization, Digital systems, Nonlinear systems, Phase-plane analysis, Poincare theorems, Lyapunov theorem, Circle and Popov criterion; Robust control, Linear Quadratic Regulator (LQR), Linear Quadratic Gaussian (LQG) control, Loop Transfer Recovery (LTR), Hinfinity control.
+
+EE 654 ROBUST CONTROL SYSTEMS
+Linear Quadratic Regulators: return ratio & difference, sensitivity function. Kalman's optimality condition. Gain/phase margins, robustness to time delay and nonlinearity. Characterization of sensitivity. Kharitonov theorem robustness. Singular values - properties, application in stability, robustness and sensitivity. Robustness of discrete time LQR systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainty, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 680 INTELLIGENT INSTRUMENTATION
+
+EE 698 CONTROL OF CHAOS
+
+In 2013-2014 2nd semester
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainty, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 617 INDUSTRIAL AUTOMATION & CONTROL
+
+EE 671 NEURAL NETWORKS
+
+EE698Y INDUSTRIAL INSTRUMENTATION FOR PROCESS CONTROL
+
+In 2014-2015 1st semester
+
+EE 654 ROBUST CONTROL SYSTEMS
+Linear Quadratic Regulators: return ratio & difference, sensitivity function. Kalman's optimality condition. Gain/phase margins, robustness to time delay and nonlinearity. Characterization of sensitivity. Kharitonov theorem robustness. Singular values - properties, application in stability, robustness and sensitivity. Robustness of discrete time LQR systems.
+
+EE 653 DIGITAL CONTROL
+Discrete-time signals and systems, Z-transform, pulse transfer functions. Compensator design by root locus, error coefficients and frequency response. State-space models of discrete time systems, controllability, observability, stability, state estimation, Kalman filtering. Linear regulation. Parameter estimation.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > control and automation courses]
+EE 705 INTELLIGENT SYSTEMS & CONTROL
+
+In 2014-2015 2nd semester
+
+EE 617 INDUSTRIAL AUTOMATION & CONTROL
+
+EE 671 NEURAL NETWORKS
+
+EE 698B CONTROL OF CYBER PHYSICAL SYSTEMS
+
+EE 698C CONSENSUS IN DISTRIBUTED MULTIAGENT SYSTEM
+
+Last Updated: Friday, 03 January 2025 13:04
+
+=== course calendar ===
+Source: https://www.iitk.ac.in/ee/course-calendar
+UG Compulsory Courses (D)
+
+S.
+No. | Course No. | L-T-P- A
+(Units) | Course Title | Instructor(s) | Slot & Room | Schedule |
+
+Lecture | Tutorial | Laboratory |
+
+1. |
+EE200* |
+3-1-0-0
+(11) |
+Signals, Systems, Networks |
+Naik, N Bhagat Nikunj |
+3-1 |
+MWF12:00 |
+Th12:00 |
+-- |
+
+2. |
+EE320* |
+3-1-0-0
+(11) |
+Principles of Communication |
+Gupta A K
+S Swamy |
+SLOT-1 |
+TWTh8:00 |
+F15:00 |
+-- |
+
+3. |
+EE330* |
+3-1-0-0
+(11) |
+Power Systems |
+SR Sahoo |
+SLOT-2 |
+MF8:00 T9:00 |
+Th11:00 |
+-- |
+
+4. |
+EE370* |
+3-1-0-0
+(11) |
+Digital Electronics and Microprocessor Technology |
+Chithra |
+ESO/SO-3 |
+MWF11:00 |
+T17:10 |
+-- |
+
+5. |
+EE380* |
+0-3-6-0
+(12) |
+Electrical Engineering Lab-I |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+S Sahay |
+SLOT-3 |
+-- |
+W09:00
+Th17:10
+F16:00 |
+MTWTh14:00 |
+
+6. |
+EE390* |
+0-0-0-2
+(02) |
+Electrical Engineering Communication Skills |
+AR Harish
+YN Singh |
+SLOT-7 |
+-- |
+-- |
+T10:00 |
+
+*These courses will be offered for B.Tech and BS Y22 Batch and onwards.
+
+UG Departmental Electives (DE)
+
+[List all Courses (including OE and PG courses) declared as Departmental Electives]
+
+S.
+No. | Course No. | L-T-P-A
+(Units) | Course Title | Instructor | Slot |
+
+All the courses listed as PG course are Department Electives (DE) |
+
+UG Open Electives (OE)
+
+[List All Courses (Including D, DE and PG Courses) Declared as Open Elective]
+
+S.
+No. | Course No. | L-T-P-A
+(Units) | Course Title | Instructor | Slot |
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+1. |
+EE605 |
+3-0-0-0 (9) |
+Introduction to Signal Analysis |
+Rajawat K |
+OE-3 |
+
+2. |
+EE614 |
+3-0-0-0 (9) |
+Solid State Devices 1 |
+Bose Arnab |
+OE_8 |
+
+3 |
+EE621 |
+3-0-0-0 (9) |
+Representations & Analysis of Random Signals |
+WS Mondal |
+OE-2 |
+
+4 |
+EE641 |
+3-0-0-0 (9) |
+Advanced Engineering Electromagnetics |
+RK Chaudhary |
+OE-4 |
+
+5 |
+EE653 |
+3-0-0-0 (9) |
+Digital Control |
+R Potluri |
+OE-2 |
+
+6 |
+EE661 |
+3-0-0-0 (9) |
+Power Electronics Applications in Power Systems |
+EC Mathew |
+OE-3 |
+
+7 |
+EE698D |
+3-0-0-0 (9) |
+Architecture and Hardware for Quantum Computing |
+Rik Dey |
+OE-1 |
+
+8 |
+EE798H |
+3-0-0-0 (9) |
+Nanophotonics |
+Rituraj |
+OE-3 |
+
+9 |
+EE604 |
+3-0-0-0 (9) |
+Image Processing |
+Jerripothula K R |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+OE-5 |
+
+10 |
+EE618 |
+3-0-0-0 (9) |
+IC Fabrication Technology |
+SSK Iyer |
+OE-4 |
+
+11 |
+EE634 |
+3-0-0-0 (9) |
+Electrical Insulation in Power Apparatus and Systems |
+Nandini
+Gupta |
+OE_1 |
+
+UG Minors
+
+[List All Courses (including D, DE, OE and PG courses) Declared as Minor]
+
+S.
+No. | Course No. | L-T-P-A
+(Units) | Course Title | Instructor | Slot |
+
+1. |
+EE200 |
+3-1-0-0 (11) |
+Signals, Systems, Networks |
+Naik, N Bhagat Nikunj |
+MWF12:00 |
+
+2. |
+EE320 |
+3-1-0-0 (11) |
+Principles of Communication |
+Gupta A K S Swamy |
+TWTh-8:00
+SLOT-1 |
+
+3. |
+EE330 |
+3-1-0-0 (11) |
+Power Systems |
+SR Sahoo |
+MF8:00 T9:00
+SLOT-2 |
+
+4. |
+EE370 |
+3-1-0-0 (11) |
+Digital Electronics and Microprocessor Technology |
+Chithra |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+MWF11:00
+ESO/SO-3 |
+
+5. |
+EE642 |
+3-0-0-0 (9) |
+Antenna Analysis and Synthesis |
+A. R. Harish |
+PG-5 |
+
+6. |
+EE650 |
+3-0-0-0 (9) |
+Basics of Modern Control Systems |
+Abhilash Patel |
+PG-9 |
+
+7 |
+EE798H |
+3-0-0-0 (9) |
+Nanophotonics |
+Rituraj |
+OE-3 |
+
+PG Courses
+
+[List all PG courses, including those declared DE, OE or part of minor]
+
+S.
+No. | Course No. | L-T-P-A
+(Units) | Course Title | Instructor | Slot |
+
+1 |
+EE602 |
+3-0-0-0 (9) |
+Statistical Signal Processing -I |
+A. Jagannatham |
+DE-3 |
+
+2 |
+EE603 |
+3-0-0-0 (9) |
+Machine learning for Signal Processing and Communications |
+Rohit Budhiraja |
+DE-7 |
+
+3 |
+EE604 |
+3-0-0-0 (9) |
+Image Processing |
+Jerripothula K R |
+OE-5 |
+
+4 |
+EE605 |
+3-0-0-0 (9) |
+Introduction to Signal Analysis |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+Rajawat K |
+OE-3 |
+
+5 |
+EE610 |
+3-0-0-0 (9) |
+Analog/Digital VLSI Circuits |
+Nallam N |
+DE_3 |
+
+6 |
+EE614 |
+3-0-0-0 (9) |
+Solid State Devices 1 |
+Bose Arnab |
+OE_8 |
+
+7 |
+EE616 |
+3-0-0-0 (9) |
+Semiconductor Device Modeling |
+Dutta Aloke |
+PG-3 |
+
+8 |
+EE617 |
+3-0-0-0 (9) |
+Industrial Automation and Control |
+NK. Verma |
+PG-6 |
+
+9 |
+EE618 |
+3-0-0-0 (9) |
+IC Fabrication Technology |
+SSK Iyer |
+OE-4 |
+
+10 |
+EE621 |
+3-0-0-0 (9) |
+Representations & Analysis of Random Signals |
+WS Mondal |
+OE-2 |
+
+11 |
+EE622 |
+3-0-0-0 (9) |
+Communication Theory |
+K. Vasudevan |
+PG-15 |
+
+12 |
+EE627 |
+3-0-0-0 (9) |
+Speech Signal Processing |
+R. M. Hegde |
+DE-3 |
+
+13 |
+EE630 |
+3-0-3-0 (12) |
+Simulation of Modern Power Systems |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+S Battula |
+DE-2 |
+
+14 |
+EE631 |
+3-0-0-0 (9) |
+Advanced Power System Stability |
+S Chakrabarti |
+PG-15 |
+
+15 |
+EE632 |
+3-0-0-0 (9) |
+Economic Operation & Control Power Systems |
+A Mohapatra |
+PG-4 |
+
+16 |
+EE634 |
+3-0-0-0 (9) |
+Electrical Insulation in Power Apparatus and Systems |
+Nandini Gupta |
+OE_1 |
+
+17 |
+EE641 |
+3-0-0-0 (9) |
+Advanced Engineering Electromagnetics |
+RK Chaudhary |
+OE-4 |
+
+18 |
+EE642 |
+3-0-0-0 (9) |
+Antenna Analysis and Synthesis |
+A R Harish |
+PG-5 |
+
+19 |
+EE645 |
+3-0-0-0 (9) |
+Monolithic Microwaves ICs |
+J Akhtar |
+OE-3 |
+
+20 |
+EE647 |
+2-0-3-0(9) |
+Microwave Measurements & Design |
+N Poluri |
+PG-2 |
+
+21 |
+EE650 |
+3-0-0-0 (9) |
+Basics of Modern Control Systems |
+Abhilash Patel |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+PG-9 |
+
+22 |
+EE653 |
+3-0-0-0 (9) |
+Digital Control |
+R Potluri |
+OE-2 |
+
+23 |
+EE657 |
+3-0-0-0 (9) |
+Kalman filtering and its applications |
+Naren Naik |
+DE-6 |
+
+24 |
+EE660 |
+3-0-3-0 (12) |
+Basics of Power Electronics Converters |
+Sensarma P |
+PG-5 |
+
+25 |
+EE661 |
+3-0-0-0 (9) |
+Power Electronics Applications in Power Systems |
+EC Mathew |
+OE-3 |
+
+26 |
+EE664 |
+3-0-0-0 (9) |
+Fundamentals of Electric Drives |
+P Kant |
+DE-8 |
+
+27 |
+EE670 |
+3-0-0-0 (9) |
+Wireless Communication |
+A. Banerjee |
+DE-2 |
+
+28 |
+EE674 |
+3-0-0-0 (9) |
+Architectures of Advanced Microprocessors and Microcomputers |
+SP Das |
+PG-13 |
+
+29 |
+EE679 |
+3-0-0-0 (9) |
+Smart Grid Technologies |
+A Sharma |
+DE-1 |
+
+30 |
+EE683 |
+3-0-0-0 (9) |
+Quantum and Wave Phenomena |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+Shilpi Gupta |
+PG-9 |
+
+31 |
+EE684 |
+3-0-0-0 (9) |
+Fiber Optic Communication |
+Pradeep K K. |
+DE-2 |
+
+32 |
+EE698A |
+3-0-0-0 (9) |
+Pattern Recognition |
+Tushar Sandhan |
+DE-5 |
+
+33 |
+EE698B |
+3-0-0-0 (9) |
+EMI/EMC in Power Electronics |
+Utsab Kundu |
+DE-1 |
+
+34 |
+EE698C |
+3-0-0-0 (9) |
+Wide-Bandgap Semiconductors: Physics, Technology and Applications |
+Amit Verma |
+DE-6 |
+
+35 |
+EE698D |
+3-0-0-0 (9) |
+Architecture and Hardware for Quantum Computing |
+Rik Dey |
+OE-1 |
+
+36 |
+EE698E |
+3-0-0-0 (9) |
+Peer to Peer (P2P) Networks |
+Y. N. Singh |
+DE-4 |
+
+37 |
+EE698F |
+3-0-0-0 (9) |
+Power Converter for EV Charging |
+S Samanta |
+PG-4 |
+
+38 |
+EE612 |
+3-0-0-0 (9) |
+Analog circuits for signal processing |
+I Mondal |
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+PG-6 |
+
+39 |
+EE698AC |
+2-0-3-0 [9] |
+Numerical Modeling and SPICE Simulation of Semiconductor Devices |
+Avinash Lahgere |
+PG7 |
+
+40 |
+EE798H |
+3-0-0-0 (9) |
+Nanophotonics |
+Rituraj |
+OE-3 |
+
+41 |
+EE801 |
+3-0-0-0 (9) |
+Electrical Engineering PG Seminar Course |
+Sahay S |
+PG-6 |
+
+42 |
+EE888 |
+3-0-0-0 (9) |
+Introduction to Profession and Communication Skills for Electrical Engineers |
+Mohit Ganeriwala |
+PG-9 |
+
+43 |
+EE698Z |
+3-0-0-0(9) |
+Simulation study of Power system with Microgrid |
+Gururaj |
+DE-5 |
+
+PG Laboratory
+
+S. No. | Course No. | L-T-P-A (Units) | Course Title | Instructor | Laboratory Schedule |
+
+1 |
+EE630 |
+3-0-3-0
+(12) |
+Simulation of Modern Power Systems |
+S. Battula |
+T 09:30 to 01:00
+ACES 313 |
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+2 |
+EE647 |
+2-0-3-0
+(9) |
+Microwave Measurements & Design |
+N Poluri |
+T 14:00 – 16:50
+DA 225 |
+
+3 |
+EE660 |
+3-0-3-0
+(12) |
+Basics of Power Electronics Converters |
+Sensarma, P |
+F 14:00 – 16:50
+WL 217 |
+
+4 |
+EE698AC |
+2-0-3-0
+[9] |
+Numerical Modeling and SPICE Simulation of
+Semiconductor Devices |
+Avinash Lahgere |
+T 9:00 to 12:00
+New Core Lab |
+
+General Instructions:
+
+The timings of UG compulsory, some UG elective (DE/OE/Minor courses) and some PG (including M.Sc/MS) courses are fixed and cannot be changed by the department
+
+Other courses being offered by the department may be scheduled only in the slots provided for this purpose, after due consideration to the schedules of the fixed courses.
+
+The forms above should be filled before pre-registration for a semester and submitted to the OARS office. The information provided will be transferred to OARS before the pre-registration date.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+No course shall be scheduled except in the slots provided. A course for which no slot is specified or a course which is not scheduled appropriately in a slot will not be listed in OARS. This is absolutely essential to ensure that mid semester and end semester examination time tables can be generated based on the time table.
+
+Instructions for Scheduling DE Courses
+
+All declared DE (departmental elective) courses (including PG courses declared as DE) must be scheduled preferably in DE-1, DE-2 and DE-3 slots.
+
+If indicated in the departmental time table, slots DE-4 to DE-11 may also be used for scheduling DE courses.
+
+DE courses may also be scheduled in OE-2 and OE-3 slots. However, this must be avoided as far as possible.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+If required, a department may schedule more than one DE course in each of the assigned DE slots.
+
+All declared DE courses must be scheduled as above, unless it has also been declared an OE* or part of a minor.
+
+If allowed by the department, students may also take departmental courses not declared
+as DE to fulfill the departmental elective requirements. Such courses need not necessarily be scheduled in the DE slots.
+
+Instructions for Scheduling OE or Minor Courses
+
+All UG or PG courses (other than UG core and ESO/SO courses) which have been declared an OE or part of a minor, by the department must be scheduled preferably in the OE-1 – OE-3 slots of the time table. OE-4 to OE-11 may be used as a second preference if so indicated in the time table. OE/Minor courses include the following type of courses,
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+Departmental UG Compulsory Course (D) which has also been declared an OE or part of a minor.
+
+Departmental PG Course (PG) which has also been declared an OE or part of a minor.
+
+Departmental UG Elective course (DE) which has also been declared an OE or part of a minor.
+
+Departmental UG Course which is not a D or DE but which has been declared an OE or part of a minor.
+
+*OE or Minor: These are courses for which it has been declared that students from other departments can register.
+(Students from other departments can also register in courses which have not been declared as OE with the consent of the instructor. Such courses (which have not been declared as OE) need not be scheduled in the OE slot).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course calendar]
+Instructions for Scheduling PG Courses
+
+PG courses declared as OE or part of a minor to be scheduled in OE slot.
+
+PG courses declared as DE must be scheduled in DE slot unless also declared OE or part of a minor.
+
+Other PG courses must be scheduled as follows,
+
+For the benefit of dual degree students, 1st year M. Tech./M.Sc/MS courses must be scheduled only in the specific PG slots indicated for this purpose in the time table.
+
+Other PG courses can be scheduled in all indicated PG slots in the time table.
+
+PG laboratories must be scheduled only in the slots indicated in the time table.
+
+If required, more than 1 PG course/lab may be scheduled in each PG slot.
+
+Last Updated: Saturday, 08 August 2026 17:02
+
+=== microelectronics and vlsi courses ===
+Source: https://www.iitk.ac.in/ee/microelectronics-and-vlsi-courses
+Under-Graduate Courses
+
+EE 210 MICROELECTRONICS - I
+I-V characteristics of BJTs and MOSFETs, Basic amplifier configurations, Current sources and active loads, output stages, Op-amps, Feedback amplifiers, Stability and compensation, Noise in Electronic circuits, Signal processing: D/A and A/ D converters, Non-linear electronic circuits.
+
+EE 311 MICROELECTRONICS - II
+Basics of semiconductor physics, p-n junction diodes, Metal-semiconductor contacts, BJTs, MOS capacitors, MOSFETs, optoelectronic devices, Advanced semiconductor devices: MESFETs, HBTs, HEMTs, MODFETs.
+
+EE370 DIGITAL ELECTRONICS
+
+EE 413 SEMICONDUCTOR DEVICES TECHNOLOGY
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > microelectronics and vlsi courses]
+Semiconductor materials, Ultraclean technology, Single crystal growth, Thermal oxidation of silicon, Solid state diffusion, Ion implantation, Vacuum technology, Physical and chemical vapor deposition techniques, Wet and dry etching, Lithography techniques, VLSI/ULSI process integration, Fault diagnosis and characterization techniques.
+
+EE 414 LOW NOISE AMPLIFIERS
+Noise and its characterization, Noise figure calculations, Noise in semiconductors, P-N junction, Metal semiconductor junctions, Tunnelling: Varactors and their application as parametric amplifiers and multipliers. Tunnel diode amplifiers, Schottky diode Mixers, Masers, Design aspects of low noise amplifiers and mixers.
+
+EE 415 LINEAR INTEGRATED CIRCUIT DESIGN
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > microelectronics and vlsi courses]
+Bipolar and MOS technology. Voltage regulators. Analog delay lines. IC transducers. Analog switches, S/H circuits. Noise in ICs, Special function ICs. Switched capacitor circuits. Opto-electronic ICs and systems. MOS analog circuits-building blocks, subcircuits, opamps. BiCMOS circuit design. Low power/voltage circuit design. Mixed signal design issues.
+
+EE 416 OPTO-ELECTRONICS
+Photodetectors and their characteristics. Solar cells. Optical fibers and their characteristics. Integrated optics. Fiber optic communication systems, system design consideration.
+
+EE 417 INTRODUCTION TO VLSI DESIGN
+Sequential logic design; verification and testing; arithmetic blocks, memory; architecture design; floor planning; design methodologies; example of a chip design; analysis and synthesis algorithms including circuit, switch and logic simulation, logic synthesis, layout synthesis and test generation; packaging.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > microelectronics and vlsi courses]
+Post-graduate courses & electives for UGs
+
+EE610A Analog/Digital VLSI Circuits
+
+EE619A VLSI System Design
+
+EE614A Solid State Devices I
+
+EE618A Integrated Circuit Fabrication Technology
+
+EE698A High Frequency Analog Circuit Design
+
+EE698I Mixed-signal integrated circuit design
+
+EE698P Memory Technology and Neuromorphic Computing
+
+EE698W Analog Circuits for Signal Processing
+
+EE698G Circuits for phase and frequency synthesis
+
+EE611A Organic Electronics
+
+EE615A Solar Photovoltaic technologies
+
+E616A Semiconductor Device Modeling
+
+EE698F RF Microelectronics
+
+EE681A Compact Modelling
+
+EE698N Introduction to Flexible Electronics
+
+EE698M Physics of Semiconductors and Nanostructures
+
+EE698T Charge and Heat Transport in Semiconductors
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > microelectronics and vlsi courses]
+EE683 Quantum and Wave Phenomena
+
+EE685 Semiconductor Optical Communication Devices
+
+EE645 Monolithic Microwave ICs
+
+EE647 Microwave Measurements & Design
+
+EE698D Special topics in Microelectronics
+
+EE706A Quantum Physics of Semiconductors
+
+EE798I Nanophotonics
+
+EE798K Integrated Quantum, Statistical, and Information Mechanics
+
+Last Updated: Tuesday, 28 November 2023 11:07
+
+=== mimt lab shortcourses ===
+Source: https://www.iitk.ac.in/ee/mimt_lab/shortcourses.php
+MIMT Lab
+
+About
+
+Projects
+
+Invited Lectures
+
+Short Courses
+
+Ph.D.
+
+M.Tech/MSR
+
+Project Staff
+
+Contact
+
+Workshop/ Short Courses
+
+Workshop/ Short Courses Organized
+
+Short Term QIP Sponsored Course on Electromagnetic Interference and Compatibility (EMI/EMC) Techniques
+
+Duration: Oct. 09-Oct. 13, 2019
+
+Place: Indian Institute of Technology, Kanpur, India
+
+TEQIP Faculty Development Program/Workshop on “RF, Microwaves and Antennas: Theory and Applications” for Faculty members and students of Government Women Engineering College, Ajmer
+
+Duration:Sept. 16- Sept. 20, 2019
+
+Place: Indian Institute of Tecnology, Kanpur
+
+GIAN Course on Microwave and THz Imaging of  Stratified Media for Industrial and Biomedical Applications
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+Duration:  Dec. 05 - Dec. 09, 2017
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Foreign Speaker: Prof. Dr. A. S. Omar, FIEEE, University of  Magdeburg, Germany
+
+Short Term QIP Sponsored Course on RF, Microwave and Terahertz Imaging Techniques
+
+Duration:  Nov. 05 - Nov. 09, 2016
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+One Day IEEE MTT-S Workshop on THz Imaging, Systems and Technology
+
+Duration:  Feb. 18, 2016
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Half Day IEEE MTT-S Workshop on RF Testing Techniques for Active Devices and Sensors
+
+Duration:  Dec. 10, 2015
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+Place: Hyderabad, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Short Term QIP Sponsored Course on on RF Circuits and Systems for Industrial Applications
+
+Duration:  Sep. 08 - Sep. 12, 2014
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+One Day IEEE MTT-S Workshop on RF and Microwaves for the Cellular and Industrial Applications
+
+Duration:  Dec. 13, 2014
+
+Place: Ambedkar Institute of Advanced Communication Technologies & Research, Delhi
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Short Course on Microwave Material Processing, Modeling and Nondestructive Testing
+
+Duration:  Sep. 16 - Sep. 20, 2013
+
+Place: Indian Institute of Technology Kanpur, India
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+National Workshop on Recent Trends in RF and Microwave Techniques and Measurements
+
+Duration:  Jul. 18 – Jul. 20, 2012
+
+Place: Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Recent Trends in the Design and Measurement of RF and Microwave Circuits (DMRMC)
+
+Duration:  Jul. 12 - Jul. 16, 2010
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Description: This one week course was organized for RF and microwave engineers, and people for research and academia working in the field of RF and Microwaves. The course was primarily aimed at providing an insight into different aspects of the state of the art RF and microwave technology and innovative procedure measurements to participants.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+RF and Microwave Short Course for Doordarshan Engineers
+
+Duration:  Nov. 30 - Dec. 4, 2009
+
+Place: Indian Institute of Technology Kanpur, India
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Description: This one week course was organized for Doordarshan engineers where the basic idea was to provide the state of art knowledge to working engineers in some specialized of RF and Microwave Engineering relevant to their field of work. The participants were also given a demonstration on some practical aspects of microwave technology, and they were allowed to perform various experiments in the lab.
+
+Mini Course on Microwave Material Processing Applications
+
+Duration:  Jun. 19 - Jun. 20, 2008
+
+Place: Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+Instructor: Dr. M. J. Akhtar
+
+Description: This course was organized as a part of the 35th IEEE International Conference on Plasma Science (http://www.icops2008.org) in Karlsruhe, Germany. Dr. M. J . Akhtar was invited to lecture at the Mini course forum where ten chosen experts from all around the world working on various aspects of the microwave material processing served as instructors. He enlightened the attendees with various dielectric measurement techniques relevant for the microwave material processing applications. His part of lecture also dealt with some advanced methods especially developed for characterizing highly conducting composites and various kinds of resins.
+
+Short Course on Dielectric Measurements
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mimt lab shortcourses]
+Duration:  Aug. 1- Aug. 3, 2007
+
+Place:Vancouver, Canada
+
+Coordinator & Instructor: Dr. M. J. Akhtar
+
+Description: Dr. M. J. Akhtar organized this short course on dielectric measurements along with Prof. Tran and Dr. Nelson at the International Microwave Power Institute’s (http://www.impi.org) 41st Annual International Microwave Symposium held in Vancouver, Canada. The course was well attended and widely appreciated.
+
+© Copyright IIT Kanpur. All Rights Reserved
+
+Developed & Maintained by Institute Web Team
+
+=== optec courses ===
+Source: https://www.iitk.ac.in/ee/optec-courses
+Courses Offered to PG Students
+
+In 2015-2016 1st semester
+
+EE 612 FIBER OPTIC SYSTEMS I
+Review of semiconductor physics - radiative recombination. LEDs, optical cavity, DH and other lasers. P-I-N and APD detectors, detector noise. Optical fibers - ray and mode theories, multimode and single-mode fibers, attenuation, dispersion. Gaussian beams. Power coupling, splices and connectors.
+
+EE 629 DIGITAL SWITCHING
+Network Architecture; time division multiplexing; digital switching; space & time division switching, cross point and memory requirements; blocking probabilities. traffic Analysis, models for circuit and packet switched systems, performance comparison; ISDN.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > optec courses]
+EE644A OPTICAL COMMUNICATION
+
+EE698E QUANTUM AND WAVE PHENOMENA WITH ELECTRICAL APPLICATION
+
+Last Updated: Monday, 03 March 2025 15:06
+
+=== power engineering courses ===
+Source: https://www.iitk.ac.in/ee/power-engineering-courses
+Under-Graduate Courses
+
+EE 200 CONTROL SYSTEM ANALYSIS
+Continuous and discrete time signals, Fourier series, Fourier, Laplace and Z transform techniques; DFT. Sampling Theorem. LTI systems: I/O description, impulse response and system functions, pole/ zero plots, FIR and IIR systems. Analog and digital filters. Networks: topological description, network theorems, Two port analysis.
+
+EE330 POWER SYSTEMS
+
+EE 360 POWER ELECTRONICS
+Power semiconductor devices: structure and characteristics; snubber circuits, switching loss. Controlled rectifiers: full/half controlled converters, dual converters, sequence control. AC regulator circuits, reactive power compensators. dc-dc converters, switching dc power supplies. Inverters: square wave and pwm types, filters, inverters for induction heating and UPS.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 431 ELECTRICAL MACHINES
+Active devices: LHTs, klystrons, magnetrons, TWTs, BWOs, microwave transistors; point contact, tunnel, PIN, and GUNN diodes; Parametric amplifier masers. Microwave circuits-theory of guiding systems, scattering matrix impedance transformation and matching. Passive devices: ferrites & ferrite devices, microwave cavity.
+
+EE 432 POWER GENERATION.
+Power generation from conventional sources; thermal, hydro, nuclear and gas power plants - their functions and control; types of prime movers, generators and excitation systems; Economic considerations in power systems. Alternate sources of power generation - solar, wind, geo-thermal, ocean-thermal, tidal, wave and MHD.
+
+EE 437 FUNDAMENTALS OF HV ENGG & LABORATORY TECHNIQUES
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Electromagnetic fields, field control, Dielectrics used in HV and their properties, Standard voltage wave-forms, Generation and measurement of HV ac, dc and impulse voltages, Non-destructive testing, HV bushings & insulators, Overvoltage phenomena & insulation coordination
+
+EE 451 ADVANCED CONTROL SYSTEMS
+
+EE 455 TRANSDUCERS AND INSTRUMENTATION
+
+Post-Graduate Courses
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 631 ADVANCED POWER SYSTEM STABILITY.
+Detailed machine modeling, Modeling of turbine-generator and associated systems, excitation systems and PSS, Transient stability and small signal stability for large systems, SSR and system modeling for SSR studies, Voltage stability: P-V and Q-V curves, static analysis, sensitivity and continuation method; Dynamic analysis, local and global bifurcations, Control area, Margin prediction, Stability of AC-DC systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 632 ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS.
+Economic load dispatch, loss formula, introduction to mathematical programming, hydrothermal scheduling systems, power system security, optimal real and reactive power dispatch, state estimation, load frequency control, energy control center.
+
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS.
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+EE 635 HVDC TRANSMISSION AND FLEXIBLE AC TRANSMISSION SYSTEMS.
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+General aspects of DC transmission, converter circuits and their analysis, DC link controls, faults and abnormal operation and protection; Mechanism of active and reactive power flow contro; Basic FACTS controllers: SVC, STATCOM, TCSC, TCPAR, UPFC; Modeling of FACTS Controllers; System static performance improvement with FACTS controllers; System dynamic performance improvement with FACTS controllers.
+
+EE 636 ADVANCED PROTECTIVE RELAYING.
+Advanced protective relaying, basic protection schemes, relay terminology, relays as comparators, static relays, application of solid state devices, differential relaying systems, distance relaying schemes, protection of multiterminal lines, new types of relaying criteria, special problems, digital protection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 638 HIGH VOLTAGE ENGINEERING BEHAVIOUR OF DIELECTRICS.
+Electric fields and their numerical estimation; avalanche, streamer and leader processes; breakdown mechanisms, arcs, breakdown characteristics of gases, liquids and solids; intrinsic and practical strengths of dielectrics; ageing of solids, liquids and gases; gas insulated systems; effects of corona.
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+EE 651 NONLINEAR SYSTEMS.
+Describing function, phase-plane analysis. Poincare's Index, Bendixson's theorem. Linearization. Lyapunov stability, stability theorems, variable-gradient technique, and Krasovskii's method for generating Lyapunov functions, statement of Lure problem, circle criterion, Popov criterion, input-output stability.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 652 LINEAR STOCHASTIC DYNAMI-CAL SYSTEMS.
+
+EE 653 DIGITAL CONTROL.
+
+EE 654 ROBUST CONTROL SYSTEMS.
+
+EE 655 OPTIMAL CONTROL.
+
+EE 656 CONTROL SYSTEM DESIGN.
+
+EE 657 MATHEMATICAL METHODS IN CONTROL SYSTEMS.
+Real and complex Euclidean spaces, Infinite dimensional inner product, complete spaces, Linear functionals and operators, Eigenvalues and eigen vectors, complete, orthogonal representations, Errors solutions to systems of linear equations, Matrix inversion, pivoting eigenvalue and eigen vector calculations, SVD, Non linear equations, probability theory, concepts, random variables, distribution functions, moments and statistics of multiple variables, MS estimations, stochastic processes.
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS.
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 661 POWER ELECTRONICS APPLICATIONS IN POWER SYSTEMS.
+Basics of flexible AC transmission systems, Controlled rectifier and energy storage plants, Tap changers and phase shifters, Thyristor controlled VAR compensation and series compensation, Modern (synchronous link converter) VAR compensators, Unified power flow controller (UPFC) and Interline power flow controller, Power quality conditioners, Power electronics in power generation.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 663 MODELING AND SIMULATION OF POWER ELECTRONIC SYSTEMS.
+Machine modeling, DC, induction motor and synchronous machines; simulation of transients; simulation tools: SABER, PSPICE, and MATLAB-SIMULINK; Simulations of converters, inverters and cyclo-converters etc.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES.
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+EE 666 SPECIAL TOPICS IN POWER ELECTRONICS.
+PWM inverters, Multilevel inverters, Neutral point controlled inverters, Soft switching converters: DC-DC resonant link inverters, Hybrid resonant link inverters, Quasi resonant link converters, Switched mode rectifiers, Synchronous link converters.
+
+EE 678 NEURAL SYSTEMS AND NETWORKS.
+Theory of representation; Two computational paradigms; Multi-layer networks; Auto-associative and hetero-associative nets; Learning in neural nets: Supervised and unsupervised learning; Application of neural nets; Neural network simulators.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Courses Offered to PG Students
+
+In 2009-2010 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS.
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS.
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES.
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+EE698 SPECIAL TOPICS IN POWER ELECTRONICS
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+In 2009-2010 2nd semester
+
+EE 632 ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS.
+Economic load dispatch, loss formula, introduction to mathematical programming, hydrothermal scheduling systems, power system security, optimal real and reactive power dispatch, state estimation, load frequency control, energy control center.
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS.
+
+EE 661 POWER ELECTRONICS APPLICATIONS IN POWER SYSTEMS.
+Basics of flexible AC transmission systems, Controlled rectifier and energy storage plants, Tap changers and phase shifters, Thyristor controlled VAR compensation and series compensation, Modern (synchronous link converter) VAR compensators, Unified power flow controller (UPFC) and Interline power flow controller, Power quality conditioners, Power electronics in power generation.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+In 2010-2011 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 632 ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS.
+Economic load dispatch, loss formula, introduction to mathematical programming, hydrothermal scheduling systems, power system security, optimal real and reactive power dispatch, state estimation, load frequency control, energy control center.
+
+EE 635 HVDC TRANSMISSION AND FLEXIBLE AC TRANSMISSION SYSTEMS.
+General aspects of DC transmission, converter circuits and their analysis, DC link controls, faults and abnormal operation and protection; Mechanism of active and reactive power flow contro; Basic FACTS controllers: SVC, STATCOM, TCSC, TCPAR, UPFC; Modeling of FACTS Controllers; System static performance improvement with FACTS controllers; System dynamic performance improvement with FACTS controller
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS.
+
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS.
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES.
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE698D INTELLIGENT SYSTEMS AND CONTROL
+
+In 2010-2011 2nd semester
+
+EE 631 ADVANCED POWER SYSTEM STABILITY.
+Detailed machine modeling, Modeling of turbine-generator and associated systems, excitation systems and PSS, Transient stability and small signal stability for large systems, SSR and system modeling for SSR studies, Voltage stability: P-V and Q-V curves, static analysis, sensitivity and continuation method; Dynamic analysis, local and global bifurcations, Control area, Margin prediction, Stability of AC-DC systems.
+
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable,structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+In 2011-2012 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 632 ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS.
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS.
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+EE 658 FUZZY SET, LOGIC & SYSTEMS AND APPLICATIONS.
+
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS.
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES.
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE671 NEURAL NETWORKS
+
+EE698G SYNCHROPHASOR TECHNOLOGY & ITS APPLICATIONS
+
+In 2011-2012 2nd semester
+
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 635 HVDC TRANSMISSION AND FLEXIBLE AC TRANSMISSION SYSTEMS.
+General aspects of DC transmission, converter circuits and their analysis, DC link controls, faults and abnormal operation and protection; Mechanism of active and reactive power flow contro; Basic FACTS controllers: SVC, STATCOM, TCSC, TCPAR, UPFC; Modeling of FACTS Controllers; System static performance improvement with FACTS controllers; System dynamic performance improvement with FACTS controllers.
+
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+EE698Z SYNCHROPHASOR TECHNOLOGY & ITS APPLICATIONS
+
+In 2012-2013 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+EE 698 SPECIAL TOPICS IN POWER MANAGEMENT CIRCUITS
+
+EE 698B INTELLIGENT SYSTEMS AND CONTROL
+
+In 2012-2013 2nd semester
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 666 SPECIAL TOPICS IN POWER ELECTRONICS
+PWM inverters, Multilevel inverters, Neutral point controlled inverters, Soft switching converters: DC-DC resonant link inverters, Hybrid resonant link inverters, Quasi resonant link converters, Switched mode rectifiers, Synchronous link converters.
+
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 661 POWER ELECTRONICS APPLICATIONS IN POWER SYSTEMS
+Basics of flexible AC transmission systems, Controlled rectifier and energy storage plants, Tap changers and phase shifters, Thyristor controlled VAR compensation and series compensation, Modern (synchronous link converter) VAR compensators, Unified power flow controller (UPFC) and Interline power flow controller, Power quality conditioners, Power electronics in power generation.
+
+EE632 ECONOMIC OPERATION AND CONTROL OF POWER SYSTEMS
+
+EE698Z SYNCHROPHASOR TECHNOLOGY & ITS APPLICATIONS
+
+In 2013-2014 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+EE 698B SOLAR PHOTOVOLTAIC CELLS
+
+EE698D POWER ELECTRONICS IN SOLAR PHOTOVOLTAIC SYSTEMS
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+In 2013-2014 2nd semester
+
+EE631 ADVANCE POWER SYSTEM STABILITY
+
+EE635 HV DC & FACT
+
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 666 SPECIAL TOPICS IN POWER ELECTRONICS
+PWM inverters, Multilevel inverters, Neutral point controlled inverters, Soft switching converters: DC-DC resonant link inverters, Hybrid resonant link inverters, Quasi resonant link converters, Switched mode rectifiers, Synchronous link converters.
+
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 661 POWER ELECTRONICS APPLICATIONS IN POWER SYSTEMS
+Basics of flexible AC transmission systems, Controlled rectifier and energy storage plants, Tap changers and phase shifters, Thyristor controlled VAR compensation and series compensation, Modern (synchronous link converter) VAR compensators, Unified power flow controller (UPFC) and Interline power flow controller, Power quality conditioners, Power electronics in power generation.
+
+EE698I PHOTOVOLTAIC TECHNOLOGY
+
+In 2014-2015 1st semester
+
+EE 630 SIMULATION OF MODERN POWER SYSTEMS
+Modern power systems operation and control, Power system deregulation; static and dynamic modeling; Load flow and stability studies; Electromagnetic phenomenon; Insulation and partial discharge.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 634 ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS
+Properties of dielectrics and breakdown mechanisms; composites and novel materials; insulators for outdoor applications; Issues in design of insulators and insulator systems; Overvoltages and insulation coordination in transmission networks; Generation and measurement of testing Voltages DC, AC, impulse and pulsed; Testing and Evaluation: Procedures and standards, ageing studies; On- line and off- line condition monitoring of sub-station equipment; Advances in measurement and diagnostic technologies: partial discharge monitoring, space charge charge measurements, dielectric spectroscopy, etc; Lab demonstrations.
+
+EE 650 BASICS OF MODERN CONTROL SYSTEMS
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 660 BASICS OF POWER ELECTRONICS CONVERTERS
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and MCT: AC-DC Converters; Forced communication; synchronous link converters, DC-AC converters, buck, boost, buck-boost, cuk, flyback configuration, resonant converters, PWM inverters; active filters.
+
+EE 664 FUNDAMENTALS OF ELECTRIC DRIVES
+Motor load dynamics, starting, braking & speed control of dc and ac motors. DC drives: converter and chopper control. AC Drives: Operation of induction and synchronous motors from voltage and current inverters, slip power recovery, pump drives using ac line controller and self-controlled synchronous motor drives.
+
+EE 698B SOLAR PHOTOVOLTAIC CELLS
+
+In 2014-2015 2nd semester
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 633 ELECTRIC POWER SYSTEM OPERATION AND MANAGEMENT.
+Fundamentals of deregulation: Privatization and deregulation, Motivations for Restructuring the Power industry; Restructuring models and Trading Arrangements: Components of restructured systems, Independent System Operator (ISO): Functions and responsibilities, Trading arrangements (Pool, bilateral & multilateral), Open Access Transmission Systems; Different models of deregulation: U K Model, California model, Australian and New Zealand models, Deregulation in Asia including India, Bidding strategies, Forward and Future market; Operation and control: Old vs New, Available Transfer Capability, Congestion management, Ancillary services; Wheeling charges and pricing: Wheeling methodologies, pricing strategies.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 666 SPECIAL TOPICS IN POWER ELECTRONICS
+PWM inverters, Multilevel inverters, Neutral point controlled inverters, Soft switching converters: DC-DC resonant link inverters, Hybrid resonant link inverters, Quasi resonant link converters, Switched mode rectifiers, Synchronous link converters.
+
+EE 662 CONTROL TECHNIQUES IN POWER ELECTRONICS.
+State space modeling and simulation of linear systems, Discrete time models, conventional controllers using small signal models, Fuzzy control, Variable, structure control, Hysteresis controllers, Output and state feedback switching controllers.
+
+EE 665 ADVANCED ELECTRIC DRIVES.
+Closed loop control of solid state DC drives, Scalar and vector control of induction motor, Direct torque and flux control of induction motor, Self controlled synchronous motor drive, Vector control of synchronous motor, Switched reluctance motor drive, Brushless DC motor drive, Permanent magnet drives, Industrial drives
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > power engineering courses]
+EE 661 POWER ELECTRONICS APPLICATIONS IN POWER SYSTEMS
+Basics of flexible AC transmission systems, Controlled rectifier and energy storage plants, Tap changers and phase shifters, Thyristor controlled VAR compensation and series compensation, Modern (synchronous link converter) VAR compensators, Unified power flow controller (UPFC) and Interline power flow controller, Power quality conditioners, Power electronics in power generation.
+
+Last Updated: Friday, 14 July 2023 10:31
+
+=== rf and microwaves courses ===
+Source: https://www.iitk.ac.in/ee/rf-and-microwaves-courses
+Under-Graduate Courses
+
+EE 340 ELECTROMAGNETIC THEORY
+Basics of Static electric and magnetic fields, Energy in fields, Maxwell’s equations, plane EM waves, Propagation in free space and in matter, Reflection and refraction, Guided EM waves, Transmission lines, Radiation of EM waves.
+
+EE 416 OPTO-ELECTRONICS
+LEDs, semiconductor lasers, modulation of laser sources. Avalanche and PIN photodetectors and their characteristics. Solar cells. Optical fibers and their characteristics. Integrated optics. Fiber optic communication systems, system design consideration..
+
+EE 441 MICROWAVES
+
+EE 442 ANTENNAS AND PROPAGATION
+Retarded potential, radiation from current element and dipole, radiation patterns, impedance, reciprocity. Various types of antennas, interferometers and multi-element arrays, Antenna Measurements. Ground wave propagation, terrain and earth curvature effects. Tropospheric propagation; fading, diffraction and scattering; Ionospheric Propagation-refractive index, critical frequencies, effects of magnetic field.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 443 RADAR SYSTEMS
+Radar equation, CW and Frequency Modulated Radars, MTI and pulse Doppler radar, MTI delay line cancellors. MTI from moving platform, Tracking radars. Mono-pulse tracking in range/Doppler; Electronic scanning radars, Beam forming and Steering methods, Noise and Clutter; Ambiguity function; Radar signal processing; SAR.
+
+EE 444 RADIO ASTRONOMY
+Fundamentals of astronomy, Co-ordinate systems, Structure of the universe, Radio astronomy fundamentals, Electromagnetic wave propagation, Radio telescope Antennas, Reflector Antennas, Antenna arrays, Interferometry and aperture synthesis. Radio astronomy receivers, General principles, low noise amplifiers, digital auto-correlation receivers, Description of radio sources.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Post-Graduate Courses
+
+EE 612 FIBER OPTIC SYSTEMS I
+
+EE 640 COMPUTATIONAL ELECTRO-MAGNETICS
+Review of complex variables, conformal mappings, matrix calculus; Sturm Liouville equation; Eigenvalue problem; Guiding structures; Scattering media; Green’s function approach; Variational formulation, FEM, Generalized scattering matrix and planar circuit approach.
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+EE 643 SMART ANTENNAS FOR MOBILE COMMUNICATIONS
+Statistical signal processing concepts, Basics of mobile wireless communications. Radio-frequency signal modeling and channel characterization. Smart antennas and generalized array signal processing. Source localization problem. Joint angle and delay estimation. Smart antenna array configurations. Mobile communication systems with smart antennas.
+
+EE 644 OE1 OPTICAL COMMUNICATION
+
+EE 645 MONOLITHIC MICROWAVE ICS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modeling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+EE 698E QUANTUM INFORMATICS
+
+Courses Offered to PG Students
+
+In 2009-2010 1st semester
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 645 MONOLITHIC MICROWAVE ICS
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+In 2009-2010 2nd semester
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+In 2010-2011 1st semester
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 645 MONOLITHIC MICROWAVE ICS
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+In 2010-2011 2nd semester
+
+EE 640 COMPUTATIONAL ELECTRO-MAGNETICS
+Review of complex variables, conformal mappings, matrix calculus; Sturm Liouville equation; Eigenvalue problem; Guiding structures; Scattering media; Green’s function approach; Variational formulation, FEM, Generalized scattering matrix and planar circuit approach.
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 643 SMART ANTENNAS FOR MOBILE COMMUNICATIONS
+Statistical signal processing concepts, Basics of mobile wireless communications. Radio-frequency signal modeling and channel characterization. Smart antennas and generalized array signal processing. Source localization problem. Joint angle and delay estimation. Smart antenna array configurations. Mobile communication systems with smart antennas.
+
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+In 2011-2012 1st semester
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 645 MONOLITHIC MICROWAVE ICS
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+In 2011-2012 2nd semester
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+EE 643 SMART ANTENNAS FOR MOBILE COMMUNICATIONS
+Statistical signal processing concepts, Basics of mobile wireless communications. Radio-frequency signal modeling and channel characterization. Smart antennas and generalized array signal processing. Source localization problem. Joint angle and delay estimation. Smart antenna array configurations. Mobile communication systems with smart antennas.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+In 2012-2013 1st semester
+
+EE 612 FIBER OPTIC SYSTEMS I
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 644 OE1 OPTICAL COMMUNICATION
+
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modeling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+EE 698E QUANTUM INFORMATICS
+
+In 2012-2013 2nd semester
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 640 COMPUTATIONAL ELECTRO-MAGNETICS
+Review of complex variables, conformal mappings, matrix calculus; Sturm Liouville equation; Eigenvalue problem; Guiding structures; Scattering media; Green’s function approach; Variational formulation, FEM, Generalized scattering matrix and planar circuit approach.
+
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+EE686 MICROWAVE IMAGING AND NONDESTRUCTIVE TESTING
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE698X ADVANCED MOSFET MODELING
+
+In 2013-2014 1st semester
+
+EE 612 FIBER OPTIC SYSTEMS I
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 645 MONOLITHIC MICROWAVE ICS
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 698E QUANTUM INFORMATICS
+
+In 2013-2014 2nd semester
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+EE 640 COMPUTATIONAL ELECTRO-MAGNETICS
+Review of complex variables, conformal mappings, matrix calculus; Sturm Liouville equation; Eigenvalue problem; Guiding structures; Scattering media; Green’s function approach; Variational formulation, FEM, Generalized scattering matrix and planar circuit approach.
+
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE686 MICROWAVE IMAGING, CHARACTERIZATION AND NONDESTRUCTIVE TESTING
+
+In 2014-2015 1st semester
+
+EE 612 FIBER OPTIC SYSTEMS I
+
+EE 641 ADVANCED ENGINEERING ELECTRO MAGNETICS
+Transmission line theory; Green’s function and integral transform techniques; Wave propagation and polarization parameters; reflection and transmission across an interface; waveguides, cavity resonators, scattering by cylinders, wedges, spheres etc. Geometric theory of diffraction.
+
+EE 647 MICROWAVE MEASUREMENTS AND DESIGN
+Experiments in basic microwave measurements; passive and active circuit characterization using network analyzer, spectrum analyzer and noise figure meter; PC based automated microwave measurements; integration of measurement and design of microwave circuits.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 645 MONOLITHIC MICROWAVE ICS
+Scattering parameters of n-ports, Conductor and dielectric losses in planar transmission lines, coupled lines, multi-conductor lines, discontinuities, GaAs MESFET fabrication devices, High electron mobility transistor, Heterojunction bipolar transistor fabrication and modeling, NMIC technology and design.
+
+EE 646 PHOTONIC NETWORKS AND SWITCHING
+Optical communications: Introduction to basic optical communications and devices. Optical multiplexing techniques - Wavelength division multiplexing, Optical frequency division multiplexing, time division multiplexing, code division multiplexing. Optical Networks: Conventional optical networks, SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access optical networks, Topologies, Single channel networks, Multichannel networks, FTFR, FTTR, TTFR and TTTR, Single hop networks, Multihop networks, Multiaccess protocols for WDM networks, Switched optical networks. Optical amplification in all-optical networks. All-optical subscriber access networks. Design issues. Optical switching: Motivation, Spatial light modulator, Relational and non-relational switching devices, Fundamental limits on optical switching elements, Switching architectures, Free-space optical switching. Wavelength routed networks and other special topics. Soliton based networks, Optical networks management issues.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 698E QUANTUM INFORMATICS
+
+In 2014-2015 2nd semester
+
+EE 642 ANTENNA ANALYSIS & SYNTHESIS
+Vector potential; antenna theorems and definitions; dipole, loop, slot radiators; aperture antennas; array theorems; pattern synthesis; self and mutual impedances; scanning antennas; signal processing antennas, travelling wave antennas; antenna measurements.
+
+EE 640 COMPUTATIONAL ELECTRO-MAGNETICS
+Review of complex variables, conformal mappings, matrix calculus; Sturm Liouville equation; Eigenvalue problem; Guiding structures; Scattering media; Green’s function approach; Variational formulation, FEM, Generalized scattering matrix and planar circuit approach.
+
+EE 648 MICROWAVE CIRCUITS
+Transmission lines for microwave circuits; waveguides, stripline, microstrip, slot line; microwave circuit design principles; passive circuits; impedance transformers, filters, hybrids, isolators etc., active circuits using semiconductor devices and tubes, detection and measurement of microwave signals.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+EE 649 THE FINITE ELEMENT METHOD FOR ELECTRIC AND MAGNETIC FIELDS
+Introduction: Review of Electromagnetic Theory. Introduction to the Finite Element Method using electrostatic fields: Galerkin‘s method of weighted residuals, Minimum energy principle, Calculation of capacitance, electric field, electric forces from the potential solutions. Finite Element Concepts: Pre- processing, shape functions, isoparametric elements, meshing, solvers, post- processing. finite Element Modeling: Conductive media, steady currents; Magnetostatic fields, permanent Magnest, scalar and vector potentials; Electromagnetic fields. eddy current problems, modeling of moving parts; modeling of electrical circuits. Laboratory: Matlab and Femlab simulation
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > rf and microwaves courses]
+Last Updated: Friday, 14 July 2023 10:34
+
+=== signal processing communications networks courses ===
+Source: https://www.iitk.ac.in/ee/signal-processing-communications-networks-courses
+Under-Graduate Courses
+
+EE 200 SIGNALS, SYSTEMS AND NETWORKS
+Continuous and discrete time signals; Fourier series, Fourier, Laplace and Z tr\ansform techniques; DFT. Sampling Theorem. LTI systems: I/O description, impulse response and system functions, pole/ zero plots, FIR and IIR systems. Analog and digital filters. Networks: topological description, network theorems,Two port analysis.
+
+EE 301 DIGITAL SIGNAL PROCESSING
+Review of discrete time signals and systems. Sampling of CT signals: aliasing, prefiltering, decimation and interpolation, A/D and D/A conversion, quantization noise. Filter design techniques. DFT Computation. Fourier analysis of signals using DFT. Finite register length effects. DSP hardware. Applications. .
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 320 PRINCIPLES OF COMMUNICATION
+Communication problem and system models. Representation of deterministic and stochastic signals. Analog and digital modulation systems, Receiver structures, SNR and error probability calculations, Frequency and time division multiplexing. Digital encoding of analog signals. Elements of information theory, Multiple access techniques and ISDN.
+
+EE 321 COMMUNICATION SYSTEMS
+Information measures. Source coding. ISI & channel equalization, partial response signalling. M-ary modulation systems, error probability calculations. PLLs and FM threshold extension. Error control coding, block and convolution codes. Combined modulation and coding, trellis coded modulation. Spread spectrum systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE390 COMMUNICATION SKILLS
+
+EE 403 ADVANCED DIGITAL SIGNAL PROCESSING
+Review of linear algebra; functional analysis, time-frequency representation; frequency scale and resolution; uncertainity principle, short-time Fourier transform, Multi-resolution concept and analysis, Wavelet transforms. Wigner-ville distributions. Multi-rate signal processing; discrete-time bases and filter banks; 2D signals and systems, 2D sampling in arbitrary lattices, 2D-linear transforms, 1D/2D signal compression; introduction to DSP architecture.
+
+EE 422 COMMUNICATION SYSTEM ENGINEERING
+Baseband signal characterisation-telegraphy, telephony, television and data; message channel objective; voice frequency transmission, radio wave propagation methods: random noise characterization in communication systems, intermodulation distortion : line of sight systems description and design; troposcattrer systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+Post-Graduate Courses
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS & SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 602 STATISTICAL SIGNAL PROCESSING I
+Power Spectrum Estimation-Parametric and Maximum Entropy Methods, Wiener, Kalman Filtering, Levinson-Durban Algorithms Least Square Method, Adaptive Filtering, Nonstationary Signal Analysis, Wigner-Ville Distribution, Wavelet Analysis.
+
+EE 603 ADVANCED TOPICS IN DIGITAL FILTERING
+Multirate Processing of discrete Time Signals; Orthogonal Digital Filter Systems. Two-Dimensional Discrete Time Filters. VLSI Computing structures for Signal Processing.
+
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 606 ARCHITECTURE AND APPLICATIONS OF DIGITAL SIGNAL PROCESSORS
+Review of DSP fundamentals. Issues involved in DSP processor design - speed, cost, accuracy, pipelining, parallelism, quantization error, etc. Key DSP hardware elements - Multiplier, ALU, Shifter, Address Generator, etc. TMS 320C55 X and TM 320C6X and 21000 family architecture and instruction set. Software development tools - assembler, linker and simulator. Applications using DSP Processor - spectral analysis, FIR/IIR filter, linear-predictive coding, etc.
+
+EE 607 WAVELET TRANSFORMS FOR SIGNAL AND IMAGE PROCESSING
+Basics of functional Analysis; Basics of Fourier Analysis; Spectral Theory; Time- Frequency representations; Nonstationary Processes; Continuous Wavelet Transforms; Discrete Time-Frequency Transforms; Multi resolution Analysis; Time-Frequency Localization; Signal Processing Applications; Image Processing Applications
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 608 VIDEO PROCESSING
+
+EE 609 BASICS OF BIOMEDICAL SIGNAL AND IMAGE PROCESSING
+Speech and pathology of vocal tract/ cords, Perpetual coding of audio signal and data compression, Spatio-temporal nature of bioelectric signals, cardiac generator and its models, Specific digital technique for bioelectric signals, Modes of medical imaging.
+
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Bandlimited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communciation; Equalization.
+
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 625 SATELLITE COMMUNICATION
+Introduction. Historical background and overall perspective; Satellite network modeling ; Link calculations; FM analysis; TV Transmission; Digital modulation; Error control; Multiple access; FDMA, TDMA, CDMA. Orbital considerations; Launching; Atmospheric effects; Transponders; Earth Stations; VSATs.
+
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+EE 628 TOPICS IN CRYPTOGRAPY AND CODING
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+Cryptography and error control coding in communication and computing systems. Stream and block ciphers; DES; public-key cryptosystems; key management, authentication and digital signatures. Codes as ideals in finite commutative rings and group algebras. Joint coding and cryptography.
+
+EE 629 DIGITAL SWITCHING
+
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 671 NEURAL NETWORKS
+
+EE 672 COMPUTER VISION AND DOCUMENT PROCESSING
+Human and computer vision, Image representation and modelling, Line and edge detection, Labeling, Image segmentation, Pattern recognition, Statistical, structural neural and hybrid techniques, Training & classification, Document analysis and optical character recognition, object recognition, Scene matching & analysis, Robotic version, Role of knowledge.
+
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 676 DIGITAL MOBILE RADIO SYSTEM
+Introduction to Mobile Radio networks, channel description and analysis, Propagation Effects, Technologies, TDMA/CDMA Techniques, Architectures, Cellular Systems, GSM Systems, Mobile Satellite Communication, Wireless ATM, Third Generation Cellular, Universal Mobile Telecommunication Systems (UMTS).
+
+EE 678 NEURAL SYSTEMS AND NETWORKS
+Memory: Eric Kandel's memory and its physiological basis, Explicit and Implicit memories, Short Term and Long Term potentiation (STP and LTP), Hopfield's Model of Associative Memories, its comparison with Kandel's model, Stability of Hopefield net, its use as CAM, Hamming's Model and comparision of number of weights, Learning: Supervised and Unsupervised nets, Learning Methods, Neural systems: Different types of neurons, dendrites, axons, role of Na+ K+ AT Pase and resting potentials, synaptic junctions and transmission of action potentials, Consciousness and its correlation with respiratory sinus arrythmia, a bioinstrumentation scheme for its measurement; Neural nets for technical applications: Bidirectional Associative Memories, (SAMs), Radial Basic, Function nets. Boltzmann machine, Wavelet nets, Cellular Neural Nets and Fuzzy nets.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+Courses Offered to PG Students
+
+In 2009-2010 1st semester
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing.
+
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+EE624 INFORMATION AND CODING THEORY
+
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+EE680 INTELLIGENT INSTRUMENTATION
+
+In 2009-2010 2nd semester
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS & SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 602 STATISTICAL SIGNAL PROCESSING I
+Power Spectrum Estimation-Parametric and Maximum Entropy Methods, Wiener, Kalman Filtering, Levinson-Durban Algorithms Least Square Method, Adaptive Filtering, Nonstationary Signal Analysis, Wigner-Ville Distribution, Wavelet Analysis.
+
+EE 608 VIDEO PROCESSING
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Bandlimited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communciation; Equalization.
+
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 628 TOPICS IN CRYPTOGRAPY AND CODING
+Cryptography and error control coding in communication and computing systems. Stream and block ciphers; DES; public-key cryptosystems; key management, authentication and digital signatures. Codes as ideals in finite commutative rings and group algebras. Joint coding and cryptography.
+
+EE 629 DIGITAL SWITCHING
+
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 670 WIRELESS COMMUNICATION
+
+EE679 QUEUEING SYSTEMS
+
+EE 671 NEURAL NETWORKS
+
+EE698D UNIVERSAL COMPRESSION ALGORITHMS & ENTROPY RATE
+
+In 2010-2011 1st semester
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing
+
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE607 WAVELET TRANSFORMS FOR SIGNAL AND IMAGE PROCESSING
+
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+In 2010-2011 2nd semester
+
+EE600 MATHEMATICAL STRUCTURES OF SIGNALS & SYSTEMS
+
+EE602 STATISTICAL SIGNAL PROCESSING
+
+EE608 VIDEO SIGNAL PROCESSING
+
+EE698V SIMULATION OF COMMUNICATION SYSTEMS
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Bandlimited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communciation; Equalization.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE 646 PHOTONICS AND SWITCHING NETWORKS
+
+EE 670 WIRELESS COMMUNICATION
+
+EE 671 NEURAL NETWORKS
+
+In 2011-2012 1st semester
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 607 WAVELET TRANSFORMS FOR SIGNAL AND IMAGE PROCESSING
+Basics of functional Analysis; Basics of Fourier Analysis; Spectral Theory; Time- Frequency representations; Nonstationary Processes; Continuous Wavelet Transforms; Discrete Time-Frequency Transforms; Multi resolution Analysis; Time-Frequency Localization; Signal Processing Applications; Image Processing Applications
+
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+EE 629 DIGITAL SWITCHING
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+In 2011-2012 2nd semester
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS & SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 608 VIDEO PROCESSING
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Bandlimited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communciation; Equalization.
+
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE 628 TOPICS IN CRYPTOGRAPY AND CODING
+Cryptography and error control coding in communication and computing systems. Stream and block ciphers; DES; public-key cryptosystems; key management, authentication and digital signatures. Codes as ideals in finite commutative rings and group algebras. Joint coding and cryptography.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 629 PHOTONICS AND SWITCHING NETWORKS
+
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 670 WIRELESS COMMUNICATION
+
+EE 676 DIGITAL, MOBILE RADIO SYSTEMS
+
+EE 671 NEURAL NETWORKS
+
+In 2012-2013 1st semester
+
+EE 602 STATISTICAL SIGNAL PROCESSING I
+Power Spectrum Estimation-Parametric and Maximum Entropy Methods, Wiener, Kalman Filtering, Levinson-Durban Algorithms Least Square Method, Adaptive Filtering, Nonstationary Signal Analysis, Wigner-Ville Distribution, Wavelet Analysis.
+
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy systems, Brief history of Fuzzy logic, Foundation of Fuzzy Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial Products, Research Fields in Fuzzy Theory, Classical sets and Fuzzy sets, Classical Relations, Fuzzy relations, Membership Functions, Fuzzy to crisp conversions, Fuzzy arithmetic, Numbers, Vectors and the extension principle, Classical logic and Fuzzy logic, Mathematical background of Fuzzy Systems, Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, Types of Membership Functions, Basic Concepts (support, singleton, height, a-cut projections), Fuzzy set operations, S-and T- Norms, Properties of Fuzzy sets, Sets as Points in Hypercube, Cartesian Product, Crisp and Fuzzy Relations, Examples, Liguistic variables and hedges, Membership function design. Basic Principles of Inference in Fuzzy Logic, Fuzzy IF-THEN Rules, Canonical Form, Fuzzy Systems and Algorithms, Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy Inference Engines, Graphical Techniques of Inference, Fuzzyifications/ DeFuzzification, Fuzzy System Design and its Elements, Design options. Fuzzy Events, Fuzzy Measures, Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, Fuzzy Systems as Universal Approximators, Additive Fuzzy Systems (standard additive model).
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+In 2012-2013 2nd semester
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 608 VIDEO PROCESSING
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Band limited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communication; Equalization.
+
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE 628 TOPICS IN CRYPTOGRAPY AND CODING
+Cryptography and error control coding in communication and computing systems. Stream and block ciphers; DES; public-key cryptosystems; key management, authentication and digital signatures. Codes as ideals in finite commutative rings and group algebras. Joint coding and cryptography.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 658 FUZZYSET,LOGIC & SYSTEMS AND APPLICATIONS
+
+EE 629 DIGITAL SWITCHING
+
+EE 643 SMART ANTENNA FOR MOBILE COMMUNICATION
+
+EE 670 WIRELESS COMMUNICATION
+
+EE679 QUEUEING THEORY
+
+EE698V SIMULATION OF COMMUNICATION SYSTEM
+
+EE698W CONVEX OPTIMIZATION IN SP/COM
+
+In 2013-2014 1st semester
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing.
+
+EE602 STATISTICAL SIGNAL PROCESSING
+
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 607 WAVELET TRANSFORMS FOR SIGNAL AND IMAGE PROCESSING
+Basics of functional Analysis; Basics of Fourier Analysis; Spectral Theory; Time- Frequency representations; Nonstationary Processes; Continuous Wavelet Transforms; Discrete Time-Frequency Transforms; Multi resolution Analysis; Time-Frequency Localization; Signal Processing Applications; Image Processing Applications.
+
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+EE627 SPEECH SIGNAL PROCESSING
+
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE698C PEER TO PEER NETWORKS
+
+In 2013-2014 2nd semester
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+EE 608 DIGITAL VIDEO PROCESSING
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Band limited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communication; Equalization.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE626 TOPICS IN STOCHASTIC PROCESSES
+
+EE 629 DIGITAL SWITCHING
+
+EE 643 SMART ANTENNA FOR MOBILE COMMUNICATION
+
+EE 670 WIRELESS COMMUNICATION
+
+EE698V SIMULATION OF COMMUNICATION SYSTEM
+
+EE698W CONVEX OPTIMIZATION IN SP/COM
+
+In 2014-2015 1st semester
+
+EE 601 MATHEMATICAL METHODS IN SIGNAL PROCESSING
+Generalized inverses, regularization of ill-posed problems. Eigen and singular value decompositions, generalized problems. Interpolation and approximation by least squares and minimax error criteria. Optimization techniques for linear and nonlinear problems. Applications in various areas of signal processing.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 604 IMAGE PROCESSING
+Human visual system and image perception, monochrome & colour vision models, colour representation ; image sampling & quantization; 2-D systems; image transforms; image coding; stochastic models for image representation; image enhancement, restoration & reconstruction. Image analysis using multiresolution techniques.
+
+EE 605 INTRODUCTION TO SIGNAL ANALYSIS
+Discrete and Continuous time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. Random discrete signals. Sampling and reconstruction: Change of sampling rate. Normed vector spaces, basis, linear independence, orthogonality. Linear systems of equations. Over- and Underdetermined systems. Row- and Column spaces, Null spaces. Least square and minimum norm solutions. Inverse and pseudo inverse, Symmetry transformations. Eigenvectors and eigenvalues. Hilbert transforms, band pass representations and complex envelope. Base band pulse transmission, matched filtering, ISI, equalization. Coherent and noncoherent detection.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 607 WAVELET TRANSFORMS FOR SIGNAL AND IMAGE PROCESSING
+Basics of functional Analysis; Basics of Fourier Analysis; Spectral Theory; Time- Frequency representations; Nonstationary Processes; Continuous Wavelet Transforms; Discrete Time-Frequency Transforms; Multi resolution Analysis; Time-Frequency Localization; Signal Processing Applications; Image Processing Applications.
+
+EE 621 REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS
+Review of probability, random variables, random processes; representation of narrow band signals. Transmission of signals through LTI systems; Estimation and detection with random sequences; BAYES, MMSE, MAP, ML schemes. KL and sampling theorem representations, matched filter, ambiguity functions, Markov sequences, linear stochastic dynamical systems.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 624 INFORMATION AND CODING THEORY
+Entropy and mutual information, rate distortion function, source coding, variable length coding, discrete memoryless channels, capacity cost functions, channel coding, linear block codes, cyclic codes. Convolutional codes, sequential and probabilistic decoding, majority logic decoding, burst error-correcting codes.
+
+EE 673 DIGITAL COMMUNICATION NETWORKS
+OSI model, queueing theory, physical layer, error detection and correction, data link layer, ARQ strategies, framing, media access layer, modelling and analysis of important media access control protocols, FDDI and DQDB MAC protocols for LANs and MANs, network layer, flow control & routing, TCP/IP protocols, ATM.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+In 2014-2015 2nd semester
+
+EE 600 MATHEMATICAL STRUCTURES OF SIGNALS SYSTEMS
+Nature of definitions; Theory of measurement and scales; Symmetry, invariance and groups; Groups in signals and systems; Algebraic and relational structures of signal spaces and convolutional systems; Representation theory of groups, harmonic analysis and spectral theory for convolutional systems.
+
+EE 608 DIGITAL VIDEO PROCESSING
+
+EE 622 COMMUNICATION THEORY
+Rate Distortion Theory, Channel Coding Theorems, Digital Modulation Schemes, Trellis Coded Modulation, Digital Transmission over Band limited Channels, Fading Multipath Channels, Synchronization. Analog Modulation Schemes, Optimum/ Suboptimum Receivers; Diversity Combining; Cellular Mobile Communication; Equalization.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+EE 623 DETECTION AND ESTIMATION THEORY
+Classical Detection and Estimation Theory, Signal Representation, Detection of signals in Gaussian noise, Waveform estimation, Linear estimation problems, Wiener filtering, Kalman filtering.
+
+EE 627 SPEECH SIGNAL PROCESSING
+Spectral and non-spectral analysis techniques; Model-based coding techniques; Noise reduction and echo cancellation; Synthetic and coded speech quality assessment; Selection of recognition unit; Model-based recognition; Language modelling; Speaker Identification; Text analysis and text-to-speech synthesis.
+
+EE 643 SMART ANTENNA FOR MOBILE COMMUNICATION
+
+EE 609 CONVEX OPTIMIZATION IN SIGNAL PROCESSING AND COMMUNICATION
+
+EE 629 DIGITAL SWITCHING
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > signal processing communications networks courses]
+Last Updated: Friday, 14 July 2023 10:38
+

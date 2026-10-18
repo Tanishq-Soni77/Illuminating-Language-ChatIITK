@@ -1,0 +1,913 @@
+DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Chemistry, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/chm. Snapshot: scraped in 2026.
+
+=== books ===
+Source: https://www.iitk.ac.in/chm/books
+A list of books authored by faculty of the Chemistry department will appear here soon.
+
+=== facilities ===
+Source: https://www.iitk.ac.in/chm/facilities
+Bruker D8 Quest Single Crystal - XRD
+
+Bruker Smart Apex Single Crystal – XRD
+
+Bruker D8 ADVANCE Powder - XRD
+
+High Field Nuclear Magnetic Resonance (JEOL-400)
+
+Analytical Nuclear Magnetic Resonance (JEOL-60)
+
+Resonance Raman Spectrometer
+
+Atomic Force Microscope and Scanning Tunneling Microscope (Agilent 5500)
+
+Electron Paramagnetic Resonance Spectroscopy
+
+CD Spectrometer (Jasco J-815)
+
+TGA/DSC (Metler Toledo)
+
+Fluorescence Spectrometer (EDINBURG)
+
+Time Correlated Single Photon Counting (Spectra CQ) Horiba
+
+Spectrophotometer (Jasco V-670)
+
+IR spectrophotometers (ordinary and FT)
+
+UV-VIS Spectrophotometer
+
+Cyclic Voltammetry
+
+LC-MS Q-ToF (Waters) HAB-213
+
+GC (Agilent 7890 A)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > facilities]
+MS (Waters) GCT PREMIER EI
+
+Elemental Analyzer PE
+
+Micro-Analytical Facility
+
+REACT IR (Metler Toledo)
+
+Hydrogenerator
+
+Light Scattering Photometer
+
+Magnetic Susceptibility Measurement Instrument
+
+Facility for Environmental and Analytical Testing
+
+Surface Plasmon Resonance
+
+Mossbauer spectrometer
+
+=== sponsored projects ===
+Source: https://www.iitk.ac.in/chm/index.php/sponsored-projects
+List Of Ongoing Projects In Chemistry Department
+
+Sl No. | Project Title | Expiry Date | Principal Investigator | Funding Agency |
+
+1. |
+J C Bose Fellowship |
+9/7/2018 |
+Manas K Ghorai |
+DST |
+
+2. |
+J C Bose Fellowship |
+12/31/2018 |
+V K Singh |
+DST |
+
+3. |
+CSIR Shanti Swarup Bhatnagar Award |
+1/29/2030 |
+J Narasimha Moorthy |
+CSIR |
+
+4. |
+J C Bose Fellowship |
+6/30/2017 |
+Shridhar R Gadre |
+DST |
+
+5. |
+J C Bose Fellowship |
+6/30/2018 |
+Y D Vankar |
+DST |
+
+6. |
+CSIR Shanti Swarup Bhatnagar Award |
+6/24/2031 |
+Sandeep Verma |
+CSIR |
+
+7. |
+Complex Bioinspired Systems |
+10/31/2017 |
+Sandeep Verma |
+DAE |
+
+8. |
+J C Bose Fellowship |
+6/30/2018 |
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+Amalendu Chandra |
+SERB |
+
+9. |
+J C Bose Fellowship |
+6/30/2018 |
+Sandeep Verma |
+SERB |
+
+10. |
+Inspire Faculty Award |
+10/31/2018 |
+Sabuj Kumar Kundu |
+DST |
+
+11. |
+Development Of Highly Selective Chemosensors For Cost-Effective Detection And Estimation Of Biologically And Environmentally Important Metal Ions |
+3/31/2017 |
+Pratik Sen |
+INSA |
+
+12. |
+Development Of Novel Fluorination Reactions Employing Fluoride Ion As The Fluorine Source |
+5/27/2017 |
+Anand Singh |
+BRNS |
+
+13. |
+Synthesis, Structure And Properties Of Half-Sandwich Metal Alkylidine And Related Complexes And Their Application In Catalysis |
+5/27/2017 |
+Basker Sundararaju |
+BRNS |
+
+14. |
+Porphyrin Dimers As Model Of Di-Heme Proteins:Inorganic And Bioinorganic Perspectives And Consequences Of Heme-Heme Interactions |
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+6/1/2017 |
+Sankar P Rath |
+SERB |
+
+15. |
+N - Heterocyclic Carbene (Nhc) Stabilized Metal Alkoxides/Aryloxides: Potential Precursor For The Preparation Of Heterobimetallic Oxides |
+7/31/2017 |
+Anantharaman Ganapathi |
+SERB |
+
+16. |
+Synthesis Of Hydrolytically Stable Metal Organic Frameworks By Control Of Inner Surface Hydrophobicity |
+6/22/2017 |
+Sabuj K Kundu |
+DST |
+
+17. |
+Small Rings In The Synthesis Of Tetrahydropyrans And Piperidines |
+9/30/2017 |
+Veejendra K Yadav |
+CSIR |
+
+18. |
+Enantioselective Total Synthesis Of Antimalarial Flindersia Alkaloids |
+10/30/2017 |
+Dattatraya H Dethe |
+SERB |
+
+19. |
+Development Of New Synthetic Routes For Biologically Important N-Heterocycles Via Sn2-Type Ring-Opening/Domino Ring Opening Cyclization(Droc) Of Aaziridines And Azetidines |
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+12/31/2017 |
+Manas K Ghorai |
+CSIR |
+
+20. |
+Chemical Fixation Of Carbon Dioxide: Greener Methodologies In The Synthesis Of Valuable Compounds |
+12/31/2017 |
+Sabuj K Kundu |
+CSIR |
+
+21. |
+J.C. Bose Fellowship |
+6/14/2020 |
+J Narasimha Moorthy |
+SERB |
+
+22. |
+Ultrasensitive Thermal Spectrometer With Molecular Size And Mass Sensitivity |
+7/30/2017 |
+Debabrata Goswami |
+STC |
+
+23. |
+Solvent Free Asymmetric Alphachlorination Of Carbonyl Compunds And Oxidative Desymmetrization Reaction With Chiral Ibxs With Mechanochemical Ball Milling |
+7/31/2018 |
+J Narasimha Moorthy |
+SERB |
+
+24. |
+Biomimetics Of Acireductone Dioxygenase Through Model Nickel And Iron Complexes. |
+8/31/2018 |
+Raja Angamuthu |
+SERB |
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+25. |
+Hydrogenation,Dehydrogenation And Dehydrogenative Coupling |
+9/6/2018 |
+Jitendra Bera |
+DST |
+
+26. |
+Probing Surface Plasmon Mode Hybridization And Local Electromagnetic Field Distribution In Metal Nanoantennas Using Single-Particle Level Spectroscopy |
+9/30/2018 |
+Manabendra Chandra |
+CSIR |
+
+27. |
+Enantoselective Synthesis Of Isoindolinones And Tetrahydroisoquinolines. |
+9/30/2018 |
+V K Singh |
+SERB |
+
+28. |
+Stereoselective Syntheses Of Biologically Important Aza,Carba And Oxacyclic Compounds Via Enolate Anions And Dianions |
+10/7/2018 |
+Manas K Ghorai |
+DST |
+
+29. |
+Development Of Novel Visible Light Promoted Transformations |
+10/9/2018 |
+Anand Singh |
+SERB |
+
+30. |
+Water Soluble Transition Metal Complexes:Synthesis And Catalysis |
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+10/14/2018 |
+Sabuj K Kundu |
+SERB |
+
+31. |
+Controlling Electronic Switching In Organo-Metallic Molecular Patterns At Solid-Liquid-Interface Using Scanning Electrochemical Tunneling Microscopy |
+11/4/2018 |
+Thiruvancheril G Gopakumar |
+DST |
+
+32. |
+Mechanism Of Antibiotic Resistance By Class-C Beta Lactamase And Ndm-1 |
+12/3/2018 |
+Nisanth N. Nair |
+DBT |
+
+33. |
+Fist 2015 |
+12/7/2020 |
+Sandeep Verma |
+DST |
+
+34. |
+Synthesis Of Marine Natural Products Hapalindoles And Their Analogues For Sar Studies |
+1/26/2017 |
+Dattatraya H Dethe |
+MoES |
+
+35. |
+Stereoisomers Of New Dipicolylamine Complexes From Multi-Component One-Pot Reactions:Isolation And Post Synthetic Modification Transmetallation And Bioinspired Hydrogen Production Catalysis. |
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+1/31/2019 |
+Raja Angamuthu |
+SERB |
+
+36. |
+Research On Metal Organic Framework (Mofs):Searching Of Paradigms For Selective And Reversible Hydrogen Storage At Ambient And Near Ambient Temperatures. |
+1/31/2019 |
+Sabuj K Kundu |
+MNRE |
+
+37. |
+Bifunctional Approach To Small Molecule Activation : Towards Sustainable Processes And Products |
+3/31/2021 |
+Jitendra Bera |
+DAE |
+
+38. |
+Cobalt Catalysed C-H Bond Functionalization |
+6/13/2019 |
+Basker Sundararaju |
+SERB |
+
+DST: Department of Science and Technology
+
+DBT: Department of Biotechnology
+
+SERB: Science and Engineering Research Board
+
+DAE: Department of Atomic Energy
+
+MoES: Ministry of Earth Sciences
+
+MNRE: Ministry of New and Renewable Energy
+
+CSIR: Council of Scientific and Industrial Research
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > sponsored projects]
+INSA: Indian National Science Academy
+
+=== industrial collaborations ===
+Source: https://www.iitk.ac.in/chm/industrial-collaborations
+Several faculty in the department are involved industrial collaborations that bring great added value to both parties. Industrial partners can avail of the expertise of the faculty and make significant enhancement in their own processes/ products. Industries can look for collaborators by looking at the Research Areas of faculty and can directly contact them. Alternatively, they can approach the Head of the department (https://iitk.ac.in/chm/contact-us) for initiating wider collaborations.
+
+=== natural product and asymmetric synthesis ===
+Source: https://www.iitk.ac.in/chm/natural-product-and-asymmetric-synthesis
+A partial list of department faculty working in this area is given below
+
+Vinod K. Singh , Professor
+
+0512-259-7291
+HomePage
+
+Research Interests
+Synthetic organic chemistry with particular emphasis on enantioselective reactions, synthesis of biologically active molecules
+
+Maddali L. N. Rao , Professor
+
+0512-259-7532/7163
+HomePage
+
+Research Interests
+Organic Synthesis, Cross-coupling Reactions, Organobismuth Chemistry, Organometallics, Natural products, Green chemistry.
+
+Dattatraya H. Dethe , Professor
+
+0512-259-6537
+HomePage
+
+Research Interests
+Total synthesis of bioactive natural products, new synthetic methods
+
+Parthasarathi Subramanian , Assistant Professor
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > natural product and asymmetric synthesis]
+0512-259-2153
+HomePage
+
+Research Interests
+Synthetic Organic chemistry, Total Synthesis, Synthetic and Catalytic methodologies for biologically relevant molecules.
+
+Ramesh Ramapanicker , Professor
+
+0512-259-6684
+HomePage
+
+Research Interests
+Synthetic organic chemistry, bioorganic chemistry
+
+Manas K. Ghorai , Professor
+
+0512-259-7518/7539
+HomePage
+
+Research Interests
+Asymmetric organic synthesis, biologically significant carba- and heterocycles, synthetic methodology, bio-organic chemistry
+
+Anand Singh , Associate Professor
+
+0512-259-6788
+HomePage
+
+Research Interests
+Synthetic Organic Chemistry, Visible light photocatalysis, Solar Photovoltaics, Fluorinated Organics
+
+=== patents ===
+Source: https://www.iitk.ac.in/chm/patents
+A list of patents filed by faculty of the Chemistry department will appear here soon.
+
+=== research facilities ===
+Source: https://www.iitk.ac.in/chm/research-facilities
+The Department of Chemistry houses several state-of-the-art facilities which enhance the research quality of the department. The facilities are regularly updated through grants for the institute and various funding agencies. In addition to the department facilities, there are several equipments housed in different departments and centres at IIT Kanpur. Below are some of the major facilities of the department.
+
+Single-crystal X-Ray Diffractometer
+Determination of molecular structures of organic, organometallic and coordination
+compounds are performed by single crystal X-ray diffraction measurement using two Bruker D8 Quest Single Crystal Microfocus X Ray Diffractometers, equipped with low temperature devices. Data is collected at liquid nitrogen temperature and solved with the help of proprietary software to solve atomic structural details.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+D8 Quest Single Crystal Microfocus X Ray Diffractometers from Bruker Ltd (Years of purchase 2012 and 2017)
+
+Contact Person:
+
+Prof. J. K. Bera
+
+Dr. A.K. Medda
+
+Nuclear Magnetic Resonance Facility
+The department operates four high field NMR (two 400 and two 400 MHz) spectrometers for recording high-resolution spectra from solutions. NMR spectrometers are run and maintained by dedicated operators who also train and assist students in recording simple 1D spectra as well as multidimensional heteronuclear experiments. These machines are regularly used for all 2D spectra, variable temperature experiments, and other special experiments.
+
+ECS 400 MHZ (Year of purchase-1999)
+
+ECX 400 MHz (Year of purchase-2013), JEOL Ltd
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+JNM-ECZ 400MHz (Year of purchase-2021)
+
+ECX 400MHz (Year of purchase-2007), JEOL Ltd
+
+Contact Person:
+
+Prof. D. Dethe
+
+Dr. A.K.Medda
+
+Mass Spectrometer Facility
+This facility allows for collection of routine and high- resolution mass spectra under a variety of ionization conditions from the state-of-the art Agilent Q-TOF mass spectrometers for organic, organometallic polar/non-polar volatile/non-volatile compounds. Department also supports a second GC-MS spectrometer.
+
+LC-MS (ESI)-QToF (Agilent 6546) & GC-MS(APCI)-QToF (Agilent 6230) from Agilent Technologies (year of purchase 2021)
+
+Contact Person:
+
+Prof. P. Subramanian
+
+Dr. A. K. Medda
+
+GC-MS (Agilent 7890A) from Agilent Technologies (year of purchase 2012)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Contact Person:
+
+Prof. B. Sundararaju
+
+Dr. A. K. Medda
+
+Electron Paramagnetic Resonance Spectrometer
+The department houses an Electron Paramagnetic Resonance spectrometer equipped with Klystron tube to generate monochromatic microwave radiation in the ~9.75 GHz region (X-Band) and controlled by EMX console, connected with a chiller. This facility is used to analyse the presence of unpaired electrons in the inorganic metal complexes, polymer sample, radical containing organic compounds, metal ion in protein, thin films etc. The spectrometer has automatic phase and amplitude calibration for standard EPR spectra at room temperature and low temperature (with liq N2 cryostat).
+
+EMX EPR (X-Band) spectrometer form Bruker Biospin Ltd and its Console (year of purchase 2003-04)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Contact Person:
+
+Prof. S.P.rath
+
+Dr. A.K.Medda
+
+Fourier Transform Infrared Spectrometer(FT-IR)
+The department has an FTIR spectrometer consisting of a standard optical system with KBr windows over a spectral range of 8,300 – 350 cm-1 and a maximum resolution of 0.5 cm-1 equipped with detector LaTiO3 (MIR zone). This spectrometer is regularly used for solid organic, organometallic, liquid and polymer samples. It has additional windows for NaCl, ZnSe (HATR mode) for special experiments and is also equipped with separate liquid cell for concentration based studies.
+
+For External Users
+
+FT-IR spectrometer (Spectrum 2) from PerkinElmer Pvt. Ltd (Year of purchase -2012)
+
+Contact Person:
+
+Dr. A. K. Medda
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Mössbauer Spectrometer
+The Department houses a Mӧssbauer spectrometer using 57Co as a radioactive gamma ray source equipped with proportional counter detector for analysis of solid inorganic metal complexes at room temperature or low temperature.
+
+Wissel 1200 Mossbauer spectrometer and the controller (Year of purchase -2010)
+
+Contact Person:
+
+Prof. S.P.Rath
+
+Dr. A. K. Medda
+
+Atomic Force Microscope and Scanning Tunneling Microscope
+Department houses an Atomic Force Microscope (AFM) and a Scanning Tunneling Microscope (STM). These include X/Y motion controls, scanners, high-resolution probes/tips, and detectors having a control systems. This facility is used for general surface characterization of solids, polymers, and other samples and is housed in an environment free from acoustic and vibration noise.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+AFM/STM Instrument (Agilent 5400) from Agilent Technologies (Year of Purchase-2010)
+
+Contact Person:
+
+Prof. T. Gopakumar
+
+Dr. A.K.M
+
+Resonance Raman Spectrometer
+A tunable laser source (Argon ion) coupled to a high resolution Raman spectrometer enables us to record resonant Raman spectra of molecules and materials. This technique can be used to probe subtle changes in the structure of a complex molecular system.
+
+Resonance Raman spectrometer from HORIBA Scientific (year of purchase 2012)
+(Currently not functional)
+
+Contact Person:
+
+Prof. V.G.Rao
+
+Dr. A.K.Medda
+
+Femtosecond Transient Absorption Spectrometer
+Early time structural and excited-state dynamics of molecules and materials in the condensed phase can be studied using this facility equipped with a regenerative amplifier pumped by a laser and seeded by a femtosecond oscillator having the probe of 400 nm light for pump and the white light continuum over a range of 450- 750 nm together focusing on a 1 mm cuvette containing the sample. The probe light is detected by a CCD detector.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Femtosecond transient absorption spectrometer (Femto-Frame-II, IB Photonics, Bulgaria), Year of purchase-
+
+Contact Person:
+
+Prof. P. Sen
+
+Dr.A.K.Medda
+
+Circular Dichrioism Spectrometer
+J-815 CD Spectrometer from JASCO, with a Peltier temperature controller having single cuvette holder and Spectra Manager 2 software facilitates data collection and analysis over a wave length range 163 nm to 700 nm equipped with a temperature controller over a range of 0 °C to 100 °C temperature (Peltier Temperature Control system) having quartz cells of different path length with a detector of Xe lamp measures only liquid sample. Time course CD signal measurement can be carried out.
+
+CD spectrometer from JASCO Pvt. Ltd Japan. Model: J-815 (Year of purchase 2009)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Contact Person:
+
+Prof. S.P.Rath
+
+Dr.A.K.Medda
+
+Fluorescence Spectrophotometer
+Fluorescence spectrophotometer (FluoroMax-4) from HORIBA scientific having Xenon arc lamp (185-850 nm), R928P photon counting PMT detector and a reference photodiode for monitoring lamp output has automatic self-calibration of all wavelength drives and slits records and analyze the Excitation & Emission Spectra for the liquid sample. With its sophisticated optics that allows high spatial resolution and high sensitive measurement with high S/N ratio for water Raman signal.
+
+Fluorescence spectrometer Fluoromax-4 from HORIBA Scientific (year of purchase- 2012)
+
+Contact Person:
+
+Prof. Nagma Parveen
+
+Dr. A.K.Medda
+
+Picosecond Time Correlated Single Photon Counting Fluorimeter(TCSPC)
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+This highly sensitive life time measuring fluorimeter (TCSPC) with the help of an laser energy pulse by single photon counting technique records data for liquid sample over a temperature ranges from 10° C to 90 °C. It is a time domain technique. Data is accumulated, presented and analyzed in a format showing signal intensity versus time, usually in picoseconds, nanoseconds, or microseconds. The presence of multi-exponential or more complex decay kinetics can be seen when viewed in a semi-logarithmic scale.
+
+Life time measurement fluorimeter from Edinburg Instrument Ltd: LifeSpec II (Year of purchase 2009)
+
+Contact Person:
+
+Prof. Pratik Sen
+
+Dr.A.K. Medda
+
+Elemental Analyzer
+EA is consisting of analyzer, autosampler (60 capsules) and the microbalance. With the extremely sensitive microbalance and extremely pure gases (He, O2, Ar) solid (organic, organometallic, soil) or liquid samples are recorded routinely with combustion furnace temperature 925 °C and reduction furnace temperature 637 °C with the help of recommended oxidizing and reducing agent.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+2400 Series II CHNS/O Elemental analyzer from PerkinElmer Pvt Ltd, USA (Year of purchase -2013)
+
+Contact Person:
+
+Prof. S. Dharavath
+
+Dr. A. K.Medda
+
+Thermogravimetric Analyzer and Differential Scanning Calorimeter
+Department facilitates a simultaneous TGA/DSC measurement facility from Mettler Toledo that measures both heat flow and weight loss in a material as a function of temperature of time in a controlled environment in an inert atmosphere. It collects data over a temperature range for solid or liquid or polymer samples in alumina/platinum crucible kept on a sensitive balance inside the instrument.
+
+TGA/DSC instrument: TGA | DSC 1 STAR from Mettler Toledo (year of purchase-2009)
+(Currently not functional)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Contact Person:
+
+Prof. Srinivas Darabat
+
+Dr. A.K.Medda
+
+UV-Vis-NIR Spectrometer
+The UV-Vis-NIR double-beam spectrometer from JASCO measures with its single monochromator designed for different types of sample over a range of wavelength from 190 to 2700 nm having deuterium and halogen lamp as a light source equipped with a PMT detector and a Peltier-cooled PbS detector for the NIR region. It has a facility to acquire data at variable temperature condition.
+
+UV-Vis-NIR Spectrometer: JASCO V-670 (Year of Purchase 2010) from JASCO Pvt Ltd, Japan
+
+Contact Person:
+
+Prof. R. Gautam
+
+Dr. A.K.Medda
+
+Parr Apparatus
+Department having a High pressure Parr reactor from Parr Instrument Company allows to carry reactions in less than 60 bar with an average stirring speed of 160 rpm controlled by 4848 motor controller equipped with a SS vessel at room temperature and high temperature. It has a facility to mix multiple gases in the reactor during reaction. Students routinely carry their reactions using this apparatus.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Parr reactor with fixed head mounting style and motor controller from Parr instrument company, USA (year of purchase 2013)
+(Currently not functional at high temperature)
+
+Contact Person:
+
+Prof. B. Sundaraju
+
+Dr. A.K.Medda
+
+Polarimeter
+MCP-150, digital optical rotation measurement instrument, having 10 mm and 50 mm cell holder with Na-D light as the source equipped with a Peltier temperature controller routinely measure the optical rotation at an ambient temperature for non-coloured solid or liquid sample in the solution phase.
+
+Polarimeter MCP150 (year of purchase 2019) from Anton Parr, GmbH, Germany
+
+Contact Person:
+
+Dr. A. K.Medda
+
+Cell Culture Facility
+Department in-house Cell Culture facility is used regularly in research for in-vitro testing of model compounds that includes cell viability, Cell adhesion and cellular functionality using various cell lines and dyes equipped with tissue culture hood, freezer at -80 C, CO2 incubator, autoclave, basic fluorescence microscope, MTT assay is used to quantify the cell viability
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > research facilities]
+Year of establishment 2020
+
+Contact Person:
+
+Prof. D. Allimuthu
+
+Dr. A. K. Medda
+
+High Performance Computing (HPC) Facility
+The cluster, founded by IITK and Department of Chemistry, comes under Chemistry department HPC facility. It has 34 computing HP-Proliant-SL-230s-Gen8 nodes with 64 GB of RAM per node. The compute nodes are configured with Intel Xeon E5-2670V 2.5 GHz 2 CPU-IvyBridge (20-cores per node) chipset. The nodes are interconnected by an infiniband switch.
+
+Year of establishment -
+
+Contact Person:
+
+Prof. A Ghosh
+
+=== teaching labs ===
+Source: https://www.iitk.ac.in/chm/teaching-labs
+Organic qualitative and quantitative analysis
+Organic qualitative and quantitative analysis (CHM 404/305)
+
+Course contents:
+
+1. Experimental Techniques
+
+Purification of Organic Compounds
+
+Recrystallisation
+
+Sublimation at atmospheric pressure and under reduced pressure
+
+Separation or organic compounds by Steam distillation
+
+Distillation of organic compounds under reduced pressure
+
+Bulb-to-bulb distillation under reduced pressure
+
+Chromatography
+
+Thin layer chromatography (TLC) and calculation of Rf values
+
+Column Chromatography: separation of organic mixture.
+
+Preparative TLC: preparation of plates and separation of organic mixtures
+
+Physical Constants
+
+Melting Points and Boiling Points
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Optical rotation and calculation of specific rotation and molecular rotation
+
+Spectroscopic Methods
+
+Preparation of an ester and its confirmation by IR and NMR
+
+Structure illucidation of unknown compounds based on the given spectral data
+
+2. Investigation and Characterization of Organic Compounds
+
+Detection of elements present in a given organic compound.
+
+Identification of functional groups in a given organic compound.
+
+Identification of unknown organic compounds.
+
+Separation of organic mixture by chemical methods, preparation of derivatives, and identification of the material
+
+Inorganic Chemistry Laboratory
+Inorganic Chemistry Laboratory - I(CHM 343/344)
+
+Course contents:
+
+Estimation of iron in minute quantities by UV-vis spectrophotometry
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Principles of colorimetric analysis: determination of iron content of an unknown sample.
+
+Preparation of hexamminenickel(II)chloride: estimation of ammonia and nickel by titrimetric and gravimetric methods
+
+Determination of complex composition using simple techniques
+
+Preparation of diamagnetic and paramagnetic main-group and transition-metal acetylacetonates
+
+Synthesis, isolation and spectroscopic characterization of the complexes
+
+Synthesis and characterization of ferrocene and acetylferrocene
+
+Synthesis of the complex and their purification using chromatography
+
+Acid-base and redox titration of tablets containing Vitamin-C
+
+Estimation of ascorbic acid in Vitamin-C tablets
+
+Paper chromatographic separation of Cu2+, Fe3+ and Ni2+
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Utilization of paper chromatographic techniques to separate the metal salts
+
+Spectrophotometric determination of phosphate: estimation of phosphate in cola drinks
+
+Determination of concentration of phosphates applying Beer-Lambert law
+
+Potassium tris-oxalatoferrate(III): synthesis, analysis and photochemistry
+
+Synthesis of the complex and its utilization in blue-printing experiment
+
+Suggested books:
+
+Elias, A. J., A Collection of Interesting General Chemistry Experiments, Universities Press (India) Pvt. Ltd., 2002.
+
+Roesky, H. W.; Möckel, K., Chemical Curiosities: spectacular experiments and inspired quotes, VCH, 1996.
+
+Hand-outs prepared for the laboratory experiments: collections from various literature sources
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Basic Chemistry Lab
+Basic Chemistry Lab (CHM 101A)
+
+Course contents:
+
+Permanganometric Titrations
+
+Acid - Base Titrations
+
+Iodometric Titrations
+
+Complexometric Titrations
+
+Recycling Of Aluminum
+
+Preparation and Analysis of a Metal Complex
+
+Polynuclear Metal Complexes with Multidentate Bridging Ligands
+
+Chromatography of Natural Pigments
+
+Synthesis of antioxidants used as food preservative
+
+Preparation of Polymer Films
+
+Isolation of Caffeine from tea
+
+Preparation of Fluorescein Dye
+
+Preparation of 9,10-dihydroanthracene-9,10-,-succinic anhydride via Diels-Alder reaction
+
+Viscosities of Solutions
+
+Chemical Kinetics
+
+Heterogeneous Equilibrium
+
+Photochemical Oxidation - Reduction
+
+The Detection of Changes in the Conformation of Bovine serum albumin by Viscosity
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Determination of pI of Glycine
+
+Conductometric titration of HCl Vs NaOH
+
+Experiments 1-8 and 14-17 are taken from "Experiments in General Chemistry" by A.J. Elias, S.S. Manoharan and Hans Raj, IIT Kanpur (1997), private circulation. The contents of other experiments are provided by F.A. Khan and S. Verma.
+
+Physical Chemistry Laboratory
+Physical Chemistry Laboratory (CHM 423/423A)
+
+Contents:
+
+Calibration of volumetric apparatus. (One day).
+
+Analysis of the rotational-vibrational spectra of HCl molecules. (One day)
+
+Determination of partial molal volume. (One day)
+
+Determination of the isotherm for a three component system. (Two days)
+
+Kinetics of fast reactions by stopped-flow technique. (One day)
+
+Spectrophotometric determination of the acid dissociation constant (Two days)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+The measurement of electrical conductance for the determination of the equivalent conductance at infinite dilution (Two days)
+
+Rate of the hydrolysis of sucrose using polarimeter. (Two days)
+
+Determination of pKa of poly-basic acid with the pH meter. (One day)
+
+Determination of critical miceller concentration. (One day)
+
+Determination of transport number by moving boundary method. (One day)
+
+Polarizability from refractive index measurements. (One day)
+
+Formula and stability constant of a complex by spectrophotometry. (One day)
+
+Fluorescence quantum yield determination of an unknown molecule. (One day)
+
+Fluorescence spectrum and stern-volmer quenching constant. (One day)
+
+IR and Raman spectroscopy of solvent mixtures. (Two days)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Computing Potential Energy Surface of molecules using Quantum Mechanics. (Two days)
+
+Introduction to Scanning Probe Microscopy (Two days)
+
+Suggested books:
+
+Experimental physical chemistry, F. A. Bettelheim
+
+Experimental physical chemistry, G. P. Matthews
+
+Experimental physical chemistry, F. Daniels
+
+Experimental physical chemistry, A. Halpern and G. McBane
+
+Experimental Physical Chemistry, D. P. Shoemaker, C. W. Garland, and J. W. Nibler
+
+Inorganic Chemistry Laboratory-II
+Basic Chemistry Lab (CHM 101A)
+
+Contents:
+
+Invisible ink Utilization of coordination chemistry to demonstrate invisible ink in laboratory.
+
+Color effects due to ligand-exchange in nickel complexes Demonstration of ligand-field strength in the spectrochemical series.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Color effects in aqueous systems containing divalent 3d metal ions Demonstration of crystal-field splitting parameters of 3d metal ions.
+
+Acidic and basic salts Hydrolysis of salts and its consequences.
+
+Preparation of nitro- and nitrito-pentamminecobalt(III) chloride Linkage isomers: synthesis and identification using various spectroscopic techniques.
+
+The preparation of hexammine cobalt(III) chloride and pentammineaquo cobalt(III) chloride Synthesis, isolation and characterization of the complex.
+
+The preparation of cis- and trans-potassiumdioxalatodiaquochromate(III) Geometrical isomers: synthesis and identification using various spectroscopic techniques.
+
+Aquation of trans-dichloro-bis(1,2-diamminoethane) cobalt(III) chloride Investigation of acid hydrolysis of the complex.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+The preparation and resolution of tris(ethylenediamine) cobalt(III) ion into its optical antipodes Optical isomers: synthesis, isolation and characterization.
+
+Preparation of hexamminenickel(II) chloride: estimation of ammonia and nickel by titrimetric and gravimetric methods Determination of complex composition using simple techniques.
+
+Synthesis and reactions of organocobaloximes Synthesis of an air-sensitive organometallic complex at low temperature under inert atmosphere.
+
+Synthesis and characterization of ferrocene and acetylferrocene Synthesis, purification using chromatography and characterization.
+
+Suggested books:
+
+Roesky, H. W.; Möckel, K., Chemical curiosities: spectacular experiments and inspired quotes, VCH, 1996.
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+Hand-outs prepared for the laboratory experiments: collections from various literature sources
+
+Organic Preparations Lab
+Organic Preparations Lab (CHM 503)
+
+Contents:
+
+Benzil – Benzilic Acid Rearrangement
+
+Prep. of benzil by oxidation of benzoin by nitric acid
+
+Benzil, an ® , ¯ - diketone undergoes rearrangement to benzilic acid
+
+Fisher: Indole Synthesis: Preparation of 1.2.3.4 – tetrahydrocarbazole. This compound is prepared according to the Fisher indole synthesis starting from phenylhydrazine and cyclohexanone.
+
+Diazotization: Forming a diazonium salt from an appropriate primary aromatic amine in the presence of HNO2.
+
+Preparation of P - Iodonitrobenzene: By Irradiation with Sunlight OR By Reductive Coupling Prep. of Benzopinacol from benzophenone by reductive coupling
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUB > teaching labs]
+MOLECULAR REARRANGEMENT
+
+Pinacol – Pinacolone – rearrangement
+
+Prep. of benzopinacol
+
+Prep. of benzopinacolone
+
+REIMER – TIEMANN REACTION Prep. of β-hydroxynapthaldehyde from β-napthal
+Prep. of β-hydroxynapthaldehyde from β-napthal
+
+PERKIN REACTION
+Preparation of Cinnamic acid
+Bromination cinnamic acid i.e. Prep. of bromostryrene
+
+ALDOL CONDENSATION AND EPOXIDATION
+
+Preparation of Chalcone
+
+Preparation of Chalcone epoxide
+

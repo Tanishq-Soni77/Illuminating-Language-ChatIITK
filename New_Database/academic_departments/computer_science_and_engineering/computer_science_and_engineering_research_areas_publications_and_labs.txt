@@ -1,0 +1,325 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, PUBLICATIONS, LAB FACILITIES AND EYES ON RESEARCH
+Name: Department of Computer Science and Engineering (CSE), IIT Kanpur - research areas, milestones, publications, lab facilities and Eyes on Research.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department); website https://www.cse.iitk.ac.in. Snapshot: scraped in 2026 (page text only, original page URLs not recorded).
+
+=== research areas new ===
+Source: https://www.cse.iitk.ac.in/
+Research Areas In The CSE Department
+
+The CSE department faculty is actively involved in research in various fields of Computer Science. The department provides an excellent research platform, and nurtures and challenges students to solve real-world research problems. The research in the department can be broadly classified into the following areas.
+
+Accelarators and GPUs
+
+Compiler and Runtime Systems
+
+Computer Architecture
+
+Digital VLSI
+
+Networks
+
+Operating Systems
+
+Parallel and Distributed Computing
+
+Virtualization and Cloud Computing
+
+CS220: Computer Organisation
+
+CS330: Operating Systems
+
+Edge Computing
+
+IoT
+
+Robotics
+
+Sensors
+
+CS202/3: Mathematics for Computer Science - II/III
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > research areas new]
+CS220: Computer Organisation
+
+CS330: Operating Systems
+
+CS340: Theory of Computation
+
+CS345: Algorithms II
+
+CS425: Computer Networks
+
+Bio-informatics
+
+Computer Graphics
+
+Data analytics
+
+Data Management in HPC and Distributed Systems
+
+Data Visualization
+
+Database
+
+Visual Computing
+
+CS360: Introduction to Computer Graphics
+
+CS771: Introduction to Machine Learning
+
+Formal verification
+
+Human Computer Interaction
+
+Programming language
+
+Software Engineering
+
+CS335: Compiler Design
+
+CS340: Theory of Computation
+
+CS345: Algorithms II
+
+CS350: Principles of Programming Languages
+
+CS455: Introduction to Software Engineering
+
+Computer Vision
+
+Deep Learning
+
+Image Processing
+
+Machine Learning
+
+Natural Language Processing
+
+Re-inforcement learning
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > research areas new]
+Visual Computing
+
+CS771: Introduction to Machine Learning
+
+Applied Cryptography
+
+Computer System Security
+
+Cyber Security
+
+Hardware Securit
+
+Privacy
+
+CS201: Mathematics for Computer Science - I
+
+CS202: Mathematics for Computer Science - II
+
+CS220: Computer Organisation
+
+CS330: Operating Systems
+
+Algorithm
+
+Complexity Theory
+
+Cryptography
+
+Number Theory
+
+Theoretical ascepts of ML
+
+Theory of Computation
+
+CS340: Theory of Computation
+
+CS345: Algorithms II
+
+=== research milestones ===
+Source: https://www.cse.iitk.ac.in/
+Research Milestones
+
+Researchers at the CSE department have achieved many milestones. Their research and initiatives have opened up new horizons.
+
+DST has sanctioned 14.43 crores (~2.2 millions USD) for the Interdisciplinary Center for Cyber Security and Cyber Defense of Critical Infrastructure. Prof. Sandeep Shukla and Prof. Manindra Agrawal will lead the group. This is the first center, set up in India, to pursue cyber security of critical infrastructure.
+
+Prof. Surender Baswana proposed an algorithmic perspective for JEE seat allocation for CFTIs. This approach ensures each candidate submits a single choice list over all available programs, and receives no more than a single seat from the system, based on the choices and the ranks in the relevant merit lists.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > research milestones]
+One of the major problems in computational number theory was solved by Prof. Manindra Agrawal, Prof. Nitin Saxena. The problem was whether a number could be tested for primality in polynomial time.
+
+One of the major problems in algebraic complexity is that of polynomial identity testing. A large number of special cases have been solved jointly by the research group of Prof. Nitin Saxena. The quest for a general solution is still on. The group also has famous complexity results in the related questions of algebraic dependence testing and finding roots of polynomials.
+
+The National Air Quality Index (NAQI) translates individual air pollutant concentrations into a single number that reflects the status of air quality in simple terms. The scientific basis of developing AQI is the attainment of air quality standards and pollutant dose-response relationships. This was developed by Prof. Arnab Bhattacharya.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > research milestones]
+MOOCs provide affordable and flexible way to learn new skills, pursue lifelong interests and deliver quality educational experiences at scale. Agropedia, a software as a service model, can be used to rapidly build agriculture portals for different communities.
+
+Prutor is a cloud-based web application that provides instant and useful feedback to students while solving programming problems. Prutor provides a view of the students' approach to solving programming problems, regardless of programming environments.
+
+A standard for smart card operating system has been developed which is used by the government of India for all their smart card based applications. A smart card operating system has also been implemented which is compliant to this standard. This technology is in the process of being commercialized.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > research milestones]
+Some path breaking contributions have been made in Indian language coding (ISCII), keyboard design, transliteration, OCR machine translation, Linux ware, NLP, Indian scripts on Linux, Web content creation and search. Some of our landmark achievement is: GIST multilingual technology, AGLABHARTI & ANUBHARTI MACHINE aided translation strategies and popular web sites such as Gita-supersite.
+
+The primary aim is to design a robust system which is capable of handling problems like security, personal, verification/identification etc. The various traits that are considered are Face, Iris, Signature, Fingerprints and Ear.
+
+The medical applications group supported by media lab Asia developed a portable mobile model of printing healthcare delivery which uses ICT and digital devices to contact remotely located individuals requiring medical attention with doctors. The 'Sehat Saathi' software was one of the software for telemedicine.
+
+=== research publications ===
+Source: https://www.cse.iitk.ac.in/
+Publications From The Department
+
+Books And Book Chapters
+
+2016-17
+
+2015-16
+
+2014-15
+
+2013-14
+
+2012-13
+
+2011-12
+
+2010-11
+
+2009-10
+
+2008-09
+
+2006-07
+
+2005-06
+
+Research Papers 2026-27
+
+Research Papers 2025-26
+
+Research Papers 2024-25
+
+Research Papers 2023-24
+
+Research Papers 2022-23
+
+Research Papers 2021-22
+
+Research Papers 2020-21
+
+Research Papers 2019-20
+
+Research Papers 2018-19
+
+Research Papers 2017-18
+
+Research Papers 2016-17
+
+Research Papers 2015-16
+
+Research Papers 2014-15
+
+Research Papers 2012-13
+
+Research Papers 2006-07
+
+Research Papers 2005-06
+
+Research Papers 2004-05
+
+Research Papers 2003-04
+
+Research Papers 2002-03
+
+=== cse lab facilities ===
+Source: https://www.cse.iitk.ac.in/
+CSE Lab Facilities
+
+• The CSE lab is equipped with a 1 gbps switched network with a tree topology. All systems (servers & clients) are equipped with 1 gbps NICs. A CISCO Catalyst 3750G Series Layer-3 switch acts as a backbone switch. The lab is connected to the campus network through a router. The connectivity between CSE and the institute Computer Center is through fiber optic cable. A total of 50 switches (24 ports each) each having 1 gbps speed cover the both CSE buildings. Department has two server rooms which are full with different kinds of servers. These server rooms also have specific project based servers & systems.
+
+• Recently CSE lab has deployed one cloud "Vyomkesh/Baadal" which has currently 20 compute nodes having dual Xeon 6 core CPUs with 48 GB RAM each. It supports 240 physical (480 logical) cores with 960 GB RAM. Soon capacity will be enhanced. Currently M.Tech, MTI & Ph.D students are using this system. A system course having 125 students will use Vyomkesh/Baadal first time.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > cse lab facilities]
+• Lab has successfully installed one private cloud. The private cloud is an Open Stack based which uses Cent OS 7 as base OS.
+
+• CSE lab has deployed one cloud "Vyomkesh/Baadal" which has currently 24 compute nodes having dual Xeon 6 core CPUs with 127 GB RAM each. It supports 240 physical (480 logical) cores with 1.7 TB RAM. Currently MTech, MTI & PhD students are using this system.
+
+• Most of the servers and work stations are Linux based. Windows is also available as an option on lab workstations. Most of the servers are LXC based virtual hosts.
+
+• Lab has successfully installed one private cloud. Soon we have a plan to shift our most of the facilities over HA cloud. The private cloud is an Open Stack based which uses Cent OS 7 as base OS.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > cse lab facilities]
+• The department offers key based authentication for user authentication and secure access to all its online services.
+
+• Around 50 wireless access points (54 Mbps) are placed in the building to serve wireless access needs.
+
+• The CSE lab provides NFS, SMTP mail, DNS, DHCP, LDAP, MariaDB database server, Intranet website, Internet website and NTP services. One Linux based server provides DNS, LDAP, DHCP & NTP services.
+
+• The CSE lab offers its own mail service. A quota system is in place for mail boxes. Mail box backup service is also available till last 1/2 hours.
+
+• Linux servers provide secured/insecure NFS service to all CSE lab users. Backup facility is available for secured area for last 3 months. Some important backups are kept for longer time also. Soon we are shifting to Bacula backup system.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > cse lab facilities]
+• CSE Lab systems and servers are managed by Puppet. Network health management is through Nagios.
+
+• Several Linux based servers are available for general purpose usage.
+
+• Two High end servers are available for students for image processing projects.
+
+• Access to home directories for all users is available through any machine using NFS and samba. B.Tech/M.Tech students avail 3 GB and Ph.D students avail 30 GB disk quota.
+
+• Intranet website and MySQL server services are offered on a Linux server.
+
+• Internet website & personal home pages are hosted on a Linux based Virtual server.
+
+• Scanning & CD/DVD Writing facility is available in the CSE lab.
+
+• Most CSE lab workstations are multi boot systems. These systems use DHCP for static IP allocation. Currently the lab workstations are running the Cent OS, Debian and students run Windows and/or Linux on their personal systems.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > cse lab facilities]
+• All PCs in personal offices are equipped with duplex laser printer, DVD player etc.
+
+• All M.Tech/Ph.D rooms are equipped with duplex network laser printers. Every Ph.D student has equipped with one personal system. Evert M.Tech student is provided one personal PC.
+
+• Central Networked laser printers are available through a central laser printing facility accessible through a ppr (with printing quota) system).
+
+• The lab is fully air conditioned with UPS protection against power outages. A 60 minute backup is available for lab client systems and a 2 hour backup is for all server systems and room PCs.
+
+• Daily automatic backup is available for the user home directory. Additionally, backups are also makde available for the last 30 days.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > cse lab facilities]
+• Monthly backup is available for the last three months.
+
+• Internet service and SMTP gateway service is provided by (Computer Centre (CC)). The department also draws upon the computing resources available at the Institute's Computer Centre.
+
+• Official Linux Mirror
+
+=== eyesonresearch ===
+Source: https://www.cse.iitk.ac.in/
+Rajaraman Lecture Series
+
+The Rajaraman Lecture Series is a tribute to Prof. Vaidyeswaran Rajaraman (8 September 1933 – 8 November 2025). Prof. Rajaraman served as a faculty member at the Indian Institute of Technology Kanpur between 1963–1982. During this period, he made a pioneering contribution in establishing computer science as an academic program in India. It is because of his outstanding contribution that he is also known as the father of computer science education in India.
+
+This lecture series is sponsored by the Research-I Foundation of the Department of CSE, IIT Kanpur.
+
+The aim of this lecture series is manifold.
+
+(1) To bridge the gap between what is taught and what is currently researched in Computer Science
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - RESEARCH AREAS, MILESTONES, P > eyesonresearch]
+(2) to create a vibrant atmosphere for research
+
+(3) to motivate students for research in computer science
+
+The speaker for each lecture of this series will be the master of a domain of computer science   -  an outstanding and passionate researcher who also has the skill of explaining difficult concepts in an easy and engaging manner.  The content of each lecture will address one or more of the following aspects of research in computer science.
+
+(1) An elegant solution to a well known research problem
+
+(2) The impact of some research result in the real world
+
+(3) Recent research trends in a specific domain of computer science
+
+Find below the list of lectures held in this series till now.
+

@@ -1,0 +1,639 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF PHYSICS (PHYSICS) COURSES
+Name: All courses of Department of PHYSICS (Physics) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course PHY100 - INTRODUCTION TO PROFESSION
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-0-2-0-0. Source: Courses of Study 2021, IIT Kanpur.
+Frontiers of physics at various scales, unifying themes and tools ofphysics, significant discoveries, which shaped our current understanding ofthe physical World. physicsinduced technologies. The course, will include physics demonstrations along with some handson experience in the Nuclear, Laser, Low Temperature, and CondensedMatter laboratories of the Physics Department.
+
+Course PHY101A - PHYSICS LABORATORY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-3-0-3. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to error analysis and graphdrawing; spring oscillation apparatus;trajectory of a projectile on an inclined plane; moment of inertia of a bicycle wheel; bar pendulum; torsional pendulum; coupled pendulum; study of collisionson an air track; gyroscope; current balance; measurement of capacitance using galvanometer; charging of a plate capacitor; electromagnetic induction; prism spectrometer; Fraunhofer diffraction using HeNe laser; magnetic fieldin Helmholtz coil; resonance in electrical circuits.
+
+Course PHY101N - PHYSICS LAB
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-4-0-2. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to error analysis and graphdrawing; spring oscillation apparatus;trajectory of a projectile on an inclined plane; moment of inertia of a bicyclewheel; bar pendulum; torsional pendulum; coupled pendulum; study of collisionson an air track; gyroscope; current balance; measurement of capacitance using galvanometer; charging of a plate capacitor; electromagnetic induction; prism spectrometer; Fraunhofer diffraction using HeNe laser; magnetic fieldin Helmholtz coil; resonance in electrical circuits.
+
+Course PHY102A - PHYSICS-I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Transformation of Scalars and Vectors under Rotation, Form Invariance of Newtons Second Law, Forces in Nature; Solving Newtons Equations of Motion in Polar Coordinates for problems including Constraint and Friction, extension to Cylindrical and Spherical Coordinates; Potential Energy Function, Conservative and NonConservative Forces; Central Forces, Energy Equation and Diagrams, Elliptical, Parabolic, and Hyperbolic Orbits, Harmonic Oscillator with Damping, Forced Oscillations and Resonance, inclusion of Nonlinear Force and Chaotic Motion, PhaseSpace Description; NonInertial Frames of Reference, Centrifugal and Coriolis Forces, Weather Systems, Foucault Pendulum; Angular Momentum and Torque, Rigid Body Dynamics, Moment of Inertia Tensor, Principal Axes, Torque Free Precession, Gyroscopes, Eulers Equations; Special Relativity, Lorentz Transformation, Length Contraction, Time Dilation, Velocity Addition, Relativistic Dynamics, EnergyMass Relation
+
+Course PHY102N - PHYSICS-I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-1-4. Source: Courses of Study 2021, IIT Kanpur.
+Coordinate systems, elements of vector algebra in plane polar, cylindrical, spherical polar coordinate systems, dimensional analysis; solutions forone dimensional equation of motion in various forms, frames of reference, relative velocity and accelerations; Newtons laws and applications (to include friction, constraint equations, rough pulleys), line integrals, gradient, curl, conservative forces, potential, work energy theorems, energy diagrams; conservation of linear momentum and collisions, variable mass problems;central forces, gravitation, Keplers law, hyperbolic, elliptic and parabolicorbits, forced oscillations, damping, resonance; waves: motion in noninertial frames, centrifugal and Coriolis forces; conservation of angular momentum andelementary rigid body dynamics; special theory of relativity.
+
+Course PHY103A - PHYSICS-II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Vector calculus; Electrostatic with full use of vector calculus calculation of electric fields, electrostatic potential and Laplaces equation and uniqueness of its solution; Method of images; Energy in electrostatics; Introduction to multipole expansion, Dipole moment of a charge distribution, potential and field of a dipole, force and torque on a dipole in an electric field; Electrostatics in a medium, Displacement vector and boundary conditions, linear dielectrics, force on a dielctric; Magnetostatics with full use of vector calculus, introduction to vector potential; current densities, Lorentz force law, force and torque on a magnetic dipole in a magnetic field Magnetostatics in a medium, magnetization, bound currents, magnetic field H, boundary condition on B and H, magnetic susceptibility, ferro, para and diamagnetism.; Faradays law, energy in magnetic field; displacement current; fields produced by time dependent electric and magnetic fields within quasistatic approximation; Maxwell’s equations in vacuum and conducting and nonconducting medium, Energy in electromagnetic field, Poynting vector, plane electromagnetic waves; Reflection and refraction of electromagnetic wave from a boundary, Brewsters angle.
+
+Course PHY103N - PHYSICS - II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Vector calculus; electrostatics; Gauss law and applications, electrostatic potential and curl of E; work and energy in electrostatics, Laplaces equation and first uniqueness theorem, method of images, multipoles (introduction), force and torque on dipoles; polarization, bound charges, electric displacement and boundary conditions, linear dielectrics, force on dielectrics; motion ofcharges in electric & magnetic fields; magnetostatics: current density,curl and divergence of B, Ampres law and applications, magnetization, bound currents and bound pole densities, magnetic field H, magnetic susceptibility,ferro, para and diamagnetism, boundary conditions on B and H, Faradays law, energy in magnetic field, displacement current, Maxwell’s equations inmedia, Poyntings theorem, e.m. waves: wave equation, plane waves, polarization and types of polarization, energy and momentum of plane e.m. waves.propagation through linear media and conductors. reflection and transmission at normal incidence from dielectric and metal interfaces. magnetism as a relativistic phenolmenon, relativistic transformations of E and B fields (simple illustrations only), diffraction, quantum mechanics, photons, uncertainty principle, electron diffraction experiments, de Broglie hypothesis, Born interpretation, Schrdinger equation and application to 1d box problem.
+
+Course PHY204 - QUANTUM PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-1-4. Source: Courses of Study 2021, IIT Kanpur.
+Foundations of quantum mechanics Black body radiation, photoelectric effect, Compton effect, de Broglie hypothesis and its experimental verification 5 lectures Time independent and time dependent Schrodinger equation, Born interpretation,Expectation values, freeparticle wavefunctions and wave packets, uncertainty principle 5 lectures Solution of stationarystate Schrodinger equation for particle in a box, particle in a finitewell, reflection and transmission across a step potential, application to phenomena like alpha decay , one dimensional harmonic oscillator 5 lectures Solution of stationary state Schrodinger equation for the ground state of hydrogen,Discussion of excited state, Explanation of the periodic table by introduction of electron spin and Pauli’s exclusion principle, StemGerlach experiment, two level systems 5 lectures Free particle wave functions and metals, Kronig Penny model and formation of bands inone dimension 4 lectures Variational principle for approximate solutions and simple applications, ground state energy of helium atom 3 lectures Interaction of light with matter Einstein’s phenomeno logical theory, lifetime of a state,LASERS 3 lectures Feynman lectures volume III Max Jammer Conceptual development of quantum mechanics B.L. van der Waerden Sources of quantum mechanics E. Shroedinger Papers on wave mechanics R. Shankar Principles of quantum mechanics
+
+Course PHY210 - THERMAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Principles of thermodynamics (with applications to simple fluids), applicationsof thermodynamics: concept of thermodynamic state, extensive and intensive variables; heat and work, internal energy function and the first lawof thermodynamics; fundamental relation and equations of state; concepts of entropy and temperature as conjugate pair of variables; secondlaw of thermodynamics, entropy maximum and energy minimum principles;thermodynamic potentials: enthalpy, Helmholtz potential, Gibbs potential;conditions of equilibrium, concepts of stable, metastable and unstable equilibrium; components and phases, GibbsDuhem relations; firstorder phase transitionsand ClausiusClapeyron equation; concepts associated with critical and multicritical phenomena, some chosen applications from surfaces and interfaces,chemical reactions (magnetic, dielectric and superconducting); heat engines and black body radiation; elementary kinetic theory of gases: equilibrium properties pressure and equation of state; transport processes momentum transport and viscosity, energy transport and thermal conductivity, chargetransport & electrical conductivity (without using Boltzmann transport equation);entropy, multiplicity and disorder: entropy measures multiplicity rather than disorder, illustration with simple examples; Maxwel’ls demon; qualitative justifications of laws of thermodynamics (without introducing ensembles), thermodynamics of irreversible processes: entropy production.
+
+Course PHY210A - THERMAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Principles of thermodynamics (with applications to simple fluids), applications of thermodynamics: concept of thermodynamic state, extensive and intensive variables; heat and work, internal energy function and the first law of thermodynamics; fundamental relation and equations of state; concepts of entropy and temperature as conjugate pair of variables; secondlaw of thermodynamics, entropy maximum and energy minimum principles; thermodynamic potentials: enthalpy, Helmholtz potential, Gibbs potential; conditions of equilibrium, concepts of stable, metastable and unstable equilibrium; components and phases, GibbsDuhem relations; first order phase transitionsand Clausius Clapeyron equation; concepts associated with critical and multi critical phenomena, some chosen applications from surfaces and interfaces,chemical reactions (magnetic, dielectric and superconducting); heat enginesand black body radiation; elementary kinetic theory of gases: equilibrium properties pressure and equation of state; transport processes momentum transport and viscosity, energy transport and thermal conductivity, charge transport & electrical conductivity (without using Boltzmann transport equation); entropy, multiplicity and disorder: entropy measures multiplicity rather than disorder, illustration with simple examples; Maxwells demon; qualitative justifications of laws of thermodynamics (without introducing ensembles),thermodynamics of irreversible processes: entropy production.
+
+Course PHY218 - OPTICS LAB
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-4-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experiments based on Fresnels equations, study of optical surfaces, Fraunhoferand Fresnel diffraction, interferometers, modulation transfer function, fibre optics, spatial filtering, characteristics of HeNe and diode lasers, etc.
+
+Course PHY224 - OPTICAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Review of Maxwell’s equations, wave equation and solutions for plane andspherical wavesLinear dispersion theoryDerivation and discussion of Fresnel’s equations Polarization states of polarization, Jones vectors, Jones matrices, index ellipsoid Interference basics, 2beam, Nbeam discussion, interferometers Michelson and FabryPerot, multilayers for high and antireflection Diffraction Kirchhoff integral, Fraunhofer diffraction, diffraction grating coherence spatial, temporal coherence, measurement techniques, mutual coherence function, coherency matrix Course Reference: 1. M. Born and E. Wolf, Principles of Optics (Cambridge Univ Press); 2.J. B. Peatross and M. Ware: Physics of Light and OpticsThis book is freely available at http://optics.byu.edu/BYUOpticsBook.pdf 3.F.L.Pedrotti, L.M. Pedrotti and L.S. Pedrotti: Introduction to Optics (Pearson InternationalEdition); 4. A. Ghatak, Optics (Tata McGrawHill); 5. E.Hecht, Optics (AddisonWesley); 6. K.K. Sharma, Optics: Principles and Applications (Academic Press)
+
+Course PHY224A - OPTICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-0-6-0-12. Source: Courses of Study 2021, IIT Kanpur.
+Review of Maxwell’s equations, wave equation and solutions for plane and spherical waves Linear dispersion theory. Derivation and discussion of Fresnel’s equations Polarization states of polarization, Jones vectors, Jones matrices, index ellipsoid Interference basics, 2 beam, N beam discussion, interferometers Michelson and FabryPerot, multilayers for high and antireflection Diffraction Kirchhoff integral, Fraunhofer diffraction, diffraction grating Coherence spatial, temporal coherence, measurement techniques, mutual coherence function, coherency matrix Course Reference: 1.M.Born and E.Wolf, Principles of Optics (Cambridge Univ Press); 2.J. B. Peatross and M. Ware: Physics of Light and OpticsThis book is freely available at http://optics.byu.edu/BYUOpticsBook.pdf; 3.F.L. Pedrotti, L.M. Pedrotti and L.S.Pedrotti: Introduction to Optics (Pearson InternationalEdition); 4.A.Ghatak, Optics (Tata McGrawHill); 5.E.Hecht, Optics (AddisonWesley); 6. K.K.Sharma, Optics: Principles and Applications (Academic Press)
+
+Course PHY226B - RELATIVITY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-6. Source: Courses of Study 2021, IIT Kanpur.
+Special Relativity: empirical evidence for the constancy of c, frames ofreference; 6Lorentz transformations; relativity of simultaneity; twin and otherparadoxes; Spacetime diagrams; Transformation laws for velocity, momentum, energy; mass energy equivalence; vectors; Force equations, kinematics of decays and collisions; Maxwell’s equations in covariant form.
+
+Course PHY301 - ENERGY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Indian and global energy resources, current energy exploitation, energy demand, energy planning, renewable energy sources, wind energy, energy from water, solar energy, energy from mineral oils, nuclear energy, energy for sustainable development, environmental concerns.
+
+Course PHY301A - ENERGY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Indian and global energy resources, current energy exploitation, energy demand, energy planning, renewable energy sources, wind energy, energy from water, solar energy, energy from mineral oils, nuclear energy, energy for sustainable development, environmental concerns.
+
+Course PHY303 - PRINCIPLES OF LASERS & THEIR APPLICATIONS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Gaussian optics, optical resonators and their mode structure, atomic levels, absorption, spontaneous and stimulated emission, Einstein coefficients, rate equations, population inversion, gain media, 3 and 4 level lasers CW &pulsed Lasers, Qswitching, modelocking, short pulses Ar+, CO2, Nd: YAg, diodelasers, etc.; metrology, optical communication, materials processing, holography, medical applications.
+
+Course PHY303A - PRINCIPLES OF LASERS & THEIR APPLICATIONS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Gaussian optics, optical resonators and their mode structure, atomiclevels, absorption, spontaneous and stimulated emission, Einstein coefficients, rate equations, population inversion, gain media, 3 and 4 level lasers CW & pulsed Lasers, Qswitching, mode locking, short pulses Ar+, CO2, Nd: YAg, diodelasers, etc.; metrology, optical communication, materials processing, holography, medical applications.
+
+Course PHY305 - PHYSICS OF UNIVERSE
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Astronomical observations and instruments, photometry, stellar spectra and structure; stellar evolution, nucleosynthesis and formation of elements, variable stars, compact stars, star clusters and binary stars, galaxies, thei revolution and origin, active galaxies and quasars, Big Bang model, early Universe and CMBR.
+
+Course PHY305A - PHYSICS OF UNIVERSE
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Astronomical observations and instruments, photometry, stellar spectra and structure; stellar evolution, nucleosynthesis and formation of elements, variable stars, compact stars, star clusters and binary stars, galaxies, thei revolution and origin, active galaxies and quasars, Big Bang model, early Universe and CMBR.
+
+Course PHY306 - ORDER AND CHAOS IN NATURE
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Dynamical systems, importance of nonlinearity, nonlinear dynamics of flows (in1, 2 and 3 dimensions) and maps (in 1, 2 dimensions) in phase space (equilibrium, periodicity, bifurcation, catastrophe, deterministic chaos, strange attractor), routes to chaos (period doubling, quasiperiodicity/intermittency, universality, enormalization), measurement of chaos (Poincar section, Lyapunovindex, entropy), fractal geometry and fractal dimension, examples from physical sciences, engineering and biology.
+
+Course PHY306A - ORDER AND CHAOS IN NATURE
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Dynamical systems, importance of nonlinearity, nonlinear dynamics of flows (in1, 2 and 3 dimensions) and maps (in 1, 2 dimensions) in phase space (equilibrium, periodicity, bifurcation, catastrophe, deterministic chaos, strange attractor), routes to chaos (period doubling, quasiperiodicity/intermittency, universality, enormalization), measurement of chaos (Poincar section, Lyapunov index, entropy), fractal geometry and fractal dimension, examples from physical sciences, engineering and biology.
+
+Course PHY307 - MODERN OPTICS (ITS PHYSICS & ENGINEERING)
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Review of Maxwell’s and electromagnetic wave equations, wave propagation inanisotropic media, polarized light, diffraction from circular aperture and conceptof resolution, Fourier transforms and Fourier optics, spatial filtering, and image processing, coherence, holography, optical waveguides and integrated optics, optical fibres, optical communication sources (LED, lasers etc.) and detectors, and optical, electro and magneto optic effects, laser matter interaction.
+
+Course PHY307A - MODERN OPTICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Review of Max wells and electromagnetic wave equations, wave propagation in anisotropic media, polarized light, diffraction from circular aperture and concept of resolution, Fourier transforms and Fourier optics, spatial filtering, and image processing, coherence, holography, optical waveguides and integrated optics, optical fibers, optical communication sources (LED, lasers etc.) and detectors, and optical, electro and magneto optic effects, laser matter interaction.
+
+Course PHY309A - INTRODUCTORY BIOPHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Living matter is no different from non-living matter. What makes living systems different from non-living ones are some ``processes that occur only in living systems. These dynamic processes are governed by the same laws of physics (and chemistry) that were discovered in non-living systems. The movements of biological systems are caused by real physical forces, the laws of thermodynamics impose constraints on which processes are possible, and laws of kinetics impose constraints on the rates of those processes. Therefore, understanding of life as a process cannot be complete without insight into the physics of these processes. This course is an elementary introduction to the physical principles underlying the key dynamic processes in living systems. Course Contents: strong (1) Mechano-biology of binding and bonding in living systems: Introduction to conservative, dissipative and random forces; molecular binding/unbinding events, probing non-covalent ligand receptor interactions with molecular force spectroscopy- slip bond versus catch bond. (2) Statistical thermodynamics for living systems: Concepts of conformation and structure of macromolecule of life; free energy change and generalized chemical force; concepts of thermodynamic equilibrium and non-equilibrium steady- state; coupled processes and engines of Life (3) Kinetics of mechano-chemical processes in living cells: Stepping of a motor protein; single molecule enzymology, fluctuating enzymatic reactions in a living cell- Michaelis-Menten form for the average rate; substrate specificity of an enzyme- induced fit versus conformational selection, kinetic proofreading for specificity amplification and role of energy dissipation; (4) Cellular and intracellular movements : Diffusion- transport in bacterial cells; transport by motor proteins in eukaryotic cells; cooperativity of motors in vesicular transport; bi-directional movements of organelles by competing motors; motor-driven export/import of polymers of life across internal membranes; movements of chromosomes during mitosis. (5) Polymers of life and template-directed polymerization: stretching and entropic spring; bending elasticity and persistence length; transcription and translation as examples of template directed polymerization, competing demands of speed and fidelity; stall, back tracking and slippage of polymerization machinery; programmed errors and recoding. (6) Entropy, information, self-organization and emergence of life: Shannon entropy and information; evolution of genetic information encoding and information processing mechanisms; essential signatures of life and its definition- debates and controversies; plausible pathways for emergence of life- roles of energy and information. Course Reference: 1. Physical Biology of the Cell by R. Phillips et al. (Taylor &amp; Francis, 2009); 2. Biological Physics: Energy, Information, Life&rdquo; by P. Nelson (Freeman, 2014); 3. Mechanics of the Cell; by D. Boal (Cambridge Univ. Press, 2012); 4. Biophysics: searching for principles, by W. Bialek (Princeton Univ. Press, 2012. Lecture &amp; Venue As announced by OARS. E-mail id of instructor: debch@iitk.ac.in; Evaluation Components &amp; Policies: End-semester Examination (weightage: 55%). Mid-semester Examination (weightage: 35%); Quizzes (combined weightage: 10%)
+
+Course PHY311 - PHYSICS OF NON- EQUILIBRIUM PHENOMENA
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction: examples of nonequilibrium phenomena(i) glass transition;(ii) nucleation; (iii) phase separation; experimental probes: dynamic scattering; inelastic neutron scattering, theoretical tools: two alternative theoretical approaches (a) Langevin equation dissipation, nonlinearity and noise; illustration with translational Brownian motion; (b) Fokker Planck equation diffusion and drift; illustration with (i) translational Brownian motion, (ii)rotational Brownian motion; master equation loss and gain of probabilities; concept of detailed balance metastability and bistability: Kramers theory of thermally activated barrier crossing applications in (i) chemical reactions(ii) rock magnetism. enhancing signals with the help of noise applications of stochastic resonance in (a) nonlinear optics, (b) solid state devices, (c)neuroscience, (d) molecular motors and biological locomotion; BeckerDoring theory of homogeneous nucleation and its modern extensions applicationsin (a) condensation and (b) crystallization. unstable states: AllenCahn scenarioof interfacial dynamics and domain growth applications to domain growth inquenched magnets; LifshitzSlyozov arguments for phase separation controlled by topological defects: application to liquid crystals; theory of coarsening of cellular patterns applications to soap froths (e.g., shaving foams); nonequilibrium steady states in driven system: drivensystems of interacting particles applications to vehicular traffic; driven surfaces applications in molecular beam epitaxy (MBE).
+
+Course PHY311A - PHYSICS OF NON- EQUILIBRIUM PHENOMENA
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction: examples of nonequilibrium phenomena(i) glass transition;(ii) nucleation; (iii) phase separation; experimental probes: dynamic scattering; inelastic neutron scattering, theoretical tools: two alternative theoretical approaches (a) Langevin equation dissipation, nonlinearity andnoise; illustration with translational Brownian motion; (b) Fokker Planck equation diffusion and drift; illustration with (i) translational Brownian motion, (ii)rotational Brownian motion; master equation loss and gain of probabilities; concept of detailed balance metastability and bistability: Kramers theory of thermally activated barrier crossing applications in (i) chemical reactions(ii) rock magnetism. enhancing signals with the help of noise applications of stochastic resonance in (a) nonlinear optics, (b) solid state devices, (c)neuroscience, (d) molecular motors and biological locomotion; Becker Doring theory of homogeneous nucleation and its modern extensions applications in (a) condensation and (b) crystallization. unstable states: Allen Cahn scenario of interfacial dynamics and domain growth applications to domain growth inquenched magnets; LifshitzSlyozov arguments for phase separation controlledby topological defects: application to liquid crystals; theory of coarsening ofcellular patterns applications to soap froths (e.g., shaving foams); nonequilibrium steady states in driven system: driven systems of interacting particles applications to vehicular traffic; driven surfaces applications in molecular beam epitaxy (MBE).
+
+Course PHY312 - QUANTUM PROCESSES IN LOW DIMENSIONAL SEMICONDUCTORS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3----4. Source: Courses of Study 2021, IIT Kanpur.
+Characteristic length scales for quantum phenomena; scaling as a heuristic tool; scientific and technological significance of nanostructures and mesoscopic structures. brief introduction to quantum view of bulk solids, introduction tokey ideas in transport and interaction of photons with material. Quantum structures: electronic properties: science and technology realizing low dimensional structures; MBE, MOCVD, Langmuir Blodgett films, novel processes; electronic properties of hetero structures, quantum wells, quantum wires, quantum dots, and super lattices, strained layer super lattices; transport in mesoscopic structures. Resonant tunneling, hot electrons, conductance and transmission of nanostructures; principles of application of electronic devices. quantum structures: optical properties: optical process in low dimensional semiconductors. absorption. luminescence, excitons. application to lasers and photodetectors, transport in magnetic field: magneto transport: transport in magnetic field, semiclassical description, quantum approach, Aharonov Bohm effect, Shubnikov deHaas effect; introduction to quantum Hall effect.
+
+Course PHY311A - QUANTUM PROCESSES IN LOW DIMENSIONAL SEMICONDUCTORS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Characteristic length scales for quantum phenomena; scaling as a heuristic tool; scientific and technological significance of nanostructures and mesoscopic structures. brief introduction to quantum view of bulk solids, introduction tokey ideas in transport and interaction of photons with material. Quantum structures: electronic properties: science and technology realizing low dimensional structures; MBE, MOCVD, Langmuir Blodget films, novel processes; electronic properties of hetero structures, quantum wells, quantum wires, quantum dots, and superlattices, strained layer super lattices; transport in mesoscopic structures. resonant tunneling, hot electrons, conductance and transmission of nanostructures; principles of application of electronic devices. quantum structures: optical properties: optical process in low dimensional semiconductors. absorption. luminescence, excitons. application to lasers and photo detectors, transport in magnetic field: magneto transport: transport in magnetic field, semiclassical description, quantum approach, Aharonov Bohm effect, Shubnikov deHaas effect; introduction to quantum Hall effect.
+
+Course PHY312 - NATURAL NANO MACHINES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Examples of nanomachines in living cells; differences between macroscopic and nano machines; world of nanometer and picoNewton; stochastic dynamics of nanomachines; experimental, computational and theoretical techniques; imaging and manipulating single machines; Power stroke versus Brownian ratchet mechanism; mechanochemistry of nanomachines; energetics and efficiency of nanomachines; intracellular cargo transporters; nanosize unzippers; nanosize engines for polymerization of macromolecules; exporters/importers of macromolecules; packaging machines; switches and latches; ion pumps; flagellar motor; rotary motors of ATP synthesizer; molecular sensors hair cells; nanopistons and cell crawling.
+
+Course PHY311A - MODERN PHYSICS LABORATORY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-0-4-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Modern experimental techniques with a view to demonstrate the basic conceptsin physics through experiments. this course has three components: a) onelecture per week: observation, measurements, quantification and accuracies in physics, error analysis. experiments that changed classical physics: blackbody radiation, the discovery of electron, quantization of charge, e/m ratios, Millikans oil drop experiment, Stern Gerlach experiment, Rutherford scattering, Davisson Germer experiment, discovering atomic nature through optical spectroscopy; production and measurement of high pressure and high vacuum, low and high temperatures; femto seconds to light years. b) laboratory work (twice a week): a current list of experiments is available with the Department. c) small project/open ended experiments: These experiments will be chosenby students after brief library search in consultation with the associated faculty. These, may be carried out in research labs and using central facilities.
+
+Course PHY315A - MODERN PHYSICS LABORATORY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-0-6-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Modern experimental techniques with a view to demonstrate the basic conceptsin physics through experiments. this course has three components: a) one lecture per week: observation, measurements, quantification and accuraciesin physics, error analysis. experiments that changed classical physics: blackbody radiation, the discovery of electron, quantization of charge, e/m ratios, Millikans oil drop experiment, Stern Gerlach experiment, Rutherford scattering, Davisson Germer experiment, discovering atomic nature through optical spectroscopy; production and measurement of high pressure and high vacuum, low and high temperatures; femto seconds to light years. b) laboratory work (twice a week): a current list of experiments is available with the Department. c) small project/open ended experiments: These experiments will be chosenby students after brief library search in consultation with the associated faculty. These, may be carried out in research labs and using central facilities.
+
+Course PHY399A - TECHNICAL COMMUNICATION
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-2-2-4. Source: Courses of Study 2021, IIT Kanpur.
+TECHNICAL COMMUNICATION
+
+Course PHY400 - INTRODUCTION TO THE DEPARTMENT
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-0-0-5. Source: Courses of Study 2021, IIT Kanpur.
+The course will expose the students to research areas being pursued in the Department, and issues relevant to research as a profession. Faculty members from different sub disciplines would deliver lectures. Visits to Laboratories of the Department and relevant acilities may be arranged. Course will be zero credits; S/X grade to be given.
+
+Course PHY400A - INTRODUCTION TO THE DEPARTMENT
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-5-0-5. Source: Courses of Study 2021, IIT Kanpur.
+The course will expose the students to research areas being pursued in the Department, and issues relevant to research as a profession. Faculty members from different sub disciplines would deliver lectures. Visits to Laboratoriesof the Department and relevant acilities may be arranged. Course will be zero credits; S/X grade to be given. 21-JUL-2014
+
+Course PHY401 - CLASSICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Review of Newtonian mcdnnics: Basicassumption; constraints, principle of virtual work, Alembert’s cprinciple, generalized coordinates [3] Lagrangian mechanics: Calculu of variations, Principle of least action, Lagrange’s equation, Symmetries and Noether’stheorem [8] Hamilton’s equations, phase space&. phase trajectories, LiuviuUe’s theorem [3]smalt oscillations, normal modes, anharmonic and nonlinear oscillators, Nonlinear dynamicsChaos (Hamiltonian systems in dissipative systems); strations using Duffing oscillator, double pendulum, three body problem, etc. [10]Continuum mechanics, Waves in continuous media, NavierStokes Eqn., Pressure waves [3]canonical transformations, Poisson brackets, Hamitton Jacobi theory, Actionangle variables(recommend: central force discussed here) [7]rigid body dynamics [6] Course Reference: 1. L. D. Landau and E. M. Lisfsitz, Mechanics, Courses of Theoretical Physics, Oxford: Pergamon, 1976; 2. H. Goldstein, C. P. Poole, and J. L. Safko, Classical Mechanics, Addison Wesley, 2001 (Indian Ed. available); 3.H. C. Corben and P. Stehle, Classical Mechanics, Dover, 1994; 4. T. W. B. Kibble, Classical Mechanics, Addison Wesley, 1994 (Indian Ed. available); 5. H. Strogatz, Nonlinear Dynamics and Chaos, Levant, 2007 (Indian Ed.)
+
+Course PHY401A - CLASSICAL MECHANICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+1.) Review of Newton's laws of motion, Galilean transformations, Frames of reference and pseudoforces. Symmetries in Newton's laws, Lagrangian formulation, Configuration space. Calculus of variations, Hamilton's principle of least action, Euler Lagrange's equations, Conserved quantities and Noether's theorem. Small oscillations and normal modes, An harmonic oscillators, Resonances in harmonic and an harmonic oscillaors, Parametric resonance. Secular (regular) perturbation theory, Lindtstedt-Poincare method. Rigid body dynamics. Tutorial problems: One degree of freedom (DOF) and 2) DOF simple harmonic oscillators, Double pendulum, Motion in central force field, System of particles, Charged particle in an Elecromagnetic field, Lagrangian formulation of relativistic mechanics, etc. Fixed points and linear stability analysis, Limit cycles, Flow on a torus and quasi periodicity, Qualitative discussion of Poincare-Bendixon theorem (no chaos in 2D autonomous flow). Legendre transformation, Hamiltonian formulation, Phase plane, Integral invariants, Symplectic area conservation, (Generalized) Liouville's theorem, Poincare recurrence theorem, Modified Hamilton's principle. Canonical transformations, Infinitesimal canonical transformations, Poisson brackets, Active view versus passive view of canonical transformations. Principle of varying action and Hamilton-Jacobi theory, Optico-mechanical analogy, Action-angle variables 3.) Lorenz system, Chaotic attractor, Lyapunov exponents. Qualitative discussion of non-integrability and chaos in Hamiltonian systems.N.B.: The topics in boldface* are essential for Classical Mechanics II. Course Reference: 1. J. V. Jose & E. J. Saletan, Classical Dynamics, Cambridge University Press (1998); 2. I. C. Percival & D. Richards, Introduction to Dynamics, Cambridge University Press (1982); 3. L. D. Landau & E. M. Lifshitz, Mechanics, Butterworth-Heinemann (1976); 4. H. Goldstein, Classical Mechanics, Addison-Wesley (1 980); 5. J. L. McCauley, Classical Mechanics, Cambridge University Press (1997); 6. I. M. Gelfand & S. V. Fomin, Calculus of Variations, Dover Publications (2000); 7. S. H. Strogatz, Nonlinear Dynamics and Chaos, Westview Press (2001 ).
+
+Course PHY402A - CLASSICAL MECHANICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Review of essential basic concepts of Classical Mechanics I (PHY401), Integrable and super integrable systems, Lax pairs, Bihamiltonian systems, Toda lattice; 1.5 DoF systems: Extended phase space, Rapidly oscillating systems, Adiabatic invariance, Hannay angle, Poincare map, Homoclinic tangle, Melnikov method, Chaos in horseshoe map and symbolic dynamics; 2 DoF systems: Canonical perturbation theory, Problem of small divisors, Area-preserving maps, Poincar & eacute;-Birkhoff theorem, Introduction to KAM theory, Local vs. widespread/global chaos, Chirikov resonance-overlap criterion, Canonical perturbation theory, Problem of small divisors, Area-preserving maps, Poincar&eacute;-Birkhoff theorem, Introduction to KAM theory, Local vs. widespread/global chaos, Chirikov resonance-overlap criterion; 2 DoF systems: Geometry of resonances, Overview (no proofs) of Nekhoroshev theorem and Arnold diffusion, Fermi; Ulam-Tsingou problem, Kuramoto model and synchronization; Continuous systems: Lagrangian and Hamiltonian formulations. Recommended Course Reference : 1. J. V. Jose &amp; E. J. Saletan, Classical Dynamics, Cambridge University Press (1998); 2. H. Goldstein, C. Poole, &amp; J. Safko, Classical Mechanics, Addison-Wesley (2001); 3. A. Lichtenberg &amp; M. Lieberman, Regular and Chaotic Dynamics, Springer (1992); 4. M. Tabor, Chaos and Integrability in Nonlinear Dynamics, Wiley-Interscience (1974); 5. S. Wiggins, Introduction to Applied Nonlinear Dynamical Systems and Chaos, Springer (2003); 6. A. Goriely, Integrability and Nonintegrability of Dynamical Systems, World Scientific (2001).
+
+Course PHY407 - SPECIAL & GENERAL RELATIVITY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Special Relativity: empirical evidence for the constancy of c, frames of reference;Lorentz transformations; relativity of simultaneity; twin and other paradoxes,transformation laws for velocity, momentum, energy; massenergy equivalence;force equations, kinematics of decays and collisions, Maxwells equationsin covariant form, representations of the Lorentz group and SL(2,C).Introduction to General Relativity: principle of equivalence; Machs principle,Riemannian geometry; Christoffel symbols, the curvature and stress energy tensors; the gravitational field equations; geodesics and particle trajectories, Schwarzchild solution; experimental tests, basic cosmology, FRW metric; cosmological expansion; cosmic microwave background; helium abundance; anisotropies in the CMBR.
+
+Course PHY407A - SPECIAL & GENERAL RELATIVITY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Special Relativity: empirical evidence for the constancy of c, frames of reference;Lorentz transformations; relativity of simultaneity; twin and other paradoxes,transformation laws for velocity, momentum, energy; massenergy equivalence;force equations, kinematics of decays and collisions, Maxwells equationsin covariant form, representations of the Lorentz group and SL(2,C).Introduction to General Relativity: principle of equivalence; Machs principle,Riemannian geometry; Christoffel symbols, the curvature and stressenergytensors; the gravitational field equations; geodesics and particle trajectories, Schwarzchild solution; experimental tests, basic cosmology, FRW metric; cosmological expansion; cosmic microwave background; helium abundance; anisotropies in the CMBR.
+
+Course PHY412 - STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+1. Review of Thermodynamics, Probability theory, Random Walk, Brownianmotion, Diffusion Equation, idea of Langevin and Fokker Planck Equations; 2. Basic principles of Equilibrium Classical Statistical Mechanics, MicroCanonical, Canonical and Grand Canonical ensembles; 3. Quantum Statistical Mechanics, Density Matrix, Ideal Quantum Gases andtheir properties, BoseEinstein Condensation, Free Electron gas; 4 a)Ising model of Magnetism, Transfer Matrix method, Mean field theory b) Phase Transitions, CurieWeiss theory, Landau theory, Scaling near acritical point. Course Reference: 1. Reif, Huang, Pathria, Landau and Lifshitz, S. K. Ma, Chaudhury and Stauffer; 2. A.C. Melissiuos and J. Napolitano, Experiments in Modern Physics, znct ed. (Academic Press, Amsterdem, 2003); 3. Resource Files on Experiments maintained in the Laboratory; 4. P. R. Beviugton, Data Reduction and Error Analysis for Physical Sciences (McGraw Hill, 1969).
+
+Course PHY412A - STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+1. Review of Thermodynamics, Probability theory, Random Walk, Brownianmotion, Diffusion Equation, idea of Langevin and FokkerPlanck Equations [8]2. Basic principles of Equilibrium Classical Statistical Mechanics, MicroCanonical, Canonical and Grand Canonical ensembles. [10]3. Quantum Statistical Mechanics, Density Matrix, Ideal Quantum Gases andtheir properties, BoseEinstein Condensation, Free Electron gas [10]4 aIiasing model of Magnetism, Transfer Matrix method, Mean field theory [4]b) Phase Transitions, CurieWeiss theory, Landau theory, Scaling near acritical point. [8] Course Reference: 1. Reif, Huang, Pathria, Landau and Lifshitz, S. K. Ma, Chaudhury and Stauffer; 2. A.C. Melissiuos and J. Napolitano, Experiments in Modern Physics, znct ed. (Academic Press, Amsterdem, 2003); 3. Resource Files on Experiments maintained in the Laboratory; 4. P. R. Beviugton, Data Reduction and Error Analysis for Physical Sciences (McGraw Hill, 1969).
+
+Course PHY421 - MATHEMATICAL METHODS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Vector analysis; curvilinear coordinates; matrices and vector spaces, tensors, function spaces; Hilbert spaces; orthogonal expansions; operators ininfinite dimensional spaces, Fourier series and Fourier transform, generalized functions; Dirac delta function, groups and their representations; discrete groups, Lie groups and Lie algebras, applications.
+
+Course PHY421A - MATHEMATICAL METHODS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Vector analysis; curvilinear coordinates; matrices and vector spaces, tensors, function spaces; Hilbert spaces; orthogonal expansions; operators ininfinite dimensional spaces, Fourier series and Fourier transform, generalized functions; Dirac delta function, groups and their representations; discrete groups, Lie groups and Lie algebras, applications.
+
+Course PHY422 - MATHEMATICAL METHODS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Functions of a complex variable, ordinary differential equations, special functions, differential operations and SturmLiouville theory, partial differential equations, Greens functions.
+
+Course PHY422A - MATHEMATICAL METHODS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Functions of a complex variable, ordinary differential equations, special functions, differential operations and SturmLiouville theory, partial differential equations, Greens functions.
+
+Course PHY431 - QUANTUM MECHANICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Origins of Quantum Theory, Schroedinger Equation, Applicationto OneDimensional Problems, WKB Approximation, Central Potentials, Quantum Harmonic Oscillator, Hydrogen Atom, Hilbert Space Formalism for Quantum Mechanics, Synunetries inQuantum Mechanics, Angular Momentum, Addition of Angular Momenta, Identical Particles, Spin and Statistics, Pauli Exclusion Principle, Variational Method, Applications to Helium Atomand Hydrogen Molecule Ion.
+
+Course PHY431A - QUANTUM MECHANICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Origins of Quantum Theory, Schroedinger Equation, Applicationto One Dimensional Problems, WKB Approximation, Central Potentials, Quantum Harmonic Oscillator, Hydrogen Atom, Hilbert Space Formalism for Quantum Mechanics, Synunetries inQuantum Mechanics, Angular Momentum, Addition of Angular Momenta, Identical Particles, Spin and Statistics, Pauli Exclusion Principle, Variational Method, Applications to Helium Atomand Hydrogen Molecule Ion.
+
+Course PHY432 - QUANTUM MECHANICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Bound State Perturbation Theory, TimeDependent PerturbationTheory, Semiclassical Treatment of Radiation, Scattering Theory, Relativistic Wave Equations, Foundational Issues in Quantum Mechanics, Quantum Computation. (1) Powell and Crasemaun (2) Feymnan Lectures vol. III (3) Merzbacher (4) Gasiorowicz (5) Schiff (6) Sakurai (7) LandauLifshitz (8) CohenTaunoudji (9) Griffiths
+
+Course PHY432A - QUANTUM MECHANICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Bound State Perturbation Theory, Time Dependent PerturbationTheory, Semiclassical Treatment of Radiation, Scattering Theory, Relativistic Wave Equations, Foundational Issues in Quantum Mechanics, Quantum Computation. (1) Powell and Crasemaun (2) Feymnan Lectures vol. III (3) Merzbacher (4) Gasiorowicz (5) Schiff (6) Sakurai (7) LandauLifshitz (8) CohenTaunoudji (9) Griffiths
+
+Course PHY441 - ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-1-4--5. Source: Courses of Study 2021, IIT Kanpur.
+Review of network theorems and network analysis Operation Amplifier and negative feedback OpAmp limitations and applications Circuits with OpAmps and diodes Interfacing BJT with OpAmps MOSFETs Digital electronics: Gates, flipflops, counters, timers Microcontroller: basics and architecture Assembly language programming with microcontroller applications; Course Reference: 1. The art of electronics; by P. Horowitz and W. Hill; Student Manual for The Art of Electronics; by T. C. Hayes and P. Horowitz; 2. OpAmps and linear integrated circuits; by R.A. Gayakwad; 3. Digital fundamentals; by T. L. Floyd; 4. Digital computer electronics; by A.P. Malvino and J.A. Brown; 5. The 8051 Microcontroller: architecture, programming and applications; by K. J. Ayala
+
+Course PHY441A - ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-1-3--11. Source: Courses of Study 2021, IIT Kanpur.
+Review of network theorems and network analysis Operation Amplifier and negative feedback OpAmp limitations and applications Circuits with OpAmps and diodes Interfacing BJT with OpAmps MOSFETs Digital electronics: Gates, flipflops, counters, timers Microcontroller: basics and architecture Assembly language programming with microcontroller applications; Course Reference: 1. The art of electronics; by P. Horowitz and W. Hill; Student Manual for The Art of Electronics; by T. C. Hayes and P. Horowitz; 2. OpAmps and linear integrated circuits; by R.A. Gayakwad; 3. Digital fundamentals; by T. L. Floyd; 4. Digital computer electronics; by A.P. Malvino and J.A. Brown; 5. The 8051 Microcontroller: architecture, programming and applications; by K. J. Ayala
+
+Course PHY461 - EXPERIMENTAL PHYSICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experiments in General Physics, Optics, Nuclear Physics and Condensed MatterPhysics (List of current experiments available with the Physics Department in the form of a manual).
+
+Course PHY461A - EXPERIMENTAL PHYSICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-8. Source: Courses of Study 2021, IIT Kanpur.
+Experiments in General Physics, Optics, Nuclear Physics and Condensed MatterPhysics (List of current experiments available with the Physics Department in the form of a manual).
+
+Course PHY462 - EXPERIMENTAL PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experiments in General Physics, Optics, Nuclear Physics and Condensed Matter Physics (List of current experiments available with the Department in the formof a manual).
+
+Course PHY462A - EXPERIMENTAL PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-8. Source: Courses of Study 2021, IIT Kanpur.
+Experiments in General Physics, Optics, Nuclear Physics and Condensed Matter Physics (List of current experiments available with the Department in the form of a manual).
+
+Course PHY473 - COMPUTATIONAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-1-0-3-5. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to computers, FORTRAN/C; finite difference calculus, interpolation and extrapolation, roots of equations, solution of simultaneous linear algebraicequation, least squares curve fitting, numerical integration, numerical solutionof ordinary differential equations, matrix eigenvalue problems.
+
+Course PHY473A - COMPUTATIONAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-0-2-0-8. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to computers, FORTRAN/C; finite difference calculus, interpolationand extrapolation, roots of equations, solution of simultaneous linear algebraic equation, least squares curve fitting, numerical integration, numerical solution of ordinary differential equations, matrix eigenvalue problems.
+
+Course PHY500 - M SC REVIEW PROJECT I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+M.Sc. Review Project I
+
+Course PHY501 - M SC REVIEW PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-9--4. Source: Courses of Study 2021, IIT Kanpur.
+M.Sc. Review Project II
+
+Course PHY501A - M SC REVIEW PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-9--9. Source: Courses of Study 2021, IIT Kanpur.
+M.Sc. Review Project II
+
+Course PHY502 - M.SC. REVIEW PROJECT III
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+M.Sc. Review Project III
+
+Course PHY502A - M.SC. REVIEW PROJECT III
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-8. Source: Courses of Study 2021, IIT Kanpur.
+M.Sc. Review Project III
+
+Course PHY502N - M SC EXPERIMENTAL PROJECT III
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Student must carry out review of an advanced topic of current interest andmake a presentation to an Evaluation Committee. Letter Grades will be awarded.PHY 500: M.Sc. Review Project IPHY 501: M.Sc. Review Project II, PHY 502: M.Sc. Review Project III: These projects will involve literature survey and collection of material, Detailed study of the material, verification of results and writing of the review. Review Projects will include exposure to and conduct of Experiments as required.
+
+Course PHY524 - INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Atomic Physics: Review of atomic structure of H, atomic structureof two electron system, alkali system, HartreeFock method, LS coupling,molecular binding, LCAO, LCMO; molecular spectra (electronic, rotational,vibrational etc.), Raman effect, modern experimental tools of spectroscopy.Nuclear Physics: General properties of nuclei, nuclear two body problem, nuclear force and nuclear models, nuclear decay, nuclear reaction kinematicsand classification of nuclear reactions (compound nuclear, direct etc),heavy ion reactions, nuclear fission and fusion, brief overview of ion beam applications for materials and solid state studies, modern experimental tools of pure and applied nuclear physics.
+
+Course PHY524A - INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Atomic Physics: Review of atomic structure of H, atomic structure of two electron system, alkali system, HartreeFock method, LS coupling, molecular binding, LCAO, LCMO; molecular spectra (electronic, rotational, vibrational etc.), Raman effect, modern experimental tools of spectroscopy. Nuclear Physics: General properties of nuclei, nuclear two body problem, nuclearforce and nuclear models, nuclear decay, nuclear reaction kinematics and classification of nuclear reactions (compound nuclear, direct etc),heavy ion reactions, nuclear fission and fusion, brief overview of ion be amapplications for materials and solid state studies, modern experimental tools of pure and applied nuclear physics.
+
+Course PHY526A - NUCLEAR AND PARTICLE PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Nuclear Physics: General properties of nuclear two body problem, Nuclear force and nuclear models, Nuclear decay, Nuclear reaction kinematics, Scattering and reaction cross section, Optical Model, Classification of nuclear reactions (compound nuclear, direct etc.), BreitWigner resonance formula, Nuclear fission and fusion. Particle Physics: Natural Units, Evidence for four fundamental interactions, Leptons and hadrons, Historical introduction to the particle zoo, introduction to cross sections and decay rates, Particle accelerators and detectors, invariance principles and conservation laws of parity, Charge conjugation, Time reversal and CP, isospin, Strangeness. Course Reference: 1. Kaplan, Nuclear Physics (Narosa); 2. S. Krane, Introduction to Nuclear Physics (Wiley); 3. D.H. Perkins, Introduction to High Energy Physics (Cambridge University Press).
+
+Course PHY543 - CONDENSED MATTER PHYSICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Free electron theory; heat capacity; transport properties; Hall effect; elementary concepts of quantum Hall effect, quantization of conductance in a metallic nanowire Structure and scattering; crystalline solids, liquids and liquid crystals; nanostructures; buckyballs, Energy band theory; Bloch’s theorem; nearly free electron model; tight binding model; application to graphene and nanotubes, semiclassical dynamics; notion of an electron in a DC electric field; effective mass, holes, crystal binding; types of solids; van der Waals solids, ionic and covalent solids, metals, Phonons and heat capacity; lattice vibrations; adiabatic & harmonic approximations, vibrations of mono and diatomic lattices, lattice heat capacity, Einstein and Debye models Semiconductors; intrinsic & extrinsic semiconductors, laws of mass action, electron & holemobilities. Impurity levels, pnjunctions Superconductivity: experimental survey, Meissner effect, London’s equation, BCS theory, Ginzburg Landau theory, flux quantization, Magnetism: exchange interaction, diamagnetism, paramagnetism, ferromagnetism & antiferromagnetism, Hund’s rules, Pauli paramagnetism, Heisenberg model, mean field theory, spin waves, RK.KY interaction, giant and colossal magneto resistance. Course Reference: 1. Introduction to Solid State Physics by C. Kittel; 2. Solid State Physics by N. W. Ashcroft and N. D. Mermin; 3. Solid State Physics by H Ibach and Hans Luth.
+
+Course PHY543A - CONDENSED MATTER PHYSICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Free electron theory; heat capacity; transport properties; Hall effect; elementary concepts of quantum Hall effect, quantization of conductance in a metallic nanowire Structure and scattering; crystalline solids, liquids and liquid crystals; nano structures; bucky balls, Energy band theory; Bloch’s theorem; nearly free electron model; tight binding model; application to graphene and nanotubes, semiclassical dynamics; notion of an electron in a DC electric field; effective mass, holes, crystal binding; types of solids; van der Waals solids,ionic and covalent solids, metals,Phonons and heat capacity; lattice vibrations; adiabatic & harmonic approximations, vibrations of mono and diatomic lattices, lattice heatcapacity, Einstein and Debye models Semiconductors; intrinsic & extrinsic semiconductors, laws of mass action, electron & hole mobilities. Impurity levels, pnjunctions Superconductivity: experimental survey, Meissner effect, London’s equation, BCS theory, Ginzburg Landau theory, flux quantization, Magnetism: exchange interaction, diamagnetism, paramagnetism, ferromagnetism & anti ferromagnetism, Hund’s rules, Pauli paramagnetism, Heisenberg model, mean field theory, spin waves, RK.KY interaction, giant and colossal magneto resistance. Course Reference: 1. Introduction to Solid State Physics by C. Kittel; 2. Solid State Physics by N. W. Ashcroft and N. D. Mermin; 3. Solid State Physics by H Ibach and Hans Luth
+
+Course PHY552 - CLASSICAL ELECTRODYNAMIC S I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Electrostatics Laplace and Poisson equatlons; ciil.d, their solutions. CToil.S, Uniqueness theorem, multipole expansion (11 lectures) Magnetostatics (12 lectures) Boundaryvalue problems involving dielectrics and magnetic materials(6 lectures) Maxwell’s equations, electromagnetic waves in medium, Poyntings; theorem, momentum and angular momentum of electromagnetic fields (10 lectures) Electromagnetic radiation, retarded potentials, Lorentz and Coulomb gaugeI(11 lectures )relativistic transformation of electric and magnetic fields (45lectures) Classical Electrodynamics, John D. Jackson
+
+Course PHY552A - CLASSICAL ELECTRODYNAMIC S I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Electrostatics Laplace and; Poisson equations; ciil.d ;their SOh.f.;CToil.S,Uniqueness theorem, multipole expansion (11 lectures) Magnetostatics (12 lectures) Boundary value problems involving dielectrics and magnetic materials(56 lectures) Maxwells equations, electromagnetic waves in medium, Poyntings theorem, momentum and angular momentum of electromagnetic fields (10 lectures) Electromagnetic radiation, retarded potentials, Lorentz and Coulomb gaugeI 11 lectures) relativistic transformation of electric and magnetic fields (5 lectures) Classical Electrodynamics, John D. Jackson
+
+Course PHY553 - CLASSICAL ELECTRODYNAMIC S II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Special relativity, Minkowski space and four vectors, concept of four velocity, four acceleration and higher rank tensors, relativistic formulation of electrodynamics, Maxwell equations in covariant form, gauge invariance and four potential, the action principle and electromagnetic energy momentum tensor. Linard Weichert potentials, radiation from an accelerated charge, Larmor formula, brems strahlung and synchrotron radiation, multipole radiation, dispersion theory, radiative reaction, radiative damping, scattering by free charges; applications to waveguides, fibres and plasmas.
+
+Course PHY553A - CLASSICAL ELECTRODYNAMIC S II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Special relativity, Minkowski space and four vectors, concept of four velocity, four acceleration and higher rank tensors, relativistic formulation of electrodynamics, Maxwell’s equations in covariant form, gauge invariance and four potential, the action principle and electromagnetic energy momentum tensor. LinardWeichert potentials, radiation from an accelerated charge, Larmor formula, brems strahlung and synchrotron radiation, multipole radiation, dispersion theory, radiative reaction, radiative damping, scattering by free charges; applications to waveguides, fibres and plasmas.
+
+Course PHY553B - CLASSICAL ELECTRODYNAMIC S II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Special relativity, Minkowski space and four vectors, concept of four velocity, four acceleration and higher rank tensors, relativistic formulation of electrodynamics, Maxwell’s equations in covariant form, gauge invariance and four potential, the action principle and electromagnetic energy momentum tensor. Linard Weichert potentials, radiation from an accelerated charge, Larmor formula, brems strahlung and synchrotron radiation, multipole radiation, dispersion theory, radiative reaction, radiative damping, scattering by free charges; applications to waveguides, fibres and plasmas.
+
+Course PHY555A - BACHLOR OF SCIENCE PROJECT -1
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-4-0-4. Source: Courses of Study 2021, IIT Kanpur.
+BACHELOR OF SCIENCE PROJECT I
+
+Course PHY556A - BACHLOR OF SCIENCE PROJECT -II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-0-9-9. Source: Courses of Study 2021, IIT Kanpur.
+BACHELOR OF SCIENCE PROJECT II
+
+Course PHY563 - M.SC. PROJECT I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-11-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 1. Literature survey and preparation for the project.
+
+Course PHY563A - M.SC. PROJECT I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-11-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 1. Literature survey and preparation for the project.
+
+Course PHY565 - M.SC. PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-11-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 2. Development and testing of experimental setup.
+
+Course PHY565A - M.SC. PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-11--11. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 2. Development and testing of experimental setup.
+
+Course PHY566 - M.SC. PROJECT III
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 3. Data acquisition and analysis.
+
+Course PHY568 - M.SC. PROJECT IV
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experimental project in a research laboratory: 4. Preparation of report and interpretation of results.
+
+Course PHY570 - THEORETICAL PROJECT I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): -0-8--4. Source: Courses of Study 2021, IIT Kanpur.
+Study of a research - oriented topic in Theoretical Physics with an aim to bring the student in contact with a concrete research area of current interest. Solvinga small problem in this area is required, detailing the explicit statement of the problem, relevance and context, steps involved, tools employed, proposed work plan, and results obtained.
+
+Course PHY571 - THEORETICAL PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Advanced research oriented theoretical study in continuation of project work undertaken in PHY 570, or study of another research-oriented topic in Theoretical Physics with an aim to bring the student in contact with a concrete research area of current interest. Solving a small problem in the area is required, detailing the explicit statement of the problem, relevance and context, steps involved, tools employed, proposed work plan and results obtained.
+
+Course PHY590 - SPECIAL TOPICS IN PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-8--4. Source: Courses of Study 2021, IIT Kanpur.
+Details of contents will be announced when the course is offered. If the number of students is less than 5, this may be floated as a Reading Course for studentswith CPI 8.0 or above.
+
+Course PHY590A - SPECIAL TOPICS IN PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-9-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Details of contents will be announced when the course is offered. It the numbers of students is less than 5, this may be floated as a Reading Course for students with CPI 8.0 or above.
+
+Course PHY599 - M.SC.RESEARCH PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-24-0-12. Source: Courses of Study 2021, IIT Kanpur.
+M. Sc. Project I
+
+Course PHY599A - M.SC.RESEARCH PROJECT II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0-27-0-27. Source: Courses of Study 2021, IIT Kanpur.
+M. Sc. Project II
+
+Course PHY600 - INTRODUCTION TO HIGH PERFORMANCE COMPUTING FOR SCIENTISTS AND ENGINEERS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-5. Source: Courses of Study 2021, IIT Kanpur.
+1. Introduction to HPC and scientific computing. Overview of major applications. 2. Supercomputing architecture; multicores; shared memory; switch etc. 3. Review of basics of C/Fortran programming. 4. Programming in Message Passing Interface (MPI). 5. Programming in Open MP. 6. Case study on one major application. Course Reference: 1. P.S. Pacheco, An Introduction to Parallel Programming, Elsevier (2011); 2. M. Quinn, Parallel Programming in C and OpenMP, McGraw Hill Education (India) (2003); 3. A. Grama, A. Gupta, G. Karypis, and V. Kumar, Introduction to Parallel Computing, Pearson (220). 24-MAR-15
+
+Course PHY601 - REVIEW OF CLASSICAL MACHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Classical Mechanics, Newtons laws ofmotion, Galilean transformations, Particle mechanics, System ofparticles, Noninertial frames, Pseudoforces. Small oscillations and normal modes. Lagrangian formulation, Configuration space, Hamiltons principle of least action, Symmetries and conservation laws, Rigid bodymotion, Hamiltonian formulation. Phase space, Liouvilles theorem, Canonical transformations, Poisson brackets, HamiltonJacobi theory, Actionangle variables. Integrability, Perturbation theory, Time dependent Hamiltonian, Introduction to chaos, Chaotic attractor (and repeller), Lyapunov exponent, Special relativity. Course Reference : 1. J. V. Jose & E. J. Saletan, Classical Dynamics, Cambridge University Press (1998); 2. I. C. Percival & D. Richards, Introduction to Dynamics, Cambridge University Press(1982); 3. L. D. Landau & E. M. Lifshitz, Mechanics, ButterworthHeinemann (1976); 4. H. Goldstein, Classical Mechanics, Addison Wesley (1980); 5. S. H. Strogatz, Nonlinear Dynamics and Chaos, Westview Press (2001); 6. M. Tabor, Chaos and Integrability in Nonlinear Dynamics, Wiley Interscience (1974).
+
+Course PHY601A - REVIEW OF CLASSICAL MACHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0--9. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Classical Mechanics, Newtons laws ofmotion, Galilean transformations, Particle mechanics, System of particles, Noninertial frames, Pseudo forces. Small oscillations and normal modes. Lagrangian formulation, Configuration space, Hamiltons principle of least action, Symmetries and conservation laws, Rigid bodymotion, Hamiltonian formulation. Phase space, Liouvilles theorem, Canonical transformations, Poisson brackets, Hamilton Jacobi theory, Actionangle variables. Integrability, Perturbation theory, Time dependent Hamiltonian, Introduction to chaos, Chaotic attractor (and repeller), Lyapunov exponent, Special relativity. Course Reference : 1. J. V. Jose & E. J. Saletan, Classical Dynamics, Cambridge University Press (1998); 2. I. C. Percival & D. Richards, Introduction to Dynamics, Cambridge University Press(1982); 3. L. D. Landau & E. M. Lifshitz, Mechanics, Butterworth Heinemann (1976); 4. H. Goldstein, Classical Mechanics, AddisonWesley (1980); 5. S. H. Strogatz, Nonlinear Dynamics and Chaos, Westview Press (2001); 6. M. Tabor, Chaos and Integrability in Nonlinear Dynamics, Wiley Interscience (1974).
+
+Course PHY602 - REVIEW OF QUANTUM PHYSICS I
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Problemoriented review of basic quantum mechanics: Schrdinger equation, simple potential problems, quantum dynamics, angular momentum, perturbation theory, scattering, applications to atoms and molecules.
+
+Course PHY602A - REVIEW OF QUANTUM MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Quantum Mechanics. Historical development of quantum mechanics, wave packets, Schrodinger; sequation, twolevel systems. Solution (analytical and numerical) of time independent Schrodinger equation for various physically relevant potentials; angular momentum algebra, spherical harmonics. Numerical solution of the radial Schrodinger equation for arbitrary spherically symmetric potential. Equivalence of Heisen berg approach and Schrodinger approach; matrix mechanics. Quantization of electromagnetic field in a cavityand in free space. Approximation methods: perturbation theory andvariation principle for time independent problems, WKB approximation. Time dependent Schrodinger equation. Timedependent perturbation theory and matter radiation interaction. Selection rules for dipole radiation. Adiabatic and sudden approximations. Topics in (i) scattering theory, (ii) relativistic quantum mechanics, (ii) introduction to path integral formulation, (iv) identical particles. Problems of current interest, many body physics. Course Reference: 1. J. J. Sakurai, Modern Quantum Mechanics; 2. L.I. Schiff, Quantum Mechanics; 3. E. Merzbacher, Quantum Mechanics; 4. R. Shankar, Principles of Quantum Mechanics; 5. Loudon, Quantum theory of light.
+
+Course PHY603 - REVIEW OF CLASSICAL PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of electromagnetism, optics and thermodynamics: electric fields, potentials, Gausss law, dielectrics, magnetic fields, Ampreslaw, Faradays law, Maxwell’s equations, electromagnetic waves, interference, diffraction, polarization.
+
+Course PHY603A - REVIEW OF CLASSICAL ELECTRODYNAMIC S
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Classical Electrodynamics. Electrostatics and Magnetostatics: Methods of solving electrostatic problems in cartesian, spherical and cylindricalcoordinates, Green’s function and Boundary value problems, both analytical and numerical solutions. Multipole expansion, Macroscopic media, Dielectrics and Magnetic media. Electrodynamics: Faraday’s law, Displacement current, Poynting Vector, Conservation laws. Electromagnetic waves in free space and different media, waveguides. Radiation: Retarded potential, electric and magnetic dipole fields, linear antenna. Special Relativity: Transformation of electromagnetic fields. Scattering and diffraction, Resonant cavities, Optical fibers, Dispersion. Course Reference: 1. J. D. Jackson, Classical Electrodynamics; 2. Landau and Lifshitz, Electrodynamics of continuous media; 3. Griffiths, Electrodynamics; 4. Zangwill, Electrdynamics; 5. Reitz, Christy and Millford, Electrodynamics.
+
+Course PHY604 - REVIEW OF QUANTUM PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented survey of statistical mechanics, deuteron problem, nuclear scattering, alpha and beta decay, elementary particle phenomenology, crystalstructure, symmetry, periodic potential, bands, metals and semiconductors.
+
+Course PHY604A - REVIEW OF STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Statistical Mechanics. Review of thermodynamics: Laws of thermodynamics; thermodynamics of phase transitions and phase diagram. Review of Ensembles and rules of calculation: Microcanonical, canonical, grand canonical and other ensembles; applications tomodels of ideal classical and quantum gases. Models of classical interacting systems: Ising model in 1 dimension: exact solution by transfer matrix; Peierls Griffiths argument for Ising model in 2 dimensions; Mean field approximation for magnets and fluids, Landau Theory, critical exponents, upper and lower critical dimensions. Models of quantum interacting systems: Density matrix, Transverse Ising model, exact solution by Jordan Wigner transformation, Heisenberg model magnons; Mermin Wagner theorem; general theory of quantum phase transitions. Brief overview of Nonequilibrium statistical mechanics: Random walk and diffusion, Markov processes and master equation; Systems near equilibrium Linear Response Theory, Fluctuation Dissipation Theorem; Escape over a barrier relaxation-phenomena; critical dynamics. Supplementary reading materials for term papers: Momentum Space Renormalization Group, Realspace Renormalization Group, Duality in Statistical mechanics, Various types of series expansions, Boltzmann equation, Molecular hydrodynamics, BBGKY hierarchy; Random and glassy systems, Linear and branched Polymers, Percolation; XY model and vortices super fluidity. Course Reference: 1. M. Kardar;Statistical Physics of Particles (CUP, 2007); 2. R.K. Pathria; Statistical Mechanics; (Academic Press, 2007); 3. D. Chowdhury and D. Stauffer; Principles of Equilibrium Statistical Mechanics(Wiley, 2000); 4. B.K. Chakrabarti et al. Quantum Phase Transitions in Transverse Ising Models ;(Springer, 1996); 5. S.K. Ma, Statistical Mechanics (World Scientific, 1985); 6. L.D. Landau and E.M. Lifshitz;Statistical Mechanics; (Academic Press, 1975); 7. K. Huang; Statistical Mechanics; (Wiley, 1987).
+
+Course PHY605 - REVIEW OF MATHEMATICAL METHODS IN PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 1-3-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Problem oriented review of Mathematical Methods in Physics.Vector spaces Discrete and continuous: orthogonality, operator algebra. Hermitian and unitary operators, projection operators, matrices and applications in Physics. Calculus of variations, function spaces and Hilbert spaces, Orthogonal polynomials, expansions in orthogonal polynomials, generating functions. Integral transforms (e.g Fourier, Laplace, etc.) and applications to physics. Differential equations: General introduction to ordinary differential equations, linear first and second order ordinary differential equations, singular points, series solutions Frobenius method, second solution, inhomogeneous equations Green’s function, SturmLiouville theory, partial differential equations, characteristics, Boundary conditions. Special functions and applications in Physics. Complex analysis: Cauchy Riemann conditions, Cauchy Goursat theorem, Cauchy integral formula, Contour integrals, Taylor andLaurent Series, The residue theorem. Applications of complex analysis to physics problems. Course Reference: 1. Sadri Hassani, Mathematical Physics: a modern introduction to its foundations (Springer); 2. Arfken, Weber Mathematical Methods for Physicists (Academic Press); 3. Tulsi Dass and S. K. Sharma, Mathematical methods in Classicaland Quantum Physics (University Press); 4. A. K. Kapoor, Complex variables (World Scientific); 5. Mathews, Walker Mathematical Methods of Physics (AddisonWesley); 6. Schaum Series Vector Analysis 7. A. W. Joshi, Matrices and Tensors in Physics (New age international)
+
+Course PHY611 - ADVANCED QUANTUM MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Second quantization; interaction picture; Smatrix; diagrammatic methods; many particle Greens functions; basic techniques in manybody physics; additional topics (at the discretion of the Instructor).
+
+Course PHY612 - INTRODUCTION GROUP THEORY & ITS APPLICATION TO QUANTUM MECH.
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Elements of finite groups. representation theory. applications to physical systems: crystal symmetries. continuous groups. Lie algebras and their elementary applications. global properties of groups.
+
+Course PHY613 - ADVANCED STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Equilibrium statistical mechanics, phase transitions, critical phenomena, superfluidity, super conductivity, nonequilibrium statistical mechanics, Langvin equations, FokkerPlanck equations, ergodic hypothesis and the basic postulate.
+
+Course PHY613A - ADVANCED STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Equilibrium statistical mechanics, phase transitions, critical phenomena, superfluidity, supercondictivity, non- equilibrium statistical mechanics, Langevin equations, Fokker Planck equations, ergodic hypothesis and the basic postulate.
+
+Course PHY614 - SPECIAL TOPICS IN QUANTUM MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Path integral method of formulating quantum mechanics and its application to elementary quantum systems, formal scattering theory; Lippmann Schwinger formulation, scattering of particles with spin, stationary states, analytic properties of partial wave amplitudes, resonances, dispersion relations.
+
+Course PHY615 - NON-EQULIBRIUM STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Linear response theory, FokkerPlanck and Langvin equations, master equation; nucleation and spinodal decomposition, critical dynamics, Boltzmann equation.
+
+Course PHY615A - NON-EQULIBRIUM STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Linear response theory, FokkerPlanck and Langevin equations, master equation; nucleartion and spinodal decomposition, critical dynamics, Boltzmann equation.
+
+Course PHY616 - SOFT MATTER PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to Soft Matter, Forces, energies and time scales in soft matter, Thermodynamic aspects of inter molecular forces, van der Waals force, Hydrophobic and hydrophilic interaction, Interfacial phenomenon; wetting, adhesion and friction, Mechanical properties, Introduction to complex fluids, Fluid flow and hydrodynamic instabilities, Foams and emulsions, Polymers, colloids and Surfactants, Liquid crystals, Self assembly in soft matter, Experimental tools for soft matter. Course Reference: 1. Intermolecular and Surface Forces by Jacob N. Israelachvili (Academic Press, 1998); 2. Soft Condensed Matter by R. A. L. Jones (Oxford University Press, 2002); 3. Principles of Condensed Matter Physics by P. M. Chaikin and T. C. Lubensky (Cambridge University Press, 1995); 4. Hydrodynamic and hydromagnetic stability by S. Chandrashekhar (Oxford University Press, 1981); 5. Structured Fluids by Thomas A. Witten (Oxford University Press, 2004); 6. Structure and Rheology of Complex Fluids by Ronald G. Larson (Oxford University Press, 1999)
+
+Course PHY616A - SOFT MATTER PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to Soft Matter, Forces, energies and timescales in soft matter, Thermodynamic aspects of intermolecular forces, van der Waals force, Hydrophobic and hydrophilic interaction, Interfacial phenomenon; wetting, adhesion and friction, Mechanical properties, Introduction to complex fluids, Fluid flow and hydrodynamic instabilities, Foams and emulsions, Polymers, colloids and Surfactants, Liquid crystals, Self assembly in soft matter, Experimental tools for soft matter. Course Reference : 1. Intermolecular and Surface Forces by Jacob N. Israelachvili (Academic Press, 1998); 2. Soft Condensed Matter by R. A. L. Jones (Oxford University Press, 2002); 3. Principles of Condensed Matter Physics by P. M. Chaikin and T. C. Lubensky (Cambridge University Press, 1995); 4. Hydrodynamic and hydromagnetic stability by S. Chandrashekhar (Oxford University Press, 1981); 5. Structured Fluids by Thomas A. Witten (Oxford University Press, 2004); 6. Structure and Rheology of Complex Fluids by Ronald G. Larson (Oxford University Press, 1999).
+
+Course PHY617 - PHYSICS OF NATURAL NANO- MACHINES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Examples of sub cellular nanomachines of life; difference between macroscopic and nanomachines: world of nanometer and picoNewton, stochastic dynamic sat low Reynolds number; experimental, computational and theoretical techniques: imaging and manipulating single molecules, fluorescence microscopy, optical weezers, and AFM; Langevin and Fokker Planck equations for Brownian rectifiers; power stroke vs. Brownian ratchet mechanisms for directed movements. Mechano chemistry of subcellular machines, energetics and efficiency of isothermal chemical machines far from equilibrium cytoskeleton associated nanomachines: intracellular motor transport; nucleotic based machines DNA/RNA helicase/polymerase, ribosome Gproteins switches and latches; membrane bound machines, translocation machines, molecular pumps, ATP synthase, flagellar motor; molecular sensors: hair cells; nanopistons and crawling of cells.
+
+Course PHY621 - ELECTRONIC STRUCTURE OF MATERIALS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 4-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+One electron model, Born Oppenheimer approximation, Hartree & Hartree Fock approximation, density functional theory, local density approximation, beyond LDA. electrons in periodic solids, Blochs theorem, nearlyfree electron model, energy bands, Fermi surface, The tight binding method, APW method, OPW method, pseudo potential method, KKR method, LMTO method, the full potential methods. applications to different types of solids; electron in disordered solids, meanfield theories, coherent potential approximation, KKRCPA. Applications of KKRCPA, tight binding molecular dynamics, applications toclusters and solids, CarParinello methods and its applications to clustersand amorphous semiconductors, applications of electronic structure methodsto materials design.
+
+Course PHY621A - ELECTRONIC STRUCTURE OF MATERIALS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+One electron model, Born Oppenheimer approximation, Hartree & Hartree Fock approximation, density functional theory, local density approximation, beyond LDA. electrons in periodic solids, Blochs theorem, nearly free electron model, energy bands, Fermi surface, The tight binding method, APW method, OPW method, pseudopotential method, KKR method, LMTO method, the full potential methods. applications to different types of solids; electron in disordered solids, meanfield theories, coherent potential approximation, KKRCPA. Applications of KKRCPA, tight binding molecular dynamics, applications toclusters and solids, CarParinello methods and its applications to clusters and amorphous semiconductors, applications of electronic structure methods to materials design.
+
+Course PHY622 - CONDENSED MATTER II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fermi liquid, second quantization, interaction picture, electron interaction; plasmons; electron phonon interactions; polarons, advanced methods of bandstructure calculations. Cooperative phenomena; magnetism and paramagnetism, superconductivity: experimental background, cooper pairs, BCS and Ginzburg Landau theories.
+
+Course PHY624 - MAGNETISM IN MATERIALS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Magnetism in atoms and ions; crystal field; dia and paramagnetism, ferro and antiferromagnetism; complex orders; experimental techniques; molecular fieldsand exchange interaction; direct interaction localized and itinerant electrons, band model of ferromagnetism. indirect interactions, R.K.K.Y. theory.
+
+Course PHY627 - COMPUTATIONAL SIMULATION METHODS IN PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0-0---4. Source: Courses of Study 2021, IIT Kanpur.
+FORTRAN/C programming, structured programming, errors, numerical analysis, differentiation, integration, solution of differential equations, solution of Schrdinger equation, simulations of planetary motion, oscillatory motion, chaotic motion, molecular dynamics simulation, classical and tight binding molecular dynamics, simulation of Ar, density functional theory, CarParrinello simulation, Monte Carlo simulation, simulation of Ising model, quantum Monte Carlo simulation, genetic algorithms.
+
+Course PHY628 - TOPICS IN SEMICONDUCTOR
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Tightbinding band structure; shallow impurities, deep impurities, density functional theory, many body theory of impurities, quantized Hall effect, metastability.
+
+Course PHY629 - PHYSICS AND TECHNOLOGY OF THIN FILMS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to thin films, nucleation theories and growth processes, PVD and CVD processes, epitaxial growth, microstructure, electronic transport, optical properties of thin films, size effects, physics and applications of thin films inselected areas.
+
+Course PHY631 - PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Review of condensed matter and semiconductor physics, fabrication of quantum nanostructures, quantum structures and bandgap engineering. transportin quantum structures with applications, optical properties and applications, quantum mechanical effects in magneto transport, frontiers in current research.
+
+Course PHY631A - PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Review of condensed matter and semiconductor physics, fabrication of quantum nano structures, quantum structures and band gap engineering. transportin quantum structures with applications, optical properties and applications, quantum mechanical effects in magneto transport, frontiers in current research.
+
+Course PHY634 - LOW TEMPERATURE PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Production of low temperatures; cryostat design and experimental techniques applied to low temperature; thermometry; specific heat, transport phenomena, thermal, electrical and magnetic properties; superconductivity, applications of superconductivity; superfluidity and associated phenomena.
+
+Course PHY638 - NUCLEAR TECHNIQUES IN SOLID STATE STUDIES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Different solid-state physics/materials science aspects which can bestudied using nuclear techniques. Rutherford backscattering, channeling, elasticrecoil detection analysis, positron annihilation, Mssbauer spectroscopy, ESCA etc.
+
+Course PHY642 - CONDENSED MATTER PHENOMENA IN LOW DIMENSIONAL MATERIALS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Characteristic length scales for quantum phenomena; scaling as a heuristic tool; scientific and technological significance of nanostructures and mesoscopic structures. brief introduction to quantum view of bulk solids, introduction to key ideas in transport and interaction of photons with material. Quantum structures: electronic properties: science and technology realizing low dimensional structures; MBE, MOCVD, Langmuir Blodgett films, novel processes; electronic properties of hetero structures, quantum wells, quantum wires, quantum dots, and superlattices, strained layer superlattices; transport in mesoscopic structures. resonant tunneling, hot electrons, conductance and transmission of nanostructures; principles of application of electronic devices. quantum structures: optical properties: optical process in low dimensional semiconductors. absorption. luminescence, excitons. application to lasers and photo detectors, transport inmagnetic field: magneto transport: transport in magnetic field, semi classical description, quantum approach, Aharonov Bohm effect, Shubnikov deHaas effect; introduction to quantum Hall effect.
+
+Course PHY644 - QUANTUM ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Semiclassical theory of lasers, single and multimode operation, gas laser theory, ring and Zeeman lasers, coherence in lasers. nonlinear optical phenomena, Feynman diagrams in multiphoton problems.
+
+Course PHY644A - QUANTUM ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Semiclassical theory of lasers, single and multimode operation, gas laser theory, ring and Zeeman lasers, coherence in lasers. nonlinear optical phenomena, Feynman diagrams in multiphoton problems.
+
+Course PHY646 - COHERENT OPTICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fourier transforms, diffraction theory, coherence theory, two-dimensional systems theory, optical processing, holography, holographic inter ferometry and its applications; astronomical correlation inter ferometry, optical resonators, nonlinear optics, phase conjugation.
+
+Course PHY647 - ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-1-4--5. Source: Courses of Study 2021, IIT Kanpur.
+Survey of network theorems and network analysis, basic differential amplifier circuit, op amp characteristics and applications, simple analog computer, analog integrated circuits, PLL, etc., digital electronics, gates, flipflops, counters etc., transducers, signal averaging, lockin amplifier, D/A & A/D converter, multichannel analyzer etc., introduction to microprocessors.
+
+Course PHY647A - ELECTRONICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 2-1-3--11. Source: Courses of Study 2021, IIT Kanpur.
+Survey of network theorems and network analysis, basic differential amplifier circuit, op amp characteristics and applications, simple analog computer, analog integrated circuits, PLL, etc. digital electronics, gates, flipflops, counters etc., transducers, signal averaging, lockin amplifier, D / A & A/D converter, multichannel analyzer etc., introduction to microprocessors.
+
+Course PHY660 - GENERAL RELATIVITY & COSMOLOGY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Machs principle. Riemannian geometry. Energy momentum tensor and Einsteins equations. Schwarzs child metric and singularities of space time. Post Newtonian approximations. spherically symmetric solutions of Einstein equations. Introduction to cosmology.
+
+Course PHY660A - GENERAL RELATIVITY & COSMOLOGY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Machs principle. Riemannian geometry. Energy momentum tensor and Einsteins equations. Schwarzschild metric and singularities of space time. Post Newtonian approximations. spherically symmetric solutions of Einstein equations. Introduction to cosmology.
+
+Course PHY680 - PARTICLE PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Natural units; evidence for 4 fundamental interactions, leptons and hadrons,historical introduction to particle zoo, relativistic kinematics, Lorentz invariant phase space, calculation of 2 and 3 body phase space, Dalitz plot, Mandelstam variables, crossing symmetry, isospin, flavour SU(2), strangeness & flavour SU(3), product representations and Young tableaux, the GellMann eightfold way,prediction of?, quark model, construction of hadronic wave functions, magnetic moment of the neutron, statistics of baryons & concept of colour; discovery of weak interactions, Fermi theory. IVB hypothesis, parity violation, mass problem, and decay; gauge theory, local U (1) gauge theory and Maxwell equations, Yang-Mills theories, SU (2) and SU (3) gauge theories, construction of SU (2) x U (1) gauge theory, gauge boson self interactions, spontaneous breaking of gauge symmetry, Abelian and nonAbelian cases, Goldstone theorem, Higgs mechanism, Ginzburg-Landau theory, construction of the Glashow-Salam-Weinberg model (outline only).
+
+Course PHY680A - PARTICLE PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Natural units; evidence for 4 fundamental interactions, leptons and hadrons,historical introduction to particle zoo, relativistic kinematics, Lorentz invariant phase space, calculation of 2 and 3body phase space, Dalitz plot, Mandel stam variables, crossing symmetry, isospin, flavour SU(2), strangeness & flavour SU(3), product representations and Young table aux, the GellMann eightfold way, prediction of?, quark model, construction of hadronic wave functions, magnetic moment of the neutron, statistics of baryons & concept of colour; discoveryof weak interactions, Fermi theory. IVB hypothesis, parity violation, mass problem, and decay; gauge theory, local U (1) gauge theory andMaxwell equations, YangMills theories, SU (2) and SU (3) gauge theories, construction of SU (2) x U (1) gauge theory, gauge boson self interactions, spontaneous breaking of gauge symmetry, Abelian and nonAbelian cases, Goldstone theorem, Higgs mechanism, Ginzburg Landau theory, construction of the Glashow Salam Weinberg model (outline only).
+
+Course PHY681 - QUANTUM FIELD THEORY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Lorentz and Poincar groups; relativistic wave equations; Lagrangian formalismfor fields; symmetry transformations and Nthers theorem; quantization of fields; divergences and renormalization; Yang Mills fields, spontaneous breakdown of symmetries and Goldstone theorem; Higgs phenomenon; unified models of fundamental interactions.
+
+Course PHY681A - QUANTUM FIELD THEORY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Lorentz and Poincar groups; relativistic wave equations; Lagrangian formalismfor fields; symmetry transformations and Nthers theorem; quantizationof fields; divergences and renormalization; Yang Mills fields, spontaneous breakdown of symmetries and Goldstone theorem; Higgs phenomenon; unified models of fundamental interactions.
+
+Course PHY682A - CONCEPTS OF PLASMA PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+This course has been broadly divided into eight chapters. [1]. Introduction [2]. Charged particle motion in electromagnetic fields [3]. Some basic plasma phenomena [4]. Collisional processes in plasmas [5]. Fluid description of plasmas [6]. Diffusion and mobility [7]. Equilibrium and instabilities [8]. Introduction to waves in plasmas.
+
+Course PHY690 - SPECIAL TOPICS IN PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The course will deal with specialized topics of current interest in solid state, theoretical physics, molecular physics, or structure of matter. Detailed contents will be given by the instructor when the course is announced. If the numberof students is less than 5, this may be floated as a Reading Course with thepermission of DPGC.Every new course, other than Reading Courses, offered is numbered PHY 690A, PHY 690B, and so on, until PHY 690Z is reached. After that the cycle repeats from PHY 690A onwards.
+
+Course PHY690A - GREEN NANOTECHNOLOGI ES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+The course will deal with specialized topics of current interest in solid state, theoretical physics, molecular physics, or structure of matter. Detailed contents will be given by the instructor when the course is announced. If the number of students is less than 5, this may be floated as a Reading Course with the permission of DPGC. Every new course, other than Reading Courses, offered is numbered PHY 690A, PHY 690B, and so on, until PHY 690Z is reached. After that the cycle repeats from PHY 690A onwards.
+
+Course PHY692 - MEASUREMENT TECHNIQUES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--5. Source: Courses of Study 2021, IIT Kanpur.
+Typical experiments in various areas is physics; vacuum techniques; transducers: temperature, pressure, charge particles, photons, etc; electronic noise; survey of analog and digital I/Cs; signal processing, data acquisition andcontrol systems; data analysis evaluation.
+
+Course PHY692A - MEASUREMENT TECHNIQUES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-3-0-12. Source: Courses of Study 2021, IIT Kanpur.
+Typical experiments in various areas is physics; vacuum techniques; transducers: temperature, pressure, charge particles, photons, etc; electronic noise; survey of analog and digital I/Cs; signal processing, data acquisition and control systems; data analysis evaluation.
+
+Course PHY781 - HIGH ENERGY PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Current topics in Particle Physics and quantum field theory.
+
+Course PHY781A - HIGH ENERGY PHYSICS II
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Current topics in Particle Physics and quantum field theory.
+
+Course PHY799 - RESEARCH
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+To be registered by PhD. students from Semester I itself, and by M.ScPh.D.(DualDegree) students from Semester V onwards.
+
+Course PHY799A - PH D THESIS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 0----4. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis
+
+Course SE301 - QUANTUM PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Origin of quantum theory and related experiments, Wave Particle duality for photons and material particles, Wave function and its born interpretation, Relation with measurement of dynamical variables, function as definite position and plane wave as definite momentum wave function, Wavepacket as superposition of functions and of plane waves, Position momentum Uncertainty Principle, Gaussian wave packets, Applicability of classical physics on the basisof uncertainty product. Operator formulation, commuting operators, simultaneous eigen functions, degenerate eigen functions. Schrodinger equation for time evolution, Stationary states, spread of free particle wave packets, Time energy uncertainty, Natural line width of spectral lines. Probability currents and theirrelation with the flux in beams of particles. Square well potentials, Practical examples like metal vacuum interface, Contactpotential between metals, Bilayerand sandwiched thin film etc., Bound states in deep potential well and finite potential well, Double well potentials and examples like Ammonia inversion, Delta function potentials and examples like electron sharing in covalent bonds. Kronig Penny model of 1D crystals and formation of energy bands. Linear harmonic oscillator, outline of getting stationary states, Molecular vibrations and spectroscopy. Barrier Tunneling, Examples of adecay, nuclear fission, fusion inthe Sun, Cold emission, Scanning tunneling microscope, principle of tunnel diodeetc; Angular momentum operators, eigen values and eigen functions, Spinangular momentum, hydrogen atom using Coulomb interaction, structure of Haline due to ls interaction (derivation not needed).
+
+Course SE305 - PHYSICS OF NON- EQUILIBRIUM PHENOMENA
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+INTRODUCTION: Examples of nonequilibrium phenomena(i) Glass transition; (ii)Nucleation; (iii) Phase separation; Experimental probes: Dynamic scattering; inelastic neutron scattering, THEORETICAL TOOLS: Two alternative theoretical approaches (a) Langevin equation dissipation, nonlinearity and noise; Illustration with translational Brownian motion; (b) Fokker Planck equation diffusion and drift; Illustration with (i) translational Brownian motion, (ii) rotational Brownian motion. Master equation loss and gain of probabilities; concept of detailed balance. METASTABILITY AND BISTABILITY: Kramers theory of thermally activated barrier crossing applications in (i) chemical reactions (ii) rock magnetism. Enhancing signals with the help of noise applications of stochastic resonance in (a) nonlinear optics, (b) solid state devices, (c) neuroscience, (d) molecular motors and biological locomotion. Becker Doring Theory of homogeneous nucleation and its modern extensionsapplications in (a)condensation and (b) crystallization. UNSTABLE STATES: Allen Cahn scenario of interfacial dynamics and domain growth applications to domain growth inquenched magnets; Lifshitz Slyozov arguments for phase separation and its generalizations applications to (a) alloys, (b) fluid mixtures, (c) polymer mixtures. Theory of phase separation controlled by topological defects application to liquid crystals. Theory of coarsening of Cellular Patterns applications to soap froths (e.g., shaving foams). NONEQUILIBRIUM STEADY STATES IN DRIVEN SYSTEM: Driven systems of interacting particles applications to vehicular traffic; Driven surfaces applications in molecular beam epitaxy (MBE).
+
+Course SE305A - PHYSICS OF NON- EQUILIBRIUM PHENOMENA
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+INTRODUCTION: Examples of nonequilibrium phenomena (i) Glass transition; (ii) Nucleation; (iii) Phase separation; Experimental probes: Dynamic scattering; inelastic neutron scattering, THEORETICAL TOOLS: Two alternative theoretical approaches (a) Langevin equation dissipation, nonlinearity and noise; Illustration with translational Brownian motion; (b) Fokker Planck equation diffusion and drift; Illustration with (i) translational Brownian motion, (ii) rotational Brownianmotion. Master equationloss and gain of probabilities; concept of detailed balance. METASTABILITY AND BISTABILITY: Kramers theory of thermallyactivated barrier crossing applications in (i) chemical reactions (ii) rockmagnetism. Enhancing signals with the help of noise applications of stochastic resonance in (a) nonlinear optics, (b) solid state devices, (c) neuroscience, (d) molecular motors and biological locomotion. Becker Doring Theory of homogeneous nucleation and its modern extensions applications in (a)condensation and (b) crystallization. UNSTABLE STATES: Allen Cahn scenario of interfacial dynamics and domain growth applications to domain growth inquenched magnets; LifshitzSlyozov arguments for phase separation and its generalizations applications to (a) alloys, (b) fluid mixtures, (c) polymer mixtures. Theory of phase separation controlled by topological defects application to liquid crystals. Theory of coarsening of Cellular Patterns applications to soap froths (e.g., shaving foams). NONEQUILIBRIUM STEADY STATES IN DRIVEN SYSTEM: Driven systems of interacting particles applications to vehicular traffic; Driven surfaces applications in molecular beam epitaxy (MBE).
+
+Course SE307 - QUANTUM PROCESSES IN LOW DIMENSIONAL SEMICONDUCTORS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Course Outline: Characteristic length scales for quantum phenomena; Scalingas a heuristic tool; Scientific and Technological significance of nanostructures and mesoscopic structures. Brief introduction to quantum view of bulk solids, Introduction to key ideas in transport and interaction of photons with material. Quantum Structures: Electronic Properties: Science and technology realizing low dimensional structures; MBE, MOCVD, Langmuir Bloddgett films, novel processes; Electronic properties of Heterostructures, Quantum wells, Quantum wires, Quantum dots, and superlattices, Strained Layer Superlattices; Transport inMesoscopic Structures. Resonant Tunneling, Hot Electrons, Conductance and Transmission of Nanostructures. Principles of application of electronic devices. Quantum Structures: Optical Properties: Optical process in low dimensional semiconductors. Absorption. Luminescence, Excitons. Application to lasers and photo detectors, Transport in Magnetic Field: Megneto transport: Transport in Magnetic Field, Semiclassical description, Quantum Approach, Abaranov Bohm effect, Subnikov de Haas effect; Introduction to Quantum Hall effect.
+
+Course SE308 - ENERGY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Indian and global energy resources, current energy exploitation, energy demand, energy planning, renewable energy sources, wind energy, energy from water, solar energy, energy from mineral oils, nuclear energy, energy for sustainable development, environmental concerns.
+
+Course SE309 - PRINCIPLES OF LASERS & THEIR APPLICATIONS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Gaussian Optics, Optical Resonators and their Mode Structure; Atomic levels, Absorption, Spontaneous and Stimulated emission, Einstein coefficients; Rate Equations, Population Inversion, Gain media, 3 and 4 level lasers; CW & Pulsed Lasers, QSwitching, modelocking, Short pulses; Ar+, CO2, Nd: YAG, diode lasers, etc.; Metrology, Optical Communication, Materials Processing, Holography, Medical Applications.
+
+Course SE311 - PHYSICS OF UNIVERSE
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Astronomical observations and instruments, Photometry; Stellar spectra and structure; Stellar evolution, nucleosynthesis and formation of elements; Variable stars; Compact stars (white dwarfs. Neutron stars, black holes; Star clustersand Binary stars; Galaxies, their evolution and origin; Active galaxies and quasars; Big bang model of the universe, early history of the universe, cosmic microwave background radiation.
+
+Course SE312 - ORDER AND CHAOS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Dynamical Systems; Nonlinear dynamics of one dimensional flows, Fixed point, linear stability analysis, bifurcations; Nonlinear dynamics of two dimensional flows, Phase space, equilibrium, Limit cycle, stability, bifurcations; Periodicity, disturbed periodicity; Nonlinear dynamics of 1D and 2D maps, fixed point, stability, Poincare section; Routes to chaos Period doubling, quasi periodicity and intermittency, Universality, Renormalization; Measurement of chaos, Lyapunov exponent, entropy; Strange attractors, fractal geometry and fractal dimension; Examples from Sciences and Engineering.
+
+Course SE312A - ORDER AND CHAOS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Dynamical Systems; Nonlinear dynamics of one dimensional flows, Fixed point,linear stability analysis, bifurcations; Nonlinear dynamics of two dimensional flows, Phase space, equilibrium, Limit cycle, stability, bifurcations; Periodicity, disturbed periodicity; Nonlinear dynamics of 1D and 2D maps, fixed point,stability, Poincare section; Routes to chaos Period doubling, quasiperiodicity and intermittency, Universality, Renormalization; Measurement of chaos, Lyapunov exponent, entropy; Strange attractors, fractal geometry and fractal dimension; Examples from Sciences and Engineering.
+
+Course SE313 - MODERN OPTICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Review of Maxwell’s and electromagnetic wave equations; Wave propagation in anisotropic media; Polarized light; Diffraction from circular aperture and concept of resolution; Fourier transforms and Fourier optics, Spatial filtering, and Image Processing; Coherence, Holography; Optical Waveguides and integrated optics; Optical fibres, Optical sources (LED, Lasers etc.) and detectors, and optical communication; Electro and magneto optic effects; Laser matter interaction.
+
+Course SE314 - CLASSICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Review of the Newtonian mechanics; Lagrangian Mechanics, Generalized coordinates, constraints, Principle of virtual work, Lagranges equation, Calculusof variations; Central forces, Collisions, Scattering; Small oscillations, Anharmonic oscillators, Perturbation theory, Forced oscillators; Hamiltons Equations, phasespace & phase trajectories, canonical transformations, Poisson brackets, Hamilton Jacobi theory; Rigid body dynamics; Nonlinear Dynamics.
+
+Course SE314A - CLASSICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Review of the Newtonian mechanics; Lagrangian Mechanics, Generalized coordinates, constraints, Principle of virtual work, Lagranges equation, Calculusof variations; Central forces, Collisions, Scattering; Small oscillations, An harmonic oscillators, Perturbation theory, Forced oscillators; Hamiltons Equations, phasespace & phase trajectories, canonical transformations, Poisson brackets, Hamilton Jacobi theory; Rigid body dynamics; Nonlinear Dynamics.
+
+Course SE315 - SPECIAL & GENERAL RELATIVITY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Special Relativity, Empirical evidence for the constancy of c, Frames o freferences; Lorentz transformations; relativity of simultaneity; twin and other paradoxes; Transformation laws for velocity, momentum, energy; Mass energy equivalence; force Equations; Kinematics of decays and collisions; Maxwell’s equations in covariant form; Representations of the Lorenz Group and SL(2,C); Introduction to General Relativity; Principle of equivalence; Machs principle; Riemannian geometry; Christoffel symbols, the curvature and stress Energy tensors; the gravitational field equations; Geodesics and particle trajectories; Schwarzchild solution; Experimental tests; Basic cosmology; FRWmetric; Cosmological expansion; Cosmic Microwave background; Helium abundance; anisotropies in the CMB.
+
+Course SE315A - SPECIAL & GENERAL RELATIVITY
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Special Relativity, Empirical evidence for the constancy of c, Frames ofreferences; Lorentz transformations; relativity of simultaneity; twin and other paradoxes; Transformation laws for velocity, momentum, energy; Mass energy equivalence; force Equations; Kinematics of decays and collisions; Maxwell’s equations in covariant form; Representations of the Lorenz Group and SL(2,C);Introduction to General Relativity; Principle of equivalence; Machs principle;Riemannian geometry; Christoffel symbols, the curvature and stress Energytensors; the gravitational field equations; Geodesics and particle trajectories; Schwarzchild solution; Experimental tests; Basic cosmology; FR Wmetric; Cosmological expansion; Cosmic Microwave background; Helium abundance;anisotropies in the CMB.
+
+Course SE316 - STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+1.Review of Thermodynamics; 2. Basic Principles and Applications of StatisticalMechanics; 3. Ideal Quantum Gases; 4. Interacting Systems;5. Theories of PhaseTransitions; 6. Computer Simulations; 7. Elementary Concepts of Nonequilibrium Stat. Mechanics
+
+Course SE316A - STATISTICAL MECHANICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+1.Review of Thermodynamics; 2. Basic Principles and Applications of StatisticalMechanics; 3. Ideal Quantum Gases; 4. Interacting Systems; 5. Theories of PhaseTransitions; 6. Computer Simulations; 7. Elementary Concepts of Nonequilibrium Stat. Mechanics
+
+Course SE317 - INTRODUCTION TO ATOMIC & NUCLEAR PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Quantum mechanics of one and two electron atoms, Many electron atoms, Centralfield approximation, ThomasFermi approximation, Molecular binding, LCAO, LCMO and VB methods, Hydrogen molecules, Molecular spectra, Raman effect, Lasers.
+
+Course SE321 - THERMAL PHYSICS
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Principles of thermodynamics (with applications to simple fluids), applications of thermodynamics: concept of thermodynamic state, extensive and intensive variables; heat and work, internal energy function and the first law of thermodynamics; fundamental relation and equations of state; concepts of entropy and temperature as conjugate pair of variables; second law of thermodynamics, entropy maximum and energy minimum principles; thermodynamic potentials: enthalpy, Helmholtz potential, Gibbs potential;conditions of equilibrium, concepts of stable, metastable and unstable equilibrium;components and phases, GibbsDuhem relations; first order phase transitions and Clausius Clapeyron equation; concepts associated with critical and multicritical phenomena, some chosen applications from surfaces and interfaces, chemical reactions (magnetic, dielectric and superconducting); heat engines and black body radiation; elementary kinetic theory of gases: equilibrium properties pressure and equation of state; transport processes momentum transport and viscosity, energy transport and thermal conductivity, charge transport & electrical conductivity (without using Boltzmann transport equation); entropy, multiplicity and disorder: entropy measures multiplicity rather than disorder, illustration with simple examples; Maxwell’s demon; qualitative justifications of laws of thermodynamics (without introducing ensembles), thermodynamics of irreversible processes: entropy production.
+
+Course SE322 - NATURAL NANO MACHINES
+Department: Department of PHYSICS (Physics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Examples of nanomachines in living cells; differences between macroscopic andnano machines; world of nanometer and pico Newton; stochastic dynamics of nanomachines; experimental, computational and theoretical techniques; imaging and manipulating single machines; Power stroke versus Brownian ratchet mechanism; mechanochemistry of nanomachines; energetics and efficiency of nanomachines; intracellular cargo transporters; nanosize unzippers; nanosized engines for polymerization of macromolecules; exporters/importers of macromolecules; packaging machines; switches and latches; ion pumps; flagellar motor; rotary motors of ATP synthesizer; molecular sensors hair cells; nanopistons and cell crawling.

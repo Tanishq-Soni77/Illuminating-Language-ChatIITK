@@ -1,0 +1,253 @@
+VOX POPULI (VOX), IIT KANPUR - ARTICLE CATEGORIES, READING TIME AND BOOKMARK COUNTS (OLD DATASET, 40 ARTICLES)
+Name: Per-article metadata for 40 Vox Populi articles from the old ChatIITK dataset (VOX Articles.xlsx): website category labels, posted date, reading time and 'Bookmark this article' counter.
+Type: SUPPLEMENTARY METADATA about student-media articles (Vox Populi is the student media body of IIT Kanpur, not an event or club of the Gymkhana). The article texts themselves are in the vox_populi_articles_<year> files. Snapshot: scraped after May 2024 (the newest article in the dataset is dated May 25, 2024); bookmark counts are as of that scrape.
+
+Article: In Conversation with Shri. Ramesh Pokhriyal ‘Nishank’
+  URL: https://voxiitk.com/in-conversation-with-shri-ramesh-pokhriyal-nishank/
+  Date shown in listing: January 13, 2020
+  Website categories: (none shown)
+
+Article: #3: The Genesis of a Book
+  URL: https://voxiitk.com/3-the-genesis-of-a-book/
+  Date shown in listing: January 9, 2020; posted on January 9, 2020
+  Website categories: INSTITUTE
+  Reading time: 9 min
+  Bookmark counter: 1
+
+Article: Placements 2019
+  URL: https://voxiitk.com/placements-2019/
+  Date shown in listing: January 1, 2020; posted on January 1, 2020
+  Website categories: EVENTS, INSTITUTE, STUDENTS
+  Reading time: 8 min
+  Bookmark counter: 4
+
+Article: #2: Days at the PK Kelkar Library: Books and Us
+  URL: https://voxiitk.com/days-at-the-pk-kelkar-library-books-and-us/
+  Date shown in listing: December 27, 2019; posted on December 27, 2019
+  Website categories: INSTITUTE
+  Reading time: 8 min
+  Bookmark counter: 3
+
+Article: #1: The Future of a Book: Journey from Shelf to Doom
+  URL: https://voxiitk.com/1-the-future-of-a-book-journey-from-shelf-to-doom/
+  Date shown in listing: December 12, 2019; posted on December 12, 2019
+  Website categories: INSTITUTE
+  Reading time: 9 min
+  Bookmark counter: 2
+
+Article: Hall of Residence I: As It Happened Yesterday
+  URL: https://voxiitk.com/hall-1-as-it-happened-yesterday/
+  Date shown in listing: November 7, 2019
+  Website categories: (none shown)
+
+Article: General Body Meeting: As It Happened
+  URL: https://voxiitk.com/general-body-meeting-as-it-happened/
+  Date shown in listing: November 1, 2019
+  Website categories: (none shown)
+
+Article: Poor QS Employability Rankings: The story of IIT Kanpur
+  URL: https://voxiitk.com/qsemployability/
+  Date shown in listing: October 11, 2019; posted on October 11, 2019
+  Website categories: INSTITUTE, REPORTS AND INVESTIGATIONS
+  Reading time: 8 min
+  Bookmark counter: 1
+
+Article: Freshers’ Night: The things that went right
+  URL: https://voxiitk.com/freshers-night-the-things-that-went-right/
+  Date shown in listing: August 19, 2019; posted on August 19, 2019
+  Website categories: EVENTS
+  Reading time: 9 min
+  Bookmark counter: 0
+
+Article: Freshers’ Night: Literally a Jester’s Dominion
+  URL: https://voxiitk.com/freshers-night-literally-a-jesters-dominion/
+  Date shown in listing: August 15, 2019
+  Website categories: EDITORIALS AND OPINION PIECES, EVENTS
+
+Article: Startup Stories: Incubating at IITK
+  URL: https://voxiitk.com/startup-stories-incubating-at-iitk/
+  Date shown in listing: July 18, 2019; posted on July 18, 2019
+  Website categories: INSTITUTE, REPORTS AND INVESTIGATIONS
+  Reading time: 12 min
+  Bookmark counter: 1
+
+Article: A First-Gen Entrepreneur: In Conversation with Dr. BVR Mohan Reddy
+  URL: https://voxiitk.com/a-first-gen-entrepreneur-in-conversation-with-dr-bvr-mohan-reddy/
+  Date shown in listing: July 7, 2019
+  Website categories: (none shown)
+
+Article: Animal Cruelty: Dog beaten to death in Hall 12 premises
+  URL: https://voxiitk.com/animal-cruelty-dog-beaten-to-death-in-hall-12-premises/
+  Date shown in listing: June 1, 2019; posted on June 1, 2019
+  Website categories: INSTITUTE
+  Reading time: 6 min
+  Bookmark counter: 1
+
+Article: Let me get this straight…
+  URL: https://voxiitk.com/let-me-get-this-straight/
+  Date shown in listing: May 30, 2019; posted on May 30, 2019
+  Website categories: STUDENTS
+  Reading time: 8 min
+  Bookmark counter: 4
+
+Article: PG Open-house
+  URL: https://voxiitk.com/pg-open-house/
+  Date shown in listing: May 27, 2019; posted on May 27, 2019
+  Website categories: STUDENTS
+  Reading time: 16 min
+  Bookmark counter: 2
+
+Article: New Opportunities for Aspiring Entrepreneurs – DPP, SUEP
+  URL: https://voxiitk.com/new-opportunities-for-aspiring-entrepreneurs-dpp-suep/
+  Date shown in listing: May 21, 2019; posted on May 21, 2019
+  Website categories: EVENTS, STUDENTS
+  Reading time: 9 min
+  Bookmark counter: 1
+
+Article: GSoC: Ready, Set, Open Source
+  URL: https://voxiitk.com/gsoc-ready-set-open-source/
+  Date shown in listing: May 8, 2019; posted on May 8, 2019
+  Website categories: STUDENTS
+  Reading time: 7 min
+  Bookmark counter: 1
+
+Article: Democracy: Of the People? By the People? For the People?
+  URL: https://voxiitk.com/democracy-of-the-people-by-the-people-for-the-people/
+  Date shown in listing: April 8, 2019; posted on April 8, 2019
+  Website categories: EDITORIALS AND OPINION PIECES, GYMKHANA
+  Reading time: 9 min
+  Bookmark counter: 1
+
+Article: Academics and Career Council
+  URL: https://voxiitk.com/academics-and-career-council/
+  Date shown in listing: March 5, 2019
+  Website categories: (none shown)
+
+Article: De-mock-racy : Elections’19
+  URL: https://voxiitk.com/de-mock-cracy-election19/
+  Date shown in listing: February 1, 2019; posted on February 1, 2019
+  Website categories: GYMKHANA, STUDENTS
+  Reading time: 14 min
+  Bookmark counter: 1
+
+Article: Review: Merger of Cultural Council and Films & Media Council
+  URL: https://voxiitk.com/review-merger-of-cultural-council-and-films-media-council-2/
+  Date shown in listing: January 26, 2019
+  Website categories: (none shown)
+
+Article: IIT Kanpur Sports – A Waning Culture
+  URL: https://voxiitk.com/iit-kanpur-sports-a-waning-culture/
+  Date shown in listing: January 22, 2019; posted on January 22, 2019
+  Website categories: REPORTS AND INVESTIGATIONS, STUDENTS
+  Reading time: 15 min
+  Bookmark counter: 1
+
+Article: In Conversation with Captain Joseph
+  URL: https://voxiitk.com/in-conversation-with-captain-joseph/
+  Date shown in listing: November 15, 2018
+  Website categories: (none shown)
+
+Article: In Conversation with the Director – Part 2
+  URL: https://voxiitk.com/in-conversation-with-the-director-part-2/
+  Date shown in listing: October 30, 2018; posted on October 30, 2018
+  Website categories: ADMINISTRATION, ALL ABOUT IITK
+  Reading time: 10 min
+  Bookmark counter: 0
+
+Article: In Conversation with the Director – Part 1
+  URL: https://voxiitk.com/in-conversation-with-the-director-part-1/
+  Date shown in listing: October 29, 2018; posted on October 29, 2018
+  Website categories: ADMINISTRATION, ALL ABOUT IITK
+  Reading time: 9 min
+  Bookmark counter: 1
+
+Article: The Curious Case Of Spurious Branch Change
+  URL: https://voxiitk.com/the-curious-case-of-spurious-branch-change/
+  Date shown in listing: September 8, 2018; posted on September 8, 2018
+  Website categories: ADMINISTRATION, ALL ABOUT IITK, REPORTS AND INVESTIGATIONS
+  Reading time: 6 min
+  Bookmark counter: 0
+
+Article: Preparatory Schools : A Brief Insight
+  URL: https://voxiitk.com/preparatory-schools-a-brief-insight/
+  Date shown in listing: September 3, 2018; posted on September 3, 2018
+  Website categories: ALL ABOUT IITK, STUDENTS
+  Reading time: 8 min
+  Bookmark counter: 0
+
+Article: IITK – KGMU Summer Biodesign Immersion Programme: Bridging gaps between engineering and healthcare problems
+  URL: https://voxiitk.com/iitk-kgmu-summer-biodesign-immersion-programme-bridging-gaps-between-engineering-and-healthcare-problems/
+  Date shown in listing: September 2, 2018; posted on September 2, 2018
+  Website categories: ALL ABOUT IITK, INSTITUTE
+  Reading time: 11 min
+  Bookmark counter: 0
+
+Article: De-Addiction Clinic
+  URL: https://voxiitk.com/de-addiction-clinic/
+  Date shown in listing: August 25, 2018; posted on August 25, 2018
+  Website categories: ADMINISTRATION, ALL ABOUT IITK, INSTITUTE
+  Reading time: 5 min
+  Bookmark counter: 0
+
+Article: Interview with Dr Rajaraman
+  URL: https://voxiitk.com/interview-with-dr-rajaraman/
+  Date shown in listing: June 7, 2018
+  Website categories: (none shown)
+
+Article: National Technology Day 2018
+  URL: https://voxiitk.com/national-technology-day-2018/
+  Date shown in listing: May 12, 2018; posted on May 12, 2018
+  Website categories: ALL ABOUT IITK, EVENTS
+  Reading time: 6 min
+  Bookmark counter: 1
+
+Article: IIT Kanpur team wins RBI Policy Challenge-2018
+  URL: https://voxiitk.com/iit-kanpur-team-wins-rbi-policy-challenge-2018/
+  Date shown in listing: May 5, 2018
+  Website categories: (none shown)
+
+Article: Institute of Eminence
+  URL: https://voxiitk.com/institute-of-eminence/
+  Date shown in listing: December 1, 2017
+  Website categories: (none shown)
+
+Article: IITK-101
+  URL: https://voxiitk.com/iitk-101/
+  Date shown in listing: November 9, 2017; posted on November 9, 2017
+  Website categories: STUDENTS
+  Reading time: 9 min
+  Bookmark counter: 1
+
+Article: Taking Inspiration from our Alumni
+  URL: https://voxiitk.com/taking-inspiration-from-our-alumni/
+  Date shown in listing: November 4, 2017; posted on November 4, 2017
+  Website categories: ALUMNI, EVENTS
+  Reading time: 6 min
+  Bookmark counter: 0
+
+Article: The Ragging Incident : Truth vs Hype
+  URL: https://voxiitk.com/the-ragging-incident-truth-vs-hype/
+  Date shown in listing: October 24, 2017
+  Website categories: (none shown)
+
+Article: IIT Kanpur is penalising 22 students for its own failures
+  URL: https://voxiitk.com/iit-kanpur-is-penalising-22-students-for-its-own-failures/
+  Date shown in listing: October 15, 2017
+  Website categories: (none shown)
+
+Article: A Brief Timeline of the Security Issue on Campus
+  URL: https://voxiitk.com/a-brief-timeline-of-the-security-issue-on-campus/
+  Date shown in listing: September 6, 2017
+  Website categories: (none shown)
+
+Article: SSAC Ignores Procedures in Ragging Related Issue
+  URL: https://voxiitk.com/ssac-ignores-procedures-in-ragging-related-issue/
+  Date shown in listing: September 4, 2017
+  Website categories: (none shown)
+
+Article: Why were the VH staff fired?
+  URL: https://voxiitk.com/why-were-the-vh-staff-fired/
+  Date shown in listing: August 29, 2017; posted on August 29, 2017
+  Website categories: INSTITUTE, REPORTS AND INVESTIGATIONS
+  Reading time: 8 min
+  Bookmark counter: 1

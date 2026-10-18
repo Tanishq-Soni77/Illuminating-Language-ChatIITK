@@ -1,0 +1,703 @@
+IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS
+Name: Alumni blog posts hosted by DoRA (inspiration, leisure, mental well-being, online class, personal reflections).
+Type: INSTITUTE OFFICE - Office of the Dean of Resources and Alumni (DoRA), IIT Kanpur (alumni relations, fund raising, chairs, scholarships, awards); website https://www.iitk.ac.in/dora. Contact: Dean of Resources and Alumni Office, 3rd Floor, Faculty Building Annex, IIT Kanpur - 208016; queries: dora_desk@iitk.ac.in; visitor's hostel booking: alumni@iitk.ac.in; phone +91-512-259-7289. Snapshot: scraped in 2026.
+
+=== blog ===
+Source: https://www.iitk.ac.in/dora/blog/
+OFFICE OF RESOURCES & ALUMNI, IIT KANPUR
+Blog
+ DORA
+RECENT POST
+MR. RAJNISH KUMAR
+AASHIYANA HALL
+JOURNEY TO ISRO
+BEYOND BOUNDARIES
+OFFBEAT
+GIVING BACK
+MENTAL WELL-BEING & COVID-19
+IN LEISURE TIME
+INSPIRATION
+STUDENT DIARY
+DISTINGUISHED ALUMNI INTERVIEWS
+TRAVELOGUE
+DESTINY OF HER OWN
+MEMORIES
+Dean of Resources and Alumni Office 3rd Floor, Faculty Building Annex
+Contact Info
+dora_desk@iitk.ac.in
++91-512-259-7289
+Copyright © 2026. All Rights Reserved.
+
+=== blog amitabh srivastava ===
+Source: https://www.iitk.ac.in/dora/blog/amitabh-srivastava
+Distinguished Alumni Interview Series: Amitabh Srivastava, President, ASD, EMC.
+Outreach Cell, IIT Kanpur brings you the next edition of the Distinguished Alumni Interview Series. We interview people who have contributed exceptionally to the society after graduating from IIT Kanpur and bring their inspiring life stories to you.This edition brings you the story of Mr. Amitabh Srivastava, who received the Distinguished AlumnusAward for Professional Excellence in 2004.
+Mr. Amitabh SrivastavaElectrical Engineering from IIT Kanpur in 1979 and went on to complete his Masters in Computer Science from Penn State University, Pennsylvania in 1984.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+Here are some excerpts from our conversation with Amitabh Sir-
+Q1. We usually hear many exciting stories of how the campus used to be in its early days. Can you share some of your memorable experiences IITK?
+I joined IIT Kanpur in 1974, almost 46 years ago. I'm pretty sure that IIT Kanpur is quite different now. Food was always important and I still remember there was only one restaurant on campus and the hostel food was like ‘hostel food’. There were few options as Kanpur city was a bit far away. I fondly remember the late night Aloo parathas at the hostel canteen and occasional walks over to the Dhabas on the grand trunk road. We weren't sure what we were actually eating but it was delicious.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+We stayed in Hall 2 and then in Hall 1. A large majority of our group stayed together for all the five years. At that time, B.Tech was a 5-year course. Unlike many of my friends, I used to get up very early in the morning while the majority of my friends stayed up late at night. Every morning I used to have a lot of cards slipped under my door to wake people up at different times of the day. I sort of acted as the alarm clock for our wing. Those were the good days.
+Q2. Are you still in contact with your friends from your wings or from your hall?
+Yes, some friends organized a video chat a few weeks back. It was good to touch base with everyone.
+Q3. How does your life at IITK shape your interest and help you in deciding your career path?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+IIT Kanpur gave me a sound and rigorous engineering education. In addition, IIT Kanpur opened my mind, broadened my perspective, and taught me to explore new possibilities. It prepared me to take on new challenges as they presented themselves throughout my career. My years at IIT Kanpur were the formative years of my life.
+Q4. After doing B.Tech from IIT Kanpur you went to Pennsylvania State University to pursue a Masters in computer science. How was your experience at Pennsylvania and how their studies are different from IIT Kanpur and all academics?
+Actually, I went to Penn State to do my Ph.D. I enrolled into a Ph.D program, passed my Ph.D qualifiers, did all my courses and research work. I was very close to finishing my PhD when an exciting opportunity came up. Texas Instruments was starting an Artificial Intelligence Research Lab in Dallas, Texas where they were going to build the Explorer Lisp machines. I had the opportunity to join the Lab and work on building the Lisp machines. It was very exciting, but it also meant I would have to leave my PhD unfinished.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+I took the offer and decided to pursue this opportunity. It was a fantastic learning experience for me. Having the ability to work at the ground floor of an exciting new technology early in my career was amazing. Even though TI gave me the option to go back and finish my PhD at any time, I never went back to finish it. I was always deeply involved in something exciting, it just never made any sense to go back. Everyone already treated me as if I had one. Officially I have a Masters from Penn State.
+(Mr. Amitabh Srivastava giving the commencement address at Penn State College of Engineering Graduation Ceremonies titled ‘Fourth and Goal’)
+Q5. As you are associated with Microsoft Research Center for around 14 years, so how was your experience at Microsoft?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+Yes, I spent 14 years at Microsoft and I was involved in many exciting projects. I will highlight one. Two-thirds of my career has been in research and the last one-third in building products. It was at Microsoft that I made this transition from Research to Product development.
+When I joined Microsoft in 1997, Microsoft software was facing a lot of security and reliability issues. At Microsoft Research, we started looking into how to improve the quality of Microsoft software. Our analysis showed that as the chips were doubling in speed every two years (Moore’s law), software developers could now write complex software programs with these more powerful computer systems. The software development processes, on the other hand, were still mostly manual and didn't make the necessary advances to keep up with the hardware advances. Throwing more people at these manual processes was insufficient to produce high quality software.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+I started as a Programmer Productivity Research Center (PPRC) in Microsoft Research to help Microsoft produce high quality software. PPRC was based on a very simple idea: use the hardware advances to develop powerful tools to automate the development process. Our goal was to develop software tools that will help developers write complex programs by identifying problems early in the development process. All the systems we built scaled to real world programs like Windows, which was about 64 million lines of source code. We hired a very strong group of researchers. The tools we produced were widely used across Microsoft.
+While we were outlining how to automate the software development process, I was presented with a new opportunity. Bill Gates asked me to take over the development of Windows and change its development process. I was excited as I could now implement what I had been talking about for the last few years. I was also concerned that I had never shipped a product of this magnitude before. Windows was millions of lines of source code, developed by several thousand developers and testers. Of course, I took the job but it was both a technical and management challenge. I was given the freedom to make any changes I needed but was also reminded that Windows is the flagship product of Microsoft. That is a code for ‘don't screw it up’. We automated the engineering process and brought Windows development on track. This engineering process was used to develop Windows 7 and its later versions. These were my toughest years at Microsoft (I’m sure I got many grey hairs by the end of it:))
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+Q6. You were the senior vice president of server and Cloud division at Microsoft Corporation. So, when did you develop an interest in cloud computing?
+While I was shipping Windows, Ray Ozzie joined Microsoft to take over Bill Gates’ role as the Chief Software Architect. I had a ‘meet and greet’ meeting with Ray late one afternoon. Ray and I had an engaging discussion and we started discussing how software will be delivered in the future. That one hour introductory meeting turned into a 4 hour long discussion on the future of software. After the meeting I was certain that software was going to change and it would no longer be delivered on CDs. There were a lot of unknowns but I was convinced that I would be wasting my time if I was not part of this massive transformation that was about to take place. There was a huge risk as I would be giving up my current role and pursuing an ill-defined area which was unclear by any means.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+Steve Ballmer asked me to start with a small team to figure out what to do and then do it. That’s how Windows Azure was born! The first person I convinced to join me was Dave Cutler, father of Windows. We built a highly talented team. The project was code named ‘Red Dog’ and I announced it at PDC 2008 as ‘Windows Azure’.
+Q7. How do you view the cloud computing market in India?
+India is a big market and has a huge potential. India already has a vibrant startup and software development environment. The internet infrastructure is expanding and reaching the remote parts of the country. With the growing adoption of technologies like Big Data, AI along with government initiatives for cloud, India is poised to become a global hub for cloud computing.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+(Keynote Address at NASSCOM, 2010)
+Q8. What do you think of Microsoft's current cloud strategy compared to the time when you were there?
+Windows Azure is now the centerpiece of Microsoft’s strategy. Microsoft has aggressively moved all its products to the cloud. It is great to see all the advances to Windows Azure and I am really happy that we started Windows Azure when we did!
+(Keynote Address at EMC World, 2013)
+Q9. What would you like to advise students on making the most of the college time?
+First, I would like to remind each student how lucky they are to receive a great education from such a reputed institution. From my experience of over 30 years, I can tell you what worked for me. By the way, I learned it from my father and I also taught it to my children.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+Work hard. Hard work is never wasted.
+Never compromise on your integrity
+When opportunities arise take chances; don't play safe. Sometimes you will succeed and other times you will fail. But you will learn and grow with each experience. Only then you will realize your full potential.
+Give back to the community with time, money or learning.
+There are lots of unknowns and uneasiness in the world right now. Don’t worry about the things you don't control, focus on the things you control. Use your great education to make this world a better place. We are counting on you!
+Interviewed by: Kaustav Sen & Muskan Goyal
+Mr. Amitabh Srivastava
+16th September 2020
+Dr. Rathin Datta
+3rd September 2020
+Prof. Rajesh Gopakumar
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog amitabh srivastava]
+11th August 2020
+Prof. Nitin Saxena
+11th August 2020
+Prof. Viney Aneja
+11th August 2020
+Mr. Udai Pratap Singh
+11thAugust 2020
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog anil bansal ===
+Source: https://www.iitk.ac.in/dora/blog/anil-bansal
+Mr. Anil Bansal (BT/ME/1977)
+Mr. Anil Bansal (BT/ME/1977), an eminent alumnus, recipient of the Distinguished Alumnus Award 2023 and one of the top benefactors of IITK, is a serial entrepreneur currently serving as The President at First National Realty Management. Mr. Bansal is known for his humanitarian nature, leadership skills and philanthropy. He was selected as ‘The South Asian Times Person of the Year 2022’. In an interview with the DoRA office, he talks about his life journey, aspirations, challenges, and how IITK shaped his personality.
+Tell us about your early childhood.
+I had the privilege of growing up in a loving and close-knit family. Our main focus was always on cultivating happiness, and we were fortunate to have a wide circle of friends. During my childhood, I once asked my father a thought-provoking question: whether we were rich or poor. His response left a lasting impression on me. He explained that if your hand is held with the palm facing downward, you are considered rich, but if your hand is palm up, it doesn't matter how much you possess, you are poor. This perspective instilled in me a lifelong desire to be a giving and generous person.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+While financial success came later in my life, I learned the value of self-sufficiency from a young age. Starting at twelve years old, I would independently earn money to support myself. I engaged in entrepreneurial ventures like purchasing wholesale firecrackers and Holi colors, which I then sold to other children on the streets. This allowed me to earn enough to both sustain myself and enjoy playful activities.
+After school, I would spend a few hours at my father's shop located in the wholesale electric goods market in Chandni Chowk, Delhi. It was an enriching experience that exposed me to the world of business at a young age.
+Young Mr. Anil Bansal@iitk
+Your first venture was Essex Computers. What were the challenges and learnings, and how did it come about?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+Upon completing my master's degree at Notre Dame University, I worked for a major corporation for the first five years. I felt unfulfilled and wanted to do it my way. Having no capital, I ventured into the retail sector, working for Computer Pros, a store specializing in Apple computers. Through dedicated efforts, I successfully turned the company's fortunes around, transforming it from a negative position to a significantly positive one. However, despite the progress, the owner went back on our agreement to make me a partner. In hindsight, this turned out to be a blessing in disguise.
+Motivated by the setback, I approached the executives of Apple Computers and secured a dealership from Apple in 1989. This marked the beginning of my first company, Essex Computers, based in Newark, NJ. As circumstances led us to relocate, I seized the opportunity to purchase a 20,000 sq ft building in Clifton. To make the most of the additional space, I established a flourishing desktop publishing training center. Prominent companies like Bantam Books, Conde Nast, and The New York Times began sending their employees to us for software training, particularly in programs like PageMaker. Soon, our training services generated revenue exceeding one million dollars, and we became the largest supplier of Apple computers in any location. Additionally, we secured a significant contract from the New Jersey school system to provide computer maintenance services.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+This journey taught me a valuable lesson: by delivering excellent service and demonstrating care for our customers, we eventually secured our rightful share of the business.
+What made you shift to real estate?
+As our computer business flourished, reaching a revenue milestone of $30 million, I received guidance to leverage our success by investing in real estate. Having already acquired my first building, I took the advice to heart and embarked on a ten-year journey of purchasing one building annually, focusing on commercial real estate and office buildings. This strategic move not only provided financial opportunities but also paved the way for establishing multiple businesses in the future.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+At present, we proudly own 10 buildings in New Jersey through First National Realty Management LLC. Our own office is situated in a building that I personally own in Lyndhurst, NJ. This deliberate approach was primarily aimed at creating a dependable and consistent income stream for the remainder of my life.
+How do you associate yourself with the tag serial investor/entrepreneur?
+Becoming a serial investor was never part of my initial intentions or plans. However, as one business venture led to another, I seized the opportunities that presented themselves along the way. While remaining active in the real estate sector, I also took on the role of a key founder in Indus American Bank, overseeing its expansion to six branches across New Jersey and New York.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+Exploring various industries, I ventured into the restaurant business by establishing Mantra in Paramus, NJ. Additionally, my involvement extended to vSplash TechLabs, a company in which I played a part. In 2011, I embarked on the creation of BuzzBoard, an intelligence and analytics platform tailored for small and medium-sized businesses, where I continue to serve as chairman.
+Moreover, I played a role in launching multiple companies in India, subsequently entrusting their management to capable individuals. This diverse portfolio of investments reflects my willingness to embrace new opportunities and support entrepreneurial endeavors.
+Mr. Basnal at IIT Kanpur New York Alumni Meet in 2022
+Had you not been an investor/entrepreneur, what would you have been rather and why?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+From an early age, my inclination was always towards business. However, I ended up pursuing engineering primarily because of my academic excellence. Throughout my journey, I never harbored any doubts about achieving success. If I hadn't embarked on my own entrepreneurial endeavors, I have no doubt that I would have risen to the ranks of a C-level executive within a prominent corporation.
+How do you think the Gangwal School of Medical Sciences & Technology is going to shape the future of IITK?
+I am delighted to observe the remarkable progress of IIT Kanpur, led by the capable guidance of Prof. Abhay Karandikar. I firmly believe that the establishment of the unique School of Medical Sciences & Technology, accompanied by a 500-bed Super-Specialty Hospital, will revolutionize medical research and innovation in India. This significant endeavor holds the potential to enhance the quality of life for numerous individuals and create ample employment opportunities, benefiting a vast number of Indians.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+What has been your motivation behind giving back to your Alma Mater?
+It is truly a gratifying experience to make a contribution to one's alma mater, and the joy multiplies when the cause is as noble as the establishment of the Gangwal School of Medical Sciences & Technology at IIT-K. My wife, Kumud Bansal, and I are overjoyed to be part of this remarkable journey and are pleased to contribute to the new school.
+Mr. Anil Bansal with wife Mrs. Kumud Bansal
+What message would you like to give to IITK students who want to be entrepreneurs/investors like you?
+IIT has evolved into a renowned and respected brand, recognized worldwide. Individuals who graduate from IIT are destined for success in life. However, when it comes to establishing and prospering in your own ventures, taking risks becomes imperative. Nevertheless, perseverance and consistent hard work will yield results. It's common for people to exert effort for a brief period and then give up when they don't see immediate outcomes. Instead, focus on your work without worrying about the results because they will manifest in due time.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+Often, many of my intelligent friends approach me after conducting extensive analyses, seeking assurance that they have considered every aspect. The truth is, it is impossible to account for every single factor! Therefore, if you possess a strong conviction, take inspiration from Nike and simply "Just Do It!" I believe I am a testament to this approach.
+You were named The South Asian Times Person of the Year 2022. Your thoughts.
+I am filled with a sense of pride and humility upon receiving such a prestigious honor. Previous recipients of this recognition have included notable figures such as Hardeep Singh Puri, former India's ambassador to the UN and current minister in PM Modi's cabinet, New York City Mayor Bill de Blasio, and Pramukh Swami Maharaj of BAPS. This acknowledgment not only reflects my own accomplishments but also serves as a testament to the exceptional talent, dedication, and ingenuity displayed by Indian entrepreneurs like myself.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+Mr. Anil Bansal on the cover page of The South Asian Times
+What are your fondest memories of IITK, and how did IITK shape your personality?
+Attending IIT Kanpur in 1972 was a transformative experience for me, especially coming from a humble background. Being at IIT, it was a daily reminder, whether I believed it or not, that I was among the brightest students in the entire country. This constant affirmation boosted my confidence and deepened my respect for society.
+One of the greatest aspects of my time at IIT was forging lifelong friendships. In addition to receiving a full scholarship, I also took on some work for a professor, which provided me with extra income. With a generous mindset, I always took care of my peers, engaging in activities and building strong connections. Interacting with students from various regions and diverse backgrounds enriched my perspective and made me a more accepting individual. I discovered commonalities among people with different means, fostering a greater sense of unity.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+If you could go back in time and meet your younger self in IITK, what would you tell him now?
+Embrace it, my friend! Live in the moments, celebrate joyfully, forge friendships, and let laughter fill your days. Dedicate yourself to diligent and unwavering effort, never allowing setbacks to dampen your spirit. Cherish this present moment, for it holds the potential to become the most remarkable and cherished time of your life.
+What is your favorite leisure activity?
+I have a profound passion for traveling, and my wife shares the same enthusiasm. Our love for history and nature has led us to explore and experience over 100 countries. Throughout our journeys, certain destinations hold a special place in our hearts, such as our unforgettable visit to Mt Kailash-Mansarovar and our awe-inspiring expedition to Antarctica.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+In addition to our adventures, I also consider myself a food enthusiast and take great pleasure in entertaining others. The joy of savoring delectable cuisines and creating memorable dining experiences for guests brings me immense satisfaction.
+How would you sum up your life so far?
+I have been blessed with the kindness of God, the unwavering support of my family, and the encouragement of those around me. I am immensely grateful to America, which has played a significant role in enabling my achievements. The abundance I have been fortunate to possess has allowed me to contribute back to society, both locally and to my beloved motherland, India.
+India holds a special place in my heart, as it has instilled in me the values of humility, respect for others, and the importance of lending a helping hand. From a young age, we are taught in India that the world is a unified family, and this principle resonates deeply within me. India has exemplified this ethos, particularly during the challenging times of the Covid pandemic.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+What are your future plans?
+My current focus is on uplifting not just humanity as a whole, but specifically my fellow Indians. I am driven to promote their happiness, and success, and to enhance the perception of Indians on a global scale. As a Director of the Indo-American Arts Council based in New York, I actively contribute to showcasing the rich Indian arts and culture. Additionally, I am involved with the FIA (Federation of Indian Associations) New York tristate chapter, which orchestrates the largest India Day Parade outside of India each year.
+My philanthropic efforts extend to supporting diverse charities, all with the underlying purpose of fostering a sense of pride and confidence among fellow Indians. It is vital for us to protect and celebrate our deep-rooted Indian arts and culture, while also showcasing them to the world, particularly in America. Simultaneously, I strive to instill a sense of pride within fellow Indians, reinforcing their identities, accomplishments, and our collective worldview of Vasudhaiva Kutumbakam, where the world is viewed as one family.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anil bansal]
+Mr. Anil Bansal
+12th Feb 2024
+Prof. Deepak Dhar
+01st May 2023
+Mr. Sudhakar Kesavan
+15thSept. 2021
+Mr. Muktesh Pant
+26thApril 2021
+Dr. J. DASH
+18thJan 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog anshul roy ===
+Source: https://www.iitk.ac.in/dora/blog/anshul-roy.php
+IITK Alumnus and self-taught Visual Artist, Anshul Roy (BT/BSBE/2020) talks about his inspiring journey from science to art, the challenges that came and the efforts he took to overcome those.
+The Journey at IITK
+My journey in IITK started in 2015 when I joined the Biological Sciences and Bioengineering Department. During high school, my parents and coaching teachers would tell me that after coming to IIT everything would work out and I wouldn’t need to study much. I think, I took that way too seriously. I had lost touch with my studies right from the first semester, and my CPI was 3.9 at the end of the first year. It was a terrible situation to be in, but on the better side, I started doing photography, which I didn't do before coming to IITK.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+My seniors used to motivate us to join the photography club for very absurd, shallow reasons, but I was encouraged to join photography because I was fascinated by the idea of using the camera as a tool to see the world differently.
+Once people start taking photographs, they start looking at sunsets more closely. They wait and observe flowers and start appreciating the profound beauty in our everyday life. I think photography is a visual art medium that completely changes the way you interact with the real world. One of my favourite quotes is by the French author Marcel Proust who said, "The real voyage of discovery consists, not in seeking new landscapes, but in having new eyes." Of all visual arts, photography is the one which teaches you this in the most concrete way.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+I give a lot of credit to the Photography Club for fostering my interest in photography. I am still in touch with my coordinators (especially, Nishant Shukla, a Y14); on Teacher's day, I even wish them, because they were the ones who first planted that seed inside me. Another thing I love about IITK is its architecture. You cannot help but marvel at the different types of architecture that are present on the campus . My earlier photographic work was heavily inspired by this built environment and is one of the reasons why I still have a very geometric way of looking at the world. I also interned as an Architecture Photographer's assistant in NYC last year, and he also appreciated my eye for patterns and forms.This vision was totally cultivated during my 'photowalks' at IITK campus.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+Hall 13 Geometry, 2020
+I see photography as a continuous struggle against the world, that is always in flux. The world throws out aesthetic moments at you from time to time. It is your responsibility to stop and react to those moments. Photography is different from other visual arts in the sense that it does not start with a 'tabula rasa' (a blank canvas), and it is an act of selection (from a continuous flow of time) rather than an act of creation. Everyone thinks that it's easy to do photography just because it's easy to use a camera, but that is not true. It's like saying it's easy to be a good writer because it's easy to use a pen. These were the intriguing factors for me to get into photography. However, I pursued it just for fun in my first year.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+Reach out your Hand, 2017
+I did ruin my grades in the process, though. I still remember, during the MTH 101 end semester exam, I was done with my paper in 15 minutes, and when I went to submit it, the invigilator said that the exam was for three hours and I couldn't leave the room before 30 minutes. People used to fail and then they used to feel very bad about it, but I did not care. Looking back, I was very wrong. I should have worked hard, because when I was under Academic Probation, I could not do the things I wanted to with a free mind.
+Along with photography, I also relentlessly pursued quizzing during my while at IITK, and won lots of national level quizzes for IITK. When I could not do the things I wanted to do, I realised the gravity of my situation and started to improve my academics from the 4th semester. I am pretty proud of the fact that I was able to graduate with a 6.6 CPI, even after studying the bare minimum.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+PAVING A UNIQUE PATH
+I observed that a lot of my peers and seniors fell into the same trap of running behind money, jobs and lucrative packages. I always used to think that as IITians, we are the cream of the nation and we should have a unique vision, but our aspirations were very similar to those of students from other mediocre colleges (it was just a difference of magnitude). A friend of mine and I always ridiculed that mentality. I think IIT provides a great safety net, and those who are privileged enough to take a risk should go for it. My simple litmus test for what I'd consider a suitable job for me is the 'Garfield' test. I have to be in a job where I don't 'hate Mondays', where I enjoy my work so much that I cannot believe that I'm getting paid for it.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+Love in the Time of Corona, 2021
+I have been very blessed to have supportive parents who let me do this. I remember, I had written a mail to my dad after my first year saying that I don't like this place, and I am in a bad situation. There is a rat race going on here and I don't want to be a part of it. So I wanted to drop out and try a humanities course instead. My father then gave me great advice. He said IIT is like a springboard, it's better to jump from a higher ground then from ground zero. He just told me to get my degree, apart from that I had complete freedom over what I wanted to do.
+I completely agree I was pretty privileged to come from a financially stable background to pursue my true interests. Many of my batchmates didn't have this luxury and had to do a "real job". I totally get the point that for a majority of students, IITs are a way to get out of poverty and elevate their socio-economic status. However, it was disappointing to see that other students who didn’t belong to such disadvantaged backgrounds and also had a desire to do something else with their lives didn’t have the guts to take a risk just because they were afraid of failure and what the society would say of their decisions.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+I feel that the phrase “Indian education system” is a misnomer, because we don’t have an education system in our country, what we do have is a glorified job training system, and the much hallowed places like IITs and IIMs are quite emblematic of this fact. I despised this instrumental approach towards education during my time at IITK, and felt sad that most students don't make use of what we get in IITs, which actually can provide us a lot of knowledge across a broad spectrum of fields.
+Pink and Fragmented Legs, 2022
+Unlike most of my batchmates, I did not have any structured guidance for my career. I did not have any senior who I could talk to about what I had to do in my career, because my path was very different. I had to figure it out all by myself. It was always clear to me that I had a very strong humanities bent. I understood that I wasn't into core engineering, so I tried to explore the other things which were offered in college, like Film Studies, Fine Arts, Cognitive Science. I also did a lot of self directed research in Art History and Critical Theory too. Luckily, I did find great professors in the fine arts department like Prof. Koumudi Patil and Prof. Ritwij Bhowmik, and doing courses offered by them were heavily influential to me.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+For internships and other opportunities, I just had to shamelessly contact people and express my interest in the work being offered. I sent my portfolio to multiple people working in the photojournalism industry, which resulted in me being given a chance at The Hindu by Mr. V.V. Krishnan (who is an iconic sports photographer). I was very lucky to have been mentored by him and learnt a lot during my time there. Overall, I had to put in a lot of effort, but once I found good mentors, it started making sense and the path seemed clearer. Initially I had a dream of being a photojournalist or documentary photographer, but I eventually realised that unfortunately, it is not a stable career path.
+During my stay at IITK, I also realised that there were professors in fine arts with very stable jobs. I also wondered if I had certain professor-like traits, such as maintaining a captivated audience. I really loved imparting knowledge to others, and wanted to be an academician all my life, since my father is a professor. Looking at Prof. Ritwij Bhowmik’s profile, I also found out about the degree called Master of Fine Arts. If you want to become an art historian, then you do a Master of Arts (MA) and then go for a PhD in it, but if you do an MFA, you become a practising artist and can teach at an Art/Design school. This made me seriously think about applying to graduate schools. During my final year, I did a UGP under Prof. Bhowmik and he helped me a lot in crafting my portfolio for Art school as I was a complete novice. Hand of Defiance (Roe v. Wade Protests, NYC), 2022
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+The Synergy between Art and Technology
+When most people think of art, they have the image of Monalisa in their mind; a painting you put on a wall and gain some aesthetic pleasure. According to me, that’s not art but decoration. Contemporary Art has evolved a lot lately and there is so much intersection between STEM and Arts, such as in fields “Bio-Art” and “New Media Art” This one-dimensional way of looking at STEM and Arts is a very regressive thought process and stops the cross-pollination of ideas between these two fields. At IITK, I was highly influenced by reading C.P. Snow’s “The Two Cultures” in which he talks about similar topics way back in the 1950s.
+Hand of God (Fifth Avenue), 2022
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+IITs especially have a decent Humanities department, because they also teach us stem along with that . A lot of my art is inspired from what I have studied in college. This dichotomy between technology and art that society has created, does not really exist. One of my favorite Futurist painters Gino Severni said that - “One of the main causes of our artistic decline lies beyond doubt in the separation of art and science,” and I totally agree with this. I believe that having a basic exposure to mathematical rigour and the scientific method makes you a better artist.
+I have found the most inspiring artists at IITK, rather than outside. The way of approaching problems is different. I am also looking to collaborate with some of my IITK friends in artistic projects related to computer vision and ML. This just shows how IITs are arguably the best institutes for pursuing any kind of academic program, not just engineering.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+Hair Strand with Glycerol (Brightfield Microscopy), 2021
+In spite of not enjoying my time very much in IITK when I was there, in retrospect I think it was a great decision. STEM education is always beneficial, no matter what you want to pursue later, because it gives you logical rigour and a way to think about the world in a rational way. Most of the intellectual malarkey that is plaguing the Arts and Humanities academia lately is just because the scholars in these fields have no exposure to this way of thinking.
+Hands (Real and Fake), 2022.
+LIFE AS A POST-CONCEPTUAL ARTIST
+Since the last one year, I have stopped doing photography for my professional art practice, as I am trying to rebrand myself as a Post-Conceptual artist. For me a good work of art is something that’s interesting to think about, rather than something that’s interesting to look at, and hence the paradigm of ‘Artist as a Visual Philosopher’ is what appeals to me the most right now. There is a distinction between retinal and cerebral artI am more into cerebral art, where it is about ideas more than aesthetic beauty. I am heavily inspired by this quote by Lewis Baltz - “Photography as such is not necessarily interesting, it's interesting as an art medium when it can intersect with other social and aesthetic questions." My current artistic practice is highly “research-based” and is inspired by Post-Colonial discourses, exploring issues like identity, historical memory and cultural representation, with a specific interest in probing how Britishers employed photography in colonial India for "othering" and how these ethnographic photos exist in contemporary institutional archives. This paradigm shift in my thoughts is entirely based on what I was taught by Prof. Koumudi Patil in the Modern Art course at IITK, which also shows how things taught in undergrad are helping me out even now. I am also interested in things like Post-Internet, New Media, Performance Art and Institutional Critique, that I incorporate in my current practice. I recently participated in my first exhibition in a downtown Manhattan gallery and will also be presenting my work at Society of Photographic Education’s 61st Annual Conference next year in St. Louis, Missouri and in The Photographer’s Gallery in London. I am hopeful of gaining more traction in the contemporary art world with my current work.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+Live performance from the series ‘Rage Against the Archive’
+MESSAGE TO STUDENTS
+There are a few pieces of general advice I would give all my juniors. Maintain a bare minimum for CPI, so that you can pursue what you want without hindrance. Question preconceived notions and reject authority. This is the first time in your life you have the opportunity to think for yourself and actually figure out what kind of life you want to live. And then, with the time and freedom you have, find your interests. Invest in them. And don't be afraid to pursue it. I believe that money and everything is taken care of if you enjoy your work so much that you can't believe you're getting paid for it.
+Smombie with Geometry, 2022,
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog anshul roy]
+CHECK OUT HIS WORK
+https://linktr.ee/riyask22
+Anshul Roy
+20thNov 2023
+Soumyadeep Mukherjee
+10thOct 2022
+Dhruv Mittal
+07thJan 2022
+Offbeat
+16thApril 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog dr anil k rajvanshi ===
+Source: https://www.iitk.ac.in/dora/blog/Dr-Anil-K-Rajvanshi
+Dr. Anil K. Rajvanshi (BT/MT/ME/1972/1974)
+Dr. Anil K. Rajvanshi reminisces about his seven years in IITK (1967 – 1974). In part -1 of the series, Dr. Rajvanshi gives a very vivid description of his first impressions of the Institute, talks about IBM 1620 in the Computer Centre, and the TV Centre that was run by Dr. M.M. Choudhari.
+I joined IIT Kanpur in the summer of 1967. Based on my Joint Entrance Examination (JEE) rank, 29, I got my choice of branch – mechanical engineering. In those days, hostel allotment was based on JEE ranking and two students were allotted one room. I was in Hall II. Fourth and fifth year students stayed in Hall I and all post-graduates in Hall IV. Recently when I went to give a lecture in the Institute, I found out to my utter surprise that three students now shared one room!
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+In those times, IIT Kanpur had merit-cum-means scholarships that were given to meritorious students with very limited financial means to provide monetary assistance to take care of their educational expenses. I applied for it but it turned out that since my mother’s meagre income as a school teacher was above the poverty line, my scholarship application was rejected. I was fully aware of the financial situation of my family as the household ran mostly on my mother’s income (my father did not have a permanent job) hence, it would break my heart to ask my parents for undergraduate tuition fees. Luckily, I got scholarships for my M.Tech, and the Government of India funded my doctorate studies at University of Florida, USA. I was quite relieved as it considerably helped ease the financial burden of my parents.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+In the late 1960s, IIT Kanpur campus was still a work in progress. It was quite an arid and barren area with just a few trees around. If I remember correctly, it used to be very hot during summers, and going from one building to another or to the halls in scorching heat was not a pleasant experience at all. Besides, all our lab classes used to take place in the afternoons. The hot weather together with the radiative heat from the asbestos corrugated roof of the workshop was unbearable. The campus has over the years become very green. Whenever I visit my Alma mater, the natural beauty just takes my breath away. Diverse flora and fauna increases the beauty of the campus manifolds. It is a sheer joy to walk around the campus while listening to the chirpings of birds. The lush green surroundings of the campus can now be easily equated with any of the US university campuses. Back then, the whole campus was open - no walls, no security. The walls came in the late 1970s and security services in Halls and around the campus later on. The Institute is now completely gated and the presence of security guards is visible all around.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+Power cuts were quite frequent, especially at night. We would often spend hot and humid nights engaging in bull sessions, discussing anything under the sun, or rather anything under the night sky. Our day would often start on an unpleasant note, as there would be no water in our bathrooms due to night power cuts (electric pumps would not work). We would then be forced to carry our buckets to the lawns and fill water from the taps. Experience of taking showers in winters was not pleasant either as electric boilers were out of order (most of the time), and this resulted in taking icy cold baths. I would call it, The Swedish Bath! You rub your body very vigorously with a towel and then the cold water does not feel that cold. I spent seven chilly winters in just one blanket and two sheets. Now when I look back, I marvel at my inner strength. These experiences, however unpleasant ones, shaped me in a very positive way.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+The quality of facilities in hostels has improved drastically. Students now have clean bathrooms; infrastructure and facilities are of high standards. Washing machines have been installed, and students can now put water coolers in their rooms to beat the scorching heat.
+The first computer of India came to IIT Kanpur in early 1960s. It was an IBM 1620 machine capable of doing rudimentary calculations and was housed in a huge computer center with an excellent air conditioning (AC) system. By the time I entered IITK in 1967 the Computer Center (CC) was functional. Many times the AC environment of the center during summers provided us a solace against the horrendous heat of barren IIT Kanpur campus. Besides, CC was a big draw for visitors who came to IIT Kanpur campus from all over the country.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+In our undergraduate classes, we were taught FORTRAN language for computer programming. In those days, the programs were run using punched cards. These cards would be punched in noisy old clanked machines and then fed in the system. Each punched card formed a line of the program and generally, 50-100 cards were needed in a sequence for the program or subroutine to run. Punching these cards in the machines took quite some time and so did the slow feeding system. The output of the program came out in big printed sheets. Most of the time there were errors in the program since even a comma or a semicolon misplaced would give an error message and the whole program had to be run again with new punched cards. Thus, in those days running a computer program was a laborious and time consuming process. For students nowadays this process would be a nightmare since the input/output (I/O) process of modern PCs is very fast.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+The computer stationery was recycled in an imaginative way. For example, the backside of computer output sheets was used as rough paper. In fact, quite a number of times we used them in place of notebooks for class notes. Similarly, the backside of used computer cards was used either for jottings or as missiles! Some imaginative engineers formed them into a plane and shot them with rubber bands as missiles during the cultural festivals. The pointed nose of these missiles launched at great speeds by rubber bands was capable of inflicting wounds and many times the organizers would announce and request at the start of cultural functions not to use them. I guess we were the pioneers of these computer darts!
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+IIT Kanpur was the first Institute in the country to have a closed circuit TV center. In fact, in the early 1960s it was the first TV center in India. It was run by Dr. M. M. Choudhari who later on went to head NCERT in Delhi. The TV broadcast was erratic and now and then showed some skits and interviews of famous people who visited IITK. Nevertheless, it provided an excellent opportunity for students to learn and operate the TV equipment and learn about TV programming, something that would later on become a major entertainment media both in India and the world. TVC was also a star attraction for visitors coming to IIT Kanpur.
+Dr. Anil K. Rajvanshi
+20thJuly 2021
+Photo Essay
+21stJan 2021
+Email – dora_desk@iitk.ac.in
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog dr anil k rajvanshi]
+Phone. No. +91-512-259-7289
+
+=== blog dr dev joneja ===
+Source: https://www.iitk.ac.in/dora/blog/dr-dev-joneja
+Dr. Dev Joneja
+Dec. 2021
+
+Ms. Martha Carreno
+Nov. 2021
+
+Mr. Narayana Murthy
+Oct. 2021
+
+Prof. Chandralekha Singh and Prof. Jeremy Levy
+Sept. 2021
+
+Mr. Muktesh Pant
+Sept. 2021
+
+Mr. Ranodeb Roy
+Aug. 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog dr jayathi y murthy ===
+Source: https://www.iitk.ac.in/dora/blog/dr-jayathi-y-murthy
+DR. Jayathi Y Murthy
+03rdSept 2021
+Dr.Sudeshna Sinha
+02ndJune 2021
+Ms.Amrita Chowdhury
+28thmay 2021
+Dr Visweswariah
+17thMay 2021
+Dr.J.DASH
+18thJan 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog inspiration ===
+Source: https://www.iitk.ac.in/dora/blog/inspiration
+Inspiration
+Ms. Nisha Mehta with the President of India, Shri Ram Nath Kovind, Dec. 2019
+This is an interview of Ms. Nisha Mehta, who overcame many obstacles in her life, and went on to achieve academic success, and became an inspiration to many others. Ms. Mehta was born with albinism, but with the help of her parents and educators, she pursued an illustrious career in chemistry. Ms. Mehta did her MSc. in Chemistry from IIT Kanpur, and is currently pursuing PhD in Chemistry from the University of Melbourne, Australia. On International Day of Persons with Disabilities held in Dec. 2019, Ms. Mehta received the National Award for Empowerment of Persons with Disabilities by the President of India, Shri Ram Nath Kovind. Ms. Mehta say, “My eyesight is weak, but my vision is strong.”
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+1. What are your fondest memories of IITK?
+I have plenty of memories. I had a very beautiful time in my two years of stay at IIT Kanpur. I would thoroughly enjoy my eight o'clock morning classes; hostel life gave me a completely new experience; eating mess food, going out for evening walks with friends or taking a stroll in the middle of the night. I cherished my stay at the institute. But my convocation ceremony stands out as the most memorable one. I received Sangeeta Pradhan Memorial Medal for outstanding all-round achievements. As I was awarded by none other than Ms. PT Usha, it made my day even more memorable. My other most memorable moment was when I received the best project award for SURGE i.e. Summer Under-graduate Research and Graduate Excellence program.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+2. How did your life at IITK shape your interest and help you decide your career path? How did your love for chemistry grow?
+I liked the coursework structure at IIT Kanpur that was very helpful for me to decide what I wanted to do because it wasn’t any bookish knowledge. Again, course structure was the main reason I could select the SURGE Project which was also very helpful for me to explore my interest area and work on some of the very challenging topics. And of course, my Master's project which actually helped me decide what I wanted to pursue. At IITK, professors are very helpful; their constant support and motivation brings out the best in students.
+3. How can we, as a society, make it more inclusive for people with disabilities?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+As a society, we must first learn to accept people with disabilities. Acceptance is the first step towards inclusivity. We must learn to treat them as equals and show empathy. Little motivation and support goes a long way. Creating awareness is a key factor in bridging this gap. It is important to understand the needs of people with disabilities. For example, customizing workplaces by providing a person with vision impairment with large font-sized keyboard. Treat them like normal people, and yet be aware of their special needs.
+4. What/who is the source of inspiration?
+Inspiration comes to me from every corner of life. But I guess, reading biographies of people, who overcame many challenges in their lives, and left a mark on the society, inspires me the most. For instance, Dr. APJ Abdul Kalam, Stephen Hawking have been my constant source of inspiration. Whenever I feel low or demotivated, I look back at times when I couldn’t see the light at the end of the tunnel, and yet I carried on and came out as a winner.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+5. What is your most preferred leisure activity?
+In my free time, I love reading, mostly biographies of people who have set an example in society and whose lives inspire me to overcome my own hurdles in life. I love nature, so I travel to places where I can explore and cherish natural beauty.
+6. What are your future plans?
+I want to remain in academia, as it gives me an opportunity to do challenging research, and in the process, I learn more.
+7. Your words of inspiration to IITK students.
+One word – acceptance. We need to accept who we are. We need to accept the challenges that come our way. Once we accept who we are, and accept the hurdles of life, it is then we can positively find solutions to our problems.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+Love and enjoy what you do. If you are passionate about your work, it won’t seem like an everyday task, it will come naturally to you, and you will be amazed by the results you produce.
+Poem by Shri Harivansh Rai Bacchan, inspires me a lot. I would love to share the same with everyone.
+"जब तक न सफल हो नींद-चैन को त्यागो तुम संघर्षों का मैदान छोड़ मत भागो तुम कुछ किए बिना ही जयजयकार नहीं होती हिम्मत करने वालों की कभी हार नहीं होती"
+हरिवंश राय बच्चन
+8. Those are very inspiring words! What would be your advice to students planning a career in research?
+I would advise everyone to explore their research interest as much as they can. Research requires lot of dedication and passion. In research, it is important to explore ideas, be open to other possibilities, and be ready to learn new things. Rigidity kills research.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog inspiration]
+Due to Covid-19 pandemic, I could not attend many conferences. It was disheartening, but I soon started exploring some online courses related to my field. Therefore, instead of feeling bad about not being able to attend conferences, I grabbed this opportunity to increase my knowledge of chemistry.
+Interview conducted by Alumni Relations,OutreachCell,IITK
+Ms. Nisha Mehta
+10 August 2020
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog leisure ===
+Source: https://www.iitk.ac.in/dora/blog/leisure
+In Leisure Time
+Dr. Arvind Krishna shares with us his most preferred leisure activity - reading. He talks about his most favorite book and how it has influenced him.
+The Mathematical Theory of Communication by Claude Shannon has mattered a great deal to me at various moments of my life. It has shaped my thinking and worldview. Its lessons are enduring as I constantly refer back to it and learn something new with each pass. The Mathematical Theory of Communication by Claude Shannon: This is the magna carta of the information age. Every computer built, email sent, and video streamed bears a debt to Claude Shannon. Just as physicists subjected the sway of a pendulum and the orbits of the planets to the same laws, Claude Shannon made our world possible by getting at the essence of information. That ability to decompose something down to its basics is a lesson that has stayed with me whether I look at the fundamentals of a complex business like IBM or solve a deep technological problem.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog leisure]
+Dr. Arvind Krishna
+10 August 2020
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog mental well being ===
+Source: https://www.iitk.ac.in/dora/blog/mental-well-being
+Navigating Uncertainty during a Pandemic
+In mid-March, I was due to finish my Ph.D. thesis and submit it by May-end. Instead, I found myself living in isolation at my home after the campus closed down. Like many people, my sense of coping and well-being has been a little shaken. Eight months have passed since the lockdown. As we enter the festive seasons, it seems as if we have lost the rhythm of our existence. Some people are exhausted from working day in and day out to ensure the running of our society’s basic infrastructure. Others are struggling with the passivity and monotony of each day after losing their jobs or their connection with others. The pandemic has exacerbated the already existing uncertainty in our world over the economy, employment, finances, socialization, relationships, education, physical and mental well-being. And, we all are navigating through these uncertain times the best that we can.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+How do we recognize our distress?
+As humans, we are a very adaptive species. We all are adapting and responding to the pandemic in different ways. We might be engaging with social media, baking challenges, or online streams to distract ourselves from the uncertainty, but there is a constant sense of boredom, listlessness, fear, and ambiguity. Researchers are calling it ‘acedia’ where one experiences a paradoxical combination of frayed nerves and lack of care, concern, or grief. We are procrastinating, resisting change, having trouble focusing, struggling with scattered thoughts, experiencing difficulty in asking for help, and maybe even planning everything to the last detail. All these are our responses to the uncertainty brought about by the pandemic. But, not all of them are serving us well.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+What could be some healthy ways of responding to the uncertainty?
+Over the last few months, I have realized that we must tune in with our bodies, needs, and well-being to sail through these uncertain times.
+Build realistic expectations around stress-
+Our windows of tolerating stress have become smaller. When things become “too much” or “all at the same time,” people either tend to shut down or blow up. Managing our expectations and knowing our threshold for stress helps in responding in healthier ways.
+Be kind to yourself -
+We need to hold ourselves with compassion to be able to go through these uncertain times. Kindness can look like having short naps, “me time”, meditating, going easy on ourselves, practicing gratitude, acknowledging our feelings, and asking for help. We all need to extend the kindness we show others to ourselves as well.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+Routine is a friend -
+Maintaining a daily schedule – regular meals, eight hours of sleep, drinking water, some physical activity – these are small things that can support a sense of order and control during these times.
+Maintain connections-
+Staying connected with our friends, spending time together, leaning on our support systems, communicating our needs, and ensuring a positive social media interaction can strengthen our well-being efforts.
+Be present-
+Uncertainty tends to make us worry about the future or ruminate about the past. Grounding ourselves in the present moment, focusing on one thing that we can control, or focusing on our breath can be powerful ways of not getting swept away by uncertainty waves.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+How can we take care of each other better?
+We are witnessing various responses to the pandemic around us. Some responses reassure us. Some distress us, and others confuse us. However, when we identify someone impacted by the pandemic and struggling to cope, there are ways in which we can support others’ needs without endangering our sense of coping and life balance.
+Check-in and check-out-
+Sometimes, just a friendly ‘Hello’ or check-in about their physical health and daily functioning can be enough for people to feel less isolated in their struggles. “Help is what the person needs, not what you can give.” Therefore, giving people space, taking a step back, and allowing them to process their struggles at their own pace can sometimes be more helpful than generic advice or specific solutions to their problem.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+Ask questions-
+Sometimes, we find ourselves confused or unable to help our loved ones because we might have different perspectives. In such situations, the best help we can provide to them is by asking, “what can be helpful?” “what change do they want in their lives at the moment?” or “what can you do to help them?.”
+Respect their preferences-
+We might find people around us struggling during these difficult times leading us to doubt their choices and decision-making abilities. But, respecting their preferences can help them feel more confident and secure about their ability to cope.
+Listen and reflect-
+Sometimes, the biggest help to someone suffering can be a ‘patient ear.’ People tend to withdraw when they feel judged while they share their concerns. Being mindful and kind towards our differences can help us be more sensitive while caring for people around us.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+Work through the uncertainty together.
+We all are coping differently. Allow people to function within the limits they are capable of at the moment. Sometimes, just including people in everyday activities and reassuring them that they are not alone is more helpful than fixing their problem.
+Remember that patience is your friend-
+Helping others can get frustrating when our efforts are rejected, and people try to push us away. In those difficult times, patience is our friend. Understanding that “there are no quick fixes” and “people take time to come to terms with their struggles” goes a long way. It is a stressful time for people, organizations, institutions, states, and the world. We can protect ourselves and those around us by embracing good physical and mental health ways of being, relying on others, and being there for others when necessary.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog mental well being]
+Ms. Arpita Gupta
+PhD Scholar, Clinical Psychologist
+HSS Department, IIT Kanpur
+Mental Well-being & Covid-19
+28thOctober 2020
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog mr abhay bhushan ===
+Source: https://www.iitk.ac.in/dora/blog/mr-abhay-bhushan
+Mr. Abhay Bhushan, recipient of the IITK Distinguished Alumnus Award 2006, shares his most priceless treasure - photographs from his IITK days.
+Dr. Anil K. Rajvanshi
+20thJuly 2021
+Photo Essay
+21stJan 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog online class ===
+Source: https://www.iitk.ac.in/dora/blog/online-class
+It's 7:55 AM already, and I remembered I have a class at 8! Hurriedly, I woke up and switched on my laptop. It didn't take more than a minute to enter the meeting, and with the instructor beginning with "Hello everyone", I knew I wasn't late. So good I don't have to rush my bicycle to the LHC only to see the main door being bolted from inside. Just one of those few privileges of online classes.
+The pandemic hasn't shown any sign of stopping yet, and this 'new normal' won't get back to the 'old normal' anytime soon. We'd still be interacting with each other, but only through the screens, voices being partially audible, and hoping for the network to be it's best. And that's one of the benefits of online classes for me: I can do my work at my own pace, as long as I'm meeting the deadlines and streaming all lectures thoroughly. The pressure and intensity is less, compared to the days when we had the tough time going and coming from the lecture halls to the hall. No environment can provide a cosier atmosphere than what home provides. Mookit: how wonderful this platform has been! From storing lectures along with slides, having a discussion panel to keeping an announcement section; it didn't make the students miss the benefits of classroom teaching. Students get the benefit of watching the lecture anytime, till any part and continue the remaining part later, and those who are slightly slow in grasping concepts have a great advantage in repeating the lectures. And they could study at the hour when they are the freshest; unlike before when they had to drag themselves to the class to complete the attendance requirements.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog online class]
+And yet with all these facilities, deep down, don't we crave for our old hectic IITK schedule? Those last minute breakfasts before dashing towards the lecture halls, the joy after successfully marking the attendance, those late night study sessions with friends, and subsequently rewarding ourselves with a canteen visit at 1 o'clock midnight; the experience is just incomparable! For someone, his/her academics can either be improved or degraded. Improved in the sense that distractions are greatly minimized, and degraded in the sense that doubt clearing just gets tougher. We'd still contact our friends before the tutors for explaining that 2-line example in the slides, won't we? This facility is just eroded now. And doubts can, well, just linger on the whole semester.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog online class]
+Helpless enough. I mentioned the benefits of watching lectures anytime before, but what if someone just doesn't even have that internet connectivity for that? Of course, the slides are there. They aren't the alternatives for lectures, where the instructor vividly explains the sub-points of a topic, and that's how those points are recalled any day by a student. Slides are just written manuscripts which outline what the topic is about.
+And the most important part: how are we ensuring fairness in exams? Some students can download the notes and use them in exams, even if they aren't meant to be open-book assessments. The seriousness of a student just reduces greatly, so great that he/she knows the formula and notes would be available near my hands anytime; why even bother to study 3 months prior? Even though cheating through discussion groups can be checked: IIT Delhi just announced a reward of 7 marks to anyone who proved students cheating in any social media group. Well played, IITD.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog online class]
+Covid-19 has given online teaching a new dimension, and with time it'd slowly take over the classroom teaching. Why? It's just so comfortable for the professors uploading lectures in a peaceful environment, without the chaos created by students in the class; and regarding doubt clearing sessions; they can be conducted as per mutual convenience of the teachers and students. Given the boom of technology in the coming years, people might just shed the troubles of going to lecture halls and attend lectures comfortably at home. That goes without saying that the before-mentioned cons are relevantly addressed, so that no student is left behind.And yes, online classes are here to stay.
+Written by Sandipan Mitra and Neha Gupta. Y19 batch, IIT Kanpur
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog online class]
+Student Diary
+16th September 2020
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blog prof sanjit sengupta ===
+Source: https://www.iitk.ac.in/dora/blog/prof-sanjit-sengupta
+Prof. Sanjit Sengupta, an avid traveler
+Prof. Sanjit Sengupta got his B. Tech. in Aeronautical Engineering from IITK in 1980. He is now a Professor of Marketing at San Francisco State University, USA. In his spare time he likes to write poems, short stories, and plays. An avid traveler, Prof. Sengupta shares with us one of his most memorable trips he took with his friend and a cousin in 2009.
+Leaving home for IITK at age 17 was an adventure in itself. My love for travel was further fueled by two memorable trips I made while at IITK. One was a third-year Spring break trip to Corbett National Park, Nainital, with some of my batchmates, around March 1978. The image of the elephant we were riding, rearing up on its hind legs, on discovering a tiger in tall grass about 10 meters away, is etched in my memory forever. The second was my first overseas trip to Sri Lanka with two of my hostel wingmates, Vimal and Ashwin. In the summer of 1979, we traveled by train to Chennai. Then we took another train from Chennai to Rameshwaram. Then a ferry from Rameshwaram (India) To Talaimannar (Sri Lanka). And finally another train from Talaimannar to Colombo. This was a lesson in traveling on a shoestring budget. We enjoyed fabulous hospitality in Sri Lanka, hosted by the family of our friend, Riza. We were fortunate to experience Colombo, Kandy, and Nuwara Eliya before the insurgency that lasted from 1983 - 2009.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+In the summer of 2009, Vimal (my IITK roommate) and I decided to relive the experience of our Sri Lanka trip thirty years ago by doing a trip to Europe. We were well into our careers and families in the USA. We lamented that when we were young we had time and not much money to travel. Now the situation was reversed so we decided to make the time. My cousin, Pramila, from Mumbai joined us on this trip.
+We met up in Prague on July 5, 2009, at the Kampa Garden Hotel. Prague, the capital of the Czech Republic, was once a flourishing center of art, and the unfettered Bohemian lifestyle. We walked everywhere. We went to Old Town Square with its churches, cafes, and tourists. We walked to the Charles Bridge across the Vitava river and saw artists selling their wares on the sidewalks. We toured the Prague castle with its classic architecture. And spent time at Wenceslas Square, where the Velvet Revolution occurred in 1989. This revolution marked the Czech Republic’s transformation from communism to democracy. Franz Kaffka, one of the most influential figures in twentieth-century literature, was from Prague
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+Statue of Franz Kafka in Prague
+On July 8, Vimal, Pramila, and I took a Eurail train from Prague to Vienna, about a four hours ride. We stayed at the Hotel City Central. The brother of Bettina, my former student, drove us to a lovely beer garden. We sampled the local brew and sausages and listened to a melodious accordion player on a balmy summer evening. The Danube river that originates in Germany cuts through Vienna. It goes on through Hungary, Serbia, and Romania, reaching the Black Sea. The Danube, being an important trade channel, created flourishing civilizations along its banks. The next day Bettina joined us and showed us around the Schönbrunn Palace and the Belvedere Palace. We saw their beautiful flowers and gardens that indulged all the senses. We took a tour of the Vienna State Opera building, which keeps alive the works of Bach, Beethoven, Mozart, and other famous composers to this day. We had coffee and the world-famous Sacher Torte chocolate cake at the original Viennese cafe where the product was invented.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+With Vimal (L) and Pramila (R) in Vienna
+After two nights in Vienna, we took a train from Vienna to Budapest, about three hours. Another great city along the Danube, Budapest is the capital of Hungary. We checked in at the Karoly Hotel, a short walk from the train station. The Ottoman Turks ruled this area for more than 150 years starting in the 14th century. There is evidence of that in the architecture. The Nazis occupied Hungary during 1944-1945, followed by Soviet military occupation. An anti-Soviet revolution in 1956 was crushed by the Soviets leaving 3000 people dead. With the break-up of the Soviet Union in 1991, Hungary became a free country again. We visited Heroes Square, where the 1956 revolution happened. We saw the impressive Parliament building, and Saint Stephen’s Basilica. There are many bridges across the Danube in Budapest. We saw the Margaret Bridge, the Liberty Bridge, and the Chain Bridge. On a hot summer day, we had a nice cool dip in the Széchenyi Thermal Bath in the City Park. We took a boat cruise along the Danube and saw the wonderful city skyline from the boat
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+River Danube in Budapest
+On our first evening in Budapest, we were trying to find our way to a restaurant for dinner near the waterfront. Suddenly, two local males in plain clothes confronted the three of us. They spoke in Hungarian and broken English. They showed us some indecipherable IDs and asked us if we had any drugs. I said we were tourists from the US then they asked us to show them our money. I thought they were going to rob us. Years of living in the USA had conditioned me not to resist a mugging for fear of getting shot. I opened my wallet, showed them my California ID and the few Euro and Forint notes that I had. They took my wallet, examined it, and returned it without taking anything. Then they waved us on. We were shaken up but happy that we were not robbed. To this day I can’t be sure who those guys were. My best guess is they were undercover narcotics agents suspicious of foreigners.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+After two nights in Budapest, we continued on our journey. The next part was the most interesting. Vimal, Pramila, and I had decided to take the train from Budapest through Serbia and Macedonia to Thessaloniki in Greece. This would be an overnight journey with berths. It would be like taking overnight trains in India. We would get to see picturesque landscapes of several countries during the journey. From Thessaloniki, we would take another train to Athens, our destination.
+The train from Budapest arrived within four hours at Subotica, a border station in Serbia. Serbian border agents came around to check our passports. Vimal and I had US passports valid for travel in Serbia. Pramila had an Indian passport with a Schengen visa. We had checked that the Schengen visa is valid in every country where we would stay overnight. But Serbia is not a Schengen country. So the border agents asked Pramila to disembark. We tried to explain that we were not interested in stepping on Serbian soil, just taking the train for transit to Greece. The guards were unmoved. They said Vimal and I could continue on the train but not Pramila because she had no visa for Serbia. What a dilemma! We barely had a few minutes to make a decision! Pramila is my first cousin and was my responsibility during this trip. I had to explain to Vimal that I would get off the train in Subotica with Pramila, and go back to Budapest by train. Then we could take a flight to Athens and meet him there as planned. This was the best compromise because Vimal had a flight out of Athens back to the USA in a couple of days. He was crestfallen but stoically bade us goodbye and good luck.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+A Serbian border agent took our passports and escorted Pramila and me out of the station. After a short walk, we entered what looked like a government office building. He asked us to sit on a bench along the wall. He sat at a desk in a corner of the same room. I could see another room next door and took a peek. A locked metal grill divided the room. Unmistakably, inside the grill was a jail cell. I joked to Pramila we were lucky they hadn’t put us behind bars! The guard kept chain-smoking the entire time so we absorbed a fair amount of carcinogens during the hours we were there. Pramila and I kept discussing our alternate plans to get to Athens. After a couple of hours, the guard came and told us that the next train to Budapest would arrive at 1 AM and we could board that train. He would escort us back to the station and we could buy tickets with my credit card before boarding. I was getting hungry and told the guard about my need. He said I could go out of the building and buy food because of my US passport. But he would not let Pramila go with me. I had my iPhone with a SIM card valid in Europe so I looked up Google Maps for restaurants near my location. I found a Mcdonald’s within walking distance. I ordered four Fillet-O-Fish sandwiches, large fries, and two sodas and brought them back with plenty of ketchup packets and napkins. Pramila and I had the best McDonald’s meal of our lives. It really brought home the meaning of “comfort food”. Late that night we were taken back to the train station, returned our passports, and took the train back to Budapest.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+Pramila and I stayed an extra day and night in Budapest. I managed to book two air tickets, Budapest to Athens, for the next day at high prices. I also managed to send Vimal an email letting him know of our revised plan. Pramila and I arrived in Athens on July 14, a day later than our earlier train schedule. We checked in at the Centrotel Hotel and met up with Vimal who was delighted to see us. Vimal’s train ride to Thessaloniki was no fun so he decided to take a flight from Thessaloniki to Athens instead of the train. We spent two days sightseeing in Athens. We saw temples from different centuries and civilizations. The ruins evoked a sense of gratitude for the cradle of democracy and the genesis of western civilization. We trekked up a hill to see the Acropolis, a cluster of ruins including the Parthenon (see photo below). One could sense the spirit of Socrates and Plato walking through the temple ruins. We visited the National Archaeological Museum. Marble busts of ancient Greeks such as the historian, Herodotus, and Emperor Antoninus Pius, were on display here. It was an exhilarating feeling to soak up so much of history in a couple of days. The Greek food and wine we imbibed were wonderful. On July 16, we bade farewell to Vimal who returned to San Francisco. Pramila and I took a flight from Athens to Rome for our last stop.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+Athens
+From the Rome airport, Pramila and I took a train to the city center where our hotel was. There was a short walk from the train station to the hotel. We were conspicuous as tourists thanks to our rolling suitcases and backpacks. Suddenly, someone from the back tapped my shoulder and said, “There’s something on the back of your shirt”. I glanced to see some red powder on my shoulder. I immediately shouted loudly, “Get away from me” and told Pramila to start walking faster. Luckily the guy behind me decided not to follow us. I had read on the web about such tourist scams before I came to Rome. Had I stopped and let go of my rolling suitcase to dust off the powder, someone would have grabbed my luggage and ran off. Such was our introduction to Rome. The rest of our trip was fine. Rome steeped us in history like Athens. The Colosseum led me to imagine the Gladiators dueling it out in mortal combat. The Forum as the seat of Government and everyday life in ancient Rome was impressive. Julius Caesar’s tomb in the Forum seemed modest compared to the power and glory that he enjoyed in his lifetime. We spent another day visiting the Vatican. Saint Peter’s Basilica was gorgeous and Michaelangelo’s frescoes in the Sistine Chapel were exquisite. We also threw some coins into the Trevi fountain for good luck.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blog prof sanjit sengupta]
+Colosseum in Rome, Italy
+On July 19, I said goodbye to Pramila and took a flight from Rome to Helsinki for a summer teaching assignment. Pramila flew back to Mumbai. I understand now the need to take up a travel opportunity safely whenever it presents itself. The past eighteen months have not been conducive to travel. But I look forward to the near future when I can fly safely again. Once a safe opportunity presents itself, prepare yourself for an enjoyable trip. Choose the right travel companions. Have a sense of adventure and bring along a flexible mindset to adapt to uncomfortable circumstances.
+Prof. Sanjit Sengupta
+14thSept. 2021
+Email – dora_desk@iitk.ac.in
+Phone. No. +91-512-259-7289
+
+=== blogs abhishek ===
+Source: https://www.iitk.ac.in/dora/blogs/abhishek.php
+Blog
+ DORA
+Beyond Boundaries
+Mr. Abhishek Anand
+Published: 22nd June 2025
+Mr. Abhishek Anand (BS-MS/CHM/2022), a dynamic alumnus of IIT Kanpur made headlines as a member of the Japan National Cricket Team.) He has followed a truly remarkable path — transitioning from the world of Chemistry at IIT Kanpur to the international cricket arena as part of the Japan National Cricket Team. His journey is a compelling blend of passion, perseverance, and the courage to pursue the unconventional. With a deep commitment to both academics and sport, Abhishek stands as an inspiration to all who dare to dream differently. This article celebrates his story — a powerful reminder of where determination and vision can take you. "In an engaging interaction with the DoRA Office, he reflects on his unconventional journey, love for cricket, and how IITK laid the foundation for dreaming big."
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Let's start from the beginning—How did your journey at IIT Kanpur begin? Was cricket always a part of the plan, or did it sneak in later like a googly?
+Cricket was always close to my heart. Even during school days, I was very passionate about it. But I also knew that if I wanted to continue playing without objections from my parents, I had to do well in academics too. That balance helped me focus and eventually crack the IIT entrance exam. Before coming to IIT Kanpur, I only played softball cricket. But once I got to campus, I was introduced to leather ball cricket. Playing alongside skilled players—some from IIT and many from outside—gave me a new perspective. That's when I realized, "Maybe I'm not that far behind." That's when I started seriously considering cricket as more than just a hobby.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+How did IIT Kanpur shape your personal and professional journey? Was there a turning point during your campus life that set your path in motion?
+IITK taught me how to stay disciplined, how to manage time, and most importantly, how to keep believing in myself. It was during my time at IITK, playing competitive cricket and balancing it with studies, that I realized I could actually take cricket forward as a serious pursuit. The turning point was when I started competing with strong players and holding my ground. That gave me the confidence that I have the potential too—and maybe with the right opportunities, I could do something more with it.
+What kept your passion for cricket alive, even while pursuing a demanding academic path at IIT Kanpur? And how did you manage both?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+It wasn't easy, but I loved both in different ways. Cricket gave me energy and purpose. Studies gave me structure and stability. I always believed that if I could do decently well in academics, then no one would question my decision to play. So I stayed consistent—never tried to be perfect, but always tried to keep things balanced. Whenever I got time between classes or labs, I used it for practice or fitness. Over time, it just became a habit to manage both.
+Have you faced moments where the two paths conflicted? How did you handle those situations?
+Yes, many times. Sometimes tournaments would clash with exams or labs, and I had to make difficult choices. I remember skipping a few important matches due to academic deadlines and vice versa. But I always tried to keep my communication clear—with teammates, everyone. And I accepted that I couldn't give 100% to both at all times. It was all about managing priorities and making peace with the choices.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+You captained the IIT Kanpur cricket team—what did those leadership days teach you that no classroom ever could? Any match moment that's etched in your heart forever?
+Leading the team was a huge learning curve. I learnt how to handle pressure, manage different personalities, and take responsibility—not just for myself but for the whole team. One moment I'll never forget was during Udghosh, when I was captaining the IITK Alumni team. We reached the semifinals, but one of our main players got injured badly and had to be taken to the hospital. We were almost on the verge of losing the match—our whole team was all out except for that injured player. To everyone's surprise, he came back just in time, padded up, and walked in to bat. He had been following the scorecard from the hospital! That courage and timing turned the match around, and we went on to win the tournament. It was an unforgettable moment of team spirit and belief.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Japan, cricket, and software—sounds like the title of a Netflix documentary! Tell us how you landed in Japan and became a part of the Japan Cricket Association.
+That's actually not too far off. Japan was never part of the plan. During placements, I got an offer from Accenture Japan. I had just a few hours to decide whether to accept it or not. In that time, I searched online to see if there was any cricket scene in Japan—and randomly found an article about Japan participating in the T20 World Cup qualifiers. That one moment made me decide to go. Once I moved here, I reached out to the Japan Cricket Association, started playing locally, and slowly became part of the national setup. It still feels a bit unreal sometimes.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+You've worked with Accenture Japan and now with Manulife. How has your tech journey evolved? Any cultural or professional insights from working in the Japanese work environment?
+Working in Japan has been a unique experience. The culture here values discipline, teamwork, and humility. Professionally, I've grown a lot—starting with Accenture and now at Manulife, I've worked on interesting tech projects and also learned how to adapt to a completely different work culture. Language and communication were big challenges at first, but over time, I got more comfortable. It's helped me grow both as a professional and as a person.
+Criticism is part of the game—on field and off it. How do you deal with it? Ever had to face a tough decision or moment of self-doubt? How did you bounce back?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Definitely. Whether it's a bad day at work or a rough patch in cricket, criticism and self-doubt are always around. I've had moments where I wondered if I'm doing the right thing—especiallywhen I wasn't performing or when things weren't going as planned. But in those moments, I just remind myself why I started. I also try to talk to people I trust, who know my journey. That support helps a lot. I take feedback seriously, but I don't let it shake my confidence. I've learned to keep moving forward, even if it's slow.
+What's next for Abhishek Anand? Are we going to see a startup founder, a full-time cricketer, a cloud architect—or all of the above?
+Honestly, I'm keeping all doors open. Right now, I'm focusing on giving my best to both cricket and my tech career. I'd love to explore areas where both can intersect—maybe something in sports tech someday. I'm not rushing into a fixed path. I'm just taking it step by step and seeing where it leads.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Your advice to students at IITK, especially those who feel torn between academics, passion, and a future they can't quite define yet?
+I'd say don't stress too much about figuring it all out right away. It's okay to be confused. What's important is to keep exploring and not ignore what excites you—whether it's music, sports, writing, or anything else. Try to maintain balance. You don't need to be the best at everything, but if you're consistent and true to what you love, the dots will connect someday. And remember—your journey is your own. Don't compare it too much with others.
+Quick rapid fire to lighten things up!
+Cricket or coding—what gives you the bigger adrenaline rush?
+Cricket—always. Nothing beats the pressure of the last over and the sound of the ball hitting the bat just right.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Chai at IITK canteen or sushi in Tokyo?
+Chai at IITK canteen—sushi is nice, but chai with friends at IITK hits different.
+If your life were a movie, what would the title be?
+Bihari Jalwa from Kanpur to Japan
+Favorite food from the IITK mess?
+Chicken curry of our Hall - 12 mess
+Most funny memory of IITK?
+One of the funniest memories I have is about our coach, Subrata Roy sir. When I played well and aggressively, he'd shower me with praise like I was the next big thing. But the moment I got out, his whole vibe would switch instantly - like he turned into a completely different person! It was hilarious how fast he changed from cheerleader to critic.
+The professor whose class you never skipped?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs abhishek]
+Prof. whose attendance mattered the most
+India vs Japan match—you're batting last over. Who do you want to bowl?
+Bowling to any Indian batsman will be a dream come true and if it's batting I would like to face Bumrah.
+And finally, if you could go back to your first day at IITK, what would you tell that younger Abhishek in one line?
+Relax, you're exactly where you need to be - and trust the process.
+Contact Info
+dora_desk@iitk.ac.in
++91-512-259-7289
+Copyright © 2026. All Rights Reserved.
+
+=== blogs ankur garg ===
+Source: https://www.iitk.ac.in/dora/blogs/ankur-garg.php
+Blog
+ DORA
+Journey to ISRO
+Mr. Ankur Garg
+Published: 17th Dec 2025
+From a curious child in Jabalpur who gazed at the night sky to a scientist contributing to some of India’s most significant space missions, journey is one of passion, perseverance, and purpose. An IIT Kanpur alumnus and a key contributor at ISRO’s Space Applications Centre, Mr. Ankur Garg (MT/CSE/2015) has worked on nationally impactful missions such as Oceansat-3, Cartosat-2S, and Resourcesat, and now leads algorithm development for upcoming projects like TRISHNA and the G20 Satellite. His story reflects not only a deep love for science and exploration but also a commitment to creating technologies that serve society — a journey recently recognised with the prestigious Vigyan Yuva Shanti Swarup Bhatnagar Award 2025.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+In an engaging interaction with the DoRA Office, he reflects on his unconventional journey and how IITK laid the foundation for dreaming big.
+Please tell us about your early childhood and how your journey eventually led you to IIT Kanpur.
+I was born on 25th February 1992 in Jabalpur, Madhya Pradesh. My entire schooling—from kindergarten up to Class 12—was at Maharishi Vidya Mandir, a CBSE school in Jabalpur. Those years laid a strong academic foundation for me and also shaped my interest in science and technology.
+After school, I pursued a Bachelor’s degree in Computer Science and Engineering from Jabalpur Engineering College, completing it in 2013. During my undergraduate years, I became increasingly inclined toward deeper technical understanding and research-oriented environments. That motivated me to prepare seriously for the GATE examination.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+I appeared for GATE in 2013, secured a good rank, and subsequently went through the written test and interview process at IIT Kanpur. After clearing them, I joined IIT Kanpur in 2013, which became a pivotal milestone in my academic and professional journey.
+(In front of IIT Kanpur Gate in the year 2013)
+What influenced your decision to join ISRO? Did you consider any other career paths, and was your inclination toward ISRO or scientific research present from the beginning or developed during your engineering years?
+From my childhood, I was always fascinated by the night sky. I used to look at the stars and wonder how they were formed and what lay beyond them. This curiosity stayed with me, but it became much stronger during my engineering years. At that time, the media coverage of major Indian space missions like Chandrayaan, Mangalyaan, IRNSS, and various rocket launches deeply inspired me. These achievements made me dream about working in space science and contributing to such missions.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+Academically, I was on a path that typically leads to a software development career. As a Computer Science graduate from IIT Kanpur, the most common option for me was to join a large multinational company as a software engineer. However, my growing interest in space pushed me to explore a different direction.
+I decided to appear for the ISRO recruitment exam, and I secured AIR 1. That success gave me the confidence to follow my passion, and I eventually joined the Space Applications Centre (ISRO). Looking back, the combination of childhood curiosity and the inspiration I received during my engineering years played a major role in shaping my decision to join ISRO.
+Which experiences or mentors influenced your career path?
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+The biggest influence on my career path came from the outstanding work ISRO was doing during my formative years. Missions like Chandrayaan and Mangalyaan, and the strong media coverage around them, made a deep impression on me. Seeing India achieve such milestones sparked a sense of pride and curiosity, and gradually shaped my desire to contribute to space science and technology. These experiences created a long-term motivation in me, and ultimately led me to choose this field as my career path.
+(Visit to CNES, France in 2023)
+(Visit to CNES, France in 2023)
+Do you have any fond memories of your IITK days?
+I have many fond memories from my days at IIT Kanpur. Life in Hall-7—the canteen, the mess, the MT area, and the everyday interactions with friends and seniors—formed a very special part of my journey. The campus itself was beautiful and peaceful, with cycles everywhere, open spaces, and the constant chirping of birds creating an inspiring environment.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+I was fortunate to learn from several exceptional professors, including Dr. Harish Karnick, Dr. Manindra Agrawal, Dr. Sumit Ganguly, Prof. Dheeraj Sanghi, Dr. Surendra Baswana, Dr. Sanjeev Saxena, and Dr. Anil Seth. I remember their teachings very clearly. Their guidance, along with the academic atmosphere and peer interactions, played a major role in shaping my thinking.
+Those days at IITK gave me exposure, confidence, and experiences that I continue to draw upon in my professional career even today.
+You have contributed to major missions like Oceansat-3, Cartosat-2S, Resourcesat, EOS-08, and the Microsat/Nanosat series. What was the most challenging project?
+For me, the most challenging project was Oceansat-3. The mission plays an important role in studying ocean characteristics, especially in deriving chlorophyll concentration, which acts as a proxy for locating potential fish zones. These advisories are shared with fishermen across India and directly support their livelihoods. Because of this social impact, the responsibility felt even greater.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+The sensor on Oceansat-3 is one of the best in the world for ocean colour studies. It uses lowcost indigenous hardware, a novel data acquisition scheme, and several advanced software algorithms. I was responsible for developing the end-to-end processing pipeline for this mission. Initially, many people felt that the complexity of the system might limit its performance. But with ISRO’s strong review culture, rigorous testing, and continuous refinement, we were able to overcome every challenge.
+When the satellite was finally launched and the data started coming in, everything worked exactly as planned. Even today, Oceansat-3 continues to deliver excellent-quality data, and fishermen across the country benefit from the advisories generated using this mission for their livelihood.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+(Mr. Ankur Garg receiving ISRO team award 2018 from Shri D.K. Das Director, Space Applications Centre (center) and Shri. Nilesh Desai (then associate director and now Director, Space Applications Centre) (Right))
+How has AI helped make satellite data easier to process and interpret, and could you explain this in simple terms for readers who may not be familiar with the topic?
+With so many satellites in space today—more than a thousand observing the Earth—the amount of data they send back is far too large for humans to check or interpret manually. This is where AI has become a game-changer. AI models can automatically find and correct errors in the data, process huge volumes of information within minutes, and even interpret patterns just like a trained analyst. With the rise of deep learning, LLMs, and agentic AI systems, satellite data processing has become faster, more accurate, and almost fully automated. This allows scientists and agencies to deliver useful insights—like weather alerts, ocean information, or crop health—even in near real time.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+You currently lead algorithm development for missions like TRISHNA (Indo-French Mission), the G20 Satellite, and the Resourcesat-3S Stereo Mission. Could you tell us a little about these projects and your role?
+I am currently involved in three important upcoming missions, each of which has a unique global purpose.
+TRISHNA is a collaborative mission between ISRO and CNES (France). Its main objective is to study water stress, which means understanding how much water plants are losing and how efficiently they are using it. In simple terms, water stress tells us whether crops, forests, or natural vegetation are getting enough water or facing shortages. TRISHNA is the first mission of its kind in the world, and its data will support agriculture, drought monitoring, climate studies, and sustainable water management.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+The G20 Satellite is another unique mission, conceived by the Government of India and implemented by ISRO. It aims to study climate change, pollution levels, forest fires, and environmental impacts across the globe. It is a collaborative effort among all G20 countries, with India playing a central role by providing the satellite platform, payloads, and launch vehicle. The mission will create a shared global system for monitoring Earth’s health.
+The Resourcesat-3S Stereo Mission focuses on generating high-resolution 3D maps of the Earth. It will help track how terrain elev­ations change over time due to human activities, earthquakes, landslides, and other natural processes. These 3D datasets will be extremely valuable for urban planning, hydrology, flood modelling, infrastructure development, and disaster management.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+Across all these missions, I lead the development of the algorithmic and processing pipelines that convert raw satellite data into usable and actionable products.
+You recently received the Vigyan Yuva Shanti Swarup Bhatnagar Award 2025. How did you feel when you received this award?
+I felt truly ecstatic, and it is difficult to express that feeling in words. I consider this recognition a blessing from my parents, grandparents, mentors, seniors, all well-wishers who have guided and supported me throughout my journey and the constant support from my wife. Having my work recognised at the national level means a great deal to me. It is both an honour and a motivation, encouraging me to contribute even more meaningfully to science and to future national missions.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+Many students dream of working at ISRO. What advice would you give to young researchers who want to pursue their career in space science, data processing, or AI-related fields?
+I would encourage students to stay curious, keep learning new technologies, and follow the exciting innovations happening in space science and AI. The global space economy is growing rapidly, and India is emerging as a major player. With the new Indian Space Policy, the space sector has opened up in a big way to private companies and startups. Today, more than 200 young space startups have already come up in India, working on everything from satellites and rockets to AI-based analytics and data processing.
+My advice is to actively explore what is happening around the world—how space technology, AI, data science, and even quantum computing are being used to solve real problems. Look at those challenges, think creatively, and ask yourself what new problems you can solve using these technologies.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+Whether one joins ISRO or builds a startup, the goal should be to innovate and contribute to India’s leadership in the global space sector. This is a great time to be in this field, and young researchers can play a major role in shaping its future.
+Besides your hard work, who would you say played a key role in your achievement at such an early age?
+My parents and grandparents have been my biggest source of strength since childhood. The constant support of my wife, and the guidance of my mentors, seniors, and well-wishers, have helped me at every stage.
+I would also credit the culture of ISRO and the Space Applications Centre, which offers a unique environment for learning, collaboration, and exposure to multidisciplinary work in space science and technology. All of these together have shaped my growth and contributed to whatever I have achieved so far.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs ankur garg]
+How do you like to spend your free time?
+In my free time, I enjoy reading and exploring the latest developments in space science from around the world. I also like travelling, and whenever I get a break or vacation, I try to visit new places and experience something different.
+Contact Info
+dora_desk@iitk.ac.in
++91-512-259-7289
+Copyright © 2026. All Rights Reserved.
+
+=== blogs prof tapan baghchi ===
+Source: https://www.iitk.ac.in/dora/blogs/prof-tapan-baghchi.php
+Blog
+ DORA
+Aashiyana Hall
+Supported by
+Prof. Tapan Baghchi
+Some places on a campus become special over time. They are not just buildings, but spaces where people meet, talk, celebrate, and create lasting memories. Aashiyana is one such place at IIT Kanpur. Built in 2015 with the generous support of Prof. Tapan Baghchi.
+From small informal gatherings to special celebrations, Aashiyana has become a regular part of campus life. It was thoughtfully envisioned and beautifully designed. This air-conditioned hall was created to give the campus community a warm, comfortable, and welcoming place to come together. Today, it serves more than 10,000 residents and continues to bring people closer through shared experiences and everyday interactions.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs prof tapan baghchi]
+2015
+Year Established
+10,000+
+Campus Residents Served
+∞
+Memories Created
+Prof. Tapan Baghchi's association with IIT Kanpur spans several decades, beginning with his undergraduate education in Mechanical Engineering in 1967. After building a distinguished academic career, he returned to his alma mater in 1987 as a faculty member in the Department of Industrial and Management Engineering, where he contributed to teaching and research until his retirement in 2007.
+To understand the spirit behind Aashiyana, we spoke with Prof. Baghchi about his early inspirations, the idea behind the hall, and his hopes for the IIT Kanpur community.
+In Conversation with Prof. Tapan Baghchi
+On his early journey into engineering
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs prof tapan baghchi]
+Prof. Baghchi recalls growing up in Allahabad (now Prayagraj) and appearing for the Joint Entrance Examination in 1967, where he secured an All India Rank of 52 in his very first attempt.
+Two incidents left a deep impression on my young mind. Seeing a miniature model of a wooden building, an engineer was constructing, and later watching engines in motion at an industrial exhibition in Delhi - steam turning into motion, and radio waves producing sound. These experiences sparked a curiosity that never faded. That's when I realized: I wanted to be an engineer someone who turns imagination into reality.
+That early curiosity became the foundation of a lifelong journey in engineering, teaching, and mentorship.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs prof tapan baghchi]
+The idea behind Aashiyana
+The concept of Aashiyana emerged from a simple yet powerful observation.
+Our campus lacked a warm and comfortable space where people could meet informally. Having seen similar spaces at international campuses, I felt IIT Kanpur needed a 'home' - a place for genuine human interaction away from noise and daily rush.
+The hall was envisioned as a meeting place where faculty, staff, and students could come together, share conversations, and build connections beyond professional boundaries. Even its name, Aashiyana, meaning home, reflects this sentiment.
+Earlier, the Shopping Centre was the only social spot on campus. Today, I'm proud that Aashiyana stands exactly as we envisioned - a space of comfort and community.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs prof tapan baghchi]
+On how alumni can contribute
+For Prof. Baghchi, giving back goes beyond financial support.
+The most meaningful way for alumni to contribute is through active engagement. Visiting the campus, interacting with students, and understanding the environment firsthand helps identify where support can make the greatest impact."
+He encourages alumni to connect deeply with the institute and direct their contributions toward initiatives that strengthen the overall campus experience.
+Thoughts on campus healthcare
+While appreciating the growth of academic and sports infrastructure, Prof. Baghchi also highlights an important concern - healthcare.
+For a campus as large and advanced as IIT Kanpur, there is great potential to further strengthen and expand its medical services. We already have excellent playgrounds and facilities, and with continued focus, healthcare too can grow to match this progress.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs prof tapan baghchi]
+Good health services are not just a necessity; they are a responsibility toward the entire campus community.
+A message for today's students
+His advice to students is simple yet profound:
+Stay curious. Don't just chase grades - learn to observe, question, and create. Engineering is not just about machines;it's about mindset - thinking deeply and solving meaningfully.
+With Heartfelt Thanks
+IIT Kanpur expresses its deepest appreciation to Prof. Tapan Baghchi for his thoughtful and enduring contribution. Because of his generosity, generations of the campus community will continue to experience warmth, connection, and togetherness at Aashiyana.
+Contact Info
+dora_desk@iitk.ac.in
++91-512-259-7289
+Copyright © 2026. All Rights Reserved.
+
+=== blogs rajnish kumar ===
+Source: https://www.iitk.ac.in/dora/blogs/rajnish-kumar.php
+Blog
+ DORA
+Mr. Rajnish Kumar
+BT | CSE | 2001
+Co-founder & Group Co-CEO, ixigo
+Distinguished Alumni Award by IIT Kanpur, 2023
+From an engineering graduate to the co-founder of one of India's leading travel brands, Mr. Rajnish Kumar has spent over two decades building ixigo around a simple belief: technology can make travel simpler and more accessible. What began as an effort to solve everyday travel problems has grown into a platform that millions of travellers rely on for their travel needs every day.
+Mr. Rajnish began his career at Amadeus SAS in France - first as a Software Engineer, later heading its technical function - before returning to India and co-founding ixigo in 2007.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+Under his leadership, ixigo has grown from an early-stage company into India's leading AI-based travel platform, serving over 57 crore Annual Active Users in FY26. He has led the company's product, technology, and AI strategy across this journey, while building the teams and technology behind its evolution. He was honoured with the 2023 Distinguished Alumni Award by IIT Kanpur and recognised in the 'Comeback Kid' category at the Economic Times Start-up Awards 2021. He is also an active mentor and investor in India's start-up ecosystem and the author of Made in Fire, a book on entrepreneurship, resilience and building enduring companies.
+After 25 years since his graduation, Mr. Rajnish Kumar returned to the IIT Kanpur campus as the Guest of Honour at the CSE Department Convocation 2026. During his visit, DoRA media team had the opportunity to speak with him about his journey from being a student at IIT Kanpur to co-founding ixigo.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+In the conversation, he reflected on the challenges that shaped his journey as an entrepreneur, including the unprecedented crisis during the pandemic when ixigo saw its numbers drop to zero overnight. He spoke about the difficult decisions that helped the company navigate the crisis, the experiences that shaped its culture, and the lessons he learned along the way.
+He also spoke about his book Made in Fire, drawing on nearly two decades of building ixigo to share lessons on entrepreneurship, resilience and building enduring companies, alongside his thoughts on what today's graduates need to keep in mind as technology and AI continue to reshape the world.
+In his own words, he reflects on the journey.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+"I had no idea what those years ahead would hold"
+It feels surreal to be back here. I feel wonderful to be back after 25 years. Twenty-five years ago, when I walked out of this place, I had absolutely no idea what would happen in the years ahead. I had no idea I would go on to start a company - and, most importantly, that I would do it for the next two decades. I had no idea I would write a book, and I had no idea I would be back here as the Guest of Honour. So, I'm really, really excited to be back. Most of the meaningful things that happened in my life happened once I left IIT - but almost all of them were enabled right here.
+How the definition of success has changed
+Back in the day, success for most of us was either getting into the most coveted university in the US, or landing a well-paying job and building a great career out of it. I think what's changed now is that the definition of success is more about building something meaningful - creating an impact in the lives of millions of people. And I think that's what makes this moment so exciting.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+The biggest lesson IIT taught him - beyond computer science
+I look back at how difficult it was to crack the JEE. No matter how much you prepared, the questions were always different, never seen before - you had to learn how to solve a problem you'd never solved before. I think the most important thing I learned at IIT was learning how to learn. That lesson became the most important one in my life, because building a company means navigating constant uncertainty. You have to keep learning, keep reinventing yourself. That's the only real way to survive.
+The second thing IIT taught me: I came from a school where I was probably the smartest person in the room for over a decade. When I arrived here, almost everybody around me was smarter than me. That taught me that you have to surround yourself with people who are smarter than you. When we started hiring at ixigo, the mantra became: hire people who are smarter than yourself. In the end, the success of a company doesn't depend on how smart the founders are - it depends on how great a team they're able to assemble.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+Why he chose entrepreneurship - and how ixigo was born
+When we started, we were solving for travel. We realized travel was broken, and that technology could solve a lot of those problems. That obsession with solving consumer problems is what made me start out on this path. If you're genuinely obsessed with solving consumer problems, at some point you'll find yourself on the same road to entrepreneurship.
+The toughest moments - and what kept ixigo going
+The easy answer is resilience - that's the reason we survived. But you're only resilient because you never give up. There were times we were probably one day away from shutting down, but we kept fighting, found a way out, and lived to fight another day.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+The other thing that mattered was ingenuity. When you're in a tough spot with your back against the wall, instinct says there are only two outcomes - fight or flight. For us, it was always about finding ingenious ways to invent something and get out of that situation, so we'd come out stronger on the other side.
+COVID was unprecedented. Just when we thought we'd seen it all, COVID happened. I remember the moment our dashboards showed zero - zero bookings, zero revenue, everything at a standstill. My heart rate went up to 120 while I was talking to my co-founder Alok about what to do next. The only thing we were worried about wasn't the spreadsheets or the revenue - it was our people, and our consumers.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+So, the first decision we made was not to let go of anybody. It was hard - we only had a few months of runway left, and the only obvious way to survive was to cut people. We decided against it, because we saw it as a humanitarian crisis: if we let them go, they wouldn't find another job outside. So, we invented a mathematical formula for salary cuts, proportionate to what people earned. There was no cut at all for people at the bottom of the salary curve, and very deep cuts for people at the top - several of us in the leadership team went to zero salary.
+The second thing we did was refund every single rupee to every customer who cancelled a ticket - even before we'd received the refund from our own partners, which was a real risk.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+"We'd rather go down doing the right thing than compromise on what we could live with"
+Resilience and ingenuity got us through - but the real reason you do any of that is because you have the will to survive, and that comes from something bigger: purpose. For us, it was the purpose of building something bigger than ourselves, of creating impact for people. That purpose is what made us fight, and what made us live to see the next day.
+What makes a great founder?
+Having done this for so long, and met so many people in the founder community - and even at IIT, where most of my classmates were brilliant - I've realised there isn't much correlation between raw intelligence and the ability to build something. Founders tend to have a few qualities that set them apart:
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+A higher appetite for risk. Most people are naturally risk-averse; founders aren't.
+Irrational optimism - about their idea, and about their own future selves. If someone could show a founder the two decades of blood, sweat, and tears ahead of them, they'd probably never start. But founders don't see that - they only see a positive future.
+Empathy. Even before I started a company, I used to keep a list - I'd notice a problem, find a solution, write it down, and tell myself: someday I'll start a company to solve this. That list is still very long, though I've started crossing things off as they get built.
+The ability to articulate a vision. Founders are good at convincing people of what they're building - that's what excites people and motivates them to follow.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+Mistakes young builders should avoid
+I never wanted to write a book - I genuinely thought I'd never have the time, and that it was unnecessary. But someone convinced me otherwise, and the reason I finally did it is that building a company is an excruciatingly painful exercise. Looking back, I wrote the book for my younger self - if I'd had a manual back then, I probably wouldn't have gone through so much unnecessary pain.
+That's not to say you shouldn't go through pain at all - everyone needs their own painful experiences to truly learn. Resilience is built through near-death experiences, and you can't simulate those in a lab. Judgment comes from making tough calls. Instinct is built through experience. But sometimes, you don't have to learn only from your own scars - you can learn from other people's scars too. That's exactly why I wrote Made in Fire.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+A company shouldn't die during a crisis just because it lacked financial discipline - that's something you can learn easily, without living through it. You shouldn't lose your health chasing a milestone. You shouldn't poison your culture just because you didn't understand how important hiring is.
+"This book won't remove every fire from your journey - but it should help you avoid the unnecessary ones."
+We learned almost everything the hard way in our own journey - pretty much everything that could go wrong, did - and that pain is what inspired me to write something that might help hundreds of thousands of young entrepreneurs out there.
+Building in the Age of AI
+Right now, is an extraordinary moment to be passing out of IIT Kanpur, because this is the best time in history to be a builder. I don't think there has ever been a time when a small team, armed with AI, could create something meaningful enough to impact millions of people. This is probably the biggest opportunity in the history of humanity - I've never seen a time when trillion-dollar companies get built in a matter of years; the last time it took a company that long to reach a trillion dollars, it took several decades.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+At ixigo, this is exactly the mindset we bring to how we build today - using AI not as a buzzword, but as a way for a small team to move at a scale that simply wasn't possible before. My suggestion to everyone graduating today would be: go out and build something, and create an impact.
+"This is the time to build. Take the opportunity and run with it - it's almost like the dot-com boom all over again. Everything is up for grabs."
+Advice for graduates - and for young builders everywhere
+Years from now, nobody will remember your CPI, or which stream of engineering you graduated from. Everybody will remember what you built - the impact you created, how you treated people along the way.
+So, stay curious, and go build something that matters. Students are graduating right now at an extraordinary moment - take it, and run with it.
+[Context: IIT KANPUR DORA - ALUMNI BLOGS AND REFLECTIONS > blogs rajnish kumar]
+Contact Info
+dora_desk@iitk.ac.in
++91-512-259-7289
+Copyright © 2026. All Rights Reserved.
+

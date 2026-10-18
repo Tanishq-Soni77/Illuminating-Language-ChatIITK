@@ -1,0 +1,87 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF NE TECH. (NUCLEAR ENGINEERING AND TECHNOLOGY) COURSES
+Name: All courses of Department of NE Tech. (Nuclear Engineering and Technology) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course NE620A - RADIATION INTERACTION, DETECTION, AND SHIELDING-THEORY ON NUCLEAR MEASUREME
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NE620A. Source: Courses of Study 2021, IIT Kanpur.
+Applications of Radiation. Half Life Determination. Radiation Dose Levels and Calculation: Inverse Square Law Verification, ALARA Principle, Linear no threshold model. Basic Principles of Radiation Detection. Gamma Ray Interactions: photoelectric, Compton scattering, pair production Empirical calculation of cross sections, Linear Attention Coefficient Measurement. Evaluation of GM Detector Characteristics: Plateau determination, Dead time calculations, paralyzable and nonparalyzable detectors. Measurements and Counting Statistics for Error Evaluation Limits. Ionizing radiation and detection, Neutron and special nuclear material (SNM) detection for security applications. Mechanisms of neutron interaction: capture, scientillation etc. Scintillation detectors, Capture detectors, Fission chambers. Semiconductor Detectors. Pulse shaping and signal processing. Radiation detection and shielding methods for safety at various nuclear facilities. Measuring gamma dose and shielding calculations. Measuring neutron spectrum and dose and shielding calculations. Measuring other forms of radiation, dose and shielding calculations. Principles of particle accelerator and measurements on the 1.7 MeV TANDETRON* OR Instrumentation and controls used in existing and advanced nuclear power plants*
+
+Course NT602 - NUCLEAR AND REACTOR PHYSICS
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT602. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to quantum mechanics, Schrodinger equation and its solution by separation of variables. Potential well, quantum states. Nuclear charge, radius and mass. Binding energy. Nuclear forces and the deuteron problem. Semiempirical mass formula. Energetics of nuclear stability. Reaction channels, Compound nucleus. Energy dependence of neutron cross sections and Brecitwigner formula. The fission process. Neutron diffusion theory showing down length. Critical mass and size. Numerical criticality search. Four factor formula. Energy dependent diffusion. Multigroup diffusion, group constants and matrix formulation. Two group analysis. Age theory. Slowing down theory.
+
+Course NT602A - NUCLEAR AND REACTOR PHYSICS
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT602A. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to quantum mechanics, Schrodinger equation and its solution by separation of variables. Potential well, quantum states. Nuclear charge, radius and mass. Binding energy. Nuclear forces and the deuteron problem. Semiempirical mass formula. Energetics of nuclear stability. Reaction channels, Compound nucleus. Energy dependence of neutron cross sections and Brecit wigner formula. The fission process. Neutron diffusion theory showing down length. Critical mass and size. Numerical criticality search. Four factor formula. Energy dependent diffusion. Multigroup diffusion, group constants and matrix formulation. Two group analysis. Age theory. Slowing down theory.
+
+Course NT611 - NUCLEAR POWER ENGINEERING I
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT611. Source: Courses of Study 2021, IIT Kanpur.
+Types of nuclear reactors. Heat generation in fuel elements and temperature distributions. Heat removal, Reactor coolants. Single phase and two-phase heat transfer. Boiling and flow regimes. Heat transfer and fluid flow correlations. Pressure drops due to friction and pumping power. Reactor core
+
+Course NT611A - NUCLEAR POWER ENGINEERING I
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT611A. Source: Courses of Study 2021, IIT Kanpur.
+Types of nuclear reactors. Heat generation in fuel elements and temperature distributions. Heat removal, Reactor coolants. Single phase and two-phase heat transfer. Boiling and flow regimes. Heat transfer and fluid flow correlations. Pressure drops due to friction and pumping power. Reactor core.
+
+Course NT614 - NUCLEAR POWER ENGINEERING II
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT614. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to control theory. Point reactor kinetics with introduction to feedback effects. Nonlinear effects. Shielding. Introduction to reactor reliability and safety analysis. Radioactive waste disposal. Economics of nuclear power. Introduction to nuclear fuel cycles.
+
+Course NT614A - NUCLEAR POWER ENGINEERING II
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT614A. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to control theory. Point reactor kinetics with introduction to feedback effects. Nonlinear effects. Shielding. Introduction to reactor reliability and safety analysis. Radioactive waste disposal. Economics of nuclear power. Introduction to nuclear fuel cycles.
+
+Course NT615 - NUCLEAR POWER ENGINEERING III
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT615. Source: Courses of Study 2021, IIT Kanpur.
+Health Physics: introduction, radiation protection, regulatory aspects, radiation biology, operational radiation protection, radiation protection monitoring. Process Instrumentation and Control: basic concepts, sensing and transmission/receiving of temperature, flow, liquid level, pressure, force, viscousity, humidity. Nuclear Materials: fabrication and properties of zircaloy, metallic fuels, ceramic fuels, applications. Nuclear Chemistry: role of chemistry in nuclear engineering, chemical processes in the nuclear fuel cycle, production of uranium, plutonium, thorium, heavy water, water treatment, corrosion, decontamination.
+
+Course NT620A - RADIATION INTERACTION, DETECTION, AND SHIELDING-THEORY ON NUCLEAR MEASUREME
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT620A. Source: Courses of Study 2021, IIT Kanpur.
+Applications of Radiation. Half Life Determination. Radiation Dose Levels and Calculation: Inverse Square Law Verification, ALARA Principle, Linear no threshold model. Basic Principles of Radiation Detection. Gamma Ray Interactions: photoelectric, Compton scattering, pair production Empirical calculation of cross sections, Linear Attention Coefficient Measurement. Evaluation of GM Detector Characteristics: Plateau determination, Dead time calculations, paralyzable and nonparalyzable detectors. Measurements and Counting Statistics for Error Evaluation Limits. Ionizing radiation and detection, Neutron and special nuclear material (SNM) detection for security applications. Mechanisms of neutron interaction: capture, scientillation etc. Scintillation detectors, Capture detectors, Fission chambers. Semiconductor Detectors. Pulse shaping and signal processing. Radiation detection and shielding methods for safety at various nuclear facilities. Measuring gamma dose and shielding calculations. Measuring neutron spectrum and dose and shielding calculations. Measuring other forms of radiation, dose and shielding calculations. Principles of particle accelerator and measurements on the 1.7 MeV TANDETRON* OR Instrumentation and controls used in existing and advanced nuclear power plants* 1. G.F. Knoll, Radiation Detection and Measurements, John Wiley & Sons, Hoboken, New Jersey (2010).2. S.S. Kapoor and V.S. Ramamurthy, Nuclear Radiation Detectors, Wiley Eastern Limited (1986).3. K.S. Ram, Nuclear Measurement and Techniques, Affiliated EastWest Press, New Delhi (1986).
+
+Course NT621 - NUCLEAR MEASUREMENTS LABORATORY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT621. Source: Courses of Study 2021, IIT Kanpur.
+Biological effects of radiation; Radiation monitoring; GM Counter characteristics, counting statistics. Scintillation detectors and gamma spectrometry. Multichannel analysis. Semiconductor detectors for alpha and gamma spectrometry. Coincidence measurements. BF 3 counters. Foil Activation. Cadmium ratio measurements. Neutron diffusion length and age measurements. Experiments using Van de Graaff. Radioisotope applications, Computer simulation studies.
+
+Course NT621A - NUCLEAR MEASUREMENTS LABORATORY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT621A. Source: Courses of Study 2021, IIT Kanpur.
+Biological effects of radiation; Radiation monitoring; GM Counter characteristics, counting statistics. Scintillation detectors and gamma spectrometry. Multichannel analysis. Semiconductor detectors for alpha and gamma spectrometry. Coincidence measurements. BF 3 counters. Foil Activation. Cadmium ratio measurements. Neutron diffusion length and age measurements. Experiments using Van de Graaff. Radioisotope applications, Computer simulation studies.
+
+Course NT633 - NUCLEAR FUSION
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT633. Source: Courses of Study 2021, IIT Kanpur.
+Basic physics of fusion reactions, thermonuclear cross sections. Radiation losses: bremsstrahlung and cyclotron radiation. Energy balance: Lawson criterion, neutronnics in a fusion reactor. Plasma confinement: Pinch effect, stellarator and magnetic mirrors. Plasma heating ohmic and adiabatic compression: Tokamaks. Inertial confinement of plasma micro explosion and laser fusion.
+
+Course NT641 - INTRODUCTION TO COMPUTERIZED TOMOGRAPHY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT641. Source: Courses of Study 2021, IIT Kanpur.
+Overview, medical imaging, nondestructive testing, radiographic techniques, various applications, data collection, design of CT scanners for materials testing, flow measurement, related instrumentation, Radons inversion formula, central slice theorem, fan beam inversion, filter functions, convolving functions transform methods, series expansion methods, convolution algorithms, error estimates, direct theorems, inverse theorems.
+
+Course NT641A - INTRODUCTION TO COMPUTERIZED TOMOGRAPHY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT641A. Source: Courses of Study 2021, IIT Kanpur.
+Overview, medical imaging, nondestructive testing, radiographic techniques, various applications, data collection, design of CT scanners for materials testing, flow measurement, related instrumentation, Radons inversion formula, central slice theorem, fanbeam inversion, filter functions, convolving functions transform methods, series expansion methods, convolution algorithms, error estimates, direct theorems, inverse theorems.
+
+Course NT642 - NON-DESTRUCTIVE EVALUATION
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT642. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, various NDE techniques ultrasonics, eddy current, magnetic flux leakage, radiography, optical, tomographic extensions of classical NDE/NDT methods Radon inversion, data collection mechanisms, applications in industrial situations.
+
+Course NT642A - NON-DESTRUCTIVE EVALUATION
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT642A. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, various NDE techniques ultrasonics, eddy current, magnetic flux leakage, radiography, optical, tomographic extensions of classical NDE/NDT methods Radon inversion, data collection mechanisms, applications in industrial situations.
+
+Course NT651 - FAST REACTOR TECHNOLOGY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT651. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, Core design, Fuel element design, Fuel management, Heat transport systems, Steam generators, IHX design, Sodium pumps & piping, Instrumentation& controls, safety, extractive and physical metallurgy of nuclear materials, Metallic fuels, cladding, post irradiation examination, fabrication of fuel, Steels for nuclear environment, advanced NDT techniques, corrosion.
+
+Course NT651A - FAST REACTOR TECHNOLOGY
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT651A. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, Core design, Fuel element design, Fuel management, Heat transport systems, Steam generators, IHX design, Sodium pumps & piping, Instrumentation& controls, safety, extractive and physical metallurgy of nuclear materials, Metallic fuels, cladding, post irradiation examination, fabrication of fuel, Steels for nuclear environment, advanced NDT techniques, corrosion.
+
+Course NT652 - NUCLEAR FUEL CYCLE
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT652. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, nuclear fuels, uranium technology, xirconium process, fabrication of fuel assemblies, PWR fuel, mixed oxide fuel, irradiated fuel, reprocessing, radioactivity, contamination, waste management, enrichment of uranium, thorium cycle, fast reactor fuel cycle and fuel fabrication, environmental impact and safety.
+
+Course NT699 - M TECH THESIS
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT699. Source: Courses of Study 2021, IIT Kanpur.
+M. Tech. Thesis
+
+Course NT799 - PHD THESIS
+Department: Department of NE Tech. (Nuclear Engineering and Technology). Credits (L-T-P-D-C): NT799. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis

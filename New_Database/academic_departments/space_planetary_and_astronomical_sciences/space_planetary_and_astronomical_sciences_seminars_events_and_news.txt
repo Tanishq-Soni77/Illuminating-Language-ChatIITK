@@ -1,0 +1,1552 @@
+DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Department of Space, Planetary and Astronomical Sciences and Engineering, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/space. Snapshot: scraped in 2026.
+
+=== events updates ===
+Source: https://www.iitk.ac.in/space/events-updates
+SKA-India Summer Training School 2026
+
+Dates: June 29 – July 10, 2026
+
+Link for the workshop: Click Here
+
+Short Lecture Series on Positional Astronomy
+
+Time: 11:00 am - 12:30 pm
+
+Dates: 20, 22, 23, 24, 26, 27, 29 Dec.
+
+Venue: SPASE seminar room.
+
+The contents of the course can be found here
+
+An Introductory Workshop on Exoplanet on Detection and Characterization: From Observation to Understanding the Science of Exoplanets
+
+April 4-6, 2025 at IIT Kanpur, India
+
+Link for the workshop: https://sites.google.com/view/exows25
+
+Lecture Series on "Relative motion between satellites", by Prof. Arun Misra, Distinguished Visiting Faculty in the SPASE dept. Details can be found here
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > events updates]
+IITK-ISRO Space Instrumentation and Payload Development Workshop (28-30 March 2024)
+
+Visit by IITK alumnus Rajiv Desai (July 2024)
+
+Dr. Rajiv Desai, a distinguished alumnus of IIT Kanpur and a pioneer in robotics and AI, recently visited the Department of SPASE, IITK. He delivered an inspiring talk on the Mars Pathfinder mission, the scale and challenges, and the role of autonomous vehicles in space exploration. Dr. Desai also engaged with students, discussing his journey from IITK to NASA's Jet Propulsion Laboratory and his ventures in entrepreneurship in space technology. His visit provided invaluable insights into the future of space missions and the integration of AI and robotics in space exploration.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > events updates]
+Extraterrestrial space captures the imagination and curiosity of students and citizens across India. To celebrate this shared fascination, the Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE) and the Department of Aerospace Engineering at IIT Kanpur proudly hosted National Space Day on August 24, 2024.
+
+This year’s celebration was particularly special as it marked the first anniversary of Chandrayaan 3’s historic Moon landing. The event explored the present and future of the Indian space program through expert discussions, hands-on activities, and engaging astronomy outreach. It was a day of learning, inspiration, and pride as we came together to honour India’s achievements in space and envision the exciting possibilities that lie ahead.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > events updates]
+It was a day of learning, inspiration, and pride as we came together to honour India’s achievements in space and envision the exciting possibilities that lie ahead.
+
+For more information "click here"
+
+view pictures click here
+
+11th International Workshop on Very High Energy Particle Astronomy (VHEPA 2024) 17 Oct - 19 Oct 2024.
+
+https://inspirehep.net/conferences/2785233
+
+=== gallery ===
+Source: https://www.iitk.ac.in/space/gallery
+To be updated soon...
+
+=== latest news ===
+Source: https://www.iitk.ac.in/space/latest-news
+IIT Kanpur and NCRA Pune Astrophysicists Develop a New Method to Measure Pulsar Distances.
+Ashish Kumar, a doctoral student in the Physics department working under the supervision of Prof. Pankaj Jain (SPASE department), in collaboration with Prof. Avinash Deshpande (SPASE department), developed a novel method to measure distance to pulsars. Pulsars are compact stars that emit periodic pulses of electromagnetic waves. Measuring astronomical distances is a very challenging problem, and the traditional parallax method works only for stars that are not too far away. The new method makes effective use of the observables, dispersion measure and temporal broadening to reliably extract an estimate of the distance. The authors applied their technique to pulsars in the direction of the Gum Nebula. Dr. Ashish Kumar is currently a postdoctoral fellow at NCRA, Pune.
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > latest news]
+https://doi.org/10.1093/mnras/stag057 (Paper Link)
+https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-way-to-measure-distances-in-deep-space/article70837490.ece (complete article)
+https://www.iitk.ac.in/develop-new-method-to-measure-pulsar-distances
+https://www.etvbharat.com/hi/state/iit-kanpur-and-ncra-pune-scientists-discovered-measure-distance-between-stars-uttar-pradesh-news-ups26022600573
+https://researchmatters.in/news/astrophysicists-develop-novel-distance-measuring-model-correct-cosmic-map-gum-nebula
+https://www.ptinews.com/story/national/iit-k-ncra-pune-scientists-develop-new-method-to-measure-pulsar-distances/3413743
+
+Discovery of a new Feature in Cosmic Ray Spectrum
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > latest news]
+Dr. Fahim Varsi, doctoral student in Physics department working under supervision of Prof. Pankaj Jain (SPASE department) discovers a kink in the cosmic ray spectrum. It is generally expected that cosmic rays originate from a supernova explosion and display a simple power law spectrum up to energies of order of a million GeV. The presence of a kink challenges this understanding and indicates the presence of another source. The discovery may provide some important clues which may help in unravelling the mystery of the origin of cosmic rays.
+
+The corresponding paper is published in Physical Review Letters:
+Phys. Rev. Lett. 132, 051002 (2024) - Evidence of a Hardening in the Cosmic Ray Proton Spectrum at around 166 TeV Observed by the GRAPES-3 Experiment (aps.org) [1]
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > latest news]
+Some popular articles on the discovery:
+A new kink in proton spectrum to enhance our knowledge of cosmic ray origin (phys.org) [2]
+A new kink in proton spectrum will enhance ou | EurekAlert! [3]
+A new kink in proton spectrum will enhance our knowledge of cosmic ray (scienmag.com) [4]
+A new kink in proton spectrum to enhance our knowledge of cosmic ray origin - Tech and Science Post [5]
+Proton Spectrum Kink Boosts Understanding of Cosmic Ray Origin | Mirage News [6]
+
+Dr. Prashant Pathak, faculty member in the Department of SPASE, discovers a new giant planet named Epsilon Indi Ab orbiting a nearby star similar to Sun. The corresponding paper in Nature, titled "A temperate super-Jupiter imaged with JWST in the mid-infrared" is available at:
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > latest news]
+https://www.nature.com/articles/s41586-024-07837-8. A newspaper article on the paper is available at: https://timesofindia.indiatimes.com/city/kanpur/iit-kanpur-assistant-professor-part-of-team-that-discovered-exoplanet/articleshow/112030744.cms
+
+Department of SPASE, along with the Department of Aerospace, has signed an MoU with Manastu Space, an emerging space tech company based in Mumbai. This partnership offers exciting opportunities for IIT Kanpur, especially in expanding our research into space-based services and technologies. Collaborating with a space-tech company like Manastu Space allows us to explore cutting-edge areas such as space robotics and propulsion systems. Additionally, our students will gain invaluable experience through internships and placements in a fast-growing sector. The collaboration will also enhance the skills of our researchers and faculty through exchange programs, making this a mutually beneficial relationship.
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > latest news]
+Manastu webpage: https://www.manastuspace.com/about
+
+The outreach project from Dept of SPASE has been selected for the International Astronomical Union - Office for Astronomy Development (IAU-OAD) has been selected for a grant of 7000 Euros (P.I. Dr. Tejpreet Kaur & Amitesh Omar).
+
+=== seminar ===
+Source: https://www.iitk.ac.in/space/seminar
+Upcoming Speakers
+
+Arun Misra (McGill)
+
+Priyanka Chaturvedi (TIFR)
+
+Shantanu Desai (IITH)
+
+AN Ramprakash (IUCAA)
+
+Avinash Deshpande (RRI)
+
+Subbiah Satyam (IITM)
+
+2026
+
+Date - 08/10/2026 @5:15 PM
+Speaker -  Ashik Paul  (Institute of Radio Physics and Electronics, University of Calcutta)
+Talk Title -  Signal-in-Space characterization for satellite-based communication and navigation systems
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 01/10/2026 @5:15 PM
+Speaker -  Abhishek Pariyar  (Department of Mechanical Engineering)
+Talk Title -  Tailoring the cryogenic mechanical performance of a 3D-printed Aluminium alloy
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 08/09/2026 @5:15 PM
+Speaker -  Prof. Kunal P. Mooley  SPASE, IIT Kanpur
+Talk Title -  Cosmic Firecrackers: Explosions, Bursters, and Jets
+Venue- SPASE seminar room, 715, ESB-2.
+
+Date - 20/08/2026 @5:15 PM
+Speaker -  Divya Rawat  (Observatoire astronomique de Strasbourg, France)
+Talk Title -  From Transient Bursts to Population Studies: Advancing X-ray Binary Science with Multi-Mission Observations
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 13/08/2026 @5:15 PM
+Speaker -  Sunil Malik  (Department of Earth Physics and Astrophysics, UCM Madrid, Spain)
+Talk Title -  Probing Astrophysical Magnetic Fields in the SKA era: Milky Way to the Cosmic Web
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 17/07/2026 @4:00 PM
+Speaker -  Prof. Pawan Kumar
+Talk Title -  The Physics of FRBs and Their Use as Cosmological Probes.
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 13/07/2026 @5:00 PM
+Speaker -  Ashish Kumar  (NCRA)
+Talk Title -  Pulse Morphology and Spectral Study of LPT J1634+44 Using GMRT
+Venue- SPASE seminar hall (ESB2, room 715)
+
+Date - 06/05/2026 @4:00 PM
+Speaker -  Shubham Singh  (Research Associate, University of Manchester)
+Talk Title -  The long-standing problem of pulsar death
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 30/04/2026 @ 5:00 PM
+Speaker -  Purnendu Karmakar  (Univ. of Tartu)
+Talk Title -  Dynamical Dark Energy or Modified Gravity? Signatures in Gravitational Wave Propagation
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- 715, ESB2, SPASE seminar room
+
+Date - 27/04/2026 @ 5:15 PM
+Speaker -  Vaibhav Gupta  (Livernut Mechanical, Claremont, California, USA)
+Talk Title -  EUV Spectrophotometers on SOHO/SDO and ARMAS Dosimeters for Aerospace Safety
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 16/04/2026 @ 5:15 PM
+Speaker -  Dibyendu Chakrabarty  (PRL, Ahmedabad)
+Talk Title -  Space Weather: Drivers and Impacts
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 09/04/2026 @ 5:15 PM
+Speaker -  Rajaram Lakkaraju  (IIT Kharagpur)
+Talk Title -  When Sea Floor Shapes Turbulence
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 07/04/2026
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker -  Dr. Siddhartha Gupta  Princeton University, USA
+Talk Title -  Microphysics of Cosmic Ray Production: Bridging Plasma Theory and Multi-Messenger Observations
+Venue- SPASE seminar room, 715, ESB-2.
+
+Date - 02/04/2026 @ 5:15 PM
+Speaker -  Lankeswar Dey  (IA-FORTH Greece)
+Talk Title -  Towards Multi-Messenger Nanohertz Gravitational Wave Astronomy: Resolving Individual SMBHBs within the Background
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 19/03/2026 @ 5:15 PM
+Speaker -  Prabu Thiagaraj  (RRI Bangalore)
+Talk Title -  Student-Built Radio Telescopes: Achievements and Future Directions
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 12/03/2026 @ 5:15 PM
+Speaker -  Mudit Srivastava  (PRL Ahmedabad)
+Talk Title -  Polarization Measurements in Astronomy: A Tool to Decode Hidden Morphologies
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 19/02/2026 @ 5:15 PM
+Speaker -  Pravabati Chingangbam  (IIA Bangalore)
+Talk Title -  Enlarging the Cosmological Toolset
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2).
+
+Date - 17/02/2026 @ 9:00 AM
+Speaker -  Dr. Ragav Ramachandran  (PRL, Ahmedabad)
+Talk Title -  Exploring the Molecular complexity beyond Earth: From ISM to Icy moons
+Venue- SPASE seminar room, 715, ESB-2.
+
+Date - 12/02/2026 @ 5:15 PM
+Speaker -  Rekhesh Mohan  (IIA Bangalore)
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Talk Title -  Astronomy with Small Satellites - Science Cases and Opportunities
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2).
+
+Date - 09/02/2026 @ 5:15 PM
+Speaker -  Sreehari H.,  University of Haifa, Israel (till 2025)
+Talk Title -  Spectro-temporal signatures of black hole accretion: extreme lensing and X-ray binaries
+Venue- SPASE seminar room, 715, ESB-2.
+
+Date - 22/01/2026 @ 5:15 PM
+Speaker -  Mahendra K. Verma, (IIT Kanpur)
+Talk Title -  Magnetohydrodynamic turbulence follows Kolmogorov scaling
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 15/01/2026 @ 5:15 PM
+Speaker -  Rachana Agrawal, (IIT Kanpur)
+Talk Title -  Bridging Mission Engineering and Habitability Science: From Venus Clouds to Ionic Liquid Exoplanets
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 01/01/2026 @ 5:15 PM
+Speaker -  Kaustav K. Das, Caltech
+Talk Title -  The Faint and the Furious: What are the Lowest Mass Stars that Explode as Core-Collapse Supernovae?
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+2025
+
+Date - 29/12/2025 @ 5:15 PM
+Speaker -  Dr. Arunabha Ghosh, Director RF Communications Systems, Project Kuiper, Amazon
+Talk Title -  Low Earth Satellite Mega-Constellation Based PNT (position navigation and timing) for Next Generation of GNSS
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 16/12/2025 @ 12:00 PM
+Speaker -  Mr. Avinash Ck
+Talk Title -  Spatially-resolved TRGB JWST Color-Magnitude Diagram as a Tool to Measure Fossil Stellar Metallicity Gradients in Disk Galaxies: NGC 628
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 05/12/2025 @ 12:00 PM
+Speaker -  Dr. Ajay Kumar (TIFR-NCRA)
+Talk Title -  Probing Fast Radio Bursts Using Deep Learning and GMRT
+Venue- SPASE Seminar Room, 715 New Aerospace Engineering Building (ESB-2)
+
+Date - 02/12/2025 @ 12:00 PM
+Speaker -  Mr. Akhil Jaini
+Talk Title -  Locating the Universe's Fastest Flashes: Advances in FRB Detection and Astrometry using ASKAP
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 27/11/2025 @ 5:15 PM
+Speaker -  Saugata Barat  (MIT Kavli Institute of Astronomy)
+Talk Title -  Time-Lapse of Exoplanets: Watching Sub-Neptunes Evolve with JWST
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 20/11/2025 @ 5:15 PM
+Speaker -  Paramita Dasgupta  (CCAPP, Ohio State University)
+Talk Title -  Exploring the High Energy Universe through Radio Observations
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 13/11/2025 @ 5:15 PM
+Speaker -  Mayuri S. Rao  (RRI Bangalore)
+Talk Title -  Global cosmological signal detection experiments at radio frequencies
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 10/11/2025 @ 5:00 PM
+Speaker -  Prof. Renu Malhotra  (University of Arizona, U.S.A)
+Talk Title -  Migratory planets and chaos in the young Solar system
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 06/11/2025 @ 5:15 PM
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker -  T. S. Kumar  (ARIES Nainital)
+Talk Title -  Engineering Aspects of Ground-Based Optical Telescopes at ARIES.
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 30/10/2025 @ 5:15 PM
+Speaker -  Krishnaprasad Chirakkil  (PRL Ahmedabad)
+Talk Title -  Ultraviolet Observations of the Martian Upper Atmosphere
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 23/10/2025 @ 5:15 PM
+Speaker -  Dr. Amar Agarwal  (IIT Kanpur)
+Talk Title -  Deformation within seconds: studies from terrestrial impact structures
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 09/10/2025 @ 10:30 AM
+Speaker -  Franz Kirsten  (Chalmers University, Sweden)
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Talk Title -  Hunting flashes in the sky -- what are FRBs?
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 25/09/2025 @ 5:15 PM
+Speaker -  Ranjini Bandyopadhyay  (RRI, Bangalore)
+Talk Title -  Why does spilled coffee form a ring-shaped stain?
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 23/09/2025 @ 5:15 PM
+Speaker -  Hiroaki Katsuragi  (Osaka University, Japan)
+Talk Title -  Relaxation of a vibrated granular pile with and without a large obstacle
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 19/09/2025 @ 12 Noon
+Speaker -  Prof. Poonam Mehta  (School of Physical Sciences, JNU, Delhi)
+Talk Title -  The GZK effect - multimessenger insights from neutrinos, gamma rays, and ultra-high-energy cosmic rays
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 18/09/2025 @ 5:15 PM
+Speaker -  Mahavir Sharma  (IIT Bhilai)
+Talk Title -  Galaxies and Supermassive Black Holes at the Dawn of the Universe
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 15/09/2025 @ 5:15 PM
+Speaker -  Hareesh Gautham Bhaskar  (Indiana University)
+Talk Title -  Dynamical Stability and Long-Term Evolution of Planetary Systems
+Venue- SPASE seminar room, 715, ESB-2.
+
+Date - 11/09/2025 @ 4:00 PM
+Speaker -  A N Ramprakash  (IUCAA, Pune)
+Talk Title -  A quest through the Sun, the Stars and the Universe
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 04/09/2025 @ 5:15 p.m.
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker - Biswajit Paul  (RRI)
+Talk Title -  Neutron Stars X-ray Binaries
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 03/09/2025 @ 5:15 p.m.
+Speaker - Avishek Kumar Basu  (University of Manchester - Jodrell Bank, U.K.)
+Talk Title -  Probing Neutron Stars' Interior and Magnetosphere Through Pulsar Timing and Emission Variability
+Venue- SPASE seminar room, 715 ESB-2
+
+Date - 28/08/2025 @ 5:15 p.m.
+Speaker - Gopal Hazra  (Dept. of Physics IITK)
+Talk Title -  Know thy star, know thy planet: role of host star in shaping exoplanet atmosphere
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 26/08/2025 @ 5:15 p.m.
+Speaker - Prasanta Kumar Nayak  Pontificia Universidad Catolica de Chile, Santiago
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Talk Title -  Probing Stellar and Galaxy Evolution with Multi-wavelength Observations of Star Clusters
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 14/08/2025 @ 5:15 p.m.
+Speaker - Sai Ravela  (Kotak School of Sustainability, IITK and Earth and Atmospheric and Planetary Sciences, MIT)
+Talk Title -  Signals, Noise, and Doubt: Rethinking Exoplanet Detection and Characterization Using Physics and Data Science
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 12/08/2025 @ 5:15 p.m.
+Speaker - Gaurava Kumar Jaisawal  Technical University of Denmark, Denmark
+Talk Title -  Delving into the Extremes of the High-Energy Universe
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 07/08/2025 @ 5:15 p.m.
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker - Vigneshwaran Krishnamurthy  (Trottier Space Institute at McGill University)
+Talk Title -  Atmospheric Escape: From Disks to Habitability
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 05/08/2025 @ 5:15 p.m.
+Speaker - Dipen Sahu  Physical Research Laboratory, Ahmedabad
+Talk Title -  Physical and Chemical Pathways of Star and Planet Formation: Tracing Our Cosmic Origins with (Sub)Millimeter Astronomy
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 24/07/2025 @ 5:15 p.m.
+Speaker - Ananya Sahoo  (LoCSST at the University of Massachusetts)
+Talk Title -  Faint Lights, Distant Worlds: Imaging Earths in Other Solar Systems
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 21/07/2025 @ 5:15 p.m.
+Speaker - Anil Chavan  Birbal Sahani Institute of Palaeosciences (BSIP), Lucknow
+Talk Title -  Mars through a geomorphologist's eye: geomorphic processes and their terrestrial analogues from the Indian subcontinent
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 16/07/2025 @ 5.00 p.m.
+Speaker - Ramlal Unnikrishnan  PhD Student from Chalmers University
+Talk Title -  From photospheric imaging to circumstellar astrochemistry: An ALMA view of evolved stars
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 07/07/2025 @ 5.15 p.m.
+Speaker - Hari Haran Balakrishnan  (CRL,TIFR, Ooty)
+Talk Title -  Potential role of GRAPES-3 in atmospheric science, space weather forecasting, and societal impacts
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 26/06/2025 @ 5 p.m.
+Speaker - Prabhakar Tiwari  (Guangdong Technion - Israel Institute of Technology (GTIIT), China)
+Talk Title - Exploring the Cosmos: Insights from Radio Surveys on Large-Scale Structure
+Venue- SPASE seminar hall, ESB2, 715
+
+Date - 15/05/2025 @ 515 p.m.
+Speaker - Kabir Chakravarti  (Central European Institute for Cosmology, Prague)
+Talk Title - Investigating the connection between Dark Matter and GW merger events
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 23/04/2025 @ 515 p.m.
+Speaker - Shouvik Roy Choudhury  (Academia Sinica Institute of Astronomy and Astrophysics (ASIAA))
+Talk Title - Cosmology in an extended parameter space: new constraints on dark energy and neutrino masses with DESI BAO
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 (ESB-2)
+
+Date - 22/04/2025 @ 11 AM
+Speaker - Vasudev Mittal  (University of Sydney)
+Talk Title - Confronting the Cosmological Principle: Shaking the foundations of the Cosmos
+Venue- SPASE seminar hall, ESB2, 715
+
+Date - 17/04/2025 @ 5.15 p.m.
+Speaker - T. R. Seshadri  (Delhi Univ)
+Talk Title - Surprises from the Sky: Accidental Discoveries in Astronomy
+Venue- SPASE seminar room, 715 (ESB-2)
+
+Date - 09/04/2025 @ 5.00 p.m.
+Speaker - Prof. Jean Surdej  (Professor, Liège University Belgium; VAJRA Adjunct Faculty ARIES Nainital, India)
+Talk Title - Observing the wonders of nature - from Camera Obscura to the International Liquid Mirror Telescope 4m (ILMT)
+Venue- Lecture Hall L10
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 08/04/2025 @ 12 noon
+Speaker - Shikhar Mittal  ( University of Cambridge)
+Talk Title - New Approaches in Modelling and Interpretation of the Cosmic Dawn 21-cm Signal
+Venue- SPASE seminar hall, ESB2, 715
+
+Date - 07/04/2025 @ 5.00 p.m.
+Speaker - Prof. Jean Surdej  (Professor, Liège University Belgium; VAJRA Adjunct Faculty ARIES Nainital, India)
+Talk Title - The optical gravitational lens experiment and discovery of multiply imaged quasars with Gaia and the ILMT
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 03/04/2025 @ 515 p.m.
+Speaker - Priyanka Chaturvedi  (TIFR Mumbai)
+Talk Title - From Jupiters to Earths - Exoplanets and beyond
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 28/03/2025 @ 3.00 p.m.
+Speaker - Prof. Ajit Kembhavi (Distinguished Visiting Professor, SPASE, IITK & co-founder Pune Knowledge Cluster)
+Talk Title - The James Webb Telescope and Observations of the Early Universe
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 27/03/2025 @ 515 p.m.
+Speaker - Avinash Deshpande (SPASE)
+Talk Title - Fascinating Life-stories of Cosmic Light-houses
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2).
+
+Date - 25/03/2025 @ 515 p.m.
+Speaker - Chhavi Jain (Ph. D. Yale University )
+Talk Title - Investigating Viscous Flow in the Earth’s Interior and its Role in Shaping the Planet’s Surface and Interior Dynamics
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2).
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 24/03/2025 @ 515 p.m.
+Speaker - Prof. Ajit Kembhavi (Distinguished Visiting Professor, SPASE, IITK & co-founder Pune Knowledge Cluster)
+Talk Title - From PCA to Autoencoders: a Journey Through AI Space
+Venue- SPASE seminar room, 715 ESB-2.
+
+Date - 20/03/2025 @ 515 p.m.
+Speaker - Shantanu Desai (IIT Hyderabad)
+Talk Title - Fundamental Physics from Cosmology and galaxy clusters
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 17/03/2025 @ 515 p.m.
+Speaker - Sravani Vaddi (Arecibo Observatory, Puerto Rico USA)
+Talk Title - Multi-wavelength, multi-scale studies of Active Galactic Nuclei
+Venue- SPASE seminar room, 715 ESB-2
+
+Date - 06/03/2025 @ 515 p.m.
+Speaker - Binod Sreenivasan (IISc. Bengaluru)
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Talk Title - New insights into the axial dipole field and polarity transitions in planets
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 04/03/2025 @ 515 p.m.
+Speaker - J.N.H.S. Aditya(Univ. of Sydney)
+Talk Title - Cold Gas in AGN Surroundings
+Venue- SPASE seminar room, 715 ESB-2
+
+Date - 13/02/2025 @ 515 p.m. (Chai and stuff with stuffings @ 5)
+Speaker - Mukul Bhattacharya (U. Wisconsin-Madison)
+Talk Title - Fast radio bursts: source properties, emission mechanism and cosmological applications
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 06/02/2025 @ 11 a.m. (Chai and stuff with stuffings @ 5)
+Speaker - Sumitesh Sarkar (Associate Director, Space Applications Centre, ISRO, Ahmedabad)
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Talk Title - Challenges in Deep Space Communication Network
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 06/02/2025 @ 515 p.m. (Chai and stuff with stuffings @ 5)
+Speaker - Arun Misra (McGill U)
+Talk Title - Space debris
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 30/01/2025 @ 515 p.m. (Chai and stuff with stuffings @ 5)
+Speaker - Tejpreet Kaur (SPASE, IITK)
+Talk Title - Galactic Chemical Evolution and Origin of Our Solar System
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+Date - 23/01/2025 @ 515 p.m. (Chai and stuff with stuffings @ 5)
+Speaker - Pankaj Jain (SPASE, IITK)
+Talk Title - Cosmology and Fundamental Physics with Square Km Array (SKA)
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Venue- SPASE seminar room, 715 New Aerospace Engineering Bldg. (ESB-2)
+
+2024
+Date - 08/02/2024
+Speaker - PALLAVI BHATT (International Centre for Theoretical
+Sciences (ICTS-TIFR, Bangalore)
+Talk Title - Quasi-two-dimensionalization of magnetically dominated decaying turbulence driven by magnetic reconnection.
+
+Date - 15/02/2024
+Speaker – S.Shankaranarayanan (Physics, IIT Bombay)
+Talk Title - Multi-messenger Signatures in Strong Gravity Regimes.
+
+Date - 16/02/2024
+Speaker – Prof. Christian Wohler (TU Dortmund, Germany)
+Talk Title - Remote sensing studies of planetary regolith surfaces: Topographic mapping, reflectance spectroscopy, photometry, polarimetry, thermal modelling, machine learning - and linking them all up.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 29/02/2024
+Speaker – Saurabh Singh (The Raman Research Institute, Bengaluru)
+Talk Title - Seeing the Universe in 21-cm wavelength.
+
+Date - 07/03/2024
+Speaker – Prajval Shastri (Emeritus Scientist at RRI)
+Talk Title - Beacons of the Cosmos: Understanding Munching Giant Black Holes in Context.
+
+Date - 14/03/2024
+Speaker – Karamveer Kaur (Technion, Israel Institute of Technology)
+Talk Title - Global dynamics of galaxies.
+
+Date - 04/04/2024
+Speaker – Nishant Singh (IUCAA,Pune)
+Talk Title - On magnetic fields and surface gravity mode of the Sun.
+
+Date - 11/04/2024
+Speaker – B.Eswar Reddy (IIA, Bangalore)
+Talk Title - Evolution of the element lithium in the universe - a case for lithium production in low-mass stars.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 18/04/2024
+Speaker – Ramya M Anche (Steward Observatory, Arizona University)
+Talk Title - Polarimetry and high-contrast imaging with the next-generation.
+
+Date - 29/04/2024
+Speaker – Durgesh K. Rai (NASA Goddard Space Flight Center)
+Talk Title - Towards Integrating Systems Engineering Framework in Space Missions: LISA Mission & Vision Forward.
+
+Date - 02/05/2024
+Speaker – Sandeep Kataria (Shanghai Jiao Tong University)
+Talk Title - The role of dark matter halo angular momentum distribution on bar formation, evolution and dynamical friction.
+
+Date - 05/07/2024
+Speaker – Ajit M. Srivastava (IOP Bhubhaneswar)
+Talk Title- Detecting gravitational waves with pulsars as resonant Weber detectors.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 01/08/2024
+Speaker – Kartick Sarkar (SPASE, IIT Kanpur)
+Talk Title - Nature and origin of the Fermi/eROSITA bubbles.
+
+Date- 08/08/2024
+Speaker – Attreyee Ghosh (IISc. Bangalore)
+Talk Title - How the Earth's surface is shaped by deeper processes.
+
+Date - 22/08/2024
+Speaker - Tamal Basak (Indian Centre for Space Physics, Kolkata)
+Talk Title - Multifarious aspects of D-region modelling during solar flares using sub-ionospheric VLF propagation.
+
+Date - 29/08/2024 Speaker – Ajit Kumar Mehta (U. California at Santa Barbara)
+Talk Title - Gravitational waves as a probe for fundamental physics and astronomy.
+
+Date - 05/09/2024
+Speaker – Jasjeet Singh Bagla (IISER Mohali)
+Talk Title - Cosmology and Large Scale Structure.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 12/09/2024
+Speaker – Dibyendu Nandi (IISER Kolkata)
+Talk Title - Space Weather - How the Sun influences Planetary Habitability and Human Technologies.
+
+Date - 26/09/2024
+Speaker – Nachiketa Rai (IIT Roorkee)
+Talk Title - High Pressure Experimental studies of Lunar Interior.
+
+Date - 27/09/2024
+Speaker – Prasiddha Arunachalam (University of California at Santa
+Cruz)
+Talk Title - Supernovae Old and Young: From Remnants to transients.
+
+Date - 30/09/2024
+Speaker – Sandeep Acharya (Open University of Israel)
+Talk Title - Cosmological probes of electromagnetic and neutrino energy injections.
+
+Date - 03/10/2024
+Speaker – Megha Bhatt (PRL, ISRO)
+Talk Title - Polarization studies of the Moon, Spacecraft based Vis-NIR Spectroscopy, Payload Calibration.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 04/10/2024
+Speaker – Prasun Dhang (Univ. of Colorado)
+Talk Title - Magnetic Field Generation and Energy Extraction in Accretion Flows around Black Holes.
+
+Date - 17/10/2024
+Speaker – Abhishekh Kumar Srivastava (IIT - BHU Varanasi)
+Talk Title - Localized Heating of Plasmas at Diverse Scales due to Symbiosis of Waves and Reconnection.
+
+Date - 21/10/2024
+Speaker – Miles Thomas Bengtson (Aurora Engineering at NASA
+Goddard Space Flight Center)
+Talk Title - Synthetic Heliophysics Mission to Demonstrate Event-Driven Spacecraft Operational Autonomy.
+
+Date - 22/10/2024
+Speaker – Mugundhan Vijayaraghavan
+Talk Title - Multi-frequency VLBI observations of solar and non-solar transients.
+
+Date - 24/10/2024
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker – Avyarthana Ghosh (Tata Research Development and
+Design Centre)
+Talk Title - Astronomical Instrumentation.
+
+Date - 28/10/2024
+Speaker – Sudipta Hensh (MPI Potsdam)
+Talk Title - Investigating High-Density Equations of State using Post-Merger Gravitational Waves from Neutron Star Mergers.
+
+Date - 07/11/2024
+Speaker – Hareesh Gautham Bhaskar (Technion)
+Talk Title - Resonant and Secular Evolution of Three Body Systems – With Applications to Planetary Systems and Gravitational Wave Sources.
+
+Date - 14/11/2024
+Speaker – Bhavesh Jaiswal (UR Rao Satellite Center)<
+Talk Title - Spectro-polarimetry of Earth-like (Exo)planets: Science and Techniques.
+
+Date - 25/11/2024
+Speaker – Bhooshan Gadre
+Talk Title - Unraveling the cosmic symphony of merging compact binaries.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 26/11/2024
+Speaker – Durgesh Rai (NASA Goddard Space Flight Center)
+Talk Title - Systems engineering and instrumentation for space missions.
+
+Date - 29/11/2024
+Speaker – Mohit Bhardwaj (Carnegie Mellon)
+Talk Title - Decoding the Mysteries of Fast Radio Bursts: Diverse Origins and Future Prospects.
+
+2023
+Date - 10/08/2023
+Speaker – Pankaj Jain (IIT Kanpur)
+Talk Title - Theoretical explanation for cold nuclear fusion.
+
+Date - 14/08/2023
+Speaker – Deepak Singh (IIT Bombay)
+Talk Title - Snow/Ice Albedo and its Impact on Planetary Energy Budget.
+
+Date - 24/08/2023
+Speaker – Kannabiran Seshasayanan (IIT Kharagpur)
+Talk Title - Magnetic field generation by a turbulent flow: scaling laws.
+
+Date - 31/08/2023
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Speaker – Aloke Kumar (IISc Bangalore)
+Talk Title - Going with Gaganyaan – Space Bricks and Biological Payloads.
+
+Date - 14/09/2023
+Speaker – Jayanth Murthy (Ex IIA, Bengaluru)
+Talk Title - New advances in the diffuse ultraviolet background
+
+Date - 05/10/2023
+Speaker – Shyama Narendranath (ISRO)
+Talk Title - Mapping Lunar Surface Chemistry with CLASS on Chandrayaan-2.
+
+Date - 10/10/2023
+Speaker – Nayantara Gupta (Raman Research Institute)
+Talk Title - Cosmic Accelerators.
+
+Date - 12/10/2023
+Speaker – Prasanta Bera (Open University of Israel)
+Talk Title - Magnetic Instabilities and Dynamics in Degenerate Stars.
+
+Date - 17/10/2023
+Speaker – Yamini Jangir (California Institute of Technology)
+Talk Title - The Microbial Life in Extreme Environments Drives the Quest for Life on Other Planets.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > seminar]
+Date - 19/10/2023
+Speaker – Ritesh Kumar Mishra (Smithsonian National Museum of
+Natural History)
+Talk Title - The Sun, meteorites, and the quest..
+
+Date - 02/11/2023
+Speaker – Liton Majumdar (NISER Bhubaneswar)
+Talk Title - Worlds Without End: Exoplanets, Habitability, and the New Frontier.
+
+Date -06/11/2023
+Speaker – Anshu Kumari (NASA Goddard Space Flight Center
+(GSFC))
+Talk Title - How can radio techniques give insights into solar eruptions?
+
+Date- 09/11/2023
+Speaker – Tej Anandmayee (IIST Thiruvananthapuram)
+Talk Title - Probing Planetary Atmospheres.
+
+=== workshop on satellite based particle detector ===
+Source: https://www.iitk.ac.in/space/workshop-on-satellite-based-particle-detector
+Workshop on satellite based particle detector to search for dark matter was held at IIT Kanpur on 27 and 28 January. The meeting was aimed at proposing a space observatory which will search for the hypothetical dark matter particle. Scientists from many institutes within India attended this workshop which was held in hybrid mode.
+
+=== workshops sipd2024 ===
+Source: https://www.iitk.ac.in/space/workshops/SIPD2024/
+SIPD2024
+
+Space
+Instrumentation & Payload Development Workshop
+
+IIT Kanpur, 27-30 March 2024
+
+____________________________________________________
+
+Organizing
+committee
+
+Kunal Mooley,
+JS Yadav, Yamini Jangir-Mooley (IITK),
+
+Shyama
+Narendranath (URSC/ISRO)
+
+The
+Indian space program has taken significant strides in the last decade
+with missions such as the Chandrayaan series, Mars Orbiter, AstroSat and
+XPoSat. The Human Space Flight / Gaganyaan programs are also converging
+rapidly. Additionally, there are many missions in the study phase where
+there is a high thrust on science. Need of the hour is a systematic
+effort to facilitate design and development of space science instruments
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+and for capacity building across the country. The Space Instrumentation
+and Payload Development (SIPD) workshop is being held at IIT Kanpur to
+initiate such an effort with the aid of ISRO. This workshop is bringing
+together experts from science and instrumentation backgrounds to share
+the know-how and chart a strategy towards development of space
+instrumentation. The focus is on Instrumentation and payload development
+from the perspectives of astronomical observations, planetary in-situ
+and ex-situ measurements and astrobiology, which have a large scope for
+the Indian space programme. Experts will thus be discussing technology
+development and collaborations for developing high-quality payloads on
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+future astronomical and planetary missions.
+
+The SIPD
+workshop is being inaugurated by Anil Bhardwaj (Director, Physical
+Research Laboratory) with a Lecture on “Indian Planetary and Space
+Missions: Challenges, Science, and Future”. On each of the following
+three days of the workshop a unique theme will be covered:1)Space Instrumentation and Manufacturing: Current & Emerging Technologies
+2) Missions, Payloads, Data and Science 3) New
+Frontiers and Future Directions.
+
+For each
+theme there will be a couple of topical overview presentations, a few
+instrument development and “lessons learned” presentations, which will
+be followed by focused discussion/brainstorming sessions. Additionally,
+some special presentations are planned to serve as introductory training
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+for scientists and engineers who are new to space instrumentation and
+payload development.
+
+Schedule
+
+Date&Time
+
+Talk Title
+
+PDF
+
+Zoom
+
+Speaker
+
+Affiliation
+
+Day 0 (27 Mar) : Inaugural Lecture
+
+18:00 - 9:00
+
+Institute-level lecture (Indian Planetary and Space
+Missions: Challenges, Science, & Future)
+
+Anil Bhardwaj
+
+PRL, ISRO
+
+Day 1 (28 Mar) : Space Instrumentation and Manufacturing:
+Current & Emerging Technologies
+
+S0: Inaugural session
+
+9:00 - 09:30
+
+Opening Remarks and Logistics
+
+MP4
+
+Pankaj Jain,   JS Yadav, Kunal Mooley
+
+S1: Current Instrument Development (Chair: Pankaj Jain)
+
+9:30 - 10:10
+
+Space Instrumentation at URSC/ISRO
+
+MP4
+
+Radhakrishna V
+
+URSC, ISRO
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+10:10 -10:30
+
+SEAMS
+
+PDF
+
+MP4
+
+Abhirup Dutta
+
+IIT Indore
+
+10:30 -10:50
+
+DAKSHA
+
+MP4
+
+Varun Bhalerao (Remote)
+
+IIT Bombay
+
+10:50 -11:10
+
+PRATUSH: An Indian Space-based Cosmology Experiment
+
+PDF
+
+MP4
+
+Mayuri Rao
+
+RRI
+
+11:10 -11:30
+
+Break
+
+S2: Imaging, Sensors and Space Manufacturing Technologies
+(Chair: JS Yadav)
+
+11:30 -11:55
+
+Design and Development of Electro-Optical payloads
+
+PDF
+
+MP4
+
+Vishal Sakarvadiya
+
+SAC, ISRO
+
+11:55 -12:20
+
+Microwave Sensors: Concept to Realization
+
+PDF
+
+MP4
+
+Nidhi Singh
+
+SAC, ISRO
+
+12:20 -12:45
+
+Advancements in Imaging Systems: From Atomic to Mesoscopic
+Targets and Space Applications of Aerodynamic Lens
+
+PDF
+
+MP4
+
+Vandana Sharma
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+IIT Hyderabad
+
+12:45 -13:05
+
+Space Materials Processing and Manufacturing at IITK
+
+PDF
+
+MP4
+
+Sarvesh Mishra
+
+13:05 -14:30
+
+Lunch break
+
+S3: Instrumentation and Payload Opportunities (Chair: Kunal
+Mooley)
+
+14:30 -15:10
+
+Satellite and Launch Platforms, and Future ISRO Mission
+Concepts
+
+MP4
+
+BHM Darukesha            ISRO (Remote)
+
+ISRO HQ
+
+15:10 -15:30
+
+Nanosat and Cubesat program at DSU
+
+PDF
+
+MP4
+
+G Venkatesh Prasad
+
+Dayanand Sagar U
+
+15:30 -16:00
+
+Instrumentation Opportunities in Planetary Programs
+
+MP4
+
+Shyama Narendranath (Remote)
+
+URSC, ISRO
+
+16:00 -16:20
+
+Break
+
+S4: Discussion (Chairs: Abhirup Dutta, Jayant Murthy)
+
+16:20 -17:00
+
+Discussion: Instrument/Payload development at non-ISRO
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+institutes and collaborating with ISRO
+
+(Development of new technologies, Required resources -
+expertise, funding, etc - challenges)
+
+MP4
+
+Chairs and everyone
+
+Date&Time
+
+Talk Title
+
+PDF
+
+Zoom
+
+Speaker
+
+Affiliation
+
+Day 2 (29 Mar): Missions, Payloads, Data and Science
+
+S1: ASTROSAT and ADITYA L-1 Missions (Chair: Santosh
+Vadawale)
+
+09:00 -09:40
+
+AstroSAT mission and the LAXPC Instrument
+
+PDF
+
+MP4
+
+JS Yadav
+
+9:40 - 10:10
+
+Plasma Analyser Package for Aditya-L1 (PAPA)
+
+MP4
+
+Satheesh Thampi
+
+SPL, VSSC, ISRO
+
+10:10 -10:30
+
+SUIT on Aditya L-1
+
+MP4
+
+Sreejith Padinhatteeri (Remote)
+
+Manipal U
+
+10:30 -11:00
+
+Development of a Triaxial Fluxgate Magnetometer (MAG) for
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+ADITYA-L1
+
+MP4
+
+Vipin Yadav
+
+SPL, VSSC, ISRO
+
+11:00 -11:20
+
+Break
+
+S2: More Missions and Payloads (Chair: Radhakrishna V)
+
+11:20 -12:00
+
+Ch-2 and Ch-3 Missions with a focus on APXS and XSM payloads
+
+MP4
+
+Santosh Vadawale
+
+PRL, ISRO
+
+12:00 -12:30
+
+A decade (and 5 PhDs) of small payload development: Lessons
+learned and current plans.
+
+MP4
+
+Jayant Murthy
+
+IIA (emeritus)
+
+12:30 -13:00
+
+POLIX Instrument on XPOSAT
+
+MP4
+
+Vikram Rana (Remote)
+
+13:00 -14:30
+
+Lunch break
+
+S3: Even More Payloads (Chair: TBD)
+
+14:30 -14:50
+
+IIRS on Chandrayaan-2
+
+PDF
+
+MP4
+
+Satadru Bhattacharya (Remote)
+
+SAC, ISRO
+
+14:50 -15:10
+
+Astronomy Payload Opportunities
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+PDF
+
+MP4
+
+Girish V (Remote)
+
+ISRO HQ
+
+15:10 -15:50
+
+Going from a Lab Experiment to a Flight-Ready Payload
+(Tutorial)
+
+MP4
+
+Radhakrishna V
+
+URSC/ISRO
+
+15:50 -16:10
+
+Break
+
+S4: Brainstorming (Chairs: Astro -- JS Yadav and Mayuri Rao;
+Planetary/Astrobiology -- Sudha Rajamani and Aloke Kumar)
+
+16:10 -17:30
+
+Mission concept with clearly
+laid out science goals and instruments (template linked
+here)
+
+Date&Time
+
+Talk Title
+
+PDF
+
+Zoom
+
+Speaker
+
+Affiliation
+
+Day 3 (30 Mar): New Frontiers and Future Directions
+
+S1: Astrobiology and In-situ Resource Utilization (Chair:
+Yamini Jangir)
+
+09:00 -09:30
+
+Brief Review of Astrobiology Research as Relevant to Space
+Sciences
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+PDF
+
+MP4
+
+Sudha Rajamani
+
+IISER (Pune)
+
+09:40 -10:00
+
+Studying Tardigrades in Space
+
+MP4
+
+SandeepEswarappa
+
+IISc (Bangalore)
+
+10:00 -10:50
+
+Going with Gaganyaan: Space Bricks and Biological Payloads
+
+PDF
+
+MP4
+
+Aloke Kumar
+
+IISc (Bangalore)
+
+10:50 -11:10
+
+Astrobiology Cubesat: Sukshma Jeeva Yaan
+
+PDF
+
+MP4
+
+Yamini Jangir, SaranMatheshwaran
+
+11:10 -11:30
+
+Break
+
+S2: Astrobiology, Astrogeology & Human Spaceflight (Chair:
+Aloke Kumar)
+
+11:30 -11:50
+
+Martian Analogue Sites in the Indian Subcontinent: A Testbed
+for Space Science Research and Instruments
+
+PDF
+
+MP4
+
+Binita Parthiyal
+
+BSIP (Lucknow)
+
+11:50 -12:10
+
+Sample Collection Technologies for Mars Surface Exploration
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+MP4
+
+Siddharth Pandey (Remote)
+
+Fugro SpAARC (Australia)
+
+12:10 -12:30
+
+Stratospheric Altitude Microbiology Probe for Life Existence
+(SAMPLE)
+
+PDF
+
+MP4
+
+Margarita Safonova (Remote)
+
+IIA (Bangalore)
+
+12:30 -12:50
+
+Human Space Flight & Gaganyaan
+
+PDF
+
+MP4
+
+Sudhir Shukla
+
+ISRO HSFC
+
+13:00 -14:30
+
+Lunch Break
+
+S3: Brainstorming Results & Panel DIscussion (Chairs: TBD)
+
+14:30 -14:45
+
+Briefing on theAstro/Astrobio/Planetary  Mission concepts
+from the Brainstorming session
+
+PDF
+
+Mayuri Rao,  Santosh Vadawale, Sudha Rajamani, Aloke Kumar
+
+Various
+
+14:45 -16:30
+
+Future Missions and Experiments: Harnessing the LEO, Deep
+Space, Planetary and Space Station platforms
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+PDF
+
+JS Yadav, GirishV, Santosh Vadawale, Jayant Murthy,
+Radhakrishna,     Aloke Kumar,     Sudha Rajamani, Mayuri
+Rao
+
+Various
+
+16:30 -16:50
+
+Break
+
+S4: Concluding presentations and remarks
+
+16:50 -17:30
+
+Concluding Presentations and Remarks
+
+PDF
+
+BishakhBhattacharya, Pankaj Jain, JS Yadav
+
+Participants
+
+Sr. No
+
+Name
+
+Affiliation
+
+1
+
+Anil Bhardwaj
+
+PRL
+
+2
+
+Santosh Vadawale
+
+PRL
+
+3
+
+Mayuri Rao
+
+Raman Research
+Institute
+
+4
+
+Abhirup Datta
+
+IIT Indore
+
+5
+
+Aloke Kumar
+
+Indian Institute of
+Science
+
+6
+
+Sudha Rajamani
+
+IISER Pune
+
+7
+
+Radhakrishna V
+
+URSC/ISRO
+
+8
+
+Sudhir Shukla
+
+ISRO
+
+9
+
+Binita Phartiyal
+
+BSIP
+
+10
+
+Prof. Vandana Sharma
+
+IIT Hyderabad
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+
+11
+
+Satheesh Thampi
+
+VSSC/ISRO
+
+12
+
+Vipin Yadav
+
+VSSC/ISRO
+
+13
+
+Jayant Murthy
+
+IIA, Emeritus
+
+14
+
+Nidhi Singh
+
+SAC/ISRO
+
+15
+
+Vishal Sakarvadiya
+
+SAC/ISRO
+
+16
+
+Pankaj Jain
+
+17
+
+JS Yadav
+
+IIT
+Kanpur
+
+18
+
+Sarvesh Mishra
+
+IIT
+Kanpur
+
+19
+
+Saravanan Matheswaran
+
+IIT
+Kanpur
+
+20
+
+Yamini Jangir
+
+IIT
+Kanpur
+
+21
+
+Bishakh Bhattacharya
+
+22
+
+Kunal Mooley
+
+IIT
+Kanpur
+
+23
+
+Navaneeth P
+
+IIT
+Kanpur
+
+24
+
+Prashanth Pathak
+
+IIT
+Kanpur
+
+25
+
+Gopal Hazra
+
+IIT
+Kanpur
+
+26
+
+AR Harish
+
+IIT
+Kanpur
+
+27
+
+Rohit Sharma
+
+IIT
+Kanpur
+
+28
+
+Ashwani Kumar Thakur
+
+IIT
+Kanpur
+
+29
+
+Nagaditya Poluri
+
+IIT
+Kanpur
+
+Virtual Presenters
+
+30
+
+Shyama Narendranath
+
+URSC, ISRO
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - SEMINARS, > workshops sipd2024]
+32
+
+Varun Bhalerao
+
+IIT Bombay
+
+33
+
+Sreejith
+Padinhatteeri
+
+Manipal U
+
+34
+
+Satadru Bhattacharya
+
+SAC, ISRO
+
+35
+
+BHM Darukesha
+
+ISRO, HQ
+
+36
+
+Siddharth Pandey
+
+FUGRO
+
+37
+
+Margarita Sofanova
+
+IIA
+
+38
+
+Girish V
+
+ISRO, HQ
+
+39
+
+G Venkatesh Prasad
+
+Dayanand Sagar U
+
+40
+
+Sandeep Eswarappa
+
+Indian Institute of
+Science
+
+41
+
+Biswajit Paul
+
+RRI
+

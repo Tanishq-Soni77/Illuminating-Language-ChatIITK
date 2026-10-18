@@ -1,0 +1,226 @@
+DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS (part 1 of 2)
+Name: Department of Mechanical Engineering, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/me. Snapshot: scraped in 2026.
+
+=== activities me colloquium ===
+Source: https://www.iitk.ac.in/me/activities/me-colloquium
+Upcoming Colloquium
+
+Date: 12th October 2026 (Monday)
+Venue & Time: 5.15 PM (IST) | FB 370
+Speaker: Prof. Jyoti R. Seth (Department of Chemical Engineering, IIT Bombay)
+Title: Negative Electrorheology in Networked Suspensions: Electric Field-Driven Disruption of Wax Particle Networks
+
+Abstract Flow assurance in hydrocarbon pipelines presents a formidable challenge in the energy sector. At low temperatures, dissolved waxes in crude oil precipitate and form percolating particle networks that dramatically elevate viscosity, induce gel-like rheological behaviour, and can cause complete pipeline blockages, with significant economic consequences. Conventional remediation strategies, including thermal and chemical treatments, are either energy-intensive or environmentally burdensome, motivating the search for physics-based alternatives.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > activities me colloquium]
+This talk introduces Negative ElectroRheology (NER), a counterintuitive phenomenon whereby an applied DC electric field reduces the viscosity and elastic moduli of a structured suspension. Our work demonstrates that non-polar wax particle networks suspended in a relatively more polar and electrically conductive oil medium are susceptible to field-driven network disruption. We present systematic experiments quantifying rheological breakdown as a function of electric field intensity, temperature, and the dielectric contrast between the solid and liquid phases.
+
+The mechanism is rooted in the Taylor–Melcher leaky dielectric framework. When a field is applied, the mismatch in permittivity and conductivity between the two phases generates compressive Maxwell stresses at particle–particle contacts that exceed their yield strength, rupturing interparticle bonds and irreversibly breaking down the network. Leveraging this physical picture, our group has developed a semi-empirical model that quantitatively predicts the onset and extent of field-induced network breakdown. To systematically isolate the role of dielectric properties, we validate these concepts using two-component model suspensions with independently tunable dielectric constants. Overall, this work brings together electrohydrodynamics, suspension mechanics and flow engineering.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > activities me colloquium]
+About the Speaker
+
+Prof. Jyoti R. Seth is a Professor in the Department of Chemical Engineering at the Indian Institute of Technology Bombay. She received her B.Chem.Engg. from Institute of Chemical Technology (ICT), Mumbai and her M.S. and Ph.D. in Chemical Engineering from The University of Texas at Austin. Before joining IIT Bombay, she worked in industry. She was a Research Scientist at Unilever R&D in Bangalore and a consultant at Alternative Petroleum Technologies. Her research is in soft matter rheology and complex fluids. She is especially interested in how microscale interactions between particles shape the large-scale flow of dense suspensions, gels and soft glassy materials. Her group combines experiments, particle-scale simulations and continuum modelling. Current projects include electric-field control of rheology, the yielding and flow of networked and jammed suspensions, and applications in energy and process industries, such as flow assurance for waxy crude oils. She serves as an Associate Editor for the journal Physics of Fluids. She also works to turn research into innovative products and technologies. She founded Seriate Innovations Pvt. Ltd., a deep-tech startup based in Mumbai, India, specialising in continuous manufacturing equipment and processes for multiphase and complex fluids.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > activities me colloquium]
+Recent Colloquium
+
+Speaker | Title | View Details |
+
+Dr. Vijay K. Stokes (Retired Professor, Indian Institute of Technology Kanpur) |
+Mechanical Engineering: How it evolved... And does it have a future? − What we can learn from Dinosaurs |
+
+Dr. Nanditha J. S. (Kotak School of Sustainability, IIT Kanpur) |
+Hydroclimatic Extremes under Climate Change: Advancing Process Understanding and Predictions |
+
+Dr. Rachana Agrawal (Indian Institute of Technology Kanpur) |
+Towards Wider Accessibility for Lunar Surface and Subsurface Exploration |
+
+Dr. Santanu De (Indian Institute of Technology Kanpur) |
+Dynamic Mixing Time-scale Model for Multiple Mapping Conditioning Approach Applied to LES of Reactive Flows |
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > activities me colloquium]
+Dr. Praneet Prakash (Kotak School of Sustainability, IIT Kanpur) |
+Dynamical Complexity in Living Fluids |
+
+=== events ===
+Source: https://www.iitk.ac.in/me/events
+Date: Oct 12, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Jyoti R. Seth on 12th October 2026 titled "Negative Electrorheology in Networked Suspensions: Electric Field-Driven Disruption of Wax Particle Networks" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Oct 05, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Vijay K. Stokes on 05th October 2026 titled "Mechanical Engineering: How it evolved... And does it have a future? − What we can learn from Dinosaurs" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Oct 03, 2026
+
+We cordially invite you to the upcoming industrial symposium, "Engineering the Smart Factory", organized by the Department of Mechanical Engineering, IIT Kanpur, and held at the Outreach Auditorium on 3rd October 2026.  [Poster]
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Sep 28, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Nanditha J. S. on 28th September 2026 titled "Hydroclimatic Extremes under Climate Change: Advancing Process Understanding and Predictions" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Sep 21, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Rachana Agrawal on 21st September 2026 titled "Towards Wider Accessibility for Lunar Surface and Subsurface Exploration" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Sep 07, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Santanu De on 7th September 2026 titled "Dynamic Mixing Time-scale Model for Multiple Mapping Conditioning Approach Applied to LES of Reactive Flows" at FB-370 from 5.15 PM.  [Poster]
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Aug 31, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Praneet Prakash on 31st August 2026 titled "Dynamical Complexity in Living Fluids" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Aug 24, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Shradha Mishra on 24th August 2026 titled "Collective Dynamics and Emergent Phases in Active Mixtures" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Aug 17, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Sovan Lal Das on 17th August 2026 titled "Granular Flows Through Vertical Channels and Pipes" at FB-370 from 5.15 PM.  [Poster]
+
+Date: Aug 10, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Chhavi Jain on 10th August 2026 titled "From Rock Mechanics to Planetary Interior Dynamics" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Aug 03, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Pankaj Wahi on 03rd August 2026 titled "Can Non-Resonant Limit Cycle Vibration Absorbers Control Self-Excited Instabilities?" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Jul 08, 2026
+
+Join us for a talk by Dr. Sohanjit Ghosh on 08th July 2026 titled "Dynamic Behavior of Heterogeneous Materials: Integrating Experiments and Digital Twin Numerical Modeling at Different Length Scales" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: May 08, 2026
+
+Join us for a talk by Dr. Rahul Kumar Singh on 08th May 2026 titled "The Enigma of Turbulence in Polymeric Flows" at FB-370 from 5 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Apr 22, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Alakesh Chandra Mandal on 22nd April 2026 titled "Experiments on Some Separated Flows" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Apr 15, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Sumit Basu on 15th April 2026 titled "Deformation and Failure of Amorphous, Glassy Polymers" at FB-370 from 4.30 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Apr 08, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. P.P. Bandyopadhyay on 8th April 2026 titled "Thermally Sprayed Coatings - Recent Developments" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Apr 01, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Brato Chakrabarti on 1st April 2026 titled "Odd behaviors of chiral films" at FB-370 from 5.15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Mar 28, 2026
+
+We cordially invite you to the Research Scholar's Day organized by the Department of Mechanical Engineering, a yearly one-day event showcasing graduate research from the department, to be held on 28th March 2026. Please visit our page for more details regarding the event and speakers.
+
+Date: Mar 28, 2026
+
+Join us for a talk by Prof. N. N. Kishore as part of the R. S. Pandey Lecture Series (Research Scholar's Day) on 28th March 2026 titled "Effect of Initial Perturbations on Stability of Autonomous Bicycle — A Graphical Approach" at L-18 from 9.30 AM. Please visit our page for more details regarding the speaker and the topic.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Mar 25, 2026
+
+Join us for a talk by Prof. C. S. Manohar on 25th March 2026 titled "Machine Learning in Structural Dynamics: Estimation, Generation, Reduction, and Rare-Event Modelling" at LH-12 from 3 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Mar 25, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. Harpreet Singh on 25th March 2026 titled "A Multiscale Perspective on Fracture in Fiber-Reinforced Composites" at FB-370 from 5:15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+Date: Mar 18, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. V. Shankar on 18th March 2026 titled "Pipe Dreams and Pipe Flows: Elastic Routes to Turbulence in Polymer Solutions" at FB-370 from 5:15 PM. For more details regarding the speaker and seminar topic, please visit the official announcement  here.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > events]
+Date: Mar 13-15, 2026
+
+The 3rd Mechanical Sciences Young Investigators Meet (MSYIM 2026) will be held at the Outreach Auditorium, IIT Kanpur from 13 - 15 March 2026. Please visit the website for more details regarding the event and speakers.
+
+Date: Mar 11, 2026
+
+Weekly ME Colloquium: Join us for a talk by Prof. P.K. Panigrahi on 11th March 2026 titled "Application of Electrohydrodynamics for Flow Control in Energy Systems" at FB-370 from 5:15 PM. More details about the speaker, alongwith abstract of the talk are available  here.
+
+Date: Feb 24, 2026
+
+Please join us for a departmental seminar on "Structural Response Under Extreme Underwater Loadings" by Prof. Arun Shukla.
+
+=== highlights ===
+Source: https://www.iitk.ac.in/me/highlights
+Congratulations to Prof. Manjesh Singh on being awarded the NASI Young Scientist Award.
+August 2026 |
+
+Congratulations to our alumni, Prof. Ajay Bhandari (Ph.D., 2020), on being awarded the INAE Young Engineer Award 2026.
+July 2026 |
+
+Congratulations to our alumni, Dr. Rohit Singh (Ph.D., 2026), on being awarded the first prize in the IEEE SPACE 2026 Aerospace and Defence Three Minute Thesis (3MT) Competition held on 21st July 2026 in Bengaluru, India.
+July 2026 |
+
+Congratulations to Prof. Bishakh Bhattacharya and his team for being awarded a US patent for "Actuator with Shape Memory Alloy Elements for Operating a Valve". ... |
+
+Read More
+
+=== news ===
+Source: https://www.iitk.ac.in/me/news
+August 2026 |
+
+July 2026 |
+
+July 2026 |
+
+Congratulations to Prof. Bishakh Bhattacharya and his team for being awarded a US patent for "Actuator with Shape Memory Alloy Elements for Operating a Valve".
+June 2026 |
+
+Congratulations to Prof. Umesh Madanan for being invited to join as an Associate Editor of the Journal of Brazilian Society of Mechanical Sciences and Engineering (Springer).
+March 2026 |
+
+Congratulations to Prof. Kamal K. Kar on publishing a book titled "Polymer Electrolyte Membranes for Fuel Cell Devices: Materials, Challenges, and Future Prospects" (CRC Press, Taylor & Francis Group), a collaborative effort with Dr. Soma Banerjee (HBTI Kanpur) and Dr. Bablu Mordina (DMSRDE, Kanpur).
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > news]
+March 2026 |
+
+Congratulations to Prof. Bishakh Bhattacharya on joining the Apex Committee of DRDO Young Scientists Laboratory for Smart Materials (DYSL-SM).
+March 2026 |
+
+Congratulations to Krishna Chaithan Marthi (PhD student) on being awarded the Best Poster Award at the SPARC Conclave 2026 held on 8 - 9th March 2026 in IIT Kharagpur Research Park, India
+February 2026 |
+
+Prof. Pankaj Wahi has joined the editorial board of “Mechanics Based Design of Structures and Machines”, a Taylor and Francis Journal.
+February 2026 |
+
+Prof. Bishakh Bhattacharya has joined the editorial board of "Smart Materials and Structures”, an IOP Science Journal.
+February 2026 |
+
+Prof. Bishakh Bhattacharya has been invited to join the editorial board of the Journal of Climbing and Walking Robots.
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > news]
+January 2026 |
+
+Kapil Kumar, a FARE Fellow in the Department of Mechanical Engineering, has received the Best Poster Award at VETOMAC 2025.
+January 2026 |
+
+Prof. Virkeshwar Kumar has received associateship of the Indian Academy of Sciences – 2026. The Associates programme recognizes talented young scientists working in India, to involve them in the activities of IASc.
+January 2026 |
+
+Thangavel Sudeep, an M.Tech student in the department, has been awarded the best oral presentation award at the Ninth International Conference on Theoretical, Applied, Computational, and Experimental Mechanics (ICTACEM-2025)
+December 2025 |
+
+Prof. Ushasi Roy has been felicitated by Springer Nature India, in the "DEI Initiative - Her reseach our future" category
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > news]
+October 2025 |
+
+Prof. Avinash Agarwal has received the Springer Nature Leadership and Book award from Springer Nature, India
+October 2025 |
+
+Prof. Kamal K. Kar has received the Springer Nature Leadership and Book award from Springer Nature, India
+October 2025 |
+
+Prof. Avinash K. Agarwal (ME) has received the J. C. Bose Grant (2025) from the Anusandhan National Research Foundation (ANRF).
+September 2025 |
+

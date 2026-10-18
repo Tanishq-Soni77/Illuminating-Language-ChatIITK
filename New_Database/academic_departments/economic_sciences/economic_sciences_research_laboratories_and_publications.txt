@@ -1,0 +1,728 @@
+DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Economic Sciences, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/eco. Snapshot: scraped in 2026.
+
+=== economics lab ===
+Source: https://www.iitk.ac.in/eco/economics-lab
+Economics Laboratory
+
+Welcome to the Economics Laboratory at IIT Kanpur. Located in the New Core Lab Complex, it provides access to state-of-the-art technology and updated databases for research and teaching in Economics.
+
+Currently we have 42 terminals of advanced configuration, installed with the latest versions of STATA, EViews, RATS/CATS, Maple, WinEdt and Microsoft Office. In addition, the central server provides access to Matlab and Mathematica. The Economics Lab also maintains an updated database of the National Sample Survey and Annual Survey of Industries and subscribes to the CEIC India Premium Database and GTAP. CMIE database, provided directly by the Institute, can also be accessed from the Lab terminals. To top it all, the softwares and databases provided by the lab can be accessed via a virtual desktop environment from anywhere within the campus. The Economics lab is very useful for running practical sessions in Econometric Analysis. Instructors regularly use it for lab-based UG/PG courses in Economics/Mathematics. It is also very popular amongst our doctoral students for research purposes. Mode of access (department/institute/outside users): Access to the lab can be requested for teaching/research purposes. Please raise a request through the Central Request System at http://172.31.1.31/iit/login.pl or you may get in touch with the Lab In-Charge directly.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > economics lab]
+Contact Information
+New Core Lab 311
+Phone: 0512-2596977
+
+=== phd theses ===
+Source: https://www.iitk.ac.in/eco/phd-theses
+Year | Student | Supervisor | Thesis title |
+
+2022 |
+Surya Nath Maiti |
+Debayan Pakrashi, Sarani Saha |
+Essays in Development Economics: Understanding the Role of awareness |
+
+2022 |
+Ashutosh Kumar Dubey |
+Vimal Kumar |
+Decision Making in Arranged Marriages |
+
+2020 |
+Nupur Nirola |
+Sohini Sahu |
+Government Expenditure and State-Level Economic Performance in India |
+
+2020 |
+Saakshi |
+Sohini Sahu |
+A Macroeconomic Analysis of Survey-based Inflation Expectations in India |
+
+2020 |
+Rishman Jot Kaur Chahal |
+Wasim Ahmad |
+Essays in Corporate-Political Connections |
+
+2019 |
+Chitwan Lalji |
+Debayan Pakrashi |
+Essays in Health Economics |
+
+2018 |
+Gopal Sharan Parashari |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > phd theses]
+Vimal Kumar |
+Studies in Economics of Conflict: An Evolutionary Perspective |
+
+2018 |
+Amey Sapre |
+P. Kulshreshtha |
+Essays in Political Economy and Public Finance |
+
+2017 |
+Prabhjot Kaur |
+P. Kulshreshtha |
+Agrarian Distress, Indebtedness and Farmers' Suicides: A Case Study of Punjab |
+
+2016 |
+Sarbjit Singh |
+Somesh K. Mathur |
+Measurement of Trade Costs of India and their Impact on Trade and Investment Flows using Gravity and GTAP Analysis |
+
+2016 |
+Rahul Arora |
+Somesh K. Mathur |
+Mega regional Trade Deals in the Asia-Pacific Region and their impact on Indian economy: Partial and General Equillibrium Analysis |
+
+2015 |
+Dhruv Gupta |
+Vimal Kumar |
+An Economic Analysis of Naxalite Insurgency in India |
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > phd theses]
+2015 |
+Naveen Bali |
+P.M. Prasad |
+Economics of Global Warming: A Case Study of Iron and Steel Industry in India |
+
+2014 |
+Roopesh Kaushik |
+B. Rath |
+Impact Evaluation of Institution in Harnessing Water Resources: A study of Indigenous Water Harvesting Projects in the Semi-arid Region of Rajasthan. |
+
+2014 |
+Muneer Babu M. |
+P. Kulshreshtha |
+An Empirical Study of Regulation and Performance of Microfinance Institutions in India |
+
+2014 |
+K. Basanth |
+B. Rath |
+Assessment for Sustainability of the Mines and Minerals Sector: A case study of iron ore mines in India |
+
+2013 |
+Archana Srivastava |
+S.K. Mathur |
+Testing of Heckscher-Ohlin-Vanek Hypothesis, and Impact Assessment of International Trade - An Indian Perspective |
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > phd theses]
+2013 |
+Mohd. Irfan (Currently faculty at IIT Dhanbad) |
+Sarani Saha |
+Modes of Firms' Exit and their Determinants: A Theoretical and Empirical Analysis |
+
+2012 |
+Bikas Ranjan Mishra |
+S.K. Mathur |
+Determinants, Impacts and Spill-over Effects of FDI in India: An Econometric Investigation |
+
+=== publications ===
+Source: https://www.iitk.ac.in/eco/publications
+2026
+
+Lohawala, N. and Rahman, M.A. (2026), "Do Determinants of EV Purchase Intent vary across the Spectrum? Evidence from Bayesian Analysis of US Survey Data,” Transportation Research Part A: Policy and Practice, Volume 207, 2026, 104961, https://doi.org/10.1016/j.tra.2026.104961.
+
+Vinayak Krishnatri. and Sukumar Vellakkal (2026), “Does Alcohol Prohibition Improve Caloric and Macronutrient Intake from Healthy Food Sources? Evidence from Bihar, India,” Journal of Agricultural Economics (Wiley; ABDC-A, Scopus Q1 in Economics & Econometrics), 57(1), 1–18. https://doi.org/10.1111/agec.70090
+
+Shahid Majeed Dar and Sukumar Vellakkal (2026), “Ban and Benefit: Effects of Alcohol Ban on Child Nutrition,” The B.E. Journal of Economic Analysis & Policy (De Gruyter; ABDC-A, Scopus Q2 in Economics, Econometrics & Finance), online ahead of print. https://doi.org/10.1515/bejeap-2025-0390
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Nisha Mishra and Sukumar Vellakkal (2026), “Mother’s Education and Child Nutrition: Evidence of Intergenerational Effect from a School Cycle Program, India,” The Journal of Development Studies (Taylor & Francis; ABDC-A, Scopus Q1 in Development), online ahead of print, pp. 1–22. https://doi.org/10.1080/00220388.2026.2703545
+
+Nisha Mishra and Sukumar Vellakkal (2026), “Conditional Cash Incentives, Community Health Workers, and Continuum of Maternal Healthcare: Evidence from India,” Health Policy and Planning (Oxford University Press; Scopus Q1 in Health Policy), 41(4), 612–626. https://doi.org/10.1093/heapol/czag019
+
+Vasudev C., Mishra S., Rathi A., Fledderjohann J. and Sukumar Vellakkal (2026), “Diverse Coping Strategies for Food Insecurity: A Qualitative Study of Economically Precarious Households in India in the Context of COVID-19,” PLOS ONE (Public Library of Science; Scopus Q1 in Medicine), 21(6), e0350020. https://doi.org/10.1371/journal.pone.0350020
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mishra S., Rathi A., Vasudev C., Fledderjohann J. and Sukumar Vellakkal (2026), “Food, Education, and Aspirations: Perceptions and Experiences of India’s Mid-day Meal Scheme,” Journal of Social Policy (Cambridge University Press; ABDC-A, Scopus Q1 in Social Policy), accepted 17 July 2026; in production.
+
+Anindya K., Zhao Y., Sukumar Vellakkal, Perianayagam A., Pati S., Marthias T., Malik M. and Lee J.T. (2026), “State-Level Variations in Hypertension Management and Cardiovascular Disease Risks in India: Public Spending on Health and Socioeconomic Inequalities,” Gerontology (Karger; Scopus Q2), 72(2), 95–109. https://doi.org/10.1159/000549706
+
+Srivastava, A., & Mathur, S. K. (2026). Global Consequences of Second Round of Tariffs: A General Equilibrium Approach. The Journal of Economic Integration (SCOPUS)
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Chauhan, M., & Mathur, S. K. (forthcoming). The impact of productivity shocks on carbon emissions, energy use, economic growth and welfare: The use of global economy models and spatial analysis. In Climate Change and Resilience in South Asia (Edited volume). Asian Development Bank Institute (ADBI). (Accepted April 9, 2026).
+
+Modal, S., Chauhan, M., & Mathur, S. K. (Revised and resubmitted). Invisible ties: Regional trade agreements and its impact on global trade. Review of World Economics (ABDC B). Revised and resubmitted (second revision).
+
+Chauhan M, Mathur SK, Kulshreshtha P (2026;), "Spatial income convergence among and within the Indian states". Indian Growth and Development Review, Vol. ahead-of-print No. ahead-of-print
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+2025
+
+Shahid Majeed Dar and Sukumar Vellakkal (2025), “Usage and Health Impacts of Toilets: Evidence from a Nationwide Sanitation Program in India,” Economic Analysis and Policy (Elsevier; ABDC-A, Scopus Q1 in Economics & Econometrics), 88, 1652–1669. https://doi.org/10.1016/j.eap.2025.10.048
+
+Srivastava, A., Mathur, S.K., & Prabir De (2025), "The Impact of Trump 2.0 Tariffs, with a Special Focus on India". Vol 60, Issue No. 43-44, 25 October & 1 November 2025 in Economic and Political Weekly. https://www.epw.in/journal/special-articles/global-impact-trump-20-tariffs-special-focus-india.html (SCOPUS)
+
+Srivastava, A., Mathur, S. K., Chauhan, M., & De, P. (2025). Comparative study of the impact of Indian transportation infrastructure on firm-level performance in inland waterways. Transport Policy, 171, 764-802. https://doi.org/10.1016/j.tranpol.2025.06.025 (SCOPUS)
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Srivastava, Archana, Somesh Kumar Mathur, Manish Chauhan, and Prabir De. "Comparative study of the impact of Indian transportation infrastructure on firm-level performance in inland waterways." Transport Policy171 (2025): 764-802.
+
+Chauhan, Manish, Somesh Kumar Mathur, and Praveen Kulshreshtha. "Spatial convergence among Indian districts: an econometric evidence." Journal of Quantitative Economics23, no. 3 (2025): 679-711.
+
+Kumar, Sanjiv, & Prabheesh, K. P. (2025). How Does Macroprudential Policy Impact Bank Risk-Taking and Profitability: Evidence from Indian Commercial Banks. Emerging Markets Finance and Trade, 61(4), 875-902. https://www.tandfonline.com/doi/full/10.1080/1540496X.2024.2399532#abstract
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Shrimali, S., & Ahmad, W. (2025). On the communication efforts of the central banks in emerging economies: The case of India. Emerging Markets Review, 65, 101259.
+
+Som, K., Thirumulanathan, D., & Dutta, J. (2025). Bilevel programming problems: a view through set-valued optimization. Annals of Operations Research, 1-26.
+
+Arigapudi, S., & Heller, Y. (2025). Stable mixing in Hawk–Dove Games under best experienced payoff dynamics. Games and Economic Behavior, 151, 148-161.
+
+Arigapudi, S., Heller, Y., & Schreiber, A. (2023). Heterogeneous noise and stable miscoordination. arXiv preprint arXiv:2305.10301.
+
+Bag, P., Datta, N. & Wang, P. Data-driven auditing of business and self-employment earnings. Soc Choice Welf 64, 665–698 (2025). https://doi.org/10.1007/s00355-024-01547-w
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Vikram, A. (2025). Stability and optimal double auction design for a two-sided market. Mathematical Social Sciences, 133, 1-12.
+
+Koley, M., & Bera, A. K. (2024). To use, or not to use the spatial Durbin model?–that is the question. Spatial Economic Analysis, 19(1), 30-56.
+
+Srivastava, A., Mathur, S. K., Chauhan, M., & De, P. (2025). Comparative Study of the Impact of Indian Transportation Infrastructure on Firm-level Performance in Inland Waterways. Transport Policy.
+
+Chauhan, M., Mathur, S.K. & Kulshreshtha, P. Spatial Convergence Among Indian Districts: An Econometric Evidence.  Quant. Econ.23, 679–711 (2025). https://doi.org/10.1007/s40953-025-00440-2
+
+Mathur, S. K., De, P., & Srivastava, A. (Eds.). (2025). The Changing Profile of India’s Trade Relations: A Partial and General Equilibrium Analysis. Taylor & Francis.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Bhat, B. A., Chatterjee, E., & Thakur, S. (2025). Fertility Outcomes and Parental Well-being in Later Life: Evidence from India. Journal of Development Economics, 103535.
+
+Bhat, B. A., & Thakur, S. (2024). The intergenerational effects of marital transfers: Evidence from India. Journal of Human Resources.
+
+Thakur, S. (2024). Intergenerational effects of affirmative action in higher education: Evidence from India. Economics Letters, 244, 112010.
+
+Ahsan, M. N., & Thakur, S. (2024). The great Indian demonetization and gender gap in health outcomes: Evidence from two Indian states. Economics & Human Biology, 53, 101369.
+
+Vankayala, S.K., Mittra, T., Thirumulanathan, D., Gopinath, S.D.S., Kumar, V.S.M., and Yoon, S.(2025) .Low-Complexity LDPC Decoder for Cloud Based Architectures. IEEE CONECCT.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mathur, S. K., & Sen, R. (2025). A quantitative assessment of the Indo-Pacific Economic Framework (IPEF) and India opting out of the trade pillar: Evidence from a global economic model. Economic and Political Weekly
+
+Mathur, S. K., Srivastava, A., & De, P. (2025). The general equilibrium impact of possible imposition of tariffs under the aegis of Trump 2 administration.Economic and Political Weekly.(Forthcoming)
+
+2024
+
+Vinayak Krishnatri. and Sukumar Vellakkal (2024), “Does Affordable Internet Promote Maternal and Child Healthcare Access? Evidence from a Post-Telecommunication Market Disruption Period in India,” Telecommunications Policy (Elsevier; Scopus Q1 in Economics & Econometrics), 48(10), 102872. https://doi.org/10.1016/j.telpol.2024.102872
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Kumar, U., Ahmad, W., & Uddin, G. S. (2024). Bayesian Markov switching model for BRICS currencies' exchange rates. Journal of Forecasting, In Press.
+
+Saini, S., & Ahmad, W. (2024). Credit Creation, Credit Destruction and Credit Reallocation: Firm-level Evidence from India. Journal of Asian Economics, In Press.
+
+Prabheesh, K. P., Wickramarachchi, V., & Kumar, Sanjiv. (2024). Assessing the Impact of US Monetary Policy on Foreign Currency Debt and Credit Growth in Emerging Markets During the COVID-19 Pandemic”. Emerging Markets Finance and Trade, 1-17. https://www.tandfonline.com/doi/abs/10.1080/1540496X.2024.2303991
+
+Saini, S., Ahmad, W., & Salahuddin. (2024). Do recessions induce the Schumpeterian creative destruction? Micro-evidence from India. Emerging Markets Review, In Press.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Kaur, M., Ahmad, W., Hari, K. S., & Kattumuri, R. (2024). FinTech entrepreneurial ecosystem in India: Role of incubators and accelerators. Global Finance Journal, In Press.
+
+Vikram, A. Worst-case efficient and budget-balanced mechanism for single-object allocation with interdependent values. Social Choice and Welfare 62, 89–108 (2024).
+
+Kumar, Sanjiv, and K. P. Prabheesh (2024). Assessing the Effects of Macroprudential Policy on the Indian Macroeconomy." Emerging Markets Finance and Trade, 1-27.
+https://www.tandfonline.com/doi/abs/10.1080/1540496X.2023.2278643
+
+2023
+
+Srivastava, A., Mathur, S. K., Mathur, R., & De, P. (2023). Assessment of Possible Economic Alignment Between G20 Nations with Special Focus on India, G7 and G12: A General Equilibrium Analysis. India Quarterly: A Journal of International Affairs 79(4), 535-551. (SCOPUS)
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Srivastava, A., Mathur, S.K., & Prabir De (2023), "An Ex-Ante Evaluation of Indo-Pacific Economic Framework: A General Equilibrium Analysis". Vol 58, Issue 4, 28 January 2023 in Economic and Political Weekly. https://www.epw.in/journal/2023/4/commentary/ex-ante-evaluation-indo-pacifi-c-economic.html?0=ip_login_no_cache%3Dc87d6904d3cf344e9106390c93ecbc3f (SCOPUS).
+
+Srivastava A. & Mathur S. K (2023), "Ex-Ante Evaluation of India's Trade Alliance with Indo-Pacific Region: A General Equilibrium Analysis". Published in Foreign Trade Review. https://doi.org/10.1177/00157325221137945 (SCOPUS).
+
+Srivastava, A., & Mathur, S. K. (2023). India's Possible Trade Alignment with the Southeast Asia: A General Equilibrium Analysis of Impacts on Carbon Emissions. In Thirty Years of ASEAN-India Relations (pp. 161-185). Routledge (SCOPUS).
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Sachdeva, P., Ahmad, W., & Bhanumurthy, N. R. (2023). Public expenditure multipliers across business cycle phases in an emerging economy: new empirical evidence and dimension. Empirical Economics, 66, 279–299.
+
+Sachdeva, P., Ahmad, W. & Bhanumurthy, N.R. (2023). Uncovering time variation in public expenditure multipliers: new evidence. Indian Economic Review, 58 (Suppl 2), 445–483.
+
+Ahmad, W., Tiwari, S. R., Wadhwani, A., Khan, M. A., & Bekiros, S. (2023). Financial Networks and Systemic Risk Vulnerabilities: A Tale of Indian Banks. Research in International Business and Finance, 65, 101962.
+
+Batham, M., Ojha, M., Mirghasemi, S., and Rahman, M. A. (2023), “Binary and Ordinal Probit Regression: Applications to Public Opinion on Marijuana Legalization in the United States,” Applied Econometric Analysis using Cross Section and Panel Data, edited by Deep Mukherjee, 33-60, 2023. Contribution to Economics, Springer Singapore, Singapore.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Singh, A., & Vellakkal, S. (2023). Outreach of the programmatic components of National Health Mission in India: An inter- and intra-state analysis using nationally representative data. Journal of Public Affairs (Wiley), e2883 (early view ahead of print).
+https://doi.org/10.1002/pa.2883
+
+Archana Srivastava, Somesh K Mathur and Prabir De (2023),” Ex-Ante Evaluation of Indias Trade Alliance with Indo Pacific: A General Equilibrium Analysis”,volume 58, issue 2, Foreign Trade Review, Sage Publication
+
+T Argaw, J Fledderjohann, E Aurino, S Vellakkal (2023). Children’s Educational Outcomes and Persistence and Severity of Household Food Insecurity in India: Longitudinal Evidence from Young Lives. The Journal of Nutrition (Elsevier).Vol 153 (4), April 2023, Pages 1101-1110.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Maheshwari, P. and Rahman, M. A.(2023), "bqror: An R Package for Bayesian Quantile Regression in Ordinal Models", The R Journal, 15(2), 39-55, 2023.
+
+Archana Srivastava, Somesh K Mathur and Prabir De (2023),"An Ex Ante Evaluation of Indo-Pacific Economic Framework A General Equilibrium Analysis", Economic & Political Weekly JANUARY 28, 2023 vol LVIII no 4
+
+2022
+
+Srivastava A, Mathur., R., & Mathur., S. K. (2022), "Evaluation of ASEAN-India Free Trade Regime - A General Equilibrium Approach", Journal of Asian Economic Integration, September Issue, Volume 4, No.2. 160-175.
+
+Srivastava A., Somesh Kumar Mathur & Prabir De (2022), "Ex-Ante Evaluation of India's Trade Alliance with Indo-Pacific Region: A General Equilibrium Analysis". ARTNeT Working Paper Series no. 211, February 2022, Bangkok, ESCAP, available at https://artnet.unescap.org
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mishra, Shila, Manish Chauhan, and Somesh K. Mathur. Digital economies and evolving regulations: A parametric and non-parametric approach with bad output across countries. No. 212. ARTNeT Working Paper Series, 2022.
+
+Roy, P., Ahmad, W., Sadorsky, P., & Phani, B. V. (2022). What do we know about the idiosyncratic risk of clean energy equities? Energy Economics, 112, 106167.
+
+Shrimali, S., & Ahmad, W. (2022). Words that send waves to the Indian stock market: investigating RBI's communication. Economic and Political Weekly, 57(41), 10-13.
+
+Sachdeva, P., Ahmad, W., & Bhanumurthy, N. R. (2022). On the Dynamics of Time-varying Fiscal Multipliers. Economic and Political Weekly, 57(44-45), 30-33.
+
+Khan, M. A., & Ahmad, W. (2022). Competition, concentration and default-risk in the Indian banking industry. Journal of Economic Studies. 50(2), 268-282.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Khan, M. A., & Ahmad, W. (2022). Fresh Evidence on the Relationship between Market Power and Default Risk of Indian Banks. Finance Research Letters, 46(A).
+
+Vellakkal S,Khan Z, Alavani H, J Fledderjohann, Stuckler D: Effects of public policies in preventing cardiovascular diseases, Public Health (Elsevier). Volume 207, June 2022, Pages 73-81.
+
+Revisiting the nexus between fiscal decentralization and government size - The role of ethnic fragmentation. Atrayee Choudury and Sohini Sahu, European Journal of Political Economy, Volume 75, December 2022, 102193.
+
+Cross-country variations in economic complexity: The role of individualism. Garima Maurya and Sohini Sahu, Economic Modelling, Volume 115, October 2022, 105961.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Fiscal decentralization, regional disparity, and the role of corruption. Nupur Nirola, Sohini Sahu and Atrayee Choudhury, The Annals of Regional Science, Volume 68, 2022
+
+Archana Srivastava and Somesh K Mathur(2022), "India's Possible Alignment with the RCEP: A General Equilibrium Analysis of Impacts on Carbon Emissions", forthcoming as book chapter in the book entitled" Thirty Years of ASEAN", AIC, RIS, Ministry of External Affairs, Delhi and Cambodia
+
+Archana Srivastava, Rachna Mathur and Somesh K Mathur (2022),"Evaluation of ASEAN–India Free Trade Regime: A General Equilibrium Approach", Journal of Asian Economic Integration, Volume 4, Number 2, Sage Publication, Thailand, New Delhi
+
+Chopra, A., M., Lahiri. A, (2022), "Pandemics through the lens of occupations", Canadian Journal of Economics
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Vikram A.,"A top-only mechanism with reserve price for single-good allocation problem." Economics Letters (2022): 110646.
+
+Dar, S. S., & Sahu, S. (2022). The effect of language on financial inclusion. Economic Modelling, 105693.
+
+2021
+
+Dutta, J., & Martínez-Legaz, J. E. (2021). Error bounds for inequality systems defining convex sets. Mathematical Programming, 189(1), 299-314.
+
+A Kanya, T Marthias, S Vellakkal, N Carvalho, R Atun, A Morgan, Y Zhao, E Hulse, B McPake, J Lee (2021). Socioeconomic inequalities ineffective service coverage for reproductive, maternal, newborn, and child health: a comparative analysis of 39 low-income and middle-income countries, EClinicalMedicine-LANCET, Volume 40
+
+Singh, A., & Vellakkal, S.(2021). "Impact of public health programs on maternal and child health services and health outcomes in India: A systematic review". Social Science & Medicine, 113795.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Saini, S., Ahmad, W.,& Bekiros, S. (2021). "Understanding the credit cycle and business cycle dynamics in India". International Review of Economics & Finance, 76, 988-1006.
+
+Khan, M. A., & Ahmad, W.(2021). "Fresh Evidence on the Relationship between Market Power and Default Risk of Indian Banks". Finance Research Letters (Forthcoming).
+
+Dempe, S., Dinh, N., Dutta, J., & Pandit, T. (2021). "Simple bilevel programming and extensions". Mathematical Programming,188(1), 227-253.
+
+Kesarwani, P., & Dutta, J. (2021). "Charnes–Cooper scalarization and convex vector optimization". Optimization Letters, 15(3), 833-846.
+
+Ather H Dar, Somesh K Mathur and Sila Mishra(2021) 'The Efficiency of Indian Banks: A DEA, Malmquist and SFA Analysis with Bad Output', forthcoming in Indian Econometric Society Journal, Journal of Quantitative Economics, Springer Publication.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Sengupta, D., Mukherjee, D. (2021). Efficiency of Indian Thermal Power Plants and Suspended Particulate Matter: Findings Across Technological Assumptions and DEA Models. Studies in Microeconomics (Forthcoming).
+
+Khati, K.S., and Mukherjee, D. (2021). Productive Efficiency and Non-performing Assets of Indian Banks in the Post Global Financial Crisis Period. South Asia Economic Journal (Forthcoming).
+
+Sengupta, D., Mukherjee, D.(2021). By-production of Electricity and Particulates: Efficiency of Indian Thermal Power Plants Revisited. International Journal of Energy Sector Management (Forthcoming).
+
+Naman Aggarwal and Somesh K Mathur(2021)," Evaluation of Proposed India's Regional Trade Agreements with Major Economies using General Equilibrium Analysis ",Chapter 11, June 2021 in the edited Handbook of Research on empirical aspects of strategic trade negotiations and management by Nuno Crespo and Nadia Simones, Lisbon, Portugal.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Sachin Angurala and Somesh Kumar Mathur(2021), "A Roadmap to India Liberalizing with Major Economic Groups ",Chapter 15 , June 2021 in the edited Handbook of Research on empirical aspects of strategic trade negotiations and management by Nuno Crespo and Nadia Simones, Lisbon, Portugal.
+
+Ahmad, W., Kutan, M. A., Gupta S. (2021). Black swan events and COVID-19 Outbreak: Sector level evidence from the US, UK, and European stock markets. International Review of Economics & Finance (Forthcoming).
+
+Islam, A., Pakrashi, D., Vlassopoulos, M. & Wang, L. C. (2021) Stigma, Misconception and Discrimination in the time of COVID-19: A Field Experiment in India. Social Science & Medicine (Forthcoming).
+
+Ahmad, W., Hernandez, J. A., Saini, S., & Mishra, R. K. (2021). The US equity sectors, implied volatilities, and COVID-19: What does the spillover analysis reveal?. Resources Policy (Forthcoming).
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Ojha, M. and Rahman, M.A. (2021), Do Online Courses Provide an Equal Educational Value Compared to In-Person Classroom Teaching? Evidence from US Survey Data using Quantile Regression, Education Policy Analysis Archives, 2021 (Forthcoming).
+
+Ahmed, F., Islam, A., Pakrashi, D., Rahman, T., & Siddique, A. (2021). Determinants and Dynamics of Food Insecurity During COVID-19. Food Policy (Forthcoming).
+
+Fafchamps, M., Islam, A., Malek, A., & Pakrashi, D. (2021). Mobilizing P2P Diffusion for New Agricultural Practices-Experimental Evidence from Bangladesh. World Bank Economic Review (Forthcoming).
+
+Mathur, S. K. (2021). Book review: The India Myanmar Thailand Trilateral Highway and Its Possible Eastward Extension to Lao PDR, Cambodia and Vietnam: Challenges and Opportunities. Journal of Asian Economic Integration, 3(1) 93-120
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mathur, S. K. (2021). Factors Explaining Spread of COVID-19 across countries and Indian States: An Econometric Investigation: Proceedings of the Contemporary Issues in Economics, Business, and Management (EBM 2020), December 14, 2020, Kragujevac, Republic of Serbia.
+
+Dar, Ather Hassan, and Mathur, S.K. (2021), The efficiency of Indian Banks: A Nonparametric DEA Approach with Panel Regression-Based Feedback, Prajnan, Journal of Social and Management Sciences ,Vol. XLIX, No. 4, 2020-21
+
+2020
+
+Dutta, J., & Pandit, T. (2020). "Algorithms for Simple Bilevel Programming". In Bilevel Optimization (pp. 253-291). Springer, Cham.
+
+Singhal, A., Sahu, Sohini., Chattopadhyay, S., Mukherjee, A., and Bhanja, S. N. (2020). Using night-time lights to find regional inequality in India and its relationship with economic development. Plos One, 15(11), e0241907.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Jha, S., & Sahu, Sohini. (2020). Forecasting inflation for India with the Phillips Curve: Evidence from internet search data. Economics Bulletin, 40(3), 2372-2379.
+
+Chitwan Lalji, Ayush Agrawal, and Debayan Pakrashi (2020). Analyzing the poverty situation in India: A multidimensional approach, in Contemporary Issues in Sustainable Development: The Case of India (Forthcoming)
+
+Chakraborty, T., Mukherjee, D., & Saha, S. (2020). Contemporary Issues in Sustainable Development: The Case of India. Routledge India (Forthcoming).
+
+Parashari, Gopal Saran, & Kumar, Vimal (2020). Destruction and settlement norms as determinants of conflict: An evolutionary perspective. European Journal of Political Economy, 63, 101872.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Chahal, Kaur Jot Rishman, and Ahmad, Wasim. ((2020), Political connections, investment inefficiency, and the Indian banking crisis, Quarterly Review of Economics and Finance (Forthcoming).
+
+Khati, S. Karan, and Mukherjee, Deep (2020). Evaluating the performance of Indian domestic banks through the lens of Pareto‒Koopmans efficiency, Global Business Review (Forthcoming).
+
+Sehgal, S., Ahmad, W., Pandey, P., and Saini, S. (2020), Economic and Financial Integration in South Asia: A Contemporary Perspective, Routledge (Forthcoming).
+
+Awasthi, K., Ahmad, W., Rahman, A., & Phani, B.V. (2020). When US sneezes, clichés spread: How do the commodity index funds react then?. Resources Policy (Forthcoming).
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Karasu, S., Altan, A., Bekiros, S., &,Ahmad, W., (2020). A new forecasting model with wrapper-based feature selection approach using multi-objective optimization technique for chaotic crude oil time series.Energy (Forthcoming).
+
+Ahmad, W, Prakash, R., Uddin, G. S., Rishman, J. K. C., Lutfur, R., and Dutta, A., (2020), On the Intraday Dynamics of Oil Price and Exchange Rate: What Can We Learn from China and India? Energy Economics (Forthcoming).
+
+Bresson, G., Chaturvedi, A., Rahman, M.A., and Shalabh. (2020), Seemingly Unrelated Regression with Measurement Error: Estimation via MCMC and Mean Field Variational Bayes Approximation, The International Journal of Biostatistics, (Forthcoming).
+
+Bresson, G., Lacroix, G., and Rahman, M.A. (2020), Bayesian Panel Quantile Regression for Binary Outcomes with Correlated Random Effects: An Application on Crime Recidivism in Canada, Empirical Economics, 60(1), 227-259.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Agrawal, A., Lalji, C. and Pakrashi, D. (2020), He’s in a Better Place, But She’s Not: Health Status of Widows in India, Journal of Development Studies, (Forthcoming).
+
+Frijters, P., Lalji, C. and Pakrashi, D. (2020), Daily Weather Only has Small Effects on Wellbeing in the US, Journal of Economic Behaviour and Organization, (Forthcoming)
+
+Islam, A. and Pakrashi, D. (2020), Labour Market Participation of Women in Rural Bangladesh: The Role of Microfinance, Journal of Development Studies, (Forthcoming).
+
+Mathur S.K (2020), What causus spread of covid 19 across countries and Indian states: An Econometric and ANN Investigations, book chapter in the edited book by Prabir De and Suranjan Gupta, Joint Publication of EEPC and RIS, Ministry of External Affairs, GOI.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Deepthi, A S and S.K.Mathur(2020), Health Insurance Coverage during Epidemics in India:A COVID -19 case of India using SIR Modelling Technique, Journal of Economic Policy and Analysis, Volume 1,No 1.
+
+Bilal A Bhat and Mathur S.K.(2020) Regional Income Convergence and Spatial Spillovers in Madhya Pradesh” Prajnan, Journal of Social and Management Sciences volume XLIX, No 3,pages 287-316 India.
+
+Ghosh, T., Parab, M P., Sahu, S. (2020), Analyzing the Importance of Forward Orientation in Financial Development-Economic Growth Nexus: Evidence from Big Data, Journal of Behavioural Finance, (Forthcoming)
+
+Ghosh, T., Sahu, S., Chattopadhyay, S. (2020), Inflation expectations of households in India: Role of oil prices, economic policy uncertainty, and spillover of global financial uncertainty, Bulletin of Economic Research, (Forthcoming)
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Datta, B. (2020). Investment Timing, Agency and Overconfidence. Operations Research Letters, 48(3), 286-290.
+
+Fafchamps, M., Islam, A., Malek, M. A., and Pakrashi, D. (2020), Can Referral Improve Targeting? Evidence from a Vocational Training Experiment, Journal of Development Economics, 144, 102436.
+
+2019
+
+Mathur, Somesh K., Panta Murali Prasad, Praveen Kulshreshtha, Sangeeta Khorana, and Manish Chauhan. The impact of odd-even transportation policy and other factors on pollution in Delhi: A spatial and RDD analysis. No. 182. ARTNeT Working Paper Series, 2019.
+
+Mathur S.K, Prasad, P M, Praveen Kulshreshtha and Sangeeta Khorana (2019), “The impact of oddeven transportation policy and other factors on pollution in Delhi: Aspatial and RDD analysis”, ARTNeT Working Paper Series, No. 182,March 2019, Bangkok, ESCAP
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Thirumulanathan, D., Sundaresan, R., & Narahari, Y. (2019). Optimal mechanisms for selling two items to a single buyer having uniformly distributed valuations. Journal of Mathematical Economics, 82, 1-30.
+
+Thirumulanathan, D., Sundaresan, R., & Narahari, Y. (2019). On optimal mechanisms in the two-item single-buyer unit-demand setting. Journal of Mathematical Economics, 82, 31-60.
+
+Verma, R., Ahmad, W, Uddin, G. S., and Bekiros, S. (2019). Analysing the Systemic Risk of Indian Banks. Economics Letters, 176, 103-108.
+
+Ahmad, W., Bhaskar, P., and Bhanumurthy, N. R. (2019). Understanding the Systemic Symptoms of NBFCs. Economic and Political Weekly, 54 (13), 59-67
+
+Kesarwani, P. and Dutta, J. (2019), Charnes-Cooper Scalarization and Convex Vector Optimization, Optimization Letters, 1-14
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mukherjee, A., Duttagupta, S., Chattopadhyay, S., Bhanja, S. N., Bhattacharya, A., Chakraborty, S., ... and Sahu, S. (2019). Impact of sanitation and socio-economy on groundwater fecal pollution and human health towards achieving sustainable development goals across India from ground-observations and satellite-derived nightlight. Scientific Reports, 9(1), 1-11.
+
+Shukhal, P.A., Dutta, J., and Kesarwani. P. (2019), On a Practical Notion of Geoffrion Proper Optimality in Multicriteria Optimization, Optimization, 1-27
+
+Pandey, P., Sehgal, S., and Ahmad, W. (2019). Dynamics of Banking Sector Integration in South Asia: An Empirical Study. Indian Growth and Development Review. 12 (3), 315-332.
+
+Nirola, N. and Sahu, S. (2019), The Interactive Impact of Government Size and Quality of Institutions on Economic Growth – Evidence from the States of India, Heliyon, 5(3), Article No 1352.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Saakshi, Sahu, S., and S. Chattopadhyay. (2019), Epidemiology of Inflation Expectations and Internet Search: An Analysis for India, Journal of Economic Interaction and Coordination, 15(3), 649-671
+
+Frijters, P., Islam, A. and Pakrashi, D. and Lalji, C. (2019), Roommate Effects in Health Outcomes, Health Economics 28(8), 998-1034.
+
+Frijters, P., Islam, A. and Pakrashi, D. (2019), "Heterogeneity in Peer Effects in Random Dormitory Assignment in a Developing country," Journal of Economic Behavior and Organization 163, 117-134.
+
+Lyngdoh, G. A., Rahman, M.A., and Mishra, S.K. (2019), "Bayesian Updating of Structural Model with a Conditionally Heteroscedastic Error Distribution," Journal of Engineering Mechanics-ASCE 145(12), 04019091
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Singh, J., Ahmad, W., and Mishra, A. (2019), "Coherence, Connectedness and Dynamic Hedging Effectiveness between Emerging Markets Equities and Commodity Index Funds". Resources Policy, 61, 441-460.
+
+Rahman, M.A., and Karnawat, S. (2019), "Flexible Bayesian Quantile Regression in Ordinal Models," Advances in Econometrics, 40B, 211-251.
+
+Rahman, M.A., and Vossmeyer, A. (2019), "Estimation and Applications of Quantile Regression for Binary Longitudinal Data," Advances in Econometrics, 40B, 157-191.
+
+Singh, M. K., and Mukherjee, D. (2019), "Drivers of Greenhouse Gas Emissions in the United States: Revisiting STIRPAT Model," Environment, Development and Sustainability, 21(6), 3015-3031
+
+Jha, S., and Sahu, S. (2019), "An Analysis of Heterogeneity in Inflation Expectations across Cities in India," Journal of Economic Studies, 46 (5), 1116-1136.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Nirola, N., and Sahu, S. (2019), "Revisiting the Wagner’s law for Indian States using Second Generation Panel Cointegration," Economic Change and Restructuring, 53, 241-263.
+
+2018
+
+Ranjan, A. and Mukherjee, D. (2018), "Assessing the Linkage between Dairy Productivity Growth and Climatic Variability: The case of New York State," Open Agriculture, 3, 658–669.
+
+Aussel, D., Dutta, J., and Xu, A.C. (2018), "The Dual Gap Function and Error Bounds for Strongly Monotone Variational Inequalities," Journal of Convex Analysis, 25 (4), 1121-1138.
+
+Lohawala, N., and Rahman, M.A. (2018), "Are Strategies for Success Different in Test Cricket and One-day Internationals? Evidence from England-Australia Rivalry," Journal of Sports Analytics, 4(3), 175-191.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Ahmad, W., Mishra, A. V., and Daly, K. J. (2018), "Financial Connectedness of BRICS and Global Sovereign Bond Markets". Emerging Markets Review, 37, 1-16.
+
+Chattopadhyay, S., and Sahu, S. (2018), "A Simple Model of Currency Notes Withdrawal," Theoretical Economics Letters, 8, 3196-3202.
+
+Ahmad, W., Mishra, A. V., and Daly, K. J. (2018), "An Examination of Heterogeneous Dependence and Dynamic Hedging between Sectors of BRIC and Global Markets". International Review of Financial Analysis, 59, 117-133.
+
+Sahu, S. (2018), "Business Cycle Accounting for India in a Multi-sector Dynamic General Equilibrium Model," Journal of Developing Areas, 52, 211-234.
+
+Ahmad, W., Sadorsky, P., and Sharma, A. (2018), "Optimal Hedge Ratios for Clean Energy Equities". Economic Modelling, 72, 278-295.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Ahmad, W., and Rais, S. (2018), "Time-Varying Spillover and the Portfolio Diversification Implications of Clean Energy Equity with Commodities and Financial Assets". Emerging Markets Finance and Trade, 54(8), 1837-1855.
+
+Ahmad, W., and Sharma, S. K. (2018), "Testing Output Gap and Economic Uncertainty as an Explicator of Stock Market Returns". Research in International Business and Finance, 45, 293-306.
+
+Ahmad, W., Rais, S., and Shaik, A. R. (2018), "Modelling the Directional Spillovers from DJIM Index to Conventional Benchmarks: Different this Time?" The Quarterly Review of Economics and Finance, 67, 14-27.
+
+Ahmad, W., and Sehgal, S. (2018), "Business Cycle and Financial Cycle Interdependence and the Rising Role of China in SAARC". Journal of Quantitative Economics, 16(2), 1-26.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Chakraborty, T., Mukherjee, A., Rachanapally, S., and Saha, S. (2018), "Stigma of Sexual Violence and Women's Decision to Work," World Development, 103, 226-238.
+
+2017
+
+Edited book(2017) on Theorizing International Trade: An Indian Perspective with Sarbjit Singh and Rahul Arora, Palgrave Macmillan, US, UK and Europe
+
+Thirumulanathan, D., Vinay, H., Bhashyam, S., & Sundaresan, R. (2017). Almost budget balanced mechanisms with scalar bids for allocation of a divisible good. European Journal of Operational Research, 262(3), 1196-1207.
+
+Ahmad, W. (2017), "On the Dynamic Dependence and Investment Performance of Crude Oil and Clean Energy Stocks". Research in International Business and Finance, 42, 376-389.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Nain, M. Z., Ahmad, W., and Kamaiah, B. (2017), "Economic Growth, Energy Consumption and CO2 Emissions in India: a Disaggregated Causal Analysis". International Journal of Sustainable Energy, 36(8), 807-824.
+
+Dutta, J. (2017), "Optimality Conditions for Bilevel Programming: An Approach through Variational Analysis," in Generalized Nash Equilibrium Problems, Bilevel Programming and MPEC, edited by Aussel, D. and Lalitha, C.S., 43-64. Springer, Singapore.
+
+Dutta, J., Kesarwani, P., and Gupta, S. (2017), "Gap Function and Error Bounds for Nonsmooth Convex Vector Optimization Problem," Optimization, 66(1), 1807-1836.
+
+Lalji, C., Pakrashi, D.and Smyth, R. (2017), "Can eating five fruit and veg a day really keep the doctor away?" Economic Modelling, 70, 320-330.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mathur, S.K., Arora, R. and Singh, S. (Eds.) (2017), Theorizing International Trade: An Indian Perspective.Palgrave Macmillan.
+
+Jones, J.B. and Sahu, S. (2017), "Transition accounting for India in a multi-sector dynamic general equilibrium model,"Economic Change and Restructuring, 50 (4), 299-339.
+
+Frijters, P. and Pakrashi, D. (2017), "Migration and Discrimination in Urban China: A Decomposition Approach," Review of Income and Wealth, 63 (4), 821-840.
+
+Charitha, C., Dutta, J.and Luke, D.R. (2017), "Lagrange Multipliers, (Exact) Regularization and Error Bounds for Monotone Variational Inequalities," Mathematical Programming (Series A), 161, 519-549.
+
+2016
+
+Srivastava A. and Mathur S.K. (2016), "Hypothesis in Trade Theory: Validity Check for India" in the Methods and Applications in Trade Policy Research, Pp 93-142, Athena Academic Publishers, U.K.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Amrita Roy and Somesh K Mathur(2016),”Brexit and India-EU Free Trade Agreement,, Journal of Economic Integration, December Issue,Vol.31 No. 4.
+
+Mathur Somesh K, Rahul Arora and Monika Bhardwaj, (2016),"Relative benefits/losses of India aligning with RCEP and BRICS countries under the conjecture of free trade area in goods", UNESCAP ARTNET Working Paper Number 160, Bangkok
+
+Singh, S., Arora R. and Mathur S.K(2016). Measurement of Trade Costs, Its Determinants and Trade Growth Accounting for India with Its Asian Trading Partners, Volume 22(1),35-55, Public Enterprise Journal, ICPE, Slovenia
+
+Mathur Somesh K, Rahul Arora, Ishita Ghoshal Thora (2016), “Domestic Energy Consumption and Country's Income Growth: A Quantitative Analysis of Developing and Developed Countries Using Panel Causality, Panel VECM, PanelCointegration and SURE" f, Journal of Quantitative Economics,Springer,IndiaJune 2016, Volume 14, Issue 1, pp 87–116
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+An edited book(2016) on Methods and Applications in Trade Policy Research, with Rahul Arora and Sarbjit Singh, Anne Books Private Limited, Delhi, Bangalore, Chennai, Mumbai
+
+Chakraborty, T.and Bakshi, S.K. (2016), "English Language Premium in a Globalizing Economy: Evidence from a Policy Experiment in India," Economics of Education Review, 50, 1-16.
+
+Islam, A., Maitra, C., Pakrashi, D.and R. Smyth (2016), "Microcredit Program Participation and Household Food Security in Rural Bangladesh," Journal of Agricultural Economics, 67, 448-470.
+
+Tsvetanov, T., Qi, L., Mukherjee, D., Shah, F.A. and Bravo-Ureta, B.E. (2016), "Climate change and land use in Southeastern U.S.: Did the "dumb farmer" get it wrong?" Climate Change Economics, 7, 1–35.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Bhattacharya, S., Saha, S.and Banerjee, S. (2016), "Income Inequality, Club Formation and the Quality of Public Good: A Developing Country Perspective," Journal of Development Economics, 123, 1-17.
+
+Borwein, J.M. and Dutta, J. (2016), "Maximal Monotone Inclusions and Fitzpatrick functions," Journal of Optimization Theory and Application, 171, 757-784.
+
+Sengupta, R.N., Gupta, A. and Dutta, J.(Eds.) (2016), Decision Sciences: Theory and Practice, CRC Press.
+
+Dutta, J. (2016), "Convex Functions in Optimization," in Decision Sciences: Theory and Practice, edited by R.N. Sengupta, A. Gupta and J. Dutta, CRC Press.
+
+Jagannathan, A.K. and Kumar, V. (2016), "Introduction to Game Theory," in Decision Sciences: Theory and Practice, edited by R.N. Sengupta, A. Gupta and J. Dutta, CRC Press.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Mathur, S.K., Sahu, S., Ghoshal, I. and Aggarwal, K. (2016), "Does domestic energy consumption affect GDP of a country? A panel data study," Global Economy Journal, 16(2), 229–273.
+
+Njuki, E., Bravo-Ureta, B.E. and Mukherjee, D. (2016), "The good and the bad: Environmental efficiency in Northeastern U.S. dairy farming." Agricultural & Resource Economics Review, 45, 22–43.
+
+Roy, A. and Mathur, S.K. (2016), "Brexit and India-EU Free Trade Agreement," Journal of Economic Integration, 31, 740-773.
+
+Mukherjee, D.and Rahman, M.A. (2016), "To drill or not to drill? An econometric analysis of US public opinion," Energy Policy, 91, 341–351.
+
+Rahman, M.A. (2016), "Bayesian Quantile Regression for Ordinal Models," Bayesian Analysis, 11, 1-24.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+2015
+
+Ahmad, W., Bhanumurthy, N. R., and Sehgal, S. (2015), "Regime Dependent Dynamics and European Stock Markets: Is Asset Allocation Really Possible?" Empirica, 42(1), 77-107.
+
+Sehgal, S., Ahmad, W., and Deisting, F. (2015), "An Investigation of Price Discovery and Volatility Spillovers in India’s Foreign Exchange Market". Journal of Economic Studies, 42(2), 261-284.
+
+Ahmad, W., and Sehgal, S. (2015), "The Investigation of Destabilization Effect in India’s Agriculture Commodity Futures Market: An Alternative Viewpoint". Journal of Financial Economic Policy, 7(2), 122-139.
+
+Ahmad, W., and Sehgal, S. (2015), "Regime Shifts and Volatility in BRIICKS Stock Markets: an Asset Allocation Perspective". International Journal of Emerging Markets, 10(3), 383-408.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Chakraborty, T., Mirkasimov, B. and Steiner, S. (2015), "Transfer Behaviour in Migrant Sending Communities," Journal of Comparative Economics, 43, 690-705.
+
+Chakraborty, T. (2015), "Trade Liberalization in a Traditional Society: Implications for Relative Female Survival," World Development, 74, 158–170.
+
+Chakraborty, T. and De, P.K. (2015), "Mother's autonomy and child's secondary schooling enrollment in Mexico," Review of Economics of the Household, 1-17.
+
+Chakraborty, T., Mukherjee, A. and Saha, S. (2015), "Court-ship, Kinship and Business: A Study on the Interaction between the Formal and Informal Institutions and its Effect on Entrepreneurship," IZA Journal of Labor and Development, 4, 1-21.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Dutta, J. (2015), "Barrier Methods in Nonsmooth Convex Optimization without Convex Representation," Optimization Letters, 9, 1177-1185.
+
+Charitha, C., Dutta, J.and Lalitha, C.S. (2015), "Gap Functions for Vector Variational Inequalities," Optimization, 64, 1499-1520.
+
+Kulshrestha, P.. and Nayak, T.K. (2015), "Technical Efficiency of Higher Technical Educational Institutions in India," Archives of Business Research, 3, 94-122.
+
+Mukherjee, D., Cromley, R.G., Shah, F. A. and Bravo-Ureta, B. E. (2015), "Optimal Location of Centralized Biodigesters for Small Dairy Farms: A Case Study from the United States." International Journal of Sustainable Energy Planning & Management, 8, 3–16.
+
+Gaurav, A. and Mathur, S.K. (2015), "Determinants of Trade Costs and Trade Growth Accounting between India and the European Union during 1995–2010," The World Economy, 39, 1399-1413.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Lordan, G. and Pakrashi, D. (2015), "Do all Activities 'Weigh' Equally? How Different Physical Activities Differ as Predictors of Weight," Risk Analysis, 35, 2069-2086.
+
+Sahu, S. (2015), "Source of Service Sector TFP Growth in India- Evidence from Micro Data," South Asian Journal for Macroeconomics and Finance, 4, 62-90.
+
+2014
+
+Srivastava. A., Mathur, & S K (2014), "Validity of Heckscher-Ohlin-Vanek Hypothesis - A Complete and Partial Test Approach" Korea and the World Economy, Vol 15, 3, Pp. 361-763.
+
+Panda, D., Singh, S.N. and Kumar, V. (2014), "Risk constraint profit maximization in a multi-electricity market," 2014 IEEE PES General Meeting | Conference & Exposition, National Harbor, MD, 1-5.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Babu, M. and Kulshrestha, P. (2014), "Productivity Change and Technical Efficiency in Indian Microfinance Institutions," Studies in Microeconomics, 2, 165-200.
+
+Lordan, G. and Pakrashi, D. (2014), "Make Time for Physical Activity or You May Spend More Time Sick!," Social Indicators Research, 119, 1379-1391.
+
+Saha, S., Roy, P. and Kar, S. (2014), "Public and Private Sector Jobs, Bribes and Consumption Gap in India: Evidence from Micro Data," The North American Journal of Economics and Finance, 29, 285 - 300.
+
+Prasad, P.M. (2014), "E-flows related livelihood in the Ganga River: A case study of tourism," in Our National River Ganga: Lifeline of Millions, Sanghi Rashmi (Ed), Springer.
+
+Singhal, P. and Sinha, S. (2014), "Network analysis of an Indian stock market using the minimum spanning tree algorithm," Journal of Quantitative Economics, 12, 44-59.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Sehgal, S., Ahmad, W., and Deisting, F. (2014). "An Empirical Examination of the Process of Information Transmission in India's Agriculture Futures Markets". Journal of Quantitative Economics, 12 (1), 96-125.
+
+Ahmad, W., Nain, M. Z., and Kamaiah, B. (2014). "On the Role of the Trend and Cyclical Components in Electricity Consumption and India's Economic Growth: a Cointegration and Co-feature Approach". OPEC Energy Review, 38(1), 107-126.
+
+Ahmad, W., Bhanumurthy, N. R., and Sehgal, S. (2014). "The Eurozone Crisis and its Contagion Effects on the European Stock Markets," Studies in Economics and Finance, 31(3), 325-352.
+
+2013
+
+Srivastava A., Mathur, S.K. (2013). Relative Prices, Trade, Technology and Wage Inequality – Evidence from India. Foreign Trade Review, Vol.48, 3, Pp.359-381 (SCOPUS).
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Srivastava A., Arora, R., & Mathur, S. K. (2013). Industrial Heterogeneity and Trade Flows of India: A Fixed Effect Vector Decomposition Approach. Journal of Industrial Statistics, Vol. 2, No. 1, Pp. 33-44
+
+Ahmad, W., Sehgal, S., and Bhanumurthy, N. R. (2013). "Eurozone Crisis and BRIICKS Stock Markets: Contagion or Market Interdependence?" Economic Modelling, 33, 209-225.
+
+Dutta, J.and Lalitha, C.S. (2013), "Optimality Conditions for Convex Optimization Revisited," Optimization Letters, 7, 221-229.
+
+Dutta, J., Deb, K., Arora, R. and Tulshyan, R. (2013), "Approximate KKT conditions: Theory and Numerical Experiments," Journal of Global Optimization, 56, 1463-1499.
+
+Rachapalli, S.R. and Kulshreshtha, P. (2013), "Evolutionarily stable conjectures and social optimality in oligopolies," Theoretical Economics Letters, 3, 12-18.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+Gangopadhyay, A., Kulshreshtha, P.and Verma, M. (2013), "Estimation of regression coefficient of a selected population," Journal of Statistical Theory and Practice, 7, 505-514.
+
+Mukherjee, D., Bravo-Ureta, B.E. and De Vries, A. (2013),"Dairy productivity and climatic conditions: Econometric evidence from Southeastern United States," Australian Journal of Agricultural & Resource Economics, 57, 123–140.
+
+Srivastava, A. and Mathur, S.K. (2013), "Relative Prices, Trade, Technology and Wage Inequality: Evidence from India," Foreign Trade Review, 48, 359-381.
+
+Rahman, M.A. (2013), "Quantile Regression using Metaheuristic Algorithms," International Journal of Computational Economics and Econometrics, 3, 205-233.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > publications]
+2012
+
+Jeliazkov, I. and Rahman, M.A. (2012), "Binary and Ordinal Data Analysis in Economics: Modeling and Estimation," in Mathematical Modeling with Multidisciplinary Applications, edited by X.S. Yang, 123-150. John Wiley & Sons Inc., Hoboken, New Jersey.
+
+Srivastava, A., Mishra, B.R. and Mathur, S.K. (2012), "Firm heterogeneity and trade barriers: Analysis of India's trade," Taylor's Business Review, 2, 33-45.
+
+2011
+
+Srivastava A., & Mathur, S. K. (2011). Rising Wage Inequality in India: A Translog Cost Function Analysis. Journal of Business and Policy Research, Vol. 6. No.1. Pp. 1- 15.
+
+Srivastava A., Mishra, B.R., & Mathur, S. K. (2011). Firm Heterogeneity and Trade Barriers: Analysis of India’s Trade. Taylor Business Review, Vol. 2. No.1. Pp. 33-44.
+
+=== sponsored projects ===
+Source: https://www.iitk.ac.in/eco/sponsored-projects
+2023
+
+Prof. Thirumulanathan D has been awarded the Core Research Grant (CRG) from the Science and Engineering Research Board (SERB) for the project proposal titled "Optimal Auction Mechanisms for Selling Multiple Heterogeneous Items in Static and Dynamic Settings". Prof. Swaprava Nath (IIT Bombay) is a co-PI on the project.
+
+2021
+
+Dr Sukumar Vellakkal has been awarded a research grant titled "Food Insecurity, Intra-household Dynamics, and Life-course Outcomes", funded by UK Research and Innovation (UKRI) through the lead collaborator Lancaster University UK. The grant Period is 2021- 2025.
+
+2020
+
+Dr. Debayan Pakrashi has been selected for the Shastri Covid-19 Pandemic Response Grant (SCPRG): Call for Innovative Solutions 2020-21.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+DST-SERB MATRICS Grants have been awarded to Dr. Mohammad Arshad Rahman, Dr. Debayan Pakrashi and Dr. Wasim Ahmad.
+
+Dr. Wasim Ahmad has been awarded the UKRI-ICSSR grant under the call: The future of UK-Indian trade and cross border investment in a changing global environment.
+
+2019
+
+Debayan Pakrashi (IIT Kanpur), Sarani Saha (IIT Kanpur), Chitwan Lalji (IIM Kozhikode) and Surya N. Maiti (IIT Kanpur) (2019-20, PI) “Knowledge is Power: A Scoping Study on Women’s Safety” funded by the International Growth Centre India (Bihar), £20,000.
+
+Debayan Paakrashi (IIT Kanpur), Asadul Islam (Monash University) and Marcel Fafchamps (Stanford University), (2019-20, Co-PI) “Addressing Financial Inclusion in Rural India: The Role of Information and Peer Pressure,” funded by the International Growth Centre India (Bihar), £20,000.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+2017
+
+Deep Mukherjee, (2017, PI), "Evaluation of HDFC Bank's Gram Samridhhi (Part I)," sponsored by Shramik Bharti, INR 3.60 Lakhs.
+
+2016
+
+Debayan Pakrashi, Deep Mukherjee, Arun Kumar Sharma (IIT Kanpur), Paul Frijters (University of Queensland) and Asadul Islam (Monash), (2016-18, Co-PI), "Skill Formation and Self-Employment Generation through Vocational Training," funded by the Indian Council of Social Science Research, New Delhi, INR 8.5 Lakhs.
+
+Debayan Pakrashi, (2016-18), "Evaluating and Learnings from India's Family Planning Investments," with the International Centre for Research on Women (ICRW), IPE Global, IIPS Mumbai and others, funded by the Bill & Melinda Gates Foundation.
+
+Deep Mukherjee and Debayan Pakrashi, (2016-17, Co-PI), Comprehensive Agricultural Information System (CAIS) development (feasibility study), sponsored by the Government of Uttar Pradesh, INR 19.9 Lakhs.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+Debayan Pakrashi, (2016-17), "Affirmative Action, Discrimination and Economic Development: Lessons and Evidence," with Monash University, Australia, funded by the Australia-India Council, AUD 30,000.
+
+Debayan Pakrashi and Paul Frijters, (2016-17, Co-PI), "A workshop into women's safety in India," funded by the Australia India Council, AUD 50,000.
+
+Debayan Pakrashi, Yves Zenou, Choon Wang, and Asad Islam, (2016-17, Co-PI), "Discrimination in the demand for health services in India," funded by Department of Economics, Monash University, AUD 19,500.
+
+2015
+
+Tanika Chakraborty and Sarani Saha, (2015-18, PI), "Courts, Networks and Start-Ups: Institutions matter for small enterprise development in South Asia," sponsored by IDRC, Canada, INR 84 Lakhs.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+Wasim Ahmad, (2015-17, Co-PI), "Financial integration in the SAARC region: Empirical analysis and policy issues", funded by the Indian Council of Social Science Research (ICSSR), New Delhi, INR 40 Lakhs.
+
+Deep Mukherjee, (2015-16, Consulting), "Socio-economic study for developmental needs assessment in nearby areas of various thermal power stations in Uttar Pradesh," sponsored by Uttar Pradesh Rajya Vidyut Utpadan Nigam Ltd. (UPRVUNL), INR 25 Lakhs.
+
+Debayan Pakrashi, Asadul Islam (Monash), Christopher Barrett (Cornell), Marcel Fafchamps (Stanford), Paul Christian (Cornell) and BRAC, (2015-16, Co-PI), "Technology Adoption and Diffusion: The System of Rice Intensification and Food Security in Bangladesh," funded by the International Growth Centre, Bangladesh.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+Tanika Chakraborty, (2015, Consulting), "A study on Child Labor in Uttar Pradesh," sponsored by Ministry of Labor, Uttar Pradesh, INR 1 Lakhs.
+
+2014
+
+Tanika Chakraborty and Sarani Saha, (2014-15, PI), "A study on the interaction between the formal and informal institutions and its effect on entrepreneurship," sponsored by ICSSR, INR 10 Lakhs.
+
+Debayan Pakrashi, Paul Frijters (Queensland) and Asadul Islam (Monash), (2014-15, Co-PI), "Can We Select the Right Peers in Indian Education? Evidence from Kolkata," funded by the International Growth Centre, India Central, London School of Economics, £ 10,000.
+
+Debayan Pakrashi, Asadul Islam (Monash), Christopher Barrett (Cornell), Marcel Fafchamps (Stanford), Garth Holloway (Reading) and other researchers from IRRI, Monash, Dhaka University and BRAC, (2014-15, Co-PI), "Technology Adoption and Food Security in Rural Bangladesh," funded by the International Growth Centre, Bangladesh, £ 60,000.
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS > sponsored projects]
+2012
+
+Tanika Chakraborty, (2012-15, Co-PI), "Decisions made under uncertainties and limited information by IIT Kanpur undergraduate students," sponsored by IIT Kanpur, 2012 –2015, INR 12 Lakhs.
+
+Vimal Kumar, (2012-14, Co-PI), "Economic analysis of urban housing markets and policies", sponsored by the Housing and Urban Development Corporation Limited (HUDCO).
+
+Somesh Kumar Mathur, (2012-14, Consulting), "Trade in Climate Smart Goods: Prometeo Project," sponsored by the Government of Ecuador.
+

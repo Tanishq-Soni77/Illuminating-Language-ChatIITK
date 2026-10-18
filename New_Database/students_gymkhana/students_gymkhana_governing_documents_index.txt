@@ -1,0 +1,11 @@
+STUDENTS' GYMKHANA, IIT KANPUR - INDEX OF GOVERNING DOCUMENTS (PDFs IN THIS FOLDER)
+Name: Which PDF in the students_gymkhana folder contains which governing document of the Students' Gymkhana and the halls of residence.
+Type: INDEX / READING GUIDE. Snapshot: 2024-2026 documents. The older constitution text (2013-2015 edition) is superseded; see gymkhana_constitution_earlier_edition_2013_2015_superseded.md.
+
+Context for all the PDFs below: the Students' Gymkhana is the students' government of IIT Kanpur. It has 4 councils (Academics and Career, Games and Sports, Media and Cultural, Science and Technology), 6 cells and 3 fests (Antaragni, Techkriti, Udghosh). Inter-IIT meets (for example the Inter IIT Sports Meet) are events, not clubs. See students_gymkhana_structure_and_glossary.txt for the full glossary.
+
+- gymkhana_constitution_2024.pdf - Constitution of the Students' Gymkhana, IIT Kanpur (2024 edition): chapters on the Gymkhana structure, Students' Senate, councils, elections, finance, amendments.
+- gymkhana_constitution_appendix_a.pdf to gymkhana_constitution_appendix_h.pdf - Appendices A to H of the 2024 Constitution (8 PDFs): rules and detailed provisions for the bodies, councils, clubs, festivals, publications and other functionaries named in the Constitution.
+- hall_model_constitution.pdf - Model Constitution for the halls of residence (hall students' bodies): general guidelines, structure, elections and removal from office, modes of functioning, finance, documents.
+- por_handbook.pdf - Positions of Responsibility (PoR) Handbook of the Students' Gymkhana.
+- por_mandate.pdf - Mandate document for Positions of Responsibility.

@@ -1,0 +1,2960 @@
+DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND PEOPLE PAGES
+Name: Department of Materials Science and Engineering, IIT Kanpur - faculty, staff, students, alumni, awards and people pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/mse. Snapshot: scraped in 2026.
+
+=== faculty ===
+Source: https://www.iitk.ac.in/mse/faculty
+Faculty & Staff
+
+Nilesh Badwe
+(PhD, Arizona State University, USA)
+
+Specialization : Mechanical properties of materials, Microelectronics packaging
+
+Areas of Interest : Nanoporous metals, Electrodeposition of nanocrystalline alloys, Interconnect materials
+
+Email: nbadwe@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~nbadwe
+
+Office: Faculty Building 412 B | Phone: +91 512 679 2205
+
+Lab 1: Western Labs 214 | Phone: +91 512 679 7934
+
+Kantesh Balani
+(PhD, Florida International University, Miami, USA)
+
+Specialization : Biomaterials, Computational Modeling, CNT Reinforced Nanocomposites, Nanomechanics & Tribology
+
+Areas of Interest : Bone Implant Materials, Molecular Modeling of Interfaces, Nano-composites, Multi Length Scale Abridgment
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: kbalani@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~kbalani
+
+Office: Laboratory of Biomaterials | Phone: +91 512 679 6194
+
+Lab 1: Biomaterials Processing and Characterization Laboratory | Phone: +91 512 679 7920
+
+Somnath Bhowmick (PhD, IISc. Bangalore)
+
+Specialization : Computational Materials Science
+
+Areas of Interest : Size dependent properties of nanomaterials, Ab-initiophase stability, Electronic structure calculations, Multiscale modeling
+
+Email: bsomnath@iitk.ac.in
+
+Website: https://sites.google.com/view/cmsmseiitk/home
+
+Office: Faculty Building, 410 | Phone: +91 512 679 7161
+
+Lab 1: Western Labs- 312A | Phone: +91 512 679 6703
+
+Krishanu Biswas (PhD, IISc. Bangalore)
+
+Specialization : Nanomaterials, Phase Transformation, Electron microscopy, Alloy Design
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Areas of Interest : Alloy Nanoparticles, Multicomponent Alloys, Deformation Behavior of High Entropy Alloys
+
+Email: kbiswas@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~kbiswas
+
+Office: Western Labs 210 | Phone: +91 512 679 6184
+
+Lab 1: Western Labs 210 | Phone: +91 512 679 7720
+
+Niraj Mohan Chawake (PhD, IIT Madras)
+
+Specialization : Creep, Mechanical Behavior of Materials, Solid-State Sintering
+
+Areas of Interest :  High-temperature alloys, Severe plastic deformation, Alloy design, in-situ deformation, structure-property correlation
+
+Email:  nchawake@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~nchawake
+
+Office: Faculty Building 417 | Phone: +91 512 679 2181
+
+Lab 1: Western Labs 214 | Phone: +91 512 679 7934
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Anshu Gaur (PhD, University of Illinois at Urbana-Champaign, USA)
+
+Specialization : Electronic Materials, Nano-Materials, Device Physics and Device Characterization
+
+Areas of Interest : Materials for electronic devices, carbon based nanostructures, Device physics and simulation, computational materials science
+
+Email: agaur@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~agaur
+
+Office:  Faculty Building 405 | Phone: +91 512 679 7600
+
+Lab 1:  Western Labs 312 | Phone: +91 512 679 6771
+
+Srinu Gangolu (PhD, IIT Bombay, India)
+
+Specialization : Structure-property correlation and High temperature deformation
+
+Areas of Interest : Grain refinement, Severe plastic deformation, Thermo-Mechanical Processing, Mechanical behaviour of Materials i.e. Creep and Superplasticity
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: srinu@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~srinu
+
+Office:  WL306A  | Phone: +91 512 679  2317
+
+Lab 1:  Deformation Processing Laboratory (Old MSE Workshop 101) | Phone: +91 512 679 6129
+
+Nilesh Prakash Gurao (PhD, IISc. Bangalore)
+
+Specialization : Crystallographic Texture, Thermomechanical Processing and Mechanical Behaviour of Materials
+
+Areas of Interest : Length and time scale effects in plasticity, in-situ deformation studies, Micro-Laue diffraction using synchrotron, crystal plasticity simulations
+
+Email: npgurao@iitk.ac.in
+
+Website: https://home.iitk.ac.in/~npgurao/
+
+Office: Western Labs 204A | Phone: +91 512 679 6688
+
+Lab 1: Western Labs 209 A | Phone: +91 512 679 7757
+
+Sarang Ingole (PhD, Arizona State University, Tempe, Arizona, USA)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Specialization : Semiconductor materials, Micro and Nano-fabrication, Electrical Characterization of Materials
+
+Areas of Interest : Materials for photovoltaic applications and energy storage, Self and directed assembly of nanomaterials, Electrochemical synthesis and deposition of materials
+
+Email: sarang@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~sarang
+
+Office: Western Labs 210B | Phone: +91 512 679 7089
+
+Lab 1: Western Labs 204 | Phone: +91 512 679 7974
+
+Monica Katiyar (PhD, University of Illinois at Urbana-Champaign, USA)
+
+Specialization : Opto-Electronic Materials and Devices
+
+Areas of Interest : Electronic Materials and Devices, Organic Electronics, Thin Film Transistors, Memory Devices, Solid State Lighting, Sensors, Printable Electronics, Spintronic Materials
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: mk@iitk.ac.in
+
+Website: https://home.iitk.ac.in/~mk/
+
+Office: Western Labs 113B | Phone: +91 512 679 7941
+
+Lab 1: Western Labs 105 | Phone: +91 512 679 7935
+
+Lab 2: Western Labs 204E | Phone: +91 512 679 7915
+
+Heena Khanchandani (PhD, Max-Planck-Institute for Iron Research, Dusseldorf, Germany)
+
+Specialization : Physical Metallurgy, Advanced high strength steels
+
+Areas of Interest : Hydrogen embrittlement, Mechanical behavior of materials, Atom probe tomography, correlative microscopy
+
+Email: heenak@iitk.ac.in
+
+Website: https://home.iitk.ac.in/~heenak/
+
+Office: Faculty Building 412-A | Phone: +91 512 679 2610
+
+Lab 1: Mezzanine floor (Workshop 06) | Phone: +91 512 679
+
+Kaustubh Kulkarni (PhD, Purdue University, West Lafayette, USA)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Specialization : Multicomponent Diffusion, Thermodynamics, Physical Metallurgy
+
+Areas of Interest : Diffusional & Thermodynamic Interaction in Multi Component Systems & their Applications for Alloy Design, Light Weight Alloys for Automobile & Aerospace Applications, Joining of Dissimilar Metals
+
+Email: kkaustub@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~kkaustub/
+
+Office: Western Labs-302A | Phone: +91 512 679 6102
+
+Lab 1: Western Labs-209A | Phone: +91 512 679 6060
+
+Tanmoy Maiti
+(PhD, Pennsylvania State University, USA)
+
+Specialization : Electronic Materials & Devices Nanophotonics
+
+Areas of Interest : Clean Energy, Thermoelectrics, Perovskite Solar Cell, Plasmonics, Oxide Electronics, Pyroelectronics, Ferroelectrics, Semiconductors, Memory Devices
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: tmaiti@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~tmaiti/
+
+Office: Western Labs 302B | Phone: +91 512 679 6599 / 6994
+
+Lab 1: Western Labs 204A | Phone: +91 512 679 6802
+
+Arunabh Meshram
+(PhD,  Indian Institute of Technology (BHU), Varanasi, India)
+
+Specialization : Non-Ferrous Extractive Metallurgy
+
+Areas of Interest : Recovery of valuable products, Industrial Waste Management, Electronic waste recycling
+
+Email: arunabhm@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~arunabhm
+
+Office: Faculty Building 409 | Phone: +91 512 679 2268
+
+Lab 1: Materials Recycling Laboratory: Western Labs 101 | Phone: +91 512 679
+
+Shikhar Misra
+(PhD,  Purdue University,  West Lafayette, USA)
+
+Specialization : Functional thin films, epitaxy, ceramic nanocomposites, optical metamaterials
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Areas of Interest : Ceramic Nanocomposite Designs, Processing and Characterizations for Microelectronics, Optics, and Energy applications, Machine learning for Materials Database Mining and Structural Refinin
+
+Email: shikharm@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~shikharm
+
+Office: Faculty Building 411 | Phone: +91 512 679 2257
+
+Lab 1: NA | Phone: +91 512 679
+
+Kallol Mondal
+(PhD, IIT Kharagpur)
+
+Specialization : Physical Metallurgy, Corrosion, Oxidation, Coatings, Recycling, Steels
+
+Areas of Interest : Corrosion, Oxidation, Coatings, Recycling, Physical Metallurgy, Steels
+
+Email: kallol@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~kallol/
+
+Office: Western Labs 113A | Phone: +91 512 679 6156
+
+Lab 1: Western Labs 205 | Phone: +91 512 679 7648
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Rajdip Mukherjee
+(PhD, I.I.Sc. Bangalore)
+
+Specialization : Microstructure Modelling and Simulation
+
+Areas of Interest : Phase-field Modelling, Multiscale Modelling, Phase Transformations
+
+Email: rajdipm@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~rajdipm
+
+Office: Faculty Building 407 | Phone: +91 512 679 6449
+
+Lab 1: Western Labs-312B | Phone: +91 512 679 6903
+
+Shobit Omar
+(PhD, University of Florida)
+
+Specialization : Ionic Conductors, Ceramic Processing, Solid Oxide Fuel Cells, Thermal Barrier Coatings
+
+Areas of Interest : Electroceramics, Oxide and Protonic Ceramic Conductors, Structural Ceramics
+
+Email: somar@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~somar
+
+Office: ACMS 203E | Phone: +91 512 679 7427
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Lab 1: Western Labs 109 | Phone: +91 512 679 6750
+
+Lab 2:  | Phone: +91 512 679 6752
+
+Rahul Sarkar
+(PhD, Metallurgical Engineering, The University of Utah, USA)
+
+Specialization : Process Metallurgy, Iron and Steelmaking, Process Modelling
+
+Areas of Interest : H2-based Sustainable Ironmaking, Mould Fluxes in Continuous Catsing of Steel, Refractory Interactions, Oxygen Steelmaking
+
+Email: rsarkar@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~rsarkar
+
+Office: Faculty Building FB-403 | Phone: +91 512 679 2242
+
+Lab 1: Western Lab 101C | Phone: +91 512 679 7977
+
+Shashank Shekhar
+(PhD, Purdue University, West Lafayette, USA)
+
+Specialization : Severe Plastic Deformation Grain Boundaries, Triple Junctions
+
+Areas of Interest : Thermomechanical Processing, Grain Boundary Engineering, Machining, Surface Engineering
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: shashank@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~shashank
+
+Office: Western Labs-304 A | Phone: +91 512 679 6528
+
+Lab 1: Western Labs-104 D | Phone: +91 512 679 7278
+
+Lab 2: Western Labs-304 B | Phone: +91 512 679 6479
+
+Amarendra Kumar Singh
+(PhD, IIT Kanpur)
+
+Specialization : Process Modelling & Simulations
+
+Areas of Interest : Steel Refining and Casting, Extractive Metallurgy, Integrated Computational Materials Engineering, Solidification Processing, Sustainable Manufacturing
+
+Email: amarendra@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~amarendra
+
+Office: Western Labs-101 | Phone: +91 512 679 6810
+
+Lab 1: Western Labs-101 C | Phone: +91 512 679 6277
+
+Sudhanshu Shekhar Singh
+(PhD, Arizona State University, Tempe, Arizona, USA)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Specialization : 3D/4D Materials Science, Mechanical Metallurgy
+
+Areas of Interest : Nanoindentation, Micro-mechanical testing, Lightweight alloys, Deformation behavior of alloys, Laser processing of materials
+
+Email: sudhanss@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~sudhanss
+
+Office: Western Labs-303 A | Phone: +91 512 679 6908
+
+Lab 1: Western Labs-303 B | Phone: +91 512 679 6480
+
+Shivam Tripathi
+(PhD, Purdue University, West Lafayette, USA)
+
+Specialization : Atomistic Simulations, Thermodynamics, Physical Metallurgy
+
+Areas of Interest : Shape memory alloys, High entropy alloys, Thermal transport, Optical Materials, Catalysis
+
+Email: shivamt@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~shivamt
+
+Office: Faculty Building 416  | Phone: +91 512 679 2426
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Anish Upadhyaya
+(PhD, Penn State, USA)
+
+Specialization : Powder Metallurgy, Sintering of Ferrous & Non-Ferrous Alloys & Composites
+
+Areas of Interest : Materials Processing, Powder Metallurgy, Sintered Particulate Alloys & Composites, Microwave Processing
+
+Email: anishu@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~anishu
+
+Office: Faculty Building 419 | Phone: +91 512 679 7672
+
+Lab 1: Western Labs 208 | Phone: +91 512 679 7342
+
+Vivek Verma
+(PhD, Pennsylvania State University, USA)
+
+Specialization : Biomaterials, Biodegradable Polymers, High temperature polymer Coatings, Functional and aerospace composites, 3D Printing
+
+Areas of Interest : Protein Patterning, Wound Dressing Material , Drug Delivery, biodegradable Plastics, Water Remediation
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: vverma@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~vverma
+
+Office: Faculty Building 418 | Phone: +91 512 679 6527
+
+Lab 1: Western Labs-206 | Phone: +91 512 679 6949
+
+Lab 2: CESE-201 | Phone: +91 512 679 6261
+
+Raghupathy Yuvaraj
+(PhD, IISc Bengaluru, India)
+
+Specialization : Microbially Induced Corrosion, Corrosion Engineering, Nanomaterials and Surface Coatings, Material-Microbe Interactions
+
+Areas of Interest :  Structure-electrochemical property relationships in metastable and nanocrystalline materials, development of materials for extreme corrosive environments, coatings for corrosion control, material-microbe interactions leading to bio-fouling and microbially induced corrosion, and biohydrometallurgy for recycling industrial wastes
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > faculty]
+Email: raghu@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~raghu
+
+Office: WL306B | Phone: +91 512 679 2316
+
+Lab: Nano Surface Modification and Corrosion Laboratory (Old MSE Workshop) | Phone:+91 512 679 6228
+
+=== faculty recruitment ===
+Source: https://www.iitk.ac.in/mse/faculty-recruitment
+Department of Materials Science and Engineering at IIT Kanpur invites application for faculty position (Assistant Professor, Associate Professor and Professor level). While all candidates with exceptional academic records and proven research credentials are encouraged to apply, applicants with degree in Materials / Metallurgical Engineering and those specializing in Process Metallurgy shall be preferred.
+
+Professor Kantesh Balani, HOD
+
+kbalani@iitk.ac.in, head_mse@iitk.ac.in
+
+For Rolling Advertisement click here
+
+More information on different aspects of life at IIT Kanpur, including benefits can be found in the Faculty handbook.
+(clik here)
+
+=== former faculty ===
+Source: https://www.iitk.ac.in/mse/former-faculty
+Faculty & Staff
+
+Sandeep Sangal
+(PhD, University of Manitoba, Canada)
+
+Email: sangals@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~sangals
+
+Dipak Mazumdar
+(PhD, McGill University, Montreal, Canada)
+
+Email: dipak@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~dipak
+
+Shikhar Krishn Jha
+(PhD, University of Manitoba, Canada)
+
+Email: skjha@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~skjha
+
+Soumya Sridar
+(PhD, IIT Madras)
+
+Email: ssridar@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~ssridar
+
+Dr. Rajiv Shekhar  (PhD, University of California, Berkeley, USA)
+
+Email: anandh@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~vidtan
+
+Dr. Deepak Gupta (PhD, University of California, Berkeley, USA)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Email: saboo@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~saboo
+
+Dr. Anandh Subramaniam (PhD, IISc. Bangalore)
+
+Email: anandh@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~anandh
+
+Dr. Gouthama (PhD, IISc. Bangalore)
+
+Email: gouthama@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~gouthama
+
+Late Dr. Kanwar S. Nalwa
+(PhD, Iowa State University, USA)
+
+Website: http://home.iitk.ac.in/~ksnalwa
+
+Dr. Ashish Garg (PhD, University of Cambridge, U.K.)
+
+Moved to Sustainable Energy Engineering
+
+Email: ashishg@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~ashishg
+
+Office:  Western Labs 104 | Phone: +91 512 259 7904
+
+Lab 1: Western Labs 105,106,108 | Phone: +91 512 259 7263
+
+Late Dr. Ramamurthy Balasubramaniam
+
+Obituary
+
+Website: https://home.iitk.ac.in/~bala/
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Dr. Virendra Bansal
+
+E-mail:  vbansal@iitk.ac.in
+
+Website: https://home.iitk.ac.in/~vbansal/
+
+Dr. Bikramjit Basu
+
+Current Afilliation: Professor, Indian Institute of Science, Bangalore
+
+E-mail:  bikram@mrc.iisc.ernet.in
+
+Website: http://mrc.iisc.ernet.in/Faculty
+
+Late Dr. N. K. Batra
+
+Late Dr. Sanjeev Bhargava
+
+Dr. Nirupam Chakraborti
+
+Current Afilliation: Professor, Metallurgical & Materials Engineering, IIT Kharagpur
+
+E-mail: nchakrab@gmail.com
+
+Website: https://scholar.google.co.in/citations
+
+Dr. S. Subhash Chandra
+
+Dr. Amio Ranjan Das
+
+Dr. Brahma Deo
+
+Current Afilliation: Visiting faculties, IIT Bhubaneswar
+
+E-mail: bdeo@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~bdeo/
+
+Dr. R. K. Dube
+
+E-mail: rkd@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Website: https://www.researchgate.net/profile/Rk-Dube
+
+Dr. Ahindra Ghosh
+
+Dr. Arun M. Gokhale
+
+E-mail:  arun.gokhale@mse.gatech.edu
+
+Website: http://www.mse.gatech.edu/people/arun-gokhale
+
+Late Dr. Kinkar Prosad Gupta
+
+Dr. Shant P. Gupta
+
+Dr. A. K. Jena
+
+Dr. Prakash Chand Kapur
+
+Late Dr. Satish Chandra Koria
+
+Dr. S. P. Mehrotra
+
+Current Afilliation: Currently Visiting Professor at Materials Science and Engineering, IIT Gandhinagar
+
+E-mail: spmehrotra@gmail.com, spm@iitk.ac.in, spm@iitgn.ac.in
+
+Website: https://iitgn.ac.in/faculty/mse/fac-mehrotra
+
+Dr. B. K. Mishra
+
+Current Afilliation: Director, Indian Institute of Technology Goa, (formerly Director CSIR-IMMT Bhubaneswar)
+
+E-mail:  iitgoa.ac.in
+
+Website: https://scholar.google.co.in/citations
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Dr. Indranil Manna
+
+Current Afilliation: Professor, Metallurgical & Materials Engineering Department,
+Indian Institute of Technology (IIT) Kharagpur
+
+E-mail:  iitkgp.ernet.in; imanna@iitk.ac.in
+
+Website: http://www.imanna.in/page.php?id=614
+
+Late Dr. M. N. Mungole
+
+Late Dr. G. S. Murty
+
+Late Dr. V. S. R. Murthy
+
+Late Dr. Raj Narayan
+
+Dr. Rajesh Prasad
+
+Current Afilliation: Professor, Department of Applied Mechanics, Indian Institute of Technology Delhi
+
+E-mail:  rajesh @am.iitd.ac.in
+
+Website: https://web.iitd.ac.in/~rajesh/
+
+Dr. K. N. Rai
+
+E-mail:  knrai43@gmail.com
+
+Website: https://www.linkedin.com/in/kn-rai-90479014/
+
+Dr. T. R. Ramachandran
+
+Current Afilliation: Visiting Professor, Nonferrous Materials Technology Development Centre, Hyderabad
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+E-mail:  trramachandran@yahoo.com
+
+Resume: CV
+
+Late Dr. R. K. Ray
+
+Homage to Prof. Ray
+
+Website: https://oldwww.iiests.ac.in/index.php/about-ranjit-kumar-ray
+
+Dr. Romesh C. Sharma
+
+Dr. M. N. Shetty
+
+Late Dr. K. P. Singh
+
+Dr. E. C. Subbarao
+
+Current Afilliation: Presently at Tata Research Development & Design Centre (TRDCC) Tata Consultancy Services, Pune
+
+E-mail:  ecsubbarao@gmail.com
+
+Dr. R. Tandon
+
+Dr. Asim Tewari
+
+Current Afilliation: Chair Professor, Department of Mechanical Engineering,
+Indian Institute of Technology Bombay
+
+E-mail:  mail@asimtewari.com
+
+Website: http://www.asimtewari.com/index.htm
+
+Late Dr. G. S. Upadhyaya
+
+Website: https://home.iitk.ac.in/~gsu/index.html
+
+Late Dr. Madhusudan Laxman Vaidya
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Former Visiting Faculty
+
+Dr. Pulickel M Ajayan
+
+(Professor of Materials Science and Nano Engineering, Rice University)
+
+Webpage  |
+Google Scholar  |
+Wikipedia
+
+Dr. Satyabrata Das
+
+Current Afilliation: NA
+
+E-mail:  satyad@iitk.ac.in, sdas88@hotmail.com, satyabratadas873@gmail.com
+
+Website: https://sites.google.com/view/sdas-iitk
+
+Dr. Prashant Sonar
+
+Current Afilliation: Associate Professor, Faculty of Science,
+School of Chemistry & Physics
+
+E-mail:  sonar.prashant@qut.edu.au
+
+Website: https://sites.google.com/site/prashantsonargroup/home
+
+Dr. Alberto N. Conejo
+
+Current Afilliation: University of Science and Technology Beijing
+
+E-mail:  aconejonava@hotmail.com
+
+Website: http://www.femri.org/team-detail-indiv-10.aspx
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > former faculty]
+Dr. Seshadri Seetharaman
+
+Current Afilliation: Royal Institute of Technology, Stockholm, Sweden
+
+E-mail:  raman@kth.se
+
+Website: http://www.femri.org/team-detail-indiv-2.aspx
+
+Dr. Bankey Behari Agrawal
+
+Current Afilliation:  Freelance  Education and Career Consultant
+
+Former Visiting Faculty:  MME at IIT Patna
+
+E-mail:  bba1958@gmail.com
+
+Website:             https://www.linkedin.com/in/dr-bankey-behari-agrawal-55977782
+
+=== head ===
+Source: https://www.iitk.ac.in/mse/head
+Head
+
+Message from Head of the Department
+
+Materials Science and Engineering (MSE) Department at IIT Kanpur is home to world-renown faculty
+and caters to 300+ B.Tech., 50+ M.Tech., and 125+ Ph.D. scholars. Research-groups in the MSE
+department have made global impact in the domains from conventional metallurgy and iron- and
+steel-making to semiconducting/electronic materials, biomaterials, advanced material processing,
+coatings/corrosion protection, automotive/aerospace, batteries, packaging/sensors, defense
+applications, etc. Correlation among material selection, synthesis and processing, characterization,
+and performance has been made possible via in-house capability of high-end research equipment,
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > head]
+accelerated material design and testing, high-throughput experiments, in-situ evaluation,
+computational-modeling, material-data software/ visualization, etc.
+MSE Department welcomes students/faculty/staff who wish to challenge themselves and explore
+multidisciplinary science and engineering paradigm of metallurgy and materials. Industries/firms are
+invited to share bottlenecks and share those technical problems via research
+projects/consultancy/CSR, and we will be happy to work-together and provide probable solutions.
+MSE alumni are requested to stay connected, provide feedback/give advice on critical issues, and
+contribute positively to the growth of the department. Let us contribute to nation building, and
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > head]
+march towards creating a new world...together.
+
+Prof. Kantesh Balani
+
+FB 415
+
+Department of Materials Science and Engineering
+
+IIT Kanpur, Kanpur-208016
+
+Phone: +91-512-259 7445, 6194
+
+Email: head_mse@iitk.ac.in
+
+=== mtech students ===
+Source: https://www.iitk.ac.in/mse/mtech-students
+Students & Research Scholars
+
+Aditya Dass (241060001)
+
+Email: adityad24@iitk.ac.in
+
+Supervisor: R Sarkar
+
+Alekhya Kumari Kyama (241060003)
+
+Email: alekhyak24@iitk.ac.in
+
+Supervisor: S S Singh
+
+Chinmay Suresh Sanap (241060005)
+
+Email: chinmays24@iitk.ac.in
+
+Supervisor: K Kulkarni
+
+Jishnu Chakraborty (241060008)
+
+Email: jishnuc24@iitk.ac.in
+
+Supervisor: T Maiti
+
+Kajori Sardar (241060011)
+
+Email: kajoris24@iitk.ac.in
+
+Supervisor: K Biswas
+
+Niranjan Kumar Singh (241060015)
+
+Email: niranjanu24@iitk.ac.in
+
+Supervisor: NA
+
+Pranav Anunay (241060019)
+
+Email: pranav24@iitk.ac.in
+
+Supervisor: R Mukherjee
+
+Shivam Shantanu (241060022)
+
+Email: sshantanu24@iitk.ac.in
+
+Supervisor: A Meshram
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Shivansh Gupta (241060023)
+
+Email: shivanshg24@iitk.ac.in
+
+Supervisor: S S Singh
+
+Sowmya Sri Tamma (241060025)
+
+Email: sowmyast24@iitk.ac.in
+
+Supervisor: S Sangal
+
+Sudipta Pahari (241060027)
+
+Email: sudiptap24@iitk.ac.in
+
+Supervisor: K Balani
+
+Sumit Kumar (241060029)
+
+Email: ksumit24@iitk.ac.in
+
+Supervisor:NA
+
+Vardhman Dwivedi (241060033)
+
+Email: vardhmand24@iitk.ac.in
+
+Supervisor: S Bhowmick
+
+Waqar Malik (241060034)
+
+Email: waqarm24@iitk.ac.in
+
+Supervisor: Nilesh U Badwe
+
+Abhay Singh (251060001)
+
+Email: abhays25@iitk.ac.in
+
+Supervisor: NA
+
+Aditya Kumar Kushwaha (251060002)
+
+Email: adityakk25@iitk.ac.in
+
+Supervisor: NA
+
+Akash Sau (251060003)
+
+Email: akashs25@iitk.ac.in
+
+Supervisor: NA
+
+Aniket Mishra (251060004)
+
+Email: aniketmishra25@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Supervisor: S Misra
+
+Aniket Misra (251060005)
+
+Email: aniketm25@iitk.ac.in
+
+Supervisor: A Gaur
+
+Ashwin Rameshwar Balpande (251060006)
+
+Email: ashwin25@iitk.ac.in
+
+Supervisor: N P Gurao
+
+Athira M Nair (251060007)
+
+Email: athiramn25@iitk.ac.in
+
+Supervisor: M Katiyar
+
+Bhavi Chaturvedi (251060009)
+
+Email: bhavic25@iitk.ac.in
+
+Supervisor: T Maiti
+
+Bovaz Livingstone Baby (251060010)
+
+Email: bovazlb25@iitk.ac.in
+
+Supervisor: NA
+
+Chetan Balaso Lavhe (251060011)
+
+Email: blchetan25@iitk.ac.in
+
+Supervisor: NA
+
+Deep Biswas (251060012)
+
+Email: deepb25@iitk.ac.in
+
+Supervisor: S Ingole
+
+Koppada Lohitaksha (251060013)
+
+Email: klohitaksha25@iitk.ac.in
+
+Supervisor: H Khanchandani
+
+Krishanu Gayen (251060014)
+
+Email: krishanug25@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Supervisor: K Mondal
+
+Manikkam V (251060015)
+
+Email: manikkamv25@iitk.ac.in
+
+Supervisor: N P Gurao
+
+Mohit Devendra Chandore (251060016)
+
+Email: mohitdc25@iitk.ac.in
+
+Supervisor: S Shekhar
+
+Muhammed Razi A (251060017)
+
+Email: mrazi25@iitk.ac.in
+
+Supervisor: M Katiyar
+
+Nishant Jaiswal (251060018)
+
+Email: nishantj25@iitk.ac.in
+
+Supervisor: N M Chawake
+
+Palash Jana (251060019)
+
+Email: palashjana25@iitk.ac.in
+
+Supervisor: NA
+
+Praveenkumar S (251060020)
+
+Email: praveenkumar25@iitk.ac.in
+
+Supervisor: NA
+
+Prem Prakash Mohanty (251060021)
+
+Email: ppmohanty25@iitk.ac.in
+
+Supervisor: R Sarkar
+
+Prerna Sharma (251060022)
+
+Email: prernas25@iitk.ac.in
+
+Supervisor: S Gangolu
+
+Pritam Ghosh (251060023)
+
+Email: pritamg25@iitk.ac.in
+
+Supervisor: S Omar
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Punyatoa Bera (251060024)
+
+Email: punyatoab25@iitk.ac.in
+
+Supervisor: A Meshram
+
+Raj Kamal Yadav (251060025)
+
+Email: rajkyadav25@iitk.ac.in
+
+Supervisor: R Sarkar
+
+Ravikumar Babu Vechalapu (251060026)
+
+Email: ravikumarbv25@iitk.ac.in
+
+Supervisor: A Meshram
+
+Rishikesh Chandrakar (251060027)
+
+Email: rishikeshc25@iitk.ac.in
+
+Supervisor: S S Singh
+
+Sandeep Nishad (251060028)
+
+Email: nsandeep25@iitk.ac.in
+
+Supervisor: N Badwe
+
+Saurabh Agrawal (251060029)
+
+Email: saurabha25@iitk.ac.in
+
+Supervisor: NA
+
+Saurabh Kumar (251060030)
+
+Email: saurabhk25@iitk.ac.in
+
+Supervisor: NA
+
+Shahid Nabi (251060031)
+
+Email: shahidnabi25@iitk.ac.in
+
+Supervisor: A Upadhyaya
+
+Shubham Kumar (251060032)
+
+Email: shubhamkum25@iitk.ac.in
+
+Supervisor: N M Chawake
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Shyam Rameshbhai Chauhan (251060033)
+
+Email: srchauhan25@iitk.ac.in
+
+Supervisor: NA
+
+Siddharth Ashok Bhagwani (251060034)
+
+Email: siddharthab25@iitk.ac.in
+
+Supervisor: R Yuvraj
+
+Soumya Banerjee (251060035)
+
+Email: soumyab25@iitk.ac.in
+
+Supervisor: NA
+
+Souradeep Bakshi (251060036)
+
+Email: souradeep25@iitk.ac.in
+
+Supervisor: NA
+
+Vikas Mani Pandey (251060040)
+
+Email: vmpandey25@iitk.ac.in
+
+Supervisor: NA
+
+Ajay Anand (261060001)
+
+Email: ajayanand26@iitk.ac.in
+
+Supervisor:
+
+Amritjeet Jaiswara (261060002)
+
+Email: amritjeetj26@iitk.ac.in
+
+Supervisor:
+
+Ananya Priyadarshini (261060003)
+
+Email: ananyap26@iitk.ac.in
+
+Supervisor:
+
+Ankan Dhara (261060004)
+
+Email: ankand26@iitk.ac.in
+
+Supervisor:
+
+Apurba Kashyap (261060005)
+
+Email: apurbak26@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Supervisor:
+
+Ashutosh Nilkanth Shivarkar (261060006)
+
+Email: ashutoshs26@iitk.ac.in
+
+Supervisor:
+
+Dev Kumar Nandi (261060007)
+
+Email: devk26@iitk.ac.in
+
+Supervisor:
+
+Dhanusha Vaddepally (261060008)
+
+Email: dhanushav26@iitk.ac.in
+
+Supervisor:
+
+Garima Kushwaha (261060009)
+
+Email: garimak26@iitk.ac.in
+
+Supervisor:
+
+Hasitha S (261060010)
+
+Email: hasithas26@iitk.ac.in
+
+Supervisor:
+
+Jyothsna V R R Nadipalli (261060011)
+
+Email: jyothsna26@iitk.ac.in
+
+Supervisor:
+
+Krishnadev Pandey (261060012)
+
+Email: krishnadevp26@iitk.ac.in
+
+Supervisor:
+
+Kumar Gunjan (261060013)
+
+Email: kumargunjan26@iitk.ac.in
+
+Supervisor:
+
+Meghana Munuru (261060014)
+
+Email: meghanam26@iitk.ac.in
+
+Supervisor:
+
+Nikhil Mishra (261060016)
+
+Email: mnikhil26@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Supervisor:
+
+Nagumalla Rushyanth Kumar (261060015)
+
+Email: nrushyanthk26@iitk.ac.in
+
+Supervisor:
+
+Parvathi P (261060017)
+
+Email: parvathip26@iitk.ac.in
+
+Supervisor:
+
+Piyush Sarda (261060018)
+
+Email: piyushsarda26@iitk.ac.in
+
+Supervisor:
+
+Pragna Peduru (261060019)
+
+Email: pragnap26@iitk.ac.in
+
+Supervisor:
+
+Sahil Bhaurao Shirture (261060020)
+
+Email: sahilb26@iitk.ac.in
+
+Supervisor:
+
+Saurabh Tripathi (261060021)
+
+Email: saurabht26@iitk.ac.in
+
+Supervisor:
+
+Saurav Kumar (261060022)
+
+Email: sauravkumar26@iitk.ac.in
+
+Supervisor:
+
+Sidharth Raj (261060023)
+
+Email: sidharthr26@iitk.ac.in
+
+Supervisor:
+
+Souvik Pramanik (261060024)
+
+Email: souvikp26@iitk.ac.in
+
+Supervisor:
+
+Tisha Kalia (261060025)
+
+Email: tishakalia26@iitk.ac.in
+
+Supervisor:
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > mtech students]
+Utkarsh Pant (261060026)
+
+Email: utkarshp26@iitk.ac.in
+
+Supervisor:
+
+Vinayak Pandey (261060027)
+
+Email: vinayakp26@iitk.ac.in
+
+Supervisor:
+
+BT-MT Student
+
+Kamal Raj Rawat (218180484)
+
+Email: kamakrr21@iitk.ac.in
+
+Supervisor: H Khanchandani
+
+R Srinivasan (228070842)
+
+Email: NA
+
+Supervisor: K Balani
+
+=== phd students ===
+Source: https://www.iitk.ac.in/mse/phd-students
+Students & Research Scholars
+
+=== rsd 2020 abstract ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/abstract.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+Abstract
+
+You are here:
+
+Abstract
+
+The Last date for Abstract Submission is Over
+
+In case of any problem please feel free to contact Team RSD
+
+MSE | RSD 2020
+
+=== rsd 2020 contact ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/contact.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+You are here:
+
+Professor In-Charge
+
+Dr. Shikhar Krishn Jha
+
+7394948321
+
+skjha@iitk.ac.in
+
+Team RSD
+
+Subha Sanket Panda
+
+9260908033
+
+subha@iitk.ac.in
+
+Prince Setia
+
+9417616236
+
+psetia@iitk.ac.in
+
+Gaganjot Singh
+
+9814692280
+
+gaganjot@iitk.ac.in
+
+Roopam Jain
+
+7415832758
+
+roopamj@iitk.ac.in
+
+Rubia Hassan
+
+rubia@iitk.ac.in
+
+Sony Priyadershini
+
+sonyp@iitk.ac.in
+
+Anant Srivastava
+
+anantsr@iitk.ac.in
+
+Prathamesh Babrekar
+
+bprath@iitk.ac.in
+
+Deepak Kumar Singh
+
+kdeepaks@iitk.ac.in
+
+Flamina Amaladasse
+
+flaminaa@iitk.ac.in
+
+Guddu Kumar
+
+gkumar@iitk.ac.in
+
+Aniket Dwivedi
+
+aniket@iitk.ac.in
+
+Govind
+
+govindb@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 contact]
+MSE | RSD 2020
+
+=== rsd 2020 guidelines ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/guidelines.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+Guidelines
+
+You are here:
+
+Guidelines
+
+Oral  Presentation
+
+The  total time allotted to each speaker is 20 mins. You should plan to speak for 15  mins and leave 5 mins for questions
+
+Slides  must be clear and must convey information
+
+Slides  must not be crowded/ clustered and must not contain low resolution images
+
+References  may be put at the end or in slide itself as per requirement
+
+Please  try to avoid using too much animations
+
+Poster  Presentation
+
+Poster  Can be designed using Microsoft Power Point or Photoshop
+
+Poster  Board Size: ( Width: 3 ft, Height: 3.6 ft- Portrait Orientation)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 guidelines]
+Authors  are requested to use good quality paper and printing of their choice
+
+Poster  should contain , "Title, details of authors and  their affiliation, introduction,  experimental, results and discussions, conclusions and references wherever  applicable"
+
+Please  ensure that the front size of the text in poster is readable. Contents should  be readable from at least 3 ft distance
+
+Color  schemes can be used as desired and should aid readability of contents
+
+Use  figures (TIF/JPEG) with clarity
+
+Multiple  columns can be used if required
+
+Leave ample border around  the poster for ease of sticking on the display board
+
+2' Minutes Talk on Thesis
+
+One slide only
+
+Please adhere to the rule
+
+Metallography  Contest
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 guidelines]
+Micrographs  may be in color or black and white which shall be pasted on a base white sheet  of A4/A3 size only
+
+On  the front side the entry should contain an attractive caption, brief  description of the micrograph (Max. 30 words)
+
+Roll no. names and  affiliation details should be on the back side of the entry
+
+Micrographs  submitted for the contest shall be of good quality with micron marker and based  on the original work of the contestants
+
+Color  schemes can be used as desired but editing is strictly prohibited.
+
+Organizers reserve the write to reject any inappropriate and
+incomplete entry
+
+An individual can submit max. 4 micrographs
+
+No copyright infringement
+
+Posters and Metallographs should be submitted by 25th February 2020
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 guidelines]
+Prizes for the winners in poster presentation and metallography contest
+
+Participation certificates for all participants
+
+MSE | RSD 2020
+
+=== rsd 2020 schedule ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/schedule.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+Schedule
+
+You are here:
+
+Schedule
+
+Program at a Glance
+
+9:15 am – 9:30 am
+Inauguration
+
+9:30 am – 10:10 am
+Keynote Lecture by Prof. Sandeep Verma
+
+Tea break
+
+Session 1: Session chairperson - Dr. N. P.    Gurao
+
+10:30 am – 10:50 am
+Effect of varying molar volume on    interdiffusion analysis
+
+Aparna Tripathi*, Dr. Kaustubh Kulkarni
+
+10:50 am – 11:10 am
+Effect of machining on subsurface    deformation and eventually on surface roughness and tribological behavior of    Stainless Steel 316L
+
+Sandeep Sahu*, Sanjeev Kumar Patel, Dr. J. Ramkumar, Dr. Shashank Shekhar
+
+11:10 am – 11:30 am
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 schedule]
+An in situ investigation on the effect of    notch acuity on micro-mechanisms of deformation in Ti6Al4V
+
+Vivek Kumar Sahu*, Dr. N. P. Gurao
+
+11:30 am – 11:50 am
+Deformation mechanism investigation during    severe plastic deformation process
+
+Prabhat Chand Yadav*, Dr. Srinivasan Chandrasekar and Dr. Shashank Shekhar
+
+11:50 am – 12:10 pm
+An automated methodology for assessing the    microstructural attributes of liquid phase sintered microstructures
+
+Mirtunjay Kumar*, Dr. A. Upadhyaya, Dr. N. P. Gurao
+
+12:10 pm – 12:30 pm
+Computational and Microstructural Stability Analysis of Shock Wave    Interaction with NbB2-B4C-Based Nanostructured Ceramics.
+
+Tarak    N. Maity*, Nagarajan K. Gopinath, S. Janardhanraj, Dr. Krishanu Biswas, and    Dr. Bikramjit Basu
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 schedule]
+12:30 pm – 1:00 pm
+Staff videos
+
+Lunch break
+
+Session 2: Session chairperson - Dr. Anshu    Gaur
+
+2:10 pm – 2:30 pm
+Influence of sulfur partial pressure on    Cu2ZnSnS4 thin films characteristics
+
+Neha Kumari*, Dr. Sarang Ingole
+
+2:30 pm – 2:50 pm
+Investigation of single layer Al2O3 thin    film deposited by atomic layer deposition for encapsulation of flexible    organic light emitting diode
+
+Sadiq Mahmood*, Dr. Monica Katiyar, Dr. H.C. Lin
+
+2:50 pm – 3:10 pm
+Effect of strip entry temperature on the    development of interfacial layer and its correlation with corrosion    properties of galvanized steel
+
+K Harikrishna*,  Dr. K. Mondal, Dr. S. S. Singh
+
+3:10 pm – 3:30 pm
+Effect of different microstructures on the    atmospheric corrosion behavior of mild steel
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2020 schedule]
+K Vishwanath*, Dr. S. S. Singh and Dr. K. Mondal
+
+3:30 pm – 4:00 pm
+2 min talk
+
+4:00 pm – 5:00 pm
+Poster Session + Metallography
+
+5:00 pm – 6:00 pm
+Quiz and Prize Distribution
+
+* Name of the presenter
+
+MSE | RSD 2020
+
+=== rsd 2020 speakers ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/speakers.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+About Keynote Speaker
+
+You are here:
+
+Speakers
+
+Prof. Sandeep Verma
+
+Secretary, SERB, GOI
+Professor, Department of Chemistry
+IIT Kanpur
+
+Research Interest: SPeptide constructs as disease models,
+Nucleobase assemblies and polymers for catalysis,
+Biomineralization
+
+click here for more details
+
+MSE | RSD 2020
+
+=== rsd 2020 winners ===
+Source: https://www.iitk.ac.in/mse/rsd-2020/winners.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Winners
+
+Abstract
+
+Winners of RSD 2020
+
+You are here:
+
+Winners
+
+Poster Presentation
+
+1st Prize
+Kondababu Kodali
+
+2nd Prize
+| Subha Sanket Panda
+
+3rd Prize
+| Anshuman Sinha
+
+2 min's talk
+
+1st Prize
+Roopam Jain
+
+Metallography Contest
+
+1st Prize
+R Sarvesha & Nivedita Vij
+
+2nd Prize
+| Jitendra Soni
+
+3rd Prize
+| D. Banik
+
+MSE | RSD 2020
+
+=== rsd 2022 abstract ===
+Source: https://www.iitk.ac.in/mse/rsd-2022/abstract.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Abstract
+
+Registration
+
+Abstract
+
+You are here:
+
+Abstract
+
+click here for Abstract Submission
+
+To fill this form you need to login with your gmail account
+
+Submission of an abstract constitutes a formal agreement and statement by the authors that they have conducted the reported research in accordance with the relevant institutional and national guidelines and regulations regarding experiments on human subjects, live vertebrates or higher invertebrates. Abstracts reporting any experimental work that was not conducted in accordance with these guidelines will be rejected by the Organising Committee.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 abstract]
+Abstracts will be reviewed by a panel with the final decision being made by the organizing committee. Evaluation of the abstract is done on the standard of the content presented.
+
+The Last date for Abstract Submission is May 06, 2022
+
+Winners: TO BE ANNOUNCED AFTER THE EVENT!
+
+MSE | RSD 2022
+
+=== rsd 2022 contact ===
+Source: https://www.iitk.ac.in/mse/rsd-2022/contact.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Abstract
+
+Registration
+
+You are here:
+
+Professor In-Charge
+
+Dr. Shikhar Krishn Jha
+
+skjha@iitk.ac.in
+
+Team RSD
+
+Gaurav Gupta
+
+grvgupta@iitk.ac.in
+
+Nikhil Chaurasia
+
+nikc@iitk.ac.in
+
+Saumya Ranjan Jha
+
+saumya@iitk.ac.in
+
+Saurabh Srivastava
+
+msaurabh@iitk.ac.in
+
+Raghunayakula Thirupati
+
+rthiru@iitk.ac.in
+
+Shruti Srivastava
+
+shrutis20@iitk.ac.in
+
+Sony Priyadershini
+
+sonyp@iitk.ac.in
+
+Rishow Kumar
+
+rishow@iitk.ac.in
+
+Jatin Jain
+
+jjainindia20@iitk.ac.in
+
+Shubham P. Jaiswal
+
+shubhampj21@iitk.ac.in
+
+Abhishek Kumar
+
+abhikr20@iitk.ac.in
+
+Pranjal Chauhan
+
+cpranjal@iitk.ac.in
+
+GVSS Manoj Kumar
+
+mkumarg21@iitk.ac.in
+
+Vandana Kumari
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 contact]
+vandana20@iitk.ac.in
+
+MSE | RSD 2022
+
+=== rsd 2022 guidelines ===
+Source: https://www.iitk.ac.in/mse/rsd-2022/guidelines.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Abstract
+
+Registration
+
+Guidelines
+
+You are here:
+
+Guidelines
+
+Oral Presentation
+
+Upskill your oratory skills and  overcome your stage fright! MSE-RSD22 provides you a platform to present your work among departmental colleagues for  constructive feedback. Join us to  cheer your peers for oral presentation!
+
+Please ensure  to present your original research work done by you.
+
+Submit a short and concise abstract to convey your findings.
+
+Total time allotted  to each speaker will be 15 minutes. Plan to speak for Maximum 12 minutes  and leave 3 minutes for Q&A.
+
+Prepare your slides to be as  precise as possible  to stay within the time  limit.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+Your presentation should provide the  glimpse of the work being carried out in your research group.
+
+Use high resolution images  to show the plots/graphs/flowcharts and avoid clustering all the data in one slide.
+
+Kindly  give proper citations (Author, Journal, Volume,  Issue, Year) at the end of each slide.
+
+Avoid using  too many animations in the slides. Use light-colored  backgrounds for better visibility of your content and  maintain good contrast.
+
+Due acknowledgement  must be given to the co-authors/collaborators and funding agencies.
+
+In case of any query, you  can contact Saurabh (email : msaurabh@iitk.ac.in)
+
+Metallography
+
+Time to showcase  a picture-perfect micrograph of metallographic samples!  Capture the beauty of metallurgy & materials science from your scholarly lenses!
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+RULES FOR METALLOGRAPHY CONTEST
+
+Micrographs shall be of  good quality with proper micron bar (micrograph can be color or black and white)
+
+Assign captions to  micrographs.
+
+Paste the micrographs on A4 size white sheet and write the name  & roll no. of the participant on the backside.
+
+Participants should bring the final display  copies as per following preparation guidelines.
+
+An individual can submit Max. 2 micrographs
+
+Organizers reserve the right to reject  'incomplete and inappropriate entries'  In case of any query,  you can contact Sony (email : sonyp@iitk.ac.in)
+
+Elucidate (only for B.Tech., BT-MT & M.Tech. Students )
+
+An extempore competition to explain basic  physical and mechanical metallurgy concepts in your  way!
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+RULES FOR ELUCIDATE
+
+A individual/team consisting of the 3 people(max) can participate.
+
+Each team shall be given 2-3 minutes to speak on a topic picked  up by team caption by draw of lots.
+
+2 min  of preparation time will be given to each team after the  draw of the lots.
+
+Based on the knowledge of the picked topic, a team may  send an individual or a group  of people to extempore.
+
+No  objection shall be entertained as the Decision of the Jury  members shall be final.
+
+In case of any queries,  feel free to reach out to Nikhil (email: nikc@iitk.ac.in)
+
+Debate
+
+Up for a nerdy squabble? RSD22  brings to you just  the right event: Debate!
+
+RULES FOR DEBATE
+
+3 minutes will be given to present your view for/against the  topic.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+After  3 min presentation of all the participants, 1 min will be given  to all the participants to cut  the points of opponents
+
+The  decision of the judging committee  will be final.
+
+The  event will be conducted in  offline mode.
+
+Topics: Material Science related  & General topic.
+
+MSE related: New materials v/s legacy materials  (Should we focus our  research on discovering new materials or improving the properties of the  existing materials) General  Topic: India's stand on  Russia-Ukraine crisis
+
+In case of any queries,  feel free to reach out to Shruti (email: shrutis20@iitk.ac.in)
+
+Poster Presentation
+
+This event provides a place for research scholars to share the knowledge among  the peers of MSE department through poster  presentation.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+RULES FOR POSTER
+
+The person who registered for poster  presentation has to submit the abstract of their presentation by 06-05-2022 (send a mail to rthiru@iitk.ac.in).
+
+The person should  be get ready with their poster by 06-05-2022 (send a soft copy( in PDF)  of poster to  rthiru@iitk.ac.in)
+
+The maximum time for the poster presentation can be 8 minutes +2  minutes for Q&A. In case of any queries, please  reach out to Thirupati-8096696313 or rthiru@iitk.ac.in
+
+TMT - Two -Minute Thesis
+
+Two Minute Thesis presentation is one  of the events of RSD22 in which students from  Ph.D, ,M.tech, BT-MT and final year B.Tech are supposed to give a  two-minute brief talk to explain their thesis work and its  effectiveness in today's scenario.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+RULES FOR TMT
+
+The  time allotted will be not more  than two minutes
+
+If required, participant can have maximum of one slide.
+
+In case of any query, you can contact  Vandana (email: vandana20@iitk.ac.in)
+
+Memellurgy
+
+For the folks who like sarcasm, satire &  science, here’s a chance to show your meme-mettle! RULES FOR MEMELLURGY CONTEST
+
+The  meme should not be vulgar in any sense.
+
+All  the memes will be  uploaded on the Facebook - MSE Page.
+
+The  winner will be chosen on the basis of maximum likes.
+
+Participants can upload the meme through  the form.
+
+The  meme should be related to the MSE Engineering Branch and/or Department.
+
+In case of any query,  you can contact Shubham (email: shubhampj21@iitk.ac.in)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+Meta-buzz
+
+An exciting rapid-fire buzzer quiz for the  quick-witted meta-maniacs & meta-wizards!  RULES FOR METABUZZ:  On spot registrations!
+
+There can be multiple teams of upto 4  maximum (even single players can play). A virtual buzzer app will be installed in each partipant’s cellphone.
+
+State terminologies ending with the  last alphabet of previous team’s word (Similar to popular Indian game ‘Antaakshari’).
+
+The team which presses a buzzer first  will be given chance to answer. Maximum 10  seconds given after buzzer to answer. Repetition is not allowed.
+
+If failed to answer in own chance,  points will be deducted. At the end of round, if the team fails to explain  one sentence about the term, partial points  will be awarded.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 guidelines]
+Team  with the maximum points at  the end of the round will be declared the winner.
+
+All  terminologies should be related to the  Metallurgy or Materials Engineering.
+
+In case of any query, you can contact Saumya (email: saumya@iitk.ac.in)
+
+Note: Apart  from the exciting prizes & winners’ certificates in each event,  participation certificates will also be provided to all participants.
+
+MSE | RSD 2022
+
+=== rsd 2022 schedule ===
+Source: https://www.iitk.ac.in/mse/rsd-2022/schedule.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Abstract
+
+Registration
+
+Schedule
+
+You are here:
+
+Schedule
+
+Program at a Glance (Download Schedule PDF)
+
+Time
+
+Event
+
+Venue
+
+9:00 to 9:10
+
+Inauguration    talk
+
+L16
+
+9:10 to 9:40
+
+Guest    lecture (Prof. Dipak Mazumdar)
+
+"Career-competition and Concerns: A    Personal Perspective"
+
+L16
+
+9:40 to 10:00
+
+Tea    Break
+
+Outside    L16
+
+Session 1
+
+10:00    to 10:15
+
+Krashnavtar
+
+“Modelling    of Inductively Stirred Melts in Steelmaking”
+
+L16
+
+10:15    to 10:30
+
+Anurag    Bajpai
+
+“Data driven    approach to design Multicomponent Metallic Glasses”
+
+L16
+
+10:30    to 10:45
+
+Sandip    Guin
+
+“A diffuse    interface approach to study precipitate migration under temperature gradient”
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 schedule]
+L16
+
+10:45    to 11:00
+
+Ashwani    Kumar
+
+“Synthesis and    characterization of lanthana (La2O3) based oxide dispersion strengthened    (ODS) steels”
+
+L16
+
+11:00    to 11:15
+
+Discussion
+
+L16
+
+11:15    to 11:55
+
+Two Minute Thesis
+
+L16
+
+Session 2
+
+11:55    to 12:10
+
+Nikhil    Chaurasia
+
+“A Novel Training    Methodology for Phase Segmentation of Steel Microstructures Using a Deep    Learning Algorithm”
+
+L16
+
+12:10    to 12:25
+
+Roopam Jain
+
+“Long range stresses and strain hardening behaviour of additively manufactured SS316L alloy”
+
+L16
+
+12:25    to 12:40
+
+Rishikesh
+
+“A glimpse into    hydrostatics, dynamics and statistics in a gas stirred liquids”
+
+L16
+
+12:40    to 12:55
+
+R.    Thirupathi
+
+“Strategic    Co-doping Approach using Sc and Ce towards Enhanced Conductivity in NASICON    type Na3Zr2Si2PO12”
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 schedule]
+L16
+
+12:55    to 13:10
+
+Discussion
+
+L16
+
+13:10 to    14:00
+
+Lunch Break
+
+Session 3
+
+14:00 to    14:15
+
+Susanta
+
+“Experimental    Determination Formation Enthalpy of Vacancy in High Entropy Alloys”
+
+L16
+
+14:15 to    14:30
+
+Kaushal    Shakya
+
+“Bio-polymer    based hemostatic dressing”
+
+L16
+
+14:30 to    14:45
+
+Deepak    Paliwal
+
+“Microstructure-Texture-Mechanical    property evolution of grooved rolled and short term annealed pure OFHC    copper”
+
+L16
+
+14:45 to    15:00
+
+K.    Vishwanath
+
+“Rapid assessment    of corrosion susceptibility of mild steel in simulated splash zone condition”
+
+L16
+
+15:00 to    15:15
+
+Discussion
+
+L16
+
+15:15 to    15:45
+
+Meta Buzz
+
+L16
+
+15:45 to    16:00
+
+Tea    Break
+
+Outside    L16
+
+16:00 to    17:30
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 schedule]
+Poster Presentations    + Metallography (4:00 to 5:30 pm)
+
+Debate    (16:00 to 16:30)
+
+Elucidate    (16:30 to 17:00)
+
+Outside    L16
+
+L16
+
+L16
+
+17:30 to    18:00
+
+Prize    distribution and Group Photograph
+
+L16
+
+MSE | RSD 2022
+
+=== rsd 2022 speakers ===
+Source: https://www.iitk.ac.in/mse/rsd-2022/speakers.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Abstract
+
+Registration
+
+About Keynote Speaker
+
+You are here:
+
+Speakers
+
+Prof. Dipak Mazumdar
+
+Ministry of Steel Chair Professor,
+Department Of Materials Science & Engineering
+IIT Kanpur
+
+Research Interest: Enhancing steel mill process performance through integration of theory with practice, Modeling of reacting non isothermal flows in steelmaking reactors, Side blowing reactors: reactive and non reactive gas injection, Superior gas injection technique for large scale dissolution of nitrogen during production of high nitrogen stainless steel, Turbulent multi phase flow modelling in industrial steel processing units such as ladles/shrouds and tundishes.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2022 speakers]
+MSE | RSD 2022
+
+=== rsd 2023 contact ===
+Source: https://www.iitk.ac.in/mse/rsd-2023/contact.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Registration
+
+You are here:
+
+Professor In-Charge
+
+Dr Shikhar Misra
+Convener
+
+shikharm@iitk.ac.in
+
+Dr. Arunabh Meshram
+Co-Convener
+
+arunabhm@iitk.ac.in
+
+Team RSD
+
+Swati Mahato
+
+swatim20@iitk.ac.in
+
+Gulnaz Parween
+
+gulnazp20@iitk.ac.in
+
+Anandhakrishnan S
+
+anandhak21@iitk.ac.in
+
+Shirish Chandrakar
+
+ishirishch20@iitk.ac.in
+
+Raghav Mundra
+
+rmundra20@iitk.ac.in
+
+Ankur Srivastava
+
+ankurs21@iitk.ac.in
+
+Anupam Raj
+
+anupamr20@iitk.ac.in
+
+Aman Nigam
+
+amann21@iitk.ac.in
+
+Shivam Srivastava
+
+shivamsri20@iitk.ac.in
+
+Sumit Jha
+
+sumitjha22@iitk.ac.in
+
+Md. Irfan Ali
+
+irfanali21@iitk.ac.in
+
+Mr. Guddu Kumar
+
+gkumar@iitk.ac.in
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 contact]
+Mr. Aniket Dwivedi
+
+aniket@iitk.ac.in
+
+Govind
+
+govindb@iitk.ac.in
+
+MSE | RSD 2023
+
+=== rsd 2023 guidelines ===
+Source: https://www.iitk.ac.in/mse/rsd-2023/guidelines.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Registration
+
+Guidelines
+
+You are here:
+
+Guidelines
+
+Upskill your oratory skills and  overcome your stage fright! MSE-RSD23 provides you a platform to present your work among departmental colleagues for  constructive feedback. Join us to  cheer your peers for various events!
+
+Oral Presentation
+
+The total time allotted to each speaker is 12 mins. You should plan to speak for 10 mins and 2 mins for questions.
+
+The talk will be judged based on presentation skills, slides design and
+questionnaire session.
+
+Slides must be clear and must convey information.
+
+Slides must not be crowded/ clustered and must not contain low resolution
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 guidelines]
+images.
+
+References may be put at the end or in slide itself as per requirement.
+
+There will be best oral presentation awards given separately for each of the
+different sessions based on their fields of research.
+
+Poster Presentation
+
+Poster Can be designed using Microsoft Power Point or Photoshop.
+
+Authors are requested to use good quality paper and printing of their
+choice.
+
+Poster should contain, "Title, details of authors and their affiliation,
+introduction, experimental, results and discussions, conclusions and
+references wherever applicable".
+
+Please ensure that the front size of the text in poster is readable. Contents
+should be readable from at least 3 ft distance.
+
+Colour schemes can be used as desired and should aid readability of
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 guidelines]
+contents.
+
+Use figures (TIF/JPEG) with clarity.
+
+Multiple columns can be used if required.
+
+Leave ample border around the poster for ease of sticking on the display
+board.
+
+There will be best poster awards given separately for each of the different
+field of research.
+
+Memellurgy Contest
+
+For those who enjoy sarcasm, satire, and science, here's your opportunity to
+demonstrate your memetic prowess!
+
+Rules for Memellurgy Contest:
+
+The meme should not be vulgar in any sense.
+
+All the memes will be uploaded on the Facebook - MSE Page.
+
+Participants can upload the meme through the circulated form.
+
+The meme should be related to the MSE Engineering Branch and/or
+Department.
+
+In case of any query, you can contact Mr. Sumit Jha (sumitjha22@iitk.ac.in)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 guidelines]
+Evaluation criteria:
+
+50 % marks will be evaluated by meme page admin of memes_of_meta.
+
+25 % marks will be evaluated by the Judge.
+
+25 % marks will be evaluated on the basis of maximum likes.
+
+Metallography Contest
+
+Micrographs may be in colour or black and white which shall be pasted on a base
+white sheet of A4/A3 size only
+
+On the front side the entry should contain an attractive caption, brief description of
+the micrograph (Max. 30 words)
+
+Roll no. names and affiliation details should be on the back side of the entry
+
+Micrographs submitted for the contest shall be of good quality with micron marker
+and based on the original work of the contestants – Details of the Micrograph should
+also be mentioned.
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 guidelines]
+Colour schemes can be used as desired but editing is strictly prohibited.
+
+Organizers reserve the write to reject any inappropriate and incomplete entry
+
+3 Minute Thesis (3MT)
+
+3-minute thesis presentation is one of the events of RSD'23 in which students
+from Ph.D., M.Tech, BT-MT and B.Tech are supposed to give a 3-minute brief
+talk to explain their thesis work and its effectiveness in today's scenario. It
+challenges students to present their research in a clear, concise, and engaging
+manner to an audience.
+
+Rules for 3MT
+
+The time allotted will be not more than three minutes.
+
+Use visual aids such as slides (maximum one slide) or videos to help explain
+your research and make it more engaging.
+
+Emphasize the importance and impact of your research on the audience.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > rsd 2023 guidelines]
+In case of any query, you may contact Shivam Srivastava (shivamsri20@iitk.ac.in)
+
+MSE | RSD 2023
+
+=== rsd 2023 speakers ===
+Source: https://www.iitk.ac.in/mse/rsd-2023/speakers.htm
+Show navigation
+Hide navigation
+
+Speakers
+
+Schedule
+
+Guidelines
+
+Registration
+
+About Keynote Speaker
+
+You are here:
+
+Speakers
+
+Prof. Animangsu Ghatak
+
+Professor
+Department Of Chemical Engineering
+IIT Kanpur
+
+Research Interest:
+Adhesion and friction on soft interfaces
+
+Fracture of soft thin sheets
+
+Bio-inspired approaches in design of engineering materials
+
+click here for more details
+
+MSE | RSD 2023
+
+=== scholarship forms ===
+Source: https://www.iitk.ac.in/mse/scholarship-forms
+Quick Links
+
+Scholarship Forms
+
+Scholarship Forms
+
+Scholarship Form |
+
+Visvesvaraya Scheme Scholarship form |
+
+Last Scholarship Form |
+
+=== staff ===
+Source: https://www.iitk.ac.in/mse/staff
+Faculty & Staff
+
+Gyan Prakash Bajpai (Sr. Technical Superintendent)
+
+MBA, Master in Economics and Political Science, Diploma in Mechanical Engineering
+
+Specialization : Experimental Welding, Metal Forming, Casting and Physical Verification
+
+Areas of Interest : Manufacturing, Metallography, Verification
+
+Office : Western Lab 103E
+
+Lab1 : Physical Metallurgy Lab WL201
+
+Email : gpbajpai@iitk.ac.in , tejesv@gmail.com
+
+Website : http://home.iitk.ac.in/~gpbajpai
+
+Phone : +91 512 679 7862, 7933
+
+Anil Kumar Verma (Sr. Technical Superintendent)
+
+Intermediate + CTI
+
+Specialization : Welding, Brazing and Metal Working
+
+Areas of Interest : Manufucturing Process,Mechanical Testing and Heat Treatment
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Office : DJAC Building  101 H
+
+Lab1 : Engineering Metallurgy Lab | Lab2 : Phase Stability Lab-(WL-214)
+
+Email : akumarv@iitk.ac.in
+
+Website : http://home.iitk.ac.in/~akumarv
+
+Phone : +91 512 679 7978
+
+Surendra Kumar Agnihotri (Sr. Technical Superintendent)
+
+B.Sc., Diploma in Mechanical Engineering
+
+Specialization : Manufacturing Processes
+
+Areas of Interest : Microscopy, AutoCAD Designing , Verification & Stock Keeping
+
+Office : MME Workshop
+
+Lab1 : MME Workshop |   Lab2 : Western Labs 203
+
+Email : skagni@iitk.ac.in
+
+Website : http://home.iitk.ac.in/~skagni
+
+Phone : +91 512 679 7969, 6958
+
+Manohar Oraon (Sr. Technical Superintendent)
+
+B.E. (Metallurgy)
+
+Specialization : Experimental Metallurgy
+
+Areas of Interest : Physical Metallurgy, Materials Characterization, Mechanical Metallurgy, XRD, DSC, TEM
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Office: TEM Lab.
+
+Lab1: TEM Lab. (WL-107) | Lab2: Symmetry Lab. (WL-207)
+
+Email: moraon@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~moraon
+
+Phone: +91 512 679 7147/6049
+
+Samata Samal (Technical Superintendent)
+
+B.E. (Metallurgy)
+
+Specialization : Metallurgy and Material Science
+
+Areas of Interest : Scanning Electron Microscope, Material Characterization
+
+Office: Material Science Lab
+
+Lab1: Western Lab-203
+
+Lab2: SEM Lab (WL 103A)
+
+Email: samata@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~samata
+
+Phone: +91 512 679 7140, 6053
+
+Shiva Kant Mishra (Technical Superintendent)
+
+PhD (Chemistry)
+
+Specialization : Materials Science & Materials Characterization/Analytical Chemistry/ Instruments Analysis (X-ray Diffraction, NMR, FTIR, UV-Vis-NIR Spectroscopy, DSC, etc.) Green Synthesis
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Areas of Interest : Synthesis of novel materials, Single crystal growth, Characterization of Binary organic materials to explore NLO properties (Fluorescence, Phosphorescence, SHG etc.), Device and furnace fabrication, Powder Metallurgy, Mirco Structural and Thermal Characterizations, Tribology, Heat Treatment Rolling, Injection Moulding Etc. Also Interested to Synthesize/investigate new materials for improvement of technology
+
+Office: Physical Metallurgy Lab./Room No. 413, MSE office
+
+Lab: Physical Metallurgy Lab
+
+Email: skant@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~skant
+
+Phone: +91 512 679 7933
+
+Indra Pal Singh (Technical Superintendent)
+
+Intermediate, Industrial Training Institute
+
+Specialization : Manufacturing Process, Metal Forming (Sheet Metal)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Areas of Interest : Manufacturing Processes, Heat Treatment, Powder Metallurgy and Sintering etc.
+
+Office: Old Workshop Extension (MSE)
+
+Lab1:  Process Metallurgy Laboratory
+
+Lab2: MSE 360, Clean Room, WL 113
+
+Email: indraps@iitk.ac.in
+
+Phone: 91 512 679 7949
+
+Sheelendra Agnihotri (Technical Superintendent)
+
+M.Sc. (Electronics)
+
+Specialization : Manufacturing Process
+
+Areas of Interest : Powder Metallurgy, Metallography,Metal Working, (Rolling, Forging and Swaging) Welding, Casting Sheet metal, TEM, XRD
+
+Office: Powder Metallurgy Lab. WL -104 E
+
+Lab1: Powder Metallurgy Lab. WL -104 E,109 A ,208
+
+Lab2: Stractural Nano Materials Lab (WL-104 D)
+
+Email: sheelu@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~sheelu
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Phone: +91 512 679 7342, 7278
+
+Nripen Deka (Technical Superintendent)
+
+M.Sc. (Chemistry)
+
+Specialization : Functional Materials
+
+Areas of Interest : Electrical and Ionic Conductivity of Materials
+
+Office: Process Metallurgy Lab
+
+Lab1: Process Metallurgy Lab  | Lab2: Gas Cell
+
+Email: dnripen@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~dnripen
+
+Phone: +91 512 679 7949
+
+Bharat Raj Singh (Jr. Technical Superintendent)
+
+Intermediate + MTI
+
+Specialization : Metal Working, Welding
+
+Areas of Interest : Welding, Brazing, Soldering, Molding, Casting, Forging, & Solar Panel Assembly
+
+Lab1: Electro Ceramics Lab WL-109
+
+Lab2: Computation Lab (WL-312)
+
+Email: brsingh@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~brsingh
+
+Phone: +91 512 679 6752, 6703
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Rakesh Kumar (Jr. Technical Superintendent)
+
+Graduate, Pilot
+
+Specialization : Aircraft Maintenance and Sheet Metal
+
+Areas of Interest : Flying & Repairing of Aircraft, Sheet Metal
+
+Lab: TA-201 Engineering Metallurgy lab
+
+Email: kumarr@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~kumarr
+
+Phone: +91 512 679 7978
+
+Mobile: +91 9415 479 184
+
+Gaurav Mishra (Sr. Technician)
+
+Diploma in Mechanical Engineering
+
+Specialization : Powder Metallurgy
+
+Areas of Interest : Mechanical Testing, Powder Metallurgy Machining and Welding
+
+Lab1: Engineering Metallurgy Lab
+
+Lab2: Non Equilibrium Process & Corrosion Lab
+
+Lab3: Solid Diffusion & Thermo Kinetics Lab
+
+Email: mgaurav@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~mgaurav
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Phone: +91 512 679 7978
+
+Gyanendra Singh (Sr. Technician)
+
+B.Sc. & Post Graduate Diploma in Sugar Technology
+
+Specialization : Manufacturing Processes, General Maintenance and Operation
+
+Areas of Interest : Welding,Brazing,Casting,Metal Forming & Material Characterization
+
+Lab1: Bio-materials Processing& Characterization Lab.
+
+Lab2: Bio-materials Processing
+
+Lab3: Characterization Lab, Metallurgy Workshop
+
+Email: gyans@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~gyans
+
+Phone: +91 512 679 7920, 7969
+
+Samardeep (Sr. Technician)
+
+M.Sc (Chemistry)
+
+Specialization : Fatigue testing (MTS), TEM Sample preparation
+
+Areas of Interest : Materials Characterization, Mechanical Metallurgy
+
+Office: Faculty building 416
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Lab: Material testing lab & MSE workshop
+
+Email: samard@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~samard
+
+Phone: +91 512 679 6958
+
+Ajay Pratap Singh (Sr. Technician)
+
+B.Tech in Materials Science and Metallurgical Engineering
+
+Specialization : Heat treatment of low and medium carbon steel, SG Iron, Investment casting, Sand casting, Mechanical Testing, Hardness Testing, Micro structure examination
+
+Areas of Interest : Iron and Steel Making, Physical Metallurgy
+
+Office: Physical Metallurgy Lab WL 201
+
+Lab1: Physical Metallurgy Lab WL 201
+
+Email: ajayps@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~ ajayps
+
+Phone: +91 512 679 7933
+
+Anurag Prasad (Sr. Technician)
+
+B TECH Mechanical Engineering
+
+Specialization : Material Science, Manufacturing Process
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Areas of Interest : Fluid Mechanics, Mechanical Metallurgy, Scanning Electron Microscope, Thermodynamics
+
+Office: Process Steel & Research Lab WL 101 A
+
+Lab1: SEM WL 103 A
+
+Lab2: Western Lab 101 C
+
+Lab3: Functional Material Lab WL: 203
+
+Email: anuragp@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~ anuragp
+
+Phone: +91 512 679 6277, 7140, 6053
+
+Shilankar (Sr. Technician)
+
+B-Tech, Electronics & Instrumentation Engineering
+
+Specialization : Network analysis, Electrical & Optical characterization of semiconductor devices
+
+Areas of Interest : Thin film deposition
+
+Office: Engineering. Metallurgy Lab
+
+Lab1: Clean room Laboratory
+
+Lab2: Thin Film Characterization
+
+Email: slankar@iitk.ac.in
+
+Website: http://home.iitk.ac.in/~ slankar
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Phone: +91 512 679 7978, 7865,7915
+
+Govind (Sr. Technician)
+
+B.Tech. (Computer Science and Engineering)
+
+Specialization : Software and web development (Joomla, Wordpress, Java, HTML, CSS, PHP, MYSQL), Graphics designing using Coreldraw & Photoshop, and Other IT Related Work.
+
+Areas of Interest : Website designing, software development, Video Editing and Graphics designing.
+
+Office: Room No. 413, 4th Floor, Faculty Building
+
+Email: govindb@iitk.ac.in
+
+Phone: +91 512 679 6680
+
+Satyaprakash Nath  (Jr. Technician)
+
+B.Tech (Metallurgical and Materials Engineering)
+
+Areas of Interest : Physical Metallurgy and Mechanical Metallurgy
+
+Office: Physical Metallurgy Lab WL201
+
+Lab1: Physical Metallurgy Lab WL201, XRD Lab ACMS 101
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Email: spnath@iitk.ac.in
+
+Phone: +91 512 679 7933
+
+Digamber Mani  (Jr. Technician)
+
+Diploma in Mechanical Engineering
+
+Areas of Interest : Maintenance of different type of Aircraft as(Airbus A320 Family & ATR 72), Mechanical Testing
+
+Office: MSE Workshop
+
+Lab1: Mechanical Testing Lab and MSE Workshop
+
+Email: digamberm@iitk.ac.in
+
+Phone: +91 512 679 6958
+
+Surya Prakash Sonkar (Jr. Technician)
+
+B.Tech in Material Science and Metallurgical Engineering
+
+Areas of Interest : Physical Metallurgy and Non Destructive Testing and Pyro and Hydro Metallurgy
+
+Office: Process Metallurgy Lab
+
+Lab1: Process Metallurgy Lab / SEM
+
+Email: spsonkar@iitk.ac.in
+
+Phone: +91 512 679 7949
+
+Rajdipta Samadder (Jr. Technician)
+
+Diploma in Metallurgical Engineering
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Areas of Interest : Physical Metallurgy and Metallography
+
+Office: Physical Metallurgy Lab
+
+Lab1: Physical Metallurgy Lab
+
+Email: rajdipta@iitk.ac.in
+
+Phone: +91 512 679 7933
+
+Sanjeev K. Shah (Jr. Superintendent)
+
+Bachelor of Commerce (B.Com)
+
+Specialization : Office In-Charge
+
+Areas of Interest : Academic Work, IPDF, FARE, PMRF & Administrative Work
+
+Office: Room No.413, 4th Floor, Faculty Building
+
+Email: skshah@iitk.ac.in
+
+Phone: +91 512 679 7640
+
+Anand Kumar Singh (Sr. Assistant)
+
+MA (Sociology), DCAA
+
+Specialization : Office Administration
+
+Areas of Interest : Financial work, DPA, Budget, Stores
+
+Office: Room No.413, 4th Floor, Faculty Building
+
+Email: sanand@iitk.ac.in
+
+Phone: +91 512 679 6450
+
+Former Staff
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI,  > staff]
+Guddu Kumar (move to Chemical Engineering Department)
+
+Aniket Dwivedi (move to  ACMS)
+
+A. C. Saini
+
+Nisar Ahmad  (move to Store & Purchase)
+
+K. S. Tripathi
+
+Ravindra Agnihotri (move to ACMS)
+
+Mewa Lal
+
+Narinder Pal Singh
+
+Ram Babu Dubey
+
+Late  Jiwan Lal Kuri
+
+Late  Sushila Devi
+
+Ramautar
+
+S. B. Shukla
+
+H. C. Srivastava
+
+Bhagwati
+
+O. P. Awasthhi
+
+V. P. Srivastava
+
+M. H. Rahman
+
+V. P. Vohra
+
+S. R. Chaurasia
+
+S. C. D. Aroro
+
+R. K. Prasad
+
+D. K. Biswas
+
+M. C. Gupta
+
+V. P. Gupta
+
+S. P. Rai
+
+C. L. Sachdan
+
+S. D. Singh
+
+B. S. Deswal
+
+R. S. Shukla
+
+M. R. Nathwani
+
+A. Sharma
+
+S. C. Soni
+
+Vrijendra Kumar
+
+G. B. Rajan
+
+D. P. Tripathi
+

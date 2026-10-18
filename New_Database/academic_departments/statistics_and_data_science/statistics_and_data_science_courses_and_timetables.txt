@@ -1,0 +1,1454 @@
+DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Statistics and Data Science, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/sds. Snapshot: scraped in 2026.
+
+=== courses ===
+Source: https://www.iitk.ac.in/sds/courses
+MSO201: Probability and Statistics
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: MTH111M and MTH112M; none for M.Sc. 2-year
+
+Objectives: An introductory course covering the fundamental concepts of probability and mathematical statistics, including descriptive statistics, estimation, confidence intervals, and hypothesis testing.
+
+Course Contents:
+
+Probability:- Axiomatic definition, properties, conditional probability, Bayes' rule and independence of events. Random variables, distribution function, probability mass and density functions, expectation, moments, moment generating function, Chebyshev's inequality. Special distributions; Bernoulli, binomial, geometric, negative binomial, hypergeometric, Poisson, exponential, gamma, Weibull, beta, Cauchy, double exponential, normal. Reliability and hazard rate, reliability of series and parallel systems.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Joint distributions, marginal and conditional distributions, moments, independence of random variables, covariance and correlation. Functions of random variables. Weak Law of large numbers and Central limit theorems.
+
+Statistics:- Descriptive statistics, graphical representation of the data, measures of location and variability. Population, sample, parameters. Point estimation; method of moments, maximum likelihood estimator, unbiasedness, consistency. Confidence intervals for mean, difference of means, proportions. Testing of hypothesis; Null and Alternate hypothesis, Neyman Pearson fundamental lemma, Tests for one sample and two sample problems for normal populations, tests for proportions.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Hogg, R. V., McKean, J. W., & Craig, A. T., Introduction to Mathematical Statistics, 7th ed., Pearson.
+
+Dudewicz, E. J. & Mishra, S. N., Modern Mathematical Statistics, Wiley.
+
+MSO205: Introduction to Probability Theory
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: None
+
+Objectives: This is a theoretically rooted introductory course on fundamental concepts in probability. The objective is to lay a foundation for future courses in probability, statistics, and data science.
+
+Course Contents:
+
+Basic definitions and ideas such as random experiment, sample space and event, Classical definition and relative frequency definition of probability, Axiomatic definition of probability, Elementary properties of probability function, Probability inequalities such as Boole’s inequality and Bonferroni inequality.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Conditional probability and its basic properties, Examples of conditional probability and multiplication law, Theorem of total probability and related examples, Bayes theorem and related examples, Independent events.
+
+Random variables and their distribution function, Induced probability space, Discrete and continuous random variables, Function of random variables (Discrete and Continuous), Expectation and moments of random variables, MGF of random variables and its application, Markov, Chebyshev and Jensen’s inequality, Characteristics function and its application.
+
+Standard discrete distributions and their properties (e.g., Bernoulli, Binomial, Geometric, Negative Binomial, Hypergeometric, Poisson) Standard continuous distributions and their properties (e.g., Normal, Exponential, Gamma, Beta, Cauchy).
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Random vectors and their joint distribution functions, Marginal distribution, independent random variables, Conditional distribution of random vectors/variables, Expectation and moments of random vectors, Conditional Expectation, variance and covariance and their applications.
+
+Idea of limiting distribution, Convergence in distribution and probability, and related results, Convergence of moments and almost sure convergence, Various examples and counter examples.
+
+Weak law of large numbers, Central limit theorem, Applications, e.g., continuous mapping theorem and delta method.
+
+References:
+
+Hogg, R. V., McKean, J., Craig, A. T. (2005). Introduction to Mathematical Statistics. Pearson Education.
+
+Hoel, P. G., Port, S. C., Stone, C. J. Introduction to Probability Theory, 1971. Houghton Mifflin, Boston, MA.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Boes, D. C., Graybill, F. A., Mood, A. M. (1982). Introduction to the Theory of Statistics. McGraw-Hill International Book Company.
+
+Ross, S. M. (2014). Introduction to Probability Models. Academic press.
+
+SDS206M: Matrix Algebra and Linear Estimation Module I
+
+Credits:  3-1-0-0 (06)
+
+Prerequisites:  None
+
+Objectives: This is an introductory course on linear algebra, designed to cover the prerequisite topics for Linear Estimation, Regression, Multivariate Statistics. The aim is to build a strong foundation of vector spaces and cover aspects of matrix theory in adequate details.
+
+Course Contents:
+
+Review of finite dimensional Vector Spaces Vector spaces - Subspace - Linear independence - Basis and dimension Sum, direct sum and complement of subspaces Orthogonality and orthogonal basis - orthogonal complement [6 Lectures]
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Matrix Algebra Preliminaries Different types of matrices - Operations of matrices - Properties of operations. [2 lectures]
+
+Rank of a Matrix Row space and column space Rank - Results related to ranks of matrices. [2 lectures]
+
+Determinant and Inverse of a non-singular matrix Inverse of a matrix - Properties of inverse Elementary matrix operations - Different matrix forms Determinant - Properties of determinant. [4 lectures]
+
+Solution of Linear Equations Homogeneous systems - General linear systems Sweep out method for solving linear systems. [2 lectures]
+
+Eigenvalues and vectors, Spectral and Singular value decomposition Characteristic roots - Eigenvectors and eigenspaces Spectral decomposition of a semi-simple matrix Singular value decomposition [3 lectures]
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Real quadratic forms, Reduction of pair of real symmetric matrices, Extrema of quadratic forms Classification of quadratic forms - Rank and signature Definiteness of matrices - Extrema of quadratic forms [3 Lectures]
+
+References:
+
+Harville, D. A. (2008). Matrix Algebra from a Statistician’s Perspective. United States: Springer.
+
+Ramachandra Rao, A., Bhimasankaram, P. (2000). Linear Algebra. Germany: Hindustan Book Agency.
+
+Strang, G. (2006). Linear Algebra and Its Applications. India: Thomson, Brooks/Cole.
+
+Lay, D. C. (2014). Linear Algebra and Its Applications. United Kingdom: Pearson Education Limited.
+
+Bapat, R. (2012). Linear Algebra and Linear Models. Germany: Springer
+
+SDS207M: Matrix Algebra and Linear Estimation Module II
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Credits: 3-1-0-0 (06)
+
+Prerequisites: None
+
+Objectives: This course is an introduction to linear models and linear estimation covering concepts of estimability, optimality of linear models, best linear unbiased estimation, and estimation on linear constrained parameter spaces. Pre-requisites from linear algebra like projection matrix, generalized inverse, vector-matrix differentiation will also be covered in adequate details.
+
+Course Contents:
+
+Recap of important topics/results from Module I
+
+Generalized Inverses, Moore–Penrose Inverse
+
+Left and right inverses of a matrix – G-inverse
+
+Minimum norm and least squares g-inverse
+
+Moore–Penrose inverse
+
+Projection and Orthogonal Projection Matrices
+
+Projection and projection matrices – orthogonal projection
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Properties of projection and orthogonal projection matrices
+
+Vector and Matrix Differentiation: Basic idea of matrix differentiation, differentiation of linear and quadratic forms, determinants. Inverse of a matrix – maxima and minima of functions of several variables
+
+Linear Model and Least Squares Theory of Estimation. Introduction to linear model and basic assumptions. The least squares theory of estimation – properties of least squares estimators
+
+Estimability of a Linear Parametric Form. Non-full-column-rank design matrix. Unbiasedly estimable linear parametric functions
+
+Gauss–Markov Theorem and Best Linear Unbiased Estimator. Class of linear unbiased estimators and the Best Linear Unbiased Estimator. The Gauss–Markov Theorem, Fisher–Cochran Theorem. Matrix-theoretic version through some properties of the idempotent matrix
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Estimation Under Restriction: Least squares estimation under a set of restrictions on linear parametric functions
+
+References:
+
+Harville, D. A. (2008). Matrix Algebra from a Statistician’s Perspective. United States: Springer.
+
+Ramachandra Rao, A., Bhimasankaram, P. (2000). Linear Algebra. Germany: Hindustan Book Agency.
+
+Strang, G. (2006). Linear Algebra and Its Applications. India: Thomson, Brooks/Cole.
+
+Lay, D. C. (2014). Linear Algebra and Its Applications. United Kingdom: Pearson Education Limited.
+
+Bapat, R. (2012). Linear Algebra and Linear Models. Germany: Springer.
+
+Christensen, R. (2013). Plane Answers to Complex Questions: The Theory of Linear Models. United States: Springer New York.
+
+Kshirsagar, A. M. (1983). A Course in Linear Models. Switzerland: M. Dekker.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Sengupta, D., Jammalamadaka, S. R. (2003). Linear Models: An Integrated Approach. Singapore: World Scientific.
+
+SDS208: Data Science Lab 1
+
+Credits: 0-0-3-2 (5)
+
+Prerequisites: None
+
+Objectives: To equip students with a fundamental computational learning base for modern data analysis. The course focuses on collecting, cleaning, and organizing data and presenting clear insights through interactive web-based applications. Collaborative coding is discussed through Google Colab, cloud computing, and Git. The programming languages used are Python and R.
+
+Course Contents:
+
+Introduction to programming for data science: Python, R, RStudio, text editors, cloud computing with RStudio and Google Colab, and Git through GitHub.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Descriptive statistics: populations and samples, sampling methods, and types of data (categorical, continuous, ordinal, and nominal).
+
+Data collection through web scraping.
+
+Data cleaning and wrangling: Python and R (including dplyr), and processing numeric and non-numeric text/image data.
+
+Measures of central tendency and dispersion: arithmetic, geometric, and harmonic means; median; mode; variance; interquartile range; mean absolute deviation; standard deviation; skewness; kurtosis; and coefficient of variation.
+
+Measures of association: correlation, Kendall's tau, and Spearman rank correlation.
+
+Visualization: fundamental univariate and multivariate plots, ggplot, heat maps, and word plots.
+
+Reproducibility and interaction: R Markdown.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Development of an interactive toolkit: summarizing scraped and cleaned data and creating a web interface using R Shiny.
+
+Advanced coding in R: introduction to Rcpp, code benchmarking, and linking R with MATLAB/Python.
+
+Ethics and biases: statistical paradoxes, data ethics, social biases in data, and statistics in the media.
+
+Presentations.
+
+References:
+
+Wickham, H. (2009). Elegant Graphics for Data Analysis. O'Reilly Media.
+
+Wickham, H. (2021). Mastering Shiny. O'Reilly Media.
+
+Bruce, P., Bruce, A., and Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python. O'Reilly Media.
+
+VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Boehmke, B. C. (2016). Data Wrangling with R. Springer International Publishing.
+
+Pineau, J., et al. (2021). Improving reproducibility in machine learning research: A report from the NeurIPS 2019 reproducibility program. Journal of Machine Learning Research, 22.
+
+SDS209: Data Science Lab 2
+
+Credits: 1-0-2-0 (5)
+
+Prerequisites: SDS208
+
+Objectives: To demonstrate concepts learned in concurrent elementary statistics and probability courses and equip students with modern visualization tools. Students learn to write reproducible code and summarize their ideas in a project report, using software to investigate questions addressed later in advanced courses.
+
+Course Contents:
+
+Linear algebra: Gauss elimination, numerical issues with determinants, eigenvalues and eigenvectors, matrix decompositions, generalized inverses, and computational complexity of matrix operations.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Parallel computing: parallelizing matrix calculations.
+
+Optimization: optimization functions and numerical integration.
+
+Least squares: polynomial mean functions and horizontal and orthogonal distance least squares.
+
+Random variables: sampling, density and mass functions, summary functions, heavy-tailed distributions, and expectations through numerical integration.
+
+Random vectors: copula functions, contour plots versus marginal visualizations, first in two and then in higher dimensions.
+
+Dimensionality reduction for data visualization: PCA, LDA, t-SNE, and UMAP.
+
+Inequalities and the weak law of large numbers: demonstrations and examples where the WLLN does not hold.
+
+Central limit theorem: simulations for the CLT, skewed distributions, and examples where the CLT does not hold.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Project ideas: creating an R package on GitHub; CLT, integrals, and empirical bias; statistical applications of matrix decompositions. The course will typically include a class project.
+
+References:
+
+Akalin, A. (2020). Computational Genomics with R. CRC Press.
+
+Athreya, S., Sarkar, D., and Tanner, S. Probability and Statistics with Examples Using R. https://www.isibang.ac.in/~athreya/psweur/.
+
+Baclawski, K. (2008). Introduction to Probability with R. CRC Press.
+
+Dryden, I. L., and Marron, J. S. (2021). Object Oriented Data Analysis. CRC Press.
+
+Pearson, R. K. (2018). Exploratory Data Analysis Using R. CRC Press.
+
+Peng, R. (2012). Exploratory Data Analysis with R. Lean Publishing.
+
+Vinod, H. D. (2011). Hands-on Matrix Algebra Using R: Active and Motivated Learning with Applications. World Scientific.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Yoshida, R. (2021). Linear Algebra and Its Applications with R. CRC Press.
+
+SDS210: Statistical Computing
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: MSO205, SDS207M, SDS208
+
+Objectives: The course introduces new and fundamental computational tools in statistics, with emphasis on simulation and optimization techniques. It balances theoretical foundations with practical implementation.
+
+Course Contents:
+
+Basics: introductory Monte Carlo examples and pseudorandom number generation.
+
+Generating discrete and continuous random variables: inverse transform, accept-reject, Box-Muller transformation, ratio-of-uniforms, and known relationships between distributions.
+
+Importance sampling and Monte Carlo: simple and weighted importance sampling.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Optimization review: LU, QR, SVD, and eigen decompositions; convex sets and functions.
+
+Optimization theory: duality and KKT conditions.
+
+Gradient-based methods: Newton-Raphson, gradient ascent, and coordinate ascent.
+
+Least squares and optimization: linear regression, ridge, lasso, bridge regression, logistic regression, and least angle regression (LARS).
+
+Cross-validation: leave-one-out and k-fold cross-validation and selection of tuning parameters.
+
+EM and MM algorithms: MM and EM algorithms, Gaussian mixtures, and Monte Carlo EM.
+
+Non-convex optimization: examples including maximum likelihood with latent/hidden variables and PCA.
+
+Bootstrap: nonparametric and parametric bootstrap, including variance estimation in penalized regression.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Stochastic optimization: stochastic gradient ascent and simulated annealing.
+
+Bayesian computation: Bayesian setup examples and MCMC using Metropolis-Hastings.
+
+References:
+
+Ross, S. M. (2012). Simulation (5th ed.). Academic Press.
+
+Robert, C. P., Casella, G., and Casella, G. (2004). Monte Carlo Statistical Methods. Springer.
+
+Boyd, S., Boyd, S. P., and Vandenberghe, L. (2004). Convex Optimization. Cambridge University Press.
+
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). An Introduction to Statistical Learning. Springer.
+
+Efron, B., and Tibshirani, R. J. (1994). An Introduction to the Bootstrap. CRC Press.
+
+SDS211: Theory of Statistics
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: MSO205
+
+Objectives: This course covers classical theoretical statistics. Students are introduced to descriptive statistics, visualization, frequentist and Bayesian estimation, and hypothesis testing, with emphasis on theoretical foundations.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Introduction to data and exploratory data analysis: univariate and multivariate mean and variance; correlation; regression; variance-covariance matrix; PCA.
+
+Relating data to probability-distribution theory: sampling and distributions of transformations; Box-Muller transformation; additive properties; distributions and expectations of sample mean and variance; chi-square, F, and t distributions; independence of sample mean and variance under normality; introduction to the multivariate normal distribution; convergence of random variables, CLT, and WLLN.
+
+Point estimation: statistics and estimators; sufficiency, completeness, unbiasedness, UMVUE; information inequalities and the Cramer-Rao lower bound; maximum likelihood and method of moments and their properties.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Testing of hypotheses: null and alternative, simple and composite hypotheses; size and power; Neyman-Pearson lemma and applications; UMP and likelihood-ratio tests.
+
+Confidence intervals: pivotal statistics and methods of construction.
+
+Bayesian statistics: foundations; point estimation as a decision problem; prior distributions; Bayes risk; Bayes estimators under loss functions; credible sets.
+
+References:
+
+Hogg, R. V., McKean, J., and Craig, A. T. (2005). Introduction to Mathematical Statistics. Pearson Education.
+
+Rohatgi, V. K., and Saleh, A. M. E. (2015). An Introduction to Probability and Statistics. John Wiley & Sons.
+
+Casella, G., and Berger, R. L. (2021). Statistical Inference. Cengage Learning.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS212M: Elementary Stochastic Processes I (Modular)
+
+Credits: 3-1-0-0 (6)
+
+Prerequisites: MSO201 or MSO205 or equivalent
+
+Objectives: This course covers the fundamentals of Markov chains for BS (Statistics and Data Science) and M.Sc. (Statistics) students.
+
+Course Contents:
+
+Definition and classification of general stochastic processes.
+
+Definition and classification of Markov processes.
+
+Markov chains of order r, with emphasis on order 1, and transition-probability matrices.
+
+Examples including gambler's ruin and random walks.
+
+Chapman-Kolmogorov equations and derivation of higher-order transition probabilities from one-step probabilities.
+
+Classification of states: accessible, absorbing, and communicating states; communication as an equivalence relation; irreducible chains; recurrent and transient states and visits infinitely often through the Borel-Cantelli lemma; effects of dimension through random walks in one, two, and three dimensions.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Finite Markov chains and properties of finite irreducible chains.
+
+Periodic states.
+
+Closed sets, communicating-class properties, and absorption in closed sets.
+
+Limiting behavior: null and positive recurrence and ergodicity.
+
+Stability, limiting distributions, and stationary distributions of Markov chains.
+
+References:
+
+Karlin, S., and Taylor, H. M. (1975). A First Course in Stochastic Processes (2nd ed.). Academic Press.
+
+Ross, S. M. (1996). Stochastic Processes. John Wiley & Sons.
+
+Pardoux, E. (2008). Markov Processes and Applications. John Wiley & Sons.
+
+Klenke, A. (2008). Probability Theory. Springer-Verlag.
+
+SDS309: Probability Theory
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: This is a compulsory course for 2-year M.Sc (Statistics) students. For all other students, MSO201 or equivalent will be taken as a prerequisite.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Limits of sequences of sets, σ-field of events. Probability measure, probability space.
+
+Random variables, induced probability space, probability distribution.Distribution function, decomposition theorem.
+
+Expectation and moments, inequalities.
+
+Various modes of convergence of sequences of random variables (in probability, almost surely, in r-th mean). Convergence theorems for expectations of sequences of random variables (monotone convergence theorem, Fatou’s lemma, dominated convergence theorem).
+
+Characteristic function and its properties, inversion formulae.
+
+Convergence of sequences of distribution functions, Helly-Bray theorems,convergence of moments.
+
+Independence of events and random variables, zero one laws.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Convergence of series of independent random variables, Kolmogorov inequality, Kolmogorov three-series criterion.
+
+Khintchin’s weak law of large numbers, Kolmogorov strong law of large numbers. Central limit theorems of Lindeberg-Levy, Liapounov and Lindeberg- Feller.
+
+References:
+
+L.Chung: A Course in Probability Theory, Third Edition, AcademicPress, 2001.
+
+R.Bhat: Modern Probability Theory, Third Edition, New Age International (P) Ltd, 2004.
+
+Lo´eve: Probability Theory-I, Graduate Text in Mathematics, FourthEdition, Springer, 1977.
+
+SDS312: Data Science Lab 3
+
+Credits: 1-0-2-0 (5)
+
+Prerequisites: SDS208 and SDS209
+
+Objectives: To expose students to real data problems and provide hands-on experience in analyzing datasets of different sizes. Students use concepts from statistics and data science for model building and prediction, with emphasis on statistical communication through reproducible reports and presentations.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+The course analyzes datasets drawn from a variety of disciplines and applications. Each week, students build a model and/or prediction scheme to answer application-specific questions. Depending on complexity, more than one week may be assigned to a dataset.
+
+Suggested datasets/topics: theory of statistics; statistical computing; elementary stochastic processes/functional data; time series; linear regression; statistical and AI techniques in data mining; ANOVA; multivariate analysis; and Bayesian analysis.
+
+The instructor may explain a dataset in the lecture component without revealing the methodology most appropriate for the questions posed. Writing weekly reports and/or giving presentations is an integral part of the course. The course also introduces the steps for building an R package.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). An Introduction to Statistical Learning. Springer.
+
+Shumway, R. H., and Stoffer, D. S. (2000). Time Series Analysis and Its Applications. Springer.
+
+Everitt, B., Fienberg, S., Olkin, I., and Casella, G. (2005). An R and S-PLUS Companion to Multivariate Analysis. Springer.
+
+Marin, J.-M., and Robert, C. P. (2007). Bayesian Core: A Practical Approach to Computational Bayesian Statistics. Springer.
+
+Gelman, A., Carlin, J. B., Stern, H. S., and Rubin, D. B. (1995). Bayesian Data Analysis. Chapman & Hall/CRC.
+
+Christensen, R., Johnson, W., Branscum, A., and Hanson, T. E. (2010). Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians. CRC Press.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS313M: Elementary Stochastic Processes II
+
+Credits: 3-1-0-0 (6)
+
+Prerequisites:  MSO201 Probability and Statistics or MSO205 Introduction to Probability Theory or equivalent
+
+Course Contents:
+
+Continuous time Stochastic Processes (focus on Counting process), Kolmogorov Consistency/Existence Theorem (statement only) [0.5 lecture]
+
+Poisson Process (PP) [7.5 lectures]
+
+Definition of a PP as a counting process
+
+Alternative definition of a PP
+
+Inter-arrival and Waiting times for a PP, Coupon Collector’s problem
+
+Order Statistics and PP
+
+Non-homogeneous PP, properties involving the arrival times
+
+Compound PP
+
+Continuous time Markov Chains (Discrete State space) or Jump Markov Processes [7 lectures]
+
+Definition (focus on homogeneous Markov Chains)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Examples
+∗Birth and Death processes
+∗ Poisson Process as a Pure Birth process
+∗ M/M/c queues
+∗ Linear growth Models with immigration
+∗ Yule Process
+
+Transition Probability function, Chapman-Kolmogorov equations (forward and backward)
+
+Limiting probabilities (may be an overview only, heuristic proof may be given with some motivation using the first module)
+
+Brownian Motion (BM) [2 lectures]
+
+Definition of a BM, BM as a Markov process
+
+Gaussian processes
+
+Properties of a BM
+
+Covariance function, Invariance properties
+
+Path properties - using the Kolmogorov Continuity Theorem(statement only)
+
+Special topics (one of the following two topics to be covered) [3 lectures]
+
+Topic 1: Processes related to Brownian motion. Brownian bridge, Application of Brownian bridge in the study of empirical processes, Donsker’s Invariance Principle (statement only) Stopping times, Hitting times, Strong Markov Property, Arc-Sine laws. Variants of BM: involving absorption and reflection, Geometric BM, Integrated BM, involving drift
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Topic 2: Branching processes: A little history of branching processes. The Galton-Watson Branching Processes (GWP). Probability generating function of GWP. Moment generating functions and moment calculations ∗ Sub-critical, critical and super-critical scenario and the probability of extinction. Examples. Introduction to Continuous time Markov Branching Processes. Examples of Continuous time Markov Branching Processes – revisit to Yule Process or Binary Fission, Birth & Death Process. Generating functions. Sub-critical, critical and super-critical scenarios.
+
+References:
+
+Samuel Karlin and Howard M Taylor: A First Course in Stochastic Processes, 2ed, Academic Press, 1975.
+
+Sheldon M Ross: Stochastic Processes, John Wiley and Sons, 1996.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Etienne Pardoux: Markov Processes and Applications, John Wiley andSons, 2008.
+
+Achim Klenke: Probability Theory, Springer-Verlag, 2008.
+
+B. Athreya and Peter Ney: Branching Processes, Springer-Verlag BerlinHeidelberg, New York 1972.
+
+B. Athreya and S. N. Lahiri: Measure Theory and Probability Theory,Springer, 2006.
+
+SDS314: Multivariate Analysis
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: SDS211
+
+Objectives: The course develops the theoretical foundations of multivariate distribution theory, with emphasis on the multivariate Gaussian distribution and inference from multivariate samples. It also develops important multivariate data-analysis tools and their implementation for real problems.
+
+Course Contents:
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Basic properties of random vectors: CDFs and PDFs, moments, characteristic functions, orthogonal and polar transformations, and multivariate generalizations including multinomial and Dirichlet distributions.
+
+Normal distribution theory: normal data matrices, characterization and properties, linear forms and transformations, Wishart distribution, and Hotelling's T-squared distribution.
+
+Estimation and testing: maximum likelihood, likelihood-ratio and union-intersection tests, and simultaneous confidence intervals.
+
+MANOVA: multivariate one-way classification and likelihood-ratio methods.
+
+Principal component analysis: principal components, sampling properties, and principal-component projections.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Factor analysis: factor models, principal-factor and maximum-likelihood methods, goodness of fit, rotation, and factor scores.
+
+Canonical correlation analysis: population and sample canonical correlation vectors, variables, coefficients, and properties.
+
+Discriminant analysis: Fisher's LDA, QDA, and probabilities of misclassification.
+
+Cluster analysis: distances and similarities, hierarchical methods, and k-means.
+
+Project presentations.
+
+References:
+
+Mardia, K. V., Kent, J. T., and Bibby, J. M. (1979). Multivariate Analysis. Academic Press.
+
+Johnson, R. A., and Wichern, D. W. (2019). Applied Multivariate Statistical Analysis. Pearson.
+
+Muirhead, R. J. (2009). Aspects of Multivariate Statistical Theory. Wiley.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Anderson, T. W. (2003). An Introduction to Multivariate Statistical Analysis. Wiley.
+
+Hastie, T., Friedman, J., and Tibshirani, R. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer.
+
+Bilodeau, M., and Brenner, D. (1999). Theory of Multivariate Statistics. Springer.
+
+SDS321: Internship I
+
+Credits: 0-0-0-9 (9)
+
+Prerequisites: SDS211 (only for BS Statistics and Data Science students)
+
+Objectives: The course allows students to undertake an internship in statistics and data science under the guidance of a departmental supervisor. It exposes students to real-world problems and enables them to apply tools learned in the BS Statistics and Data Science program. The grading scheme is S/X.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+The internship operates under an appropriate Memorandum of Understanding (MoU) between the Indian Institute of Technology Kanpur and the host organization. Enrollment, duration, and other relevant terms and conditions are governed by the MoU.
+
+SDS322: Internship II
+
+Credits: 0-0-0-9 (9)
+
+Prerequisites: SDS211 (only for BS Statistics and Data Science students)
+
+Objectives: The course allows students to undertake an internship in statistics and data science under the guidance of a departmental supervisor. It exposes students to real-world problems and enables them to apply tools learned in the BS Statistics and Data Science program. The grading scheme is S/X.
+
+The internship operates under an appropriate Memorandum of Understanding (MoU) between the Indian Institute of Technology Kanpur and the host organization. Enrollment, duration, and other relevant terms and conditions are governed by the MoU.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS323: Internship III
+
+Credits: 0-0-0-9 (9)
+
+Prerequisites: SDS211 (only for BS Statistics and Data Science students)
+
+Objectives: The course allows students to undertake an internship in statistics and data science under the guidance of a departmental supervisor. It exposes students to real-world problems and enables them to apply tools learned in the BS Statistics and Data Science program. The grading scheme is S/X.
+
+The internship operates under an appropriate Memorandum of Understanding (MoU) between the Indian Institute of Technology Kanpur and the host organization. Enrollment, duration, and other relevant terms and conditions are governed by the MoU.
+
+SDS324: Internship IV
+
+Credits: 0-0-0-9 (9)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Prerequisites: SDS211 (only for BS Statistics and Data Science students)
+
+Objectives: The course allows students to undertake an internship in statistics and data science under the guidance of a departmental supervisor. It exposes students to real-world problems and enables them to apply tools learned in the BS Statistics and Data Science program. The grading scheme is S/X.
+
+The internship operates under an appropriate Memorandum of Understanding (MoU) between the Indian Institute of Technology Kanpur and the host organization. Enrollment, duration, and other relevant terms and conditions are governed by the MoU.
+
+SDS325: Internship V
+
+Credits: 0-0-0-9 (9)
+
+Prerequisites: SDS211 (only for BS Statistics and Data Science students)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Objectives: The course allows students to undertake an internship in statistics and data science under the guidance of a departmental supervisor. It exposes students to real-world problems and enables them to apply tools learned in the BS Statistics and Data Science program. The grading scheme is S/X.
+
+The internship operates under an appropriate Memorandum of Understanding (MoU) between the Indian Institute of Technology Kanpur and the host organization. Enrollment, duration, and other relevant terms and conditions are governed by the MoU.
+
+SDS418: Inference I
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: MSO201, None for M.Sc. 2 yr Stats
+
+Objectives: The course begins with a gentle introduction to the exponential family of distributions. Several desired properties of the estimators like sufficiency, completeness, unbiasedness, etc. are subsequently discussed and related theoretical results are also demonstrated through examples. Further, different approaches for parameter estimation like the method of moments, maximum likelihood estimation, minimum mean square estimation, etc. are discussed. Subsequently, some basic concepts regarding statistical hypotheses testing are discussed. Here we cover ideas like simple and composite hypothesis, critical regions, Type-I and Type-II errors, and size and power of a test. Some optimal statistical hypothesis testing procedures like the most powerful test, uniformly most powerful test, unbiased test, monotone likelihood ratio test, etc. are discussed. Further, as a special case, the hypothesis tests are discussed for the exponential family case, where we discuss both the single-parameter and multi-parameter settings.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Exponential families
+
+Canonical form, Full rank
+
+Sufficiency
+
+Neyman Fisher factorization criterion
+
+Minimal sufficiency
+
+Ancillary statistic
+
+Completeness
+
+Completeness of family of distributions
+
+Completeness of statistic
+
+Basu’s theorem and its uses
+
+Rao-Blackwell theorem and its implications
+
+Unbiasedness
+
+Basic concepts
+
+Locally minimum variance unbiased estimator
+
+Uniformly minimum variance unbiased estimator
+
+Lehmann- Scheffe’s theorem and its importance
+
+Methods for finding UMVUE
+
+Method of solving
+
+Rao-Blackwellization
+
+Non-parametric families and Hoeffding’s U-statistic
+
+Information inequality and lower bounds- Hammersley-Chapman- Robbins inequality
+
+Fisher information
+
+Cramer-Rao lower bond
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Information inequality for multi-parameter case-information matrix, s-parameter exponential family
+
+Bhattacharya system of lower bounds
+
+Methods of estimation
+
+MOME
+
+MinMSE
+
+Basic concepts in statistical hypotheses testing
+
+Simple and composite hypothesis
+
+Critical regions
+
+Type-I and Type-II errors
+
+Size and power of a test
+
+Neyman-Pearson lemma and its applications
+
+Type of optimum tests and their construction using NP lemma
+
+Most powerful test
+
+Uniformly most powerful test
+
+Unbiased test and uniformly most unbiased test
+
+Monotone Likelihood ratio and testing with MLR property
+
+Testing in one-parameter exponential families
+
+One-sided hypothesis
+
+UMP and UMPU tests for different two-sided hypothesis
+
+Testing in multi-parameter exponential families
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Tests with Neyman structure, UMP and UMPU similar size-testsii. Likelihood Ratio test
+
+Confidence intervals
+
+Pivotal functions
+
+Shortest expected length confidence interval
+
+UMA and UMAU confidence intervals
+
+References:
+
+John Rice: Mathematical Statistics and Data Analysis, 3rd edition
+
+Jun Shao: Mathematical Statistics, 2nd edition
+
+George Casella and Roger Berger: Statistical Inference, 2nd edition
+
+SDS422: An Introduction to Bayesian Analysis
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: SDS418/SDS211, SDS209, or instructor's consent
+
+Objectives: The course is intended as a master's-level introduction to Bayesian inference and Bayesian computational techniques.
+
+Course Contents:
+
+Probability review: univariate and multivariate distributions and conditional distributions.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Introduction to Bayes: Bayes' theorem, Bayesian learning, frequentist versus Bayesian approaches, and problem-set discussion.
+
+Posterior summarization: univariate and multivariate summaries, posterior predictive distributions, and problem-set discussion.
+
+Conjugate priors: importance of conjugacy and posterior derivations for univariate and multivariate discrete and continuous distributions, including normal distributions.
+
+Prior elicitation and objective priors: prior elicitation, mixture priors, Jeffreys priors, other objective priors, and problem-set discussion.
+
+Bayesian computation: deterministic computation, Gibbs sampling, Metropolis-Hastings sampling, and MCMC convergence diagnostics.
+
+Software essentials: R and JAGS for Bayesian computing.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Bayesian linear models: Bayesian hypothesis testing and one- and two-sample t-tests; Bayesian linear regression including Bayesian LASSO; R-JAGS implementation; Bayesian GLMs and random-effects models; nonparametric Bayesian regression.
+
+Bayesian model comparison: Bayes factors, stochastic-search variable selection, Bayesian model averaging, cross-validation and k-fold cross-validation, DIC and WAIC, R-JAGS implementation, and posterior predictive checks.
+
+Bayesian hierarchical models: layered hierarchical models, directed acyclic graphs, and missing-data handling.
+
+Case-study demonstration: hierarchical Bayesian analysis of real datasets.
+
+Big data: case study and issues involving sampling, selection bias, and measurement error.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Frequentist properties of Bayesian methods: decision theory, bias-variance trade-off, asymptotics, and simulation studies.
+
+Lab component: probability distributions in R; Bayesian learning examples; posterior summaries and predictive distributions; conjugate and objective priors; deterministic computation; Gibbs and Metropolis-Hastings sampling; JAGS; MCMC diagnostics; model comparison; and hierarchical models using R-JAGS.
+
+References:
+
+Reich, B. J., and Ghosh, S. K. (2019). Bayesian Statistical Methods. Chapman & Hall/CRC.
+
+Marin, J.-M., and Robert, C. P. (2014). Bayesian Essentials with R. Springer.
+
+Kruschke, J. K. (2015). Doing Bayesian Data Analysis (2nd ed.). Elsevier.
+
+McElreath, R. (2020). Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed.). CRC Press.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., and Rubin, D. B. (2013). Bayesian Data Analysis. Chapman & Hall/CRC.
+
+Hoff, P. D. (2009). A First Course in Bayesian Statistical Methods. Springer.
+
+Ghosh, J. K., Delampady, M., and Samanta, T. (2006). An Introduction to Bayesian Analysis. Springer.
+
+SDS431: Basic Probability and Distribution Theory
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: None for 2-year M.Sc. students
+
+Course Contents:
+
+Limits of sequences of sets, sigma-field of events. Probability measure, and probability space. Random variables, induced probability space and probability distribution. Distribution function of univariate random variables, decomposition theorem. Expectation, moments and moment generating function. Inequalities.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Multi-dimensional random variables (random vectors): Joint, marginal,and conditional distribution functions. Independence. Moments and moment generating function. Conditional mean and conditional variance. Discrete and absolutely continuous random variables (distributions). Multinomial and multivariate normal distributions.
+
+Distribution of functions of random variables including order statistics.Properties of random vectors which are equal in distribution. Exchangeable random variables and their properties.
+
+References:
+
+K. Rohatgi and A. K. Md. E. Saleh: An Introduction to Probability and Statistics, John Wiley & Sons, 2011
+
+Kai Lai Chung: A Course in Probability Theory (3rd Edition), AcademicPress (Elsevier)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Robert B. Ash: Probability & Measure Theory (2nd Edition), Elsevier.(with contributions from Catherine A. Dol´eans-Dade)
+
+Sheldon Ross: A First Course in Probability (5th Edition), Prentice-Hall.
+
+SDS432M: Sampling Theory
+
+Credits: 3-1-0-0 (6)
+
+Prerequisites: MSO201, None for M.Sc. 2 yr Stats
+
+Course Contents: Principles of sample surveys; Simple, Stratified and unequal probability Sampling with and without replacement; ratio, product and regression method of estimation; systematic sampling; cluster and subsampling with equal unequal sizes; double sampling; sources of errors in surveys.
+
+References:
+
+W.G. Cochran: Sampling Techniques, Wiley (Low price edition available)
+
+Parimal Mukhopadhyay: Theory and Methods of Survey Sampling, Prentice Hall of India
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+P.V. Sukhatme, B.V Sukhatme, S. Sukhatme and C. Asok: Theory of Sample surveys with applications, IASRI, Delhi
+
+P.S.R.S. Rao: Sampling Methodologies and Applications, Chapman and Hall/ CRC
+
+M.N. Murthy: Sampling Theory and Methods, Statistical Publishing Society, Calcutta
+
+Z. Govindrajalu: Elements of sampling theory and methods, Prentice Hall
+
+SDS433: Real Analysis
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: MTH111M and MTH112M, none for M.Sc 2yr Stats
+
+Course Contents:
+
+Real numbers, sequences, series, tests for convergence, absolute convergence, rearrangement of terms. Open and closed sets.  Continuous functions of one real variable. Differentiation.  Riemann integration. Fundamental theorem of calculus. Computation of definite integrals. Improper integrals. Sequences of functions, and point-wise convergence. Uniform convergence; and its relation with continuity, differentiation and integration. Functions of several variables. Continuity. Partial derivatives. Differentiability. Taylor’s theorem. Maxima and minima. Double integral, Fubini's theorem, Triple integration (evaluation).
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+R. G. Bartle and D. R. Sherbert, Introduction to Real Analysis, Wiley, 2011.
+
+J. E. Marsden, A. Tromba and A. Weinstein, Basic Multivariable Calculus, Springer, 1993.
+
+T. M. Apostol, Calculus, Vols. 1 and 2, Wiley, 1991 and 1969.
+
+SDS434M: Complex Analysis
+
+Credits: 3-1-0-0 (6)
+
+Prerequisites: None for M.Sc. 2 yr Stats
+
+Course Contents: Complex Numbers, geometric representation, powers and roots of complex numbers. Functions of a complex variable. Analytic functions. CauchyRiemann equations. Elementary functions. Conformal mapping (for linear transformation), Contours and contour integration. Cauchy’s theorem, Cauchy integral formula. Power Series, term by term differentiation, Taylor series, Laurent series, Zeros, singularities, poles, essential singularities, Residue theorem and its Applications.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+J. W. Brown and R. V. Churchill, Complex Variables and Applications, McGraw-Hill, 2004.
+
+L. V. Ahlfors, Complex Analysis, McGraw-Hill, 1966
+
+SDS441: Linear Regression and ANOVA
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: SDS211
+
+Objectives: This fundamental course develops the theory and methodology of statistical modelling for applications across the social, basic, engineering, and medical sciences. It covers linear regression and ANOVA and introduces modelling techniques for real datasets that do not satisfy standard assumptions.
+
+Course Contents:
+
+Simple and multiple linear regression: least-squares and maximum-likelihood estimation and their properties.
+
+Multivariate normal distribution: definition and basic properties, distributions and independence of quadratic forms, and Cochran's theorem.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Hypothesis testing and confidence intervals: general tests of H: A beta = c and special cases; goodness-of-fit and R-squared; confidence bands, prediction intervals, simultaneous confidence regions/ellipsoids, and Bonferroni correction.
+
+Residual analysis and regression diagnostics: residuals, leverage, outlier detection and treatment, and diagnosis and remedies for curvature, non-constant variance, serial correlation, and departures from normality.
+
+Multicollinearity: implications; VIF and variance-decomposition diagnostics; canonical and principal-component regression and ridge regression.
+
+Variable selection: underfitting and overfitting; adjusted R-squared, Mallows' Cp, and cross-validation; forward, backward, and stepwise selection; AIC and BIC.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Categorical explanatory variables: indicator variables; ANOVA and ANCOVA; ANOVA tables and decomposition of sums of squares; estimation and testing.
+
+Design preliminaries, CRD, RBD, and LSD: principles and methodology and development of the corresponding analyses of variance.
+
+Generalized linear models: systematic and random components, link functions, maximum-likelihood estimation through iteratively reweighted least squares, logistic regression for binary data, and Poisson regression for count data.
+
+References:
+
+Montgomery, D. C., Peck, E. A., and Vining, G. G. (2012). Introduction to Linear Regression Analysis. Wiley.
+
+Bapat, R. (2012). Linear Algebra and Linear Models. Springer.
+
+Seber, G. A. F., and Lee, A. J. (2003). Linear Regression Analysis. Wiley.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Draper, N. R., and Smith, H. (1998). Applied Regression Analysis. Wiley.
+
+Sengupta, D., and Jammalamadaka, S. R. (2003). Linear Models: An Integrated Approach. World Scientific.
+
+Vinod, H. D., and Ullah, A. (1981). Recent Advances in Regression Methods. Marcel Dekker.
+
+SDS442: Time Series Analysis
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: SDS211
+
+Objectives: The course develops the mathematical foundations of time-series models and analysis, including stationarity, autocorrelation and partial autocorrelation, univariate and multivariate stationary processes, estimation, prediction, order selection, spectral methods, and periodogram analysis. A project gives students experience with real time-series data.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Lecture component: introduction and preliminary tests; mathematical formulation and stationarity; autocovariance and autocorrelation functions; AR, MA, and ARMA processes and their time-domain properties; invertibility; autocovariance generating functions; VAR, VMA, and VARMA processes; random sampling from stationary series; parameter estimation for AR, MA, and ARMA models; best linear prediction and PACF; model-order estimation; spectral density and estimation; spectral density of stationary linear processes; cross-spectrum for multivariate processes; spectral distribution functions; periodogram analysis.
+
+Lab component: handling time-series datasets; testing for and estimating trend and seasonality; computing ACF and PACF; modelling univariate and multivariate time series; model-order estimation; residual analysis; periodogram analysis; term-project presentations.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Brockwell, P. J., and Davis, R. A. (2013). Introduction to Time Series and Forecasting. Springer.
+
+Brockwell, P. J., and Davis, R. A. (2019). Time Series: Theory and Methods. Springer.
+
+Hamilton, J. D. (2020). Time Series Analysis. Princeton University Press.
+
+Fuller, W. A. (1995). Introduction to Statistical Time Series. Wiley.
+
+SDS443: Statistical and AI Techniques in Data Mining
+
+Credits: 3-0-1-0 (10)
+
+Prerequisites: SDS211
+
+Objectives: The course studies important statistical and AI/ML techniques used in data mining, including supervised and unsupervised learning. Students learn the mathematical foundations and practical implementation of methods for visualization, dimension reduction, clustering, density estimation, association rules, classification, regression, neural networks, and genetic algorithms.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Lecture component: introduction and preliminary concepts; principal component analysis; similarity and dissimilarity measures; cluster analysis; density estimation; association-rule mining; discriminant analysis and classification; statistical modelling; classification and regression trees; artificial neural networks; genetic algorithms.
+
+Topics include Chernoff faces; hierarchical and non-hierarchical clustering and Ward's method; k-nearest neighbors, histograms, kernels, and parametric density estimation; market-basket analysis and the Apriori algorithm; Fisher discriminant functions, Bayes classifiers, TPM- and ECM-minimizing rules, logistic discrimination, perceptron learning, SVMs, CART, multiple and kernel regression, multilayer perceptrons, feed-forward and recurrent networks, backpropagation, neurogenetic models, and self-organizing maps.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Lab component: multidimensional feature-vector visualization; data projection, clustering, and outlier detection; variants of the Apriori algorithm; kernel density estimation; Fisher LDF, QDF, logistic classification, and SVM; tree-based classifiers and random forests; neural-network model building; term-project presentations.
+
+References:
+
+Hastie, T., Tibshirani, R., and Friedman, J. (2013). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer.
+
+Webb, A. (2002). Statistical Pattern Recognition. John Wiley & Sons.
+
+Johnson, R. A., and Wichern, D. W. (2013). Applied Multivariate Statistical Analysis. Pearson.
+
+Haykin, S. S. (1998). Neural Networks: A Comprehensive Foundation. Prentice Hall.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS496: Undergraduate Project I
+
+Credits: 0-0-0-9 (9)
+
+SDS497: Undergraduate Project II
+
+Credits: 0-0-0-9 (9)
+
+SDS498: Undergraduate Project III
+
+Credits: 0-0-0-9 (9)
+
+SDS499: Undergraduate Project IV
+
+Credits: 0-0-0-9 (9)
+
+SDS515: Inference II
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites:  SDS418 / Instructor's consent.
+
+Course Contents: Group families; Principle of invariance and equivariant estimators- location family, scale family, location-scale family; General Principle of equivariance; Minimum risk equivariant estimators under location scale and location-scale families; Bayesian estimation; prior distributions; posterior distribution; Bayes estimators; limit of Bayes estimators; hierarchical Bayes estimators; Generalized Bayes estimators; highest posterior density credible regions; Minimax estimators and their relationships with Bayes estimators; admissibility; Invariance in hypothesis testing; Review of convergence in probability and convergence in distributions; consistent estimators; Consistent and Asymptotic Normal (CAN) estimators; BAN estimator; asymptotic relative efficiency (ARE); Limiting risk efficiency (LRE); Limiting risk deficiency (LRD; CRLB and asymptotically efficient estimator; large sample properties of MLE.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+E. L. Lehmann and ‎G. Casella : Theory of Point Estimation, Springer.
+
+J. O. Berger: Statistical Decision Theory and Bayesian Analysis, Springer.
+
+E. L. Lehmann and J. P. Romano: Testing Statistical Hypotheses, Springer.
+
+G. Casella and R. L. Berger: Statistical Inference, Thomson Learning.
+
+Jun Shao: Mathematical Statistics, Springer.
+
+SDS516 : Non-Parametric Inference
+
+Credits: 3-1-0-0 (11)
+
+Prerequisites: Pre-requisite: SDS418 / Instructor's consent
+
+Course Contents: Order statistics, Run tests, Goodness of fit tests, rank order statistics, sign test and signed rank test. General two sample problems, Mann Whitney test, Linear rank tests for location and scale problem, k-sample problem, Measures of association, Power and asymptotic relative efficiency, Concepts of jack knifing, Bootstrap methods.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Larry Wasserman: All of Nonparametric Statistics, Springer Texts in Statistics, 2006.
+
+J. D. Gibbons and Subhabrata Chakraborti: Nonparametric Statistical Inference, CRC Press, 2010.
+
+R. H. Randles and D. A. Wolfe: Introduction to the Theory of Nonparametric Statistics, Krieger Pub Co., 1991.
+
+SDS598 : MSc Project I
+
+Credits: 0-0-0-9 (09)
+
+SDS599 : MSc Project II
+
+Credits: 0-0-0-9 (09)
+
+SDS614: Introduction to Stochastic Calculus
+
+Credits: 3-0-0-0 [9]
+
+Prerequisites: SDS309 Probability Theory or SDS754 Probability Theory
+
+Course Contents:
+
+Preliminaries: σ-fields, random variables, Expectation, Lp spaces with respect to Probability measures (4 Lectures)
+
+Conditional Probability and Conditional Expectation (2 Lectures)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Brownian motion: Definition, Construction/Proof of existence, path properties and Martingale property (12 Lectures)
+
+Stochastic/Itô Integration: Construction, Itô isometry, properties of Itôintegral, Girsanov’s Theorem. (If time permits) Martingale Representation Theorem (12 Lectures)
+
+Stochastic Differential Equation: various notions of solutions, existence and uniqueness results (8 Lectures)
+
+Application to Mathematical Finance: Black-Scholes formula (4 Lectures)
+
+References:
+
+Bernt Oksendal, Stochastic Differential Equations - an introduction with applications, sixth edition. Universitext, Springer-Verlag, 2003.
+
+Ioannis Karatzas & Steven E. Shreve, Brownian Motion and Stochastic Calculus, 2nd Edition. Graduate Texts in Mathematics 113, SpringerVerlag, 1991.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Philip E. Protter, Stochastic Integration and Differential Equations, second edition. Stochastic Modelling and Applied Probability. SpringerVerlag, 2004.
+
+SDS636: Game Theory
+
+Credits: 3-0-0-0 (9)
+
+Prerequisites: Instructor's consent or at least one course in Linear Algebra and one course in Real Analysis.
+
+Objectives: The objective of this course is to introduce students to the mathematical foundations of game theory and develop a systematic framework for analysing strategic interactions among rational decision-makers. The course equips students to model strategic situations, understand and apply key solution concepts, and reason about the behaviour and outcomes that arise when the decisions of different agents are interdependent.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Course Contents:
+
+Introduction: Examples of games, History of Game Theory, Intuitive definition of Game Theory
+
+Normal form Games: Definition, Nash equilibrium, Notion of mixed strategies, Existence of Nash equilibrium in mixed strategies
+
+Matrix Games: Two player games, Zero-sum games, Min-max theorem, Non-zero sum
+
+games, Linear programming approach
+
+Combinatorial Games: Definition, Examples, Zermelo’s Theorem
+
+Extensive form Games: Definition, Notion of strategies (pure, mixed, and behavioural),
+
+Subgame perfect Nash equilibrium, Perfect Bayesian equilibrium, Sequential equilibrium
+
+Other notions of Equilibrium: Iterative elimination of dominated strategies, Perfect equilibrium, Proper equilibrium, Strictly perfect equilibrium, Correlated equilibrium, A characterization of Nash equilibrium
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Games under incomplete information: Definition, Static game under incomplete information, Bayesian Nash equilibrium, Signalling games, Auction
+
+Repeated Games: Definition, subgame perfect Nash equilibrium, Folk Theorems
+
+Advanced analysis on a class of Games: Cournot, Bertrand, Stackelberg, Sequential bargaining
+
+References:
+
+Maschler, M., Solan, E., Zamir, S. (2013). Game Theory, Cambridge University Press.
+
+Peters, H. (2015). Game Theory A Multi-Leveled Approach, Springer-Verlag Berlin Heidelberg.
+
+Osborne, M. J. (2000). An Introduction to Game Theory, Oxford University Press.
+
+Osborne, M. J., Rubinstein, A. (1994). A Course in Game Theory, The MIT Press.
+
+SDS643: Spatial Statistics
+
+Credits: 3-1-0-0 (11)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Prerequisites: Instructor’s Consent
+
+Course Contents: Examples of different types of spatial data and possible scientific questions: point-referenced data, areal data, pointpattern data; Review of multivariate statistical inference, Gaussian processes, Review of linear models, Review of matrix algebra; Spatial covariance and variogram, Estimation of variogram, Variogram model fitting, Spectral representation; Spatial regression and ordinary kriging, Robust kriging, Universal kriging, Simulation of spatial processes, R packages for data visualization and geostatistical modeling and applications of geostatistics; Some examples of areal datasets, conditional autoregressive models, simultaneous autoregressive models, Markov random fields; Gaussian maximum likelihood estimation and properties of the estimators; Point pattern data examples, Point referenced spatial data modeling: Inhomogeneous Poisson process, Cox process, Markov point process, Marked-Markov point process; Multivariate spatial and spatiotemporal modeling, Hierarchical spatial models for continuous and discrete responses, Remote sensing data analysis, Bayesian spatial models, Copula-based models, Large spatial data modeling, Nonstationary spatial modeling.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS652: Advanced Calculus
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: Pre-requisite: None (Only for Ph.D. students of Statistics)
+
+Course Contents:
+
+Least upper bound principle; limits, monotone sequences; subsequences, Bolzano-Weierstrass, Cauchy sequences, completeness; countable and uncountable sets; convergence of series, conditional convergence; equivalence of completeness of R; limsup, liminf, convergent series; absolute and conditional convergent, Riemann Rearrangement Theorem; convergence in R^n ; open sets and closed sets on R^n Cantor Intersection Theorem, Cantor set; limits and continuity; discontinuous functions; properties of continuous functions; uniform continuity; monotone functions; differentiation, Mean Value Theorem; Riemann integration; Fundamental Theorem of Calculus; sequence and series of functions, point wise convergence; uniform convergence, Weierstrass M-test, Dedekind test; uniform convergence and continuity; term by term integration and differentiation; power series; Taylor series, Weierstrass Approximation Theorem; analytic functions; Fourier series; differentiation of f: R^n → R^m partial derivatives; chain rule; higher derivatives, local extrema; Taylor expansion; multiple integrals, determinant and volumes, Jacobians.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+K.R. Davidson and A.P. Donsig: Real Analysis and Applications, Springer, 2010.
+
+R.S. Strichartz: The Way of Analysis, Jones and Bartlet Mathematics, 2000.
+
+SDS665: Asymptotic Statistics
+
+Credits: 3-0-0-0 (9)
+
+Prerequisites: Instructor’s Consent
+
+Course Contents: Introduction Approximate Statistical Procedures; Asymptotic Optimality Theory Review of Stochastic Convergence Basic Theory, Stochastic and 0 Symbols, Characteristic Functions; AlmostSure Representations, Convergence of Moments, Convergence Determining Classes; Law of the Iterated Logarithm, Lindeberg Feller Theorem, Convergence in Total Variation Delta Method Basic Result, Variance Stabilizing Transformations; Higher Order Expansions, Uniform Delta Method; Moments M and Z Estimators Introduction; Consistency; Asymptotic Normality; Estimated Parameters, Maximum Likelihood Estimators, Classical Conditions, OneStep Estimators; Rates of Convergence; Argmax Theorem W. Contiguity Likelihood Ratios; Contiguity. Local Asymptotic Normality Introduction, Expanding the Likelihood Convergence to a Normal Experiment, Maximum Likelihood; Limit Distributions under Alternatives; Local Asymptotic Normality. Stochastic Convergence in Metric Spaces Metric and Normed Spaces; Basic Properties; Bounded Stochastic Processes. Empirical Processes Empirical Distribution Functions; Empirical Distributions; Goodness of Fit Statistics; Random Functions; Changing Classes; Maximal Inequalities Functional Delta Method von Mises Calculus; Hadamard Differentiable Functions; Some Examples Bootstrap Introduction, Consistency; Higher Order Correctness W.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS673: Robust Statistical Methods
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201 / Instructor's consent
+
+Course Contents:  Brief review of simple and multiple linear regression along with the outlier detection methods. Basic idea of non-parametric regression. Measures of robustness in different statistical problems (e.g., the influence function and the breakdown point). Least squares and least absolute deviations in regression model; Least median squares and least trimmed squares estimators; Different statistical properties and the computational algorithms of the robust estimators of the location and the scale parameters (for the univariate as well as the multivariate data); Robust measure of association and robust testing of hypothesis problems. Data-depth and the robust estimators based on the data-depth; Multivariate quantiles and its properties along with the computational algorithm; Possible extension of the depth-based and the quantile-based estimators for the functional data. Some applications of robust estimators (e.g., robust classification and cluster analysis), Robust model selection problems.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+P J Rousseeuw and A M Leroy: Robust Regression and Outlier Detection, Wiley, 2003
+
+P J Huber: Robust Statistics, Wiley 2009
+
+A W van der Vaart: Asymptotic Statistics, 2000
+
+R J Serfling: Approximation Theorems of Mathematical Statistics, Wiley, 2002
+
+B. W. Silverman: Density Estimation for Statistics and Data Analysis, Chapman and Hall, 1999
+
+SDS676: Econometrics
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: SDS441/ Instructor's Consent
+
+Course Contents: Brief review of topics in Multiple Linear Regression Analysis; Econometric tests on Heteroscedasticity and Autocorrelation; Restricted Regression; Errors in Variables; Functional Form and Structural Change; Stochastic Regressors; Instrumental Variable (IV) Estimation; Large Sample Properties of Least Square and IV estimators; Panel Data Models; Systems of Regression Equations -Seemingly Unrelated Regression Equations (SURE) & Multivariate Multiple Linear Regression; Simultaneous Equation Models - Structural and Reduced forms, Rank and Order conditions for Identifiability, Indirect Least Squares, 2-stage Least Squares and Limited Information Maximum Likelihood methods of estimation, k-class estimators and Full Information Maximum Likelihood Estimation; Models with lagged variables - Autoregressive Distributed Lag (ARDL) Models and Vector Autoregressive (VAR) Models; Topics on Econometric Time Series Models - Autoregressive and Generalized Autoregressive Conditionally Heteroscedastic (ARCH & GARCH) Models, Unit Root, Co-integration and Granger Causality.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS681: Statistical Decision Theory
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO 201 / Instructor's Consent
+
+Course Contents: Decision function, Risk function, Optimal decision rules, Admissibility &completeness, The minimax theorem, The complete class theorem, Sufficient statistics. Invariant decision problems, Admissible & minimax invariant rules, The Pitman estimates, Estimation of a distribution function
+
+SDS682: Order Statistics
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201 / Instructor's Consent
+
+Course Contents: Basic distribution theory, Moments of order statistics including recurrence relations, Bounds and approximations, Estimation of parameters, Life testing, Short cut procedures, Treatment of outliers, Asymptotic theory of extremes.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS684: Statistical Simulation, Data Analysis & Model Building
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites:  MSO201 / Instructor's Consent
+
+Course Contents:  Introduction to simulation & Monte-Carlo studies; Generation of random variables. Interactive computational & graphical techniques in model building; Data based inference methods such as JackKnife, Bootstrap and cross validation techniques; Use of statistical packages in data analysis
+
+SDS686: Nonlinear Regression
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201 / Instructor's Consent
+
+Course Contents:  Estimation methods, Commonly encountered problems in estimation, Statistical inference, Multi-response nonlinear model, Asymptotic theory, Computational methods.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS689: Linear & Nonlinear Models
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: None
+
+Course Contents: Generalized inverse, Eigen values & canonical reduction of matrices, Least square theory, Regression analysis. Unified theory of least squares, Variance component estimation, Minimum mean square error estimation & ridge regression, Generalised linear and non-linear models.
+
+References:
+
+Montgomery, D. C., Peck, E. A., and Vining, G. G. (2012). Introduction to Linear Regression Analysis. John Wiley & Sons, Hoboken, New Jersey, 5th edition.
+
+Hosmer, D. W. and Lemeshow, S. (2000). Applied Logistic Regression.John Wiley & Sons.
+
+Douglas M. Bates and Donald G. Watts (1988). Nonlinear RegressionAnalysis and Its Applications. John Wiley & Sons, Inc.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS690: Probabilistic Theory of Pattern Recognition
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: SDS309 or MSO201, or consent of the instructor.
+
+Objectives: This course will present different methods of statistical pattern recognition for multivariate data, and use results from probability theory to study their asymptotic properties.
+
+Course Contents:
+
+Results of convergence in almost sure sense and in probability, DCT, Basic inequalities, Conditional expectation, Methods of re-sampling. Introduction to discriminant analysis. Bayes’ risk, and its properties. Distance measures for density functions, and its relation with Bayes’ risk. Empirical Bayes’ risk and its convergence. Parametric methods: Maximum likelihood principle, Fisher’s linear discriminant function (LDA), quadratic discriminant analysis (QDA). Consistency results. Logistic regression, Linear support vector machines (SVM), Maximum linear separation and Projection pursuit. Non-parametric methods: Kernel discriminant analysis (KDA), nearest neighbor classification (kNN). Universal consistency results. Idea of curse of dimensionality, and the use of dimension reduction techniques like random projections, principal component analysis, etc. Semi-parametric methods: Mixture Discriminant Analysis (MDA), Non-linear SVM, Hybrid classifiers, Classification using data depth. Related consistency results.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Pattern Classification by Richard Duda, Peter Hart and David Stork.Wiley.
+
+A Probabilistic Theory of Pattern Recognition by Luc Devroye, L´aszl´oGy¨orfi and G´abor Lugosi. Springer.
+
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman. Springer.
+
+SDS695: Empirical Processes
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites:  SDS309 Probability Theory or equivalent, SDS433 Real Analysis or equivalent
+
+Objectives:
+
+Course Contents:
+
+Preliminaries: Different Modes of Convergence, Law of Large Numbers,Motivations. (6 Lectures)
+
+Function classes and their complexities, Glivenko-Cantelli class of functions. (8 Lectures)
+
+Symmetrization, Concentration Bounds. (4 Lectures)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Vapnik-Cervonenkis (VC) classes of functions, Covering and Bracketing numbers, Examples: M-estimators. (8 Lectures)
+
+Donsker class, Uniform Central Limit Theorem, Examples. (6 Lectures)
+
+Arg-min continuous mapping theorem, Applications in Statistics: M-estimators, Lasso, Bootstrap consistency etc. (6 Lectures)
+
+More on Concentration Bounds/ Weak Convergence on Polish Spaces. (4 Lectures)
+
+References:
+
+W. van der Vaart and Jon A. Wellner. (1996). Weak Convergence and Empirical Processes, with Applications to Statistics. Springer Series in Statistics.
+
+Michael R. Kosorok. (2008). Introduction to Empirical Processes and Semiparametric Inference. Springer Series in Statistics.
+
+Sara van de Geer. (2009). Empirical Processes in M-Estimation. Cambridge Series in Statistical and Probabilistic Mathematics.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Richard M. Dudley (2014). Uniform Central Limit Theorems. Cambridge Studies in Advanced Mathematics.
+
+G´abor Lugosi, Pascal Massart, and St´ephane Boucheron (2014). Concentration Inequalities: A Nonasymptotic Theory of Independence. Oxford University Press.
+
+Zhengyan Lin and Zhidong Bai. (2010). Probability Inequalities. Springer.
+
+SDS697: MS Project I
+
+Credits: 0-0-0-9 (9)
+
+SDS698: MS Project II
+
+Credits: 0-0-0-9 (9)
+
+SDS699: MS Project III
+
+Credits: 0-0-0-9 (9)
+
+SDS700: MS Project IV
+
+Credits: 0-0-0-9 (9)
+
+SDS707: Markov Chain Monte Carlo
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: SDS309 or equivalent, SDS431 or equivalent. Familiarity with Bayesian Analysis is preferred (SDS422 or equivalent), and consent of instructor.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Objectives: The course will provide a theoretical foundation for constructing and studying Markov chain Monte Carlo (MCMC) algorithms, along with tools for analyzing MCMC output. Special focus will be given on rates of convergence of a Markov chain and comparing different MCMC algorithms. The course will primarily focus on discrete-time Markov chains on general state spaces. The objective is to equip students with the tools to develop, study, and implement an MCMC algorithm for any given problem.
+
+Course Contents: This course presents the theoretical and practical challenges of implementing a discrete-time general state space Markov chain Monte Carlo algorithm. Metropolis-Hastings, Gibbs samplers, and other component-wise algorithms are discussed in detail. The theoretical part of the course focuses on studying rates of convergence of Markov chains, and establishing the existence of a Markov chain central limit theorem. The practical challenges of implementing these algorithms, such as step-sizes, stopping criterion, output analysis, and implementation in statistical software are also discussed in detail.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Meyn, Sean P., and Richard L. Tweedie. Markov chains and stochastic stability. Springer Science and Business Media, 2012.
+
+Nummelin, Esa. General irreducible Markov chains and non-negative operators. Vol. 83. Cambridge University Press, 2004.
+
+Brooks, Steve, Andrew Gelman, Galin Jones, and Xiao-Li Meng, eds.Handbook of Markov chain Monte Carlo. CRC press, 2011.
+
+Lindvall, Torgny. Lectures on the coupling method. Courier Corporation,2002.
+
+Roberts, Gareth O., and Jeffrey S. Rosenthal. ”General state space Markov chains and MCMC algorithms.” Probability surveys 1 (2004): 20-71.
+
+Jones, Galin L. ”On the Markov chain central limit theorem.” Probability surveys 1, no. 299-320 (2004): 5-1.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Glynn, Peter W., and Ward Whitt. ”The asymptotic validity of sequential stopping rules for stochastic simulations.” The Annals of Applied Probability 2, no. 1 (1992): 180-198.
+
+Roberts, Gareth O., and Jeffrey S. Rosenthal. ”Optimal scaling for variousMetropolisHastings algorithms.” Statistical Science16, no. 4 (2001): 351367.
+
+Jarner, Søren Fiig, and Ernst Hansen. ”Geometric ergodicity of Metropolis algorithms.” Stochastic Processes and their Applications 85, no. 2 (2000): 341-361.
+
+SDS754: Probability Theory
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: None (Only for Ph.D. students of Statistics)
+
+Course Contents:
+
+Algebras and sigma algebras; Measurable spaces; Methods of introducing probability measures on measurable space;
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Random variables; Lebesgue integral; Expectation; Conditional probabilities and conditional expectations with respect to sigma algebras;
+
+Radon Nikodym theorem; Inequalities of random variables; Fubini’s theorem;
+
+Various kinds of convergence of sequence of random variables; Convergence of probability measures;
+
+Central limit theorem; delta method; Infinitely divisible and stable distributions; Zero or One laws;
+
+Convergence of series; Strong law of large numbers; Law of iterated logarithm; Matringales and their basic properties.
+
+References:
+
+L.Chung: A Course in Probability Theory, Third Edition, AcademicPress, 2001.
+
+R.Bhat: Modern Probability Theory, Third Edition, New Age International (P) Ltd, 2004.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+Robert B. Ash, Catherine Doleans-Dade: Probability and Measure Theory, Harcourt Academic Press, 2000.
+
+Lo´eve: Probability Theory-I, Graduate Text in Mathematics, FourthEdition, Springer, 1977.
+
+K. Basu: Measure Theory and Probability, PHI Learning Private Limited, 2012.
+
+SDS755: Statistical Inference
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites:  Only for PhD Statistics students
+
+Course Contents:  Population and samples; Parametric and nonparametric models; Exponential and location scale families; Sufficiency and minimal sufficiency; Complete statistics;Unbiased and UMVU estimation; Asymptotically unbiased estimators; Method of moments; Bayes estimators; Invariance; Minimaxity and admissibility; The method of maximum likelihood; Asymptotically efficient estimation; Variance estimation; The jacknife; The bootstrap; The NP lemma; MLR; UMP tests for one and two sided hypotheses; Unbiased and similarity; UMPU tests in exponential families; Invariance and UMPI tests; LR tests; Asymptotic tests based on likelihoods; Chi–square tests; Bayes tests; Pivotal quantities; Inverting acceptance regions of tests; The Bayesian confidence interval; Prediction sets; Length of confidence intervals; UMA and UMAU confidence sets; Invariant confidence sets.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS781: Statistical Pattern Recognition
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201: Probability and Statistics, consent of the instructor.
+
+Objectives: This course will present different methods of statistical pattern recognition for multivariate data.
+
+Course Contents: Introduction to pattern recognition supervised and unsupervised classification. Dimension reduction techniques: principal component analysis, multidimensional scaling features for maximum linear separation projection pursuit. Parametric methods for discriminant analysis: Fisher’s linear discriminant function. Linear and quadratic discriminant analysis regularized discriminant analysis. Linear and nonlinear support vector machines. Cluster analysis: hierarchical and non-hierarchical techniques classification using Gaussian mixtures. Data depth: different notions of depth, concept of multivariate median, application of depth in supervised and unsupervised classification.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Pattern Classification by Richard Duda, Peter Hart and David Stork.Wiley.
+
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman. Springer.
+
+SDS784: Statistical Reliability Theory
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201 or consent of the instructor
+
+Course Contents:
+
+Reliability concepts and measures, Components and systems, Coherent systems, Cuts and Paths, Modular decomposition, Bounds on system reliability; Life distributions, Survival functions, Hazard rate, Residual life time, Mean residual life function, Common life distributions, Proportional Hazard models; Notions of aging, Aging properties of common life distributions, closure under formation of coherent structures, Convolutions and mixture of these cases; Univariate and bivariate shock models, Notions of bivariate and multivariate and dependence; Maintenance and replacement policies, Availability of repairable systems, Optimization of system reliability with redundancy.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+References:
+
+Statistical Theory of Reliability and Life Testing, by Richard E Barlow and Frank Proschan, Holt Reinhart and Winston, Inc.;
+
+Life Time Data: Statistical Models and Methods, by Jayant V Deshpande and Sudha G Purohit, World Scientific;
+
+Statistical Reliability Theory, by I B Gertsbakh, Marcel Dekker, Inc., NewYork and Basel;
+
+Life Distributions, by Albert W Marshall and Ingram Olkin, Springer Series in Statistics.
+
+SDS784: Econometric Theory
+
+Credits: 3-1-0-0 (9)
+
+Prerequisites: MSO201/ Instructor's Consent
+
+Course Contents: Multiple linear model, estimation of parameters under spherical and non-spherical disturbances by least squares and maximum likelihood methods, tests of hypothesis, R2 and adjusted R2. Prediction, within and outside sample predictions. Problem of structural change, tests for structural change. Use of dummy variable. Specification error analysis related to explanatory variables, inclusion and deletion of explanatory variables. Idea of Stein rule estimation. Exact and stochastic linear restrictions, restricted and mixed regression analysis. Multi collinearity, problem, implications and tools for handling the problem, ridge regression. Heteroskedasticity, problem and test, estimation under Heteroskedasticity. Autocorrelation, Durbin Watson test. Errors in variables, inconsistency of least squares method, methods of consistent estimation, instrumental variable estimation. Seemingly unrelated regression equation model, least squares, generalized least squares and feasible generalized least squares estimators. Simultaneous equations model, structural and reduced forms, rank and order conditions for identifiability, indirect least squares, two stage least squares and limited information maximum likelihood methods of estimation. Additional topics like as Panel data models and unit roots & co integration.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+SDS801: PG Seminar Course
+
+Credits: S/X
+
+SDS888M: Introduction to Profession and Communication Skills
+
+Credits: S/X
+

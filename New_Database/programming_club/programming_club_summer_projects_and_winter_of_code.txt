@@ -1,0 +1,2326 @@
+PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS
+Name: PClub projects: summer camp projects (2016, 2017, 2023, 2025) and WoC (Winter of Code 2019) LifeIITK projects, with weekly resources and mentors.
+Type: STUDENT CLUB - Programming Club (PClub), a technical club of IIT Kanpur's Science and Technology Council; website https://pclub.in. Snapshot: scraped in 2026 (latest posts dated up to Oct 2026).
+
+=== Handwriting Recognition using Machine Learning (Jan 24, 2016) ===
+Source: https://pclub.in/project/2016/01/24/handwritingrecognition/
+
+1 min read
+
+Jan 24, 2016
+
+Handwriting Recognition using Machine Learning
+
+summer16
+
+project
+
+Handwriting recognition (or HWR[1]) is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens and other devices. Machine Learning is incorporated to solve this interesting problem. Using neural networks and optimization the model learns the similarities of the training datasets which have a common result. Spell corrector is also incorporated to increase accuracy upto 97%.
+
+The program was developed on Lua using Torch libraries like image, nn, optim, etc to detect Handwritten text. Given image of a paragraph as input it can segment various lines and then further each line into individual alphabets including spaces and further recognize them. To increase the accuracy of the output, a spell corrector was incorporated in the program. Using a million words from Sir. Arthur Conan Doyle ’s novel and words from dictionary, a database was created, through which recognized words were compared by applying methods like Bayes’ Theorem the correct word was replaced.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Handwriting Recognition using Machine Learning (Jan 24, 2016]
+A database was made as a table in Torch using only images of alphabets android digits. In order to expand the database, letters were also rotated by +10 degrees and -10 degrees and added to the database hence constituting more than 10,000 training images. More than 500 images were also maintained as test images to check accuracy
+
+Received the Special Mention during the Science & Technology Summer Camp 2016.
+
+Website: http://prathamv28.github.io/
+LaTeX Report: report.pdf
+Github Wiki: Simulati-ON Wiki
+
+=== Smart Mirror (Jul 6, 2016) ===
+Source: https://pclub.in/project/2016/07/06/smartmirror/
+
+1 min read
+
+Jul 6, 2016
+
+Smart Mirror
+
+summer16
+
+project
+
+Smart Mirror
+
+Smart Mirror is a project designed to get you ready for the day. It displays
+the current weather, your schedule for the day, notifications from your mobile
+and performs facial recognition so that the same software works for all users
+using the mirror.
+
+^ The above image will be superimposed over the reflection from mirror displaying only the bright portions.
+
+Weather is obtained using your current location
+
+Schedule is obtained from Google Calendar
+
+Notifications are mirrored from the user’s mobile phone via PushBullet
+
+Facial Recognition ensures that notifications/schedule displayed are those of the person standing in front of the mirror
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Smart Mirror (Jul 6, 2016)]
+Received the Best Applicative Project during the Science & Technology Summer
+Camp 2016.
+
+Website: http://11000011.github.io/Smart-Mirror
+LaTeX Report: report.pdf
+Github Wiki: Smart Mirror Wiki
+
+=== N-Body Simulation (Aug 26, 2016) ===
+Source: https://pclub.in/project/2016/08/26/nbodysimulation/
+
+1 min read
+
+Aug 26, 2016
+
+N-Body Simulation
+
+summer16
+
+project
+
+N-body simulation
+
+The N-body simulation is an interesting topic in Physics, and finds applications in astrophysics, biomoecular studies and other areas of science. Mathematical soultions of this problem are not possible, so numerical methods are necessary for visualisation. The problem basically involves several bodies with defined properties and also a well defined force that acts between each of these bodies, and involves studying how the system evolves with time. Parallel programming is used for increasing performance, and problems of this type are ideally suited for the parallel programming paradigm.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > N-Body Simulation (Aug 26, 2016)]
+^ This is a screenshot of a simulation in action with 5 bodies. The program works well with 20 bodies.
+
+OpenACC is used for parallel programming
+
+Gnuplot is used for visulisation of data
+
+Performance improvement over sequential code easily apparent
+
+Uses compiler pgcc. For testing of non parallel programs, the files can also be compiled using gcc
+
+Received the Best Research Project during the Science & Technology Summer
+Camp 2016.
+
+Website: http://sagnikb.github.io/Simulati-ON/
+LaTeX Report: report.pdf
+Github Wiki: Simulati-ON Wiki
+
+=== Forex Prediction (Sep 23, 2016) ===
+Source: https://pclub.in/project/2016/09/23/Forex/
+
+1 min read
+
+Sep 23, 2016
+
+Forex Prediction
+
+summer16
+
+project
+
+ML
+
+PREDICTING FOREIGN EXCHANGE RATES
+
+About the project
+
+The project is designed to predict foreign exchange rates. It takes opening , maximum and minimum price as inputs and learns and create the model from the trainig data and then you can use that model to predict the closing price of foreign exchange. Training data should be large enough (at least 60,000 sets) in order to predict the output precisely. In our project we are testing our model on a validation set and printing the accuracy as final output.
+
+What we learnt
+
+After completing this project we became well versed with Lua and Torch. Also, one learns the basic concepts involved in the construction of neural networks and the various machine learning algorithms.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Forex Prediction (Sep 23, 2016)]
+How to use
+
+Install torch from this link.
+Download free forex data from here and convert the csv file into txt file separated by ;.
+This data will form your training and validation set. Download the code from here and run on your system by using th filename
+You will also see a graph plot between the expected value and predicted value.
+
+How does the code work
+
+Well, the program uses gradient descent algorithm and uses a test data set to train itself. This is necessary for the program to learn and this model is saved. Now, this saved model is reloaded in a new program and there it predicts the values for the validation set. Then the actual values and obtained values are obtained on the graph.
+
+=== Handwriting Recognition By Machine Learning (Sep 23, 2016) ===
+Source: https://pclub.in/project/2016/09/23/Ml_HR/
+
+1 min read
+
+Sep 23, 2016
+
+Handwriting Recognition By Machine Learning
+
+summer16
+
+project
+
+ML
+
+Hand writing Recognition by Machine Learning
+
+This project uses Neural Network Modelling  for identification of Handwriting from Optical Images.
+Artificial Neural Network is a network inspired by biological neural networks and is one of the most advanced techniques in Artificial Intelligence research.
+Our software  can recognize handwritten text from any image by first segmenting the image into segments by using binary logistic regressions and brute force segementation and then applying multi class logistic regression for character recognition on these segments.
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Handwriting Recognition By Machine Learning (Sep 23, 2016)]
+Our Neural Network Model  can learn any individual person’s handwriting since it  learns English Alphabets and Hindu Arabic from any labelled data of images.
+We trained our model over a data set containing over 65000 data points.
+The CNN model used advanced Convolution Neural Network so that it could train even over data points with less dimensions.
+
+^ This is a screenshot of our program predicting a character and also show how our network features works.
+
+iTorch Notebook is used for executing the code.
+
+Torch Framework is used for implementing the Neural Network Architecture.
+
+This software can be used in varied number of applications such as:
+
+Converting paper book libraries into digital libraries.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Handwriting Recognition By Machine Learning (Sep 23, 2016)]
+Identifying  an individual’s handwriting in forensic science.
+
+Converting text written individual’s handwriting into someone else’s handwriting.
+
+Helping blind people to read by converting text to audio.
+
+Received the Special Mention Award during the Science & Technology Summer
+Camp 2016.
+
+Website: http://sshanu.github.io/ml_HR/
+Project Timeline Video: https://youtu.be/z7tzr_anlJs
+Github Wiki: Ml_HR Wiki
+
+=== WiFi Captive Portal with Dashboard (Sep 23, 2016) ===
+Source: https://pclub.in/project/2016/09/23/wifiDash/
+
+1 min read
+
+Sep 23, 2016
+
+WiFi Captive Portal with Dashboard
+
+summer16
+
+project
+
+Web Development
+
+Wifi Portal
+
+Dashboard
+
+WIFI CAPTIVE PORTAL AND ADMINISTRATOR DASHBOARD
+
+Synopsis
+
+The objective of the project was to create a system for authenticating users for free WiFi and a dashboard for the management of the same.
+When the user connects to the WiFi network, the user is prompted to type in his/her mobile number. The system will generate an OTP and the OTP is sent to the user via SMS. The user is prompted to enter the OTP. If the codes match, the user is then given limited access to the internet.
+
+Wifi Login Portal: Authentication using Mobile Number.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > WiFi Captive Portal with Dashboard (Sep 23, 2016)]
+Dashboard showing summary of connected devices.
+
+Tasks
+
+The project had following main tasks to perform:
+
+Configuring the router through Nodogsplash (OpenWrt) for creating a framework for splash screen.
+
+Using Google Firebase to store the data as json files on global database.
+
+Using Django framework to run a local server.
+
+Using Django to link all the data stored into the Dashboard dynamically.
+
+Creating Sign-in/ OTP pages and Admin Dashboard using html, Bootstrap CSS and Javascript, Morris Charts, etc.
+
+Dependencies
+
+Router
+
+The router used for the project was running on Openwrt v15.05.1 (Chaos Calmer). The specific build used for the project can be found here. The following extra packages were also installed:
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > WiFi Captive Portal with Dashboard (Sep 23, 2016)]
+NodogSplash
+
+Server
+
+The following dependencies are needed to be installed, in order to run the server which handles the authentication of users:
+
+Django v1.9.7
+
+BeautifulSoup4
+
+requests
+
+python-firebase(https://github.com/mikexstudios/python-firebase)
+
+External Services
+
+The following external services were also used:
+
+Gupshup Enterprise edition
+
+Firebase
+
+Awarded the Best Project under PClub during SnT Summer Camp ‘16.
+
+Website: https://abhinavtripathi95.github.io/
+Github Link: https://github.com/jayaaditya/adurcup-iitk-rc1
+
+=== Air War Unity (Dec 23, 2016) ===
+Source: https://pclub.in/project/2016/12/23/Air-war/
+
+1 min read
+
+Dec 23, 2016
+
+Air War Unity
+
+summer16
+
+project
+
+Air war
+
+This is a single player air-fight based game built on Unity3D platform. The scripts were written in C# language using Microsoft Visual Studio
+
+This game comprises of two modes-
+
+Arcade Mode: The war is fought on three battle ground. One has to lead his forces through all these battlegrounds to lead his forces to victory.
+
+Desert
+
+Hills
+
+Icy Mountains
+
+Survival Mode: In this one has to survive in the battlefield as long as he can. However, battleground doesn’t change.
+
+Received a Special Mention during the Science & Technology Summer Camp 2016.
+
+Github: Air War
+
+Video: Air War(Youtube)
+
+=== Web Forum (Jan 8, 2017) ===
+Source: https://pclub.in/project/2017/01/08/web_forum/
+
+1 min read
+
+Jan 8, 2017
+
+Web Forum
+
+summer16
+
+project
+
+Web forum
+
+This project is a forum where you can Read posts, Write , Discuss , Share your views and Ask your questions. It organizes all content in various tags to make it easier for you to connect with people of same interests. Here ideas and views on a particular issue can be exchanged.
+
+Ckeditor and kcfinder provides you with the tools you may feel the need of to make your post interactive.
+
+Phpmailer is used to send emails for user verification making it secure.
+
+Use of materealizecss and bootstrap makes the portal interactive and responsive.
+
+Back-end programming is coded in php and database stored using mysql.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Web Forum (Jan 8, 2017)]
+Website: https://heyitssat.github.io/
+Github Wiki: Forum wiki
+
+=== Ethical Hacking (Jan 31, 2017) ===
+Source: https://pclub.in/project/2017/01/31/Ethical-Hacking/
+
+1 min read
+
+Jan 31, 2017
+
+Ethical Hacking
+
+summer16
+
+project
+
+‘Ethical Hacking’ was a ‘project’ under the PClub with an aim to familiarise the campus junta with the field and to prepare for CTFs.
+After an initial reading on HTML, Javascript and PHP, we moved on to beginner challeges - Bandits and Natas. These were helpful for learning basic bash commands and web security. The challenges on Hack This Site!, primarily the javascript challenges were also attempted.
+
+We also completed the first two weeks of the Cyber Security course on Coursera.
+
+Apart from this, we also read basic assembly language and binary exploitation. First few challeges on MicroCorruption were completed.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Ethical Hacking (Jan 31, 2017)]
+We also participated in an intra-campus CTF and attempted a few archived challenges of Backdoor, SDS Labs.
+
+Link to the Project Report
+
+=== Antaragni-App (Mar 18, 2017) ===
+Source: https://pclub.in/project/2017/03/18/Antaragni_App/
+
+1 min read
+
+Mar 18, 2017
+
+Antaragni-App
+
+summer16
+
+project
+
+Antaragni App 16
+
+Synopsis
+
+The objective of this project was to update the android app Antaragni-App 15 making it more dynamic and user-friendly for the Antaragni-16, the Annual cultural festival of IITK. Major changes include integration with the online database of Antaragni.
+The App is available at Android Play Store
+
+Updates Included
+
+Integrating Real-Time database
+
+Extending its support to API 24(permission access)
+
+Integrating Facebook Sign-in
+
+Updating Theme(Hues of Bliss)
+
+Various Bug fixes in Antaragni-App 15
+
+Inclusion of Google Map services
+
+Github Repositories
+
+Project-Ant : https://github.com/navya/Project-Ant
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Antaragni-App (Mar 18, 2017)]
+Antaragni-App : https://github.com/kunalapila/Antaragni-App
+
+Project Timeline
+
+At first changes were made to the Project-Ant repository during summers-16. Afterwards during mid-october work shifted to a new repository Antaragni-App using basic framework of Project-Ant in collaboration with the Updates.
+
+=== AlgoArena (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/algoarena/
+
+1 min read
+
+Nov 30, 2023
+
+AlgoArena
+
+summer23
+
+project
+
+AlgoArena
+
+The project was meant to introduce the mentees to the world of Competitive Programming and teach various algorithms and techniques from the ground up. There were also weekly contests meant to track the progress of the mentees.
+
+The topics covered in the project were:
+
+STL Containers
+
+Sorting Custom data type
+
+Sieving Technique
+
+Bitwise Operator, bitset, and bitmasking
+
+Divide and Conquer
+
+Modular Arithmetic and Number Theory
+
+Greedy Algorithms
+
+Binary Search
+
+Dynamic Programming
+
+Graph and Trees
+
+Graph Transversal Technique
+
+BFS and DFS
+
+Disjoint Set Union(DSU) data structure
+
+Binary Lifting
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > AlgoArena (Nov 30, 2023)]
+Minimum Spanning Tree(MST)
+
+Kruskal’s Algorithm
+
+Dijkstra’s Algorithm
+
+Bitmask DP
+
+Square Root Decomposition
+
+Segment Tree
+
+Floyd Warshall Algorithm
+
+The 5 contests were held on - May 23, May 31, June 5, June 11, and June 30.
+
+=== Intro to Infosec (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/intro_to_infosec/
+
+1 min read
+
+Nov 30, 2023
+
+Intro to Infosec
+
+summer23
+
+project
+
+Intro to Infosec
+
+The project was meant to introduce the mentees to the nodes of “Hacking”. It also introduced them to the variety of past vulnerabilities that existed and were exploited and would help them think and develop ways to avoid recreating such problems. And to provide enough experience in each of these fields with their tools to jump into any CTF(Capture the Flag).
+
+The entire time mentees were introduced to various topics such as :
+
+UNIX Filesystem, its commands, Filesystem hierarchy, and Vim
+
+Version control systems such as Git and its terminologies, and formatting languages like Markdown.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Intro to Infosec (Nov 30, 2023)]
+Bash(Bourne Again Shell), a command-line interface shell program, introduction to bash scripting.
+
+Web exploitation and OSI(Open Systems Interconnect ) Models along with its different layers.
+
+Introduction to APIs and  REST API calls.
+
+Different tools and web applications such as Burp Suite, OWASP ZAP, Nmaps, and DVWA were introduced.
+
+Mentees were introduced to the vast world of cryptography. Methods of Cryptography like XOR and encryption systems such as Substitution Cipher, Caesar Cipher, and Vigenere Cipher were part of this domain.
+
+Hashing functions were brought in which are essentially one-way functions that theoretically provide a unique output for every input.
+
+Mentees were asked to complete certain challenges on microcorruption.com and document the approach in a markdown file with relevant screenshots.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Intro to Infosec (Nov 30, 2023)]
+The last part of the project consisted of Reverse Engineering which is the process of finding what a program does and through what stages it achieved a result by analyzing the result. If simplified we can say that this is the decompilation of the low-level programs and binaries to higher-level assemblies.
+
+=== LampStack (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/lampstack/
+
+1 min read
+
+Nov 30, 2023
+
+LampStack
+
+summer23
+
+project
+
+Sumarizzing
+
+The LAMP Stack project, is a comprehensive learning program, designed to teach 16 mentees various aspects of web development and server management. The acronym “LAMP” stands for Linux, Apache, MySQL, and PHP/Python/Perl, which are the key components used in web development.
+
+Here’s a breakdown of the project:
+
+Learning Goals: Participants gained hands-on experience in server operations, website development, and deployment strategies.
+
+Curriculum Highlights:
+
+Weeks 1-2: Basic server setup, networking protocols, and virtual hosting.
+
+Weeks 3-4: Security measures, user authentication, and web directory management.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > LampStack (Nov 30, 2023)]
+Weeks 4-5: Website development with HTML, CSS, Bootstrap, JavaScript, and Docker containerization.
+
+Week 6: Database connectivity, AWS deployment, SSL implementation, and hosting on AWS.
+
+Week 7: Advanced topics like Tmux, proxies, CI/CD using Jenkins, and server containerization.
+
+Evaluation:
+
+Mid-term: Hosted a diverse-access website.
+
+End-term: Containerization of the server for enhanced scalability.
+
+Key Tools:
+
+Git, Vim, CentOS VMs, Docker for development.
+
+AWS for website deployment and hosting.
+
+Practical Application: Participants applied their knowledge by deploying websites on AWS, ensuring a practical understanding of server management and development practices.
+
+=== Mastering Web 3.0 (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/masteringweb3/
+
+2 min read
+
+Nov 30, 2023
+
+Mastering Web 3.0
+
+summer23
+
+project
+
+Mastering Web3.0
+
+The project aimed at introducing Web3 to the campus junta along with developing a Web3 ecosystem at IIT Kanpur. The tasks assigned to the mentees covered the basics of blockchains, such as hashing, cryptography, and mining, along with development on Ethereum.
+
+The tasks were set in Solidity, a programming language meant to write smart contracts that can be deployed on the Ethereum blockchain.
+
+The project consisted of 4 total tasks:
+
+The first task was based on mining. The task outline was to find an integer x that could be appended to the end of an input string such that the hash of this entire string was less than a given target. repo
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Mastering Web 3.0 (Nov 30, 2023)]
+The second task was to complete a basic Election Smart Contract, which was meant to introduce the mentees to the Solidity Language. repo
+
+The third task was based on Decentralized Ticket Sales. This was the first exposure to a real-world application of a smart contract. Several deliverables needed to be met - repo
+
+The creator of the contract is the owner.
+The owner specifies the number and price of the tickets.
+People can buy tickets directly from the contract.
+Anyone can validate whether a given address owns a ticket.
+One person can only buy one ticket.
+People can sell their tickets through the contract. For this, they need to submit an offer stating the price they’re willing to sell for. This price must be within +-20% of the original price (i.e. at least 80%, but at most 120%). Then, when someone accepts the offer, they pay the required amount, which is forwarded to the seller, and the buyer gets the ticket.
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Mastering Web 3.0 (Nov 30, 2023)]
+There can only be one offer running at a time.
+The owner can withdraw any profits.
+
+A bonus assignment was to implement the above for multiple users to be able to buy tickets at the same time and to write the smart contract and design its test cases using hardhat from scratch.
+
+The last task was the final project submission, which was to create a Gymkhana Election DApp using React for the frontend and the smart contract had to be deployed on the Sepolia Testnet. Complete Project - 1
+
+=== Sumarizzing (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/sumarizzing/
+
+1 min read
+
+Nov 30, 2023
+
+Sumarizzing
+
+summer23
+
+project
+
+Sumarizzing
+
+This project aimed to introduce 20 mentees to
+machine learning and explore natural language processing. The tasks assigned to them varied from basic linear regression, and optimization algorithms such as gradient descent to learning and implementing popular natural language processing models such as LSTMs, and Transformers.
+
+The deliverable was a question-answering and summarization model.
+
+The project consisted of 5 essential tasks:
+
+The first task was on data processing and scraping. It aimed to teach them about the fundamentals of web scraping menteesing tools such as BeautifulSoup and Selenium.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Sumarizzing (Nov 30, 2023)]
+The next task introduced them to data preprocessing techniques like EDA(Exploratory Data Analysis). In EDA, they learned about preprocessing the data by analyzing the data either categorically or numerically using visual representations of it. Handling missing values, noisy data, and normalization of the given dataset were all part of the second task.
+
+They were next introduced to basic linear regression and logistic regression and had to implement various models for eg. Random Forests on various datasets on Kaggle.
+
+This task was based on implementing Multi-Layer Perceptrons and was their first introduction to modern deep learning.
+
+The final task was to generate a language model for standup comedy routines given a dataset of open-mic performances. Complete Project - 1
+
+=== The Transformer Nostradamus (Nov 30, 2023) ===
+Source: https://pclub.in/project/2023/11/30/transformer/
+
+1 min read
+
+Nov 30, 2023
+
+The Transformer Nostradamus
+
+summer23
+
+project
+
+Sumarizzing
+
+This project provided a comprehensive exploration of deep learning concepts in an offline mode, seamlessly combining theoretical understanding with practical implementation. Mentees engaged in hands-on projects, utilizing RNNs, LSTMs, and GRUs, dedicating 10-12 hours per week to enhance their skills.
+
+Key Learning Points:
+
+Deep Learning Theory: Delved into the fundamentals, including activation functions, loss functions, and perceptrons.
+
+Backpropagation: Gained a solid grasp of the concept and intuition behind backpropagation in neural networks.
+
+Recurrent Neural Networks (RNNs): Understood the basics of RNNs, exploring their applications and intricacies.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > The Transformer Nostradamus (Nov 30, 2023)]
+LSTMs and GRUs: Implemented and comprehended Long Short-Term Memory and Gated Recurrent Unit networks for sequential data.
+
+Attention Mechanisms: Explored the use of attention mechanisms, a crucial aspect in enhancing neural network performance.
+
+Candlestick Patterns and Technical Indicators: Applied deep learning to analyze stock market trends using candlestick patterns and technical indicators.
+
+Trading Strategies: Implemented renowned trading strategies grounded in the analysis of technical indicators to navigate the stock market effectively.
+
+This program required a foundation in basic linear algebra, proficiency in object-oriented programming using Python, and an understanding of basic regression and classification machine learning algorithms. Participants joined us in unraveling the intricacies of deep learning and its applications in the financial domain.
+
+=== Build Your Own Database (byod): Distributed SQL Database Engine in C (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/buildyourowndatabase/
+
+1 min read
+
+May 26, 2025
+
+Build Your Own Database (byod): Distributed SQL Database Engine in C
+
+summer25
+
+project
+
+About the Project
+
+Implementing a rudimentary database to instill the idea of the inner working of a database.
+We try to answer what are Low level functions of a system, how data is stored, retrieved, how sql works and a lot more.
+
+Build a Strong Foundation: Cover essential database internals, including C programming, file systems, B-Trees, and process management.
+
+Develop a rudimentary database with indexing, storage, and basic ACID properties while exploring SQL parsing and query execution.
+
+Resources
+
+Week 0
+
+Session 1
+
+Git- Learn git branching
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Build Your Own Database (byod): Distributed SQL Database Eng]
+It is recommended to do till Level 2 of “Moving work” round in Main
+And till level 5 of “To Origin and Beyond” in Remote
+
+File I/O- File I/O in C - A pretty nice tutorial for file I/O in C, Mentors are recommended to follow through with the examples and then proceed with the problem statement given below to practice.
+
+Problem link- https://hackmd.io/@dOr-w0B8QXCdXE2gmetHYQ/Skxg7N8Wgg
+
+Session 2
+
+Computer Systems- Computer Systems A Programmer’s Perspective (Good reading material to be followed throughout the project)
+
+Session 3
+
+Storage and Disk - Reading material for Understanding the underlying storage in you computer systems
+
+Acid Property in Databases - https://blogs.bmc.com/acid-atomic-consistent-isolated-durable/?print-posts=pdf
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Build Your Own Database (byod): Distributed SQL Database Eng]
+What Scaling is and Scaling Databases for handling Enormous amounts of data -  Blog 1 Blog 2
+
+Understanding RAMs - https://lwn.net/Articles/250967/
+
+Week 1
+
+Session 1
+
+B Trees-  https://planetscale.com/blog/btrees-and-database-indexes This website has an interactive interface for insertion and deletion in B-Trees. Pretty helpful for visualisation. Some more reading material- Supplementary Stuff
+
+Assignment For the week with additional resources - https://hackmd.io/@dOr-w0B8QXCdXE2gmetHYQ/Hk9efk7Mgx
+
+=== Campus Compass: Navigation Application for the Campus Junta (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/campuscompass/
+
+6 min read
+
+May 26, 2025
+
+Campus Compass: Navigation Application for the Campus Junta
+
+summer25
+
+project
+
+About the Project
+
+This seven-week project where mentees will learn the basics of software development workflow, and build a maps platform to route to the unexplored places of IITK in a fun way.
+Key features:
+
+A detailed IITK Map having almost every place you can think of!
+
+Write reviews, upload images of different places, and find the best places to hang out with friends.
+
+Users can share their live location.
+
+Get the best path to your destination.
+
+Resources
+
+Resource 0
+
+Get ready with Go
+
+Intro to Golang : https://youtu.be/F3klnY_r8FU?si=5qeAya0x56Xf9TFx
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Go Installation:  https://go.dev/doc/install
+
+Try Go by examples till Multiple Return value https://gobyexample.com/ Or you can check out Go Tour https://go.dev/tour/welcome/1 , which includes interactive code examples for basic syntax.
+
+Resource 1
+
+Lets clear some basics
+
+We will be using Next.js for our project
+
+learn difference between Next.js and react https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs (5 min read)
+
+You can follow this https://nextjs.org/learn/react-foundations according to your requirements, whatever topics you feel is unknown to you read that. There are 10 chapters, if you have slight idea and feel difficult in implementing then just read the chapter 10.
+
+Install Next.js https://nextjs.org/docs/app/getting-started/installation and also follow the manual set up to understand better.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+[Must read] Chapter 10 https://nextjs.org/learn/react-foundations/server-and-client-components spend some time on it. We will ask it in next meet.
+
+Overview the project structure https://nextjs.org/docs/app/getting-started/project-structure just overview will not require much time.
+
+After doing this attempt the Assignment 1
+(the submission will be around 15 or 16 EOD for part 1 and the research doc of part 2, but this will help you a lot, not just for the project but for over all learning, and may help you for the secy task 😉)
+
+Assignment 1
+
+Good habits
+
+Give us updates daily, this will increase our and your fellow mentees’ morale and a good learning environment.
+
+Don’t just copy and paste from the tutorials. Read, understand, and type as much as possible by yourselves. (google what you don’t understand, this is important in early phase, later you can 😁)
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+You may face difficulty with TypeScript in the beginning, don’t give up (google is always there)
+
+If you don’t understand the problem the, there is point in seeing the solution. first try to get the feel of the problem.
+
+You may feel tailwind is overwhelming, but if you know css - you know tailwind, just search here https://tailwindcss.com/docs/installation/using-vite
+
+Next.js solves many issues for developers, which is described in these 16 chapters, try to understand what are the core problems it is solving.
+
+TODOs
+
+Part 1
+
+Invest some half an hour on https://nextjs.org/learn/dashboard-app read, overview, observe what all is possible and how can you approach the problem (specially what all is going on)
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Keep the following things in mind
+
+There are 16 chapters total. You may leave chapter 10 for now
+
+Try to finish till chapter 10 in less time, as they are small and easy.
+
+Invest good time in chapters 11 to 15.
+
+Make your notes while doing this all in a notes.md (chapter wise) in the same repo. (they need not be perfect, but will help you a lot later)
+
+You are required to submit the final project in the github repo https://github.com/pclubiitk/Campus-Compass-25.git as a pull request. Inside the Assignment/Assignment1-dashboard create a next js project named [yourname]-dashboard with --no-git flag to avoid the submodule issue. (i have provided a example for that, all the upcoming submissions will follow same pattern)
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Part 2
+
+For our application we need two ui interfaces, one which is the application and the other is the admin portal, to take care of the internal activities.
+
+We have the following requirements
+
+We need a page where the logs will be present (like new node added, new notice published etc, you may render a table with different columns to describe the logs)
+
+A page to push new notices
+
+A page to view all the notices till now (use pagination here)
+
+In our application, users can write reviews etc, hence we need to moderate the content and ensure no abusive content is used. To ensure this, we will be using a moderation api which will run in background and add flagged reviews to a database table named flagged, hence we need a page to review the flagged posts etc and manually allow to publish if its fine and delete and warn to the user if not.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Similarly a page to review node / new place addition request by users.
+
+So by the time you complete the part 1, try to think and document how will you approach the part 2. We will discuss it and assign different parts to different people. (team work 🔥)
+
+As we say you to document, we mean you to think and provide us the following data as a md file named design.md:
+
+Think and structure what tables, object structure we should keep of the database (don’t just provide us the tables of the admin dashboard, think in the direction of the campus compass application as a whole)
+
+Document what components and UI would be better, you can list them down, create a basic outline of the ui, it would be better if you propose all the components from one ui library, for consistency you may use https://ui.shadcn.com/ and https://chakra-ui.com/
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Try to list down the backend routes we will need, and how to distribute them into the go server , next sever side actions or simple endpoints in next.
+
+We will be converting the application into a PWA later (the next resource will be focused on that) if you have more time, you can start thinking in that direction.
+
+Propose ideas or features you want to implement, other than stated here.
+
+Part 3
+
+You will be presenting you learnings, knowledge in the sessions with all of us (mentors + fellow mentees) so prepare for that.
+
+We are planning to have a small, simple codeforces contest, where you are required to submit the solutions in only GO, to test your go skills, so ensure you have gone through resource 0.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Resource 3
+
+Search what are pwas
+
+⁠explore https://whatpwacando.today/
+
+⁠explore https://nextjs.org/docs/app/guides/progressive-web-apps (try along side)
+
+⁠learn what is, why do we need, https://storybook.js.org/docs/get-started/why-storybook you will mainly developing the components using this. (Explore its docs) https://storybook.js.org/docs/get-started/frameworks/nextjs for next js, will provide more resources soon.
+
+⁠git workflow as discussed in the meet  https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+
+⁠Resources for docker https://docker-curriculum.com (you may skip the part of aws, or try by creating a free tier account, i would recommend doing that) This guide is a bit old, but covers almost every basic concept beautiful 🙂
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Campus Compass: Navigation Application for the Campus Junta ]
+Todos
+
+How to integrate Tailwind with Storybook
+
+=== Game Hacking: Exploiting the Pwnie Island Game (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/gamehacking/
+
+1 min read
+
+May 26, 2025
+
+Game Hacking: Exploiting the Pwnie Island Game
+
+summer25
+
+project
+
+About the Project
+
+The project progresses from basics of memory exploitation to advanced kernel level anti-cheat bypasses. For hands-on, we will be exploiting the Pwnie Island game (a deliberately vulnerable MMORPG).
+
+Resources
+
+Meet 1
+
+Setting up the Pwnie Adventure 3 Game :
+
+Client : https://www.pwnadventure.com/
+
+Sever setup guide : https://hackmd.io/@codeIMperfect/rJQVjowbxl and https://docs.google.com/document/d/1u8OUS_gWtqCxrzFDz3qHHwZgAyFWtIfH1iakPPo5MvI/edit?usp=sharing
+
+Compilation : https://www.youtube.com/watch?v=ksJ9bdSX5Yo
+
+Linking : CSAPP(Computer Systems: A Programmer’s Perspective Book) Ch-7 [Don’t need to read all of it, just read stuff relevant to today’s discussion]
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Game Hacking: Exploiting the Pwnie Island Game (May 26, 2025]
+Meet 2
+
+PLT and GOT:
+
+https://docs.thecodeguardian.dev/operating-systems/linux-operating-system/understanding-plt-and-got
+
+GDB:
+
+https://ctf101.org/reverse-engineering/what-is-gdb/
+
+Try these 4 challenges:
+
+https://play.picoctf.org/practice/challenge/395?category=3&page=1&search=GDB
+
+https://play.picoctf.org/practice/challenge/396?category=3&page=1&search=GDB
+
+https://play.picoctf.org/practice/challenge/397?category=3&page=1&search=GDB
+
+https://play.picoctf.org/practice/challenge/398?category=3&page=1&search=GDB
+
+Meet 3
+
+Topics:
+
+C++ : Aggregate Initialization, Structs and Classes, Inheritance, Polymorphism, Constructors, Virtual Functions, VTables
+
+Reversing, Assembly
+
+Resources:
+For all the C++ stuff covered in last 2 sessions, read following chapters from learncpp.com :
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Game Hacking: Exploiting the Pwnie Island Game (May 26, 2025]
+Introduction to Classes, constructors etc. (chapter 14)
+
+Operator Overloading (chapter 21)
+
+Inheritance (chapter 24)
+
+Virtual Functions, VTables, vptr (chapter 25)
+
+Do attempt exercises from above chapters to get a better hold of topics.
+
+Reversing 101 : https://hackmd.io/@rdksupe/B1bo2ixzlg
+
+If you are interested you can also watch these videos (not relevant directly) just interesting :
+
+https://youtu.be/rlM9JGx81xk?si=1MIx0aiNnYA5R-uD
+
+https://youtu.be/suABtb8_2Zk?si=hDHIgwhl8Mx0NTrQ
+
+To practice reversing, practicing challenges from following websites:
+
+crackme
+
+picoctf
+
+microcorruption
+
+=== Lord of the Chains: Exploring Web3 and Blockchain (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/lordofthechains/
+
+1 min read
+
+May 26, 2025
+
+Lord of the Chains: Exploring Web3 and Blockchain
+
+summer25
+
+project
+
+About the Project
+
+This eight-week project provides a structured introduction to Web3 focusing on blockchain, covering topics from fundamentals to real-world applications. Participants will engage in theoretical learning and hands-on development, culminating in the creation of a fully functional decentralized application(DApp).
+
+Resources
+
+🗓️ Week 1: Intro to Web3 and Blockchain
+
+🌐 What is Web3? The Concept of Decentralization
+
+What is Web3? (FreeCodeCamp)
+
+We recommend that you read this before attending. It gives a basic understanding of Web3.
+
+The Web3 Reading List (PDF)
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Lord of the Chains: Exploring Web3 and Blockchain (May 26, 2]
+A slightly longer PDF covering a wide range of topics like Web3 applications, DAOs, DeFi, and Dapps. (Optional for now, will look into applications soon)
+
+Web3 vs Web 3.0 (LeewayHertz)
+
+Clarifies the distinction between Web3 and Web 3.0.
+
+Why Decentralization Matters (cdixon.org)
+
+We suggest reading this at the end of Week 1. Gives a gist of the possibilities decentralizations opens up.
+
+🔐 Public and Private Key Cryptography
+
+Basic cryptography concepts to understand how identity verification methods like passwords can be eliminated.
+
+Asymmetric and Symmetric Encryption (YouTube)
+
+Private and Public Key Cryptography (YouTube)
+
+Hashing and Hashing Algorithms (YouTube)
+
+⛓️ Blockchain, Bitcoin, and Ethereum
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Lord of the Chains: Exploring Web3 and Blockchain (May 26, 2]
+What is a Blockchain? (YouTube)
+
+Bitcoin Whitepaper (PDF)
+
+Gives more insight into PoW consensus.
+
+What is Ethereum?
+
+Very important as we will be working on ethereum testnets primarily for our DApp.
+
+Types of Blockchain (GeeksforGeeks)
+
+⚖️ Consensus Mechanisms: PoW and PoS
+
+What is Proof of Work? (Binance Academy)
+
+What is Proof of Stake? (Ethereum.org)
+
+51% Attack (YouTube)
+
+🌳 Merkle Trees
+
+Merkle Trees (GeeksforGeeks)
+
+🕵️ Zero-Knowledge Proofs
+
+Zero-Knowledge Proofs (YouTube)
+
+🧩 Interactive Learning Tool
+
+Blockchain Demo (Anders Brownworth)
+
+A tool that is very useful for visual understanding. Highly recommended.
+
+=== QubitFlow: Quantum Computing and Machine Learning (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/qubitflow/
+
+10 min read
+
+May 26, 2025
+
+QubitFlow: Quantum Computing and Machine Learning
+
+summer25
+
+project
+
+About the Project
+
+Introduction to Quantum Computing and building some Quantum Machine Learning Algorithms like QNNs, Quantum Regression and Classification, QSVCs, QCNNs.
+
+Interesting Channel: MLO
+Has playlists on Quantum Physics, IBM Qiskit, QAOA, VQEs, Some Paper Discussions, QCOpt, QOSF, QML Theory, Pennylane, Cirq, Tensorflow Quantum, RL,Intro to QC and some Conference Videos
+
+Resources
+
+Week 0 | Into the Quantum World
+
+Linear Algebra Refresher:  Videos 1-3, 9-11, 13-15 of 3B1B Lin Alg Playlist
+
+The Language of Quantum mechanics
+
+This video shall provide an intuitive introduction to QM
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+What are wave functions
+
+What does a wave function represent
+
+Week 1 | Fundamentals of Quantum Computing
+
+Lectures  1 to 3 of this playlist
+
+Reference notes for the lectures
+
+Relevant Sections of Nielsen Chuang
+
+Link to the book can be found here
+
+Start off with Stern-Gerlach (1.5.1). Provides a good understanding of some non-intuitive parts of QM
+
+Cover the results of 2.1-Linear Algebra. Proofs not important for the project but having an understanding of the results will really help
+
+Post that, you can read the first 3 sub sections of 2.2. Anything beyond that would be a it too complex for now.
+
+Then, cover 4.1 and 4.2.
+
+Introduction to Python
+
+Intro to Python
+
+Exception Handling
+
+Anaconda
+
+Path and environment variables for Python and Anaconda in Windows
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Interactive Python Notebooks
+
+Venv
+
+Managing Packages with venv
+
+Python virtualenv
+
+PyEnv for Python Version Management
+
+Git
+
+Week 2 | Hands on Qiskit
+
+Circuit Solving
+
+Solving circuits involves bring given a logical quantum circuit diagram with initial states and a set of gates applied to those states in a particulat order and you deciphering the state of the system after application of each state. For mastering circuit solving, you need to understand how time evolution of states occurs, how to convert states and gates into matrix representations and apply gates to various states. This video along with resources from Week 1 equip you with all tools required for Solving Quantum Circuits. For a more comprehensive tutorial, go through this document and this blog.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Migration to Qiskit 2.O
+
+Migration Guides:
+
+https://quantum.cloud.ibm.com/docs/en/migration-guides/classic-iqp-to-cloud-iqp
+
+https://quantum.cloud.ibm.com/docs/en/migration-guides/qiskit-2.0
+
+For accessing IBM Backends:
+
+Sign into https://cloud.ibm.com/
+
+Sign into https://quantum.cloud.ibm.com
+
+Use the IBM backends the way they are described in the migration guides
+
+Introduction to Qiskit
+
+Qiskit Hello World Notebook
+
+Quantum Gates in Qiskit Notebook
+
+Qiskit Circuits
+
+Quantum Teleportation
+
+Implementing a basic VQE using Qiskit
+
+Classical and Quantum Complexity Classes
+
+Additional Resources:
+
+Classical Complexity
+
+Quantum Complexity
+
+Classical v/s Quantum Complexity
+
+Assignment 1
+
+Implement a Quantum Teleportation Circuit in Python using Qiskit.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Week 3 | Simulations and Transpilers
+
+Transpilers
+
+Qiskit Transpilers: Skim through the subpages,but read the overview and info about stages, pass managers in detail
+
+Qiskit Transpilers II: this has a pretty similar wording but a few more illustrative examples that might be helpful
+
+Video 1: An intro to the intuition behind AI Transpilation, its training and tuning
+
+Video 2: A pretty good intro on Transpilers, motiovation, and their structure in Qiskit
+
+Circuit Converters
+
+Transpiler Targets
+
+Transpiler Stages
+
+AI-powered Transpilers
+
+Optimize quantum circuits with AI-powered transpiler passes
+
+Seminar: Transpile your circuits with AI
+
+Quantum Simulations
+
+Backends
+
+Qiskit Backends
+
+IBM Backends Docs
+
+Transpile against custom backends
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Simulators: Documentation and Theory
+
+BasicProvider and BasicSimulator
+
+Fake Provider and Generic Backends
+
+Qiskit AER
+
+AER Provider
+
+AER Simulator
+
+QASM Simulator
+
+State Vector Simulator
+
+Unitary Simulator
+
+AER Error
+
+Device backend noise model simulations
+
+The Extended Stabilizer Simulator
+
+Matrix product state simulation method
+
+Parallel GPU Quantum Circuit Simulations on Qiskit Aer
+
+Simulators: Implementations
+
+Running PUBs on qiskit 1.x using Aer Simulator and IBM Quantum Computers
+
+Qiskit Aer’s AerSimulator
+
+Assignment 2
+
+Implement (on IBM-Q) digital simulations of the time-evolution of the two- and three-spin Heisenberg model, explaining what are the main differences in the two implementations.
+
+Assignment 3
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Complete the following lab from IBM Quantum Challenge 2025: Lab on Transpilers
+
+Assigment 4
+
+(Continuation of Assignment 2)
+
+Using the QASM simulation, compute estimates of various observables of the system as a function of time, and in particular of the dynamical correlation functions.
+
+Run the simulation with the QASM simulator, including noise, and study how rapidly the quality of the solution deteriorates as a function of the time interval that is being simulated. This is done by computing the fidelity of the solution.
+
+Discuss the origin of errors and, in particular, study the relative importance of the finite time step error (called Suzuki-Trotter error) and of the errors originating from the quantum hardware itself.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Assignment 5
+
+Complete the following lab from IBM Quantum Challenge 2025: Lab on AI Transpilers
+
+Week 4 | Quantum Primitives and Knitting
+
+Qiskit Primitives
+
+Primitves Introduction Notebook
+
+Primitives Documentation
+
+Primitves Guide
+
+Nice Video on Primitives
+
+Quantum Knitting
+
+Need of Quantum Knitting
+
+Circuit Cutting
+
+Additional Read: Circuit knitting with classical communication
+
+Assignment 6
+
+Complete the following lab from IBM Quantum Challenge 2025: Lab on Quantum Knitting
+
+Week 5 | Introductory Quantum Algorithms
+
+Deutsch-Jozsa Algorithm
+
+Quantum Parallelism: 1.4.2 of Nielsen Chuang
+
+Deutsch Algorithm: 1.4.3 of Nielsen Chuang
+
+Deutsch Jozsa Algorithm: 1.4.4 of Nielsen Chuang
+
+Nice Video with visualizations
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Assignment 7
+
+Implement Deutsch Jozsa Algorithm in Qiskit
+
+Grovers Algorithm
+
+3B1B Video on Grovers Algorithm for intuitive and visual understanding
+
+Overview of Grovers Algorithm
+
+Deep Dive and Query Complexity Analysis
+
+Theory from Nielsen Chuang: 6: Quantum search algorithms
+
+Grover’s Algorithm and Amplitude Amplification (Implementation)
+
+Grover’s algorithm examples (Implementation)
+
+Assignment 8
+
+Implement Grover’s Algo in qiskit.
+
+QFT and Shor’s Algorithm
+
+Videos from Qiskit:
+
+Understanding Quantum Fourier Transform, Quantum Phase Estimation - Part 1
+
+Understanding Quantum Fourier Transform, Quantum Phase Estimation - Part 2
+
+Understanding Quantum Fourier Transform, Quantum Phase Estimation - Part 3
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+From Factoring to Period-Finding, Writing the Quantum Program - Part 1
+
+From Factoring to Period-Finding, Writing the Quantum Program - Part 2
+
+From Factoring to Period-Finding, Writing the Quantum Program - Part 3
+
+Theory from Nielsen Chuang:
+
+5.1: The quantum Fourier transform
+
+5.2: Phase estimation
+
+5.3: Applications: order-finding and factoring
+
+Assignment 9
+
+Implement Quantum Fourier Transform, Inverse Quantum Fourier Transform, Quantum Phase Estimation and Shor’s algorithm using Qiskit.
+
+Revision
+
+Once you’re done with the first 5 weeks, go through this video, which summarizes all the theoretical concepts discussed in the project till now.
+
+Introduction to Machine Learning
+
+Introduction to Machine Learning
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Nice Introductory Video
+
+Week 2, Day 4 of Pclub ML Roadmap
+
+K-Nearest Neighbours: Week 2, Day 4 of Pclub ML Roadmap
+
+Linear Regression and Gradient Descent
+
+Logistic Regression
+
+Support Vector Machines
+
+Kernel Methods
+
+Neural Networks
+
+Week 6 | Introduction to Quantum Machine Learning
+
+Quantum Gradients
+
+First three resources are extremely important and enough to understand basics of Quantum Gradient:
+
+Estimating Gradients and Higher-Order Derivatives on Quantum Hardware
+
+Qiskit Algorithms Gradient Framework
+
+Gradients Docs
+
+For a better understanding, you can also go through these resources:
+
+Review of Quantum Gradient Descent
+
+Quantum natural gradient
+
+Quantum gradients with backpropagation
+
+(5) and (6) use the pennylane library, which has not been introduced to the mentees. So, they can just go through the theory (which is more than enough for understanding the theory of Quantum Gradients), or if interested go through the code (syntax is pretty intuitive).
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Additional Resources (Advanced):
+
+Quantum Gates and Gradients
+
+Paper: Estimating the gradient and higher-order derivatives on quantum hardware
+
+Paper: Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition
+
+Paper: Quantum Natural Gradient
+
+Note: All the contents in the resources are extracted from Papers given in Additional Resources 2, 3 and 4. Reading them would just provide you mathematical clarity of how and why things are done in a specific manner.
+
+Paper Presentation
+
+Classification with QNNs on Near Term Processors
+
+Continuous Variable QNNs
+
+Quantum K-Nearest Neighbour
+
+Quantum K-Means
+
+Variational Quantum Algorithms
+
+Theoretical Introduction to Variational Quantum Eigensolvers
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Intro to Algorithms and VQE implementation using Qiskit Algorithms
+
+Advanced VQE Options
+
+VQE with Qiskit Aer Primitives
+
+Variational Quantum Deflation (VQD) Algorithm
+
+Reference Paper
+
+API Reference
+
+Implementation using Qiskit Algorithms
+
+Testing a Variational Quantum Classifier on a real backend
+
+Additional Reading: Variational quantum algorithms
+
+Assignment 10
+
+Implement a VQE, try out Advanced VQE Options and Variational Quantum Deflation Algorithms (references provided in the resources).
+
+VQC
+
+Implement a Variational Quantum Classifier as given in Lab 4
+
+For the birds_dataset.csv, implement a classical classification algorithm
+
+Compare and contrast the training speed and accuracy, inference speed and accuracy and other metrics for (2.1) and (2.2)
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Week 7 | Quantum Machine Learning Algorithms
+
+Quantum Neural Networks
+
+Quantum Neural Networks
+
+Neural Network Classifier & Regressor
+
+Training a Quantum Model on a Real Dataset
+
+Saving, Loading Qiskit Machine Learning Models and Continuous Training
+
+Effective Dimension of Qiskit Neural Networks
+
+Additional Theoretical Reading: Quantum Neural Networks
+
+Assignment 11
+
+Implement the notebooks for:
+
+QNNs
+
+NN Classifier and Regressor
+
+In all these 3 implementations:
+
+Interrupt training and save the model
+
+Load the model, continue training till the end
+
+Calculate the effective dimensions of the algorithms
+
+Kernel Methods and Support Vector Classifiers
+
+Quantum Kernel Machine Learning
+
+Pegasos Quantum Support Vector Classifier
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > QubitFlow: Quantum Computing and Machine Learning (May 26, 2]
+Quantum Kernel Training for Machine Learning Applications
+
+Assignment 12
+
+Implement an algorithm for Prediction of Solar Irradiation Using Quantum Support Vector Machine Learning Algorithm.
+Reference paper can be found here
+
+Week 8 | Quantum Convolutional Neural Networks
+
+QCNN implementation using Qiskit ML
+
+QCNN Paper
+
+Assignment 13
+
+Implement the QCNN Algorithm referenced in week 8 resources
+
+Project Mentors:
+
+Advaith GS |
+[email address hidden on the website] |
++91 88009 25876 |
+
+Himanshu Sharma |
+[email address hidden on the website] |
++91 999963 3455 |
+
+=== ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/scyllaagnet/
+
+5 min read
+
+May 26, 2025
+
+ScyllaAgent: Scalable and Low Latency Agentic Chatbot
+
+summer25
+
+project
+
+About the Project
+
+Deploy a Scalable and Low-Latency Agentic Chatbot  in python using cutting edge techniques like Cache Augmented Retrieval. Implement a professional MLOps Pipeline to ensure visibility, scalability, low latency, logging and continuous feature integration and deployment.
+
+Resources
+
+Week 0
+
+Understand Regression and Grad Descent
+
+Neural Networks
+
+Coding an NN in PyTorch, and a micrograd framework from scratch
+
+Week 1 | Introduction to NLP and Sequence Models
+
+Basic NLP
+
+NLP Playlist by Tensorflow
+
+Side by side, refer to this github repo
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Text Pre processing
+
+Text Normalization
+
+Bag of words representation
+
+Term Frequency-Inverse Document Frequency
+
+Continuous Bag of Words
+
+One Hot Encodings
+
+Sequence Models
+
+Recurrent Neural Networks
+
+Mathematics of RNNs
+
+Long Short Term Memory
+
+overall idea of lstms and rnns with a little maths - video link
+
+Introduction to Transformers
+
+Attention in Transformers
+
+Week 1 Additional Resources
+
+Attention Is All You Need
+
+QLoRA: Efficient Finetuning of Quantized LLMs
+
+LoRA: Low-Rank Adaptation of Large Language Models
+
+Fine Tuning Repository
+
+Introduction to Python
+
+Intro to Python
+
+Exception Handling
+
+Anaconda
+
+Interactive Python Notebooks
+
+Venv
+
+Managing Packages with venv
+
+Python virtualenv
+
+PyEnv for Python Version Management
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Git
+
+Week 2 | Retrieval Augmented Generation
+
+APIs, LLMs and HuggingFace
+
+Requests and APIs:
+
+APIs
+
+REST API
+
+Requests
+
+Accessing LLMs via APIs:
+
+Tokens
+
+Tokens and Pricing
+
+LLM APIs
+
+Explore models on Huggingface, resources are as follows:
+
+https://huggingface.co/docs/transformers/en/llm_tutorial
+
+https://www.analyticsvidhya.com/blog/2023/12/large-language-models-on-hugging-face/
+
+https://huggingface.co/models?other=LLM
+
+RAGs
+
+LangChain Ecosystem
+
+LangChain Crash Course
+
+LangSmith
+
+Introduction
+
+Docs and Getting Started
+
+LangGraph Crash Course
+
+Prompting
+
+12 Prompting Techniques
+
+Prompt engineering by HugginFace
+
+RAGs
+
+RAG for Knowledge-Intensive NLP Tasks Paper
+
+LangChain Implementation
+
+Week 3 | Agentic Systems
+
+Data Validation and Typing
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Typing module
+
+Typing Docs
+
+Intro to Pydantic
+
+Pydantic in Detail
+
+Pydantic Docs
+
+Concurrency
+
+Concurrency, Parallelism, and asyncio
+
+Repo for codes in (2.1)
+
+Async Programming in python
+
+A nice video tutorial (alternative to 2.3)
+
+Exception Handling in python asyncio
+
+Nice clarificaton from stackoverflow
+
+Parallelism v/s Concurrency
+
+Design Patterns
+
+Abstract Factory and Abstract Base Classes
+
+Refactoring Guru Article
+
+Abstract Factory Python Implementation
+
+Intro to ABC
+
+Factory Method, Composite Patterns, Decorators, State, Iterators etc from Refactoring Guru Design Patterns
+
+Grokking OOPs
+
+LlamaIndex
+
+[Tools, Agents, Agentic Orchestration]
+
+[Llamaindex Workflows]
+
+Week 4 | Agentic and Advanced RAGs
+
+Mini Advanced RAGs Roadmap
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Ingestion
+
+Data Preprocessing/Cleaning
+
+Chunking
+
+Fixed Size Chunking
+
+Content-aware Chunking
+
+Simple Sentence and Paragraph splitting
+
+Recursive Character Level Chunking
+
+Document structure-based chunking
+
+Semantic Chunking
+
+Contextual Retrieval: Provides scalability for larger documents
+
+Contextual BM25
+
+Chunk + General Doc Summary
+
+HyDE
+
+Summary Based Indexing
+
+Embedding:
+
+Semantic Embeddings
+
+Lexical Embeddings
+
+BM-25 (Best Matching 25): Lexical Matching which builds upon TF-IDF (Term Frequency-Inverse Document Frequency)
+
+Retrieval
+
+Search
+
+Semantic Search (dense vectors)
+
+Lexical Search (sparse vectors)
+
+Hybrid Search
+
+Querying Hybrid Index
+
+Querying Sparse and Dense Index and reranking
+
+Reranking: Increases quality of retrieved documents
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+BGE Reranker
+
+Passage Reranking with BERT
+
+Augmentation
+
+Generation
+
+Evaluation
+
+Offline Metrics
+
+Binary Relevance Metrics
+
+Order-unaware:
+
+Precision@k: TP/(TP+FP)
+how many items in the result set are relevant
+
+Recall@k: TP/(TP+FN)
+how many relevant results your retrieval step returns from all existing relevant results for the query
+
+F1@k: (2 * Precision@k * Recall@k)/(Precision@k + Recall@k)
+
+Order-aware:
+
+Mean Reciprocal Rank (MRR)
+
+Mean Average Precision@K (MAP@K)
+
+Graded Relevance Metrics
+
+Discounted Cumulative Gain (DCG@k)
+
+Normalized Discounted Cumulative Gain (DCG@k)
+
+Online Metrics: Based on user data, RL-based
+
+Frameworks and Tooling
+
+Arize
+
+ARES
+
+RAGAS
+
+TraceLoop
+
+TruLens
+
+Galileo
+
+Benchmarking AI Assistants
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Anthropic Cookbook
+
+Additional Resources
+
+Advanced RAG Techniques
+
+RAG Optimizations implementations in LangChain
+
+Week 5 and 6| Creating a Python Module for Advanced RAGs
+
+System Design and Patterns Review
+
+Python Design Patterns
+
+Design Patterns
+
+ABCs
+
+ABCs v/s protocols
+
+Sequence Diagrams
+
+Activity Diagrams
+
+Some case studies
+
+Project Management
+
+Structuring Python Projects
+
+Poetry
+
+Building Python Packages
+
+Repos of similar modules for reference
+
+FlashRAG: https://github.com/RUC-NLPIR/FlashRAG
+
+RAGligh: https://github.com/Bessouat40/RAGLight
+
+Building and structuring modules
+
+How to design modular python projects
+
+Designing Modules
+
+Why the Plugin Architecture Gives You CRAZY Flexibility
+
+Clean Architectures in Python
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > ScyllaAgent: Scalable and Low Latency Agentic Chatbot (May 2]
+Why Use Design Patterns When Python Has Functions
+
+Software testing:
+
+Unit, Integration and Functional Testing
+
+Types of Software Testing
+
+Unit v/s Integration Testing
+
+Unit v/s Integration Testing
+
+Week 7 | Reading and Implementing Research Papers
+
+Cache Augmented Generation
+
+MetaGPT
+
+MedRAG
+
+Trading Agents
+
+Knowledge Augmented Generation
+
+Week 8 and 9| Refining and Publishing Python Module
+
+Documentation Website
+
+Docusaurus
+
+MKDocs
+
+Refactoring and CI/CD
+
+Structuring the Repo
+
+Tests
+
+CI/CD for Python
+
+Github Workflows CI/CD
+
+Packaging and Deploying
+
+Packaging
+
+Packaging: Building and Publishing
+
+Packaging: Hosting
+
+Packaging: Discussion Pages
+
+Packaging: Specifications
+
+=== SpectroMorph: Advanced Audio Machine Learning (May 26, 2025) ===
+Source: https://pclub.in/project/2025/05/26/spectromorph/
+
+1 min read
+
+May 26, 2025
+
+SpectroMorph: Advanced Audio Machine Learning
+
+summer25
+
+project
+
+About the Project
+
+This seven-week project offers a deep dive into machine learning (ML) with a focus on audio applications. Starting with foundational ML concepts, it progresses to audio-specific techniques like denoising, super-resolution, and style transfer. Combining theory with hands-on practice, participants will learn to tackle real-world audio challenges using ML.
+
+Resources
+
+Week 1
+
+1. Multiclass Classification
+
+•⁠  ⁠Title: Softmax & Multiclass Neural Networks
+
+•⁠  ⁠Link: Read on Turing
+
+2. Logistic Regression
+
+•⁠  ⁠Title: Introduction to Logistic Regression
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > SpectroMorph: Advanced Audio Machine Learning (May 26, 2025)]
+•⁠  ⁠Link: Read on IBM
+
+3. Polynomial Regression
+
+•⁠  ⁠Title: Understanding Polynomial Regression
+
+•⁠  ⁠Link: Read on Analytics Vidhya
+
+4. Polynomial vs. Linear Regression
+
+•⁠  ⁠Title: Polynomial Regression vs Linear Regression
+
+•⁠  ⁠Link: Read on Medium
+
+=== AR navigation (Jul 6, 2016) ===
+Source: https://pclub.in/project/medium/2016/07/06/arnavigation-readme/
+
+1 min read
+
+Jul 6, 2016
+
+AR navigation
+
+summer16
+
+project
+
+augmented_reality
+
+[AR Navigation]
+
+About The Project
+
+We tried out experimenting Augmented Reality as a summer project. Our aim was to design a navigation app which instead of showing top view of map shows directions on real time camera feed. This will have two fold benefits:
+
+The users will not have to match roads and adjust map to understand where to go
+
+Since it shows real time camera feed the user can remain in real world while looking for directions preventing accidents
+
+Received the Best Programming Club Project during the Science & Technology Summer Camp 2016.
+
+Approach to inculcate AR in android app
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > AR navigation (Jul 6, 2016)]
+Unlike infrared sensors we didn’t have any means to calculate the exact distance of the real time objects in the mobiles so we switched to MATHEMATICS for our answers. OH! Technical Arts also played a key role in devising our strategy.
+
+We used GPS data combiined with mobiles orientation from Magnetic Compass to detect roads. Here Google Directions API came in handy to give the precise coordinates of the roads.
+
+We measured the relative motion of the user via gyroscope, accelerometer and GPS coordinates
+
+The Unity graphics were relayed on the camera feed via UNITY GAME ENGINE giving the graphics (navigating arrows) a psuedo-acceleration to look static on the ground.
+
+References
+
+https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > AR navigation (Jul 6, 2016)]
+Android Documentation
+
+-App Demo video link: https://youtu.be/Cnm6HZRYHeg
+
+=== Blogs (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-blogs/
+
+1 min read
+
+Oct 25, 2019
+
+Blogs
+
+winter19
+
+wocproject
+
+Description
+
+Develop a blog feature for the Life@IITK app, where various clubs and cells can put up their blogs and students can follow blogs of their interest.
+
+Relevant Technologies
+
+Python
+
+Django
+
+React
+
+Repository
+
+Life@IITK
+
+Mentor
+
+Aditya Gulati
+
+=== Buy and Sell (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-buy-and-sell/
+
+1 min read
+
+Oct 25, 2019
+
+Buy and Sell
+
+winter19
+
+wocproject
+
+Description
+
+The current buy and sell forum of iitk on facebook is very disorganised and chaotic.
+
+Develop and integrate a portal to buy and sell things on campus into the Life@IITK app.
+
+Relevant Technologies
+
+Python
+
+Django
+
+React
+
+Repository
+
+Life@IITK
+
+Mentor
+
+Aditya Gulati
+Blogs
+
+=== Election Portal (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-election-portal/
+
+1 min read
+
+Oct 25, 2019
+
+Election Portal
+
+winter19
+
+wocproject
+
+Life@IITK
+
+Election portal
+
+Portal that will handle all the election related work online will be developed and integrated to the currently existing Life IITK app. It will include the following projects.
+
+Position creation: To create and notify about new positions for elections only by authorised accounts.
+
+Filing nominations: To file nominations for running in elections. This will also submitting details of campaigners.
+
+Actual voting: To handle voting on election day. It should be secure and able to cater to the election day needs of institute.
+
+Repository
+
+Life@IITK
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - SUMMER CAMP PROJECTS AND WINTER OF CODE (WoC) PROJECTS > Election Portal (Oct 25, 2019)]
+Mentor
+
+Priydarshi Singh
+
+=== Map Integration (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-map/
+
+1 min read
+
+Oct 25, 2019
+
+Map Integration
+
+winter19
+
+wocproject
+
+Description
+
+Develop a 3D map for the Life IITK app.
+
+The map will have all the locations of campus tagged and can be used to see the upcoming events at any venue.
+
+Relevant Technologies
+
+Python
+
+Django
+
+React
+
+Repository
+
+Life@IITK
+
+Mentor
+
+Aditya Gulati
+
+=== Mess Portal (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-mess-portal/
+
+1 min read
+
+Oct 25, 2019
+
+Mess Portal
+
+winter19
+
+wocproject
+
+Life@IITK
+
+Mess portal
+
+Mess portal will be used as a one stop to view mess menu and other details such as timing of all messes. It will be a feature integrated in Life IITK app.
+
+=== Music App (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-music/
+
+1 min read
+
+Oct 25, 2019
+
+Music App
+
+winter19
+
+wocproject
+
+Description
+
+Develop a music app for the campus with the following features:
+
+See music that friends are playing currently
+
+Private mode to hide currently playing music
+
+Music rooms - to livestream music to all users currently using the app and live updation of playlists
+
+This project will have multiple members. (approximately 3 to 4)
+
+Application Task
+
+Setup the below mentioned repo and get it run locally.
+
+Relevant Technologies
+
+TypeScript/JavaScript
+
+Repository
+
+Music Player
+
+Mentor
+
+Yugesh Kothari
+
+=== Nomination Portal (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-nomination-portal/
+
+1 min read
+
+Oct 25, 2019
+
+Nomination Portal
+
+winter19
+
+wocproject
+
+Description
+
+The portal will be used to announce empty positions in gymkhana and students can apply for the positions on portal itself.
+
+This will have the following projects :
+
+Creating new positions and announcing vacancy: It will be used by authorised users to create new positions in gymkhana whenever required and to announce vacancies.
+
+Filing nominations: Students can apply for vacant positions using the portal.
+
+This portal will be added to the Life@IITK application.
+
+Relevant Technologies
+
+Python
+
+Django
+
+Repository
+
+Life@IITK
+
+Mentor
+
+Aditya Gulati
+
+=== Travis CI (Oct 25, 2019) ===
+Source: https://pclub.in/wocproject/project/2019/10/25/lifeiitk-travis-ci/
+
+1 min read
+
+Oct 25, 2019
+
+Travis CI
+
+winter19
+
+wocproject
+
+Description
+
+The aim is to streamline all further development of LifeIITK such that there is consistency and reproducibility across developers.
+
+Setup proper development, test and production environments for lifeiitk.
+
+Relevant Technologies
+
+Docker
+
+Travis CI
+
+Application Task
+
+Write a docker-compose.yml that spins up 3 docker containers
+
+node.js backend
+
+react frontend
+
+mysql database.
+
+For reference look up this
+
+Repository
+
+Life@IITK
+
+Mentor
+
+Yugesh Kothari
+

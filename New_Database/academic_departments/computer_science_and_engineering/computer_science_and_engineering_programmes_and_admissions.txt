@@ -1,0 +1,499 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE, DUAL DEGREE AND PHD PROGRAMMES, ADMISSIONS AND POLICIES
+Name: Department of Computer Science and Engineering (CSE), IIT Kanpur - undergraduate, postgraduate, dual degree and PhD programmes, admissions and policies.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department); website https://www.cse.iitk.ac.in. Snapshot: scraped in 2026 (page text only, original page URLs not recorded).
+
+=== admission b tech ===
+Source: https://www.cse.iitk.ac.in/
+Admission To B.Tech. Program
+
+Admission into the B.Tech and Dual-degree (BTech-MTech) programs of all departments of all IITs is made once a year through a Joint Entrance Examination (JEE).
+
+More information is available at the JEE Website.
+
+The CSE Department at IIT Kanpur admits 78 students every year in its BTech program, and 23 students (Average number of students admitted in last four years) in the Dual-degree (BTech-MTech) program.
+
+=== program b tech ===
+Source: https://www.cse.iitk.ac.in/
+Bachelor Of Technology (BTech) Program
+
+The department has one of the best undergraduate programs in the country. The course curriculum for the undergraduate program gives the flexibility to the students to prepare for advanced specializations. The department commits to offer a set of electives so that students can plan their academic program in advance. The course structure provides a right mix of compulsory and elective courses.
+
+The BTech program is divided into two distinct parts. A student has to go through a common program called Core Curriculum. Most of the core curriculum is completed in the first four semesters. The last four semesters has a large number of professional courses, that initiates the student to topics in Computer Science and Engineering.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program b tech]
+The Core Curriculum consists of a package of compulsory courses in Physics, Chemistry, Mathematics, Engineering Sciences and Technical Arts. It also includes several electives in Humanities and Social Sciences (HSS), Engineering Sciences, and Basic Sciences. The curriculum also includes open electives, where student can take the course from any department in the Institute. Through these electives, students can tailor-made their programs to suit their interests and needs.
+
+The Professional Curriculum consists of courses and Project Work. There are some compulsory courses, but there is a significant number of professional electives as well. Three professional courses are done during the first two years itself. The details of the program are given below.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program b tech]
+CHM101A: Chemistry Laboratory
+
+MTH101A: Maths - I
+
+ENG112A: English Language and Composition
+
+HSS-1 (Level 1): Humanities and Social Sciences elective
+
+ESC101A: Fundamentals of Computing - I
+
+PE101A: Physical Education - I
+
+PHY103A
+
+PHY102A
+
+MTH102A: Maths - II
+
+PHY101A
+
+TA101A: Engineering Graphics
+
+LIF101A
+
+CHM102A
+
+PE102A: Physical Education - II
+
+CS201A: Mathematics for Computer Science - I
+
+ESO207: Data Structures and Algorithms
+
+TA201: Introduction to Manufacturing Processes
+
+ESC201: Fundamentals of Computing - II
+
+SO/ESO
+
+COM200
+
+HSS-2 (Level 1): Humanities and Social Sciences elective
+
+CS202 + CS203: Mathematics for Computer Science - II + III
+
+CS220: Computer Organisation
+
+CS253
+
+TA202
+
+CS330: Operating Systems
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program b tech]
+CS340: Theory of Computation
+
+CS345A: Algorithms II
+
+CS300A: Technical Communication
+
+SO/ESO
+
+UGP-1 (CS395A) (extra credits)
+
+CS335: Compiler Design
+
+HSS-3 (Level 2): Humanities and Social Sciences elective
+
+UGP-2/DE-1/OE-1 (CS396A)
+
+DE-2: Department Elective
+
+DE-3: Department Elective
+
+HSS-4 (Level 2): Humanities and Social Sciences elective
+
+SO
+
+UGP-3/DE-1/OE-1 (CS498: BTech Project-I)
+
+DE-4: Department Elective
+
+OE-2: Open Elective
+
+OE-3: Open Elective
+
+HSS-5 (Level 2): Humanities and Social Sciences elective
+
+UGP-4 (CS499: BTech Project-II) (extra credits)
+
+DE-5: Department Elective
+
+OE-4: Open Elective
+
+OE-5: Open Elective
+
+OE-6: Open Elective
+
+1. BTech & Dual Degree for students of Y18 to Y21 [COMPUTER SCIENCE & ENGINEERING template]
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program b tech]
+2. BTech & Dual Degree for students of Y22 or later [COMPUTER SCIENCE & ENGINEERING template] "Tentative course templates subject to Senate approval."
+
+1. Double Major for students Earlier than Y16 [COMPUTER SCIENCE & ENGINEERING template]
+
+2. Double Major for students of Y16 to Y21 [COMPUTER SCIENCE & ENGINEERING template]
+
+3. Double Major for students of Y22 or later [COMPUTER SCIENCE & ENGINEERING template] "Tentative course templates subject to Senate approval."
+
+Guidelines to proceed to other Institutions
+
+=== program dual degree ===
+Source: https://www.cse.iitk.ac.in/
+Dual Degree (BTech-MTech) Program
+
+A student pursuing B.Tech. in Computer Science and Engineering has an option to convert to this program after his 5th, 6th or 7th semester. This is five years program which awards both Bachelor and Master degree at the end of five years. This program is the same as the BTech program for the first three years. In order to apply to this program, a student must have a minimum CPI of 6.0.
+
+More details on eligibility and application process may be found in UG manual (section 10).
+
+The proposed program allows students to explore higher studies in Computer Science and Engineering. Students with a dual degree often secure better placement than students with just BTech.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program dual degree]
+The curriculum for the dual-degree program is roughly the same as the combined requirements of the BTech and MTech curriculum. The PG part of the program starts at the 7th semester. Since there is a reduction of six months in the time, a small amount of waiver from the B.Tech. requirements is given.
+
+A student should be considered equivalent to an MTech student once s/he starts working on the thesis (registered for thesis units). At this time, the student shall be given TAship. All existing rules governing TAship will be applicable to these students as well.
+
+Identical to the existing BTech program.
+
+DE PG-1: Department Elective
+
+DE PG-2: Department Elective
+
+Additionally some courses to need UG requirements
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program dual degree]
+DE PG-3: Department Elective
+
+DE PG-4: Department Elective
+
+DE PG-5: Department Elective
+
+M.Tech. Thesis (9 Units)
+
+M.Tech. Thesis (9 Units)
+
+DE PG-6: Department Elective
+
+M.Tech. Thesis (27 Units)
+
+M.Tech. Thesis (36 Units)
+
+Earlier than Y18 [ COMPUTER SCIENCE & ENGINEERING template ]
+
+Y18 to Y21 [ COMPUTER SCIENCE & ENGINEERING template ]
+
+Y22 or later [ COMPUTER SCIENCE & ENGINEERING template ] "Tentative course templates subject to Senate approval."
+
+=== program m tech ===
+Source: https://www.cse.iitk.ac.in/
+Master Of Technology (MTech) Program
+
+MTech degree program exposes students to a wide range of courses, combined with specialized research which culminates in a thesis. Such a combination gives students the breadth and depth necessary for pursuing careers in academics as well as in industry.
+
+The residence requirements for MTech program is four semesters. However, it is possible to get permission to spend one semester elsewhere. If someone wants to carry out the thesis work in a company, or at some other educational institution, it is allowed by the Institute subject to the rules applicable to postgraduate students. For example, we participate in an exchange program with a few German Universities in which the students can spend a semester in Germany. The maximum time to complete all the requirements of the MTech program is four years. We also have a part-time MTech program for working professionals. These students will register for six semesters. It is possible to convert one's status from full-time to part-time and vice-versa. The full details of the rules applicable for working outside the institute or part-time MTech programme are given in PG manual which can be found here.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech]
+An MTech student in Computer Science and Engineering department is required to do 144 credits of course work and thesis. The minimum course requirement is 63 credits. In addition, the student much complete a minimum of 72 credits of thesis work. Remaining 9 credits may be covered by any mix of courses and thesis.
+
+A typical load per semester is 36 credits, but a student may be allowed to register for 27 credits if he/she wishes to go underload. A student can register for 9 or 18 credits of thesis in a summer session.
+
+Of the courses, at least seven courses must be CSE postgraduate or equivalent courses. Out of seven courses, a student should must register for atleast one course from theory, systems, and data science basket.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech]
+The equivalent courses can be done only on the advise of the supervisor as explained below.  If the supervisor recommends that his/her student should do one or more PG courses from other department(s) and if DPGC determines that the said course(s) can be considered computer science course(s), then such courses will be referred as CS equivalent courses. A written request must be submitted to DPGC for registration in such courses and the student must receive a written permission to register in such course(s).
+
+The academic year normally begins in the fourth week of July. The academic year consists of three terms, two semesters and a summer term: First Semester from July last week to November last week, Second Semester from December last week to April last week, Summer Term: from mid May to mid July.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech]
+Non-sponsored candidates admitted to the regular full-time MTech Program who are Indian Nationals are eligible for financial assistance as follows:
+
+TA/RA ship: Candidates admitted to the MTech program after qualifying GATE will be offered the Teaching Assistantship (TA) or Research Assistantship provided they have secured at least 60 percent marks (55 percent for SC/ST candidates) in their qualifying degree examination. A teaching assistant can be asked to conduct labs, help an instructor in grading, and other course-related tasks. In some cases, TA can also be asked to teach tutorial sessions to the first year BTech students. A research assistant can be asked to support the department in various academic activities. It could be providing help in maintaining and upgrading department labs, downloading, installing software, etc. An RA can also be assigned to faculty members to help them in their research effort. Currently the assistantship amount is Rs. 12,400/- per month. It also gives 50% waiver in tuition fee.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech]
+Project Assistantship: Several faculty members are working on sponsored projects, supported by government funding agencies such as MHRD, DIT, DST, AICTE, etc. Some projects are also funded by Industry. An MTech student can be hired as a project employee to carry out research.  The assistantship amount in such cases can be provided. No student can draw more than one scholarship/assistance at a time.
+
+All postgraduate programmes in the institute are subject to the provisions of PG manual.  It describes the rules regarding all aspect of the postgraduate programmes. In some cases there might be additional restrictions imposed by individual departments.
+
+=== program m tech ms cyber security ===
+Source: https://www.cse.iitk.ac.in/
+BT-MT Dual Degree, MTech And MS In Cyber Security
+
+' This list will change as per the availability of new faculty offering new courses related to the curriculum. '
+
+Manindra Agrawal
+
+Sandeep K. Shukla
+
+Debadatta Mishra
+
+Nitin Saxena
+
+Priyanka Bagade
+
+Urbi Chatterjee
+
+The department of Computer Science and Engineering at IIT Kanpur has been offering a good number of courses in Cyber Security related subjects for the last 4 years. Multiple faculty members in the department are engaged in research projects related to cyber security. Therefore, the department feels that it has a critical mass in terms of faculty strength to create new degree programs specializing in cyber security.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Simultaneously, the NASSCOM projects that the country needs cyber security professionals in large numbers – approximately 1 million currently. These professionals also need to have varying degrees of expertise, in order to fulfill their job obligations. The possible roles in cyber security jobs are cyber vulnerability assessment and penetration testing (VAPT) engineers, security operations center (SoC) analysts, security strategists, developers of cyber security tools and technologies, cyber security policy developers, researchers, and chief information security officers (CISO)s etc.
+
+Additionally, a number of Army and Navy officials have personally visited IIT Kanpur, and requested that specialized Masters programs in Cyber Security be offered to defense personnel who upon completion of  their degrees here – could join various positions at the defense CERT (Computer Emergency Response Team), the WESEE (Weapons and Electronics Engineering Center, Indian Navy), the Defense Intelligence Agency (DIA) , Defense Cyber Agency (DCyA) etc., where cyber security professionals are urgently required.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Due to the confluence of these three facts, the department of CSE is proposing three new master’s programs specializing in Cyber Security. The MTech program in Cyber Security is meant to cater to the students who are likely to take up jobs as VAPT engineers, security center analysis, CERT engineers, cyber security tool developers etc. The MS by research program is designed to train cyber security researchers, technology developers, cyber security strategists, and top-level Cyber Security policy designers. Also, an option for BT-MT dual degree students is proposed to specialize in Cyber Security. This proposal describes the three proposed programs.
+
+According to the Data Security Council of India’s latest annual Cyber Security India Market report, the cyber security market in India will grow from USD 1.97 billion in 2019 to USD 3.05 billion by 2022. NASSCOM – an industry body for the information technology (IT) industry projected recently that India will need approximately 1 million cyber security professionals in order to protect its cyber space from cyber-attacks. These jobs span diverse sectors including the software product industry, software-based services industry, as well as the government agencies such as NCIIPC (National Critical Information Infrastructure Protection Center), CERT-IN (Computer Emergency Response Team of India), Sector specific CERTs (such as CERT POWER, CERT FINANCE etc.), NIC, Defense CERT, and Defense labs such as WESEE, Defense Intelligence Agency etc.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+At the same time, Army and Navy officers have repeatedly requested that IIT Kanpur offer new opportunities for their officers who are deputed to complete their M. Tech at IIT Kanpur. A frequent request has been a degree in Cyber Security in order to train for cyber security related jobs in the Defense. It is worth noting here that the government has recently announced setting up of Defense Cyber Agency (DCyA) for cyber warfare and this agency will require a significant number of well-trained officers.
+
+Our faculty members have been approached by companies such as Intel, AMD, Fortanix, NetApps, NXP Semiconductors, Texas Instruments etc., requesting student interns and future employees who could work in the areas of micro-architecture security, hardware security, secure machine learning etc.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Combined with these three factors is the fact that in the recent years, the Computer Science and Engineering (CSE) department has been offering a large variety of cyber security related courses, and several faculty members are engaged in cyber security related research projects. A fairly good number of Masters’ thesis projects have been completed in cyber security related topics.
+
+Keeping these factors in mind, the CSE department has decided to propose three Masters programs with specialization in Cyber Security. The first proposal is to provide an opportunity for BT-MT dual degree students to specialize in cyber security by fulfilling the same course requirements as the proposed MTech program with this specialization. The second proposal is to create an MTech degree with specialization in Cyber Security, and the third proposal is to create an MS by research program with specialization in Cyber Security.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+As mentioned earlier, in the recent past, we have received a number of requests from government and non-government entities for creating specialization program in Cyber Security as there is a severe lack of trained man power in this field. In order for everyone to understand the various job roles available, and to distinguish between the job roles expected to be taken up by graduates of BT-MT dual degree students, MTech students and MS students, here we provide a list of common job types for Cyber Security professionals in India.
+
+Like many fields of engineering, the government and industry need both cyber security generalists who have very broad understanding of various aspects of cyber security and how they interact with each other, as well as domain specialists who focus on a single domain – such as Network Security, Web Security, Vulnerability Assessment, Penetration Testing, Hardware Security etc.  While the first type of role would require breadth and some depth, the second type requires domain specific depth, and hands-on experience in researching the specific domain.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Information Security Analyst
+
+Cryptographer
+
+Security Administrator
+
+Penetration Tester
+
+Sector specific Security Operations Center Analyst
+
+Security Operations Center Head
+
+Cyber Security Product Engineers
+
+Cyber Security Application Engineers
+
+Chief Information Security Officer
+
+Security Architect
+
+Lead Software Security Engineer
+
+Cyber Security Product Architect
+
+Cyber Security Service Architect
+
+Cyber Security Researcher
+
+Cyber Security Policy Designer
+
+Cyber security Strategists
+
+The above list is not exhaustive, but aims to provide aa broad overview of the diverse roles and responsibilities for cyber security professionals. The roles in blue are roles that require training and hands-on experience in domain-specific cyber security technology, and employees with these roles will be doing more hands-on engineering, product development, application engineering of products etc. The roles in bold and green font are roles that would require more breadth and some hands-on experience. Therefore, it is expected that the generalist jobs will be more suitable for students graduating with BT-MT or MTech in Cyber Security while the other jobs will be more appropriate for students graduating with an MS by research in cyber security with a very in-depth thesis component in a specific topic.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Our proposed curriculum is reflective of what courses we currently have on offer, and we believe that in the future, our curriculum will have a broader choice of courses and courses in Cyber Security Ethics, Laws, and Regulations may be introduced.
+
+Course No. | Course Title | Instructor | No. of Credits
+
+Group A: Core Courses
+
+CS 628 | Computer System Security | Sandeep K. Shukla | 9
+
+CS 641 | Modern Cryptography | Manindra Agrawal | 9
+
+Group B: Cyber Security Courses
+
+CS 631 | Cyber Security of Critical Infrastructures | Sandeep K. Shukla | 9
+
+CS 665 | Secure Memory Systems | 9
+
+CS 675 | Designing Verifiably Secure Systems | 9
+
+CS 658 | Malware Analysis and Intrusion Detection | Sandeep K. Shukla | 9
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+CS 731 | Blockchain Technology and Applications | Sandeep K. Shukla | 9
+
+Group C: Courses Relevant to Cyber Security but not directly on Cyber Security Topics
+
+CS 771 | Introduction to Machine Learning | ML faculty in CSE
+
+CS 730 | Topics in Operating System | Debadatta Mishra
+
+CS 698 | Linux Kernel Programming | Debadatta Mishra
+
+CS 623 | Modern Memory Systems
+
+CS 681 | Computational Algebra and Number Theory | Nitin Saxena
+
+The courses CS 628A and CS 641A will be designated as core courses for all proposed Masters programs.
+
+Program | Credit Requirements
+
+MTech | Course work = 63 credits, Thesis work: 81 credits.
+18 credits of core courses (Group A in Table 1), 27 credits from courses in Group B, and 9 credits from Group C courses. 9 credits from either Group B or C.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+BT-MT Dual | Same as M. Tech
+
+MS (R) | Course work = 36 credits, Thesis work: 108 credits.
+18 credits of core courses (Group A in Table 1), 18 credits from courses in Group B.
+
+Course work = 36 credits, Thesis work: 108 credits.
+
+Each student must complete the two core courses from the Group A courses. They also must complete 27 credits (i.e.3 courses of 9 credit hours each) out of the list of courses in Group B and at least 9 credits (i.e. 1 course of 9 credits) from the list of courses in Group C. However, in total, a student must complete a total of 63 credits (7 courses – each of 9 credits) for completing his/her degree requirements. Therefore, they must complete a minimum of 54 credits (6 courses of 9 credits each) from Group A, B and C, another 9 credits can be taken from either group B or Group C, or any other CSE department course with the explicit permission of the DPGC.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+The list of courses currently available are listed in the Table 1. It will be extended in the future. The student must also complete thesis work worth 81 thesis credits (9 units). All requirements for MTech program of CSE vis-a- vis thesis work applies. In summary, the total number of credits required for MTech is 144 credits (63 credits in courses, and 81 credits in M. Tech thesis work).
+
+For students in the BT-MT dual degree, minimum 81 credits of thesis work, and 54 credits in course work (with 18 credits of core courses, minimum 27 credits from Group B courses, and minimum 9 credits from Group C courses) must be completed. Another 9 credit PG level course must be taken either from the Group B or Group C or any other course offered by the CSE department with explicit permission of the DUGC.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Each student must complete 18 credits of core courses and 18 credits of courses from Group B (i.e. 2 courses each of 9 credit hours). The list of courses in Table 1 will be extended in the future. The student must complete thesis credit of 108 credits (12 units). All requirements for MS program in CSE vis-à-vis thesis work will apply.
+
+The goal is to start with a small size. For the BT-MT program, we propose to accept up to 10 students for the cyber security specialization. For the MTech program -- we plan to initially accept up to 15 students through GATE and 10 students from Defense and Government sectors based on selection by the Defense/Government agencies. For the MS program, 10 students through GATE, and 5 students from Defense, Government, and Industry sector. There will be no GATE requirement for candidates from Defense/Government/Industry sectors. The reservations as per rules will apply.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program m tech ms cyber security]
+Program | Through GATE | Defense/Govt/Sponsored | From B. Tech
+
+BT-MT | NA | NA | 10
+
+MTech | 15 | 10 | NA
+
+MS (R) | 10 | 5 | NA
+
+The admissions for the various programs will be as per the PG manual.
+
+=== program ms ===
+Source: https://www.cse.iitk.ac.in/
+Master Of Science (By Research) Program
+
+The programme is designed for students who want to work on research or industry-sponsored projects at IIT Kanpur and earn an MS (by Research) degree at the same time.
+
+The duration of the programme is usually five-six semesters, but it is not set in stone. The duration also depends on the progress of the student on the project that he/she is working on and on the evaluation of the advisor.
+
+BTech/BE/BS(4yrs)(CS or IT)/MCA/MSc(CS) with CPI >= 6.00 or >= 60%, valid GATE score in CS
+
+BTech/BE/BS(4yrs)(any discipline) with CPI >= 7.5 or >= 75%, valid GATE score in CS
+
+BTech/BE/BS(4yrs)/MSc in EC/EE/Electronics/Math, GATE score in EE/EC/Math should be in top 1.0% and CPI >= 7.5 or >= 75% in eligibility degree
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program ms]
+The sponsored students admitted on full-time basis and the students admitted on part-time basis (with a minimum of one year of project support from the date of admission, in the case of those employed on sponsored research projects in the Institute) will not be required to satisfy the GATE requirement. The (part-time) students employed on sponsored research projects in the Institute will not be supported by the Department, in case they fail to get project funding in their second year of the programme. Such students could be offered Institute Assistantship, as in the case of MTech. students, for a maximum of one year, provided they have a valid GATE score and their case is considered favorably by the DPGC of the Department. Admission Process Applications for admission under the MS (by Research) programme will be invited independent of those for the MTech programme. Those interested to apply in both programmes will need to make separate applications. The merit list for admission in the proposed MS programme will be prepared following the same process as that for the MTech programme, but the GATE cut-off scores used for short-listing for the purpose of written tests/programming tests/interviews for the two programmes will be independent of each other. Aspiring MS candidates will need to appear for an on-campus written test and a programming test. Candidates shortlisted based on these tests will need to then appear for an interview.
+
+=== program ph d ===
+Source: https://www.cse.iitk.ac.in/
+Doctor Of Philosophy (PhD) Program
+
+The department is actively involved in research in all current areas of Computer Science. The focus of the PhD program is on research training with a high degree of specialization. The aim of such a training is to make our PhD students very competent in their respective areas, so that they may be able to take up teaching or research-and-development professions.
+
+The residence requirements for PhD program is four or six semesters depending on whether the student has M.Tech. or B.Tech. degree, respectively.
+
+For PhD students who have an M.Tech. degree, the minimum requirement is that of 144 credits, out of which at least 36 credits should be through regular post-graduate courses and at least 72 credits should be through research. In case of PhD students holding a B.Tech. degree, the minimum requirement is that of 216 credits, out of which 36 credits should be through post-graduate courses and at least 72 credits should be through research. A typical course is considered to be of 9 credits. All the courses in the PhD program are electives. A list of all computer science courses is available here (https://www.cse.iitk.ac.in/pages/Courses.html). A large number of electives are offered in each semester. The exact courses offered will depend on availability of faculty members in a particular semester.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program ph d]
+Please check the Research Areas page to learn more about the interesting work being carried out by members of the department.
+
+The department of Computer Science & Engineering at IIT Kanpur has always been a very open and supportive department for all its students, and particularly so for the PhD students. There is a relaxed, friendly atmosphere, where faculty and students mix freely. PhD students are respected as much as any faculty member. They have their own air-conditioned office space, furniture, etc., with a telephone. Each student is given a PC on her/his desk, when they join. They get office support for photocopying, laser printing, mailing, stationery, etc. They have a say in deciding the books and journals to be bought by the library. They can expect to get travel support to attend conferences. More details on financial assistantship is given below. In addition, the deparment runs a large number of short-term courses for the industry, in which PhD students have a choice to teach. If they choose to teach those courses, they will be given additional handsome remuneration for that.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program ph d]
+Non-sponsored candidates admitted to the regular full-time PhD Program who are Indian Nationals are eligible for financial assistance as follows: TA/RA ship: Candidates admitted to the PhD program (and satisfying some conditions like either holding M.Tech. degree or having a valid GATE score, minimum marks in qualifying degree examination, etc.) will be offered the Teaching Assistantship (TA) or Research Assistantship. A teaching assistant can be asked to conduct labs, help an instructor in grading, and other course-related tasks. In some cases, TA can also be asked to teach tutorial sessions to the first year BTech students. A research assistant can be asked to support the department in various academic activities. An RA can also be assigned to faculty members to help them in their research effort. The assistantship amount depends on whether the candidate has a BTech degree or an MTech degree. The assistantship after MTech is Rs. 37000 per month. This amount can be supplemented by various grants. Ph.D students are given stipend of Rs. 37,000 per month for first two years which increases to Rs. 42,000 per month for next three years. Project Assistantship: Several faculty members are working on sponsored projects, supported by government funding agencies such as MHRD, DoE, DST, AICTE, etc. Some projects are also funded by Industry. A PhD student can be hired as a project employee to carry out research. The assistantship amount in such cases may be more than the default stipend of Rs. 37,000 p.m. Industry Fellowships: Several companies are supporting PhD students by providing them with a fellowship.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > program ph d]
+Extension of financial Assistantship for PhD Scholars (2016 – 2017 - I) Letter.
+
+=== ph d comprehensive ===
+Source: https://www.cse.iitk.ac.in/
+PhD Comprehensive
+
+=== minor programs ===
+Source: https://www.cse.iitk.ac.in/
+Minor Programs
+
+The department offers four minor programs - Algorithms, Computer Systems, Theoretical Computer Science, and Machine Learning/Artificial Intelligence. The course requirements for these programs are as follows:
+
+Algorithms: Students are required to do ESO207, CS345 and one other course from the pre-approved list of courses for algorithms (link is present below).
+
+Computer Systems: Students are required to do ESO207 and two courses from the pre-approved list of courses for systems (link is present below).
+
+Theoretical Computer Science: Students are required to do ESO207, CS340 and one other course from the pre-approved list of courses for theoretical computer science (link is present below).
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > minor programs]
+AI/ML: Students are required to do ESO207, CS771 and one other course from the pre-approved list of courses for ML/AI (link is present below).
+
+For each minor stream, the minimum total credit requirement is 30.
+
+Algo
+
+AI/ML
+
+Systems
+
+Theory
+
+BTech students of departments other than CSE who have completed two years in their program can apply for Minor Programs in CSE. Each year at most ten students will be registered for CSE minor programs.
+
+Interested students must give an application on a piece of paper with the following information on it:
+
+Submit your application in the CSE office latest by 4 pm on the day before the day of registration(in this year 2013 it is 25th July).
+
+The deadline for the acceptance has been extended to 4 pm 29th July.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > minor programs]
+At most ten (10) students will be selected from those who apply with complete and correct information. The selection will be based primarily on CPI but it will also depend on the ESC101 grade.
+
+=== anti cheating policy ===
+Source: https://www.cse.iitk.ac.in/
+Anti-Cheating Policy
+
+The CSE  Department, IIT  Kanpur is  committed  to stop the use of  unfair means  in
+academic activities.  The following  policy outlines measures  to deal
+with cases of cheating/dishonesty in academics (course work, research work).
+This  document defines the departmental policy to address such events.
+However, an instructor can always decide on a stricter punishment.
+
+Use of unfair means in course-work:
+
+The student will get an F in the course.
+
+The student will not be allowed to drop the course.
+
+The name of the student will be made public to the students of the course.
+
+A complaint will be sent to SSAC for disciplinary action.
+
+An intimation will be sent to DoAA to be kept in the student's record.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > anti cheating policy]
+The matter will be referred to the departmental ethics committee.
+
+All applicable actions of  the previous point will be taken.
+
+The information will be shared with everyone in the department.
+
+The department will recommend termination.
+
+Use of unfair means in research-work:
+For research  work submitted  as  a member  of CSE  department, plagiarism and fake  data will be considered a  very serious case of dishonesty.
+
+Near-verbatim copying from any source (Internet, books, articles, etc.).
+
+Rephrasing from another source (including one's own published work) without adequate citations.
+
+For more details see https://www.acm.org/publications/policies/plagiarism_policy.
+
+Fake-data: Use of fake-data in any research work is considered a serious offense.
+
+[Context: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) IIT KANPUR - UNDERGRADUATE, POSTGRADUATE,  > anti cheating policy]
+If anyone is found guilty, even after completion of their degree, necessary actions will be taken by the department and the institute.
+
+Actions taken by the department:
+
+The department ethics committee will investigate all matters of academic dishonesty and recommend appropriate actions to the concerned institute authorities.
+
+The department  will maintain a list of all offenders which will be shared with all faculty members.
+
+No recommendations/awards will be given to the offenders.
+

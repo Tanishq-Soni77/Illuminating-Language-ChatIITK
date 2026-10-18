@@ -1,0 +1,55 @@
+DEPARTMENT OF CHEMICAL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Chemical Engineering, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/che. Snapshot: scraped in 2026.
+
+=== online courses ===
+Source: https://www.iitk.ac.in/che/online_courses.html
+Online Courses
+
+Online Courses
+
+Thermodynamics
+Of Fluid Phase Equilibria, IIT Kanpur
+
+Dr. Jayant K. Singh
+
+Fluid
+Mechanics
+
+Dr. Nishith Verma
+
+Fluid
+Mechanics
+
+Dr. V. Shankar
+
+Chemical
+Engineering Thermodynamics
+
+Dr. Jayant K. Singh
+
+Plantwide
+Control of Chemical Processes
+
+Dr. Nitin Kaistha
+
+Plantwide
+Control of Chemical Processes
+
+Dr. Nitin Kaistha
+
+Mechanics of
+Soft Materials
+
+Dr. Animangsu Ghatak
+
+Introduction
+to Colloid and Interface Science and Engineering
+
+Dr. Ashutosh Sharma
+
+Mass Transfer
+II
+
+Dr. Nishith Verma
+

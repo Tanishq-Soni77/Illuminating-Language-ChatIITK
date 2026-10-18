@@ -1,0 +1,903 @@
+CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Centre for Lasers and Photonics (CELP) - Photonics Science and Engineering Programme, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/celp. Snapshot: scraped in 2026.
+
+=== journal papers ===
+Source: https://www.iitk.ac.in/celp/journal-papers
+Recent Publications
+
+Nitish Kumar Gupta,Gaganpreet Singh,Harshawardhan Wanare, S. Anantha Ramakrishna, Kumar Vaibhav Srivastava, and J. Ramkumar, "A low-profile consolidated metastructure for multispectral signature management," J. Opt. (2022).
+
+Naresh Sharma, Govind Kumar, Vivek Garg, Rakesh G. Mote, and Shilpi Gupta,"Reconstructive spectrometer using a photonic crystal cavity," Opt. Express 29, 26645-26657 (2021)
+
+Dipak Rout, Govind Kumar and R Vijaya, "Concurrent deep UV diffractions enabled by the Bragg condition and crystal symmetry in silica inverse opals". J. Phys. D: Appl. Phys. 54 125104 (2021)
+
+Nitish Kumar Gupta, Anjani Kumar Tiwari,Harshawardhan Wanare, S. Anantha Ramakrishna, "Near singular-phase optical biosensing with strongly coupled modes of a plasmonic-photonic trimer," J. Opt. 23, 065003 (2021).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Nitish Kumar Gupta, Harshawardhan Wanare, S. Anantha Ramakrishna, "Design of transparent conducting plasmonic metasurfaces and theory of impedance-matched metastructures," Plasmonics. 15, 2109-2117 (2020).
+
+Gyana Ranjan Sahoo, Shivam Shukla and Asima Pradhan, "Comparison of phase contrast and bright field microscopy through wavelet leader based multifractal analysis for cervical pre-cancer diagnosis." Asian Journal of Physics, 29, 1-20, (2020).
+
+Singh, P., Pandey, P., Shukla, S., Naik, N., & Pradhan, A. "Modelling, Design and Validation of Spatially Resolved Reflectance Based Fiber Optic Probe for Epithelial Precancer Diagnostics" Applied Sciences, 10(24), 8836(2020).
+
+N. Sharma, G. Kumar, V. Garg, R. G. Mote, V. Ramarao and S. Gupta, "Translationally Invariant Generation of Annular Beams Using Thin Films", IEEE Photonics Technology Letters, vol. 32, no. 19, pp. 1273-1276, (2020).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Sudip K Chatterjee and R.Vijaya, Narrowband Ultraviolet Generation in Dispersion-shifted Few-mode Fiber viacombined effect of Intermodal Four-wave mixing and Nonlinear Mode Coupling, Opt. Commun.458,124816, 2020.
+
+Nitish Kumar Gupta, HarshawardhanWanare, S. Anantha Ramakrishna, "Broadband infrared emissivity engineering in optically transparent metamaterials by regulation of electromagnetic resonances," Asian J. Phys. 28, 899-905 (2019).
+
+Dipak Rout*, Govind Kumar* and R.Vijaya, Interplay of dual photonic stopband in fluorescence enhancement from dye-doped photonic crystal heterostructures, J.Nanophot. 13, 046005, 2019.: equal contribution
+
+Arpita Haldar, Govind Kumar and R.Vijaya, Optical Heterostructure with Dual Features of Broad Spectral Distribution and Wide Spatial Diffraction, ACS Appl.Nano Mater. 2, 6655-6661, 2019.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Sravya Rao, Rahul Shaw, Dipak Rout, Govind Kumar, Vijaya R and Shilpi Gupta, Diffraction Imaging of Cracks in Self-assembled Photonic Crystals, Opt.Mat. 91, 189-194, 2019.
+
+Jagadesh Ramaiah,Sreeprasad Ajithaprasad and Gannavarpu Rajshekhar, "Graphics processing unit assisted diffraction phase microscopy for fast non-destructive metrology", Measurement Science and Technology, Volume 30, Number 12, 125202(8pp), 2019
+
+Allaparthi Venkata Satya Vithin, Sreeprasad Ajithaprasad, and Gannavarpu Rajshekhar, "Step phase reconstruction using an anisotropic total variation regularization method in a diffraction phase microscopy", Applied Optics, 58 (26), 7189-7194, 2019
+
+Ankur Vishnoi, Sreeprasad Ajithaprasad and Gannavarpu Rajshekhar, "Wigner-Ville distribution based diffraction phase microscopy for non-destructive testing", Journal of Modern Optics, 66 (16), 1644-1651, 2019
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Sreeprasad Ajithaprasad, Raviteja Velpula and Gannavarpu Rajshekhar, Defect detection using windowed Fourier spectrum analysis in diffraction phase microscopy, Journal of Physics Communications, 3, 025006, 2019
+
+Sudip K Chatterjee and R.Vijaya, "Degenerate intermodal four-wave mixing with Q-switched nanosecond pulses in SMF-28 for the generation of discrete ultraviolet-visible wavelengths", OSA Continuum 1, 1360-1369 (Dec 2018)
+
+A Sreeprasad and Gannavarpu Rajshekhar, Non-invasive precision metrology using diffraction phase microscopy and space-frequency method, Optics and Lasers in Engineering, 109, 17-22, 2018
+
+Anupa Kumari, Samir Kumar, Mukesh Kumar Shukla,Govind Kumar, Partha Sona Maji, R Vijaya and Ritwick Das, Coupling to Tamm-plasmon-polaritons: dependence on structural parameters, J. Phys. D: Appl. Phys,51, 255103 (June 2018)
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Govind Kumar and R.Vijaya, Band edge- and defect mode-induced emission from photonic crystal heterostructure cavity, J.Opt. Soc. Am. B 35 (1), 61-67 (Jan 2018)
+
+Dipak Rout, Govind Kumar and R.Vijaya, Amplified emission and modified spectral features in an opal heterostructure mediated by passive defect mode localization, J.Phys.D: Appl.Phys 51, 015112 (Jan 2018)
+
+Krishnandu Makhal, Paresh Mathur, Sidharth Maurya, and Debabrata Goswami, "Extracting third order optical nonlinearities of Mn(III)-Phthalocyanine chloride using high repetition rate femtosecond pulses, Journal of Applied Physics", 121,053103, 2017.
+
+Ankita Jain, Pradeep Kumar Krishnamurthy, Pascal Landais and Prince M. Anandarajah, "EKF for Joint Mitigation of Phase Noise, Frequency Offset and Nonlinearity in 400 Gb/s PM-16-QAM and 200 Gb/s PM-QPSK Systems", IEEE Photonics Journal, 9, 1-10, 2017.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Arpita Haldar, M. Srinivas Reddy, and R. Vijaya, "Inexpensive graded-index antireflective surfaces for silicon-based optoelectronic devices", Journal of the Optical Society of America B 33,11, 2016.
+
+Suchita Yadav, Govind Kumar and R.Vijaya, "Spectral features of anti-Stokes and Stokes modes generated by stimulated Raman scattering in liquid toluene", Applied Physics B, 122, 257, 2016.
+
+Ankita Jain, Nishanth Chandra, Abhishek Anchal and Pradeep Kumar Krishnamurthy, "Tunable multiwavelength mode-locked fiber laser using intra-cavity polarization and wavelength dependent loss" in Optics & Laser Technology, 83, pp. 189-194, 2016.
+
+Ankita Jain and Pradeep Kumar Krishnamurthy, "Phase noise tracking and compensation in coherent optical systems using Kalman filter", IEEE communication letters, vol. 20, pp. 1072-1075, 2016.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > journal papers]
+Arpita Haldar, M Srinivas Reddy and R Vijaya, "Enhancement of light collection through flexible polymeric films patterned using selfassembled photonic crystals", Journal of Physics D: Applied Physics 48, 265103, 2015.
+
+=== lab femtosecond 20lab ===
+Source: https://www.iitk.ac.in/celp/lab/Femtosecond%20Lab/
+Femtosecond Laser Laboratory
+
+HomeAbout the LaserMicromachiningReading MaterialsContact
+
+About the facility
+
+The Femtosecond laser for CELP was funded by IIT Kanpur. This CPA-series laser from M/s Clark-MXR Inc. is a compact, integrated Ti:Sapphire amplified laser system and is comprised of
+the following physical units:
+
+Laser Head
+
+Power Supply
+
+Pockels Cell Driver
+
+Temperature Stabilization Unit
+
+The CPA-Series laser head contains the following subcomponents in a bi-level optical layout design:
+
+SErF fiber oscillator
+
+Pulse stretcher
+
+Regenerative amplifier
+
+Frequency-doubled Nd:YAG pump laser
+
+Pulse compressor
+
+Micromachining is possible with the Beam Delivery Unit (BDU) from Optec, Belgium. This was funded by IIT Kanpur under CARE scheme in 2012. This is intended for use with 1550/775nm IR laser and includes part motion, vision systems, and operating software. The opto-mechanical assembly is mounted on an optical table, and when combined with the femtosecond laser source will form a complete ultrafast-laser based micromachining system.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab femtosecond 20lab]
+
+Read Precautions
+carefully before using the laser
+Check Laser Specifications
+
+Download: Job Indent Form
+
+The job indent forms should be sent to amarghar@iitk.ac.in with the subject line as "CELP laser job order".
+
+Copyright Reserved | www.iitk.ac.in | Last modified 2014 |Squirrel Mail
+
+>
+
+=== lab femtosecond 20lab about the laser ===
+Source: https://www.iitk.ac.in/celp/lab/Femtosecond%20Lab/about_the_laser.html
+Femtosecond Laser Laboratory
+
+About the Laser
+Micromachining Reading MaterialsContact
+
+>
+
+=== lab femtosecond 20lab contacts ===
+Source: https://www.iitk.ac.in/celp/lab/Femtosecond%20Lab/Contacts.html
+Femtosecond Laser Laboratory
+
+For further details, you may contact:
+
+Prof. R.Vijaya
+
+SL 217, Tel: 7552,
+e-mail:
+rvijaya@iitk.ac.in
+Prof.P.K.Panigrahi
+
+NL-311, Tel: 7686,
+e-mail:
+panig@iitk.ac.in
+
+The job indent forms should be sent to  amarghar@iitk.ac.in  with the subject line as "CELP laser job order".
+
+>
+
+=== lab femtosecond 20lab micromachining ===
+Source: https://www.iitk.ac.in/celp/lab/Femtosecond%20Lab/Micromachining.html
+Femtosecond Laser Laboratory
+
+About the Laser
+
+Micromachining Reading Materials  Contact
+
+Read Manual
+carefully before using the Micromachining Unit
+
+>
+
+=== lab femtosecond 20lab reading material ===
+Source: https://www.iitk.ac.in/celp/lab/Femtosecond%20Lab/reading_material.html
+Femtosecond Laser Laboratory
+
+About the Laser
+
+Micromachining Reading MaterialsContact
+
+Graham N. Smith, Kyriacos Kalli and Kate Sugden, Advances in  Femtosecond Micromachining and Inscription of Micro and Nano Photonic  Devices, Frontiers in Guided Wave Optics and Optoelectronics, Bishnu Pal  (Ed.), ISBN: 978-953-7619-82-4, InTech (2010).
+
+X. Liu, D. Du, and G. Mourou, Laser Ablation and Micromachining with  Ultrashort Laser Pulses, IEEE Journal of Quantum Electronics, Vol. 33, No.  10, pp.1706-1716 (1997).
+
+>
+
+=== lab magnetron 20sputtering ===
+Source: https://www.iitk.ac.in/celp/lab/Magnetron%20Sputtering/
+DC/RF Magnetron Sputtering System Facility
+
+for Thin Film Deposition
+
+HomeAbout the FacilityReading MaterialsContact
+
+Description
+
+The DC/RF Sputtering system was funded by IIT Kanpur in the CARE scheme during the year 2013-14.
+
+Sputter deposition is a thin-film technology which is classified as a physical vapor deposition method. The material which is to be deposited (target material) is first sputtered (atomized) by way of ion bombardment in a plasma and thereby transformed to the vapor phase. The particle vapor is then deposited as a thin film on the substrate to be coated.
+
+The DC/RF magnetron sputter system (from M/s Advanced Process technology, Pune) is a confocal thin-film deposition tool in sputter-up configuration. The system is pumped with a turbo molecular pump and achieves low pressure (10-6 mbar) within 90 minutes. This sputter machine is equipped with three RF/DC magnetron guns. RF or DC power can be applied to the individual magnetron. Dielectric materials, such as SiO2, TiO2, ZnO, Al2O3 and metal films, such as Au, Ag, Pt, Cu and Zn can be deposited. Target to substrate distance is adjustable in order to achieve desired uniformity and deposition rate. The system can process wafers up to 2 inches in diameter. In view of multi-gun capability, co-sputtering, sequential sputtering without breaking vacuum and reactive sputtering (with active gas mixtures) are possible.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab magnetron 20sputtering]
+The system can be used to deposit the films for a variety of applications, including multi-layer optical coatings, sensor devices, solar cells, thin film research, magnetic devices and biomedical research.
+
+Download: Job Indent Form
+
+Send enquiries to: govindk@iitk.ac.in
+
+Copyright Reserved | www.iitk.ac.in | Last modified 2015 |Squirrel Mail
+
+>
+
+=== lab magnetron 20sputtering about the facility ===
+Source: https://www.iitk.ac.in/celp/lab/Magnetron%20Sputtering/about_the_facility.html
+for Thin Film Deposition
+
+System specification:
+
+Cylindrical  stainless steel chamber
+
+Turbo molecular vacuum pumping system with rotary vane pump
+
+3" diameter view port
+
+Single/multiple magnetron gun assemblies with 2.00"dia. x 0.125" thick target sizes
+
+Motorized shutter assembly for all sources
+
+One 13.5MHz, 300 W (max power) RF power source and one Pulsed/DC power source
+
+Quartz crystal film thickness monitor
+
+Mass flow controller with digital readout
+
+Full range vacuum gauge with display
+
+Water chiller
+
+Capabilities:
+
+Deposition of metals/non metals and non-magnetic films
+
+Deposition of multi-layer films with selected target materials
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab magnetron 20sputtering about the facility]
+Adjustable substrate to target spacing
+
+Wafers up to 2" diameter can be deposited
+
+Substrate heating up to 800oC available
+
+Reactive sputtering with oxygen
+
+Substrate  bias capability up to 30W RF power
+
+Thickness Monitor
+
+Substrate rotation up to 20 RPM for better uniformity
+
+>
+
+=== lab magnetron 20sputtering contacts ===
+Source: https://www.iitk.ac.in/celp/lab/Magnetron%20Sputtering/Contacts.html
+for Thin Film Deposition
+
+Location: Southern Lab, SL 116 (Photonics Laboratory)
+
+Contact: Mr.Govind Kumar
+e-mail: govindk@iitk.ac.in
+Tel: 7712
+
+Faculty In-charge:Prof. R.Vijaya
+
+SL 217, Tel: 7552,
+e-mail:
+rvijaya@iitk.ac.in
+
+Users may note the following:
+
+Send enquiries to the TA at govindk@iitk.ac.in with details of the material(s) to be sputtered, thickness, number of samples and any other relevant information.
+
+Once your work is approved, fill up the Job order form and submit to the TA.
+
+Bring your own targets and substrates if they are not available in the lab.
+
+Identify a mutually convenient time with the TA and proceed with the work.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab magnetron 20sputtering contacts]
+>
+
+=== lab magnetron 20sputtering reading material ===
+Source: https://www.iitk.ac.in/celp/lab/Magnetron%20Sputtering/reading_material.html
+for Thin Film Deposition
+
+P. D. Davidse and L. I. Maissel, "Dielectric Thin Films through RF Sputtering", J. Appl. Phys. 37, 574-579 (1966).
+
+J. A. Thornton, "Influence of apparatus geometry and deposition conditions on the structure and topography of thick sputtered coatings", J. Vac. Sci. Technol. 11, 666-670 (1974).
+
+P. J. Martin "Ion-based methods for optical thin film deposition", J. Mater. Sci. 21, 1-25 (1986).
+
+B. Wolf "Handbook of ion sources", CRC Press. (1995).
+
+X. Wang, H. Masumoto, Y. Someno and T. Hirai, "Optical properties of titania/silica multilayer filters prepared by helicon plasma sputtering", J. Vac. Sci. Technol. A 16, 2926 (1998).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab magnetron 20sputtering reading material]
+P. R. Sagdeo, D. D. Shinde, J. S. Misal, N. M. Kamble, R. B. Tokas, A. Biswas, A. K. Poswal, S. Thakur, D. Bhattacharyya, N. K. Sahoo and S. C. Sabharwal, "Deposition and characterization of titania-silica optical multilayers by asymmetric bipolar pulsed dc sputtering of oxide targets", J. Phys. D: Appl. Phys. 43, 045302-045312 (2010).
+
+S. Mathur and P. Kuhn, "CVD of titanium oxide coatings: Comparative evaluation of thermal and plasma assisted processes", Surf. Coat. Tech. 201, 807-814 (2006).
+
+F. Scotognellaa, A. Chiasera, L. Criante, E. Aluicio-Sarduy, S. Varas, S. Pelli, A.  Lukowiak, G. C. Righini, R. Ramponi and M. Ferrari, "Metal oxide one dimensional photonic crystals made by RF sputtering and spin coating", Ceram. Int. 41: 8655-8659 (2015).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lab magnetron 20sputtering reading material]
+>
+
+=== m s research admissions ===
+Source: https://www.iitk.ac.in/celp/m-s-research-admissions
+Photonics Science and Engineering Programme (PSEP) is an interdisciplinary postgraduate Program offered by the Centre for Lasers and Photonics (CELP). The aim of PSEP is to train engineers/scientists in interdisciplinary activities in photonics. The MS (By Research) is primarily a research focused Master’s program where the enrolled students are expected to take up challenging research projects as their thesis.
+
+The students are admitted to the program depending on the GATE/CSIR/JRF/NET score and an interview conducted by the department. The students may also be admitted under the sponsored category subject to selection in the interview. The detailed eligibility criteria of the M.Tech program are listed on IITK Admissions Page
+
+=== projects ===
+Source: https://www.iitk.ac.in/celp/projects
+Sl No. | Funding Agency | Start Date | Closing Date | Duration (Years) | Principal Investigator | Co-PI | Project Title | Project Category |
+
+1 |
+DST |
+4/1/2012 |
+3/31/2014 |
+2 |
+PRADIPTA K PANIGRAHI |
+MONICA KATIYAR |
+LOCK-IN-THERMOGRAPHY FOR SOLAR CELL AND MODULE CHARACTERIZATION |
+SPONSORED |
+
+2 |
+MCIF |
+1/1/2013 |
+12/31/2016 |
+4 |
+Raj Kumar THAREJA |
+ASIMA PRADHAN |
+ULTRAFAST PHOTONICS PROCESSES AND INTERACTIONS (UP-PI) |
+SPONSORED |
+
+3 |
+STPL |
+4/22/2013 |
+1/31/2014 |
+9 MONTHS (APPROX.) |
+PRADEEP KUMAR K |
+K MURALIDHAR |
+DESIGN OF A DIAMOND COLORIMETER |
+CONSULTANCY |
+
+4 |
+DBT |
+6/5/2013 |
+12/31/2016 |
+3.5 |
+ASIMA PRADHAN |
+SRI SIVAKUMAR
+VIJAYA Ramarao |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > projects]
+DIAGNOSIS OF CANCER USING FLUORESCENCE LIFETIME IMAGING |
+SPONSORED |
+
+5 |
+DST |
+2/20/2014 |
+2/19/2016 |
+2 |
+ASIMA PRADHAN |
+RAJEEV GUPTA |
+FEASIBILITY STUDY FOR FABRICATION AND TESTING OF HAND HELD PROBE FOR IN VIVO DETECTION OF CERVICAL PRECANCER BY BIOPSYL LAB IIT KANPUR |
+SPONSORED |
+
+6 |
+NRB |
+9/28/2015 |
+9/27/2018 |
+3 |
+PRADEEP KUMAR K |
+PRADIPTA K PANIGRAHI |
+FIBER-OPTIC HYDROPHONE SENSOR ARRAY FOR UNDERWATER SURVEILLANCE |
+SPONSORED |
+
+7 |
+STC |
+8/12/2016 |
+8/11/2017 |
+1 |
+VIJAYA Ramarao |
+FEASIBILITY STUDY OF PHOTONIC BANDGAP STRUCTURES FOR SPACE APPLICATIONS |
+SPONSORED |
+
+8 |
+SERB |
+12/26/2016 |
+12/25/2019 |
+3 |
+VIJAYA Ramarao |
+PHOTONIC FUNCTIONAL CRYSTAL DEVICES |
+SPONSORED |
+
+9 |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > projects]
+MHRD |
+27-2-2017 |
+27-2-2020 |
+3 |
+ASIMA PRADHAN |
+Pradeep Kumar K |
+In Vivo testing and up-gradation of prototype optical probe for cervical and oral pre cancer detection |
+SPONSORED |
+
+10 |
+MHRD |
+9-5-2017 |
+8-5-2020 |
+3 |
+Vijaya |
+Optical Coating for High-reflection and Anti-reflection applications |
+SPONSORED |
+
+11 |
+STC |
+1-10-2017 |
+30-9-2020 |
+3 |
+Vijaya |
+Gigahertz And Terahertz Antenna on Photonic Crystal substrate |
+SPONSORED |
+
+12 |
+DST |
+26/03/2021 |
+25/03/2023 |
+2 |
+ASIMA PRADHAN |
+Pilot Scale Testing of Smartphone Based Fluorescence Spectroscopic Device For Point-Of-Care Diagnosis Of Early Cervical Cancer |
+SPONSORED |
+
+=== pulsed laser facility ===
+Source: https://www.iitk.ac.in/celp/pulsed-laser-facility
+Pulsed Nd: YAG Laser (Quanta Ray Pro-Series)
+The Quanta-Ray Pro-Series pulsed Nd: YAG laser comprises a laser head with Beam Lock and power supply. Control is provided via windows-based software or an optical table top analog controller. This laser offers a variety of pulse frequency and wavelength options.
+
+Specifications:
+Laser wavelengths: 1064 nm and 532 nm; Rep rate: 10 Hz; Pulse width: 10 nsec; Energy (@1064nm): 325 mJ/pulse; Energy (@532nm): 120 mJ/pulse; Beam diameter: < 10mm;
+Activities: Optical waveguide characterization (Departmental)
+Optofluidic dye laser characterization (Departmental)
+Synthesis of carbon nano-tubes (External)
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > pulsed laser facility]
+Pulsed Nd: YAG Laser (Quanta Ray INDI)
+Quanta-Ray INDI series laser is designed for users who do not require a high end pulsed Nd: YAG laser.  The system comprises following components:
+
+Laser head
+
+Power supply unit
+
+Table top controller
+
+CIM-INDI computer interface
+
+Push button switch option for single shot operation
+
+Specifications:  Model: INDI 40; Rep-rate: 10 Hz; Energy (@1064nm): 450 mJ; Energy (@532nm): 200 mJ
+Energy (@355 nm): 100 mJ; Energy (@266nm): 55 mJ; Pulse Width: 5-8 nsec; Divergence: 0.5 mrad;
+Beam Diameter: <10mm; Energy stability: 2%;
+
+Mode-locked Nd: YAG laser (QUANTEL YG900)
+The QUANTEL YG 980 series combines an Nd: YAG oscillator with up to two amplifiers, and features up to 2.5 J of pulse energy, excellent beam quality and high stability.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > pulsed laser facility]
+Specifications:
+Temperature stabilized bench, Fast photodiode for pulse visualization, Automatic harmonic selection Linewidth: 0.003 cm-1 with SLM option, Temperature controlled harmonic generators with motorized tuning provide the user wavelength modularity. Narrow linewidth options, including Single Longitudinal Mode (SLM) operation, as well as higher repetition rates are available to meet application requirements.
+Principal radiations: 1064nm, 532 nm, and 355 nm
+Max Energy per pulse: 420mJ (1064nm); 80mJ (532nm); 30mJ (355nm)
+Pulse width: 35 psec
+
+Laser ablation chamber with turbo molecular vacuum pump
+
+Specifications:
+Laser ablation chamber:
+Material: SS 304, ID: 350mm
+Height: 300mm; thickness: 3mm;
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > pulsed laser facility]
+No of ports available suitable for many experiments
+
+Turbo Pump:
+
+Make: Pfeiffer Vacuum GMBH Turbo Cube Model 521
+Connection dia: DN160 CF-F; Pumping speed for N2: 5000lps;
+Backing Pump: DUO 5 (Pumping speed: 5 m3/h);
+Splinter ShieldDN 160;
+Compact Full Range Gauge model PKR251
+
+=== research areas ===
+Source: https://www.iitk.ac.in/celp/research-areas
+Laser Spectroscopy
+
+Laser-Plasma Studies
+
+Ultrafast Phenomena
+
+Raman Spectroscopy
+
+Medical Applications Of Lasers
+
+Photonic Devices
+
+Semiconuctor Lasers
+
+Semiconductor Optoelectronic Integration
+
+Interferometric Tomography
+
+Fiber Optics
+
+Optical Signal & Information Processing
+
+Optical Networks
+
+Electrooptic Materials & Devices
+
+Particle Image Velocimetry
+
+Laser Schliern
+
+Laser Processing Of Materials
+
+Laser Micromachining
+
+Solid And Liquid Phase Pulsed Laser Deposition
+
+=== research labs ===
+Source: https://www.iitk.ac.in/celp/research-labs
+Lab Name | Research Areas | Equipments | Principal Investigator |
+
+Photonics Lab |
+Lasers and Photonics (Fiber optics, Photonic crystals, nonlinear optics, Antennas) |
+DC/RF sputtering system, UV-Vis- NIR spectrophotometrer, stylus profilometer, optical microscope, Nanosecond-pulsed Nd: YAG laser with SHG/THG, lasers at multiple wavelengths, and detectors at different wavelengths. |
+Dr. R. Vijaya |
+
+Optical Metrology and Imaging Lab |
+Optical coherent imaging, Non- destructive precision metrology |
+Single frequency lasers, Optical Table, sCMOS cameras, GPU workstations |
+Dr. Gannavarpu Rajshekhar |
+
+Fiber and integrated optics Lab |
+Fiber and integrated optics; infrared and terahertz frequency sensors; long-period gratings, Fiber optic Bragg gratings, Plasmonics and metamaterials. |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research labs]
+Optical Spectrum Analyzer, Fiber Splicing Machine, Supercontinuum source, Fiber optic fs laser, Fiber cleaver, Abbe refractometer, Motorized precision translational stage, pH meter, Power meter, Magnetic Stirrer, Hot Plate, Precision Weighing machine |
+Dr. Saurabh Mani Tripathi |
+
+Photonic Devices Lab |
+Nanophotonics, quantum optics |
+Home-built microscope set up with spectral and time resolved measurement facility |
+Dr. Shilpi Gupta |
+
+Optoelectron ics and Nanofabricat ion Lab |
+Optoelectronics, Compound Semiconductors, mm- wave measurements, Lasers, Device fabrication |
+ps-pulsed laser source at 980nm, 1550 nm, and 400 nm, CO2 laser (10W), Laser Scanner (1kHz), MCT detectors (4kHz, 4kV/W), Tunable laser (1270-1650nm), MJB3 Mask Aligner (i-line, 3inch substrates), Zeiss Microscope (50X obj), Photoresist Spinner (4800rpm), Reactive Ion Etch System etc. |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research labs]
+Dr. Utpal Das |
+
+Micro-scale Transport Laboratory |
+Optical instrumentation, Optofluidics, DBD plasma actuator, Electrohydrodynamic atomization and encapsulation |
+Digital holographic interferometry (DHI), Digital holographic microscopy (DHM), Micro particle image velocimetry (μPIV), Time- resolved particle image velocimetry, Laser Schlieren,Infrared Thermography (IRT) |
+Dr. Pradipta Kumar Panigrahi |
+
+Diffuse Light Imaging Laboratory |
+Classical Optics and Quantum Optics |
+Spectrometer and White light Source |
+Dr. Harshwardhan Wanare |
+
+Femtosecond laser spectroscopy laboratory |
+Ultrafast and single molecule fluorescence spectroscopy |
+Wet Laboratory Room, Surface Second Harmonic Generation Setup, Spectrophotometer, Regenerative Amplifier, Picosecond Time-Correlated Single Photon Counting (TCSPC), Fluorometer, Dipole Meter, Abbe Refractometer, Ultrasonic Interferometer |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research labs]
+Dr. Pratik Sen |
+
+Biophotonics Lab |
+Biophotonics, Laser spectroscopy and Imaging, Intrinsic fluorescence, Fluorescence lifetime imaging |
+Argon-ion laser, Triplemate monochromator, Starbright Diode laser 785 nm, FluorologIII, spectrofluorimeter, ANDOR CCD and Spectrograph (Shamrock) system, Apex 2- Xenon Lamp source, Ocean optics Tungsten Halogen light source, ANDOR iXon EMCCD, ANDOR APOGEE CCD, PCO Pixelfly CCD, Fluorescence Lifetime Imaging system, Diode laser 375nm, Diode laser 405nm, Helium Neon Laser 17mW, Ocean Optics spectrometer |
+Dr. Asima Pradhan |
+
+Femto Lab |
+Femtosecond pulse shaping; coherent control and optical approaches to quantum computing; spatiotemporal control using ultrafast tweezers and nonlinear optics; two-photon and multi- photon microscopy; ultrafast thermal spectroscopy for molecular identification and processes. |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research labs]
+Confocal Microscope, NOPA ring |
+Dr. Debabrata Goswami |
+
+Ultracold Ions and Atoms Lab |
+Quantum computations and simulations with trapped ions, Quantum technologies using cold atoms, Precision measurements, Quantum Optics |
+Tunable CW lasers, wavemeter |
+Dr. S Ranjita  |
+
+Optical Instrumentati on Lab |
+Optical Techniques, Flow Control Hierarchical Porous Media. |
+Dr. K Muralidhar |
+
+Advanced fiber and quantum optics laboratory AND Quantum Key Distribution laboratory |
+Quantum Cryptography and Computation, Quantum and Nonlinear Optics, Fiber Optics |
+Oscilloscope 13 GHz BW (DCA- X, Infinium), Light wave measurement system mainframe 8164B, Arbitrary Waveform Generator, EDFA (AMP 901), Si Photodiode Array, Real Time Oscilloscope, Optical Modulation Analyzer (Keysight M8290A) |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research labs]
+Dr. Pradeep Kumar |
+
+Tomographic Imaging Laboratory |
+Electrical Impedance Tomography, Fluorescence and photoacoustic tomography |
+Data Collection equipment For EIT |
+Dr. Naren Naik |
+
+=== research scholar day ===
+Source: https://www.iitk.ac.in/celp/research-scholar-day
+Research Scholar Day 2023
+Themes
+
+Nanophotonics, structured surfaces and quantum optics .
+
+Fiber and integrated optics, optical communication
+
+Biophotonics, imaging and spectroscopy
+
+SCHEDULE 1.
+
+0930-0945: Prologue: Introductory remarks and scheme of Research Scholar Day
+
+0945-1045: Dr. Kedar Bhalchandra Khare, IIT Delhi:
+Does holographic replay provide a true 3D image?
+
+1045-1115: Tea
+
+1115-1300: Student talk session 1; Themes 1 and 2
+
+1430-1600: Student talk session 2; Theme 3
+
+1600-1630: Tea
+
+1630-1730: Dr. K. Divakar Rao, BARC, Visakhapatnam :
+Noncontact 3D optical imaging for precision metrology and biological applications
+
+1730-1735: Closing remarks and vote of thanks
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Invited Talks
+
+Dr.Kedar Khare, IIT Delhi
+Title: Does holographic replay provide a true 3D image?
+
+Abstract
+
+We carefully examine the claim that holographic imaging provides a 3D image. While recording of a hologram involves transfer of information from a 3D volume to a 2D detector, the reconstruction involves starting with 2D data to get back 3D information. The dimensionality mismatch in the 3D reconstruction claim therefore appears to be troublesome since this supposedly extra information is obtained via simple linear back-propagation of the object field. We show that holographic replay is actually a transpose (rather than inverse) operation and the visual 3D reconstruction perception is actually due to the fact that our eye-brain combination has a tendency to concentrate only on sharply focused objects while ignoring diffuse background. The knowledge of the transpose property helps us to formulate a sparse reconstruction problem to generate a "true 3D" image reconstruction as we will illustrate with simulations and some initial experimental results.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+K Diwakar Rao Barc, BARC, Visakhapatnam
+Title: Noncontact Three-Dimensional Optical Imaging for Precision Metrology & Bio Applications
+
+Abstract
+
+There has been continuous interest in developing optical techniques for real time 3d imaging. Optical coherence tomography (OCT) is a noncontact three dimensional imaging modality for real time imaging of highly turbid media like biological tissues with micrometer scale resolution. OCT has been successful as a rapid diagnostic tool in ophthalmology and several other nonmedical precision metrology applications are emerging. Digital holographic Microscopy (DHM) is another three dimensional optical imaging technique for label free quantitative phase imaging of microscopic objects & surfaces with nanometric precision. DHM is finding numerous applications in biomedicine, metrology etc. In this talk OCT& DHM will be discussed along with representative applications. Our recent work on developing low cost portable DHM system and aberration compensation in DHM by novel defocus hologram method will also be presnted.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Student Presentations
+
+Dhananjoy De
+Theme: Nanophotonics, structured surfaces and quantum optics .
+Topic of Presentation: Polarization sensitive mode coupling in optical nanocavities.
+
+Abstract of Presentation
+
+Active control of mode coupling in metal-dielectric-metal (MDM) based optical nanocavities is challenging. As an alternative approach, a guided mode resonator (GMR) on top of the MDM cavity can be used to control the coupling of resonant modes in a GMR-MDM structure. As the GMR grating is highly anisotropic, this coupling is polarization sensitive as well.
+
+Nitish Kumar Gupta
+Theme: Nanophotonics, structured surfaces and quantum optics .
+Topic of Presentation: Direct Determination of Photonic Bandgap Character in Topological Photonic Crystals
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Abstract of Presentation
+
+The importance of quantized invar-iants is paramount in topological studies, as they not only characterize the global to-pology but keeping track of their evolution also allows us to capture the ex-otic phase transition phenomena. Howev-er, when it comes to the experi-mental determination of topological in-variants and the ensuing ascer-tainment of the topological character of bandgaps, predominantly, we rely on the bulk-boundary correspondence prin-ciple and the limited information it provides. Breaking free from such limitations, we have devised an alternate methodology for direct experimental determination of the topological character of photonic bandgaps, which will be the sub-ject of this talk. We will see that in the case of spatially inversion sym-metric one-dimensional photonic crystals, one can resort to the standard op-tical measurement technique of spectro-scopic ellipsometry, and the in-equivalent topological character of stopbands can be captured in terms of the parametric variations of ellipso-metric phase angle. Specifically, I will demonstrate that depending upon the underlying bulk topological character, the band-edges engender topologi-cally robust phase singularities corresponding to the zeros of the complex reflection ratio in the angular dispersion space.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Deeksha S Jachpure
+Theme: Fiber and integrated optics, optical communication
+Topic of Presentation: Non-linear optics with Erbium-doped fiber
+
+Abstract of Presentation
+
+Erbium-doped fiber is the building block of optical communication today but it has not been explored sufficiently for its nonlinear optical characteristics. One property studied here is saturable absorption. This is wavelength dependent and also dependent on the length of erbium doped fiber. The consequence of this is a nonlinear performance of the fiber laser made with erbium doped fiber as the gain medium, under specific conditions. This feature of optical bistability of fiber laser will also be discussed.
+
+Moirangthem Bikramjit Singh
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Theme: Nanophotonics, structured surfaces and quantum optics.
+Topic of Presentation: Identifying the Quantum States of Light Using Statistical Measurement
+
+Abstract of Presentation
+
+In this study, we investigate the use of the interaction of light with a two-level atom to determine the quantum state of light. By measuring the excitation state population, we analyze the average, variance, and skewness to gain insights into the characteristics of the quantum state of light. We use the Jaynes-Cumming model as the model system to analyze the dynamics of the light-matter interaction. We believe that this will have important application in Quantum Computing and Quantum Information
+
+Shivam Shukla
+Theme: Biophotonics, imaging and spectroscopy
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Topic of Presentation: Testing and validation of a smartphone based fluorescence spectroscopic device for cervical precancer detection
+
+Abstract of Presentation
+
+A 3D printed smartphone based device has been designed, fabricated and tested on cervix samples for precancer detection. This device collects polarised fluorescence and polarised elastic scattering spectra from cervix and extracts intrinsic fluorescence spectra. A Random Forest based multi class algorithm has been utilised for classification purpose.
+
+Subhajit Chakraborty
+Theme: Biophotonics, imaging and spectroscopy
+Topic of Presentation: Quality Measurements of Alcohol-Based Hand Sanitizers: A Photothermal Spectroscopic Approach
+
+Abstract of Presentation
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Hand sanitizers have become a part of our daily life during post Covid-19 pandemic. The main components of these sanitizers are generally alcohols, and for a hand sanitizer to work properly as a disinfectant, the alcoholic content in the hand sanitizer should be above a critical limit. Because of the heavy demand for these sanitizers, their quality is often compromised by reducing the alcoholic quantity in the solution. Quality control is essential to ensure that consumers are buying and using products that have virucidal activity against COVID-19, as the efficacy of an ABHS is dependent on its alcohol concentration. We propose femtosecond pulse induced thermal lens spectroscopy as a simple yet effective technique for evaluating the efficacy of alcohol-based hand sanitizers. In our experiments, the hand sanitizer was diluted with water to reduce the amount of alcohol in the mixture, and then Photothermal measurements were performed. The Thermal Lens (TL) signal of the solvent is capable of detecting changes in the mixture's alcohol concentration. Our technique, therefore, emerges as a sensitive tool for quality testing of alcohol-based hand sanitizers.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Bhaswati Singha Deo
+Theme: Biophotonics, imaging and spectroscopy
+Topic of Presentation: External attention based deep neural network model for reliable detection of oral cancer from histopathological images
+
+Abstract of Presentation
+
+Oral cancer is among the most serious cancers in the world and has a variety of morphological features, making it challenging to manually classify accurately. However, the conventional diagnostic techniques employed by medical professionals can be laborious and error prone. Hence, computer-assisted histopathological image classification is crucial for the early diagnosis of oral cancer. We propose an image classification model known as External Attention Transformer model based on the external attention mechanism to extract distinguishing subtle features from tissue sections containing oral cancer and their normal counterparts. We have used 4946 oral histopathological images classified into two categories: normal and oral squamous cell carcinoma (OSCC). Of the total images, 2435 of them are categorized as normal and 2511 as OSCC. External attention based deep neural network model attained 96.97% classification accuracy. Sensitivity and specificity were recorded as 97.61% and 96.41% respectively. It is found that the effectiveness of artificial intelligence methods for classifying oral cancer has significantly improved in comparison to leading edge methods, and this has a potential for early oral cancer detection.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Devendra Singh
+Theme: Biophotonics, imaging and spectroscopy
+Topic of Presentation: Chaotic cavity design of a UV-C disinfection chamber for uniform radiation distribution Theme: Biophotonics and imaging
+
+Abstract of Presentation
+
+UV-C wavelength (254nm) is used in disinfection chambers to sanitize water, food and various appliance of medical and food industry. For proper sterilization UV-C radiation must reach every spatial location of the chamber uniformly. In commonly available sanitization chambers with cross-section rectangular or circular, radiation dosage may vary in space and even lead to a few spaces with negligible radiation, “dark spots”. We propose and demonstrate the use of a chaotic Bunimovich stadium design chamber which ensures radiation not only uniform distributed within the chamber but also it go through region of interest from nearly all directions. Ray-tracing simulations on a chamber with shape parameters of a chaotic Bunimovich stadium shows uniform radiation distribution across the whole volume. Also, experimentally it is shown that the proposed chamber has more evenly distributed UV-C radiation than a cuboidal geometry. Therefore, this simple design is also useful for air disinfection, as conventional air ducts have “dark spots” which compromise the efficacy of the disinfection.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Garima Joshi
+Theme: Nanophotonics, structured surfaces and quantum optics.
+Topic of Presentation: Structured surfaces for frequency filtering and antenna gain enhancement
+
+Abstract of Presentation
+
+Structured surfaces enable the selection of electromagnetic waves of any specific frequency in reflection or transmission, due to their band-stop or band-pass characteristics. Such frequencyselective surfaces are required in the microwave domain for satellite and space antenna applications, in radar, for shielding in radomes, in defense and in bio medical fields. We discuss a few designs for frequency selective surfaces along with their simulated and measured parameters for the frequency range of GHz to THz. We present an application by integrating the structured surface with a planar antenna and demonstrate an improvement in gain and directivity of the antenna. Even as a stand-alone design, the structured surface is a good candidate for EMI shielding and frequency filtering. While some of the traditional challenges with such surfaces have been in miniaturization, narrowing the bandwidth and/or invariant performance with the angle of incidence, our results suggest interesting design variations to overcome them.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Aritra Paul
+Theme: Fiber and integrated optics, optical communication
+Topic of Presentation: All-SBS fiber-based setup for optical frequency comb generation utilizing a pump recycling technique and comb line isolation by implementing Brillouin amplification
+
+Abstract of Presentation
+
+We describe an all-stimulated Brillouin scattering (SBS) fiber-based setup for the generation, amplification, and isolation of frequency components from an optical frequency comb (OFC). The cascaded SBS–OFC is obtained by utilizing pump and Stokes power recycling techniques. A total of >15 comb lines within a 45 dB bandwidth, having an average power of 16 dBm, is observed in the 1550 nm wavelength region of operation. By implementing a polarizer–analyzer setup exploiting the weak birefringence in silica fibers, we amplified and isolated the first Stokes component of the generated comb. The isolated component at 1550.03 nm was amplified by ≈55 dB. In order to verify the isolation of a single comb line, the SBS–OFC is intensity modulated using sinusoidal signals of different frequencies, and the modulation is detected after the comb line isolation. We also observe that with the increase in Brillouin pump power during comb line isolation, the spontaneous Brillouin noise acts as a limitation to the selective amplification process.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Viren S Ram
+Theme: Biophotonics, imaging and spectroscopy
+Topic of Presentation: Fringe Pattern normalization using GANs
+
+Abstract of Presentation
+
+Fringe pattern normalization is an important preprocessing technique required during phase extraction from interferograms. However in practical experiments, it is very difficult task to perform normalization task due to presence of background illumination, noise and amplitude modulation. In order to achieve normalization, a generative deep learning approach has been proposed. Using this model, results came out to be better than the classical approaches that has been proposed earlier.
+
+Aman Sharma
+Theme: Biophotonics, imaging and spectroscopy
+Topic of Presentation: Theoretical & Numerical aspect of the Time-Resolved Thermal Lens using Gaussian Beam.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Abstract of Presentation
+
+A general study of the thermal lens process for the time-resolved method is presented. Considering all the optical and thermal parameters in the analytical analysis and numerical simulation a comparison has been done. Heat generation and the induced thermal phase shift in the presence of convection have been calculated for the time-resolved studies. Analytical and numerical studies have been further extended for the Power dependence studies, pump beam spot size effect, and Sample Length Limitations for the three cases, single beam effect & dual beam with the same wavelength, and dual beam different wavelength Effects. The quantitative discussion also addresses the convective impact, which includes the convection time and the TL strength at the convection point. The convection impact on the intensity of the probe beam with the variation of spot size, sample length, and pump power has also been addressed.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+Research Scholar Day 2022
+Research Scholar Day (16 May 2022)
+
+Pictures From the Day
+
+CELP Department Group Photograph Session Along With Dr. Shankar V.Nakhe
+
+Time | Speaker | Title |
+
+9.10 to 9.30 am |
+Aritra Paul |
+Towards generation of flat-optical frequency comb |
+
+9.30 to 9.50 am |
+Srinivasu Sapireddy |
+Switching the Structure of Light |
+
+9.50 to 10.10 am |
+Deeksha Jachpure |
+Dual threshold in Lasers |
+
+10.10 to 10.30 am |
+Soumya Kumari |
+Hybrid Plasmonic Ring Resonator for Bulk and Affinity Bio-sensing Applications |
+
+10.30 to 10.50 am |
+Shivam Shukla |
+Design and testing of a smartphone-based spectrometer for collection of Polarized fluorescence and elastic scattering spectra form human cervix |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > research scholar day]
+10.50 to 11.10 am |
+Subhajit Chakraborty |
+Femtosecond Laser Induced Thermal Lens for Probing Molecular Interactions |
+
+12 onward |
+Dr. Shankar V.Nakhe |
+Indigenous Laser and Photonic Systems for Utilization in Nuclear Power and Societal Applications  |
+
+Research Scholar Day 2017
+Inauguration and Guest Lecture
+
+Student's Talk on their respective areas
+
+Poster Section
+
+Research Scholar Day 2016
+Research Scholar Day 2016
+
+Gallery
+
+=== support facilities ===
+Source: https://www.iitk.ac.in/celp/support-facilities
+CELP Workshop Job Requisition form
+PDF |   DOC
+
+List of books
+
+=== teaching lab ===
+Source: https://www.iitk.ac.in/celp/teaching-lab
+List of experiments
+Beam parameter of He-Ne Laser
+Objective: To calculate beam parameters of He-Ne laser using: a) Knife edge method, and b) Intensity profile measurement
+
+Diode Laser characteristics
+Objective: To measure a) V-I and L-I characteristics of the diode laser, b) Far-field pattern of the laser diode by recording the angular variance/dependence of the radiation; and its variation with distance and power level. This is to be done in two cases: a plane perpendicular and parallel to the junction plane, and c) Spectrum of the diode laser.
+
+Electro-optic effect in a Lithium Niobate Crystal and Magneto-optic effect in a Terbium doped glass rod
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+Objective: a) To study the electro-optic effect in a Lithium Niobate crystal, b) To measure the half wave voltage. (c) To calculate the Verdet constant of a Terbium doped glass rod, b) To observe change in Verdet constant of Terbium doped glass rod w.r.t wavelength
+
+Studies on polarization: Experiment and Simulation using FRED software
+Objective: a) To check the polarisation of laser source, b) To verify Malus law, c) To characterize the functionality of HWP, d) Generate circular and elliptical polarized light using QWP
+
+Mach-Zehnder Interferometry
+Objective: Interferogram of a heated plate using Mach-Zehnder interferometer
+
+Acousto- Optic modulator
+Objective: a) To observe the diffraction pattern using acousto-optic modulator for two wavelengths, b) To measure the diffraction efficiencies corresponding to different RF powers, c) To calculate diffraction angle with respect to the acoustic frequencies.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+Fresnel and Fraunhofer Diffraction
+Objectives: a) To measure intensity distribution along the axis of the circular aperture and compare it with the calculated distribution using the concept of Fresnel zones, b) To measure irradiance in the far field Fraunhofer zone in the transverse plane, for a slit and compare it with theoretical results, c) To measure irradiance in the far field Fraunhofer zone in the transverse plane, for a circular aperture and compare it with theoretical results.
+
+Nd: YAG laser and 2nd harmonic generation
+Objective: a) To align the Nd: YAG laser, observe the lasing wavelength (1064 nm) and hence to find the threshold pump power, b) To produce second harmonics in the existing set up by using the given KTP Crystal, c) observe frequency doubled radiation (532 nm) and find the power conversion efficiency.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+Diffraction grating characterization and Fabry-Pérot Interferometry
+Objective: a) To find the ruling density (grooves/mm) of the given grating, b) To find the deviation as a function of wavelength for 1st order diffraction at different incident angle, c) To find the Littrow condition and then the blazing angle, d) To find the relative efficiency as a function of wavelength, (d) Use Fabry-Perot interferometer to determine transmittance curve and finesse for different laser sources
+
+Measurement of temporal coherence of different light source using Michelson interferometer
+Objective: To calculate temporal coherence using Michelson Interferometer of a) He-Ne laser of λ = 632.8 nm, b) Solid state Laser of λ = 655 nm, c) Diode Laser of λ = 635 nm
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+Alignment, acquisition, processing and reconstruction of holograms
+Objective: a) To create the transmission holograms of 3D object using He-Ne laser, b) To create the transmission holograms of diffraction grating using He-Ne laser and measure the grating efficiency.
+
+Characterization of optical fibre and Demonstration of Optical Fiber kit “Light Runner Basic”
+Objective: a) Optical Fiber Coupling Loss for single mode, b) Bending loss in Single mode optical fiber, c) To determine NA of single mode optical fiber at two different positions, d) To determine Misalignment loss for single mode optical fiber, I. Longitudinal misalignment, II. Transverse misalignment, III. Angular misalignment, e) Using Optical Fiber kit “Light Runner Basic”, measure the Attenuation, Dispersion & Eye Pattern in an optical fiber and determine the position of the fault in a fiber optic link using OTDR Method.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+List of facilities available in the Teaching Lab
+Lasers: He-Ne laser (wavelength=632.8nm), Diode lasers (Wavelength= 405 nm, 457 nm, 532 nm, 632 nm, 650 nm, 808 nm & 960 nm)
+
+Lock in Amplifier
+
+Optical Chopper
+
+Optical Spectrometer
+
+Travelling microscopes
+
+Fiber optic light runner kit with optical fiber spools (1km, 2km, 3km)
+
+Desktop computers
+
+CCD camera
+
+Fabry-Perot interferometer with spectrum analyzer controller
+
+Optical bench, rails and honeycomb breadboards for various setups
+
+Translation stages (manual and motorized) (X, XY, XYZ, Z) and rotational stages (manual and motorized)Power supplies
+
+Digital storage oscilloscope (DSO)
+
+Digital multimeter
+
+Si photodetector
+
+Acousto-optic modulator with RF power source
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > teaching lab]
+Posts, holders, mounts, spatial filters and other opto-mechanical devices for various setups
+
+Optics e.g. lenses, mirrors, beam splitters, polarizers, gratings, half wave plate, quarter wave plate, crystals (Lithium Niobate crystal, KTP), Terbium doped glass rod, Nd: YAG rod etc.
+

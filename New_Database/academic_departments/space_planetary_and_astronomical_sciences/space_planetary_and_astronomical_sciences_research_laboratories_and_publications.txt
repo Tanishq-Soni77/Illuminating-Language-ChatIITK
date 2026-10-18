@@ -1,0 +1,128 @@
+DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Space, Planetary and Astronomical Sciences and Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/space. Snapshot: scraped in 2026.
+
+=== optical and infrared astronomy laboratory ===
+Source: https://www.iitk.ac.in/space/optical-and-infrared-astronomy-laboratory
+Experiment modules consist of experiments related to electromagnetic wave detection and analyses in X-ray/optical/IR/radio bands, observing fundamental principles (interference, diffraction, coherence etc.), setting up spectroscopy and polarimetry experiments, and carrying out related measurements applicable in the field of astronomy, planetary sciences.
+
+We are developing an Adaptive Optics (AO) test bench based on the Shack–Hartmann wavefront sensor, which will be used to train students on AO and wavefront control techniques.
+
+=== planetary science laboratory ===
+Source: https://www.iitk.ac.in/space/planetary-science-laboratory
+The Planetary Science laboratory aims to demonstrate and uncover through experiments geophysical processes active in and responsible for the features observed on planetary objects and their dynamical evolution. For this, presently we are working with rotating ionised fluids in a magnetic field, flowing grains with interspersed boulders, and waves through heterogeneous solids. The aim is to investigate the structure of rings within Saturn's magnetosphere, the reshaping of granular minor planets like the asteroids Ryugu and Bennu due to landslides, and the impact-induced texturing of small bodies like the asteroid Itokawa.
+
+=== radio astronomy laboratory ===
+Source: https://www.iitk.ac.in/space/radio-astronomy-laboratory
+SWAN - Sky Watch Array Network
+
+https://home.iitk.ac.in/~desh/SWAN/SWANRRI.html
+
+=== recent publications ===
+Source: https://www.iitk.ac.in/space/recent-publications
+Evidence of a Hardening in the Cosmic Ray Proton Spectrum at around 166 TeV Observed by the GRAPES-3 Experiment, Phys. Rev. Lett., F. Varsi et al. (GRAPES-3 collaboration), 2024, 132, 051002
+
+Probing atmospheric effects using GRAPES-3 plastic scintillator detectors, European Physical Journal C, M. Zuberi et al. (GRAPES-3 collaboration), 2024, 84, 255
+
+A study of dipolar signal in distant Quasars with various observables, European Physical Journal C, R. Kothari, M. Panwar, G. Singh, P. Tiwari and P. Jain, 2024, 84, 75
+
+Small-scale Cosmic-Ray Anisotropy Observed by the GRAPES-3 Experiment at TeV Energies, Astrophysical Journal, M. Chakraborty et. al. (GRAPES-3 collaboration), 2024, 961, 87
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > recent publications]
+Indentation of geometrically exact adhesive beams. Suryanarayanan, K., T. Bhuvana, I. Sharma, and S. L. Das 2023. Int. J. Solids Struct. 279, 112348:1-19.
+
+Equilibria of liquid drops on pre-stretched, nonlinear elastic membranes through a variational approach. Nair, V. and I. Sharma 2023. Phys. Fluids. 35, 047111:1-14.
+
+Equilibrium shapes of liquid drops on pre-stretched, nonlinear elastic membranes. Nair, V., I. Sharma, and V. Shankar 2023. J. Fluid Mech.. 961, A28:1-27.
+
+Indentation of geometrically exact beams. Suryanarayanan, K., I. Sharma, and S. L. Das 2022 Int. J. Struct. Solids 254, 111905.
+
+Correlations between QPO frequencies and spectral parameters of GRS 1915+105 using AstroSat observations,
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > recent publications]
+Ruchika Dhaka, Ranjeev Misra, J.S. Yadav, Pankaj Jain, MNRAS, 524 (2023) 2, 2721-2732
+
+The comptonizing medium of the black hole X-ray binary MAXI J1535−571 through type-C quasi-periodic oscillations,
+Rawat et al, MNRAS, 520 (2023) 1, 113-128
+
+Probing cosmology beyond LCDM using SKA,
+Shamik Ghosh, Pankaj Jain, Rahul Kothari, Mohit Panwar, Gurmeet Singh, Prabhakar Tiwari
+J.Astrophys.Astron. 44 (2023) 1, 22
+
+A toy model for low-energy nuclear fusion, Kaanapuli Ramkumar, Harishyam Kumar, Pankaj Jain
+Pramana 97 (2023) 3, 109
+
+Validating the improved angular resolution of the GRAPES-3 air shower array by observing the Moon shadow in cosmic rays,
+D. Pattanaik et al (GRAPES-3 collaboration), Phys.Rev.D 106 (2022) 2, 022009
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > recent publications]
+Dipole anisotropy in gravitational wave source distribution, Gopal Kashyap, Naveen K. Singh, Khun Sang Phukon, Sarah Caudill, Pankaj Jain,
+JCAP 06 (2023) 042
+
+Image plane detection of FRB121102 with the MeerKAT radio telescope
+J C Andrianjafy, N Heeralall-Issur, A A Deshpande, et al MNRAS 518, 3462 (2023)
+
+A minimal space interferometer configuration for imaging at low radio frequencies
+Jaini, A., Deshpande, A. A., and Bitragunta, S. 2021, PASA, 38, e040.
+
+A Comparison of Multi-Phase Magnetic Field Tracers in a High-Galactic Latitude Region of the Filamentary Interstellar Medium
+Campbell, J. L., SE Clark, S. E., Gaensler, B. M., Marchal, A., Van Eck, C. L., Deshpande, A. A., George, S. J., Gibson, S. J., Ricci, R., Stil, J. M., Taylor, A. R. 2022, ApJ, 927, 49.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > recent publications]
+Time-resolved spectroscopy on the heartbeat state of GRS 1915+105 using AstroSat, D. Rawat, R. Misra, P. Jain and J.S. Yadav. Published in: Mon. Not. Roy. Astron. Soc. 511  (2022) 2
+
+Superhorizon Perturbations: A Possible Explanation of the Hubble–Lemaître Tension and the Large-scale Anisotropy of the Universe, P. Tiwari, R. Kothari and P. Jain, Astrophys. J. Lett. 924 (2022) 2, L36
+
+Explaining excess dipole in NVSS data using superhorizon perturbation, K. K. Das, K. Sankharva, P. Jain, JCAP 07 (2021) 035
+
+Testing evolution of LFQPOs with mass accretion rate in GRS 1915+105 with Insight-HXMT, H. Liu, L. Ji, C. Bambi, P. Jain, R. Misra et al., Astrophys. J. 909 (2021) 1, 63
+
+General Treatment of Reflection of Spherical Electromagnetic Waves from a Spherical Surface and its Implications for the ANITA Anomalous Polarity Events, P. Dasgupta and P. Jain, Astroparticle Physics 128 (2021) 102530
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > recent publications]
+Granular flow on a rotating and gravitating elliptical body 2021, K Gaurav, D Banik, I Sharma, P Dutt, Journal of Fluid Mechanics 916, A40:1-40, 2019.
+
+Structural integrity of rubble asteroidal satellites, I Sharma, Icarus 319, 770-784
+
+Rings of non-spherical, axisymmetric bodies, A Gupta, S Nadkarni-Ghosh, I Sharma, Icarus 299, 97-116, 2018.
+
+=== research ===
+Source: https://www.iitk.ac.in/space/research
+Current Faculty Specializations:
+
+Space and Astronomical Instrumentation
+
+Optical, Infrared, Radio and X-ray Astronomy
+
+Planetary science, Granular Mechanics , Contact Mechanics
+
+Planetary Remote Sensing Geology, Lunar Science, Mineral Mapping, Mineral Spectroscopy, Impact cratering
+
+Detection and characterization of exoplanets: direct imaging, transit and spectroscopy
+
+Galactic Astrophysics, Galaxy formation and evolution, interstellar medium, astrophysical fluid dynamics, Galactic feedback
+
+Compact objects, Neutron stars, pulsars, X-ray binaries, accretion disks, jets
+
+Astrophysical transients, fast radio bursts
+
+Cosmology, large scale structure of the Universe, Epoch of Reionization
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - RESEARCH  > research]
+Adaptive optics and wavefront control techniques
+
+Solar Physics
+
+Cosmic rays
+
+Multi-messenger Astronomy
+
+Astrobiology
+
+=== research laboratories ===
+Source: https://www.iitk.ac.in/space/research-laboratories
+Teaching and Research Laboratories
+
+The following laboratories are currently under development and most of these will be functional by the end of July, 2024
+
+Planetary science laboratory
+

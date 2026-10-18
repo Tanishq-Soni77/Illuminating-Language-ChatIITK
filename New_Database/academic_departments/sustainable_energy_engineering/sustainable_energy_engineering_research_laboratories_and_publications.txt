@@ -1,0 +1,968 @@
+DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Sustainable Energy Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/see. Snapshot: scraped in 2026.
+
+=== collaboration ===
+Source: https://www.iitk.ac.in/see/collaboration
+Global & National Networks
+
+/ Collaboration
+
+International Collaborations
+
+Australia
+
+1. University of Queensland (UQ), Brisbane, Australia
+
+2. La Trobe University, Melbourne, Australia
+
+3. RMIT University, Australia
+
+Canada & USA
+
+4. University of Alberta, Alberta, Canada
+
+5. University of South Florida, USA
+
+National Collaborations
+
+India & Region
+
+1. Indian Institute of Technology (BHU), Varanasi
+
+2. Indian Institute of Technology, Jodhpur
+
+3. Indian Institute of Technology, Ropar
+
+4. University of Moratuwa, Sri Lanka
+
+=== equipment ===
+Source: https://www.iitk.ac.in/see/equipment
+Equipment
+
+/ Equipment
+
+Field Emission Scanning Electron Microscopy (FESEM)- Thermo Fisher Scientific Apreo 2C
+
+The FESEM (Thermo Fisher Scientific Apreo 2C) characterization facility provides high-resolution surface imaging and elemental analysis of a wide variety of materials. It utilizes a focused electron beam to scan a sample, generating signals-secondary electrons (SE), backscattered electrons (BSE), and X-rays-that reveal surface morphology, topography, and elemental composition.
+
+FESEM is a crucial tool for research in materials science, nanoscience, and engineering, enabling the characterization of materials at the micro- and nanoscale. This instrument is equipped with ultra-high brightness cold field emission technology, allowing users to achieve sub-nanometer resolution and observe fine surface details at magnifications exceeding 1,000,000x.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+With its advanced field emission gun and innovative beam path design, the Apreo 2C delivers superior resolution, contrast, and analytical performance, even at low accelerating voltages. It also supports live quantitative SEM image coloring using energy dispersive X-ray spectroscopy (EDS), along with Point & ID, line scans,  and elemental mapping.
+
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Book Instrument
+
+BET Surface Area Analyzer - Autosorb 6100
+
+Autosorb 6100 is a high-resolution, automatic gas sorption analyzer used to determine the specific surface area, pore size distribution, and porosity of solid materials. The system operates based on the Brunauer-Emmett-Teller (BET) theory, which calculates the specific surface area by measuring the amount of gas adsorbed on the material's surface.
+
+The system is equipped with three analysis ports, enabling up to three simultaneous sample measurements. Each port is fitted with 1000, 10, and 0.1 torr transducers, allowing accurate micropore and mesopore analysis at all ports. This instrument is widely used for characterizing powders, nanomaterials, catalysts, ceramics, porous solids, and composite materials, supporting research in materials science, chemical engineering, and environmental studies.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Guideline for Internal User
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+X-Ray Diffractometer (XRD) - Rigaku SmartLab SE
+
+The Rigaku SmartLab SE is a versatile, fully automated, multipurpose X-ray diffractometer for structural characterization across a wide range of materials. It supports high-precision studies in powder diffraction, grazing-incidence thin-film analysis, and in-operando battery characterization.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Book Instrument
+
+Time-Resolved Photoluminescence (TRPL) Measurement System - PicoQuant: Fluotime 300 and Microtime 100
+
+Time-Resolved Photoluminescence (TRPL) is a powerful technique used to investigate charge carrier dynamics, recombination mechanisms, and defect states in semiconductors, perovskites, quantum dots, and other optoelectronic materials. The TRPL setup includes a PicoQuant FluoTime 300 Photoluminescence Spectrometer coupled with a MicroTime 100 confocal microscope, operating on time-correlated single photon counting (TCSPC). The detection system consists of Hybrid PMA-07 photomultiplier tubes and Hamamatsu NIR-PMT detectors, supported by event timers (PicoHarp 300, HydraHarp 400, and TimeHarp 260).
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Book Instrument
+
+Stylus Profilometer-Bruker DektakXT
+
+The Bruker DektakXT Stylus Profilometer is primarily used for measuring thin film thickness through physical contact using a pointed stylus tip. The stylus scans a surface with a step (etched or deposited), and the step height gives the film thickness. It offers precise measurements of step height and surface roughness, with a vertical resolution down to the angstrom level. The system supports a wide thickness range-from a few nanometers to over 100 microns.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Book Instrument
+
+UV-Visible Spectrophotometer - Agilent Cary 5000
+
+The Cary 5000 UV-Vis spectrophotometer enables precise optical measurements across the ultraviolet, visible, and near-infrared regions. Its sample compartment is compatible with both thin-film holders and standard liquid cuvettes.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Technical Specifications
+
+Book Instrument
+
+Photoluminescence Spectrometer - JASCO FP-8550
+
+The JASCO FP-8550 is a high-sensitivity photoluminescence spectrometer designed for both qualitative and quantitative analysis of emission behavior across diverse materials.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Book Instrument
+
+Liquid Chromatography Mass Spectrometry (LCMS) System - Agilent 1260 Infinity II
+
+The Agilent 1260 Infinity II LC/MSD is a high-performance liquid chromatography system integrated with a mass spectrometry detector, designed for fast and accurate purification and analysis of compounds from complex mixtures. It allows high-purity separations even for small sample amounts. The setup includes UV and MS detectors, multiple fraction collectors, and a quaternary pump for flexible solvent mixing. The system is ideal for compound purification, identification, and quantitative analysis in chemical, pharmaceutical, and materials research.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Guideline for Internal User
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Gas Chromatography (GC) and GC-MS Systems - Agilent 8890 GC & Agilent 7010B Triple Quadrupole GC-MS
+
+The Agilent 8890 Gas Chromatograph (GC) and Agilent 7010B Triple Quadrupole GC-MS System provide high-precision separation, identification, and quantification of volatile and semi-volatile compounds. The GC separates complex mixtures based on volatility and column interaction, while the MS detector provides detailed molecular information for compound identification, quantification, and structural analysis. Together, they deliver exceptional sensitivity, repeatability, and reliability for both routine and advanced analytical applications.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Guideline for Internal User
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+Gel Permeation Chromatography (GPC) System - Agilent 1260 Infinity
+
+The Agilent 1260 Infinity GPC System enables precise molecular weight determination and polymer characterization. It provides accurate separation of polymers and macromolecules based on molecular size, offering insights into molecular weight distribution, viscosity, and branching. The system supports both organic and aqueous GPC applications with high reproducibility and temperature control.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > equipment]
+IITK User Form
+
+External User Form
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+IITK User Form
+
+User charges
+
+Guideline for Internal User
+
+Note** The duly completed User Form must be emailed to  see_facilities@iitk.ac.in at least two days prior to the scheduled booking. Bookings without submission of the User Form will be automatically cancelled.
+
+External User Form
+
+User charges
+
+Guideline for External User
+
+Technical Specifications
+
+=== externally funded projects and centers ===
+Source: https://www.iitk.ac.in/see/externally-funded-projects-and-centers
+Funding & Grants
+
+Sponsored Research & Consultancy
+
+Home / Sponsors & Partners
+
+Sponsored Research Grants
+
+Research Center
+Chandrakanta Kesavan Center
+
+Energy Policy & Climate Solutions
+
+Govt. Initiative
+DST-ICMAP Center
+
+Clean Energy & Clean Materials
+
+EIL
+
+PSU Research Center
+EIL Center
+
+Engineers India Limited
+
+DIA
+
+Defense Center
+DIA Center on Batteries
+
+DRDO Industry Academia CoE
+
+UPNEDA
+
+Govt. Agency
+UPNEDA
+
+UP Govt.
+
+GRID
+
+National Grid
+Grid India
+
+Grid Controller of India Ltd.
+
+SSL
+
+Global Foundation
+Schmidt Sciences LLC
+
+Energy Research Network
+
+ANRF
+
+National Council
+ANRF (x2)
+
+GREET & CREATE Programs
+
+DRDO
+
+Defense R&D
+DRDO
+
+DYSL-SM – CARS
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > externally funded projects and centers]
+DIA-COE
+
+Center of Excellence
+DRDO (DIA-COE)
+
+IIT Kanpur Battery Center
+
+IITK
+
+Institute Grant
+IIT Kanpur
+
+Internal Research Support
+
+KSS
+
+Academic Initiative
+Kotak School of Sustainability
+
+IIT Kanpur
+
+ISRO
+
+Space Research
+ISRO
+
+STC-IITK Cell
+
+SERB
+
+Govt. Funding
+SERB, DST
+
+Dept. of Science & Technology
+
+USISTEF
+
+Bi-National Fund
+USISTEF
+
+Indo-US Tech Endowment
+
+IKS
+
+Ministry of Education
+IKS Division, MoE
+
+Govt. of India
+
+Consultancy Projects
+
+UPNEDA
+
+Consultancy
+UPNEDA
+
+PM KUSUM C2 & Bio-Energy
+
+AURSYS
+
+Industry Partner
+Aursys Dynamics Pvt. Ltd.
+
+Technical Advisory
+
+NEXERA
+
+Industry Partner
+Nexera Chem Pvt. Ltd.
+
+Chemical R&D Advisory
+
+R&D / Student-Faculty Exchange
+
+ANRF
+
+Exchange Program
+ANRF
+
+Formerly SERB Grants
+
+UAlberta
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > externally funded projects and centers]
+Global Partner
+University of Alberta
+
+Joint Partnership with IITK
+
+Externally Funded Team Projects
+
+SSL
+
+Project Sponsor
+Schmidt Sciences
+
+Global R&D Grant
+
+UPNEDA
+
+Project Sponsor
+UPNEDA
+
+Clean Energy Projects
+
+DST
+
+DST Schemes
+DST (MAP & NPNST)
+
+Dept. of Science & Tech
+
+ANRF
+
+Research Council
+ANRF Grants
+
+ARG & ECRG Schemes
+
+DST-JSW
+
+Industry Alliance
+DST - JSW
+
+Joint Sustainability Project
+
+SWANSEA
+
+International Partner
+Swansea University
+
+UK Research Partner
+
+CSIR
+
+Co-Sponsor
+CSIR
+
+Co-Sponsor on ANRF-ARG
+
+=== fesem booking ===
+Source: https://www.iitk.ac.in/see/FESEM_booking.html
+FESEM Portal
+
+SEE IIT KANPUR
+
+Designed By: Arvind
+
+🌙 Dark Mode
+
+January 2026
+February 2026
+March 2026
+April 2026
+May 2026
+June 2026
+July 2026
+August 2026
+September 2026
+October 2026
+November 2026
+December 2026
+January 2027
+February 2027
+March 2027
+April 2027
+May 2027
+June 2027
+July 2027
+August 2027
+September 2027
+October 2027
+November 2027
+December 2027
+
+📌 Guidelines & Rules for Booking
+
+Internal users use personal stubs; External use departmental stubs.
+
+Sample prepared by user if skilled, else operator prepares it.
+
+Sample prep & gold coating time are included in slot duration.
+
+3-4 standard samples/slot; Max 2 samples if EDX/EDS or BSE mode used.
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > fesem booking]
+Collect keys before slot & return immediately after completion.
+
+Off-hour users take key responsibility & must log details in register.
+
+Slot Booking Form
+
+Booking Guidelines:
+
+Internal users use personal stubs; external users use departmental stubs.
+
+Sample preparation & gold coating timing are included in slot time.
+
+Max 3-4 samples allowed. If EDX/BSE mode is used, max 2 samples.
+
+Submit User Form 2 days prior & confirm via email (see_facilities@iitk.ac.in).
+
+Roll No / PF No*
+
+Name*
+
+Department Name*
+
+User Type*
+
+Internal
+External
+
+Supervisor Name*
+
+Institute Name*
+
+Email*
+
+Contact No*
+
+Submit Booking
+Cancel
+
+=== indu shekhar research areas ===
+Source: https://www.iitk.ac.in/see/indu-shekhar/research-areas.php
+Visting Professor of Practice
+
+Profile
+
+Recent Work
+
+Issues related to sustainability
+
+Renewable Energy
+
+Environmental Governance
+
+Economic policies
+
+Home  |   Webmail   |   Library IITK  |  Directories IITK  |  SEE  |  IIT Kanpur
+
+Designed & Maintained by: Arvind
+
+=== project pdfs ===
+Source: https://www.iitk.ac.in/see/project-pdfs
+Projects PDF
+
+/ Post Doctorals Fellows
+
+Research Interests:  Renewable Energy Policy Analysis, Energy Efficient Recycling Equipment designing, Waste Valorization Solid Waste Management, Environmental  and Sustainable Development, Net-zero carbon and waste
+
+Ankita Bhowmik
+
+Email: bankita@iitk.ac.in
+
+Supervisor: Dr. Rajeev Jindal
+
+Anil Jakhar
+
+Email: anilj@iitk.ac.in
+
+Supervisor: Dr. Amarendra
+
+Preeti
+
+Supervisor: Dr. Soumyabrata Roy
+
+=== project scientist ===
+Source: https://www.iitk.ac.in/see/project-scientist
+/ Post Doctorals Fellows
+
+Research Interest: Nanomaterial synthesis and characterization, Li-ion battery, Na-ion battery, solid state batteries, Supercapacitors
+
+Brijesh K
+
+Email: brijeshk@iitk.ac.in
+
+Supervisor: Dr. Raju Kumar Gupta
+
+Project Title: SERB-IRHPA, CREATE
+
+Kumar Brajesh
+
+Email: brajeshk@iitk.ac.in
+
+Supervisor: Dr. Raju Kumar Gupta
+
+Satish Kumar Verma
+
+Email: satishkv@iitk.ac.in
+
+Supervisor: Dr. Shobit Omar
+
+=== research areas ===
+Source: https://www.iitk.ac.in/see/research-areas
+/ Research Areas
+
+Solar Photovoltaics
+
+Solar Thermal
+
+Wind Energy
+
+Batteries and Supercapacitors
+
+Fuel Cells
+
+Hydrogen and alternative fuels
+
+Carbon Capture and Utilization
+
+Water
+
+Energy Policy and Regulation
+
+NetZero Energy and NetZero Building
+
+Critical Material & Recycling
+
+Solar Photovoltaics
+
+Prof. Anand Singh
+
+Prof. Ashish Garg
+
+Prof. Prabodh Bajpai
+
+Prof. Raju Kumar Gupta
+
+Prof. Sayan Kar
+
+Prof. Soumyabrata Roy
+
+Prof. Srinivas Karthik Yadavalli
+
+Solar Thermal
+
+Prof. Laltu Chandra
+
+Prof. Vaibhav Arghode
+
+Wind Energy
+
+Prof. Debopam Das
+
+Batteries and Supercapacitors
+
+Amarendra Edpuganti
+
+Prof. Laltu Chandra
+
+Prof. Raju Kumar Gupta
+
+Prof. Soumyabrata Roy
+
+Prof. Sudarshan Narayanan
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > research areas]
+Prof. Vivek Verma
+
+Fuel Cells
+
+Amarendra Edpuganti
+
+Prof. Lalit M. Pant
+
+Prof. Soumyabrata Roy
+
+Electric Vehicles
+
+Amarendra Edpuganti
+
+Prof. Abheejeet Mohapatra
+
+Prof. Ankush Sharma
+
+Prof. Lalit M. Pant
+
+Prof. Prabodh Bajpai
+
+Prof. Raju Kumar Gupta
+
+Prof. Sayan Kar
+
+Prof. Soumyabrata Roy
+
+Prof. Srinivas Karthik Yadavalli
+
+Prof. Vivek Verma
+
+Carbon Capture and Utilization
+
+Prof. Raju Kumar Gupta
+
+Prof. Sayan Kar
+
+Prof. Soumyabrata Roy
+
+Water
+
+Prof. Raju Kumar Gupta
+
+Prof. Sayan Kar
+
+Prof. Soumyabrata Roy
+
+Energy Policy and Regulation
+
+Prof. Deepika Swami
+
+Prof. Sheo Shankar Rai
+
+NetZero Energy and NetZero Building
+
+Prof. Ashish Garg
+
+Prof. Aakash Chand Rai
+
+Prof. Ankush Sharma
+
+Critical Material & Recycling
+
+Prof. Raju Kumar Gupta
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > research areas]
+Prof. Sheo Shankar Rai
+
+Prof. Vivek Verma
+
+=== research expertise ===
+Source: https://www.iitk.ac.in/see/research-expertise
+/ Research Expertise
+
+Materials, Devices & Processes
+
+Materials Modelling
+
+Systems Integration and Process Modelling
+
+Power Systems
+
+Power Electronics
+
+Energy Policy
+
+Materials, Devices & Processes
+
+Prof. Anand Singh
+
+Prof. Ashish Garg
+
+Prof. Lalit M. Pant
+
+Prof. Raju Kumar Gupta
+
+Prof. Sayan Kar
+
+Prof. Soumyabrata Roy
+
+Prof. Srinivas Karthik Yadavalli
+
+Prof. Sudarshan Narayanan
+
+Prof. Vaibhav Arghode
+
+Prof. Vivek Verma
+
+Materials Modelling
+
+Prof. Jishnu Bhattacharya
+
+Prof. Nishith Verma
+
+Prof. Vishal Agarwal
+
+Systems Integration and Process Modelling
+
+Prof. Ashoke De
+
+Prof. Debopam Das
+
+Prof. Lalit M. Pant
+
+Prof. Malay K. Das
+
+Power Systems
+
+Prof. Ankush Sharma
+
+Prof. Abheejeet Mohapatra
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > research expertise]
+Prof. Prabodh Bajpai
+
+Prof. Saikat Chakrabarti
+
+Power Electronics
+
+Amarendra Edpuganti
+
+Prof. Prabodh Bajpai
+
+Prof. Suvendu Samanta
+
+Energy Policy
+
+Prof. Deepika Swami
+
+Prof. Sheo Shankar Rai
+
+=== research overview ===
+Source: https://www.iitk.ac.in/see/research-overview
+Research Verticals
+
+/ Research Overview
+
+The research portfolio of the Department is envisioned into five broad verticals:
+(i) Energy Generation, (ii) Energy Storage, (iii) Energy Distribution,
+(iv) Energy Modelling & Policy, and (v) Critical Material & Re-cycling which align well with
+the national and global domains in energy sustainability.
+
+Energy Generation
+
+Solar Energy (PVs, Thermal)
+
+Wind Energy
+
+Fuel Cells
+
+Green Hydrogen
+
+Energy Storage
+
+Batteries
+
+Hydrogen storage
+
+Solar thermal
+
+Carbon Capture Utilization and Storage
+
+Energy Distribution
+
+Electrical mobility
+
+Power Distribution
+
+Smart Grid, Microgrid
+
+Electric Vehicles
+
+Energy Modelling & Policy
+
+[Context: DEPARTMENT OF SUSTAINABLE ENERGY ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILIT > research overview]
+Energy Policy
+
+Energy Modelling
+
+Decarbonization
+
+NetZero
+
+Critical Material & Recycling
+
+Critical minerals/materials
+
+Urban mining
+
+Electronic E-waste recycling
+
+Circular economy
+
+Materials for clean energy technology
+
+Integration of various expertise via synergistic collaborative research with the right
+blend of basic and applied research towards development of systems and prototypes
+will be a major thrust of the Department.
+

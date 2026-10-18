@@ -1,0 +1,82 @@
+DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Space, Planetary and Astronomical Sciences and Engineering, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/space. Snapshot: scraped in 2026.
+
+=== coursework ===
+Source: https://www.iitk.ac.in/space/coursework
+1. PhD. Course Structure Click Here
+
+2. MTech. Course Structure Click Here
+
+3. BTech-MTech dual degree course structure  Click Here
+
+4. Joint SPASE-AE minor degree course structure  Click Here
+
+5. Minor in Space Sciences degree course structure  Click Here
+
+Details of courses
+
+Note: The suffix M to any course code implies modular (half-semester) course
+
+UG Courses
+
+SPA201 (9 credits) Introduction to Astronomy and Astrophysics
+
+SPA401 (9 credits) Galaxies and Observational Cosmology
+
+SPA402 (9 credits) Introduction to Manmade Satellite Systems and its Environment
+
+SPA403M (5 credits) Observing the Milky Way galaxy - Our Home in the Cosmos
+
+SPA404 (9 credits) Introduction to Space Technology
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - COURSES,  > coursework]
+SPA405M (5 credits) Space Economics - Law, Policy and Benefits
+
+PG Courses
+
+SPA601 (9 credits) Introduction to space & astronomical instrumentation
+
+SPA603 (9 credits) Solar system processes and space missions
+
+SPA610 (9 credits) Fundamentals of Astronomy and Astrophysics
+
+SPA611 (9 credits) Radio Astronomy
+
+SPA613M (5 credits) Introduction to Celestial Observational Techniques
+
+SPA614M (5 credits) Introduction to Celestial Mechanics
+
+SPA616 (9 credits) Stars and Stellar Evolution
+
+SPA617M (5 credits) Space Instrumentation Laboratory
+
+SPA618M (5 credits) Introduction to radiative processes in space
+
+SPA621 (9 credits) Planetary Surface Processes
+
+SPA622M (5 credits) Mathematical Techniques in Space Sciences & Engineering
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - COURSES,  > coursework]
+SPA623M (5 credits) Numerical Techniques in Space Sciences & Engineering
+
+SPA624M (5credits) Optical Instrumentation Laboratory
+
+SPA626 (9 credits) Space environment and Space systems
+
+SPA627M (5 credits) Introduction to fluid mechanics in space
+
+SPA631M (5credits) Statistical Methods and Applications in Space Sciences
+
+SPA632M (5credits) Introduction to Mathematical Transforms and Applications in Space Sciences
+
+SPA633 (7 credits) Introduction to Astrobiology
+
+SPA634 (8 credits) Applied Optics: From Rays to Waves
+
+SPA636 (5 credits) Radio instrumentation, observing techniques and data analyses (Radio Lab)
+
+SPA637 (9 credit) Spacecraft Dynamics
+
+SPA660 (9 credits) High Energy Astrophysics of Binary star systems
+

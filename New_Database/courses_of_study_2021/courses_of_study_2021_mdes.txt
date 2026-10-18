@@ -1,0 +1,107 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF MDES (MASTER OF DESIGN (MDES)) COURSES
+Name: All courses of Department of MDES (Master of Design (MDES)) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course DES601 - DESIGN THEORY
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Design Philosophy, Art (aesthetics) in ID, History of Design, Human Experiencein Design, Design Elements, Design Principles, Theory of Colour, Colour Aesthetics, Subject of Colour, Design Paradigm, Art Design & Society, Indian Tradition andProducts.Studio: Form, Space and Texture; 2D and 3D Form Analysis, Colour and Texturein 2D and 3D surface; Colour Aesthetics; Product Analysis and Ergonomics, Product Design and Developments.
+
+Course DES601A - DESIGN THEORY
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Design Philosophy, Art (aesthetics) in ID, History of Design, Human Experiencein Design, Design Elements, Design Principles, Theory of Colour, Colour Aesthetics, Subject of Colour, Design Paradigm, Art Design & Society, Indian Tradition andProducts.Studio: Form, Space and Texture; 2D and 3D Form Analysis, Colour and Texturein 2D and 3D surface; Colour Aesthetics; Product Analysis and Ergonomics, Product Design and Developments.
+
+Course DES602 - DESIGN PRACTICE I
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Stages of a Product and Concurrent Engineering; Problem Formulation, Specifications and Constraints; Creating Forms; Configuration Optimisation; Coupled, Decoupled and Uncoupled designs; Product of Static and Dynamic Societies; Material Experimentation; Construction Technique; Model Building; Decision Making, Addressing Failures and Courage to Create; Interpersonal Skills; Robust Design,Incubation; Economic Considerations; Micro and Macro Designs; Introduction toElectronics; Laboratory on Problem Formulation, Innovation, Decision Making,Interpersonal Skills, etc., through Group Discussion, Case studies, Books and Journals Review.
+
+Course DES602A - DESIGN PRACTICE I
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Stages of a Product and Concurrent Engineering; Problem Formulation, Specifications and Constraints; Creating Forms; Configuration Optimisation; Coupled, Decoupled and Uncoupled designs; Product of Static and Dynamic Societies; Material Experimentation; Construction Technique; Model Building; Decision Making, Addressing Failures and Courage to Create; Interpersonal Skills; Robust Design, Incubation; Economic Considerations; Micro and Macro Designs; Introduction to Electronics; Laboratory on Problem Formulation, Innovation, Decision Making, Interpersonal Skills, etc., through Group Discussion, Case studies, Books and Journals Review.
+
+Course DES603 - DESIGN PRACTICE II
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Construction of Forms, Geometrical Transformations; Surface Modeling; Representation of 3D Shapes; Solid Modeling; Simulation in CAED, Rapid Prototyping & Tooling; Strength and Stiffness of Structural Elements and Mechanisms; Introduction to Control; Electronics Signal Processing; Sensors and Actuators; Micro Electro Mechanical Systems; Mechatronics; Design of Embedded Systems; Intelligent Product Design. Laboratory: 2D3D Modeling, Operation of Rapid Tooling and Prototyping Instruments, Development of Simple Sensors and Actuators, Design of Products with Embedded Sensors etc.
+
+Course DES621 - CREATIVE VISUALIZATION
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Theory: Art movements and design: Principles of style in art, product design, architecture and graphic design: Photography, Design and performing art: Art and perception; Methodology of criticism and appreciation. Studio Short workshops, projects, and field trips in the above, mentioned areas (photography, film making, lights, stage craft, script writing, editing, product development) to emphasize visualization powers in an attempt to build a personal vision.
+
+Course DES621A - CREATIVE VISUALIZATION
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Theory: Art movements and design: Principles of style in art, product design, architecture and graphic design: Photography, Design and performing art: Art and perception: Methodology of criticism and appreciation Studio: Short workshops, projects, and field trips in the above, mentioned areas (photography, film making, lights, stage craft, script writing, editing, product development) to emphasize visualization powers in an attempt to build a personalvision.
+
+Course DES623 - TOPICS IN MOTION PICTURES
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Topics in motion pictures require a combined practical and theoretical approach for realizing the creative media in its totality. The proposed course would offer students the opportunity to acquire a range of transferable and practical skillsin film and television productions.Concise and brief history of motion pictures; Analysis and a general approach to the criticism of film and television media; Approach and methods in these forms of media productions; Overview of the digital media arts field with anemphasis on technological developments and their integration in art researchand production.Students would be introduced to contemporary and historical directions, keyconcepts and methodologies through seminar lectures, research presentations, practical exercises and a final project. Classes would be supplemented with viewing a range of productions, individual and group critiques, presentations, demonstrations and practical exercises to explore traditional and modern methods and explore both technical and creative approaches to the medium. The, course will also include short workshops supported by specialized professionalsin the related fields.
+
+Course DES623A - TOPICS IN MOTION PICTURES
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Topics in motion pictures require a combined practical and theoretical approach for realizing the creative media in its totality. The proposed course would offer students the opportunity to acquire a range of transferable and practical skillsin film and television productions. Concise, and brief history of motion pictures; Analysis and a general approach to the criticism of film and television media; Approach and methods in these forms of media productions; Overview of the digital media arts field with an emphasis on technological developments and their integration in art research and production. Students would be introduced to contemporary and historical directions, key concepts and methodologies through seminar lectures, research presentations, practical exercises and a final project. Classes would be supplemented with viewing a range of productions, individual and group critiques, presentations, demonstrations and practical exercises to explore traditional and modern methods and explore both technical and creative approaches to the medium. The, course will also include short workshops supported by specialized professionals in the related fields.
+
+Course DES624 - ELEMENTS AND PRINCIPAL OF DESIGN
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2-4-4. Source: Courses of Study 2021, IIT Kanpur.
+The course intends to develop the following areas(i) Elements of Design value, color, form, shape, line and texture. Each elenment is to be examined theoretically along with studio exercises and evaluated through consumer products (2D & 3D). (ii) Principal of Design would evaluate contrast, rhythm, unity, emphasis, pattern, movement, and balance on the basis of Design Elements. The course proposes to develop through understanding of the elements and principles of design and their corelationship. The, course intends in developing understanding on the above issues and executes projects to examine elements and principles of design. Studentsare expected to develop knowledge and practical skill through theoretical and practical training. Students are required to develop products, give seminars and submit research paper on chosen topics.
+
+Course DES625 - FORM AND STYLE
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2--4. Source: Courses of Study 2021, IIT Kanpur.
+Theory: Form envelops and assists function in the process, creates a network of values that is termed as Style. Studies in form and style concerns the conceptualization, exploration, and development of form and style in both product design and Visual commnication. The course will explore various bases for creative visualization like Fantasy. Metaphors, Cultural connotations and Bionics in the context of form making.From analysis Analysis of principles of form in relation with society study of evolution of forms in products 2D and 3D space analysis Dominant sub dominant subordinate relationship, Recall of forms Tensile design Motion andform, Light space analysisFor Visual communication form will ne explored in the context of concept communication and the application of information theory to visual structures.This will include case studies of advertisement campaigns like Amul Silk cuntetc.The course evaluates patterns of aesthetic, ergonomic and market behaviour towards forms.Studio: Form development assignments in both Product and visual communications will deal with the evolution of form in relation with exploration and function.Each assignment will complete the design process and its various stages from conceptualization, comparative studies, and usability issues to market trendsas related to the study of Form. The study of the design process will help inunderstanding the shifts between analytical and creative phases in differentstages of design that is conceptualizattion and manufacturability gaps. Various, visual structures and alternative display formats wiill be explored throughthe assignments. The course, is envisaged in collaboration with assignments from the industry wherever possible in which the primary work will take place in the Lab andthe critical evaluatiion in the industry. The course requires extensive field studyfor usability and market trends.
+
+Course DES625A - FORM AND STYLE
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Theory: Form envelops and assists function in the process creates a network of values that is termed as Style. Studies in form and style concerns the conceptualization, exploration, and development of form and style in both product design and Visual commnication. The course will explore various bases for creative visualization like Fantasy. Metaphors, Cultural connotations andBionics in the context of form making.From analysis Analysis of principles of form in relation with society study of evolution of forms in products 2D and 3D space analysis Dominant sub dominant subordinate relationship, Recall of forms Tensile design Motion andform, Light space analysis For Visual communication form will ne explored in the context of concept communication and the application of information theory to visual structures.This will include case studies of advertisement campaigns like Amul Silk cuntetc.The course evaluates patterns of aesthetic, ergonomic and market behaviour towards forms.Studio: Form development assignments in both Product and visual communications will deal with the evolution of form in relation with exploration and function.Each assignment will complete the design process and its various stages from conceptualization, comparative studies, and usability issues to market trendsas related to the study of Form. The study of the design process will help in understanding the shifts between analytical and creative phases in different stages of design that is conceptualizattion and manufacturability gaps. Various, visual structures and alternative display formats wiill be explored throughthe assignments. The course is envisaged in collaboration with assignments from the industry wherever possible in which the primary work will take place in the Lab andthe critical evaluatiion in the industry. The course requires extensive field studyfor usability and market trends.
+
+Course DES626 - INTERACTION DESIGN
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2--4. Source: Courses of Study 2021, IIT Kanpur.
+Interaction Design defines behavioral pattern and builds the performance level of technical, environmental, biological and organizational systems i.e. software, products, mobile devices, environments, services, wearable, and even organizations themselves to name a few. The behavior or the interaction of a manufacture d article or a scheme in response to its user group is the primary concern of this topic in design. Students are expected to collect information through user research following the various user research methodologies, generate interactive scenarios and strategies, design stressing upon behaviour as well as form, and consider the evaluation process of design in terms of usability and emotional factors and propose solutions for the ease of use in physical or virtual productsor a system. Interactive objects, spaces and services are concieved taking into consideration the different design concerns as well as by exploiting Information and Communication Technogy (ICT) potentialities as term projects.
+
+Course DES627 - MANAGEMENT OF DESIGN AND INNOVATION
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2--4. Source: Courses of Study 2021, IIT Kanpur.
+Identification of Opportunities and the creative mind, Problem Based ideation, Creative Problem solving, Market Innovation and Brands, Strategy and Organization for the Creative Business, Networks and Collaboration for Design Innovation and cultural Industries, Competitive Design performance Management for the Design Business over the Life Cycle.
+
+Course DES628 - DESIGN, CULTURE AND SOCIETY
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2--4. Source: Courses of Study 2021, IIT Kanpur.
+Understanding the Dynamics of Indian Society : Social Units and Institutions,Cultural Adaptations, Exploring Culture : Attributes, Cultural Practices, Cultural Growth and Cultural Integration , Methods of cultural Inquiry : Comparative Methods, Fieldwork, Ethnographic Study, and Perspective on Design trends, Indigenous Design Culture : Proletarian Design Innovations, Role of Design within Societal Structure and Cultural Framework and Understanding Users, User Experience Design : UE Research Tecniques, Trend Mapping : Research Methodology assessing, scoping, digging and refining the data, information, knowledge andinsight layers; Cultural triangulation how observation, interrogation and intuition add the key and core vital layer to understanding the data assessed, the knowledge acquired and the insights delivered; Quantitative sampling; Visualand trend mapping techniques turning insights into market strategies; Using forecasting to develop products and new brand directions.
+
+Course DES629 - INTRODUCTION TO CRITICAL ART APPRECIATION
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-2-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Contemporary Art Theory & Practice, Art and its implications Society & Culture, Role of Art and Artist in Socio Cultural Framework, Understanding Visual CultureHistorical and Global Perspective, Methodology for Critical Thinking in the context of Art Appreciation, Principles and Norms of Art, Communication in VisualArts, Relative studies in diverse cultural expressions.
+
+Course DES681 - DESIGN PROJECT I
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 0-0-6--4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to Graphics, Introduction to Graphics Software, Introduction to Style, Introduction to Multimedia Application, Introduction to CAD Application, User Consumer Interaction Study, Media Communication, Ergonomics, Material Exploration.
+
+Course DES681A - DESIGN PROJECT I
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 1-0-6-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to Graphics, Introduction to Graphics Software, Introduction to Style, Introduction to Multimedia Application, Introduction to CAD Application, User Consumer Interaction Study, Media Communication, Ergonomics, Material Exploration.
+
+Course DES682 - DESIGN PROJECT II
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-6-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Manufacturability Studies, Embedded products, Product styling, Package Designing, Information design, HCI, GUI, Animation, Film appreciation, Print Making.
+
+Course DES682A - DESIGN PROJECT II
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 1-0-6-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Manufacturability Studies, Embedded products, Product styling, Package Designing, Information design, HCI, GUI, Animation, Film appreciation, Print Making.
+
+Course DES689 - TOPICS IN DESIGN
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 2-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Lectures and Workshops on Various Topics in Design like Ergonomics, Graphic Design and Typography, Design Management, Visual Image Design, Composition and Media Art, Aesthetics and Forms, Role of Design in ICT, Auto Design, Product Simulation, Packaging Design, Sustainable Design through Practical Exercises, Studio Projects, Field Trips.
+
+Course DES698 - SPECIAL STUDIES/PROJECT COURSES IN DESIGN
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 0-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Cognitive Design; Design Management; Human factors in Ergonomics Design; Usability & Usercentric Design; Axiomatic Design; Human Computer Interface Design (HCI), etc.
+
+Course DES698A - SPECIAL STUDIES/PROJECT COURSES IN DESIGN
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 0-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Cognitive Design; Design Management; Human factors in Ergonomics Design; Usability & Usercentric Design; Axiomatic Design; Human Computer Interface Design (HCI), etc.
+
+Course DES699 - M DES THESIS
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 0-0-0--. Source: Courses of Study 2021, IIT Kanpur.
+M. Des. Thesis
+
+Course DES699B - M DES THESIS
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): 0-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+M DES THESIS
+
+Course DES799 - PH.D THESIS
+Department: Department of MDES (Master of Design (MDES)). Credits (L-T-P-D-C): -0-0-0-. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis

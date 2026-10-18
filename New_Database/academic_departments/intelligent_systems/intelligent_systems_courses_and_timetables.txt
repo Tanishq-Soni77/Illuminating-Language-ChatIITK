@@ -1,0 +1,656 @@
+DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Intelligent Systems (established 2025 within the Wadhwani School for AI and Intelligent Systems), IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/dis. Snapshot: scraped in 2026.
+
+=== all courses ===
+Source: https://www.iitk.ac.in/dis/all-courses
+UG: Core
+
+UG: Elective
+
+PG: Elective
+
+Foundational 9 Courses
+
+IS201 Probability and Statistics for ML
+
+IS202 Embedded Computing for Cyber-Physical Systems
+
+IS203 Signal, Systems & Networks (EE200)
+
+IS204 Control System Analysis (EE250)
+
+IS205 Introduction to Machine Learning (CS771)
+
+IS301 AI Ethics
+
+IS302 ML-Driven Software Development and Operations
+
+IS303 Principles of Communication (EE320)
+
+IS304 Robotics (ME381)
+
+Projects 4 Courses
+
+IS496 Undergraduate Project 1
+
+IS497 Undergraduate Project 2
+
+IS498 Undergraduate Project 3
+
+IS499 Undergraduate Project 4
+
+Digital AI 5 Courses
+
+IS611  Probabilistic Machine Learning (CS772)
+
+IS612  Modern Cryptography (CS641)
+
+IS613  Human-AI Interaction (CS698Y)
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > all courses]
+IS614  Statistical Natural Language Processing (CS779)
+
+IS615  Information Retrieval (CS657)
+
+Cyber Physical Systems 4 Courses
+
+IS621  Embedded and Cyber-Physical Systems (CS637)
+
+IS622  Convex Optimization (EE609)
+
+IS623  Basics of Modern Control Systems (EE650)
+
+IS641  Robot Dynamics
+
+Electives 8 Courses
+
+IS731 Testing and Verification of AI-Driven Systems (To Be Approved)
+
+IS732  Multimedia Computing and Applications (To Be Approved)
+
+IS741  Perception Algorithms for Autonomous Systems
+
+IS742  Principles of Navigation Techniques for Autonomous Systems
+
+IS743  Intelligent Control Systems
+
+IS744  Intelligent Autonomous Systems (To Be Approved)
+
+IS745  Fundamentals of Space Robotics (To Be Approved)
+
+IS746  Safe Learning and Control under Uncertainty (To Be Approved)
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > all courses]
+Thesis/Others 5 Courses
+
+IS801  Recent Trends in Intelligent Systems Research
+
+IS888  Introduction to Profession and Communication
+
+IS699  M.Tech. Thesis
+
+IS799  PhD Thesis
+
+IS899  M.S. Thesis
+
+=== current courses ===
+Source: https://www.iitk.ac.in/dis/current-courses
+Academic Year 2026–27
+
+Monsoon (Sem-I)
+
+Winter (Sem-II)
+
+Summer
+
+FOUNDATIONAL 2 Courses
+
+EE605 Linear Algebra for Engineers
+
+Instructor: Ketan Rajawat
+
+EE621 Foundations of Probability
+
+Instructor: WS Mondal
+
+DIGITAL AI 5 Courses
+
+CS698B Fundamentals of Data Engineering - I
+
+Instructor: Purushottam Kar
+
+CS715 Cryptographic Protocols
+
+Instructor: Angshuman Karmakar
+
+CS731 Blockchain Technology and Applications
+
+Instructor: Somitra Sanadhya
+
+CS771 Introduction to Machine Learning
+
+Instructor: Piyush Rai
+
+CS778 Foundations of Modern AI
+
+Instructor: Sayak Ray Chowdhury
+
+CPS 5 Courses
+
+CS637 Embedded and Cyber-Physical Systems
+
+Instructor: Indranil Saha
+
+CS724 Sensing, Communications, and Networking for Smart Wireless Devices
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+Instructor: Amitangshu Pal
+
+EE603 Machine Learning for Signal Processing and Communications
+
+Instructor: Rohit Budhiraja
+
+EE650 Basics of Modern Control Systems
+
+Instructor: Abhishek Patel
+
+IS641 Perception Algorithms for Autonomous Systems
+
+Instructor: Anirban Roy
+
+View Weekly Schedule
+
+Foundational    Digital AI    CPS
+
+08:00
+
+09:00
+
+10:00
+
+11:00
+
+12:00
+
+13:00
+
+14:00
+
+15:00
+
+16:00
+
+17:00
+
+18:00
+
+19:00
+
+20:00
+
+Mon
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+08:00–09:00 L10
+
+CS637 9 cr
+
+Embedded and Cyber-Physical Systems
+
+10:30–12:00 RM101
+
+CS715 9 cr
+
+Cryptographic Protocols
+
+15:30–17:00 KD102
+
+CS778 9 cr
+
+Foundations of Modern AI
+
+15:30–17:00 KD101
+
+Tue
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+09:00–10:00 L10
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+11:00–12:00 TB205
+
+CS715 9 cr
+
+Cryptographic Protocols
+
+14:00–15:15 KD102
+
+CS778 9 cr
+
+Foundations of Modern AI
+
+14:00–15:15 KD101
+
+Wed
+
+EE621 9 cr
+
+Foundations of Probability
+
+09:00–10:15 L12
+
+EE605 9 cr
+
+Linear Algebra for Engineers
+
+10:30–12:00 L03
+
+CS731 9 cr
+
+Blockchain Technology and Applications
+
+10:30–12:00 KD103
+
+CS724 9 cr
+
+Sensing, Communications, and Networking for Smart Wireless Devices
+
+12:00–13:15 KD102
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+16:00–17:00 TB205
+
+CS771 12 cr
+
+Introduction to Machine Learning
+
+18:15–19:30 L20
+
+EE650 9 cr
+
+Basics of Modern Control Systems
+
+18:15–19:30 L10
+
+Thu
+
+CS637 9 cr
+
+Embedded and Cyber-Physical Systems
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+10:30–12:00 RM101
+
+Fri
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+08:00–09:00 L10
+
+EE621 9 cr
+
+Foundations of Probability
+
+09:00–10:15 L12
+
+EE605 9 cr
+
+Linear Algebra for Engineers
+
+10:30–12:00 L03
+
+CS731 9 cr
+
+Blockchain Technology and Applications
+
+10:30–12:00 KD103
+
+CS724 9 cr
+
+Sensing, Communications, and Networking for Smart Wireless Devices
+
+12:00–13:15 KD102
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+16:00–17:00 TB205
+
+CS771 12 cr
+
+Introduction to Machine Learning
+
+18:15–19:30 L20
+
+EE650 9 cr
+
+Basics of Modern Control Systems
+
+18:15–19:30 L10
+
+08:00
+
+09:00
+
+10:00
+
+11:00
+
+12:00
+
+13:00
+
+14:00
+
+15:00
+
+16:00
+
+17:00
+
+18:00
+
+19:00
+
+20:00
+
+Monday
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+08:00–09:00 L10
+
+CS637 9 cr
+
+Embedded and Cyber-Physical Systems
+
+10:30–12:00 RM101
+
+CS715 9 cr
+
+Cryptographic Protocols
+
+15:30–17:00 KD102
+
+CS778 9 cr
+
+Foundations of Modern AI
+
+15:30–17:00 KD101
+
+Tuesday
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+09:00–10:00 L10
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+11:00–12:00 TB205
+
+CS715 9 cr
+
+Cryptographic Protocols
+
+14:00–15:15 KD102
+
+CS778 9 cr
+
+Foundations of Modern AI
+
+14:00–15:15 KD101
+
+Wednesday
+
+EE621 9 cr
+
+Foundations of Probability
+
+09:00–10:15 L12
+
+EE605 9 cr
+
+Linear Algebra for Engineers
+
+10:30–12:00 L03
+
+CS731 9 cr
+
+Blockchain Technology and Applications
+
+10:30–12:00 KD103
+
+CS724 9 cr
+
+Sensing, Communications, and Networking for Smart Wireless Devices
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+12:00–13:15 KD102
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+16:00–17:00 TB205
+
+CS771 12 cr
+
+Introduction to Machine Learning
+
+18:15–19:30 L20
+
+EE650 9 cr
+
+Basics of Modern Control Systems
+
+18:15–19:30 L10
+
+Thursday
+
+CS637 9 cr
+
+Embedded and Cyber-Physical Systems
+
+10:30–12:00 RM101
+
+Friday
+
+EE603 9 cr
+
+Machine Learning for Signal Processing and Communications
+
+08:00–09:00 L10
+
+EE621 9 cr
+
+Foundations of Probability
+
+09:00–10:15 L12
+
+EE605 9 cr
+
+Linear Algebra for Engineers
+
+10:30–12:00 L03
+
+CS731 9 cr
+
+Blockchain Technology and Applications
+
+10:30–12:00 KD103
+
+CS724 9 cr
+
+Sensing, Communications, and Networking for Smart Wireless Devices
+
+12:00–13:15 KD102
+
+IS641 9 cr
+
+Perception Algorithms for Autonomous Systems
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > current courses]
+16:00–17:00 TB205
+
+CS771 12 cr
+
+Introduction to Machine Learning
+
+18:15–19:30 L20
+
+EE650 9 cr
+
+Basics of Modern Control Systems
+
+18:15–19:30 L10
+
+Will be updated soon...
+
+Will be updated soon...
+
+=== dis course details ===
+Source: https://www.iitk.ac.in/dis/dis-course-details
+DIS Course Details
+
+New Institute Core
+
+ESOXXX: Fundamentals of Data Engineering
+
+Department Compulsory
+
+IS201: Probability and Statistics for ML
+
+IS202: Signals, Systems & Networks (EE200)
+
+IS203: Fundamentals of Data Engineering - Part II (Things)
+
+IS204: Control Systems Analysis (EE250)
+
+IS205: Introduction to Machine Learning (CS771)
+
+IS301: AI Ethics (New)
+
+IS302: Fundamentals of Data Engineering - Part III (OPS)
+
+IS303: Principles of Communication (EE320)
+
+IS304: Robotics (ME381)
+
+Department Electives
+
+Digital Basket (D Basket):
+
+IS611: Probabilistic Machine Learning (CS772)
+
+IS612: Modern Cryptography (CS641)
+
+IS613: Human-AI Interaction (CS698Y)
+
+IS614: Software Engineering for Intelligent Systems
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > dis course details]
+Cyber Physical System Basket (C Basket)
+
+IS621: Embedded and Cyber-Physical Systems (CS637)
+
+IS622: Computer-Aided Verification (CS652)
+
+IS623: Convex Optimization (EE609)
+
+IS624: Basics of Modern Control Systems (EE650)
+
+CS625: Robot Dynamics
+
+Undergraduate Projects
+
+IS496: Undergraduate Project 1
+
+IS497: Undergraduate Project 2
+
+IS498: Undergraduate Project 3
+
+IS499: Undergraduate Project 4
+
+Color Code:
+
+Blue: Courses from other departments
+
+Red: New Courses
+
+=== list of pg courses ===
+Source: https://www.iitk.ac.in/dis/list-of-pg-courses
+List of PG Courses
+
+Digital AI Basket
+
+Introduction to Machine Learning
+
+Probabilistic Machine Learning
+
+Software Engineering for Intelligent Systems *
+
+Modern Cryptography
+
+Cryptographic Protocols
+
+Human-AI Interaction
+
+Human-centered Computing
+
+Computational Cognitive Science
+
+Economics and Business of Digital Technologies
+
+Cyber-Physical Systems Basket
+
+Introduction to Signal Analysis
+
+Representation and Analysis of Random Signals
+
+Embedded and Cyber-Physical Systems
+
+Computer-Aided Verification
+
+Convex Optimization
+
+Robot Dynamics*
+
+Basics of Modern Control Systems
+
+Nonlinear Systems
+
+Machine Learning for Wireless Communications
+
+UAV Communications
+
+Perception Algorithms on Autonomous Systems
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > list of pg courses]
+Principles of Navigation Techniques for Autonomous Systems
+
+* Subject to senate approval
+

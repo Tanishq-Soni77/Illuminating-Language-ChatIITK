@@ -1,0 +1,4685 @@
+DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Materials Science and Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/mse. Snapshot: scraped in 2026.
+
+=== functional materials lab ===
+Source: https://www.iitk.ac.in/mse/functional-materials-lab.php
+Functional Materials Lab
+
+Functional Materials Lab
+
+MSE 312 Functional Materials Lab
+Following experiments are conducted in Functional Materials Lab.
+
+No.
+
+Title of the experiment |
+
+Detailed contents
+
+Objective and scope of experiment
+
+1. |
+
+Ionic conductivity
+
+Conductivity measurement as a function of temperature for different samples
+
+Students will learn:
+
+(i)  Ionic vs. electronic conduction
+
+(ii) Effect of processing/microstructure
+
+2. |
+
+Dielectric and ferroelectric/piezoelectric materials
+
+Measurement of dielectric constant
+
+Hysteresis loop
+
+Students will learn:
+
+(i)  Dielectric and Ferroelectric/Piezoelectric Materials
+
+(ii) Measurement of dielectric constants
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > functional materials lab]
+(iii)Dependence on frequency and temperature
+
+3. |
+
+Optical behavior of Liquid Crystals
+
+Measure response to applied field
+
+Measure the transmittance
+
+Measure threshold voltage
+
+Students will learn:
+
+(i)   Photonics: optical behaviour of materials
+
+(ii)  Optical behaviour of liquid crystals
+
+(iii) Working of flat panel displays
+
+4. |
+
+Fabrication of organic light emitting diodes
+
+Partial fabrication of organic polymer light emitting diodes
+
+Characterization of an OLED
+
+Students will learn:
+
+(i)   Photoluminescence and electroluminescence
+
+(ii)  Measurement of optical power
+
+(iii) Bandgap alignment
+
+(iv) Importance of life time in organic devices
+
+5. |
+
+Magnetic materials
+
+Magneto resistance
+
+M-H curves
+
+Students will learn:
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > functional materials lab]
+(i)  Magnetic materials
+
+(ii) Magnetic characterization
+
+(iii)Magnetic memory materials
+
+6. |
+
+Semiconductor characterization
+
+Semiconductors resistivity
+
+Hall measurement
+
+Bandgap measurement
+
+Students will learn:
+
+(i) Carrier concentration, type and mobility
+
+(ii) Electrical vs optical band gap
+
+7&8. |
+
+Solar cell fabrication and characterization
+
+Fabrication of organic photovoltaic cells (PV) cells
+Characterization of solar cells
+
+Students will learn:
+
+(i)  Organic semiconducting materials
+
+(ii) Organic electronics processing
+
+(iii)Measurement of power density and efficiency of a working solar cell
+
+(iv) Photonics
+
+9. |
+
+Processing of biomaterials
+
+Fabricate biomaterials using
+
+(i)compression molding (for entire component), and
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > functional materials lab]
+(ii) electrostatic spraying (for coatings)
+
+Students will learn:
+
+(i) Processing of structural bulk components of biomaterials
+
+(ii)Deposition of biomaterial coatings
+
+10. |
+Tribology of bio-coatings |
+
+Tribology of two samples:
+(i) polymer with modifier
+
+(ii) polymer without modifier for comparison purpose.
+
+Comparison with metallic substrates (demo). Students will learn:
+
+(i) Role of hard abrasive coating on the wear resistance
+
+(ii) Coefficient of friction between surfaces
+
+a) Metal and polymer
+
+b) Ceramic-polymer
+
+(iii) Wear damage in terms of the Penetration depth (in situ)
+
+11. |
+
+Biomimetics/ Surface modification
+
+Effect of surface energy on wetting of surfaces
+
+Samples prepared by the students measuring the contact angle.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > functional materials lab]
+Role of surface roughness/ chemistry on affecting the wettability of surface.
+
+Students will learn:
+
+The role of surface energy on wetting
+
+To render various degree of surface roughness
+
+Role of surface chemistry and roughness on wettability
+
+12. |
+
+Effect of surface modification on Bacteria/ Cell growth
+
+Effect of surface modification/functionalization
+
+characterized by comparing cell growth/proliferation
+
+on treated versus pristine surfaces.
+
+One or more of the following will be performed by
+
+students to learn cell response:
+
+Role of surface chemistry (hydrophobic/ hydrophilic and hydrophobic/ hydrophilic + modifier)
+
+Role of surface roughness
+
+Cell-proliferation/growth will be demonstrated on the samples prepared by students.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > functional materials lab]
+Students will learn:
+
+Effect of surface modification on cell viability
+
+Role of surface roughness on cell viability
+
+=== kkaustub collaborations ===
+Source: https://www.iitk.ac.in/mse/kkaustub/collaborations.php
+Group
+
+Current Members
+
+Past Members
+
+Projects
+
+publications
+
+Collaborations
+
+Collaborations
+
+Collaborations
+
+List of Collaborations
+
+University of California, Davis
+
+Purdue University,West Lafayette, Indiana, United States
+
+Indian space research organisation
+
+Defence metallurgical research laboratory, Hyderabad
+
+GM Global R & D, Warren, USA
+
+GE India Technology Center, Bangalore
+
+Automotive Research Association of India, Pune
+
+GET IN TOUCH
+
+Western Laboratory - 302A
+
+Department of Materials Science and Engineering
+
+Indian Institute of Technology Kanpur
+
+Kanpur - 208016, UP, India.
+
+Useful Links
+
+MSE IITK Home
+
+IITK Telephone Directory
+
+NPTEL Lecture
+
+more lectures...
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub collaborations]
+Collaborations
+
+University of California, Davis
+
+Purdue University,West Lafayette, Indiana, United States
+
+Indian space research organisation
+
+Defence metallurgical research laboratory, Hyderabad read more...
+
+=== kkaustub facilities ===
+Source: https://www.iitk.ac.in/mse/kkaustub/facilities.php
+Group
+
+Current Members
+
+Past Members
+
+Projects
+
+publications
+
+Collaborations
+
+List of Facilities
+
+high speed precision cutter
+
+polishing machine
+
+tube furnace
+
+low speed precision cutter
+
+precision wire saw
+
+vacuum arc melting furnace
+
+lab space
+
+lab space
+
+lab space
+
+GET IN TOUCH
+
+Western Laboratory - 302A
+
+Indian Institute of Technology Kanpur
+
+Kanpur - 208016, UP, India.
+
+Useful Links
+
+MSE IITK Home
+
+IITK Telephone Directory
+
+NPTEL Lecture
+
+more lectures...
+
+Collaborations
+
+University of California, Davis
+
+Indian space research organisation
+
+=== kkaustub projects ===
+Source: https://www.iitk.ac.in/mse/kkaustub/projects.php
+Group
+
+Current Members
+
+Past Members
+
+Projects
+
+publications
+
+Collaborations
+
+Projects
+
+Fundings
+
+List of Projects
+
+Current Projects
+
+Completed Projects
+
+Consultancy
+
+Current Projects
+
+"Investigations into Phase Equilibria and Diffusion Kinetics of Permanent Magnet Materials"
+
+VSSC, ISRO (2022-2025) (Approved)
+
+Completed Projects
+
+"Investigations into Ternary Interdiffusion in Bond Coat Systems of β (Ni, Pt)Al and (Ni, Ru)Al" (2021-2024)
+
+AR&DB; DRDO, GoI
+
+"Interdiffusion and Diffusional Interactions in High Entropy Alloys"
+
+VSSC, ISRO (2017-2020)
+
+"Development of Methodologies to Characterize Evolution of Segregation Patterns in Superalloys" (2016-2018)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub projects]
+GE India Technology Center, Bangalore
+
+"Investigation of Interdiffusion and Diffusional Interactions in the Ternary Ti-Al-Mo Alloys"
+
+Science and Engineering Research Board, DST, GoI (2014-2017);
+
+Co-Investigator: Prof. Anandh Subramaniam
+
+"Kinetics of Microstructure Evolution in Brazing Joints of 0.07C-16Cr-6NiSteel and Silver Obtained with Ag-Cu-Sn Filler Metal"
+
+VSSC, ISRO (2014-2016)
+
+"Investigation of Solute Interdiffusion in Aluminum Alloys"
+
+General Motors Global R&D; Warren, USA (2013-2015)
+
+"Precipitation Hardening of Cast Aluminum Alloys for Elevated Temperature Strength"
+
+General Motors Global R&D; Warren, USA  (2012-2013)
+
+"Interdiffusion Between Thermal Barrier Coatings and Bond Coats: Growth Kinetics of Thermally Grown Oxides and Hot Corrosion of TBC"; Co-Investigator: Prof. Shobit Omar, MSE, IIT Kanpur
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub projects]
+GE India Technology Center, Bangalore; (2012-2014)
+
+"Interdiffusion in Ti-Al-Nb System and Kinetics of Spark Plasma Sintering";
+
+IIT Kanpur Initiation Grant (2013-2015)
+
+"Study and Development of Lightweight Forging Process for Automotive Applications"
+
+Automotive Research Association of India (Co-PI: Dr. Shashank Shekhar)
+
+At ARAI, Pune Dr. Kulkarni has successfully executed the project titled "Generate Data Bank On Chemical, Mechanical, Physical & Dynamic Properties Of Automotive Grade Advanced High Strength Steels (AHSS) & Aluminum Alloys"; sponsored by Department of Heavy Industry, GoI. In addition, Dr. Kulkarni was involved in several materials standardization and certification projects.
+
+Consultancy
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub projects]
+"Interdiffusion and Phase Growth Kinetics in the Fe-Al based alloys."
+
+General Motors Global R&D; Warren, USA (2015-2016)
+
+"Study and Development of Lightweight Forging Process for Automotive Applications"
+
+Automotive Research Association of India (Co-PI: Dr. Shashank Shekhar)
+
+EPMA Testing of Alloys at ACMS; sponsored by VSSC, Trivendrum
+
+GET IN TOUCH
+
+Western Laboratory - 302A
+
+Indian Institute of Technology Kanpur
+
+Kanpur - 208016, UP, India.
+
+Useful Links
+
+MSE IITK Home
+
+IITK Telephone Directory
+
+NPTEL Lecture
+
+more lectures...
+
+Collaborations
+
+University of California, Davis
+
+Indian space research organisation
+
+=== kkaustub publications ===
+Source: https://www.iitk.ac.in/mse/kkaustub/publications.php
+Group
+
+Current Members
+
+Past Members
+
+Projects
+
+publications
+
+Collaborations
+
+Publications
+
+Publications
+
+List of Publications
+
+Journal Articles
+
+Conference Proceedings
+
+Patents
+
+Journal Articles
+
+Kaustubh N. Kulkarni, B. Samantaray amd S. K. Nayak; "Ternary Interdiffusion Coefficients in BCC Ti-Al Based Alloys and Their Application in Simulations of Homogenization and Finite Diffusion Couples"; Metall. Mater. Trans. A; 55A; 2024; pp. 4882-4898
+
+Kaustubh N. Kulkarni; "Velocity of Volume Fixed Frame and Its Application in Simulating Concentration Profiles in Multicomponent Diffusion"; Journal of Phase Equilibria and Diffusion; Published Online; 45 (4); 2024; pp. 757-763
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+N. Raja, A. Kumar, S. Shekhar, Kaustubh N. Kulkarni; "Delineating the role of dynamic and static recrystallization during hot working of nickel-based superalloy (IN600)"; Materials Today Communications; 40; 2024; 109577
+
+B. Samantaray, D. Das, Z. Alam and Kaustubh N. Kulkarni; "Ternary Interdiffusion Analysis in b-(Ni,Pt)Al System Pertaining to Bond Coat Applications"; Metallurgical and Materials Transactions A; 55A; 2024; pp. 2200-2212
+
+S. K. Nayak and Kaustubh N. Kulkarni; "Effect of Gibbs Free Energies of Terminal Alloys on Diffusion Paths and Diffusion Depths in Couples Assembled with 𝜸-Phase Fe-Ni-Cu Alloys at 1000 °C"; Journal of Phase Equilibria and Diffusion; 45; 2024; pp. 175-184
+
+S. K. Nayak and Kaustubh N. Kulkarni; "A Combinatorial Study of Diffusion Path, Mechanical Strength, and Kinetic Assessment of γ‐FeNiCu Alloys at 1000 °C"; Transactions of INAE; Published Online; 2024; DOI https://doi.org/10.1007/s41403-024-00456-9
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+B. Samantaray and Kaustubh N. Kulkarni; "Experimental Determination of (BCC+FCC) Phase Fields in the Quaternary Isotherm of Fe-Ni-Co-Cu at 950 °C"; Journal of Materials Research; 38 (17); 2023; pp. 4081-4092
+
+S. K. Nayak and Kaustubh N. Kulkarni; "Experimental Determination of Vacancy Formation Energies in Multicomponent Systems"; Metallurgical and Materials Transactions A; 54A; 2024; pp. 3341-3348
+
+B. Samantaray and Kaustubh N. Kulkarni; "Diffusional Interactions and Their Application in Reducing Interdiffusion in Bond Coat Systems Used in Turbine Blades"; SAE Technical Paper 2223-28-1354; 2023
+
+Kaustubh N. Kulkarni; "Derivation of expressions for interdiffusion and intrinsic diffusion flux in presence of chemical potential gradient in a multicomponent system with composition dependent molar volume"; Oxford Open Materials Science; 3 (1); 2023; itad018
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Vivek Verma and Kaustubh N. Kulkarni; "Square Root Diffusivity Analysis of Body-Diagonal Diffusion Couples in FeNiCoCr quaternary and FeNiCoCrMn quinary systems"; Accepted in Journal of Phase Equilibria and Diffusion; 43 (6); 2022; pp. 903-915
+
+Kaustubh. N. Kulkarni, Aparna Tripathi, Abhinav Varshney, Jyoti Chandra, Siva Kumar, Sandeep Sangal, Debajyoti Paul, Kallol Mondal; "Electron Probe Micro-Analyzer: An Equipment for Accurate and Precise Micro-Composition Analysis"; in Electron Microscopy in Science and Engineering; IITK. Direction by Springer; 2022
+
+D. Agarwal, R. Potnuru, C. Kaushik, V. R. Darla, K. N. Kulkarni, A. Garg; "Recent Advances in the Modelling of Fundamental Processes in Liquid Metal Batteries"; Renewable and Sustainable Energy Reviews 158, 112167; 2022
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Kaustubh N. Kulkarni; "Analytical Solution for Interdiffusion in Multicomponent Systems and Its Application in High Entropy Alloys"; AIP Advances; Vol. 11 (015116); 2021; pp. 1-9
+
+R. Ojha, K. N. Kulkarni, T. Helander, K. C. Hari Kumar; "Diffusion couple experiments and calculations in Fe-Cr-Ni-Al system at 800–1000° C"; Journal of Alloys and Compounds; Vol. 863, 158061; 2021
+
+A. Tripathi and K. N. Kulkarni; "Effect of Varying Molar Volume on Interdiffusion Analysis in a Binary System"; Metallurgical and Materials Transactions A; Vol. 52A; 2021; pp. 3489-3502
+
+G. P. S. Chauhan and Kaustubh N. Kulkarni; "Investigations of Ternary Interdiffusion in β-(BCC) Phase Field of Ti-Al-Mo System"; Metallurgical and Materials Transactions A; Vol. 52A; 2021; pp. 413-425
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+V. Verma, A. Tripathi, T. Venkateswaran, Kaustubh N. Kulkarni; "First Report on Entire Sets of Experimentally Determined Interdiffusion Coefficients in Quaternary and Quinary High Entropy Alloys"; Journal of Materials Research; Vol. 35 (2); 2020; pp. 162-171
+
+A. Tripathi, A. Kulkarni and Kaustubh N. Kulkarni; "Interdiffusion in β (BCC) phase of Ti-Al-Mn system at 1100 ℃"; Metallurgical and Materials Transactions A; Vol. 51; 2020; pp. 1789-1798
+
+A. Tripathi, K. C. Hari Kumar, Kaustubh N. Kulkarni; "Kinetic Modelling of -BCC Phase in Ti-Al-Nb System in the Temperature Range of 1060-1200 C"; CALPHAD; Vol. 68 (101725); 2020; pp. 1-6
+
+G Mohan Muralikrishna, A Esther, K Guruvidyarthi, Philipp Watermeyer, Christian H Liebscher, Kaustubh N Kulkarni, Gerhard Wilde, Sergiy V Divinski, BS Murty; "Novel Multicomponent B2-Ordered Aluminides: Compositional Design, Synthesis, Characterization, and Thermal Stability"; Metals; Vol. 10 (11); 2020; pp. 1411: 1-19
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+G Mohan Muralikrishna, Vladimir A Esin, Kaustubh N Kulkarni, BS Murty, Gerhard Wilde, Sergiy V Divinski; "Atomic transport in B2-ordered Al (Fe, Ni) alloys: Tracer-interdiffusion couple approach"; Intermetallics; Vol. 126; 2020; pp. 106920: 1-10
+
+S. Mishra, M. Yadava, Kaustubh N. Kulkarni and N. P. Gurao; "A new phenomenological approach for modeling strain hardening behavior of face centered cubic materials" Acta Materialia; Vol. 178; 2019; pp. 99-113
+
+A. B. Krishna and Kaustubh N. Kulkarni; "Experimental Determination of Quaternary Isotherm of Fe-Ni-Co-Cu at 950 C by Diffusion Couple Technique"; Materialia; Vol. 4; 2018; pp. 549-552
+
+A. Tripathi, S. Middleton, E. J. Lavernia, A. K. Sachdev and Kaustubh N. Kulkarni; "Ternary Interdiffusion in  (BCC) Phase of the Ti-Al-Nb System"; Journal of Phase equilibria and Diffusion; Vol. 39 (6); 2018; pp. 841-852
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+B. Dangi, T. W. Brown and Kaustubh N. Kulkarni; "Effect of Silicon, Manganese and Nickel Present in Iron on the Intermetallic Growth at Iron-Aluminum Alloy Interface"; Journal of Alloys and Compounds; Vol. 769; 2018; pp. 777-787
+
+S. Mishra, M. Yadava, Kaustubh N. Kulkarni and N. P. Gurao; "Stress Relaxation Behavior of an Aluminum Magnesium Silicon Alloy in Different Temper Condition"; Mechanics of Materials; Vol. 125; 2018; pp. 80-93
+
+S. Mishra, M. Yadava, Kaustubh N. Kulkarni and N. P. Gurao; "A Theoretical Investigation of the Effect of Precipitate Habit Plane on Plastic Anisotropy in Age Hardenable Aluminum Alloys"; Modelling and Simulations in Materials Science and Engineering; Vol. 26 (5); 2018; pp. 055011
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Biswajit Sengupta, Shashank Shekhar and Kaustubh N. Kulkarni; "A Novel Approach for Controlling Precipitation Kinetics based on Diffusional and Thermodynamic Interactions"; Philosophical Magazine Letters; Vol. 98 (2); 2018; pp. 71-78
+
+Vikrant Beura, Vincent Xavier, T. Venkateswaran and Kaustubh Kulkarni; "Interdiffusion and microstructure evolution during brazing of austenitic martensitic stainless steel and aluminum-bronze with Ag-Cu-Zn based brazing filler material"; J. Alloys and Compounds; Vol. 740; 2018; pp. 852-862
+
+Kaustubh Kulkarni; "Diffusion in B2 NiAl and FeAl Intermetallics and Their Alloys"; in Diffusion Foundation Volume 13: ed. Aloke Paul; Trans Tech Publications; 2017; pp. 98-135
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Vivek Verma, Aparna Tripathi, Kaustubh N. Kulkarni; "On Interdiffusion in FeNiCoCrMn High Entropy Alloy"; Journal of Phase Equilibria and Diffusion; Vol. 38 (4); 2017; pp. 445-456
+
+Shivam Tripathi, Vivek Verma, Tyson Brown, Kaustubh N. Kulkarni; "Effect of Small Amount of Manganese on the Interdiffusivities in Fe-Al Alloys"; Journal of Phase Equilibria and Diffusion; Vol. 38 (2); 2017; pp. 135-142
+
+Biswajit Sengupta, Shashank Shekhar, Kaustubh N. Kulkarni; "A Novel Ultra-high Strength and Low-cost As-cast Titanium Alloy"; Materials Science and Engineering A; Vol. 696; 2017; pp. 478-481
+
+S. Gangadharan, D. Sivakumar, T. Venkateswaran, Kaustubh Kulkarni; "Evolution of Microstructure in Brazed Joints of Austenitic-Martensitic Stainless Steel with Pure Silver Obtained with Ag-27Cu-5Sn Brazing Filler Material"; Metallurgical and Materials Transactions A; Vol. 47 (12); 2016; pp. 6148-6159
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Kaustubh Kulkarni and G. P. S. Chauhan; "Investigations of Quaternary Interdiffusion in a Constituent System of High Entropy Alloys"; AIP Advances; 5; 097162; 2015
+
+Sumeet Mishra, Mansij Yadav, Kaustubh Kulkarni and Nilesh Gurao; "A Modified taylor Model for Predicting Yield Strength Anisotropy in Age Hardenable Aluminum Alloys"; Materials Science and Engineering A; Vol. 699; 2017; pp. 217-228
+
+Nitesh Kumar, Kaustubh Kulkarni, Laxmidhar Behera, Vivek Verma; "Preparation and Characterization of Maghemite Nanoparticles from Mild Steel for Magnetically guided Drug Therapy"; Journal of Materials Sciemce: Materials for Medicine; Vol. 28 (8); 2017; 116:1-13
+
+Sumeet Mishra, Kaustubh Kulkarni and Nilesh Gurao; "Effect of Crystallographic Texture on Precipitation Induced Anisotropy in an Aluminium Magnesium Silicon Alloy"; Materials and Design; 87; 2015; pp. 507-519
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Preeti Bajpai, Amit Das, Prajina Bhattacharya, Shimjith Madayi, Kaustubh Kulkarni, Shobit Omar; "Hot Corrosion of Stabilized Zirconia Thermal barrier Coatings and the Role of Mg-Inhibitor"; Journal of the American Ceramic Society; 98 (8); 2015; pp. 2655-2661
+
+Sun Yu, James Haley, Kaustubh Kulkarni, Mark Aindow, Anil K. Sachdev, Enrique Lavernia; "Influence of Electric Current on Microstructure Evolution in Ti/Al and Ti/TiAl3 During Spark Plasma Sintering"; Journal of Alloys and Compounds; 648; 2015; pp. 1097-1103
+
+Sumeet Mishra, Piyush Priyadarshi, Kaustubh Kulkarni, Nilesh Gurao, Prasad Phale, Suhail Mulla; "Optimizing the Strength and Ductility of Al-6061 Alloy by Various Post-rolling Ageing Treatments"; SAE Technical Paper 2014-28-0022; 2014
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Yu Sun, Kaustubh Kulkarni, Anil K. Sachdev and Enrique Lavernia; "Synthesis of γ-TiAl by Reactive Spark Plasma Sintering of Cryomilled Ti and Al Powder Blend, Part I: Influence of Processing and Microstructural Evolution"; Metall. Material. Trans. A; 45A; 2014; 2751-2758
+
+Yu Sun, Kaustubh Kulkarni, Anil K. Sachdev and Enrique Lavernia; "Synthesis of γ-TiAl by Reactive Spark Plasma Sintering of Cryomilled Ti and Al Powder Blend, Part II: Effects of Electric Field and Microstructure on Sintering Kinetics"; Metall. Material. Trans. A; 45A; 2014; 2759-2767
+
+Kaustubh Kulkarni, Yu Sun, Anil Sachdev, Enrique Lavernia; "Field Activated Sintering of Blended Elemental γ-TiAl Powder Compacts: Porosity Analysis and Growth Kinetics of Al3Ti"; Scripta Materialia; Vol. 68; 2013; pp. 841-844
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Kaustubh Kulkarni and Alan Luo; "Interdiffusion and Phase Growth Kinetics in Magnesium-Aluminum Binary System"; Journal of Phase Equilibria and Diffusion; Vol. 34; 2013; pp. 104-115
+
+Anil K. Sachdev, Kaustubh Kulkarni, Z. Zak Fang, Rui Yang and Vladimir Girshov; "Titanium for Automotive Applications: Challenges and Opportunities in Materials and Processing"; JOM; Vol. 64; 2012; pp. 553-565
+
+N. S. Mahagaonkar, K. N. Kulkarni, V. V. Shinde and M. R. Saraf; "Evaluation of Fatigue Properties and Effect of Stress Concentration on Fatigue Life of Dual Phase Steel Grade DP 800 Steel" SAE Technical Paper No. 2011-26-0120; Jan 2011
+
+Kaustubh N. Kulkarni and Mysore A. Dayananda; "Evolution of Diffusion Paths and Concentration Profiles in Multicomponent Single-Phase Multilayered Assemblies", Defects and Diffusion Forum; Vol. 289-292; 2009; pp. 593-599
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+K. N. Kulkarni, A. M. Girgis, L. R. Ram-Mohan and M. A. Dayananda; "A transfer matrix analysis of quaternary diffusion"; Philosophical Magazine; Vol. 87 (6); 2007; pp. 853-872.
+
+K. N. Kulkarni, L. R. Ram-Mohan and M. A. Dayananda; "A Matrix Green’s Function Analysis of Multicomponent Diffusion in Multi-Layered Assemblies"; Journal of Applied Physics; Vol. 102 (6); 2007; 649081-5.
+
+K. N. Kulkarni, B. Tryon, T.M. Pollock, and M.A. Dayananda, "Ternary Diffusion in a RuAl-NiAl Couple"; Journal of Phase Equilibria and Diffusion; Vol. 28 (6); 2007; pp. 503-509.
+
+Conference Proceedings
+
+Sayli Jambhulkar and Kaustubh Kulkarni; "Investigations into Ternary Diffusion Couples of Ti-Al-Mo System"; 4th Annual International Conference on Materials Science, Metal and Manufacturing (M3 2017) March 2017; Singapore
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+P. K. Ajeet Babu, M. R. Saraf, Suraj Mani Chaurasiya, Suhail Mulla, Shashank Shekhar, Kaustubh Kulkarni; "Forging of Lightweight Shaft and the Assessment of Resdiual Stresses on the Forged Parts"; Proc. SIMPRO 2016 (4th International Conference on Thermomechanical Simulation and Processing of Steels); Ranchi; pp. 589-596
+
+Vivek Verma and Kaustubh Kulkarni; "Investigation of Interdiffusion in Titanium-Niobium Alloys"; Proc. TMS MS&T 2015; Columbus, OH, USA; (Symposium on Phase Stability and Diffusion); pp. 661-668
+
+Sumit Mishra, Kaustubh Kulkarni, N. P. Gurao; "Effect of Grain Orientation on Ageing Behaviour of Al-Mg-Si Alloy"; Proc. TMS MS&T 2015; Columbus, OH, USA; (Symposium on Materials Property Understanding through Characterization ); pp. 1575-1582
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Sumeet Mishra, Kaustubh Kulkarni, N. P. Gurao; "Effect of Strain Path Change on Precipitation Behaviour of Al-Cu-Mg-Si Alloy"; Proc. of 17th International Conference on Texture of Materials (ICOTOM); Dresden, Germany; August 2014; Vol. 82 (1); 2015; Article No. 12025
+
+P. Deshmukh, A. Kinkar, K. Kulkarni, M. Saraf; "Effect of Residual Stresses on Fatigue Life Performance of Forged Disc Springs"; Proc. 3rd Asia Forge Meeting, Shanghai, China; Sep 2010
+
+Kaustubh N. Kulkarni and Mysore A. Dayananda; "Diffusion Paths 	in Multicomponent Single-Phase Multilayered Assemblies"; Proc. 	TMS Ann. Meet., New Orleans, 2008
+
+S. Kumar, K. Kulkarni, C. Handwerker, and M. Dayananda; "Diffusion Analysis of Cu-Sn System"; Proc. Materials Science and Technology 2007; 493-504.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+K. Kulkarni and M. A. Dayananda; "A Transfer Matrix Analysis of a Quaternary Cu-Ni-Zn-Mn Diffusion Couple" Proc. Materials Science and Technology 2006; 2, 155-162
+
+Patents
+
+Kaustubh Kulkarni and Anil Sachdev; "Multicomponent Titanium Aluminide Article and Method of Making"; US Patent; US9061351B2; 2015
+
+Kiran Deshpande and Kaustubh Kulkarni; "Structure, Method of Making Structure and Method of Reducing Galvanic Corrosion"; US Patent; US9266189B2; 2016
+
+Nitesh Kumar, Vivek Verma, Laxmidhar Behera, Kaustubh Kullarni, Bushra Ateeq, Nishat Manzar; "Iron Oxide Nanoparticles and Method of Its Production", Indian Patent; IN201711016919A; 2019
+
+GET IN TOUCH
+
+Western Laboratory - 302A
+
+Indian Institute of Technology Kanpur
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > kkaustub publications]
+Kanpur - 208016, UP, India.
+
+Useful Links
+
+MSE IITK Home
+
+IITK Telephone Directory
+
+NPTEL Lecture
+
+more lectures...
+
+Collaborations
+
+University of California, Davis
+
+Indian space research organisation
+
+=== mk projects ===
+Source: https://www.iitk.ac.in/mse/mk/projects.php
+Dr.  Monica Katiyar
+Professor
+
+Profile
+
+Publications
+
+Teaching
+
+Mentoring
+
+Projects
+
+Activities
+
+Projects
+
+Projects
+Sponsored Projects Details
+
+Sponsored Projects as PI/Co-PI
+
+MHRD
+
+Investigation of Tungsten and Tungsten Silicide Thin Films
+
+(1999-2002, PI)
+
+DST
+
+Doping of GaN using Ion Implantation
+
+(2001-04, PI)
+
+MHRD
+
+Ohmic Contacts to GaN
+
+(2001-04, PI)
+
+MHRD
+
+Development of facility for materials and interfaces for GaN based high temperature-high power electronic Devices (MIS/MOS structures)
+
+(co-PI)
+
+MHRD
+
+Modernisation of Laboratory for Electronic and Magnetic Properties of Materials
+
+(co-PI)
+
+ARMREB
+
+Electrodeposition of Magnetic Multilayers with high Giant Magnetoresistance
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk projects]
+(co-PI)
+
+MHRD
+
+Development of Magnetic Nano-Structures using Electron Beam Evapouration for sensors
+
+(2004-07, PI)
+
+DST
+
+UV and Near-UV Light Emitting Diodes using Polysilanes
+
+(co-PI)
+
+MCIT
+
+Molecular Electronics: Fabrication of new photolithography-less vertical organic thin film transistors (OTFTs)
+
+(2004-07, PI)
+
+DST
+
+Field Effect Transistor Based on Epitaxial Multicomponent Oxide Heterostructures
+
+(2008-11, co-PI)
+
+CorusTech. BV, Netherlands
+
+To develop organic and/or polymer solar cells and light emitting diodes on Corus steel substrate
+
+(2009-11, PI)
+
+DST
+
+White organic light emitting diodes for lighting and displays
+
+(2010-13, PI)
+
+Indo-UK
+
+Advancing the efficiency and production potential of excitonic solar cells
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk projects]
+(2010-13, co-PI)
+
+Indo-UK
+
+Stability and performance of photovoltaics
+
+(2011-15, co-PI)
+
+CorusTech. BV, Netherlands
+
+To develop organic and/or polymer solar cells and light emitting diodes on Corus steel substrate
+
+(2011-12, PI)
+
+DST
+
+Lock-in-thermography for solar cell and module characterization
+
+(2012-14, co-PI)
+
+DeitY
+
+National Centre for Flexible Electronics
+
+(2014-19, co-PI)
+
+DST
+
+Large area optoelectronics for Australia and India from materials to advanced devices
+
+(2018-21)
+
+Samlo Industries Ltd.
+
+Materials Evaluation: Stamlo-FlexE, IITK
+
+(2019-21)
+
+Home  |   Webmail   |   Library IITK  |  Directories IITK  |  MSE  |  IIT Kanpur   |   Last Update on: 08 September, 2026
+
+=== mk publication ===
+Source: https://www.iitk.ac.in/mse/mk/publication.php
+Dr.  Monica Katiyar
+Professor
+
+Profile
+
+Publications
+
+Teaching
+
+Mentoring
+
+Projects
+
+Activities
+
+Publications
+
+Publications
+List of publications in International Journals
+
+Please check my profile ResearchGate for my latest publications.
+
+publications (91)
+
+Book Chapter (02) | Book (01) | Patents (11)
+
+Conference Presentation / Proceedings and Invited talks  (75)
+
+Journal publications  (91)
+
+Sadiq Mahmood, Nadim Ahmad, Chandra Kant, Amir Khan, Pu-Wei  Wu, Wen-bin Jian, Chih Wei Chu, Monica Katiyar and Hong-Cheu Lin, “Self-healing  and fully polymer-based  super-moisture-resistant gas barrier coating films with 2D polymers for  flexible electronic devices and packaging application”, J. Mater. Chem. C, 2023,11,  15907-15917. https://doi.org/10.1039/D3TC02538A
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sangha Mitra and Monica Katiyar,  Integration of a Flexible,  Stretchable, Environment-Benign, and Highly Conductive PVA/H3PO4 Hydrogel  as a Quasi Solid-State Electrolyte in Reduced Graphene Oxide Supercapacitors, ACS  Appl. Polym. Mater. 2023, 5, 12, 9825–9835, https://doi.org/10.1021/acsapm.3c01562
+
+Chandra Kant, Atul Shukla, Sarah K.M. McGregor,  Shih-Chen Lo, Ebinazar B Namdas, Monica Katiyar, Large area  inkjet-printed OLED fabrication with solution processed TADF ink,  Nature Communications, 2023, 14, Article No.7220
+
+Chandra Kant, M. Seetharaman, Sadiq Mahmood, Monica  Katiyar, Single-step Inkjet-Printed Dielectric  Template for Large Area Flexible Signage and Low Information Displays,  ACS Nano, 2023, 17(22), 22313-22325
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Chandra Kant, Sadiq Mahmood, Madhu Seetharaman, Monica Katiyar, "Large-area inkjet-printed flexible hybrid electrodes with photonic sintered silver grids/high conductive polymer", Small Methods, 2023, https://doi.org/10.1002/smtd.202300638.
+
+Amir Khan, Ravinder Reddy Kisannagar, Sadiq Mahmood, Wei-Tsung Chuang, Monica Katiyar, Dipti Gupta, Hong-Cheu Lin, "Intrinsically stretchable conductive self-healable organogel for strain, pressure, temperature and humidity sensing", ACS Applied Materials & Interfaces, 2023,15, 36, 42954-42964. https://doi.org/10.1021/acsami.3c08111.
+
+Sangha Mitra and Monica Katiyar, "A review on flash sintering of graphene oxide films: Mechanism and recent advances in the field", Chemistry - An Asian Journal, 2023,18, e202300369. https://doi.org/10.1002/asia.202300369.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sangha Mitra, Chaitanya Krishna Kamaja, Monica Katiyar, "High-quality, binder free, homogeneous robust and multilayer functional graphene oxide films on copper by electrophoresis", Graphene and 2D Materials, 2023. https://doi.org/10.1007/s41127-023-00061-7.
+
+Amir Khan, Chuan-Fu Wang, Ravinder Reddy  Kisannagar, Pham Quoc Nhien, Sadiq Mahmood, Monica Katiyar, Dipti Gupta,  Hong-Cheu Lin*, "Highly Stretchable and super tough healable polyurethane  elastomers with mechanoresponsive property for flexible capacitor application" J. Mater. Chem. A, 2023,11, 305-315. https://doi.org/10.1039/D2TA06541J.
+
+Sangha  Mitra, Chaitanya Krishna Kamaja, and Monica Katiyar, "Facile Formation of Porous, Multilayer Reduced Graphene Oxide Electrodes using  Electrophoretic Deposition and Flash Sintering", Carbon, 2022, 202(3),  pp. 186-195.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sadiq Mahmood, Amir Khan,  Chandra Kant, Chih Wei Chu, Monica Katiyar*, Hong-Cheu Lin*. "Transparent,  Stretchable, and Self-Healable Gas Barrier Films with 2-D Nanoplatelets for  Flexible Electronic Device Packaging Applications", Adv. Mater. Interfaces 2022, 2202093. https://doi.org/10.1002/admi.202202093.
+
+Chandra Kant, Sadiq Mahmood, Monica  Katiyar*, "Large-Area Inkjet-Printed OLEDs Patterns and Tiles Using Small  Molecule Phosphorescent Dopant", Adv. Mater.  Technol. 2022, 2201514. https://doi.org/10.1002/admt.202201514.
+
+Sadiq Mahmood, Chandra Kant, Aman Raja, Hong-Cheu Lin, Monica Katiyar, "Evaluation of encapsulation strategies for solution-processed flexible organic light-emitting diodes, Materials Chemistry and Physics, Volume 292, 126808 (2022). (DOI:10.1016/j.matchemphys.2022.126808)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Vijaykumar B.V.D., Nalluri S., Uppada M.K., Sen S., Ulla H., Krishnamanohara, Kamaja C.K., Balakrishnan M., Katiyar M., Oruganti S., "Ligand-Free Suzuki Coupling for the Practical Synthesis of 4-(Triphenylen-2-yl) dibenzothiophene for Solution-Processed OLEDs ChemistrySelect, Volume 7, (2022). (DOI:10.1002/slct.202104153)
+
+Sajeev, A.K., Agarwal, N.,Soman, A.,Gupta, S., Katiyar, M., Ajayaghosh, A., Narayanan Unni, K.N., "Enhanced light extraction from organic light emitting diodes using a flexible polymer-nanoparticle scattering layer", Organic Electronics, 100, pp 106386, (2022). (DOI:10.1016/j.orgel.2021.106386)
+
+Kamaja, C. K.; Mitra, S.; Gaganjot; Katiyar, M., "Effect of aqueous electrolytes on the performance of Ti3C2Tx(MXene)-δ-MnO2 asymmetric supercapacitor", Energy and Fuels, (2021).
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+(DOI:10.1021/acs.energyfuels.1c03884)
+
+Awasthi, I., Gaganjot, Katiyar, M., Verma, S., Environmentally benign, intrinsically coordinated lithium-based solid electrolyte with a modified purine as supporting ligand, (2020) Chemistry - a European Journal, doi.org/10.1002/chem.202002002.
+
+Jose, S.P., Kumar, P., Bapat, C.,  Gupta, A., Tripathi, J., Katiyar, M., Mohapatra, Y.N., Study on the conventional versus photonic (Ipl) sintering  of copper nanoparticle (cu nps) inks on different flexible substrates, (2019)  Springer Proceedings in Physics, 215, pp. 75-80.
+
+Jose, S.P., Krishnamanohara,  Seetharaman, M., Cherian, D., Bapat, C., Tripathi, S.J., Katiyar, M., Solvent mixture formulation for inkjet printable light  emitting polymer with pixdro lp50-ink formulation for inkjet printing of MEH:PPV, (2019)  Springer Proceedings in Physics, 215, pp. 149-154.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Seetharaman,  M., Awasthi, A., Meenakshinathan, J.S., Garg, G., Mohan, A., Manohara, K.,  Bindu, S., Balakrishnan, M., Katiyar, M., Towards high performance large area two color hybrid white  organic light emitting diodes for lighting applications,  (2019) Springer Proceedings in Physics,  215, pp. 123-131.
+
+Verma, S., Gaganjot, Tripathi, J.,  Katiyar, M., Verma, V., Biodegradable photolithography compatible substrate for  transparent transient electronics and flexible energy storage devices, (2018) Applied  Materials Today, 13, pp. 83-90.
+
+Sharma, R.K., Katiyar, M., Deepak, Improvement in light-extraction efficiency of light  emitting diode using microlenses fabricated by a novel and cost-effective method, (2018)  Bulletin of Materials Science, 41 (1), art. no. 5.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Purohit, G.,Deepak, Katiyar, M., Nanolithography  using thermal stresses,  (2018) RSC Advances, 8 (9), pp.  4928-4936.
+
+Muruganantham,  S., Nagarajan, N., Velmurugan, G., Prakash, A., Katiyar, M., Venuvanalingam,  P., Renganathan, R., Green light-emitting 2-(1H-indol-3-yl)acetonitrile-based  D-A fluorophores-a combined theoretical and experimental study,  (2017) Materials Chemistry Frontiers, 1  (7), pp. 1373-1383.
+
+Gunda, M.,  Kumar, P., Katiyar, M., Review  of Mechanical Characterization Techniques for Thin Films Used in Flexible  Electronics, (2017) Critical Reviews in Solid State and Materials Sciences, 42  (2), pp. 129-152.
+
+Prakash, A., Katiyar, M., Correlation between electroluminescence, charge transport  and photophysical properties of polymer blends,  (2017) Synthetic Metals, 223, pp. 184-191.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Seetharaman, M., Mohan, A.,  Awasthi, A., Bindu, S., Garg, G., Meenakshinathan, J., Manohara, K.,  Balakrishnan, M., Katiyar, M., High efficiency large area white organic light emitting  diodes using phosphorescent materials-degradation and stability improvement, (2017)  Proceedings of the International Display Workshops, 1, pp. 730-733.
+
+Sandeep Kumar, M. Katiyar, Thin film encapsulation at low temperature  using combination of inorganic dyad layers and spray coated organic layer, (2017)  Journal of Encapsulation and Adsorption  Sciences 07(04):140-148, DOI 10.4236/jeas.2017.74011
+
+Prakash, A.,  Katiyar, M., Effect  of guest concentration on carrier transportation in blends of conjugated  polymers, (2016) Organic Electronics, 39, pp. 50-58.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sharma, R.K., Deepak, Katiyar, M., Effect of various microlens parameters on enhancement of  light outcoupling efficiency of organic light emitting diode,  (2016) Organic Electronics, 38, pp.  121-129.
+
+Sharma, R.K., Katiyar, M., Rao,  I.V.K., Narayanan Unni, K.N., Deepak, Effect  of the electric field during annealing of organic light emitting diodes for  improving its on/off ratio, (2016) Physical Chemistry Chemical Physics, 18 (4), pp. 2747-2755.
+
+Singh, A., Katiyar, M., Garg, A., Understanding  the formation of PEDOT:PSS films by ink-jet printing for organic solar cell applications, (2015)  RSC Advances, 5 (96), pp. 78677-78685.
+
+Verma, V.,  Katiyar, M., Origin  of intrinsic ferromagnetism in undoped antiferromagnetic NiO thin films, (2015)  Journal of Physics D: Applied Physics, 48 (23), art. no. 235003, .
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Shakti, N., Prakash, A., Mandal,  T., Katiyar, M., Processing  temperature dependent morphological and optical properties of ZnO nanorods, (2014)  Materials Science in Semiconductor Processing, 20 (1), pp. 55-60.
+
+Nagarajan,  N., Prakash, A., Velmurugan, G., Shakti, N., Katiyar, M., Venuvanalingam, P.,  Renganathan, R., Synthesis, characterisation and electroluminescence  behaviour of conjugated imidazole-isoquinoline derivatives,  (2014) Dyes and Pigments, 102, pp.  180-188.
+
+Nagarajan,  N., Velmurugan, G., Prakash, A., Shakti, N., Katiyar, M., Venuvanalingam, P.,  Renganathan, R., Highly emissive luminogens based on imidazo[1,2-a]pyridine  for electroluminescent applications,  (2014) Chemistry - An Asian Journal, 9  (1), pp. 294-304.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Mandal, S., Katiyar, M., Processing and performance of organic insulators as a gate  layer in organic thin film transistors fabricated on polyethylene terephthalate substrate, (2013)  Bulletin of Materials Science, 36 (4), pp. 653-660.
+
+Verma, V., Katiyar, M., Effect  of the deposition parameters on the structural and magnetic properties of  pulsed laser ablated NiO  thin films, (2013) Thin Solid Films, 527, pp. 369-376.
+
+Mandal, S., Purohit, G., Katiyar,  M., Inkjet  printed organic thin film transistors: Achievements and challenges, (2013)  Materials Science Forum, 736, pp. 250-274.
+
+Gupta, A., Mandal, S., Katiyar,  M., Mohapatra, Y.N., Film processing  characteristics of nano gold suitable for conductive application on flexible  substrates, (2012) Thin Solid Films, 520 (17), pp. 5664-5670.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Prakash, A., Katiyar, M., White  polymer light emitting diode using blend of fluorescent polymers (2012)  Proceedings of SPIE - The International Society for Optical Engineering, 8549,  art. no. 854938.
+
+Rastogi, S., Dharmalingam, K.,  Katiyar, M., Garg, A., Understanding  degradation mechanism of bulk heterojunction organic photovoltaic devices, (2012)  Proceedings of SPIE - The International Society for Optical Engineering, 8549,  art. no. 85493F.
+
+Purohit, G., Shankar, M., Deepak,  Damodaran, S., Katiyar, M., Fabrication of nano-gap electrodes using a focused ion beam  for measuring electrical properties of molecular scale transistors, (2012)  Proceedings of SPIE - The International Society for Optical Engineering, 8549, pp  85492J-1-5
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Singh, A., Mandal, S., Singh, V.,  Garg, A., Katiyar, M, Inkjet printed PEDOT:PSS for organic devices, (2012)  Proceedings of SPIE - The International Society for Optical Engineering, 8549,  art. no. 854936 .
+
+Omar, S., Mandal, S., Ashok, A.,  Harish, A.R., Katiyar, M., Organic  inverter: Theoretical analysis using load matching technique, (2011)  Microelectronics Reliability, 51 (12), pp. 2173-2178.
+
+Gupta, A., Mandal, S., Katiyar,  M., Mohapatra, Y.N., Low temperature solution process for fabrication of  electrodes on flexible substrate using gold nanoparticles,  (2011) International Journal of  Nanoscience, 10 (4-5), pp. 659-663.
+
+Saikia, G., Singh, R., Sarmah,  P.J., Akhtar, M.W., Sinha, J., Katiyar, M., Iyer, P.K., Synthesis  and characterization of soluble poly(p-phenylene) derivatives for PLED  applications, (2010) Macromolecular Chemistry and Physics, 210 (24), pp.  2153-2159.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Singh, R.,  Katiyar, M., Polysilane based ultraviolet light-emitting diodes with  improved turn-on voltage, stability and color purity,  (2010) Synthetic Metals, 160 (17-18),  pp. 1892-1895.
+
+Gupta, D.,  Katiyar, M., Gupta, D., An analysis of the difference in behavior of top and  bottom contact organic thin film transistors using device simulation,  (2009) Organic Electronics, 10 (5), pp.  775-784.
+
+Pradhan, D., Sripadmini, T.,  Pradhan, P., Katiyar, M., Shekhar, R., Effect  of electrode configuration and mode of deposition on magnetoresistance in  electrodeposited Co/Cu  multilayers on n-Si by a fully electrochemical method, (2008)  Electrochimica Acta, 54 (2), pp. 430-433.
+
+Singh, R., Katiyar, M., Effect  of thermal annealing on the performance of polysilane based organic light  emitting diode, (2008) Materials Research Society Symposium Proceedings, 1091, pp.  188-193.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Vikram, V.,  Rahman, M.R., Katiyar, M., Giant  magnetoresistance in Ni/Cu multilayers fabricated by electron-beam evaporation, (2008)  AIP Conference Proceedings, 1003, pp. 37-39.
+
+Pattnaik, S., Garg, A., Katiyar,  M., Organic field effect transistor using BaTiO3-Mn doped and  P(VDF-TrFE) for non volatile memory application,  (2008) Materials Research Society  Symposium Proceedings, 1071, pp. 161-165.
+
+Sharma, A., Katiyar, M., Deepak,  Shukla, S.K., Seki, S., Effect of ambient, excitation intensity and wavelength,  and chemical structure on photodegradation in polysilanes,  (2007) Journal of Applied Physics, 102  (10), art. no. 104902.
+
+Gupta, D., Katiyar, M., Deepak, Effect  of pentacene thickness on organic thin film transistors: Role of  pentacene/insulator interface,  (2007) Proceedings of the 14th  International Workshop on the Physics of Semiconductor Devices, IWPSD, art. no. 4472587, pp. 594-597.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Rao, I.V.K.,  Mandai, S., Katiyar, M., Effect of pentacene deposition rate on device  characteristics of top contact organic thin film transistors,  (2007) Proceedings of the 14th  International Workshop on the Physics of Semiconductor Devices, IWPSD, art. no. 4472597, pp. 624-627.
+
+Singh, R., Sharma, A., Deepak, Katiyar,  M., Effect of the bilayer cathode on white and ultraviolet  emission in polysilane based light emitting diodes,  (2007) Proceedings of the 14th  International Workshop on the Physics of Semiconductor Devices, IWPSD, art. no. 4472586, pp. 590-593.
+
+Sharma, A.,Katiyar, M., Deepak,  Seki, S., Polysilane  based organic light emitting diodes: Simultaneous ultraviolet and visible  emission, (2007) Journal of Applied Physics, 102 (8), art. no. 084506.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sharma, A., Katiyar, M., Deepak, Seki,  S., Tagawa, S., Room  temperature ultraviolet emission at 357 nm from polysilane based organic light  emitting diode, (2006) Applied Physics Letters, 88 (14), art. no. 143511, .
+
+Gupta, D., Singh, S., Katiyar, M.,  Deepak, Hazra, T., Verma, A., Manoharan, S.S., Polymer  light-emitting diode using a new electrophosphorescent cyclometalated iridium  complex, (2006) Materials and Manufacturing Processes, 21 (3), pp. 285-289.
+
+Gupta, D., Katiyar, M., Deepak, Various  approaches to white organic light emitting diodes and their recent advancements, (2006)  Optical Materials, 28 (4), pp. 295-301.
+
+Gupta, D., Katiyar, M., Deepak,  Hazra, T., Verma, A., Manoharan, S.S., Biswas, A., Energy transfer and morphology study of a new iridium  based cyclometalated phosphorescent complex,  (2006) Optical Materials, 28 (12), pp.  1355-1361.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Gupta, D., Katiyar, M., Deepak, Effect  of pentacene thickness on bottom and top contact organic thin film transistor, (2005)  IDW/AD'05 - Proceedings of the 12th International Display Workshops.
+
+Sharma, A.,  Lourderaj, U., Deepak, Sathyamurthy, N., Katiyar, M., Stability  in polysilanes for light emitting diodes,  (2005) Computational Materials Science,  33 (1-3), pp. 206-211.
+
+Sharma, A., Katiyar, M., Deepak, Optical constants and degradation studies of diphenyl and  methylphenyl polysilane copolymer using ellipsometry,  (2004) Synthetic Metals, 147 (1-3), pp.  139-142.
+
+Bharat, S., Sahoo, P.K., Katiyar,  M., Effect  of substrate on phase transformation kinetics of WSix films, (2004)  Thin Solid Films, 462-463 (SPEC. ISS.), pp. 127-131.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Sharma, A.,  Deepak, Katiyar, M., Kumar, S., Chandrasekhar, V., Saxena, A.K., Ranjan, A.,  Tiwari, R.K., Degradation in a Methyl-phenyl Co-Polymeric Polysilane for  LED Applications, (2003) Materials Research Society Symposium - Proceedings, 769, pp.  125-130.
+
+Sharma, A.,  Deepak, Kumar, S., Katiyar, M., Saxena, A.K., Ranjan, A., Tiwari, R.K., Optical  characterization of polysilane thin films, (2003)  Synthetic Metals, 139 (3), pp. 835-837.
+
+Deepak, Gaur, A., Katiyar, M., Blanket  tungsten: A non-isothermal approach,  (2002) Materials and Manufacturing  Processes, 17 (4), pp. 483-492.
+
+Gupta, R.K., Shridhar, N.,  Katiyar, M., Structure  of ZnO films prepared by oxidation of metallic zinc, (2002)  Materials Science in Semiconductor Processing, 5 (1), pp. 11-15.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Gupta, R.K., Katiyar, M., Ojha,  P.K., Rai, K.N., Narain, J., Characterization  and reliability study of Al2O3 as an alternative gate  dielectric for ULSI technology,  (2002) Proceedings of SPIE - The  International Society for Optical Engineering, 4746 I, pp. 659-663.
+
+Katiyar, M., Abelson, J.R., Investigation of hydrogen induced phase transition from  a-Si:H to μc-Si:H using real time infrared spectroscopy,  (2001) Materials Science and Engineering  A, 304-306 (1-2), pp. 349-352.
+
+Katiyar, M., Samal, G.S., Gupta,  R.K., Deepak, Sahoo, P.K., Kulkarni, V.N., Adetutu, O., Annealing  behaviour of WSix films prepared by CVD,  (2001) Materials Research Society  Symposium - Proceedings, 670, pp. K571-K575.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Katiyar, M., Yang, Y.H., Abelson,  J.R., Si-C-H bonding in amorphous Si1-xCx:H film/substrate  interfaces determined by real time infrared absorption during reactive magnetron sputter deposition, (1995)  Journal of Applied Physics, 78 (3), pp. 1659-1663.
+
+Katiyar, M., Yang, Y.H., Abelson,  J.R., Hydrogen-surface reactions during the growth of hydrogenated  amorphous silicon by reactive magnetron sputtering: A real time kinetic study by in  situ infrared absorption,  (1995) Journal of Applied Physics, 77 (12),  pp. 6247-6256.
+
+Yang, Y.H.,  Feng, G.F., Katiyar, M., Abelson, J.R., In-situ ellipsometry study of ion bombardment effects on  low temperature Si epitaxy by dc magnetron sputtering,  (1995) Materials Research Society  Symposium - Proceedings, 354, pp. 75-80.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Cahill, D.G., Katiyar, M.,  Abelson, J.R., Heat  transport in micron thick a-Si: H films,  (1995) Philosophical Magazine B: Physics  of Condensed Matter; Statistical Mechanics, Electronic, Optical and Magnetic Properties, 71 (4), pp.  677-682.
+
+Yang, Y.H., Katiyar, M., Feng,  G.F., Maley, N., Abelson, J.R., Subsurface hydrogenated amorphous silicon to μc-hydrogenated  silicon transformation during magnetron sputter deposition determined by spectroscopic  ellipsometry, (1994) Applied Physics Letters, 65 (14), pp. 1769-1771.
+
+Cahill, D.G., Katiyar, M.,  Abelson, J.R., Thermal  conductivity of a-Si:H thin films,  (1994) Physical Review B, 50 (9), pp.  6077-6081.
+
+Katiyar, M.,  Feng, G.F., Yang, Y.H., Maley, N., Abelson, J.R., Real time infrared reflectance spectroscopy: A study of  hydrogen incorporation and release during a-Si:H growth by reactive magnetron sputtering, (1993)  Journal of Non-Crystalline Solids, 164-166 (PART 1), pp. 111-114..
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Yang, Y.H., Katiyar, M., Abelson,  J.R., Maley, N., Ellipsometry  studies of (μc-Si:H/ZnO) and (μc-Si:H/a-Si:H) interfaces in magnetron  sputtering system, (1993) Materials Research Society Symposium Proceedings, 297, pp.  25-30.
+
+Katiyar, M., Feng, G.F., Yang,  Y.H., Abelson, J.R., Maley, N., Hydrogen incorporation in the early stages of hydrogenated  amorphous silicon deposition evaluated by real time infrared reflectance spectroscopy, (1993)  Applied Physics Letters, 63 (4), pp. 461-463.
+
+Feng, G.F., Katiyar, M., Yang,  Y.H., Abelson, J.R., Maley, N.,Microcrystalline  silicon by DC magnetron sputtering: Growth mechanisms, (1993)  Materials Research Society Symposium Proceedings, 283, pp. 501-506.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Yang, Y.H., Feng, G.F., Katiyar,  M., Malev, N., Abelson, J.R., Ellipsometry  and X-Ray Photoeiectron Spectroscopy Study of SnO2 Reduction at the Interface With Sputtered  A-Si:H, (1993) Journal of Vacuum Science and Technology A: Vacuum, Surfaces  and Films, 11 (4), pp. 1414-1417.
+
+Feng, G.F.,  Katiyar, M., Abelson, J.R., Maley, N., Dielectric  functions and electronic band states of a-Si and a-Si:H, (1992)  Physical Review B, 45 (16), pp. 9103-9107.
+
+Katiyar, M., Kitai, Effect  of organized doping on concentration quenching in ZnS:Mn, (1992)  Journal of Luminescence, 52 (5-6), pp. 309-312.
+
+Feng, G.F., Katiyar, M., Maley,  N., Abelson, J.R., Silicon  epitaxy at 230 °C by reactive dc magnetron sputtering and its in situ  ellipsometry monitoring,  (1991) Applied Physics Letters, 59 (3),  pp. 330-332.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Feng, G.F., Katiyar, M., Abelson,  J.R., Maley, N., Hydrogenation  induced changes in band states in a-Si:H,  (1991) Journal of Non-Crystalline  Solids, 137-138 (PART 1), pp. 331-334.
+
+Katiyar, M.,  Kitai, A.H., Luminescence  concentration quenching due to energy migration in ZnS:Mn with fixed trap  density, (1990) Journal of Luminescence, 46 (4), pp. 227-234.
+
+Bhise, M.D., Katiyar, M., Kitai,  A.H., Effect  of Mn concentration on the cathodo- and photoluminescence of ZnS:Mn, (1990)  Journal of Applied Physics, 67 (3), pp. 1492-1496.
+
+Maley, N., Szafranek, I.,  Mandrell, L., Katiyar, M., Abelson, J.R., Thornton, J.A., Infrared  relfectance spectroscopy of very thin films of a-SiH, (1989)  Journal of Non-Crystalline Solids, 114 (PART 1), pp. 163-165.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Book Chapter (02)
+
+Deepak, Vikram Verma, Monica Katiyar, Fabrication of Microelectronic Devices in "Micromanufacturing Processes", CRC press (Taylor and Francis), 2012.
+
+M. Katiyar, Hydrogenated amorphous silicon thin films for photovoltaic technology: optical probes of growth kinetics, in Research Reports of the Link Energy Fellows, vol.8, University of Rochester Press, pp. 79-95 (1993).
+
+Book (01)
+
+Proceedings of 16th International workshop on physics of semiconductors and devices, edited by Y.N. Mohapatra, B. Mazhari, and M.Katiyar, Proceedings of SPIE 0277-786-786X, V 8549, SPIE, 2012
+
+E-teaching resources
+
+NPTEL courses: Half of the "Optoelectronics Materials and Devices" course on NPTEL (with Prof. Deepak Gupta)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Patents (11)
+
+Sangha  Mitra and Monica Katiyar, “A Process for  Fabrication of a Reduced Graphene Oxide Electrode”, Indian Patent, Application  No: 202211049951, (2022).
+
+Muralidharan Balakrishnan  and Monica Katiyar, “Transparent Organic Light Emitting Diode, Patent No 503268, Date of Grant 25/01/2024.
+
+Chandra Kant,  Monica Katiyar, “An Ink-based Fabrication of Organic Light-emitting Diode  Tiles” IPR application No. 202211057902
+
+An organic light emitting diode based cluster display, Indian provisional patent application 202014004431, date of filing 31 Jan 2020
+
+Inventors: Monica Katiyar, Madhu Seetharaman,  Krishnamanohara, Muralidharan Balakrishnan (IIT Kanpur), Devanshu Makani (NetcoreTech. Pvt. Ltd.)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+A hybrid large area display device, Indian Patent Filed, Application No.201911018821A, publication date 24.05.2019
+
+Inventors: Biswanath Panda, Muralidharan Balakrishnan, Monica Katiyar, Baquer Mazhari
+
+A process for thermal stress induced nanometer scale separation between electrodes and their use, Indian Patent Filed, Application No. 194/DEL/2015, 22.01.2015
+
+Inventors: Gangadhar Purohit (student), Deepak, Monica Katiyar
+
+Organic Thin Film Transistors and Methods for Their Manufacturing and Use, I
+
+- Indian patent, Application Number 1032/DEL/2013 dated 6 th April, 2013.
+
+- U.S. Patent No. 9,680,097, Issued June 13, 2017
+
+Inventors: Saumen Mandal(student) and Monica Katiyar
+
+A hybrid ink consisting of inorganic nanoparticles dispersed organic material and a method for preparing the same, Indian patent, Application Number 1161/DEL/2012 dated 16 th April, 2012. (http://www.iitk.ac.in/siic/patentfiled.html)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Inventors: Saumen Mandal(student), Rahul Sharma(student) and Monica Katiyar
+
+Plasmon assisted enhancement of organic optoelectronic devices, U.S. Patent No. 6,999,222, Issued February 14, 2006, US Case No. 2003-545-1
+
+Inventors: Monica Katiyar (IIT Kanpur), Guillermo C. Bazan, Dr. Jacek Ostrowski, and Dr. Alexander Mikhailovsky (University of California Santa Barbara)
+
+An improved organic light emitting diode for tuning the white emission and a process for fabrication thereof, Indian Patent filed, Application No. 1532/DEL/2005
+
+Inventors: Asha Sharma (student), Monica Katiyar, Deepak Gupta (IIT Kanpur), Shu Seki (Osaka University)
+
+Organic thin film transistors with vertical source and drain separation, Indian Patent filed, Application No. 1775/DEL/2004 (Granted 26.8.2016)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Inventors: Dipti Gupta (student), Monica Katiyar, S.K. Iyer, Deepak Gupta (IIT Kanpur)
+
+Conference Presentation / Proceedings and Invited talks (75)
+
+Sangha  Mitra,Chaitanya Krishna Kamaja, and Monica  Katiyar,  "Synthesis of Graphene and Investigation of Film Formation Techniques", IW2DM,  IISER Trivandrum, 22-23 July 2019. (Poster  Presentation)
+
+Sangha  Mitra, Chaitanya Krishna Kamaja, and Monica Katiyar,  "A Qualitative Study of Layered Graphene Oxide Films Formed using  Electrophoretic Deposition", Third Indian Materials Conclave (IndMac) and 32nd  Annual General Meeting of MRSI, IIT Madras, 20-23 December 2021. (Oral  Presentation)
+
+Sangha  Mitra and Monica Katiyar, "Facile Fabrication of  Binder-free Multilayer Reduced Graphene Oxide Film on Copper using  Electrophoretic Deposition and Flash Sintering", Graphene Week 2022, Munich  Germany, 5-9 September 2022. (Poster Presentation)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Monica Katiyar, Organic  Light Emitting Diodes: Lighting an Display Applications, Women in  Sciences and Engineering, Organized by INAE Kanpur Chapter and IIT Kanpur,  19-20 Oct 2019 Kanpur (Invited talk)
+
+Monica Katiyar, Engineering  and Technology Canvas: Materials Science & Engineering, UIET Kanpur  University, 8th March 2019, Kanpur (Invited talk)
+
+Chandra Kant, Mukul Janbandhu, Yashwant  Singh and Monica Katiyar, ZnO nano-particle based  ink as electron injection layer for organic light emitting diodes, 60th  Electronic Materials Conference, University of California-EMC 2018, 27-28 June  2018, Santa Barbara
+
+Dharita Chandravanshi, Gaganjot, Chinmay  Bapat, Juliane Tripathi and Monica Katiyar, Fabrication  and characterization of printable zinc/silver oxide primary battery using  polymer gel electrolyte membrane, 60th Electronic Materials  Conference, University of California-EMC 2018, 27-28 June 2018, Santa Barbara
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Gaganjot, Sangha Mitra, Vipin Karade and  Monica Katiyar, Effect of film forming technique on  the performance of poly acrylic acid based electrolyte in all solid-state Zn/Ag2O  printed flexible battery, 60th Electronic Materials  Conference, University of California-EMC 2018, 27-28 June 2018, Santa Barbara
+
+Monica Katiyar, Yashwant Singh, Chandra  Kant, K. Krishnaiah Setti and Mukul Janbandhu, ZnO  nanoparticle and grapheme based inks for polymer light emitting diodes,  MRS Spring Meeting 2018, 2-6 April 2018, Phoenix, Arizona (Invited talk)
+
+Madhu  Seetharaman, Asha  Awasthi, Jaya  Sandhya Meenakshinathan, Gaurav Garg, Akanksha Mohan, Krishna Manohara,  Surya Bindu, Monica  Katiyar,  Towards  High Performance Large Area Two Color Hybrid White Organic Light Emitting Diodes  for Lighting Applications, XIX International  Workshop on The Physics of Semiconductor Devices (IWPSD 2017), New Delhi,  December 2017
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Deepak,  Gangadhar Purohit, Monica Katiyar, Novel methods to fabricate electrodes with nano-scale separation for  nanoelectronics,  Conference: Internal Conference on Thin Films, CSIR- National Physical Laboratory,  New Delhi, India, Nov. 2017
+
+Gangadhar  Purohit, Monica Katiyar, Deepak, Fabrication of Nanotransistors, 3rd ISSE National Conference, Semi-Conductor  Laboratory, ISRO, Mohali, 12-13 Oct 2017
+
+Rahul K. Sharma, Ranbir Singh, Deepak, Monica Katiyar, Improvement in micro-lens  array and its fabrication for light out-coupling  from OLED displays and lighting sources, presented in International  Symposium on Functional Materials (ISFM), Okinawa Institute of Science and  Technology (OIST), Okinawa, Japan,  25 January 2016- 29 January 2016
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Gangadhar Purohit, Monica Katiyar, Deepak, Nanometer scale separation  of electrodes using micro-indentor, IUMRS-ICYRAM 2016, IISc Bangalore,  11-15 Dec 2016
+
+Gangadhar Purohit, Kallol Mondal Monica  Katiyar, Deepak, Scanning probe lithography of gold  films using AFM, NMD-ATM 2016, IIT Kanpur, 11-14 Nov 2016
+
+Rahul K. Sharma, Deepak, Monica Katiyar, Improvement of Rectification Ratio of Organic Light Emitting Diodes by Electrical Biasing During Annealing,  ICMAT, Singapore, 28 June 2015- 03 July 2015
+
+Asit Prakash and Monica Katiyar, Study of charge carrier mobility and electroluminescence  performance in polymer blend based white light emitting diodes, MRS  Spring Meeting, 2015 San Francisco
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Rahul K. Sharma, Deepak, Monica Katiyar, Light Extraction from Organic Light Emitting Diodes – A Review,  International Conference on Energy Efficient LED Lighting and Solar PVS, IIT Kanpur,  Kanpur, 26- 29 March 2014
+
+Asit Prakash and Monica Katiyar, Enhancement of current efficiency of white polymer light  emitting diode by blending of electron transport material, DAE-BRNS  conference on Organic Devices: The Future Ahead (ODeFA-2014), 3-6 March 2014,  BARC, Mumbai
+
+Asit Prakash and Monica Katiyar, White polymer light emitting diode for lighting – an  overview, Int. conference on energy efficient LED lighting & solar  photovoltaic systems, 27-29 March, 2014, IIT Kanpur
+
+Rahul K.  Sharma,   Deepak,  Monica  Katiyar,   Ashutosh   Sharma,  A  novel   method  for  fabrication of micro-lens  array for light out-coupling  from OLED displays and lighting  sources,  EMRS Spring Meeting, Strausbourg, France, 27 May 2013- 31 May  2013
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Rahul K. Sharma, Ranbir Singh, Deepak, Monica Katiyar, Improvement in micro-lens array and its fabrication for light out-coupling from OLED displays and lighting sources, EMRS Spring Meeting, Strausbourg, France, 27 May 2013- 31 May 2013
+
+Monica Katiyar, Materials  engineering in daily life: Case for organic electronics, 7th National  Frontiers of Engineering Symposium organized by INAE, 12  - 14 October 2012, Guwahati (Invited  talk)
+
+Monica  Katiyar, Inkjet printed organic thin film transistors:  Achievements and Challenges, International conference on advanced  materials processing- challenges and opportunities (AMPCO2012), 2-3 November  2012, Roorkee (Invited talk)
+
+Asit Prakash  and Monica Katiyar, Study of white polymer light  emitting diode with different thicknesses of emissive layer, E-MRS  meeting, 2012, Strasbourg, France
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Saumen Mandal  and Monica Katiyar, Effect of solvent  and substrate on microstructure development of drop casted and spin coated 6,  13-bis (Triisopropyl-silylethynyl) pentacene, 5th International  Symposium on Flexible Organic Electronics (ISFOE12), July 2-5, 2012,  Thessaloniki, Greece
+
+Saumen Mandal  and Monica Katiyar, A hybrid dielectric  ink consisting of TiO2 nanoparticle dispersed polyvinyl alcohol  (PVA), 5th International Symposium on Flexible Organic  Electronics (ISFOE12), July 2-5, 2012, Thessaloniki, Greece
+
+Purohit, G.,  Shankar, M., Deepak, Damodaran, S., Katiyar, M., Fabrication of nano-gap electrodes using a focused ion  beam for measuring electrical properties of molecular scale transistors, (2012) Proceedings of SPIE - The International  Society for Optical Engineering, 8549, pp 85492J-1-5
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Arjun Singh, Saumen Mandal, Vandana Singh, Ashish Garg and Monica  Katiyar, Ink jet printed PEDOT: PSS for organic  devices, XVIth International workshop on the physics of Semiconductor  Devices (IWPSD -2011), 19-22 Dec, 2011, IIT Kanpur, India
+
+Asit Prakash and Monica Katiyar, White polymer light emitting diode by blending of  fluorescent polymers, International workshop on the physics of  semiconductor devices (IWPSD), 19-22 Dec 2011, IIT Kanpur,  India
+
+Vikram Verma, Monica Katiyar, Effect of Different Substrates on the Giant Magnetoresistance  of Co/Cu multilayer system,  International Conference on Magnetic  Materials, 2010 Kolkata
+
+Asit Prakash, Gunin Saikia, Parameswar K. Iyer, Monica Katiyar, Effect of chain length on colour purity and efficiency of  blue polymer light emitting diodes, International  workshop on the physics of semiconductor devices (IWPSD), 15-19 Dec 2009, Jamia  Millia Islamia, Delhi
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Vikram Verma, Monica Katiyar, Study of GMR in Ni/Cu multilayers system and NiO  fabricated by Electron-beam evaporation unit, Materials Research Society Spring Meeting 2008, San Francisco  USA
+
+Vikram Verma, Md. Rizwanur, Monica Katiyar, Study of Giant Magnetoresistance in  Ni/Cu Multilayers fabricated by Electron beam Evaporation, International Conference on Magnetic  Materials 2007 Kolkata
+
+M. Katiyar, Organic Electronics:  Ultraviolet light emitting diodes and thin film transistors, 19th  Dec 2007, Materials Division, BARC (Invited  talk)
+
+Dipti Gupta, M. Katiyar, Deepak, Effect of pentacene thickness on OTFT: Role of  pentacene/insulator interface, 14th  International workshop on physics of semiconductor devices (IWPSD’07), December  2007, Mumbai
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+I. V. K. Rao, Saumen Mandal, Monica Katiyar, Effect of pentacene deposition rate on device  characteristics of top contact organic thin film transistors, 14th International workshop on  physics of semiconductor devices (IWPSD’07), December 16-20, 2007, IIT Mumbai,  India; IEEE Explore Digital Library, ISBN: 978-1-4244-1728-5, (2007) 625-627.
+
+Ranbir Singh, Abhishek Sharma, Deepak,  Monica Katiyar, Effect of bilayer cathode on white  and ultraviolet emission in polysilane bases light emitting diodes, 14th  International workshop on physics of semiconductor devices (IWPSD’07), December  2007, Mumbai
+
+Deepak, Asha Sharma, Monica Katiyar, On Suitability of Polysilanes for Ultra –violet electronics, International Conference on Advanced  Materials (lCAM), Bangalore, 8-13 October 2007
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Monica Katiyar, Asha Sharma, Deepak,  “Organic ultraviolet light emitting diodes”, Asian Symp. on Information  Display, 8-12 October, 2006, New Delhi (Invited talk)
+
+Dipti Gupta, M. Katiyar, Deepak, Effect  of pentacene thickness on bottom and top contact organic thin film transistor,  Asian Symp. on Information Display,  8-12 October, 2006, New Delhi
+
+Asha Sharma, Monica  Katiyar, and Deepak, Photodegradation  in polysilanes, Asian  Symp. on Information Display, 8-12 October, 2006, New Delhi
+
+Waseem Akhtar, Ranbir Singh, Asha  Sharma, Monica Katiyar, Shu Seki, Photoluminescence quantum efficiency of ultraviolet  emitting polymeric semiconductors, Asian Symp. on Information Display, 8-12 October, 2006, New Delhi
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+B.V. Mahesh, Ranbir Singh, Abhishek  Sharma, Waseem Akhtar, Monica Katiyar, Flexible Organic Light Emitting Diodes, Asian Symp. on Information Display, 8-12  October, 2006, New Delhi
+
+Abhishek Raj, Ashutosh Bindal, Ranbir  Singh, Abhishek Sharma, Waseem Akhtar, Monica Katiyar, Device Degradation Studies of MEHPPV based polymer light  emitting Diodes, Asian  Symp. on Information Display, 8-12 October, 2006, New Delhi
+
+Monica Katiyar; Deepak; Dipti Gupta, Organic thin  film transistor fabrication with vertical source and drain separation,  EMRS 2006  spring meeting, 29 May- 2 June,  Nice, France
+
+Asha Sharma, Monica  Katiyar, Deepak, and Shu Seki, Polysilane based  polymer light emitting diodes” Thin Film Materials for Large Area Electronics,  EMRS 2006 spring meeting, 29  May- 2 June, Nice, France
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Dipti Gupta, M.Katiyar, Deepak,  Effect of pentacene  thickness on bottom and top contact organic thin film transistor, 12th International Display  Workshop (IDW/AD’05), December 2005, Takamatsu, Japan
+
+Dipti Gupta, M.Katiyar, Deepak,  Effect of semiconductor thickness on the device  characteristics of organic thin film transistors made of pentacene, 13th International workshop on physics of semiconductor  devices (IWPSD’05), December 2005, National Physical Laboratory, New Delhi  ( Best Poster Paper Award in IWPSD’05)
+
+Asha  Sharma, Monica Katiyar and Deepak, Degradation  studies in polysilane copolymer by spectroscopic ellipsometry, 6th  Int. Topical Conf. on Optical Probes of Conjugated Polymers & Biosystems  (OP 2005), 4-8 January 2005, Bangalore
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Asha  Sharma, U. Lourderaj,  Deepak, N.  Sathyamurthy and Monica Katiyar, Assessment of stability in polysilanes, MRS Spring  Meeting (Molecular electronics), San  Francisco (USA), April, 12-16, 2004
+
+S.K.  Srivastava, S. Kumar, Deepak, M. Katiyar, S. Tripathy, S.J. Chua, Thermal oxidation of GaN: Determination of the optical  constants of the oxide and their correlation with the quality of the oxide,  ICMAT2003, 7-12 December 2003, Singapore.
+
+S.  Bharat, P.K. Sahoo, M. Katiyar, Effect of Substrate  on Phase Transformation Kinetics of WSix films, ICMAT2003,  7-12 December 2003, Singapore
+
+A.  Mikhailovsky, J. Ostrowski, M. Katiyar, G. Bazan, Control  of radiative processes using surface plasmon resonances in metal nanostructures,  Excited State Processes in Electronic and Bio nanomaterials 2003, Aug 11-16,  Los Alamos National Laboratory, USA
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Asha  Sharma, U.Lourderaj, Deepak, N.Sathyamurthy and Monica Katiyar, Polysilanes for Light Emitting Diodes,  INDO-ITALIAN WORKSHOP ON ORGANIC SEMICONDUCTORS, 14th to 17th  October 2003 , Samtel Centre for Display Technologies, Indian Institute of  Technology Kanpur, India
+
+Asha  Sharma, Deepak, M. Katiyar, S. Kumar, V. Chandrasekhar, A. K. Saxena, A.  Ranjan and R. K. Tiwari, Degradation in a  methyl-phenyl co-polymeric polysilane for LED applications, MRS Spring  Meeting (Flexible Electronics Materials and Device Technology), San  Francisco (USA), April, 22-25, 2003
+
+P.K.  Ojha, Rohit Kumar Gupta, M. Katiyar, and K.N. Rai, Preparation  and characterization of Al2O3 by anodization of Al thin  films, International Conference on Advances in Materials and Materials  Processing, Kharagpur, 1-3 Feb 2002
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Deepak,  A. Gaur and M. Katiyar, Process modeling to  investigate feasibility of non-isothermal processing in blanket tungsten,  Int. Conf. on Advances in Materials and Materials Processing, IIT Kharagpur,  Ed. N. Chakraborti and U. K. Chatterjee, Tata McGraw-Hill Ltd., New Delhi, February 1-3, pp. 619-623, 2002
+
+Rohit  Kumar Gupta, Monica Katiyar, P.K. Ojha, K.N. Rai, and J. Narain, Characterization and reliability study of Al2O3  as an alternative gate dielectric for ULSI technology, Proceedings of  the Eleventh International Workshop on the Physics of Semiconductor Devices,  Delhi, 11-15 December 2001.
+
+Rohit  Kumar Gupta, J. Narain, Monica Katiyar, Characterization  of defect states in Al2O3 using C-V measurements, International  conference on Materials for Advanced Technologies (ICMAT), Singapore, 1-6 July  2001
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Rohit  Kumar Gupta, N. Shridhar, Monica Katiyar, Structure  of ZnO films prepared by oxidation of metallic Zinc, International  conference on Materials for Advanced Technologies (ICMAT), Singapore, 1-6 July  2001
+
+M.  Katiyar, G.S. Samal, R.K. Gupta, Deepak, P.K. Sahoo, V. N. Kulkarni, O. Adetutu,  Annealing Behavior of WSix Films Prepared by CVD,  MRS Spring Meeting (Gate Stack and Silicide Processing), San  Francisco (USA), April, 17-19, 2001
+
+M.  Katiyar. Saumya Mukherjee, S. Rajesh, E. Subramanyam, Optimization  of oxy-acetylene Flame Spraying Process for 20 B Material, AEROMAT-2001,  AeSI, Kanpur, 23-24 February, 2001.
+
+M.  Katiyar, Annealing behaviour of WSix  prepared by CVD, Indo-Israel Workshop on Advanced Materials, February  11-13, 2001, Hyderabad
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Rohit  Kumar Gupta, N. Sridhar, M. Katiyar, Structure and  properties of ZnO Thin Films prepared by oxidation of metallic zinc,  12th Annual General Meeting of Materials Research Society of India, Calcutta,  Jan 31-Feb 2, 2001
+
+Coatings: From Electronic Devices to Aeroengines,  Monica Katiyar, 5 June 2000, Kanpur IIM Kanpur Chapter (Invited talk)
+
+Monica  Katiyar and John R. Abelson, Investigation of  hydrogen plasma induced phase transition from a-Si:H to mc-Si:H using real time infrared spectroscopy, Tenth International Conference on Rapidly  Quenched and Metastable Materials, 23-27 August,  1999, Bangalore, India
+
+M. Krishnan, Deepak and M. Katiyar, Oxidation phenomena of  polysilicon/ tungsten silicide structures, ATM 1999, IIM, 15-16 November  1999, IIT Kanpur
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mk publication]
+Monica  Katiyar, Electron microscopy in semiconductor  manufacturing, National Conference on Electron Microscopy, DMSRDE,  Kanpur, Dec 1-3, 1999
+
+Monica  Katiyar, Ramond Schenk, Zhong Lu, Dejie Li, Effects  of different process parameters on the adhesion of Tungsten Silicide (WSix) to  polysilicon, Technical Enrichment Matrix (Motorola Internal Seminar and  Proceedings), 1996.
+
+15th  International Conference on Amorphous Semiconductors: Science and Technology  (Cambridge,UK), 1993
+
+Materials  Research Society Fall Meeting (Boston, MA), 1992
+
+39th  National Symposium of American Vacuum Society (Chicago, IL), 1992
+
+38th  National Symposium of American Vacuum Society (Seattle, WA), 1991
+
+Materials  Research Society Spring Meeting (Anaheim, CA), 1991
+
+=== mse facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/
+Department
+
+About Us
+
+Research Staff
+
+Research labs
+
+Contact Us
+
+MSE at IITK houses most of modern facilities that are required for state of the art research. The department has range of equipments for materials processing, structural characterization, property evaluation,  and mechanical testing.  The department also has number of teaching laboratories which are also equipped with research facilities. These facilities are primarily for the departmental research and teaching purpose. However, it is opened for the other users from other colleges, universities, research centers and industries. Outside department users can approach the individual lab in-charge to use the corresponding facilities.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities]
+Raman and PL Spectroscopy
+
+Raman spectroscopy provides information molecular vibrations, crystal structure, orientation and stress.
+
+Engineering Metallurgy Laboratory
+
+This lab equipped with series of welding techniques, metal casting, sheet metal working, and typical metal deformation techniques including rolling, forging, swaging etc.
+
+Scanning Electron Microscope
+
+SEM provides topographic information about the materials through SE, BSE, EBSD and elemental analysis.
+
+Materials Science Laboratory
+
+This lab includes  series of experimental setup related to materials science, biomaterial, semiconductors, solar cells etc. for teaching as well as research.
+
+Transmission Electron Microscope
+
+This analytical TEM provides nearly complete microstructural analysis such as imaging, micro-, nano-diffraction, CBED, lattice imaging and elemental analysis.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities]
+Materials Testing Laboratory
+
+This lab envisaged for evaluating the mechanical properties through tensile testing, hardness, creep, fatigue, impact testing etc.
+
+X – Ray Diffraction Facility
+
+This facility offers measurements such as ambient, high and low temperature polycrystalline XRD, Texture and residual analysis etc.
+
+Physical Metallurgy Laboratory
+
+This lab facilitates nearly complete metallurgical investigations including heat treatment, metallography, hardness testing etc.
+
+Metallurgical Workshop
+
+Typical workshop machineries such as lathe, drilling, cutting, machining etc., support for designing research apparatus and making standard specimens.
+
+Process Metallurgy Laboratory
+
+This lab provides insight about different mineral processing involved in ferrous and non-ferrous metal extraction.
+
+=== mse facilities eml ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+About
+
+The Engineering Metallurgy Lab of our department is housed with training equipment's related to manufacturing processes like casting, sheet metal forming, and material joining process. There are two courses  running in this lab namely, Introduction to Manufacturing Processes (TA 201A) and departmental compulsory course Manufacturing Process Lab (MSE 315A).
+
+The TA 201A is a core course, done by all department second year undergraduate  students of IIT Kanpur and have both mechanical as well as metallurgical engineering aspects. In this course, students will be exposed to various manufacturing processes and  gets a hands on experience in basic manufacturing process such as sheet metal forming, casting, welding, and brazing etc. However, in MSE 315A students will be explored to a different aspect of phase diagrams, solidification, microstructure as well as different material deformation processing techniques.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml]
+This lab is also furnished with various kind of instruments which are being used by the PG students of the department for their research work such as cold and hot rolling, induction furnaces, muffle and tube furnaces, controlled environment sintering furnaces, swaging machine, hydraulic press machine etc.
+
+=== mse facilities eml booking brazing access ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/brazing/access.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+BRAZING - Admin Login for BRAZING
+
+Your login ID
+
+Password
+
+LOGIN
+
+=== materials science engineering mse facilities eml booking melting display php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/melting/display.php
+melting - BOOKING STATUS
+Email |
+
+=== materials science engineering mse facilities eml booking melting access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/melting/access.php
+Weeking Booking Status
+melting - Admin Login for Melting
+
+=== mse facilities eml booking brazing display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/brazing/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+BRAZING - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Brazing Type |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Brazing type |
+Email |
+
+Nidhi Sharma | 17 | 12 | 2020 | 9.30 a.m to 12.30 p.m | SPS Chamber Brazing | Brazing | nidhisa@iitk.ac.in |
+Govind | 20 | 7 | 2023 | 9.30 a.m to 12.30 p.m | test 123 form | test | govind0190@gmail.com |
+
+=== mse facilities eml booking brazing slot book ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/brazing/slot_book.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+Brazing (TA-201)
+
+Make a new booking
+
+Book slot for Brazing
+
+×
+
+Name:* |
+
+I am from: |
+
+Materials Science and Engineering
+
+I need to use:  |
+
+Brazing
+
+Brazing Type
+
+Remarks(Information about sample and what you want to do[Max. 140 char.]):
+
+Number of Samples:
+
+Institute:
+
+Roll No/PF No:* |
+
+Email:*
+
+Mobile no: *
+
++91
+
+Preferred date for slot:
+
+Month:
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Year:
+
+2023
+2024
+2025
+
+Date:
+
+01
+02
+03
+04
+05
+06
+07
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking brazing slot book]
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Time of Booking(current time) |
+
+Which slot do you want?(The slots mentioned here are from monday to friday)
+
+(09.30am to 12.30pm)
+(02.30pm to 05.30pm)
+
+Name of supervising Faculty:*
+
+Supervisor Email:*
+
+GENERATE INVOICE
+
+*note
+
+Green Color: Booking is confirmed
+
+Red Color: Booking is pending
+
+Empty/blank tab: slot is available, you can book it
+
+=== mse facilities eml booking casting display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/casting/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly booking status
+Booking Status
+Admin Login
+Shearing (TA-201)
+Melting (TA-201)
+Heat Hreatment (TA-201)
+
+CASTING - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Jugendra Pal Singh Baghel | 17 | 2 | 2020 | 02.30 p.m to 05.30 p.m | i want to make aluminium alumina composite casting | jugendra1996@gmail.c |
+Anshuman tejaswi | 25 | 2 | 2020 | 9.30 a.m to 12.30 p.m | aluminium 6063 sample with aluminium oxide in its  | anshumantj@gmail.com |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking casting display]
+Biswajit Adhikary | 28 | 5 | 2024 | 02.30 p.m to 05.30 p.m | Al casting | adybiswa@iitk.ac.in |
+
+=== materials science engineering mse facilities eml booking casting access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/casting/access.php
+casting - Admin Login for Drilling
+
+=== mse facilities eml booking drilling display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/drilling/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+drilling - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Size of Drill |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Size of Drill |
+Email |
+
+govindb | 25 | 4 | 2019 | 9.30 a.m to 12.30 p.m | test for drilling | 10cm | govindb@iitk.ac.in |
+SHASHIKANT GUPTA | 29 | 11 | 2019 | 02.30 p.m to 05.30 p.m | Need a drill in a Aluminum plate | 3 mm | skantg@iitk.ac.in |
+
+=== materials science engineering mse facilities eml booking drilling access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/drilling/access.php
+drilling - Admin Login for Drilling
+
+=== mse facilities eml booking forging display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/forging/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+forging - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+AMAN KUMAR | 03 | 11 | 2023 | 9.30 a.m to 12.30 p.m | Forging at 950 C | amanphd20@iitk.ac.in |
+Abhinav Dixit | 29 | 10 | 2021 | 9.30 a.m to 12.30 p.m | TiZrHf | ADIXIT@IITK.AC.IN |
+asdasd | 29 | 4 | 2024 | 9.30 a.m to 12.30 p.m | asdasd | deontray05@lgbtqpow. |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking forging display]
+asdasd | 30 | 4 | 2024 | 9.30 a.m to 12.30 p.m | asdasd | deontray05@lgbtqpow. |
+asdasd | 31 | 4 | 2024 | 9.30 a.m to 12.30 p.m | asdasd | 0 |
+
+=== materials science engineering mse facilities eml booking forging access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/forging/access.php
+forging - Admin Login for forging
+
+=== mse facilities eml booking heat treatment display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/heat-treatment/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+Heat Treatment - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Temperature |
+Duration |
+Atmosphere |
+Remarks |
+
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Temperature |
+Duration |
+Atmosphere |
+Remarks |
+
+Email |
+
+Saikat Mandal | 23 | 12 | 2019 | 02.30 p.m to 05.30 p.m | 800 degree c | 5 | Normal atmosphere | 5Heat the sample till red-hot condition | smandal@iitk.ac.in |
+Gaurav Upadhyay | 27 | 12 | 2022 | 02.30 p.m to 05.30 p.m | 580*C | 2 Hours | Inert Gas Medium | In order to develop Mg/CNT Nano-Composite, 18 samp | gauravupadhyay2688@g |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking heat treatment display]
+govind | 27 | 4 | 2019 | 9.30 a.m to 12.30 p.m | 80 degreecelcius | 1 hour | normal | test | govind0190@gmail.com |
+govind | 30 | 4 | 2019 | 02.30 p.m to 05.30 p.m | 80 degreecelcius | 1 hour | normal | test | govind0190@gmail.com |
+
+=== materials science engineering mse facilities eml booking heat treatment access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/heat-treatment/access.php
+Heat Treatment - Admin Login for Heat Treatment
+
+=== mse facilities eml booking others display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/others/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Others
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+Other Facilities (TA-201)
+
+others - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Equipment Name/Type |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Equipment Name/Type |
+Email |
+
+VIKAS CHANDRA YADAV | 08 | 11 | 2021 | 02.30 p.m to 05.30 p.m | welded alluminium plates | vertical univer | vikas.rahul01@gmail. |
+
+=== materials science engineering mse facilities eml booking others access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/others/access.php
+others - Admin Login for others
+
+=== mse facilities eml booking pressing display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/pressing/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+pressing - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Nikhil Tripathy | 15 | 11 | 2021 | 9.30 a.m to 12.30 p.m | 2 sample 8 pressing  | nikhilt@iitk.ac.in |
+Rajesh Kumar Behera | 18 | 2 | 2022 | 02.30 p.m to 05.30 p.m | Powder sample | rajeshkb20@iitk.ac.i |
+manoj kumar virigineni | 20 | 7 | 2022 | 9.30 a.m to 12.30 p.m | want to make pellets for sintering | manojkv21@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking pressing display]
+Manoj Kumar Virigineni | 25 | 7 | 2022 | 9.30 a.m to 12.30 p.m | want to make pellets for sintering | manojkv21@iitk.ac.in |
+Shadan Ahmad | 27 | 2 | 2024 | 02.30 p.m to 05.30 p.m | Hydraulic Pressing Machine  | shadanahmd22@iitk.ac |
+Shadan Ahmad | 27 | 2 | 2024 | 02.30 p.m to 05.30 p.m | Hydraulic Pressing Machine  | shadanahmd22@iitk.ac |
+Manoj kumar virigineni | 28 | 7 | 2022 | 9.30 a.m to 12.30 p.m | want to make pellets for sintering | manojkv21@iitk.ac.in |
+
+=== materials science engineering mse facilities eml booking pressing access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/pressing/access.php
+pressing - Admin Login for Pressing
+
+=== mse facilities eml booking rolling display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/rolling/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+rolling - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+sailaja Sharma | 17 | 10 | 2019 | 9.30 a.m to 12.30 p.m | 90% Cold rolling | sailaja@iitk.ac.in |
+sailaja Sharma | 18 | 10 | 2019 | 9.30 a.m to 12.30 p.m | 90% Cryo rolling of FeMnNi | sailaja@iitk.ac.in |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Abhinav Dixit | 01 | 12 | 2025 | 02.30 p.m to 05.30 p.m | HEA sample | ADIXIT@IITK.AC.IN |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+JHILIK SEN | 10 | 11 | 2021 | 9.30 a.m to 12.30 p.m | Ni bar...roll it to make a strip | jhsen20@iitk.ac.in |
+Abhinav Dixit | 11 | 11 | 2025 | 02.30 p.m to 05.30 p.m | Pure Ni | ADIXIT@IITK.AC.IN |
+Fateh Bahadur | 12 | 11 | 2019 | 9.30 a.m to 12.30 p.m | FeMnCoCr (Hot Rolling 900C) | fateh@iitk.ac.in |
+Abhinav Dixit | 12 | 11 | 2025 | 02.30 p.m to 05.30 p.m | Pure Co | ADIXIT@IITK.AC.IN |
+Saumya Ranjan Jha | 16 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 16 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+PRINCE SETIA | 16 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Hot rolling at 1000 degree celcius | psetia@iitk.ac.in |
+Jhilik Sen | 16 | 3 | 2022 | 9.30 a.m to 12.30 p.m | MEA (Rolling) | jhsen20@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Debasis Rath | 16 | 4 | 2020 | 02.30 p.m to 05.30 p.m | SS-430, Warm Rolling 35% reduction | debrath@iitk.ac.in |
+Swati Mahato | 17 | 1 | 2022 | 9.30 a.m to 12.30 p.m | Rolling 50% | swatim20@iitk.ac.in |
+Saumya | 17 | 2 | 2020 | 02.30 p.m to 05.30 p.m | Rolling | saumya@iitk.ac.in |
+Debasis Rath | 17 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm rolli | debrath@iitk.ac.in |
+Debasis Rath | 17 | 3 | 2020 | 02.30 p.m to 05.30 p.m | SS-430, Warm & Hot Rolling | debrath@iitk.ac.in |
+Saumya Ranjan Jha | 18 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 18 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90 rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90 rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% rolling | saumya@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 9.30 a.m to 12.30 p.m | rolling | saumya@iitk.ac.in |
+Saumya | 18 | 11 | 2019 | 02.30 p.m to 05.30 p.m | Rolling | saumya@iitk.ac.in |
+PRINCE SETIA | 18 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Hot rolling at 1000 degree celcius | psetia@iitk.ac.in |
+Suraj Shukla | 18 | 6 | 2024 | 9.30 a.m to 12.30 p.m | Hot rolling -Mg alloy | surajmse20@iitk.ac.i |
+Swati Mahato | 18 | 7 | 2022 | 9.30 a.m to 12.30 p.m | High Entropy Alloy | swatim20@iitk.com |
+SUSANTA KUMAR NAYAK | 19 | 11 | 2019 | 9.30 a.m to 12.30 p.m | solid sample | susanta@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Syed Mohammad Musthaq | 19 | 12 | 2023 | 9.30 a.m to 12.30 p.m | Pure Nickel | syedm22@iitk.ac.in |
+shazia | 19 | 2 | 2020 | 9.30 a.m to 12.30 p.m | Magnesium alloys | shaikhshaziashazia@g |
+Gyanendra Pratap Singh Chauhan | 19 | 2 | 2020 | 02.30 p.m to 05.30 p.m | Ti-Al-Mo alloy | pgyanend@iitk.ac.in |
+Debasis Rath | 19 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm/Hot r | debrath@iitk.ac.in |
+Swati Mahato | 19 | 7 | 2022 | 9.30 a.m to 12.30 p.m | High Entropy Alloy | swatim20@iitk.com |
+swati mahato | 20 | 1 | 2022 | 02.30 p.m to 05.30 p.m |  sample cryorolling | swatim20@iitk.ac.in |
+Debasis Rath | 20 | 2 | 2020 | 02.30 p.m to 05.30 p.m | Stainless steel 430, Hot & Warm Rolling | debrath@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+PRINCE SETIA | 20 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Hot rolling at 1000 degree celcius | psetia@iitk.ac.in |
+Saumya Ranjan Jha | 21 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 21 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Swati Mahato | 21 | 3 | 2022 | 9.30 a.m to 12.30 p.m | bulk sample | swatim20@iitk.ac.in |
+Debasis Rath | 21 | 4 | 2020 | 9.30 a.m to 12.30 p.m | SS 430; Warm Rolling (300T) 35%, Hot rolling (800T | debrath@iitk.ac.in |
+Saumya Ranjan Jha | 22 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 22 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Swati Mahato | 22 | 3 | 2022 | 9.30 a.m to 12.30 p.m | bulk sample | swatim20@iitk.ac.in |
+Debasis Rath | 22 | 4 | 2020 | 9.30 a.m to 12.30 p.m | SS-430, Cold Rolling 5% & 25% (4 pass) | debrath@iitk.ac.in |
+Saumya Ranjan Jha | 23 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 23 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Sumit jha | 23 | 11 | 2020 | 9.30 a.m to 12.30 p.m | Ti64 | Su.jha576@gmail.com |
+MANOJ | 23 | 11 | 2020 | 02.30 p.m to 05.30 p.m | 10, 20, 30 % REDUCTION | krmanoj@iitk.ac.in |
+SUMIT JHA | 23 | 2 | 2021 | 9.30 a.m to 12.30 p.m | Hot Rolling at 870C | su.jha576@gmail.com |
+Sumit Jha | 23 | 2 | 2021 | 02.30 p.m to 05.30 p.m | Hot Rolling at 870C | su.jha576@gmail.com |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+PRINCE SETIA | 23 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Hot rolling at 1000 degree celcius | psetia@iitk.ac.in |
+Sumit Jha | 23 | 3 | 2021 | 9.30 a.m to 12.30 p.m | Ti64 | su.jha576@gmail.com |
+Swati Mahato | 23 | 3 | 2022 | 9.30 a.m to 12.30 p.m | bulk sample | swatim20@iitk.ac.in |
+Swati Mahato | 23 | 3 | 2022 | 9.30 a.m to 12.30 p.m | bulk sample | swatim20@iitk.ac.in |
+Sumit Jha | 23 | 5 | 2022 | 9.30 a.m to 12.30 p.m | Magnesium samples | su.jha576@gmail.com |
+Shashank Shekhar Mishra | 23 | 6 | 2020 | 9.30 a.m to 12.30 p.m | Co-Cr-Ni alloy | mishrass@iitk.ac.in |
+Praveen Kumar Pandey | 23 | 8 | 2023 | 9.30 a.m to 12.30 p.m | steel Sample | praveenkp22@iitk.ac. |
+Praveen Kumar Pandey | 23 | 8 | 2023 | 02.30 p.m to 05.30 p.m | steel Sample | praveenkp22@iitk.ac. |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Saumya Ranjan Jha | 24 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 24 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+jitesh kumar | 24 | 2 | 2022 | 9.30 a.m to 12.30 p.m | Bulk HEA | kjitesh@iitk.ac.in |
+Debasis Rath | 24 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm rolli | debrath@iitk.ac.in |
+Swati Mahato | 24 | 3 | 2022 | 9.30 a.m to 12.30 p.m | bulk sample | swatim20@iitk.ac.in |
+Abhinav Dixit | 24 | 6 | 2022 | 02.30 p.m to 05.30 p.m | TiZrHf | ADIXIT@IITK.AC.IN |
+fateh | 24 | 8 | 2021 | 9.30 a.m to 12.30 p.m | HEA | fateh@iitk.ac.in |
+fateh | 24 | 8 | 2021 | 9.30 a.m to 12.30 p.m | HEA | fateh@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+fateh | 24 | 8 | 2021 | 9.30 a.m to 12.30 p.m | HEA | fateh@iitk.ac.in |
+Saumya Ranjan Jha | 25 | 10 | 2024 | 9.30 a.m to 12.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Saumya Ranjan Jha | 25 | 10 | 2024 | 02.30 p.m to 05.30 p.m | Cryo rolling | saumya@iitk.ac.in |
+Neetu | 25 | 11 | 2019 | 9.30 a.m to 12.30 p.m | Hot rolling of steel samples at 900°C | vneetu@iitk.ac.in |
+Neetu | 25 | 11 | 2019 | 02.30 p.m to 05.30 p.m | Hot rolling of steel samples at 900°C | vneetu@iitk.ac.in |
+Jhilik Sen | 25 | 11 | 2021 | 9.30 a.m to 12.30 p.m | HEA | jhsen20@iitk.ac.in |
+PRINCE SETIA | 25 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Hot rolling at 1000 degree celcius | psetia@iitk.ac.in |
+Dr sailaja Sharma | 26 | 11 | 2019 | 9.30 a.m to 12.30 p.m | 90% Cold rolling FeMnNi after heat treatment | sailaja@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Jhilik Sen | 26 | 11 | 2021 | 9.30 a.m to 12.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 9.30 a.m to 12.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 9.30 a.m to 12.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 9.30 a.m to 12.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 02.30 p.m to 05.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 02.30 p.m to 05.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik Sen | 26 | 11 | 2021 | 02.30 p.m to 05.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik | 26 | 11 | 2021 | 02.30 p.m to 05.30 p.m | HEA | jhsen20@iitk.ac.in |
+Jhilik | 26 | 11 | 2021 | 02.30 p.m to 05.30 p.m | HEA | jhsen20@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+MANOJ . | 26 | 2 | 2021 | 9.30 a.m to 12.30 p.m | Zn Al sample reduction upto 10 % | krmanoj@iitk.ac.in |
+Debasis Rath | 26 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm/Hot r | debrath@iitk.ac.in |
+Swati Mahato | 27 | 1 | 2022 | 9.30 a.m to 12.30 p.m | Rolling 90% | swatim20@iitk.ac.in |
+sumit jha | 27 | 11 | 2020 | 9.30 a.m to 12.30 p.m | ti64 hot rolling at 950 | su.jha576@gmail.com |
+Debasis Rath | 27 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm/Hot r | debrath@iitk.ac.in |
+Debasis Rath | 27 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm/Hot r | debrath@iitk.ac.in |
+Debasis Rath | 27 | 4 | 2020 | 9.30 a.m to 12.30 p.m | SS 430; Warm Rolling (300T) 15%, Hot rolling (800T | debrath@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Swati Mahato | 28 | 1 | 2022 | 9.30 a.m to 12.30 p.m | Rolling 90% | swatim20@iitk.ac.in |
+Fateh Bahadur Singh | 28 | 2 | 2020 | 9.30 a.m to 12.30 p.m | Hot Rolling @ 1100 C | fateh@iitk.ac.in |
+Debasis Rath | 28 | 4 | 2020 | 9.30 a.m to 12.30 p.m | SS 430; Warm Rolling (300T) 35%, Hot rolling (800T | debrath@iitk.ac.in |
+Debasis Rath | 29 | 4 | 2020 | 9.30 a.m to 12.30 p.m | SS 430; Warm Rolling (300T) 35%, Hot rolling (800T | debrath@iitk.ac.in |
+Deepti Gangwar | 30 | 12 | 2025 | 02.30 p.m to 05.30 p.m | Rolling of an alloy button for breaking and cryomi | gdeepti.iitk@gmail.c |
+Debasis Rath | 30 | 3 | 2020 | 9.30 a.m to 12.30 p.m | Sample: (Ferritic Stainless steel- 430, Warm/Hot r | debrath@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking rolling display]
+Saumya | 30 | 9 | 2021 | 9.30 a.m to 12.30 p.m | HEA | saumya@iitk.ac.in |
+Saumya | 31 | 1 | 2020 | 9.30 a.m to 12.30 p.m | Rolling 90% | saumya@iitk.ac.in |
+Saumya | 31 | 9 | 2021 | 9.30 a.m to 12.30 p.m | HEA | saumya@iitk.ac.in |
+Saumya | 31 | 9 | 2021 | 9.30 a.m to 12.30 p.m | HEA | saumya@iitk.ac.in |
+
+=== materials science engineering mse facilities eml booking rolling access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/rolling/access.php
+rolling - Admin Login for Rolling
+
+=== mse facilities eml booking sheet metal display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/sheet-metal/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+Sheet Metal (TA-201)
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+
+Email |
+
+Saikat Mandal  | 03 | 12 | 2019 | 9.30 a.m to 12.30 p.m | Mild steel sheet | smandal@iitk.ac.in |
+AJAY PRATAP SINGH | 07 | 11 | 2019 | 9.30 a.m to 12.30 p.m | I want to make 13 inch *13 inch box | ajayps@iitk.ac.in |
+RAUSHAN KUMAR | 12 | 12 | 2019 | 02.30 p.m to 05.30 p.m | We want slots to be made in our metal sheet | RAUSKU@IITK.AC.IN |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml booking sheet metal display]
+AJAY PRATAP SINGH | 14 | 11 | 2019 | 9.30 a.m to 12.30 p.m | Making of a box 8 inch* 8 inch and thickness of a  | ajayps@iitk.ac.in |
+
+=== materials science engineering mse facilities eml booking sheet metal access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/sheet-metal/access.php
+sheetmetal - Admin Login for Sheet Metal
+
+=== materials science engineering mse facilities eml booking shearing display php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/shearing/display.php
+shearing - BOOKING STATUS
+Email |
+
+=== materials science engineering mse facilities eml booking shearing access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/shearing/access.php
+shearing - Admin Login for Shearing
+
+=== mse facilities eml booking swaging display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/swaging/display.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking Status
+Booking Status
+Admin Login
+
+Swaging (TA-201)
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Initial Diameter |
+Final Diameter |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Initial Diameter |
+Final Diameter |
+Email |
+
+=== materials science engineering mse facilities eml booking swaging access php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/swaging/access.php
+swaging - Admin Login for Swaging
+
+=== mse facilities eml booking welding access ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/welding/access.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+Other
+
+Instructor
+
+Weekly Booking System
+Booking Status
+Admin Login
+
+welding (TA-201)
+
+welding - Admin Login for Welding
+
+Your login ID
+
+Password
+
+LOGIN
+
+=== materials science engineering mse facilities eml booking welding display php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/welding/display.php
+Email |
+Pooja Singh | 23 | 5 | 2025 | 9.30 a.m to 12.30 p.m | Flat | Friction stir w | pooja.2020rme07@mnni |
+govind | 27 | 4 | 2019 | 9.30 a.m to 12.30 p.m | test | glass | govind0190@gmail.com |
+
+=== mse facilities eml contacts ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/contacts.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+Faculty In-charge: Prof. Shobit Omar
+
+E-mail: somar@iitk.ac.in
+
+Phone: +91 512 259 7328
+
+Lab Incharge: Mr. Rakesh Kumar
+
+E-mail: kumarrr@iitk.ac.in
+
+Phone: +91 512 259 7978
+
+Technical Staff: Mr. Gaurav Mishra
+
+E-mail: mgaurav@iitk.ac.in
+
+Phone: +91 512 259 7978
+
+Technical Staff: Mr. B. R. Singh
+
+E-mail: brsingh@iitk.ac.in
+
+Phone: +91 512 259 6752, 6703
+
+Technical Staff: Mr. Anurag Prasad
+
+E-mail: anuragp@iitk.ac.in
+
+Phone: +91 512 259 6277,7140,6053
+
+=== materials science engineering mse facilities eml charges php (page variant; only the lines not found elsewhere) ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/charges.php
+Charges Will Update soon..
+
+=== mse facilities eml facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/facilities.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+This lab is equipped with various kind of instruments related to manufacturing process like casting, metal forming, forging, joining (welding and brazing), etc.
+The  available facilities of this lab  are given below-
+
+Hydraulic Press Machine
+
+Capacity: 200 Ton
+
+Cold Forging:  (1.0 cm- 70 cm)
+
+Hot Forging:  (2.0 cm-10 cm)
+
+Materials: Al, Cu , Lead, Low carbon steel
+
+Cold Rolling
+
+Roll Diameter: 5"
+
+Roll Speed: 72 RPM
+
+Capacity: 0.5 mm thin to 16 mm thick
+(L & W 100 mm X 30 mm)
+
+Materials: Al, Cu, Iron, SS, Brass, etc
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml facilities]
+Hot Rolling
+
+Capacity: 0.5 mm thin to 16 mm thick
+
+(L & W 100 mm X 30 mm)
+
+Materials: Al, Cu, irons, SS, Brass, etc.
+
+MMAW, MAG
+
+Capacity: Pool Size (1.0 mm- 10 mm)
+
+Materials: Mild Steel, Stainless Steel
+
+Tungsten Inert Gas Welding
+
+Type: Inert Gas Welding
+
+Capacity: Pool size (10 mm)
+
+Materials: Aluminium, Stainless Steel
+
+Brazing Set
+
+Type: Oxyacetylene Gas
+
+Capacity Thin section and different type materials joining
+
+Materials Cu, Iron, SS, Brass, MS etc.
+
+Induction Furnace
+
+Type: Electric
+
+Capacity: Maximum temperature- 1400 oC
+
+Materials: Aluminium, Cast Iron
+
+Electric Furnace
+
+Type:  Mini Induction
+
+Capacity: Maximum Temperature- 1100 oC
+
+Materials: Aluminium
+
+Tube Furnace
+
+Type: Electric heater (Ceramic Tube)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml facilities]
+Capacity: Max dia. 25 mm, Max Temperature- 950 oC
+
+Materials: Al, Cu, Iron, SS, Brass etc.
+
+Injection Molding Machine
+
+Type: Inject (Tensile Sample)
+
+Capacity:  4.0 mm thickness
+
+Materials: LDPE, HDPE &  Granules, 5%Alumina, Cu powder
+
+Swaging Machine
+
+Type: Rotary
+
+Capacity: Max dia. 12.5 mm to Min. 3.5 mm
+
+Materials: Al, Cu, Iron, SS, Brass, etc.
+
+Shearing Machines
+
+Capacity: 0.5 mm thin to 3.0 mm thick
+
+(Width limitation  45" inch)
+
+Materials: Aluminium Sheets  & Mild Steel Sheets
+
+Hardness Tester
+
+Type: Rockwell
+
+Capacity: 1.5 mm thin to 10 mm thick
+
+(L & W, 80 mm X 80 mm)
+
+Materials: Aluminium and Iron
+
+Compaction Machine
+
+Type of compaction: Cold
+
+Capacity: Min. thickness 2.0 mm & dia- 15 mm
+
+Max. thickness 8.0 mm & dia- 25 mm
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml facilities]
+Materials: Al, Cu & Fe  powder
+
+Permiability Meter (VP)
+
+Application: To determine permeability number of green sand, core sand and raw sand.
+
+Description: Permeability measures the venting characteristics of green sand.
+
+Permmeter employs the orifice method for the rapid determination of sand permeability.
+
+It is manually operated machine
+
+Range: Big  Orifice-36 to 2450 No.
+
+SmallOrifice-1.1 to 49No.
+
+Ender 3 Pro DIY Printer
+
+The creality 3D Ender 3 Pro provides an all-round protection to your 3D printer build plate and ensure consistent temperature throughout the build surface.
+
+The Ender 3 Pro in India comes with a UL Certified power supply, protecting your printer from unexpected power surges, that can heat the hot bed to 110oC in just 5 minutes.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml facilities]
+Ender 3 Pro has the ability to resume printing from the last recorded extruder position after suffering unexpected power outages.
+
+The DIY kit of the Creality Ender 3 Pro in India is an easy-to-setup kit and comes with partially assembled components, allowing you to learn about the basic construction of 3D printers as you finish putting it together.
+
+=== mse facilities eml instructor ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/instructor.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+Course Instructor
+
+Course Instructor: Prof. Anish Upadhyaya
+
+E-mail: anishu@iitk.ac.in
+
+Phone: +91 512 259 7672
+
+=== mse facilities eml lab manual ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/lab-manual.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+Instructor
+
+TA201A MANUFACTURING PROCESSES-I
+
+Manufacturing Processes MSE315 Laboratory Manual
+
+=== mse facilities eml lab norms ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/lab-norms.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+To avoid injury, the student must take the permission of the laboratory staff before handling any machine. Careless handling of machines may result in serious injury.
+
+While working in the lab, proper attire should be maintained by the student. Half pants, loosely hanging garments, slippers and sandals are absolutely not allowed in the lab
+
+Standard Operating procedure is given for each machine. Please follow all steps strictly
+
+Use the machines carefully and never play with any machine, In case you need to change the settings of your experiment, please ask the lab in charge before doing it.
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml lab norms]
+Students must ensure that their work areas are clean and dry to avoid slipping.
+
+For joining process experiment (Welding and Brazing), student must wear leather apron, hand gloves, proper jacket, welding helmet, and eye protection glass to perform the experiment. Student not wearing proper attire will not be allowed to work.
+
+At the end of experiment, students must clear off all tools and materials from the work area.
+
+During Sheet Metal forming wearing cotton hand gloves must be compulsory.
+
+For metal casting, wear eye protection, gloves, spats (covering top of feet), and thick clothing protecting all exposed skin on arms and legs. NO polyester or synthetic clothing allowed.
+
+After completing the experiment , student must do log book entry kept in the lab
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities eml lab norms]
+In case of any misconduct/not following the lab rules, the student will be suspended from the availing the facility by the faculty convener.
+
+=== mse facilities eml location ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/EML/location.php
+Request Slot
+
+Brazing
+
+Casting
+
+Drilling
+
+Forging
+
+Heat Treatment
+
+Melting
+
+Pressing
+
+Rolling
+
+Sheet Metal
+
+Shearing
+
+Swaging
+
+Welding
+
+other
+
+Course Instructor
+
+Engineering Metallurgy Lab (TA 201)
+
+Materials Science and Engineering
+
+Indian Institute of Technology Kanpur
+
+Kanpur-208016, UP (India)
+
+Ph:+91-512-259-7978
+
+=== mse facilities msl ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/
+Course Instructor
+
+About
+
+The Materials Science Lab of the department is housed with equipment's related to basic materials science as well as advanced functional materials related experiments for the undergraduate student of IIT Kanpur.
+
+In this lab, two courses are being taught, one is Nature and Properties of Materials (ESO205) and another one is Functional Materials Lab (MSE 312)
+In the ESO 205, students will be exposed to basic materials science and metallography of ferrous and nonferrous metal and alloys related experiments.
+
+However, in MSE 312, students will be introduce to a variety of advanced functional materials and devices underlying their processing, properties and limitations like biomaterials, organic semiconductor, ferroelectric, liquid crystal etc. Students also get a hand on training for fabrication and characterization of different devices and techniques such that an organic light emitting diode, organic solar cell, photolithography technique, spin coating  etc. and get  experience of the clean room facility.
+
+=== mse facilities msl booking keithely source meter 2400 access ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Keithely-Source-Meter-(2400)/access.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+Keithely Source meter (2400) - Admin Login
+
+Your login ID
+
+Password
+
+LOGIN
+
+=== mse facilities msl booking keithely source meter 2400 slot book ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Keithely-Source-Meter-(2400)/slot_book.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+Keithely Source meter (2400)
+
+Make a new booking
+Book slot for Welding
+Book slot for Swaging
+Book slot for Sheet Metal
+Book slot for Shearing
+Book slot for Rolling
+Book slot for Pressing
+Book slot for Other Facilities
+Book slot for Melting
+Book slot for Heat Treatment
+Book slot for Forging
+Book slot for Drilling
+Book slot for Casting
+
+Book slot for Keithely Source meter (2400)
+
+×
+
+Name:* |
+
+I am from: |
+
+please select department
+Biological Science And Bioengineering
+Aeorospace Engineering
+Chemical Engineering
+Civil Engineering
+Electrical Engineering
+Materials Science and Engineering
+Mechanical Engineering
+Chemistry
+Physics
+Materials Science Programme
+Any other Department at IITK
+Academic Institutions
+R&D Labs
+
+I need to use:  |
+other
+
+Keithely Source meter (2400)
+
+Number of Samples:
+
+Institute:
+
+Roll No/PF No:* |
+
+Email:*
+
+Mobile no: *
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking keithely source meter 2400 slot b]
++91
+
+Preferred date for slot:
+
+Month:
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Year:
+
+2021
+2022
+2023
+2024
+
+Date:
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Time of Booking(current time) |
+
+(09.00am to 10.00am)
+(10.00am to 11.00am)
+(11.00am to 12.00pm)
+(12.00pm to 01.00pm)
+
+If you want to book slot (02:00pm to 03:00pm, 03:00pm to 04:00pm, 04:00pm to 05:00pm), please request to Dr. S. K. Mishra (skant@iitk.ac.in)
+
+Name of supervising Faculty:*
+
+Supervisor Email:*
+
+GENERATE INVOICE
+
+*note
+
+Green Color: Booking is confirmed
+
+Red Color: Booking is pending
+
+=== mse facilities msl booking solar simulator access ===
+Book slot for Solar Simulator
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Solar-Simulator/access.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+Solar Simulator - Admin Login
+
+Your login ID
+
+Password
+
+LOGIN
+
+=== mse facilities msl booking solar simulator display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Solar-Simulator/display.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+Solar Simulator - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Email |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Email |
+
+Dhandapani V | 01 | 11 | 2023 | 9.00 a.m to 10.00 a.m | dye sensitizer solar cell measurements | dhandapanichemist@gm |
+
+=== mse facilities msl booking uv vis access ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/uv-vis/access.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+UV-Vis-NIR Spectrophotometer - Admin Login
+
+Your login ID
+
+Password
+
+LOGIN
+
+=== mse facilities msl booking uv vis display ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/uv-vis/display.php
+Instructor
+
+Weekly booking Slot
+Booking Status
+Admin Login
+
+uvvis - BOOKING STATUS
+
+Confirmed Booking
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Email |
+
+Madhu Rawat | 20 | 4 | 2023 | 9.00 a.m to 10.00 a.m | Absorbance test | madhur@iitk.ac.in |
+Jitendra Tahalyani | 26 | 4 | 2023 | 12.00 p.m to 01.00 p.m | Transparent Flim, Need to check the optical transp | jtahal@iitk.ac.in |
+
+Reservation Pending
+
+User |
+Date |
+Month |
+Year |
+Slot |
+Remarks |
+Email |
+
+Vivek Kumar | 04 | 12 | 2023 | 11.00 a.m to 12.00 p.m | 1 | vivek21@iitk.ac.in |
+Anupam Raj | 06 | 12 | 2023 | 11.00 a.m to 12.00 p.m | Liquid Sample | anupamr20@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Adam Musa | 07 | 11 | 2023 | 12.00 p.m to 01.00 p.m | absorption | adammamusa21@iitk.ac |
+mukesh kumar | 08 | 11 | 2024 | 10.00 a.m to 11.00 a.m | carbon metal pispersed  | mukeshk@iitk.ac.in |
+Vivek Kumar | 08 | 12 | 2025 | 11.00 a.m to 12.00 p.m | liquid sample  400-3000 nm | vivek21@iitk.ac.in |
+Sachin  | 12 | 12 | 2023 | 9.00 a.m to 10.00 a.m | Powder sample | sachin22@iitk.ac.in |
+Parmanand kumar tyagi | 13 | 12 | 2023 | 9.00 a.m to 10.00 a.m | High entropy ferrites powder | pktyagi@iitk.ac.in |
+Mohd Aman | 14 | 11 | 2024 | 11.00 a.m to 12.00 p.m | Powder | mohdaman20@iitk.ac.i |
+Dhyananand yadav | 14 | 11 | 2024 | 12.00 p.m to 01.00 p.m | catalyst powder having Ni, Mo and alumina | dhyana@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+farheen | 14 | 12 | 2023 | 9.00 a.m to 10.00 a.m | Powder | farheen@iitk.ac.in |
+Aditya Kamat | 15 | 12 | 2023 | 9.00 a.m to 10.00 a.m | Reflectivity for eight thin film samples | aukamat21@iitk.ac.in |
+Anant Srivastava | 16 | 11 | 2023 | 11.00 a.m to 12.00 p.m | Absorption spectra | anantsr@iitk.ac.in |
+Adam Musa | 16 | 8 | 2023 | 12.00 p.m to 01.00 p.m | absorption | adammamusa21@iitk.ac |
+MUKESH KUMAR | 17 | 10 | 2024 | 10.00 a.m to 11.00 a.m | LIWUID DISPERSED SAMPLE | mukeshk@iitk.ac.in |
+Adam Musa | 17 | 7 | 2023 | 12.00 p.m to 01.00 p.m | thin film | adammamusa21@iitk.ac |
+Adam Musa | 18 | 10 | 2023 | 12.00 p.m to 01.00 p.m | 4 | adammamusa21@iitk.ac |
+Adam Musa | 18 | 7 | 2023 | 11.00 a.m to 12.00 p.m | thin film | adammamusa21@iitk.ac |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Rishow Kumar | 18 | 7 | 2025 | 12.00 p.m to 01.00 p.m | Reflectance measurements from 200 to 1400 nm | rishow@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+UROOS | 18 | 9 | 2026 | 9.00 a.m to 10.00 a.m | graphene nps dispersed in water | urooslubna121@gmail. |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 11.00 a.m to 12.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+UROOS | 18 | 9 | 2026 | 12.00 p.m to 01.00 p.m | graphene nps dispersed in water | uroosl24@iitk.ac.in |
+Anant Srivastava | 19 | 1 | 2024 | 11.00 a.m to 12.00 p.m | Absorption spectra | anantsr@iitk.ac.in |
+Deepti Gangwar | 19 | 2 | 2024 | 10.00 a.m to 11.00 a.m | Rare earth doped ceramic powder materials to deter | gdeepti@iitk.ac.in |
+Rohit Bharti | 19 | 2 | 2025 | 11.00 a.m to 12.00 p.m | My sample is Silicon coated Ag-TiN-Al2O3 Thin film | rohitbharti333@gmail |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Anant Srivastava | 19 | 7 | 2024 | 11.00 a.m to 12.00 p.m | Absorption spectra | anantsr@iitk.ac.in |
+Farheen Anjum | 20 | 2 | 2025 | 11.00 a.m to 12.00 p.m | 1 | farheen@iitk.ac.in |
+Pritam | 20 | 2 | 2026 | 11.00 a.m to 12.00 p.m | thin films | pritamdey23@iitk.ac. |
+Swastika Chand | 20 | 2 | 2026 | 12.00 p.m to 01.00 p.m | Silicon nanowires grown on Silicon wafer. Need to  | swastikac24@iitk.ac. |
+Adam Musa | 20 | 3 | 2024 | 12.00 p.m to 01.00 p.m | thin film | adammamusa21@iitk.ac |
+Deepti Gangwar | 20 | 8 | 2025 | 10.00 a.m to 11.00 a.m | Ag Nano Particles dispersed in Ethanol | deeptigangwar04@gmai |
+Anshuman Choudhary | 20 | 9 | 2023 | 10.00 a.m to 11.00 a.m | Nanomaterial coated PET sheet | anshchy@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Anshuman Choudhary | 20 | 9 | 2023 | 10.00 a.m to 11.00 a.m | Nanomaterial coated PET sheet | anshchy@iitk.ac.in |
+Adam Musa | 21 | 11 | 2023 | 12.00 p.m to 01.00 p.m | thin film | adammamusa21@iitk.ac |
+Adam Musa | 21 | 12 | 2023 | 12.00 p.m to 01.00 p.m | Thin film  | adammamusa21@iitk.ac |
+Rahul kumar shringirishi  | 21 | 5 | 2024 | 11.00 a.m to 12.00 p.m | Liqued textile dye sample for adsorption calibrati | rkstc2010@gmail.com |
+Anupam Halder | 21 | 9 | 2023 | 11.00 a.m to 12.00 p.m | oxide powder sample.  | anupam20@iitk.ac.in |
+Nabajit Deka | 21 | 9 | 2026 | 11.00 a.m to 12.00 p.m | Measure absorptance of salt aqeuous salutions in U | nabajitd@iitk.ac.in |
+Pritam | 21 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | pritamdey23@iitk.ac. |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Ashish Kumar | 22 | 10 | 2024 | 10.00 a.m to 11.00 a.m | I want to do spectral analysis of UV band pass fil | kumara21@iitk.ac.in |
+Ashish Kumar | 22 | 10 | 2024 | 11.00 a.m to 12.00 p.m | I want to do spectral analysis of UV band pass fil | kumara21@iitk.ac.in |
+Saarthak | 22 | 5 | 2023 | 11.00 a.m to 12.00 p.m | Uv vis | saarthak@iitk.ac.in |
+Saarthak | 22 | 5 | 2023 | 11.00 a.m to 12.00 p.m | Uv vis | saarthak@iitk.ac.in |
+Anupam Raj | 22 | 5 | 2023 | 12.00 p.m to 01.00 p.m | Methylene Blue solution in DI water | anupamr20@iitk.ac.in |
+Anshuman Choudhary | 22 | 8 | 2023 | 10.00 a.m to 11.00 a.m | Silver coated polymer | anshchy@iitk.ac.in |
+Anshuman Choudhary | 22 | 8 | 2024 | 9.00 a.m to 10.00 a.m | Silver nanoparticle | anshchy@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+JEETENDRA KUAMR PRADHAN | 23 | 1 | 2026 | 10.00 a.m to 11.00 a.m | liquid | jeetendra23@iitk.ac. |
+Arjun R | 23 | 1 | 2026 | 12.00 p.m to 01.00 p.m | Thin films on glass(2 organic and 1 LiF) | arjun20@iitk.ac.in |
+MUKESH KUMAR | 23 | 10 | 2024 | 11.00 a.m to 12.00 p.m | water dispersed carbon composite | mukeshk@iitk.ac.in |
+MOHD AMAN | 23 | 5 | 2023 | 11.00 a.m to 12.00 p.m | absorption spectra  | mohdaman20@iitk.ac.i |
+MOHD AMAN | 23 | 5 | 2023 | 11.00 a.m to 12.00 p.m | absorption spectra  | mohdaman20@iitk.ac.i |
+MOHD AMAN | 23 | 5 | 2023 | 11.00 a.m to 12.00 p.m | absorption spectra  | mohdaman20@iitk.ac.i |
+PRAGYA DIXIT | 23 | 5 | 2023 | 12.00 p.m to 01.00 p.m | powder sample | pragyadi@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Sruthi S | 23 | 6 | 2023 | 9.00 a.m to 10.00 a.m | thin film samples absorbance | sruthi21@iitk.ac.in |
+Sruthi S | 23 | 6 | 2023 | 10.00 a.m to 11.00 a.m | thin film samples absorbance | sruthi21@iitk.ac.in |
+MOHD AMAN | 23 | 6 | 2023 | 12.00 p.m to 01.00 p.m | . | mohdaman199898@gmail |
+Anshuman Choudhary | 24 | 11 | 2023 | 11.00 a.m to 12.00 p.m | NoN Magnetic Sample(AgNw coated on PET) | anshuman91choudhary@ |
+Rajkumar Yadav | 24 | 12 | 2024 | 10.00 a.m to 11.00 a.m | UV-DRS | pat@gmail.com |
+Alok Kumar Yadav | 24 | 3 | 2025 | 10.00 a.m to 11.00 a.m | Thin film transmission measurement  | alokkyadav23@iitk.ac |
+Alok Kumar Yadav | 24 | 3 | 2025 | 11.00 a.m to 12.00 p.m | Thin film transmission measurement  | alokkyadav23@iitk.ac |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Basu Tandoy | 24 | 7 | 2023 | 12.00 p.m to 01.00 p.m | Transmittance test of Thin film samples | basut21@iitk.ac.in |
+Swastika Chand | 25 | 2 | 2026 | 10.00 a.m to 11.00 a.m | Silicon wafer texturing | swastikac24@iitk.ac. |
+Swastika Chand | 25 | 2 | 2026 | 10.00 a.m to 11.00 a.m | Silicon wafer texturing | swastikac24@iitk.ac. |
+Vivek Kumar | 25 | 8 | 2025 | 9.00 a.m to 10.00 a.m | DRS | vivek21@iitk.ac.in |
+MOHD AMAN | 26 | 5 | 2023 | 10.00 a.m to 11.00 a.m | absorption spectra of metal oxides | mohdaman199898@gmail |
+MOHD AMAN | 26 | 6 | 2023 | 10.00 a.m to 11.00 a.m | Reflectance | mohdaman20@iitk.ac.i |
+MOHD AMAN | 26 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman20@iitk.ac.i |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+MOHD AMAN | 26 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman20@iitk.ac.i |
+MOHD AMAN | 26 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman20@iitk.ac.i |
+MOHD AMAN | 26 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman20@iitk.ac.i |
+MOHD AMAN | 26 | 6 | 2023 | 12.00 p.m to 01.00 p.m | Reflectance | mohdaman199898@gmail |
+Sruthi | 26 | 6 | 2023 | 3.00 p.m to 04.00 p.m | thin film | sruthis@iitk.ac.in |
+Sruthi | 26 | 6 | 2023 | 04.00 p.m to 05.00 p.m | thin film | sruthis@iitk.ac.in |
+Swastika Chand | 27 | 2 | 2026 | 9.00 a.m to 10.00 a.m | Silicon wafer texturing | swastikac24@iitk.ac. |
+Saksham Gupta  | 27 | 3 | 2024 | 9.00 a.m to 10.00 a.m | Components of blood in solid form | sakshamg21@iitk.ac.i |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Ravi Kumar | 27 | 5 | 2024 | 9.00 a.m to 10.00 a.m | Reflectance Data | 21dr0144@ce.iitism.a |
+MOHD AMAN | 27 | 6 | 2023 | 10.00 a.m to 11.00 a.m | Reflectance | mohdaman199898@gmail |
+MOHD AMAN | 27 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman199898@gmail |
+MOHD AMAN | 27 | 6 | 2023 | 11.00 a.m to 12.00 p.m | Reflectance | mohdaman199898@gmail |
+MOHD AMAN | 27 | 6 | 2023 | 12.00 p.m to 01.00 p.m | Reflectance | mohdaman199898@gmail |
+Farheen Anjum | 27 | 9 | 2024 | 12.00 p.m to 01.00 p.m | powder | farheen.msc@gmail.co |
+Dnyandev Bhosale | 28 | 2 | 2024 | 12.00 p.m to 01.00 p.m | Transition metal complexes which are soluble in DM | bhosaledg@gmail.com |
+Saksham Gupta  | 28 | 3 | 2024 | 12.00 p.m to 01.00 p.m | Solid components of blood  | sakshamg21@iitk.ac.i |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+MUKESH KUMAR | 28 | 3 | 2025 | 9.00 a.m to 10.00 a.m | Carbon composite powder | mukeshk@iitk.ac.in |
+Adam Musa | 28 | 6 | 2023 | 12.00 p.m to 01.00 p.m | thin film | adammamusa21@iitk.ac |
+Adam Musa | 28 | 9 | 2023 | 11.00 a.m to 12.00 p.m | thin film | adammamusa21@iitk.ac |
+Raunak | 28 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 28 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 28 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | raunak22@iitk.ac.in |
+Raunak | 28 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | raunak22@iitk.ac.in |
+Raunak | 28 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | raunak22@iitk.ac.in |
+Raunak | 28 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | raunak22@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Raunak | 28 | 9 | 2026 | 12.00 p.m to 01.00 p.m | liquid | raunak22@iitk.ac.in |
+Modassir Anwer | 29 | 11 | 2023 | 12.00 p.m to 01.00 p.m | Absorbance Test | modassir@iitk.ac.in |
+Dr. Gurukrishna K | 29 | 9 | 2023 | 9.00 a.m to 10.00 a.m | Thinfilm on c cut supphire | gkrishna@iitk.ac.in |
+asdas | 30 | 4  | 2024 | 9.00 a.m to 10.00 a.m | asd | asda@a.com |
+asdas | 30 | 4  | 2024 | 9.00 a.m to 10.00 a.m | asd | asda@a.com |
+asdas | 30 | 4  | 2024 | 9.00 a.m to 10.00 a.m | asd | asda@a.com |
+asdas | 30 | 4  | 2024 | 9.00 a.m to 10.00 a.m | asd | asda@a.com |
+asdas | 30 | 4 | 2024 | 9.00 a.m to 10.00 a.m | asd | asda@a.com |
+Siddharth Pal | 30 | 4 | 2026 | 9.00 a.m to 10.00 a.m | Cellulose Nanocrystal film and fiber | siddharthp24@iitk.ac |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Siddharth Pal | 30 | 4 | 2026 | 9.00 a.m to 10.00 a.m | Cellulose Nanocrystal film and fiber | siddharthp24@iitk.ac |
+Amritha Bharathan | 30 | 5 | 2025 | 9.00 a.m to 10.00 a.m | Thin film | amrithab@iitk.ac.in |
+Raunak | 30 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 30 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 30 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 30 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Raunak | 30 | 9 | 2026 | 10.00 a.m to 11.00 a.m | liquid | raunak22@iitk.ac.in |
+Nabajit Deka | 30 | 9 | 2026 | 11.00 a.m to 12.00 p.m | salt aqeuous samples  | nabajitd@iitk.ac.in |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl booking uv vis display]
+Nabajit Deka | 30 | 9 | 2026 | 12.00 p.m to 01.00 p.m | measure absorptance , salt aqeuous samples | nabajitd@iitk.ac.in |
+Vivek Kumar | 31 | 10 | 2025 | 12.00 p.m to 01.00 p.m | Powder_DRS mode | vivek21@iitk.ac.in |
+Vivek Kumar | 31 | 10 | 2025 | 12.00 p.m to 01.00 p.m | Powder_DRS mode | vivek21@iitk.ac.in |
+Anupam Raj | 31 | 7 | 2023 | 11.00 a.m to 12.00 p.m | Liquid MO samples | anupamr20@iitk.ac.in |
+
+=== mse facilities msl charges ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/charges.php
+Course Instructor
+
+User charges committee
+
+User Charges
+
+Name of Facility
+Slot duration
+Recommendations
+Remark
+
+For Dept.
+For Other Dept. of IITK
+For External Users (Non IITK)
+
+UV-VIS-NIR    (Abs., Tr., and reflectance mode)
+1 Hr
+Rs. 300.00
+Rs. 500.00
+Rs. 1000.00
+15 minutes    extra will be considered ‘0 ‘(zero) hr., beyond will be count next hr.
+
+=== mse facilities msl contacts ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/contacts.php
+Course Instructor
+
+Faculty In-charge:  Dr. Nilesh Badwe
+
+E-mail: nbadwe@iitk.ac.in
+
+Phone: +91 512 259 2205
+
+Lab In-Charge: Dr. S K Mishra
+
+E-mail: skant@iitk.ac.in
+
+Phone: +91 512 259 7933
+
+Technical Staff: Mr. Sheelendra Agnihotri
+
+E-mail: sheelu@iitk.ac.in
+
+Phone: +91 512 259 7342 / 7278
+
+Technical Staff: Mr. Shilankar
+
+E-mail:  slankar@iitk.ac.in
+
+Phone: +91 512 259 7140
+
+=== mse facilities msl facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/facilities.php
+Course Instructor
+
+List of Facilities
+
+1. UV-Vis-NIR Spectrophotometer
+2028
+(click here to book slot) |
+2. Atomic  Force Microscopy (AFM) |
+3. Solar Simulator
+2028
+(click here to book slot) |
+4. Spin coater |
+
+5. Keithely Source meter (2400)
+(click here to book slot) |
+6. Ultrasonicator |
+7. Four point probe set up |
+8. Optical Microscope |
+
+9. Muffel Furnace |
+10. Tube furnace |
+11. Weighing Balance |
+12. Oven |
+
+13. Euromex Microscope(Image Analyzer)
+with Basic Image Software |
+
+UV-Vis-NIR Spectrophotometer
+
+●  Wavelength Range; 190 to 3200 nm
+
+●  Light  Source; Deuterium Lamp & Halogen lamp
+
+●  Detector; Photomultiplier tube, Peltier  cooled PbS
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●  Wavelength scan mode; Abs, %T, %R, Sample, Reference)
+
+●  Film holder (sliding mount type) for Transparent Thin film
+
+●  Thickness  of sample: 0.5 to 25 mm, Sample size (Maximum: 80 x 100 mm Minimum: 5 x 5 mm)
+
+●  Integrating  Sphere (UV/VIS/NIR);
+Inside  dia. of Integrating Sphere:60mmφ, Incident Angle to reflection surface; 0°,  approx. 5°, Sample Size; Min. (reflection):   20(H)×20(W)×0.5(t)mm  & Max.  sample size (reflection):65(H)×50(W)×25(t)mm, Wavelength range: 200 - 2500nm
+
+●  Sample Holder (Liquid as standard and for  Powder Samples)
+
+●  Time course measurement, Quantitative measurement and fixed wavelength  measurement can be possible with this instrument.
+
+Euromex Microscope(Image Analyzer) with Basic Image Software
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●		Reflected light Bright field &, Polarization,  transmitted light mode  is  in addition
+
+●		Up to 100x Objectives
+
+●		18  Mega Pixel CMOS Camera with pixel size 1.67x1.67 μm With Live display mode can achieve high      frame rate of 32 fps
+
+●		Polarization Facility
+
+●		Diopter adjustment facility
+
+●		The software is capable of performing  measurements, segmentation, extended depth of focus &     Image enhancement  enabling users to have optimum quality
+
+Twin Mould hot mounting press
+
+●		Manufacturer name: Chennai Metco
+
+●		Model: BAINMOUNT-H
+
+●		BAINMOUNT-H is a high speed mould heater with built-in water cooling coils along with built in     hydraulic system.
+
+●		1200 Watts Mould Heater
+
+●		Provision to accommodate two moulds at a time
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●		Digital Temperature indicator and controller
+
+●		Timer and buzzer for Heating and Cooling cycles
+
+Heating Oven
+
+●	Manufacturer name: Mahendra Scientific Instruments
+
+●	Operating temperature upto 250°C
+
+●	Programmable heating and cooling cycles
+
+●	Control: Digital Auto Temp Control Panel
+
+●	Voltage: 220 V
+
+●	Frequency: 50 Hz
+
+Horizontal Muffle Furnace
+
+●	Manufacturer name: Mahendra Scientific Instruments
+
+●	Operating temperature upto 800°C
+
+●	Programmable heating and cooling cycles
+
+●	Control: Digital Auto Temp Control Panel
+
+●	Voltage: 220 V
+
+●	Frequency: 50 Hz
+
+Vertical Muffle Furnace
+
+●		Manufacturer name: Mahendra Scientific Instruments
+
+●		Operating temperature upto 800°C
+
+●		Programmable heating and cooling cycles
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●		Control: Digital Auto Temp Control Panel
+
+●		Voltage: 220 V
+
+●		Frequency: 50 Hz
+
+Tube Furnace
+
+●	Manufacturer name: Mahendra Scientific Instruments
+
+●	Operating temperature upto 700°C
+
+●	Programmable heating and cooling cycles
+
+●	Control: Digital Auto Temp Control Panel
+
+●	Voltage: 220 V
+
+●	Frequency: 50 Hz
+
+Optical Microscope
+
+●	Manufacturer name:Olympus
+
+●	Model: BX51M
+
+●	Head: Binocular/Trinocular
+
+●	Eyepieces:	10x
+
+●	Objectives:	5x, 10x, 20x, 50x
+
+●	Stage: Mechanical Stage
+
+●	Focusing:	Coarse/Fine Focus
+
+●	Illumination: Halogen Reflected Light
+
+Weighing Balance
+
+●	Manufacturer name: Danwer
+
+●	Model: HK-JC-220AB
+
+●	Range: 0.001 gm to 200 gm
+
+●	Power: 9 V DC
+
+●	Easy to read LCD Display with backlight
+
+●	Automatic internal calibration with built in weight
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+Ultrasonicator
+
+●	Manufacturer name: Wensar
+
+●	Model: WUC 4L
+
+●	Tank Volume (liters): 4L
+
+●	Ultrasonic Wattage: 100 W
+
+●	Tank Dimension: 235x135x150
+
+●	Ultrasonic Frequency: 40 ± 3 KHZ
+
+●	Heating: Ambient To 80°C Digitally Controlled (Dual Display)
+
+●	Digital Timer: 0 To 60 Minutes
+
+Spin Coater
+
+●	Manufacturer name: Apex Instruments
+
+●	Model: spinNXG-P1
+
+●	Type : Precision controlling through microcontroller.
+
+●	Speed range : 100 RPM to 10000 RPM. (Programmable)
+
+●	Accuracy : < ±1% error across the full range
+
+●	Working Chamber : PTFE coated
+
+●	Dimension : 15"x10"x11" (LxBxH)
+
+●	Vacuum Suction : Integrated Vacuum release switch
+
+●	Display : Protocol Status on LCD Console
+
+●	Acceleration : upto 2000rpm/sec (Programmable)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●	Wattage : 150
+
+Four Point Probe Setup
+
+●	Manufacturer name: SES Instruments Pvt. Ltd.
+
+●	Model: DFP-03
+
+●	Temperature Range: RT to 200 oC
+
+●	The setup consists of following units -
+
+Probes Arrangement
+
+Sample
+
+Oven
+
+Four Probe Set-up
+
+Oven Power Supply
+
+Multirange Digital Voltmeter
+
+Constant Current Generator
+
+Keithley power supply
+
+●	Manufacturer name: Keithley
+
+●	Model: 2200-32-3
+
+●	Wide range of power output up to 32V/3A/96W
+
+●	0.03% basic voltage output accuracy and 0.05% basic current accuracy provide quality test data
+
+● Dual line display shows both the programmed and actual values indicating the power status
+
+● GPIB and USB interfaces are standard for convenient automated control
+
+Solar Simulator
+
+●	Manufacturer name: ABET Technologies
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl facilities]
+●	Model: 10500
+
+●	Power: 1 Sun (1.5 AM)/100 watt/cm2
+
+●	Diameter Field: 35 mm
+
+●	ASTM, IEC, JIS Class AM 1.5G Output
+
+●	Fat F/1.0 Fused Silica Condenser
+
+●	DC Xenon Arc Lamp
+
+Atomic Force Microscopy
+
+●	Manufacturer/Model: TT AFM Workshop
+
+●	Sample Sizes: up to 1" X 1" X 1/4"
+
+●	Standard Scanning Modes: Vibrating, Non Vibrating
+
+●	Scanners: 50 X 50 X 17 microns, 15 X 15 X 7 microns
+
+●	Video Optical Microscope: Zoom to 400X, 1.5 micron resolution
+
+=== mse facilities msl instructor ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/instructor.php
+Course Instructor
+
+Course Instructor
+
+Course Instructor: Prof. Gouthama
+
+E-mail: gouthama@iitk.ac.in
+
+Phone: +91 512 259 7450
+
+=== mse facilities msl lab manual ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/lab-manual.php
+Course Instructor
+
+Instructor
+
+MSE 312 Functional Materials Lab
+
+ESO205 Nature and Properties of Materials
+
+=== mse facilities msl lab norms ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/lab-norms.php
+Course Instructor
+
+All students must have to attend the first laboratory session to know about your groups and lab.
+
+Proper attire should be maintained by each student in the lab. Half pants, slippers and sandals are unconditionally not allowed in the lab.
+
+Do not play with any instrument housed in the lab, In case you need to change in the settings of your instruments, please ask the lab in-charge or TAs  before doing it
+
+Do not take anything outside the Materials Science Lab. If you want any instrument for your research purpose, take permission from lab in-charge and do the proper entry in the register.
+
+Each student  will be given a soft copy of the lab manual for preparing of pre-viva
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities msl lab norms]
+THERE WILL BE NO LABORATORY MAKE-UPS, Therefore try to attend all the labs.
+
+In all the labs, you MUST come prepared, or else you risk being sent back. Our suggestion is that after you complete an experiment, the same day check out what experiment you have to do in the next week and spend 5-10 minutes to take a look at that set-up. This will help you in reading the reference text later.
+
+Ask TAs any question you like about the set-up; but for technical and theoretical questions, talk to your tutor/instructor.
+
+=== mse facilities msl location ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MSL/location.php
+Course Instructor
+
+Materials Science Lab (WL - 203)
+
+Materials Science and Engineering
+
+Indian Institute of Technology Kanpur
+
+Kanpur-208016, UP (India)
+
+Ph:+91-512-259-7140
+
+=== mse facilities mtl ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/
+Course Instructor
+
+About
+
+The Materials Testing Lab (MTL) is one of the core lab of the department that offers training to undergraduate students in mechanical behavior of materials.
+The lab comprises of several universal testing machines capable of carrying out conventional tension and compression tests over a wide range of temperature and strain rate. In addition, various hardness testers ranging from macro to micro indenters of different geometries are available in the lab.
+
+The lab also houses a rotating bending fatigue equipment and two creep frames comprising of a table top creep frame and a full fledged creep frame for conventional creep testing. There is also a provision to determine the impact toughness of metallic materials by using Chirpy impact test. In addition, we have designed apparatus for carrying out mechanical tests in different corrosive environments for studying hydrogen embrittlement and stress corrosion cracking. This lab also have  few muffle furnaces, cutting wheels and metallurgical sample preparation facility with optical microscopes. The department has a small laboratory rolling mill for rolling soft materials as well as a lathe machine to prepare samples for mechanical testing
+
+=== mse facilities mtl charges ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/charges.php
+Course Instructor
+
+Equipment |
+Rate for department users |
+Charges for Institute users (Rs) |
+Charges for other Institute students (Rs) |
+Charges Industry or others (Rs) |
+
+UTM |
+nill |
+200.00 per sample/Test |
+300.00 per sample/Test |
+1500.00 per sample |
+
+Creep |
+nill |
+200.00 per hour |
+200.00 per hour |
+500.00 per hour |
+
+Hardness |
+nill |
+200.00 per sample (10 indents) |
+300.00 per sample/Test |
+1500.00 per sample/Test |
+
+Impact |
+nill |
+200.00 per sample |
+200.00 per sample |
+1500.00 per sample |
+
+Fatigue Testing |
+nill |
+200.00 per hour |
+200.00 per hour |
+300.00 per hour |
+
+Cnc Lathe |
+nill |
+300.00 per hour |
+300.00 per hour |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities mtl charges]
+400.00 per hour |
+
+Cnc Wire cut |
+nill |
+400.00 per hour |
+600.00 per hour |
+900.00 per hour |
+
+Coventional Machine Lathe, Powersaw, milling & surfacegrinder etc. |
+nill |
+100.00 per hour |
+100.00 per hour |
+200.00 per hour |
+
+=== mse facilities mtl contacts ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/contacts.php
+Course Instructor
+
+Faculty In-charge: Dr. Sudhanshu Shekhar Singh
+
+E-mail: sudhanss@iitk.ac.in
+
+Phone: +91 512 259 6908
+
+Lab In-charge: Mr. S. K Agnihotri
+
+E-mail: skagni@iitk.ac.in
+
+Phone: +91 512 259 7969
+
+Technical Staff: Mr. Gyanedra Singh
+
+E-mail:  gyans@iitk.ac.in
+
+Phone: +91 512 259 7920
+
+Technical Staff: Mr. Samardeep
+
+E-mail: samard@iitk.ac.in
+
+Phone: +91 512 259 7959
+
+=== mse facilities mtl facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/facilities.php
+Course Instructor
+
+Name: Creep testing Machine
+
+Specification: Temperature range - RT to 700⁰C
+
+Name: Ultimate Tensile  Machine (UTM)
+
+Specification:
+Maximum Load- 50 KN
+Mechanical & Pneumatic grip
+
+Name: Impact Testing Machine
+
+Specification: Max Impact energy count - 300 J
+
+Hardness Tester
+
+Rockwell Hardness
+
+Brinell Hardness tester
+
+Indenter: 10mm  dia ball
+
+Vickers hardness
+
+Make - Banbros
+
+Load range - 1.0 Kg to 0.01Kg
+
+Tensile Testing Machines
+
+Vertical Tensile Testing Machine(LLYOD)
+Horizontal Tensile Testing  machine(Hounsfield)
+
+Max Load- 10 KN
+Max Load - 50 KN
+Max Load- 20 KN
+
+Name: Fatigue Testing Machine
+
+Specification:
+Constant rpm- 3600
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities mtl facilities]
+Maximum Load- 6.0 Kg
+
+Name: Creep testing Machine
+
+Specification: Temperature Range:  25°C- 250°C
+
+Vertical Tensile Testing Machine
+
+Max Load- 200  KN
+
+=== mse facilities mtl instructor ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/instructor.php
+Course Instructor
+
+Instructor
+
+Available Soon
+
+=== mse facilities mtl lab manual ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/lab-manual.php
+Course Instructor
+
+Instructor
+
+MACHENICAL TESTING LABORATORY MANUAL
+
+=== mse facilities mtl lab norms ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/lab-norms.php
+Course Instructor
+
+Separate log book for each facility is maintained. Please enter your name & supervisor's name in the log book before starting the work
+
+Proper decorum should be maintained
+
+Clean the work station after use
+
+Use the machines carefully and if you are not confident please ask lab in-charge
+
+For use during the week end, only PhD scholar will be given permission. The student must contact lab in-charge before work & also fill the log book
+
+Take care of safety (like proper use of high temperature furnace, H2 flow, etc.)
+
+Please bring the abrasive wheel & diamond cutter for your work
+
+For any matter, please contact the lab incharge & you must inform him before using any machine
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities mtl lab norms]
+Never lock any door, Do not take any item out of the lab, if you come with some nonconsumable/consumable items from your lab please inform to the lab incharge, before using
+
+In case of any non-conduct/ not abiding by the rules of the lab, strong action can be taken
+
+Never play with any machine, In case you need to change the settings of your experiment, please ask the lab incharge before doing it. To collect your images/data please carry your own CD or pendrive. CD & pen drive will be formatted before using
+
+In case UG lab is running it is preferred that the lab is not utilised for research purpose
+
+Standard procedure is given for each machine. Please follow all steps strictly
+
+=== mse facilities mtl location ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/MTL/location.php
+Course Instructor
+
+Materials Testing Lab (Westren Lab Extension - )
+
+Materials Science and Engineering
+
+Indian Institute of Technology Kanpur
+
+Kanpur-208016, UP (India)
+
+Ph:+91-512-259-7943
+
+Available Soon
+
+=== mse facilities physical metallurgy ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/
+Instructor
+
+About
+
+Physical Metallurgy Laboratory offers unique and ample hands-on-experience on the world of physical metallurgy of all four categories of materials (metals, ceramics, plastic and composites) to the undergraduate and postgraduate students of our department, students from other departments of our institute as well as other institutes, personnel of different other organizations, like Air force Kanpur, etc., round the clock.
+
+This laboratory also holds full scale course on Physical Metallurgy (MSE 311) as well as it caters to the research outputs of our students. Mainly, microstructures, hardness, thermal analysis, X-ray diffraction, EBSD sample preparation, etc., are looked at in this laboratory with the help of highly experienced laboratory experts(faculty, staff member and senior Ph.D student). We are committed to help any student on the aspects of Physical Metallurgy of materials
+
+=== mse facilities physical metallurgy charges ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/charges.php
+Instructor
+
+Sr. No.  |
+Equipment |
+Regular &    Running Cost |
+MSE department    users |
+outside  department users |
+outside IIT    users (Academic/Industry and Lab) |
+
+1 |
+Abrasive Cutter |
+Periodical    Maintenance, Vices, Cutter, Coolant.  |
+Free of charge |
+Rs. 100 per sample |
+Rs 300/500 per sample |
+
+2 |
+Cold Mounting* |
+Cold setting    compound, Mold |
+Free of charge |
+Rs. 20 per sample of    1/2" dia |
+Rs. 50/100 per sample    of 1/2"dia |
+
+3 |
+Diamond cutter |
+Periodical    Maintenance, Vices, Cutter, Coolant.  |
+User's own blade |
+Not for outside users |
+Not for outside users |
+
+4 |
+DSC-TGA |
+Annual    Maintenance, Probe, Gas, Crucible, UPS Battery etc |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy charges]
+Free of charge |
+Rs. 100 per sample    (max time 1hr) |
+Rs. 300/500  per sample |
+
+5 |
+Electro polishing |
+Annual Maintenance |
+Free of charge |
+Outsider's not    allowed |
+Outsider's not    allowed |
+
+6 |
+Furnace (high T) |
+Annual Maintenance,    Furnace Tube, Heating Element |
+Free of charge |
+Rs. 200/- per 8 hours |
+Rs.1000/2000 per 8    hrs |
+
+7 |
+Furnace up to 1000 degree centigrade |
+Annual Maintenance,    Furnace Tube, Heating Element |
+Free of charge |
+Rs. 200/- per 8 hours |
+Rs.600/1000 per 8 hrs |
+
+8 |
+Grinding* |
+Belt |
+Free of charge |
+Rs. 50/- per hour |
+Rs. 150/250 per hr |
+
+9 |
+Hardness Rockwell |
+Indenter |
+Free of charge |
+Rs. 50/- per sample |
+Rs. 150/250 per    Sample |
+
+10 |
+Hot Mounting |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy charges]
+Powder, Heater,    Annual Maintenance |
+Free of charge |
+Rs. 50 per sample of    1" dia |
+Rs. 100/200 per    sample of 1" dia |
+
+11 |
+Image Analyser |
+Annual Maintenance,    Lenses, Software  etc |
+Free of charge |
+Rs. 50/- per sample    imaging |
+Rs. 150/250 per    Sample imaging |
+
+12 |
+Optical Microscopy* |
+Annual Maintenance    & Lenses |
+Free of charge |
+Rs. 50/- per sample    imaging |
+Rs. 150/250 per    Sample imaging |
+
+13 |
+Polishing* |
+Annual Maintenance,    Polishing Cloth, Polishing Paper |
+Free of charge |
+Rs. 50/- per hour |
+Rs. 150/250 per hr |
+
+14 |
+Salt Bath |
+Salt, Annual    Maintenance, Heating elements, salt chamber |
+Free of charge |
+1000 per cycle |
+Outsider not allowed |
+
+15 |
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy charges]
+Ultrasonic Cleaner |
+Annual Maintenance |
+Free of charge |
+Free of charge |
+Outsider not allowed |
+
+16 |
+Vickers Hardness |
+Annual Maintenance,    Indenter |
+Free of charge |
+Rs. 200/- per sample    (max 5 indents) |
+Rs.600/1000 per    sample (max 5 indents) |
+
+* User will do the    sample; no operator
+
+=== mse facilities physical metallurgy contacts ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/contacts.php
+Instructor
+
+Faculty In-charge: Dr. Kaustubh Kulkarni
+
+E-mail:  kkaustub@iitk.ac.in
+
+Phone: +91 512 259 6102
+
+Staff In-charge: Mr. Gyan Prakash Bajpai
+
+E-mail: gpbajpai@iitk.ac.in
+
+Phone: +91 512 259 7872/7933
+
+Technical Staff: Mr. Ajay Pratap Singh
+
+E-mail: ajayps@iitk.ac.in
+
+Phone: +91 512 259 7933
+
+=== mse facilities physical metallurgy facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/facilities.php
+Instructor
+
+This lab equipped with several optical microscopes for basic sample observation and advance image recording.
+
+Optical Microscopes
+
+Magnification: X50 to X1000
+
+Modes: Bright Field, Dark Field, Differential Interference contrast
+
+Imaging: Digital camera
+
+Analysis: Particle analysis, Image analysis, Quantitate metallography
+
+Optical Microscope - image analyzer
+
+Magnification: X50 to X1000
+
+Modes: Bright Field, Dark Field, Differential Interference contrast
+
+Imaging: Digital camera
+
+Analysis: Particle analysis, Image analysis, stereological analysis
+
+Mounting
+
+Type: Hot Mounting
+
+Temperature: 60-80C
+
+Pressure:.....
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy facilities]
+Sample size: 30 mm standard
+
+Mounting Material: Epoxy, Conducting Mount
+
+Mounting Type: Transparent or Opaque
+
+Mounting
+
+Type: Cold Mounting
+
+Temperature: Room temperature
+
+Sample size: Any shape and size & Standard mounts
+
+Mounting Material: Epoxy + Resin type
+
+Mounting Type: Transparent or Opaque
+
+Sectioning
+
+Type: Low speed cutter
+
+Cutting Wheel: Diamond coated copper wheel
+
+Speed: Variable (up to 00 RPM)
+
+Purpose: Sectioning small samples
+
+Damage: Minimal
+
+Sectioning
+
+Type: High speed cutter
+
+Cutting Wheel: Abrasive blades
+
+Speed: 00 RPM
+
+Purpose: Rough cutting & initial cutting
+
+Damage: Few mm depth
+
+Polishing
+
+Type: Cloth polishing
+
+Abrasives: Alumina suspensions, Diamond paste & Colloidal silica
+
+Polishing: 10 um to 0.5 um (Al2O3) & 0.4 um (Colloidal Silica)
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy facilities]
+Cloth: Variable grades high quality cloths
+
+Speed: Variable (up to 600 RPM)
+
+Purpose: Final mirror polishing
+
+Polishing
+
+Type: Automated Cloth polishing
+
+Abrasives: Alumina suspensions, Diamond paste & Colloidal silica
+
+Polishing: 10 um to 0.5 um (Al2O3) & 0.4 um (Colloidal Silica)
+
+Cloth: Variable grades high quality cloths
+
+Speed: Variable (up to 600 RPM)
+
+Purpose: Final mirror polishing
+
+Polishing
+
+Type: Electro-polishing, Electro etching
+
+Polishing: Chemical polishing
+
+Electrolyte: User defined electrolytes
+
+Sample sizes: > 10mm
+
+Control: Automated process for set voltage and temperature
+
+Temperature: Controlled temperature
+
+Purpose: Final mirror polishing, EBSD sample preparation
+
+Heat Treatment
+
+Type: High temperature furnace
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy facilities]
+Furnaces: 3 tubular furnaces
+
+Temperature range: upto 1600°C
+
+Attachments: Temperature controller, Atmospheric controller
+
+Purpose: Heat treatment of metal
+
+Heat Treatment
+
+Type: Low temperature furnace
+
+Furnaces: 2 muffle furnaces
+
+Temperature range: upto 900°C
+
+Attachments: Temperature controller, Atmospheric controller
+
+Purpose: Heat treatment of metal
+
+Hardness
+
+Type: Vicker's micro-hardness
+
+Indenter:
+
+Load:
+
+Measurement: Digital measurement and imaging coupled with software
+
+Purpose: Surface hardness, measurement on small regions/specific region
+
+Hardness
+
+Type: Automated Rockwell hardness
+
+Indenter:
+
+Load:
+
+Scale: HRA, HRB & HRC
+
+Purpose: Bulk hardness
+
+Grinding
+
+Type: Abrasive belt grinding
+
+Abrasives: Different grits of belt
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy facilities]
+Polishing: Coarse Grinding
+
+Speed: Fixed
+
+Purpose: Coarse grinding, Flat the surface
+
+Grinding
+
+Type: Abrasive belt grinding
+
+Abrasives: Different grits of belt
+
+Polishing: Coarse Grinding
+
+Speed: Fixed
+
+Purpose: Coarse grinding, Flat the surface
+
+Hardness
+
+Type: Vicker's micro-hardness
+
+Turret: Automatic turret
+
+Objective: 10X and 40X
+
+Testing Force: 10g - 2Kg
+
+Intender: Standard rectangular pyramid diamond intender
+
+Measurement: Digital measurement and imaging coupled with software
+
+Purpose: Surface hardness, measurement on small regions/specific region
+
+Differential scanning calorimetry
+
+Type: simultaneous analysis of TG with DTA mode and DSC mode
+
+Sensor: pure platinum pan holder and reference ring
+
+Temperature range: 15°C - 1000°C
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities physical metallurgy facilities]
+Temperature Accuracy: <±0.5°C
+
+Furnace Design: Vertical
+
+Balance Design: Top loading, single beam
+
+Balance Resolution: 0.1mg
+
+Sample Pans: Alumina 180ml
+
+Purpose: Thermal Analysis
+
+=== mse facilities physical metallurgy location ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/location.php
+Instructor
+
+Western Laboratory building
+
+Room No: 	201
+
+Phone: 	7933 (internal)
+
++91 512 259 7933 (External)
+
+=== mse facilities pml ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/PML/
+Course Instructor
+
+About
+
+The Process Metallurgy laboratory provides a useful insight of different processes involved in ferrous and nonferrous metal extraction. Along with the extraction processes, experiments performed in the laboratory are also quite informative to the aspects of heat and mass transport operations as well as determination of solid fuel's calorific values. The laboratory experiments are associated with the departmental compulsory courses such as "Principle of metal extraction and refining" along with "Iron & steel making", for 3rd year bachelor student of MSE Department.
+
+=== mse facilities pml contacts ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/PML/contacts.php
+Course Instructor
+
+Faculty In-charge: Prof. Amarendra Kumar Singh
+
+E-mail: amarendra@iitk.ac.in
+
+Phone: +91 512 259 6277
+
+Faculty In-charge: Dr. A. Meshram
+
+E-mail: arunabhm@iitk.ac.in
+
+Phone: +91 512 259 2268
+
+Lab In-Charge: Mr. Nripen Deka
+
+E-mail: dnripen@iitk.ac.in
+
+Phone: +91 512 259 7949
+
+Technical Staff: Mr. Anurag Prasad
+
+E-mail:  anuragp@iitk.ac.in
+
+Phone: +91 512 259 6277
+
+Technical Staff: Mr. Surya Prakash Sonkar
+
+E-mail:  spsonkar@iitk.ac.in
+
+Phone: +91 512 259 7949
+
+=== mse facilities pml facilities ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/PML/facilities.php
+Course Instructor
+
+List of Facilities
+
+1. DC Power  Supply |
+2. Electrical Resistance Tube furnace (1000°C) |
+3. Digital Microvolt Meter |
+4. Fluidized Bed System |
+
+5. Milliammeter |
+6. Mini Furnace |
+7. Muffle Furnace (1000°C) |
+8. Oven |
+
+9. Temperature Recorder |
+10. Froth floatation |
+11. Jaw crusher |
+12. Roll crusher |
+
+13. Sieve shaker |
+
+=== mse facilities pml lab norms ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/PML/lab-norms.php
+Course Instructor
+
+Every student should obtain a copy of the MSE-314 laboratory manual.
+
+Dress code: Students must come to the laboratory wearing: (1) trousers, (ii) half-
+sleeve tops and (iii) Leather shoes. Half pants, loosely hanging garments and
+slippers are not allowed.
+
+Students should read about their experiment from the manual/reference book
+before coming to lab.
+
+To avoid any injury, the student must take the permission of the laboratory staffs
+before handling the machines.
+
+Students must clean their work area after the end of their experiments.
+
+At the end of each experiment, the student must take initials from the staff on
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > mse facilities pml lab norms]
+your data/observations.
+
+Laboratory report must be submitted in standard sheet, available at the shopping
+center. Reports on ordinary sheets and computer papers will not be accepted.
+
+One group will submit one laboratory report on the same day.
+
+The lab report must contain: (1) Title of the experiment, (ii) Three to four lines
+stating the objectives, (iii) A few lines on background; (iii) Name of all
+equipment’s/tools used along with one line description of its use (iv) Observation
+and analysis with graph sheets.
+
+Student can check their laboratory reports after correction for discussion.
+
+Careless handling of equipment will not be tolerated.
+
+=== mse facilities pml location ===
+Source: https://www.iitk.ac.in/mse/MSE-Facilities/PML/location.php
+Course Instructor
+
+Process Metallurgy laboratory
+
+Bio-Material Building
+Near Academic Gate No-4
+
+Materials Science and Engineering
+
+Indian Institute of Technology Kanpur
+
+Kanpur-208016, UP (India)
+
+Ph:+91-512-259-7943
+
+=== research ===
+Source: https://www.iitk.ac.in/mse/research
+RESEARCH AREAS
+
+Biomaterials
+
+Computational Materials Science
+
+Electroceramics
+
+Extractive Metallurgy
+
+Flexible & Organic Electronics
+
+Manufacturing Processes
+
+Material Degradation
+
+Mechanical Behaviour of Metals
+
+Nanomaterials and Nanotechnology
+
+Physical Metallurgy
+
+Powder Metallurgy
+
+Process Modeling
+
+Structral Ceramics
+
+RESEARCH THEME
+
+Electronic Materials and Devices
+
+Energy and Environment
+
+Healthcare
+
+Iron, Steel and other Alloys
+
+Railways, Automobiles, Space & Defense Technologies
+
+=== research labs ===
+Source: https://www.iitk.ac.in/mse/research-labs
+Lab
+
+Associated Faculty
+
+Associated Staff
+
+Phase Stability Laboratory
+
+-
+
+A. K. Verma
+
+Biomaterials Processing (7920)
+
+Kantesh Balani
+
+G. Singh
+
+Computational Materials  Laboratory
+
+Somnath Bhowmick
+
+Govind
+
+Solidification & Nanomaterials Laboratory (7720)
+
+Krishanu Biswas
+
+K. S. Tripathi
+
+Electronic Material Group
+
+-
+
+K. S. Tripathi
+
+Carbon Nanostructure and  Amorphous Material Laboratory
+
+Anshu Gaur
+
+Rakesh Dixit
+
+Electronic Materials Laboratory
+
+-
+
+I. P. Singh
+
+Texture  Microstructure Stress Laboratory
+
+Nilesh Prakash Gurao
+
+S. Samal
+
+Materials for Photovoltaics and Energy Storage
+
+Sarang Ingole
+
+S. K. Mishra
+
+CeramicWorks Laboratory
+
+Shikhar Krishn Jha
+
+Ajay P. Singh
+
+Thin Film Processing Laboratory
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > research labs]
+Monica Katiyar
+
+Shilankar
+
+Solid State Diffusion and  Thermokinetics Laboratory
+
+Kaustubh Kulkarni
+
+G. Mishra
+
+Plasmonics and Perovskites Laboratory (6802)
+
+Tanmoy Maiti
+
+Ravindra Agnihotri
+
+Process Steel Research Laboratory (7977)
+
+Dipak Mazumdar
+
+Anurag Prasad
+
+Solid State Transformation Laboratory (7648)
+
+Kallol Mondal
+
+G. Mishra
+
+Microstructure, Modelling & Simulation Laboratory
+
+Rajdip Mukherjee
+
+A K Verma
+
+Electroceramics Research Lab
+
+Shobit Omar
+
+B. R. Singh
+
+Mechanical Behaviour Laboratory (7959)
+
+Sandeep Sangal
+
+Samardeep
+
+Hydro-Metallurgy Laboratory (7001)
+
+Rajiv Shekhar
+
+G. P. Bajpai
+
+Structural Nano Metarials Laboratory (7278)
+
+Shashank Shekhar
+
+Sheelendra Agnihotri
+
+Process Metallurgy Laboratory
+
+Amarendra Kumar Singh
+
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > research labs]
+Anurag Prasad
+
+Dr. S. S. Singh's Laboratory
+
+Sudhanshu Shekhar Singh
+
+N. Deka
+
+Symmetry Laboratory (7147)
+
+-
+
+M. Oraon
+
+Powder Metallurgy Laboratory (7342)
+
+Anish Upadhyaya
+
+Sheelendra Agnihotri
+
+Laboratory for Surface Science and Engineering
+
+Vivek Verma
+
+G. P. Bajpai
+
+=== teaching labs ===
+Source: https://www.iitk.ac.in/mse/teaching-labs
+Teaching Laboratories
+
+Engineering Metallurgy Laboratory
+
+Material Science Laboratory
+
+Material Testing Laboratory
+
+Physical Metallurgy Laboratory
+
+Process Metallurgy Laboratory
+
+Metallurgical Workshop
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/casting/access.php (mse facilities eml booking casting access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/casting/slot_book.php (mse facilities eml booking casting slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/drilling/access.php (mse facilities eml booking drilling access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/drilling/slot_book.php (mse facilities eml booking drilling slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/forging/access.php (mse facilities eml booking forging access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/forging/slot_book.php (mse facilities eml booking forging slot book)
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/heat-treatment/access.php (mse facilities eml booking heat treatment access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/heat-treatment/slot_book.php (mse facilities eml booking heat treatment slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/melting/access.php (mse facilities eml booking melting access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/melting/display.php (mse facilities eml booking melting display)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/melting/slot_book.php (mse facilities eml booking melting slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/others/access.php (mse facilities eml booking others access)
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/others/slot_book.php (mse facilities eml booking others slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/pressing/access.php (mse facilities eml booking pressing access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/pressing/slot_book.php (mse facilities eml booking pressing slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/rolling/access.php (mse facilities eml booking rolling access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/rolling/slot_book.php (mse facilities eml booking rolling slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/shearing/access.php (mse facilities eml booking shearing access)
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/shearing/display.php (mse facilities eml booking shearing display)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/shearing/slot_book.php (mse facilities eml booking shearing slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/sheet-metal/access.php (mse facilities eml booking sheet metal access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/sheet-metal/slot_book.php (mse facilities eml booking sheet metal slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/swaging/access.php (mse facilities eml booking swaging access)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/swaging/slot_book.php (mse facilities eml booking swaging slot book)
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/welding/display.php (mse facilities eml booking welding display)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/booking/welding/slot_book.php (mse facilities eml booking welding slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/EML/charges.php (mse facilities eml charges)
+https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Keithely-Source-Meter-(2400)/display.php (mse facilities msl booking keithely source meter 2400 display)
+https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/Solar-Simulator/slot_book.php (mse facilities msl booking solar simulator slot book)
+https://www.iitk.ac.in/mse/MSE-Facilities/MSL/booking/uv-vis/slot_book.php (mse facilities msl booking uv vis slot book)
+[Context: DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACI > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/mse/MSE-Facilities/physical-metallurgy/lab-norms.php (mse facilities physical metallurgy lab norms)

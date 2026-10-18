@@ -1,0 +1,246 @@
+DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS) IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND PEOPLE PAGES
+Name: Department of Intelligent Systems (established 2025 within the Wadhwani School for AI and Intelligent Systems), IIT Kanpur - faculty, staff, students, alumni, awards and people pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/dis. Snapshot: scraped in 2026.
+
+=== b tech students ===
+Source: https://www.iitk.ac.in/dis/b-tech-students
+Will be updated soon...!
+
+=== faculty ===
+Source: https://www.iitk.ac.in/dis/faculty
+Prof. Manindra Agrawal
+(Joint Appointment with CSE)
+
+Prof. Rohit Budhiraja
+(Joint Appointment with EE)
+
++91 512-679-6927
+
+Prof. Shakti S. Gupta
+(Joint Appointment with ME)
+
++91 512-679-6110
+
+Prof. Amey Karkare
+(Joint Appointment with CSE)
+
++91 512-679-7520
+
+Prof. Vimal Kumar
+(Joint Appointment with ECO)
+
++91 512-679-7501
+
+Prof. Piyush Rai
+(Joint Appointment with CSE)
+
++91 512-679-6894
+
+Prof. Ketan Rajawat
+(Joint Appointment with EE)
+
++91 512-679-7337
+
+Prof. Indranil Saha
+(Joint Appointment with CSE)
+
++91 512-679-6343
+
+Prof. Soumya Ranjan Sahoo
+(Joint Appointment with EE)
+
++91 512-679-6202
+
+Prof. Nitin Saxena
+(Joint Appointment with CSE)
+
++91 512-679-7588
+
+Prof. Rajiv Ratn Shah
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > faculty]
++91 512-679-2670
+
+Prof. Ashwin Verma
+
++91 512-679-2690
+
+WSAIS Faculty
+
+Prof. Somitra Sanadhya
+
++91 512-679-2550/ 2669
+
+Prof. Nisheeth Srivastava
+
++91 512-679-7916
+
+Prof. Arun Dixit
+
+Prof. Sudhir Saxena
+
+Prof. Angshuman Karmakar
+
+0512-259-2358
+
+Prof. Anirban Roy
+
+0512-259-2625
+
+Prof. T V Prabhakar
+
+Prof. Salahudden
+
+0512-679-2663
+
+Prof. Shailesh Kumar Singh
+
+=== m tech students ===
+Source: https://www.iitk.ac.in/dis/m-tech-students
+Year 2026-2027
+
+Adiraj Biswas
+
+Ayush Ukey
+
+Gajanan Donge
+
+Ghada Suleiman
+
+Medikonda Mani Sumanth
+
+Manish Rajendra Patil
+
+Namrata Das
+
+Research Interests: Machine Learning, Computer Vision, LLM
+
+Naramsetti Asritha
+
+Nikhil Sai Thodupunoori
+
+Nitish kumar
+
+Sagar Sanjay Pawar
+
+HomePage
+Research Interests: ML Systems, NLP, LLMs
+
+Sai Sameer Mummalaneni
+
+Shantanu Shinde
+
+Swapnil Kabir
+
+Venkata Nithin Reddy Kothamaram
+
+Yashvardhan Shrivastava
+
+=== ms students ===
+Source: https://www.iitk.ac.in/dis/ms-students
+Year 2026-2027
+
+Aditi Bajpai
+
+HomePage
+Advisor: Prof. Rohit Budhiraja
+Center Affiliation: WCDIS
+
+Jahnavi Poloju
+
+HomePage
+Advisor: Prof. Indranil Saha
+Research Interests: Multi-robot path planning, Deep Reinforcement Learning
+Center Affiliation: WCR
+
+=== phd students ===
+Source: https://www.iitk.ac.in/dis/phd-students
+Year 2026-2027
+
+Abhishek Suman
+
+Advisor: Prof. Indranil Saha
+Research Interests: UAVs, Computer Vision, Robotics
+Center Affiliation: WCR
+Seating Location: FB-152 F (Seat-D)
+
+Aneek Roy
+
+HomePage
+Advisor: Prof. Ketan Rajawat, Prof. Tushar Sandhan
+Research Interests: VLMs, Biomedical Imaging, Digital Twin, LLMs
+Center Affiliation: WCDIS
+Seating Location: ACES 307
+
+Aritra Mukherjee
+
+Advisor: Prof. Ketan Rajawat
+Research Interests: Optimization in machine learning and Artificial Intelligence
+Center Affiliation: WCDIS
+Seating Location: Spin Lab Aces 307
+
+Pathanjali
+
+Advisor: Prof. Ketan Rajawat
+Research Interests: Algorithms, Computational Geometry
+Center Affiliation: WCR
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd students]
+Seating Location: ACES 307, SPIN Lab
+
+Trishit Chakrabarty
+
+Advisor: Prof. Indranil Saha
+Research Interests: Robotics,Safety Critical Control
+Center Affiliation: WCR
+Seating Location: FB-152 F (Seat-C)
+
+Vani Sharma
+
+HomePage
+Advisor: Prof. Rohit Budhiraja
+Center Affiliation: WCDIS
+
+Year 2025-2026
+
+Aditya Ojha
+
+Advisor: Prof. Indranil Saha, Prof. Shakti Singh Gupta
+Research Interests: Robotics, Vision-Language Action Models
+Center Affiliation: WCR
+
+Aryan Kalra
+
+HomePage
+Advisor: Prof. Somitra Sanadhya
+Research Interests: Cyber-security
+Center Affiliation: WC3I
+
+Manish Kumar
+
+HomePage
+Advisor: Prof. Nisheeth Sravastava
+Research Interests: AI/ML, LLM, and Natural Language Understanding
+Center Affiliation: WCDIS
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd students]
+Vishal Srivastava
+
+HomePage
+Advisor: Prof. Somitra Sanadhya
+Research Interests: Cybersecurity
+Center Affiliation: WC3I
+
+=== staff ===
+Source: https://www.iitk.ac.in/dis/staff
+Pooja Sahu
+Senior Assistant
+
++91 512-679-6636
+Room No. 207, JEE Building
+
+Ajay Kumar
+Deputy Project Manager
+
++91 512-679-6636
+Room No. 207, JEE Building
+

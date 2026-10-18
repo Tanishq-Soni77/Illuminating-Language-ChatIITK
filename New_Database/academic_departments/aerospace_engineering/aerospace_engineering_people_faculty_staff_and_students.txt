@@ -1,0 +1,4740 @@
+DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND PEOPLE PAGES
+Name: Department of Aerospace Engineering, IIT Kanpur - faculty, staff, students, alumni, awards and people pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/aero. Snapshot: scraped in 2026.
+
+=== 21 staff ===
+Source: https://www.iitk.ac.in/aero/21-staff
+Display #
+
+5
+10
+15
+20
+25
+30
+50
+100
+All
+
+Title				 |
+
+=== aero thermodynamics and thermal sciences faculty ===
+Source: https://www.iitk.ac.in/aero/aero-thermodynamics-and-thermal-sciences-faculty
+Abhijit Kushari, Professor
+
++91-512-2597126 (O) / 8536 (R)
+https://home.iitk.ac.in/~akushari/
+
+Research Interests: Rocket and Gas Turbine Propulsion, Instrumentation in Combustion and Fluid Mechanics, Liquid Atomization and Liquid Combustion, Active Flow Control, Combustion Instability, Experimental Fluid Mechanics, High Speed Flows
+
+Ajay Vikram Singh, Associate Professor
+
++91-512-2592006 (O)
+https://www.ajayvsaero.com/
+
+Research Interests: Combustion and Reacting Flows, Combustion Generated Functional Nanoparticles, Soot Formation and Oxidation, Detonations, Boundary Layer Combustion, Gas Turbine Combustion, Fire Dynamics, Flame Spread, Material Flammability, Renewable Energy Conversion
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > aero thermodynamics and thermal sciences faculty]
+Arun Kumar Perumal,Associate Professor
+
++91-512-259-2155 (O)
+
+Research Interests: Experimental aerodynamics, High speed flows, Subsonic and supersonic jets, Jets in cross flow, Impinging jets, Drag reduction on automotive vehicles.
+
+Rajesh Ranjan, Assistant Professor
+
++91-512-259-2203 (O)
+https://home.iitk.ac.in/~rajeshr/
+
+Research Interests: Turbomachinery Flows, Applied Aerodynamics, Stability & Flow Control, Transition and Relaminarization, High Performance Computing
+
+Rakesh Kumar, Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+https://home.iitk.ac.in/~rkm
+
+Research Interests: Hypersonics, Rarefied Gas Dynamics, Microfluidics, Molecular Dynamics, Heat Transfer & Thermal Design
+
+Sanjay Kumar, Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > aero thermodynamics and thermal sciences faculty]
++91-512-2596768
+
+Research Interests: Fluid Mechanics - bluff body wakes, shock-accelerated flows, shock waves, shock tubes
+
+Sathesh Mariappan, Associate Professor
+
++91-512-259-6331 (O)
+https://sites.google.com/view/sathesh-mariappan/
+
+Research Interests: Fundamentals of thermoacoustic interactions, Application of dynamical systems' theory to thermo fluid systems, Optical flow diagnostics, Acoustic measurements
+
+Vaibhav Arghode, Assistant Professor
+
++91-512-259-6294 (O)
+https://sites.google.com/view/varghode
+
+Research Interests: Combustion, Heat Transfer, Fluid Mechanics, Experimental Methods, Computational Fluid Dynamics
+
+D. Chaitanya Kumar Rao, Assistant Professor
+
++91-512-259-2338 (O)
+https://chaitanyarao.in/
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > aero thermodynamics and thermal sciences faculty]
+Research Interests: Evaporation and combustion of fuel droplets, Laser-induced evaporation and atomization of droplets, Pulse laser-induced atomization of droplets, Femtosecond laser-induced bubble dynamics
+
+Tufan Kumar Guha, Assistant Professor
+
++91-512-2592352
+https://sites.google.com/view/eag-iitk-ae/
+
+Research Interests: Experimental Aerodynamics and Fluid Mechanics, Active and Passive Flow Control
+
+=== aerodynamics faculty ===
+Source: https://www.iitk.ac.in/aero/aerodynamics-faculty
+Alakesh Chandra Mandal, Professor
+
++91-512-259-7062 (O)
+
+Research Interests: Experimental aerodynamics, Flow instability and transition, Turbulent shear flows
+
+Arnab Samanta, Associate Professor
+
++91-512-259-2182 (O)
+https://sites.google.com/view/fpcal
+
+Research Interests: Fluid mechanics, aeroacoustics, hydrodynamic stability, wave mechanics, flow control
+
+Debopam Das, Professor
+
++91-512-259-7227 (O)/ 8578 (R)
+https://home.iitk.ac.in/~das
+
+Research Interests: Theoretical and Experimental Fluid Dynamics, Aeroacoustics, Instability & transition, Vortex Dynamics. Unsteady Aerodynamics, Bird's and Insect's Flight
+
+Kamal Poddar, Professor
+
++91-512-2597293, 7843 (O)/ 8723 (R)
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > aerodynamics faculty]
+Research Interests: Aerodynamics, Turbulence, Low and High Speed Flows
+
+Arun Kumar Perumal, Associate Professor
+
++91-512-259-2155 (O)
+
+Mohammed Ibrahim Sugarno, Associate Professor
+
++91 512-2596345 (O)
+
+Research Interests: Experimental Hypersonic Aerothermodynamics, High Enthalpy Test Facilities, Shock Waves
+
+Navrose, Assistant Professor
+
+0512 259 2022 (Office – 1st Floor, Helicopter Building)
+
+Research Interests: Fluid Mechanics, Aerodynamics, Fluid-Structure Interaction, Optimization, Computational Fluid Dynamics.
+
+Pradeep Moise, Assistant Professor
+
+0512-259-2347 (O)
+https://www.pradeepmoise.com/
+
+Research Interests: Computational fluid dynamics, swirling flows, transonic flows, hydrodynamic stability, modal decomposition
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > aerodynamics faculty]
+Rakesh Kumar, Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+https://home.iitk.ac.in/~rkm
+
+Sanjay Mittal, Professor
+
++91-512-2597906, 6603 (O)/ 8702, 1132 (R)
+https://home.iitk.ac.in/~smittal
+
+Research Interests: Aerodynamics, CFD, FEM
+
+Sanjay Kumar, Professor
+
++91-512-2596768
+
+Tufan Kumar Guha, Assistant Professor
+
++91-512-2592352
+
+=== computational mechanics faculty ===
+Source: https://www.iitk.ac.in/aero/computational-mechanics-faculty
+Arnab Samanta, Associate Professor
+
++91-512-259-2182 (O)
+https://sites.google.com/view/fpcal
+
+Ashoke De, Professor
+
++91-512-259-7863 (O) / 8301 (R)
+https://home.iitk.ac.in/~ashoke
+
+Research Interests: CFD, High Speed Flows, Flow-Acoustics Coupling, Fluid-Structure Interaction, Turbulence Modeling, Multiphase flows and Combustion, Energy Harvesting
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+https://home.iitk.ac.in/~shekhar
+
+Research Interests: Solid Mechanics, Adaptive Finite Element Methods, Structural Optimization
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+https://home.iitk.ac.in/~mohite
+
+Research Interests: Damage Mechanics of Laminated Composites, Composites, Finite Element Analysis
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > computational mechanics faculty]
+Pritam Chakraborty, Associate Professor
+
++91-512-259-7951 (O)
+https://home.iitk.ac.in/~cpritam/
+
+Research Interests: Mesoscale mechanics for plasticity, fatigue, creep and fracture; FEM; Multi-scale methods
+
+Tanmoy Mukhopadhyay, Assistant Professor
+
++91-512-679-2092 (O)
+https://www.tmukhopadhyay.com/
+
+Research Interests: Mechanical metamaterials, Advanced composites, Deployable materials and structures, 2D materials and heterostructures, Multi-scale mechanics (nano to macro), Stochastic analysis, Uncertainty quantification and reliability analysis, Surrogate modelling, Machine learning, Artificial intelligence, Additive manufacturing
+
+Sanjay Mittal, Professor
+
+https://home.iitk.ac.in/~smittal
+
+Pradeep Moise, Assistant Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > computational mechanics faculty]
+0512-259-2347 (O)
+https://www.pradeepmoise.com/
+
+=== current post docs ===
+Source: https://www.iitk.ac.in/aero/current-post-docs
+Abhinesh Kumar
+
+Anup Kumar Pathak
+
+Arijit Bhattacharya
+
+Magan Singh
+
+Vikas Sharma
+
+Santosh Kumar Dasila
+
+Srinivasa Rao Lavala
+
+=== distinguished alumni ===
+Source: https://www.iitk.ac.in/aero/distinguished-alumni
+Some Prominent Alumni
+
+NAME | BATCH | ORGANISATION | DESIGNATION |
+
+N G R Iyengar |
+1971 |
+Jain University, Bangalore |
+Pro Vice Chancellor, Director, IIAEM |
+
+Tonse Gokuldas Pai |
+1972 |
+IIT Kanpur |
+Former Visiting Professor. |
+
+Ajay Kumar |
+1974 |
+NASA Langley Research Centre |
+Distinguished Research Associate |
+
+S Narayanan |
+1975 |
+IIT Madras |
+Professor |
+
+Dayanand Yadav |
+1977 |
+IIT Kanpur |
+Professor |
+
+Ex-M.tech students
+
+NAME | BATCH | ORGANISATION | DESIGNATION |
+
+Kunwar Pal Singh |
+1973 |
+ADA |
+Group Director (ARD) |
+
+Vinay Prakash Mathur |
+1976 |
+HAL |
+General Manager |
+
+Suresh Menon |
+1978 |
+HAL |
+Deputy General Manager |
+
+Sudhir Kamle |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > distinguished alumni]
+1979 |
+IIT KANPUR |
+Professor |
+
+K Chandrashekhara |
+1979 |
+University of Missouri |
+Professor |
+
+Satish Kumar |
+1982 |
+DRDL |
+Director-Hypersonic Test vehicle |
+
+T Jayachandran |
+1983 |
+VSSC, Trivandram |
+Head |
+
+Narendra Kumar Arya |
+1990 |
+DRDO |
+Scientific Adviser to Chief of the Air Staff |
+
+Ex-B.tech students
+
+NAME | BATCH | ORGANISATION | DESIGNATION |
+
+Amar Chand Garg |
+1966 |
+Boeing |
+Senior Engineer |
+
+Satendra Singh |
+1968 |
+Civil Aviation Department |
+Director General |
+
+Rajiv Shivpuri |
+1972 |
+The Ohio State University |
+Professor |
+
+Sidh Nath Singh |
+1975 |
+IIT Delhi. |
+Professor |
+
+Suresh Menon |
+1976 |
+Georgia Institute of Technology |
+Professor |
+
+Adalat Ali |
+1979 |
+DRDO |
+Project Director |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > distinguished alumni]
+Anil Enoch Deane |
+1979 |
+University of Maryland |
+Professor |
+
+Vedula Muralidhar Murti |
+1979 |
+University of Wisconsin-Milwaukee |
+Professor |
+
+Subroto Kumar Banerjee |
+1980 |
+Air India |
+Deputy General Manager -Engg. |
+
+Rajiv Singh Chowdhry |
+1983 |
+Lockheed Martin Skunk Works |
+
+Alok Kumar |
+1987 |
+Planning Commission, India |
+Deputy Director General |
+
+Rajat Mittal |
+1989 |
+The George Washington University |
+Professor |
+
+Entrepreneurship
+
+IITK has its own incubation Centre for budding entrepreneurs Several Aerospace motivated ventures started:
+
+Whirly Bird
+
+Aurora
+
+Rotaviolabs
+
+Autobirdz
+
+Transoft
+
+=== faculty ===
+Source: https://www.iitk.ac.in/aero/faculty
+Alakesh Chandra Mandal, Professor
+
++91-512-259-7062 (O)
+Homepage
+
+Arnab Samanta, Associate Professor
+
++91-512-259-2182 (O)
+Homepage
+
+Arun Kumar Perumal, Associate Professor
+
++91-512-259-2155 (O)
+Homepage
+
+Debopam Das, Professor
+
++91-512-259-7227 (O)/ 8578 (R)
+Homepage
+
+Kamal Poddar, Professor
+
++91-512-2597293, 7843 (O)/ 8723 (R)
+Homepage
+
++91 512-2596345 (O)
+Homepage
+
+Navrose, Associate Professor
+
+Homepage
+
+Pradeep Moise, Assistant Professor
+
+0512-259-2347 (O)
+Homepage
+
+Rakesh Kumar, Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+Homepage
+
+Sanjay Mittal, Professor
+
+Homepage
+
+Sanjay Kumar, Professor & Head
+
++91-512-2596768
+Homepage
+
+Tufan Kumar Guha, Assistant Professor
+
++91-512-2592352
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
+Homepage
+
+Ashish Tewari, Professor
+
++91-512-2597868 (O) / 8499 (R)
+Homepage
+
+Research Interests: Flight Mechanics, Control, Aeroservoelasticity, Unsteady Aerodynamics, Space Dynamics
+
+Dipak Kumar Giri, Associate Professor
+
++91-512-259 7107
+Homepage
+
+Research Interests: Linear and nonlinear controls for aerospace systems (flight vehicle), Satellite Attitude Dynamics and Control.
+
+Rachana Agrawal, Assistant Professor
+
++91-512-259 2091 (Office: HB-206)
+Homepage
+
+Research Interests: Space mission design; Planetary mission architectures; Astrodynamics; Space systems design and development; Systems engineering; Entry, descent, and landing (EDL); Small spacecraft technology
+
+Raghavendra P. Kukillaya, Assistant Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
+6706 (Office, HSAL-02)
+Homepage
+
+Research Interests: Aircraft and Airship dynamics and control, Systems modeling, simulation and design, Optimal control, Biomechanics
+
+Subrahmanyam Saderla, Associate Professor
+
+0512-259-2009 (Office, HSAL-05)
+Homepage
+
+Research Interests: Real Time Aircraft Parameter Estimation, Aerodynamic Characteristics of UAVs using flight testing methods, Aircraft Instrumentation and Control, Aircraft/UAV Simulations and Simulator development, Unmanned Aerial Vehicle Design, Experimental Flight Dynamics, Drone Design and Development, AI based controller design for UAVs, Controller reconfiguration of UAVs using online system identification
+
+Abhishek, Professor
+
++91-512-259-7515 (O), 6259 (L)
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
+Homepage
+
+Research Interests: Rotary Wing Aeromechanics, Hover Capable Unmanned Air Vehicles (UAV), System Identification, Multibody Dynamics, Inverse Flight Dynamics Simulation for Helicopters, VTOL, Helicopter Design
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+Homepage
+
+G.M.Kamath, Professor
+
++91-512-259-6614 (w)
+Homepage
+
+Research Interests: Structural Health Monitoring, Composite Materials and Structures, Structural Dynamics, Condition Monitoring, Machine Learning, Aeroelasticity
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+Homepage
+
+Pritam Chakraborty, Professor
+
++91-512-259-7951 (O)
+Homepage
+
+Rajesh Kitey, Professor
+
++91-512-259-7060 (O) / 7853 (L) / 8898 (R)
+Homepage
+
+Research Interests: Solid Mechanics, Fracture Mechanics, Experimental Stress Analysis, Optical Metrology, Mechanics of Thin Films, Composite Materials, Finite Element and Boundary Element Methods
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
+Tanmay Dutt Mathur, Assistant Professor
+
++91-512-259-2398
+Homepage
+
+Research Interests: Rotorcraft and aeroengine gearboxes, rotordynamics of turbomachinery, design of rotating mechanical systems, tribology and lubrication.
+
+Abhijit Kushari, Professor
+
++91-512-2597126 (O) / 8536 (R)
+Homepage
+
+Ajay Vikram Singh, Associate Professor
+
++91-512-2592006 (O)
+Homepage
+
+Ashoke De, Professor
+
++91-512-259-7863 (O) / 8301 (R)
+Homepage
+
++91-512-259-2338 (O)
+Homepage
+
+Research Interests: Atomization, Laser-fluid interaction, Combustion, Drops & Bubbles
+
+D. P. Mishra, Professor
+
++91-512-2597125 (O) / 8695 (R)
+Homepage
+
+Research Interests: Combustion, CFD of Chemically Reacting Flows, Propulsion, Heat Transfer
+
+Rajesh Ranjan, Associate Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
++91-512-259-2203 (O)
+Homepage
+
+Sathesh Mariappan, Professor
+
++91-512-259-6331 (O)
+Homepage
+
+Vaibhav Arghode, Professor
+
++91-512-259-6294 (O)
+Homepage
+
+Arnab Samanta, Associate Professor
+
++91-512-259-2182 (O)
+Homepage
+
+Ashoke De, Professor
+
++91-512-259-7863 (O) / 8301 (R)
+Homepage
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+Homepage
+
+Pradeep Moise, Assistant Professor
+
+0512-259-2347 (O)
+Homepage
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+Homepage
+
+Pritam Chakraborty, Professor
+
++91-512-259-7951 (O)
+Homepage
+
+Sanjay Mittal, Professor
+
+Homepage
+
+Abhijit Kushari, Professor
+
++91-512-2597126 (O) / 8536 (R)
+Homepage
+
+Ajay Vikram Singh, Associate Professor
+
++91-512-2592006 (O)
+Homepage
+
+Arun Kumar Perumal, Associate Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > faculty]
++91-512-259-2155 (O)
+Homepage
+
++91-512-259-2338 (O)
+Homepage
+
+Research Interests: Atomization, Laser-fluid interaction, Combustion, Drops & Bubbles
+
+Rajesh Ranjan, Associate Professor
+
++91-512-259-2203 (O)
+Homepage
+
+Rakesh Kumar, Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+Homepage
+
+Sanjay Kumar, Professor & Head
+
++91-512-2596768
+Homepage
+
+Sathesh Mariappan, Professor
+
++91-512-259-6331 (O)
+Homepage
+
+Tufan Kumar Guha, Assistant Professor
+
++91-512-2592352
+Homepage
+
+Vaibhav Arghode, Professor
+
++91-512-259-6294 (O)
+Homepage
+
+=== flight mechanics control faculty ===
+Source: https://www.iitk.ac.in/aero/flight-mechanics-control-faculty
+Ashish Tewari, Professor
+
++91-512-2597868 (O) / 8499 (R)
+https://home.iitk.ac.in/~ashtew
+
+Dipak Kumar Giri, Assistant Professor
+
++91-512-259 7107
+https://sites.google.com/view/dipakgiri
+
+Mangal Kothari, Professor
+
+0512-259-6104 (O)/ 5623 (H)
+https://home.iitk.ac.in/~mangal/
+
+Research Interests: Optimal Control, Nonlinear and Adaptive Control, Flight Vehicle Guidance and Control, State Estimation, Motion Planning and Cooperative Control
+
+6706 (Office, HSAL-02)
+
+Subrahmanyam Saderla, Assistant Professor
+
+0512-259-2009 (Office, HSAL-05)
+https://home.iitk.ac.in/~saderlas/
+
+Research Interests:
+
+Real Time Aircraft Parameter Estimation
+
+Aerodynamic Characteristics of UAVs using flight testing methods
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > flight mechanics control faculty]
+Aircraft Instrumentation and Control
+
+Aircraft/UAV Simulations and Simulator development
+
+Unmanned Aerial Vehicle Design
+
+Experimental Flight Dynamics
+
+Drone Design and Development
+
+AI based controller design for UAVs
+
+Controller reconfiguration of UAVs using online system identification
+
+=== former faculty ===
+Source: https://www.iitk.ac.in/aero/former-faculty
+Here are brief details for IIT Kanpur's Aerospace Engineering department former faculty who have helped establish the strong reputation enjoyed by the department
+
+A. K. Ghosh, Professor & Former Head
+
++91-512-2597716 (O) / 8221 (R)
+https://home.iitk.ac.in/~akg/
+
+Research Interests
+Flight Mechanics, Parameter Estimation from flight images, Neural modeling Design of Air Borne stores: Aircraft Bombs, Artillery shells and Rockets Design of Control law of guided missiles
+
+Dr. S. Kamle, Professor and Former Head
+
++91-512-2597689 (O) / 8619 (R)
+https://home.iitk.ac.in/~kamle
+
+Research Interests
+Experimental Stress Analysis, Smart Materials
+
+Dr. Tapan K. Sengupta, Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > former faculty]
++91-512-2597945, 7253 (O)/ 8482 (R)
+https://spectral.iitk.ac.in/hpcl/
+
+Research Interests
+Transition and Turbulence, CFD, Aerodynamics
+
+Dr. E. Rathakrishnan, Professor
+
++91-512-2597847 (O) / 8522(R)
+https://home.iitk.ac.in/~erath
+
+Research Interests
+Fluid Mechanics, Gas Dynamics, Applied Gas Dynamics, Experimental Techniques in Fluid Mechanics
+
+Dr. C. Venkatesan, Professor and Former Head
+
++91-512-2597284 (O) / 8466 (R)
+https://home.iitk.ac.in/~cven
+
+Research Interests
+Helicopter Dynamics and Aeroelasticity
+
+Dr. A. K. Gupta, Professor and Former Head
+
+Dr. Krishna Kumar, Professor and Former Head
+
+Dr. Kunal Ghosh, Professor and Former Head
+
+Dr. N. C. Nigam, Professor and Former Head
+
+Dr. N. G. R. Iyengar, Professor and Former Head
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > former faculty]
+Dr. N. L. Arora, Professor and Former Head
+
+Dr. R. K. Sullery, Professor and Former Head
+
+Dr. V. K. Gupta
+
+Dr. Vijay Gupta, Professor and Former Head
+
+Dr. A.C. Jain
+
+Dr. C.S. Moorthy
+
+Dr. C. V. R. Murthy
+
+Dr. D Yadav
+
+Dr. Noor Afzal
+
+Dr. O.P. Sharma, Professor and Former Head
+
+Dr. P.N. Murty, Professor and Former Head
+
+Dr. R.N. Gupta
+
+Dr. S. Narayanan
+
+Homepage
+
+Research Interests
+Area of nonlinear vibrations
+
+Dr. S Pradeep
+
+Dr. T.K. Srikantiah
+
+Dr. S.C. Raisinghani
+
+Dr. Pandiyan
+
+Dr. Holt Ashley, Professor and Former Head
+
+Dr. S.M. Ramachandra, Professor and Former Head
+
+Dr. Murali Damodaran
+Appointed as Visiting Professor at IIT Kanpur
+
+Dr. V. K. Saraswat
+Appointed as Distinguished Honorary Professor at IIT Kanpur
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > former faculty]
+Dr. P.D. Mangalgiri
+
+Appointed as Visiting Professor at IIT Kanpur
+
+=== former post docs ===
+Source: https://www.iitk.ac.in/aero/former-post-docs
+Anurag Mishra
+
+Md. Arzoo Jamal
+
+Dr. Atul Kumar Soti
+(currently Assistant Professor at ME, IIT Guwahati, India)
+
+Gannena K S Raghuram
+
+Gulshan Kumar Sinha
+
+Md Gulam Sarwar
+
+Dr. Naine Tarun Bhagat
+
+Dr. Karthikeyan K
+
+Dr. Soumya Ranjan Nanda
+
+=== information for prospective faculty ===
+Source: https://www.iitk.ac.in/aero/information-for-prospective-faculty
+The Department of Aerospace Engineering at IIT-Kanpur is looking for faculty applicants at all levels in all traditional areas of Aerospace Engineering (Propulsion, Structures, Flight Mechanics & Aerodynamics). Applicants are expected to participate in research activities and contribute to teaching at undergraduate and postgraduate levels. Interested applicants with excellent academic record are requested to send their complete curriculum vitae (including a full list of publications, and reprints of significant papers) with names of three referees to:
+
+Sanjay Kumar, Professor & Head
+Department of Aerospace Engineering, IIT Kanpur
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > information for prospective faculty]
+Kanpur-208 016, UP (India)
+
+For further information, please check DOFA site.
+
+=== pg current students ===
+Source: https://www.iitk.ac.in/aero/pg-current-students
+BT-MT Dual
+
+S.No. | Roll No. | Name of Student | Program | Financial Status | Specialization | Thesis Supervisor | Co-Supervisor |
+
+1 |
+13807029 |
+Abhishek Kulkarni |
+BT-MT dual |
+Institute |
+Structures |
+C.S. Upadhyay |
+
+2 |
+13807083 |
+Aman Chaudhary |
+BT-MT dual |
+
+3 |
+13807101 |
+Amit Kumar Singh |
+BT-MT dual |
+Institute |
+Aerodynamics |
+R.K. Mathpal |
+
+4 |
+13807161 |
+Ashutosh Dubey |
+BT-MT dual |
+Institute |
+Aerodynamics |
+Dr. S Mittal |
+
+5 |
+13807171 |
+Atul Jain |
+BT-MT dual |
+Institute |
+Structures |
+C.S. Upadhyay |
+Rajesh Kitey |
+
+6 |
+13807343 |
+Kaustubh Mahendra Hirve |
+BT-MT dual |
+Aerodynamics |
+E. Rathakrishnan |
+
+7 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+13807345 |
+Keshav Kant |
+BT-MT dual |
+Self Sponsored |
+Propulsion |
+Dr. D.P. Mishra |
+
+8 |
+13807419 |
+Naman Jain |
+BT-MT dual |
+Institute |
+Propulsion |
+Vaibhav Arghode |
+
+9 |
+13807437 |
+Nikhil Nayak |
+BT-MT dual |
+Institute |
+Propulsion |
+Vaibhav Arghode |
+
+10 |
+13807466 |
+Patrikar Jay Sanjay |
+BT-MT dual |
+Institute |
+Flight Mechanics |
+Mangal Kothari |
+
+11 |
+13807489 |
+Pranab Kumar Prusty |
+BT-MT dual |
+Institute |
+Flight Mechanics |
+Mangal Kothari |
+
+12 |
+13807641 |
+Shahrukh Khan |
+BT-MT dual |
+Institute |
+Flight Mechanics |
+Ashish Tewari |
+
+13 |
+13807656 |
+Shiva Kumar Gopu |
+BT-MT dual |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+14 |
+13807713 |
+Sritay Mistry |
+BT-MT dual |
+Self Sponsored |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Aerodynamics |
+R.K. Mathpal |
+
+15 |
+13807751 |
+Ujagar Negi |
+BT-MT dual |
+Aerodynamics |
+Sanjay Mittal |
+
+16 |
+13907155 |
+Ashish Kumar Tomer |
+BT-MT dual |
+Institute |
+Structures |
+Dr. Abhishek |
+
+17 |
+14098 |
+Animesh Kumar Shastry |
+BT-MT dual |
+Flight Mechanics |
+Mangal Kothari |
+
+18 |
+14162 |
+Ayush Goel |
+BT-MT dual |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+Dr. Rajesh Kitey |
+
+19 |
+14386 |
+Mendu Rama Krishna |
+Structures |
+Dr. Abhishek |
+
+20 |
+14520 |
+Rahul Kumar (S/O B K Singh) |
+Propulsion |
+Dr. Vaibhav Arghode |
+Dr. Ajay Vikram Singh |
+
+21 |
+14810 |
+Vishal Baburao Khairnar |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+M.Tech
+
+S.No. | Roll No. | Name of Student | Program | Financial Status | Specialization | Thesis Supervisor | Co-Supervisor |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+1 |
+16101001 |
+Anil Kumar Murlidhar |
+M.Tech |
+Institute |
+Structures |
+Dr. P.M. Mohite |
+Dr. C.S. Upadhyay |
+
+2 |
+16101002 |
+Anjani Kumar |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. A.C. Mandal |
+
+3 |
+16101003 |
+Arpit Tiwari |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+4 |
+16101005 |
+Avinash Shet |
+M.Tech |
+Institute |
+Structures |
+Dr. G.M. Kamath |
+
+5 |
+16101006 |
+Bhanuday Sharma |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+
+6 |
+16101007 |
+Boomadevi S |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Abhijeet Kushari |
+
+7 |
+16101008 |
+Ch V S Nagarjun |
+M.Tech |
+Institute |
+Structures |
+Dr. P.M. Mohite |
+
+8 |
+16101009 |
+Deepak Patidar |
+M.Tech |
+Institute |
+Aerodynamics |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. T.K. Sengupta |
+
+9 |
+16101011 |
+Diksha Aggarwal |
+M.Tech |
+Institute |
+Structures |
+Dr. Abhishek |
+Dr. Debopam Das |
+
+10 |
+16101012 |
+Dipan Deb |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+11 |
+16101014 |
+Japneet Singh |
+M.Tech |
+Institute |
+Structures |
+Dr. P.M. Mohite |
+Dr. C.S. Upadhyay |
+
+12 |
+16101016 |
+Jyotshna Bali |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Debopam Das |
+Dr. Abhishek |
+
+13 |
+16101017 |
+Karthik M |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Debopam Das |
+
+14 |
+16101019 |
+Madhusudhanan.U |
+M.Tech |
+Institute |
+Structures |
+Dr. Rajesh Kitey |
+
+15 |
+16101020 |
+Manish Kumar |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. A.C. Mandal |
+
+16 |
+16101021 |
+Mitanjali |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+M.Tech |
+Institute |
+Propulsion |
+Dr. Vaibhav Arghode |
+
+17 |
+16101023 |
+Netrapal Singh |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+
+18 |
+16101024 |
+Parneeth Lokini |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Abhijeet Kushari |
+
+19 |
+16101025 |
+Peddakotla Sai Abhishek |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+
+20 |
+16101027 |
+Pooja Nema |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Abhijeet Kushari |
+
+21 |
+16101028 |
+Prajna Parimita Behera |
+M.Tech |
+Institute |
+Structures |
+Dr. C.S. Upadhyay |
+Dr. C. Venkatesan |
+
+22 |
+16101029 |
+Prasannabalaji S |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+
+23 |
+16101031 |
+Pratik Sarkar |
+M.Tech |
+Institute |
+Structures |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. Pritam Chakraborty |
+Dr. C.S. Upadhyay |
+
+24 |
+16101032 |
+Prince Agrawal |
+M.Tech |
+Institute |
+Structures |
+Dr. Sudhir Kamle |
+
+25 |
+16101033 |
+Raghavendra Naidu S |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+26 |
+16101034 |
+Rahul Ranjan |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+27 |
+16101035 |
+Raj Kumar Yadav |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+28 |
+16101036 |
+Rajkumar Sharma |
+M.Tech |
+Institute |
+Structures |
+Dr. P.M. Mohite |
+Dr. Abhishek |
+
+29 |
+16101038 |
+Samiksha Rajkumar Nagrare |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Raghavendra P. K. |
+
+30 |
+16101039 |
+Shamini R |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+
+31 |
+16101041 |
+Shiva Barpete |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+32 |
+16101042 |
+Shubham Srivastava |
+M.Tech |
+Institute |
+Structures |
+Dr. G.M. Kamath |
+
+33 |
+16101043 |
+Shubhankar Shobhit |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+34 |
+16101046 |
+Sivakumar |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+35 |
+16101048 |
+Sooriyan S |
+M.Tech |
+Institute |
+Structures |
+Dr. Rajesh Kitey |
+
+36 |
+16101051 |
+Syeda Afreen |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+37 |
+16101052 |
+Thiruvickraman J |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Abhijeet Kushari |
+
+38 |
+16101053 |
+Vikram Yellasiri |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+
+39 |
+16101054 |
+Vishesh Kumar Singh |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+40 |
+16101056 |
+Abbishek G |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+Dr. Kamal Poddar |
+
+41 |
+16101057 |
+Anubhav Mishra |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+42 |
+16101058 |
+Ashita Pravallika Paipuri |
+M.Tech |
+Institute |
+Structures |
+Dr. Sudhir Kamle |
+Dr. Raghavendra P. K. |
+
+43 |
+16101060 |
+Ashwini Nathurao Arekar |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+44 |
+16101061 |
+Ritesh Kumar Halder |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari |
+
+45 |
+16101062 |
+Sakshi Gupta |
+M.Tech |
+Institute |
+Structures |
+Dr. Abhishek |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. Debopam Das |
+
+46 |
+16101063 |
+Salahudden |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. A.K. Ghosh |
+
+47 |
+16101064 |
+Sanjeev S.S |
+M.Tech |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+48 |
+16101065 |
+Shrikant Sharma |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+49 |
+16101018 |
+Karthik S |
+M.Tech |
+Sponsored |
+Structures |
+Dr. Abhishek |
+
+50 |
+16101022 |
+Naba Kishore Routray |
+M.Tech |
+Sponsored |
+Structures |
+Dr. Abhishek |
+Dr. Pankaj Wahi |
+
+51 |
+16101026 |
+Piyush Chettri |
+M.Tech |
+Defence |
+Propulsion |
+Dr. Ashoke De |
+
+52 |
+16101013 |
+Inderjeet Singh |
+M.Tech |
+Defence |
+Flight Mechanics and Control |
+Dr. A.K. Ghosh |
+
+53 |
+16101037 |
+Sajag Poudel |
+M.Tech |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Foreign Nationals |
+Aerodynamics |
+Dr. Debopam Das |
+
+54 |
+16101059 |
+Yared Girma |
+M.Tech |
+Foreign Nationals |
+Propulsion |
+Dr. D.P. Mishra |
+
+55 |
+17101001 |
+Abhishek Kumar Singh |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari |
+
+56 |
+17101002 |
+Ajeet Kumar Yadav |
+M.Tech |
+Institute |
+Structures |
+Dr. G.M. Kamath |
+
+57 |
+17101004 |
+Akhshaya P |
+M.Tech |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+
+58 |
+17101005 |
+Akshay Kumar Sharma |
+M.Tech |
+Institute |
+Structures |
+Dr. Abhishek |
+
+59 |
+17101006 |
+Amit Kumar |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+60 |
+17101008 |
+Amit Kumar Gond |
+M.Tech |
+Institute |
+Structures |
+Dr. C.S. Upadhyay |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+61 |
+17101011 |
+Arpit Chaudhary |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+62 |
+17101013 |
+Arvind Bharath S R |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+63 |
+17101014 |
+Ashish Kumar Verma |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Ibrahim S. |
+
+64 |
+17101015 |
+Ashutosh Kumar |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Vaibhav Arghode |
+
+65 |
+17101016 |
+Balachandar D |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari |
+
+66 |
+17101018 |
+Basab Adhyapak |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari |
+
+67 |
+17101019 |
+Chikkam Navya Geethika |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+68 |
+17101020 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Chitransh Bhatia |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Ibrahim S. |
+
+69 |
+17101022 |
+Gaddam Venkata Narendra |
+M.Tech |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+70 |
+17101023 |
+Gaurav Kumar Upadhyay |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+71 |
+17101024 |
+Hankare Priyanka Rajaram |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+72 |
+17101025 |
+Keesanth Singh C |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+73 |
+17101029 |
+Mainak Hore |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+74 |
+17101030 |
+Mohammad Amir |
+M.Tech |
+Institute |
+Structures |
+Dr. Sudhir Kamle |
+
+75 |
+17101031 |
+Mohit Singh |
+M.Tech |
+Institute |
+Propulsion |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. Vaibhav Arghode |
+Dr. R.K. Mathpal |
+
+76 |
+17101033 |
+Parikh Deep Jagdishchandra |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. Ashish Tewari |
+
+77 |
+17101035 |
+Raghav Sood |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Vaibhav Arghode |
+
+78 |
+17101036 |
+Rahul Singh |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+
+79 |
+17101037 |
+Rahul Yadav |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+80 |
+17101038 |
+Rajbhan Kushwaha |
+M.Tech |
+Institute |
+Flight Mechanics and Control |
+Dr. A.K. Ghosh |
+
+81 |
+17101040 |
+Ranjit Dinkar Patil |
+M.Tech |
+Institute |
+Structures |
+Dr. P.M. Mohite |
+
+82 |
+17101041 |
+Rishu Gupta |
+M.Tech |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. Rajesh Kitey |
+
+83 |
+17101042 |
+Rohit Panthi |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Ibrahim S. |
+
+84 |
+17101043 |
+Sathya Prakash V R |
+M.Tech |
+Institute |
+Structures |
+Dr. G.M. Kamath |
+
+85 |
+17101044 |
+Shiv Kumar |
+M.Tech |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+86 |
+17101046 |
+Shubham Onave |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+Dr. Ajay Vikram Singh |
+
+87 |
+17101047 |
+Sitaram Meena |
+M.Tech |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+88 |
+17101050 |
+Yuvraj |
+M.Tech |
+Institute |
+Aerodynamics |
+Dr. Sanjay Mittal |
+
+89 |
+17101034 |
+Pawan Kumar |
+M.Tech |
+Defence |
+Flight Mechanics and Control |
+Dr. A.K. Ghosh |
+
+M.S.(Research)
+
+S.No. | Roll No. | Name of Student | Program | Financial Status | Specialization | Thesis Supervisor | Co-Supervisor | Research Area |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+1
+
+17201401
+
+A Shivnag Sharma
+
+M.S.(Research)
+
+Institute
+
+Structures
+
+Dr. Pritam Chakraborty
+
+Dr. Rajesh Kitey
+
+2
+
+17201402
+
+Abhinandan Singh
+
+M.S.(Research)
+
+Institute
+
+Propulsion
+
+Dr. Ajay Vikram Singh
+
+3
+
+17201403
+
+Jitu Sanwale
+
+M.S.(Research)
+
+Sponsored
+
+Flight Mechanics and Control
+
+Dr. Mangal Kothari
+
+4
+
+17201404
+
+Siva Viknesh S
+
+M.S.(Research)
+
+Project
+
+Aerodynamics
+
+Dr. K. Poddar
+
+5
+
+17201405
+
+Thakor Miteshkumar Manojsinh
+
+M.S.(Research)
+
+Project
+
+Propulsion
+
+Dr. Ashoke De
+
+6
+
+17201406
+
+Vivek S
+
+M.S.(Research)
+
+Institute
+
+Propulsion
+
+Dr. Ashoke De
+
+Ph.D
+
+S.No. | Roll No. | Name of Student | Program | Financial Status | Specialization | Thesis Supervisor | Co-Supervisor | Research Area |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+1 |
+Y8101061 |
+Assiz M P |
+PhD |
+External |
+Propulsion |
+Dr. D.P. Mishra |
+
+2 |
+Y9101064 |
+K R Prashanth |
+PhD |
+External |
+Structures |
+Dr. C. Venkatesan |
+
+3 |
+Y9201062 |
+Kuchimanchi K Bharadwaj |
+PhD |
+Project |
+Aerodynamics |
+Dr. Debopam Das |
+
+4 |
+10101061 |
+Anshul Khandelwal |
+PhD |
+Part Time |
+Aerodynamics |
+Dr. K. Poddar |
+Dr. Debopam Das |
+Experimental investigations of flow over an airfoil oscillating in pitching motion |
+
+5 |
+10101062 |
+Avinash Nayak |
+PhD |
+Project |
+Aerodynamics |
+Dr. Debopam Das |
+
+6 |
+11101061 |
+Ajit Kumar |
+PhD |
+External |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+
+7 |
+11101064 |
+Keerthi M C |
+PhD |
+Project |
+Propulsion |
+Dr. A Kushari |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Aerodynamics Of Oscillating Compressor Cascades |
+
+8 |
+11201061 |
+David Kumar |
+PhD |
+Project |
+Structures |
+Dr. S.Kamle |
+Dr. P.M.Mohite |
+Development and Aerostructural Analysis of Bioinspired Flapping Wings |
+
+9 |
+12101062 |
+Anuj Bajpai |
+PhD |
+Institute |
+Aerodynamics |
+Dr. E Rathakrishnan |
+
+10 |
+12101064 |
+Joydeep Bhowmik |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Debopam Das |
+
+11 |
+12101066 |
+Rahul Kumar Soni |
+PhD |
+Project |
+Propulsion |
+Dr. Ashoke De |
+
+12 |
+12101067 |
+S M Aravindh Kumar |
+PhD |
+Self |
+Aerodynamics |
+Dr. E Rathakrishnan |
+
+13 |
+12101068 |
+Srihari Dinesh Kumar J |
+PhD |
+Project |
+Propulsion |
+Dr. A Kushari |
+Dr. Sathesh Mariappan |
+Active And Passive Control Of Hooting In Gas Turbine Combustors |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+14 |
+12101070 |
+V Raghavendra Prasad |
+PhD |
+Project |
+Structures |
+Dr. Abhishek |
+
+15 |
+12201061 |
+V Lokeswara Rao |
+PhD |
+External |
+Structures |
+Dr. C. Venkatesan |
+
+16 |
+12201065 |
+Vivek Kumar |
+PhD |
+Institute |
+Aerodynamics |
+Dr. K. Poddar |
+Dr. Alakesh C Mandal |
+Experimental Study Of The Complex Vortical Flow Structures Over A Flying Wing Configuration |
+
+17 |
+12201066 |
+Arun Raj S R |
+PhD |
+External |
+Structures |
+Dr. C.S.Upadhyay |
+Effect Of Voids And Its Interaction With Damage Mechanisms In Fibre Reinforced Composites. |
+
+18 |
+13101061 |
+Alok Mishra |
+PhD |
+Project |
+Propulsion |
+Dr. Ashoke De |
+
+19 |
+13101062 |
+Ambuj Srivastava |
+PhD |
+Part Time |
+Flight Mechanics and Control |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. A. K. Ghosh |
+
+20 |
+13101063 |
+Azmira Nageswar Rao |
+PhD |
+Project |
+Propulsion |
+Dr. A Kushari |
+Dr. Alakesh C Mandal |
+
+21 |
+13101067 |
+Pradeep Kumar |
+PhD |
+Project |
+Propulsion |
+Dr. Ashoke De |
+
+22 |
+13101068 |
+Puja Sunil |
+PhD |
+Institute |
+Aerodynamics |
+Dr. K. Poddar |
+Dr. Sanjay Kumar |
+
+23 |
+13101069 |
+Sagar Setu |
+PhD |
+Institute |
+Structures |
+Dr. Abhishek |
+Dr. C. Venkatesan |
+In-The-Loop Simulation For Adaptive Attitude Controller Development For A Mini Helicopter |
+
+24 |
+13101070 |
+Sarthak Sambit Singh |
+PhD |
+Institute |
+Structures |
+Dr. Rajesh Kitey |
+
+25 |
+13101071 |
+Subhabrata Koley |
+PhD |
+Institute |
+Structures |
+Dr. P.M.Mohite |
+Dr. C.S.Upadhyay |
+
+26 |
+13101072 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Swati Swarnkar |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari |
+
+27 |
+13101073 |
+Yasar Arafath U |
+PhD |
+Project |
+Aerodynamics |
+Dr. Alakesh C Mandal |
+
+28 |
+13101074 |
+Yonas Gebre Beka |
+PhD |
+Foreign National |
+Propulsion |
+Dr. A Kushari |
+Dr. Abhishek |
+
+29 |
+13201061 |
+Aalok Kumar Jha |
+PhD |
+Institute |
+Structures |
+Dr. C.S.Upadhyay |
+
+30 |
+13201063 |
+Kuldeep Kumar Dhiman |
+PhD |
+Institute |
+Structures |
+Dr. Abhishek |
+Dr. Mangal Kothari |
+Cooperative Control Of Heterogeneous Micro Aerial Vehicles |
+
+31 |
+13201064 |
+Nidhi Sharma |
+PhD |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+Time Accurate Computing Of Three-Dimensional High Speed Flows |
+
+32 |
+14101262 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Ajit Kumar |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+
+33 |
+14101263 |
+Balamurugan G |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Alakesh C Mandal |
+
+34 |
+14101264 |
+Desai Aditya S |
+PhD |
+Institute |
+Aerodynamics |
+Dr. S Mittal |
+
+35 |
+14101265 |
+Dibakar Mahalanabish |
+PhD |
+External |
+Aerodynamics |
+Dr. Debopam Das |
+Dr. Neudorfer Jonathan |
+Flow Field And Pressure Drop In A Diesel Particular Filter (Dpf): Experiments And Analytical Models |
+
+36 |
+14101266 |
+Gaurav Chopra |
+PhD |
+Institute |
+Aerodynamics |
+Dr. S Mittal |
+
+37 |
+14101267 |
+Mohd Furquan |
+PhD |
+Institute |
+Aerodynamics |
+Dr. S Mittal |
+Numerical Simulation Of Fluid Structure Interactions |
+
+38 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+14101268 |
+Nidhish raj |
+PhD |
+Institute |
+Structures |
+Dr. Abhishek |
+Dr. Mangal Kothari, Prof. Ravi N Banavar, IIT Bombay |
+
+39 |
+14101269 |
+P R Krishna Mohan |
+PhD |
+Institute |
+Structures |
+Dr. P.M.Mohite |
+Mechanical Characterization, Stiffness And Strength Prediction Of Prepreg Based Carbon/Epoxy Short Fiber Composites |
+
+40 |
+14101272 |
+Ramraj H Sundararaj |
+PhD |
+Institute |
+Propulsion |
+Dr. A Kushari |
+Effect of leading edge serrations on compressor performance |
+
+41 |
+14101273 |
+S Jawahar Sivabharathy |
+PhD |
+NWTF |
+Aerodynamics |
+Dr. S Mittal |
+
+42 |
+14101275 |
+Thyagarajan Chandra Sekar |
+PhD |
+Institute |
+Propulsion |
+Dr. A Kushari |
+Dr. Alakesh C Mandal |
+Identification of Flutter Precursor and Flutter Control |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+43 |
+14201261 |
+C. Manisankar |
+PhD |
+External |
+Aerodynamics |
+Dr. E Rathakrishnan |
+
+44 |
+14201264 |
+Maruthupandiyan k |
+PhD |
+Institute |
+Aerodynamics |
+Dr. E Rathakrishnan |
+
+45 |
+14201266 |
+Rajat Arora |
+PhD |
+Institute |
+propulsion |
+Dr. A Kushari |
+Dr. Abhishek |
+
+46 |
+14201267 |
+Sachin Shrivastava |
+PhD |
+External |
+Structures |
+Dr. P.M.Mohite |
+Dr. M.D. Limaye,DRDO |
+
+47 |
+15101261 |
+Aqib Khan |
+PhD |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+
+48 |
+15101262 |
+Dhiraj kumar |
+PhD |
+Institute |
+Aerodynamics |
+Dr. K. Poddar |
+
+49 |
+15101266 |
+Jainendra kumar |
+PhD |
+External |
+Structures |
+Dr. P.M.Mohite |
+
+50 |
+15101267 |
+K.Kishore Kumar |
+PhD |
+Institute |
+Aerodynamics |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. R.K. Mathpal |
+
+51 |
+15101268 |
+Manmohan Vishwakarma |
+PhD |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+52 |
+15101269 |
+Nitish arya |
+PhD |
+Institute |
+Propulsion |
+Dr. AShoke De |
+
+53 |
+15101270 |
+Pushpender kumar sharma |
+PhD |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+Dr. Swagata Bhaumik |
+
+54 |
+15101271 |
+R.Ragavendiran |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+Dr. Alakesh C Mandal |
+
+55 |
+15101272 |
+Ramdas |
+PhD |
+Institute |
+Structures |
+Dr. Abhishek |
+Dr. Mangal Kothari |
+
+56 |
+15101274 |
+Tulsi Ram Sahu |
+PhD |
+Institute |
+Aerodynamics |
+Dr. S Mittal |
+
+57 |
+15101275 |
+Yenike sharath chandra mouli |
+PhD |
+Institute |
+Structures |
+Dr. C.S.Upadhyay |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Dr. P.M.Mohite |
+
+58 |
+15201261 |
+Abhishek Siddhartha Bhesania |
+PhD |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+Dr. Vaibhav Arghode |
+
+59 |
+15201262 |
+Rahul R |
+PhD |
+Institute |
+Structures |
+Dr. Abhishek |
+
+60 |
+15201263 |
+Satyendra Kumar Singh |
+PhD |
+External |
+Flight Mechanics and Control |
+Dr. A. Tewari |
+Optimal control in three-body gravity field using low-thrust propulsion |
+
+61 |
+15201264 |
+Sidyant Kumar |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+Dr. Sachchidanand Tripathi |
+
+62 |
+15201265 |
+Vivek Khare |
+PhD |
+Institute |
+Structures |
+Dr. S.Kamle |
+Dr. Rajesh Kitey |
+
+63 |
+15201266 |
+Shribharath B |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. Mangal Kothari / Dr. Ishan Sharma |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+
+64 |
+15501261 |
+Deepak Kumar |
+PhD |
+Project |
+Propulsion |
+Dr. A Kushari |
+Dr. Vaibhav Arghode |
+
+65 |
+15501262 |
+Abhishek Verma |
+PhD |
+Institute |
+Propulsion |
+Dr. Vaibhav Arghode |
+
+66 |
+16101261 |
+Abraham Benjamin B |
+PhD |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+67 |
+16101262 |
+Arun Kumar C |
+PhD |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+Dr. Vaibhav Arghode |
+Development of a two-way coupled three dimensional DSMC solver for rarefied flows |
+
+68 |
+16101263 |
+Balasundaram M |
+PhD |
+Institute |
+Propulsion |
+Dr. Sathesh Mariappan |
+
+69 |
+16101264 |
+Biswajit Ghosh |
+PhD |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+Dr. Swagata Bhaumik |
+
+70 |
+16101265 |
+Emayavarman |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+PhD |
+Institute |
+Aerodynamics |
+Dr. T.K. Sengupta |
+Dr. Swagata Bhaumik |
+
+71 |
+16101266 |
+Gaurav Kumar |
+PhD |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+72 |
+16101267 |
+Manoj Kumar Singh |
+PhD |
+Institute |
+Structures |
+Dr. Rajesh Kitey |
+
+73 |
+16101268 |
+Prashant Kumar |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+Dr. Deepu Philip |
+
+74 |
+16101270 |
+Soumarup Bhattacharyya |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+75 |
+16101271 |
+Sudhakar Kumar |
+PhD |
+External |
+Structures |
+Dr. P.M.Mohite |
+Dr. C.S.Upadhyay |
+
+76 |
+16101273 |
+Vijay Shankar Dwivedi |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+Dr. G.M. Kamath |
+
+77 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+16101274 |
+Vishnu H |
+PhD |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+78 |
+16101275 |
+Semayat Fanta |
+PhD |
+Foreign National |
+Structures |
+Dr. P.M.Mohite |
+Dr. C.S.Upadhyay |
+
+79 |
+16201261 |
+Balaji J |
+PhD |
+Institute |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+Dr. Nischal K. Verma |
+
+80 |
+16201263 |
+Vipin Chandra |
+PhD |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+Dr. Rajesh Kitey |
+Investigation of Fatigue Micro-crack propagation in Ti-alloys using Digital Imaging |
+
+81 |
+16201264 |
+Yalew Mekonnen |
+PhD |
+Foreign National |
+Structures |
+Dr. G.M. Kamath |
+
+82 |
+17101261 |
+Anubha Deshpande |
+PhD |
+Institute |
+Structures |
+Dr. G.M. Kamath |
+
+83 |
+17101263 |
+Bharat Bhatia |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+PhD |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+84 |
+17101265 |
+Imran Rasheed |
+PhD |
+Institute |
+Propulsion |
+Dr. D.P. Mishra |
+
+85 |
+17101266 |
+Izhar Hussain Khan |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Sanjay Kumar |
+
+86 |
+17101267 |
+Jeetendra Kumar |
+PhD |
+Institute |
+Propulsion |
+Dr. A Kushari |
+
+87 |
+17101268 |
+Mohamed Aniffa. S |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Alakesh C Mandal |
+
+88 |
+17101269 |
+Nazim Khan |
+PhD |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+
+89 |
+17101271 |
+Satyajit De |
+PhD |
+Institute |
+Aerodynamics |
+Dr. K. Poddar |
+
+90 |
+17101272 |
+Shalvi Singh |
+PhD |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+
+91 |
+17101273 |
+Shubham |
+PhD |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+Institute |
+Propulsion |
+Dr. A Kushari |
+
+92 |
+17101274 |
+Spandan Bandyopadhyaya |
+PhD |
+Institute |
+Structures |
+Dr. Rajesh Kitey |
+
+93 |
+17101275 |
+Vishnu A R |
+PhD |
+Institute |
+Structures |
+Dr. P.M.Mohite |
+
+94 |
+17101276 |
+Vishnu Prakash K |
+PhD |
+Project |
+Aerodynamics |
+Dr. S Mittal |
+
+95 |
+17201261 |
+Ahilan A |
+PhD |
+Institute |
+Aerodynamics |
+Dr. R.K. Mathpal |
+
+96 |
+17201262 |
+Borchate Sourabh Shivaji |
+PhD |
+Institute |
+Structures |
+Dr. P.M.Mohite  |
+
+97 |
+17201263 |
+Deepak Jain |
+PhD |
+Part-Time |
+Flight Mechanics and Control |
+Dr. A. K. Ghosh |
+
+98 |
+17201264 |
+Mayank Verma |
+PhD |
+Institute |
+Propulsion |
+Dr. Ashoke De |
+
+99 |
+17201265 |
+S. Mustafa Kazim |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > pg current students]
+PhD |
+Institute |
+Structures |
+Dr. Pritam Chakraborty |
+
+100 |
+17201266 |
+Sanjay Singh Tomar |
+PhD |
+Institute |
+Structures |
+Dr. C.S. Upadhyay |
+
+101 |
+17201267 |
+Saranyamol V.S. |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Ibrahim S. |
+
+102 |
+17201268 |
+Shreshtha Kumar Gupta |
+PhD |
+Institute |
+Propulsion |
+Dr. Vaibhav Arghode |
+
+103 |
+17201269 |
+Shweta Singh |
+PhD |
+Institute |
+Aerodynamics |
+Dr. Kamal Poddar |
+
+104 |
+17201270 |
+Vajjala Keshava Suman |
+PhD |
+Sponsored |
+Aerodynamics |
+Dr. T.K. Sengupta |
+
+=== ramanujan faculty ===
+Source: https://www.iitk.ac.in/aero/ramanujan-faculty
+Soumya Ranjan Nanda, Ramanujan Faculty
+
+0512-679-6884 (O)
+Research Interests: Hypersonic and Supersonic flows, High-Speed Aerothermodynamic, Short Duration Force and Heat Flux Measurement, Free Jet Flow, and Impact Based Studies
+
+=== research staff ===
+Source: https://www.iitk.ac.in/aero/research-staff
+Here are brief details for IIT Kanpur's Aerospace Engineering department research staff who play a key role in the research done by the department.
+
+Vipul Mathur
+Chief Engineer, Flight Lab
+
++91-512-259-7729(O) / 8225(R)
+
+Deepak Jain
+Research Establishment Officer-I
+
+Research Interests
+Structural Health Monitoring, Flight Load Monitoring, Aircraft Instrumentation, Flight Testing.
+
+=== staff ===
+Source: https://www.iitk.ac.in/aero/staff
+Here are brief details for IIT Kanpur's Aerospace Engineering department administrative staff & technical staff who help in the efficient administration of the department & departmental facilities.
+
+Administrative Staff
+
+D. P. Dixit, Senior Superintendent
+Aero Office
+
++91-512-2597626 (O)
+
+Prashant Kumar Sahu, Superintendent
+Aero Office
+
++91-512-2596437 (O)
+
+Vikas Kumar, Senior Assistant
+Aero Office
+
++91-512-2596704 (O)
+
+Ashish Sharma, Junior Assistant
+
++91-512-2597909 (O)
+
+Technical Staff
+
+Animesh Porwal, Tech. Superintendent
+Flight Lab
+
++91-512-2597806 (O)
+
+Kirti Bhatnagar, Tech. Superintendent
+VI Lab
+
++91-512-2597526 (O)
+
+Suresh Mishra, Tech. Superintendent
+High Speed Lab
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > staff]
++91-512-2597847 (O)
+
+Lavendra Singh, Jr. Tech. Superintendent
+Department Workshop
+
++91-512-2597831 (O)
+
+Abhinath Kumar Yadav, Junior Technical Superintendent
+Low-Speed Aerodynamics Laboratory
+
++91-512-2597812 (O)
+
+Hariom Bajpai, Sr. Technician
+Department Workshop
+
++91-512-2597831 (O)
+
+Chandra Prakash, Sr. Technician
+Structures Lab
+
++91-512-2596943 (O)
+
+Rajesh Kumar, Sr. Technician
+Flight Lab
+
++91-512-259 6195 (O)
+
+R Sunder Rajan, Sr. Technician
+
++91-512-259 6290 (O)
+
+Mohit Kumar, Senior Technician
+Flight Lab (AE)
+
++91-512-259 7909 (O)
+
+Harshu Bhimgade, Junior Technician
+Propulsion Laboratory
+
++91-512-2592451 (O)
+
+Akash Singh, Junior Technician
+Structures Lab
+
++91-512-2596797 (O)
+
+Aashish Kumar Sahu, Junior Technician
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > staff]
+Advanced Combustion & Acoustics Laboratory
+
++91-512-2596910 (O)
+
+Abhinav Sharma, Junior Technician
+
++91-512-2596235 (O)
+
+Deepak Kashyap, Junior Technician
+
++91-512-2597909 (O)
+
+Harikant Arya, Junior Technician
+Structure Laboratory
+
++91-512-2597853 (O)
+
+Praveen Kumar, Junior Technician
+
++91-512-2597909 (O)
+
+Subodh Pal, Junior Technician
+
++91-512-2597847 (O)
+
+Vikash Kumar Maurya, Junior Technician
+
++91-512-2597812 (O)
+
+=== structures structural dynamics aeroelasticity faculty ===
+Source: https://www.iitk.ac.in/aero/structures-structural-dynamics-aeroelasticity-faculty
+Abhishek, Professor
+
++91-512-259-7515 (O), 6259 (L)
+https://home.iitk.ac.in/~abhish/
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+https://home.iitk.ac.in/~shekhar
+
+G.M.Kamath, Professor & Head
+
++91-512-259-6614 (w)
+https://www.gmkamath.in/
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+https://home.iitk.ac.in/~mohite
+
+Rajesh Kitey, Professor
+
+https://home.iitk.ac.in/~kitey/
+
+Pritam Chakraborty, Associate Professor
+
++91-512-259-7951 (O)
+https://home.iitk.ac.in/~cpritam/
+
++91-512-679-2092 (O)
+https://www.tmukhopadhyay.com/
+
+Tanmay Dutt Mathur, Assistant Professor
+
++91-512-259-2398
+
+=== team members sae ===
+Source: https://www.iitk.ac.in/aero/team-members-sae
+Kshitiz Gupta, President
+
+A Thirumurugan, Vice-President (PG)
+
+Arushi Gupta, Vice-President (UG)
+
+Mugundhan D, Research Head
+
+Nishant Neeraj Gadey, Associate Research Head
+
+Nilay Shirsat, Finance Head
+
+S Ghosh, Associate Finance Head
+
+Harish Raghavendhar V J , Cultural Head
+
+Ankita Agrawal, Associate Cultural Head
+
+Shricharan Shrikant Bhat, Alumni Connect Head
+
+Alka Songara, Associate Alumni Connect Head
+
+Gokul S Rajan, Industry Connect Head
+
+Arejeet Roy, Associate Industry Connect Head
+
+Harshwardhan Giri Goswami, Associate Industry Connect Head
+
+Aditya Mallya, Media & Publicity Head
+
+Gourab Koley, Associate Media & Publicity Head
+
+Ramanjot Kaur, Design & Web Head
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > team members sae]
+Harsh Agarwal, Associate Design & Web Head
+
+Sarann V, Events Head
+
+Tushank Bisht, Events Head
+
+Vishal Umapati Choudhari, Sports Head
+
+Deva, Associate Sports Head
+
+Tanish Shetty, Student Relations Head (PG)
+
+Anushree Mittal, Student Relations Head (UG)
+
+=== ug current students ===
+Source: https://www.iitk.ac.in/aero/ug-current-students
+Roll No. | Name of the Student | Programme | Department |
+
+14069
+
+ALOK RANJAN SINGH
+
+B.TECH
+
+AE
+
+14074
+
+AMAN JAISWAL
+
+B.TECH
+
+AE
+
+14088
+
+AMIT SAINI
+
+B.TECH
+
+AE
+
+14098
+
+ANIMESH KUMAR SHASTRY
+
+B.TECH
+
+AE
+
+14123
+
+APOORVE MISHRA
+
+B.TECH
+
+AE
+
+14136
+
+ARPIT SINGH
+
+B.TECH
+
+AE
+
+14162
+
+AYUSH GOEL
+
+B.TECH
+
+AE
+
+14199
+
+CHINMAI GARG
+
+B.TECH
+
+AE
+
+14202
+
+CHOPPALA JEEVAN KUMAR
+
+B.TECH
+
+AE
+
+14207
+
+DEEKSHA REWADI
+
+B.TECH
+
+AE
+
+14242
+
+GAURAV SETH
+
+B.TECH
+
+AE
+
+14265
+
+HARSH SINHA
+
+B.TECH
+
+AE
+
+14295
+
+K DHANUSH KUMAR
+
+B.TECH
+
+AE
+
+14315
+
+KAVISH KUMAR YADAV
+
+B.TECH
+
+AE
+
+14319
+
+KISALAYA MISHRA
+
+B.TECH
+
+AE
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+14337
+
+KULWAL KARAN GHANSHYAM
+
+B.TECH
+
+AE
+
+14345
+
+KUNDAN JAISWAL
+
+B.TECH
+
+AE
+
+14362
+
+MANAN JAIN
+
+B.TECH
+
+AE
+
+14379
+
+MAYANK VARSHNEY
+
+B.TECH
+
+AE
+
+14386
+
+MENDU RAMA KRISHNA
+
+B.TECH
+
+AE
+
+14393
+
+MOHIT KUMAR TEKRIWAL
+
+B.TECH
+
+AE
+
+14406
+
+N C KAUSHIK
+
+B.TECH
+
+AE
+
+14416
+
+NAVEEN KUMAR MEENA
+
+B.TECH
+
+AE
+
+14435
+
+NITESH KUMAR YADAV
+
+B.TECH
+
+AE
+
+14445
+
+PANKAJ BAJIRAO PATIL
+
+B.TECH
+
+AE
+
+14467
+
+POKAR MONIL NAVINCHANDRA
+
+B.TECH
+
+AE
+
+14470
+
+PRABHAT KUMAR
+
+B.TECH
+
+AE
+
+14474
+
+PRAFUL KUMAR
+
+B.TECH
+
+AE
+
+14491
+
+PRATEEK SINGH
+
+B.TECH
+
+AE
+
+14494
+
+PRAVEEN KUMAR RANJAN
+
+B.TECH
+
+AE
+
+14500
+
+PRIYANKAR GARAI
+
+B.TECH
+
+AE
+
+14507
+
+PUNIT KUMAR SUMAN
+
+B.TECH
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+AE
+
+14518
+
+RAHUL AGARWAL
+
+B.TECH
+
+AE
+
+14520
+
+RAHUL KUMAR
+
+B.TECH
+
+AE
+
+14526
+
+RAJAT RAJ PATEL
+
+B.TECH
+
+AE
+
+14527
+
+RAJAT TRIPATHI
+
+B.TECH
+
+AE
+
+14559
+
+RITESH KUMAR MAURYA
+
+B.TECH
+
+AE
+
+14570
+
+RONIT BANSAL
+
+B.TECH
+
+AE
+
+14654
+
+SHIVAM VERMA
+
+B.TECH
+
+AE
+
+14656
+
+SHIVANG
+
+B.TECH
+
+AE
+
+14686
+
+SHUBHAM TYAGI
+
+B.TECH
+
+AE
+
+14694
+
+SIDDHARTH PRASAD
+
+B.TECH
+
+AE
+
+14695
+
+SIDDHARTH RAJ GUPTA
+
+B.TECH
+
+AE
+
+14706
+
+SOURAV KUMAR SINHA
+
+B.TECH
+
+AE
+
+14735
+
+SUTE PIYUSH PRAKASH
+
+B.TECH
+
+AE
+
+14744
+
+T S KAUSTUBHA
+
+B.TECH
+
+AE
+
+14760
+
+TONY K JOHN
+
+B.TECH
+
+AE
+
+14775
+
+UTKARSH BANSAL
+
+B.TECH
+
+AE
+
+14810
+
+VISHAL BABURAO KHAIRNAR
+
+B.TECH
+
+AE
+
+150016
+
+ABHINAV KUMAR
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+150028
+
+ABHISHEK CHAUDHARY
+
+B.TECH
+
+AE
+
+150051
+
+ADITYA KATARA
+
+B.TECH
+
+AE
+
+150058
+
+AHALA HANSDA
+
+B.TECH
+
+AE
+
+150070
+
+AKASH JAIN
+
+B.TECH
+
+AE
+
+150102
+
+ANKIT KUMAR
+
+B.TECH
+
+AE
+
+150151
+
+ASHLEE TIWARI
+
+B.TECH
+
+AE
+
+150176
+
+AYUSH SINGH
+
+B.TECH
+
+AE
+
+150188
+
+BHOYAR VAIDEHI SUNIL
+
+B.TECH
+
+AE
+
+150200
+
+CHANCHALA NAAGAR
+
+B.TECH
+
+AE
+
+150203
+
+CHETAN PRAKASH
+
+B.TECH
+
+AE
+
+150248
+
+GAJENDRA NAGAR
+
+B.TECH
+
+AE
+
+150282
+
+HARSHUL LODHA
+
+B.TECH
+
+AE
+
+150319
+
+KANIK CHANDRA
+
+B.TECH
+
+AE
+
+150320
+
+KAPIL BORKAR
+
+B.TECH
+
+AE
+
+150356
+
+KUSHAGRA TIWARI
+
+B.TECH
+
+AE
+
+150370
+
+MAHARSHI KUMAR
+
+B.TECH
+
+AE
+
+150376
+
+MANISH DINDOR
+
+B.TECH
+
+AE
+
+150378
+
+MANISH KUMAR
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+150412
+
+MOHAMMAD ASADULLAH
+
+B.TECH
+
+AE
+
+150426
+
+MUDIT KHASGIWALE
+
+B.TECH
+
+AE
+
+150446
+
+NIHAR TAKSANDE
+
+B.TECH
+
+AE
+
+150450
+
+NIKHIL SANKHWAR
+
+B.TECH
+
+AE
+
+150468
+
+NITISH KUMAR
+
+B.TECH
+
+AE
+
+150469
+
+NITISH PANT
+
+B.TECH
+
+AE
+
+150497
+
+PRAJAPATI SOHAM JAGADISHCHANDR
+
+B.TECH
+
+AE
+
+150502
+
+PRAKHAR KATIYAR
+
+B.TECH
+
+AE
+
+150517
+
+PRASHANT SINGH
+
+B.TECH
+
+AE
+
+150550
+
+RAHUL MEENA
+
+B.TECH
+
+AE
+
+150555
+
+RAJAT PANDEY
+
+B.TECH
+
+AE
+
+150569
+
+RASHMI RAJ
+
+B.TECH
+
+AE
+
+150582
+
+RISHABH CHATURVEDI
+
+B.TECH
+
+AE
+
+150603
+
+SAAKAAR BHATNAGAR
+
+B.TECH
+
+AE
+
+150621
+
+SAKSHAM WADHWA
+
+B.TECH
+
+AE
+
+150655
+
+SHAH AALAP ANIL
+
+B.TECH
+
+AE
+
+150687
+
+SHIWANSH RAJ RAI
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+150692
+
+SHREY AGRAWAL
+
+B.TECH
+
+AE
+
+150696
+
+SHUBHAM
+
+B.TECH
+
+AE
+
+150698
+
+SHUBHAM DHANERIA
+
+B.TECH
+
+AE
+
+150713
+
+SIDDHANT SONI
+
+B.TECH
+
+AE
+
+150715
+
+SIDDHARTH
+
+B.TECH
+
+AE
+
+150721
+
+SNEHIL SHUKLA
+
+B.TECH
+
+AE
+
+150744
+
+SURAJ TIRKEY
+
+B.TECH
+
+AE
+
+150763
+
+TARUN KUMAR RAJPUT
+
+B.TECH
+
+AE
+
+150765
+
+TARUNDEEP SINGH GILL
+
+B.TECH
+
+AE
+
+150768
+
+TRISHANK BAGHEL
+
+B.TECH
+
+AE
+
+150815
+
+VISHAL KASHYAP
+
+B.TECH
+
+AE
+
+150826
+
+VIVEK T
+
+B.TECH
+
+AE
+
+150832
+
+YASH AGGARWAL
+
+B.TECH
+
+AE
+
+150833
+
+YASH AGRAWAL
+
+B.TECH
+
+AE
+
+150836
+
+YASH JAISWAL
+
+B.TECH
+
+AE
+
+150837
+
+YASH KHATRI
+
+B.TECH
+
+AE
+
+150842
+
+YAZUR GUPTA
+
+B.TECH
+
+AE
+
+160022
+
+ABHINAV SRIVASATAVA
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+160055
+
+AHSAN BARKATI
+
+B.TECH
+
+AE
+
+160060
+
+AJEET
+
+B.TECH
+
+AE
+
+160092
+
+AMAN PRAKASH
+
+B.TECH
+
+AE
+
+160116
+
+ANIVESH SAHU
+
+B.TECH
+
+AE
+
+160131
+
+ANMOL CHAMAN
+
+B.TECH
+
+AE
+
+160146
+
+ARKADIP DAS
+
+B.TECH
+
+AE
+
+160156
+
+ARYAN SHARMA
+
+B.TECH
+
+AE
+
+160159
+
+ASHISH KUMAR
+
+B.TECH
+
+AE
+
+160162
+
+ASHISH KUMAR MANJHI
+
+B.TECH
+
+AE
+
+160170
+
+ASHWANI KUMAR
+
+B.TECH
+
+AE
+
+160188
+
+BALAMURUGAN R
+
+B.TECH
+
+AE
+
+160200
+
+BHUPATI JEEVAN KUMAR
+
+B.TECH
+
+AE
+
+160215
+
+CHITRANSHU CHANDEL
+
+B.TECH
+
+AE
+
+160221
+
+DEBARTHA CHAKRABORTY
+
+B.TECH
+
+AE
+
+160240
+
+DHRUV DWIVEDI
+
+B.TECH
+
+AE
+
+160242
+
+DHRUV SAMIR LAKHANI
+
+B.TECH
+
+AE
+
+160245
+
+DIPANKAR DUTTA
+
+B.TECH
+
+AE
+
+160269
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+GHORPADE RAM DHONDIBA
+
+B.TECH
+
+AE
+
+160284
+
+HARSHIT SINGHAL
+
+B.TECH
+
+AE
+
+160289
+
+HIMANSHU DAKSH
+
+B.TECH
+
+AE
+
+160298
+
+HITESH KUMAR RAWAT
+
+B.TECH
+
+AE
+
+160303
+
+JAIDEV ASHOK NARAYAN SWAMI
+
+B.TECH
+
+AE
+
+160326
+
+KASHISH THAKRAN
+
+B.TECH
+
+AE
+
+160330
+
+KENDRE TUSHAR PRADEEP
+
+B.TECH
+
+AE
+
+160386
+
+MANSARGUN KAUR
+
+B.TECH
+
+AE
+
+160406
+
+MOHD MAAB ZIA KHAN
+
+B.TECH
+
+AE
+
+160425
+
+NAGASWARAM RAKESH
+
+B.TECH
+
+AE
+
+160432
+
+NAVEEN CHANDRA R
+
+B.TECH
+
+AE
+
+160438
+
+NEELI AJAY CHANDRA
+
+B.TECH
+
+AE
+
+160444
+
+NIGAM PRAGYANSH
+
+B.TECH
+
+AE
+
+160467
+
+PADMA TASHI
+
+B.TECH
+
+AE
+
+160478
+
+PARTH GAUTAM
+
+B.TECH
+
+AE
+
+160563
+
+RAVI PRAKASH TRIPATHI
+
+B.TECH
+
+AE
+
+160581
+
+ROHAN SAXENA
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+160593
+
+RUPINDER SINGH
+
+B.TECH
+
+AE
+
+160629
+
+SATHE TATHAGAT VINOD
+
+B.TECH
+
+AE
+
+160640
+
+SAVAR KAUSHIK
+
+B.TECH
+
+AE
+
+160654
+
+SHIVAM MANDLOI
+
+B.TECH
+
+AE
+
+160661
+
+SHOURYA SONI
+
+B.TECH
+
+AE
+
+160662
+
+SHREYA AGRAWAL
+
+B.TECH
+
+AE
+
+160705
+
+SRINJAY MUHURY
+
+B.TECH
+
+AE
+
+160723
+
+SURAJ HOUSLA PRASAD MISHRA
+
+B.TECH
+
+AE
+
+160724
+
+SURAJ KUMAR YADAV
+
+B.TECH
+
+AE
+
+160734
+
+SWAPNIL GIRDHAR
+
+B.TECH
+
+AE
+
+160781
+
+VIDIT TRIPATHI
+
+B.TECH
+
+AE
+
+160788
+
+VINAY U B
+
+B.TECH
+
+AE
+
+160789
+
+VINAYAK S KAMATH
+
+B.TECH
+
+AE
+
+160804
+
+VISHAL SINGH
+
+B.TECH
+
+AE
+
+160814
+
+VIVEK VERMA
+
+B.TECH
+
+AE
+
+160832
+
+ZALA DARSHANKUMAR
+
+B.TECH
+
+AE
+
+170015
+
+ABHIJEET
+
+B.TECH
+
+AE
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+170016
+
+ABHILAKH CHAUDHARY
+
+B.TECH
+
+AE
+
+170052
+
+ADITYA RAGHUWANSHI
+
+B.TECH
+
+AE
+
+170055
+
+ADITYA SHIVAJI YEMULWAD
+
+B.TECH
+
+AE
+
+170084
+
+AMAN MEENA
+
+B.TECH
+
+AE
+
+170097
+
+AMRENDRA PRATAP SINGH
+
+B.TECH
+
+AE
+
+170122
+
+ANKIT KUMAR (AKHILESH KUMAR)
+
+B.TECH
+
+AE
+
+170141
+
+APURVA NANDAN
+
+B.TECH
+
+AE
+
+170145
+
+ARCHIT GUPTA
+
+B.TECH
+
+AE
+
+170163
+
+ASHISH PATEL
+
+B.TECH
+
+AE
+
+170165
+
+ASHISH SHAKYAWAR
+
+B.TECH
+
+AE
+
+170173
+
+ASWIN J SHAJI
+
+B.TECH
+
+AE
+
+170178
+
+AVANI SHRIVASTAVA
+
+B.TECH
+
+AE
+
+170179
+
+AVIK PAL
+
+B.TECH
+
+AE
+
+170182
+
+AVIRAL KHARE
+
+B.TECH
+
+AE
+
+170200
+
+AYUSH SONI
+
+B.TECH
+
+AE
+
+170203
+
+BALDIP SINGH BIJLANI
+
+B.TECH
+
+AE
+
+170205
+
+BAROT DIVYANSHU BHARATBHAI
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+B.TECH
+
+AE
+
+170207
+
+BHARAT SWAMI
+
+B.TECH
+
+AE
+
+170220
+
+BURLA SRIVAR
+
+B.TECH
+
+AE
+
+170259
+
+DORANALA SAI SREEKAR
+
+B.TECH
+
+AE
+
+170261
+
+DUMPETI SANJAY
+
+B.TECH
+
+AE
+
+170286
+
+HARISH DECHIRAJU
+
+B.TECH
+
+AE
+
+170294
+
+HARSHIT RAO
+
+B.TECH
+
+AE
+
+170303
+
+HIMANSHU VERMA
+
+B.TECH
+
+AE
+
+170304
+
+HITANSHU SAINI
+
+B.TECH
+
+AE
+
+170307
+
+HRISHIKESH DUTTA
+
+B.TECH
+
+AE
+
+170308
+
+INSHU NAMDEV
+
+B.TECH
+
+AE
+
+170317
+
+JATKAR SOHAM DEVIDAS
+
+B.TECH
+
+AE
+
+170340
+
+KHEMRAJ SUDHAKAR BAWASKAR
+
+B.TECH
+
+AE
+
+170349
+
+KRISHNA PRAKASH ROY
+
+B.TECH
+
+AE
+
+170357
+
+KUSH SHAILESH BAGLA
+
+B.TECH
+
+AE
+
+170371
+
+MAITREYEE SRIVASTAVA
+
+B.TECH
+
+AE
+
+170382
+
+MATARIA PENCE JAGATBHAI
+
+B.TECH
+
+AE
+
+170388
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > ug current students]
+
+MILLENNIUM GIRI
+
+B.TECH
+
+AE
+
+170420
+
+NAVEEN BALAJI N
+
+B.TECH
+
+AE
+
+170458
+
+PARAG NANDARAM SONKUSARE
+
+B.TECH
+
+AE
+
+170471
+
+PIYUSH SINGH
+
+B.TECH
+
+AE
+
+170477
+
+PRAGYA PATEL
+
+B.TECH
+
+AE
+
+170499
+
+PRATIGYA TOMAR
+
+B.TECH
+
+AE
+
+170506
+
+PRIANK PRASAD
+
+B.TECH
+
+AE
+
+170516
+
+PULKIT PANDEY
+
+B.TECH
+
+AE
+
+170589
+
+ROHIT BALIRAM LANDGE
+
+B.TECH
+
+AE
+
+170605
+
+SAGNIK DEY
+
+B.TECH
+
+AE
+
+170606
+
+SAGNIK MUKHERJEE
+
+B.TECH
+
+AE
+
+170653
+
+SHASHANK KUMAR
+
+B.TECH
+
+AE
+
+170685
+
+SHUBHAM
+
+B.TECH
+
+AE
+
+170712
+
+SOUMIK GHOSH
+
+B.TECH
+
+AE
+
+170721
+
+SREENIVAS RAPOLE
+
+B.TECH
+
+AE
+
+170811
+
+VUTNOORI VAMSHI
+
+B.TECH
+
+AE
+
+170819
+
+YASH RAJ SINGH
+
+B.TECH
+
+AE
+
+=== visiting adjunct faculties ===
+Source: https://www.iitk.ac.in/aero/visiting-adjunct-faculties
+Prof. Prabhat Hajela, Distinguished Visiting Professor
+
+,
+
+Homepage
+
+Research Interests:
+
+AI/ML in Aerospace System Design
+
+Evolutionary and Heuristic Algorithms for Optimization
+
+Multidisciplinary Design Optimization (MDO)
+
+Realizing Digital Twins
+
+Vice Admiral Puneet Kumar Bahl, AVSM, VSM (Retd)
+Visiting Professor of Practice
+
+,
+
+CV
+
+Research Interests:
+
+India’s nuclear strategy
+
+Defence Procurement
+
+Naval Technology
+
+United Nations Convention on Laws of the Sea
+
+Future of warfare
+
+Aviation management, procurement and sustainability
+
+Dr. Anil Kapoor, Lt. Gen. (Rtd.)
+Visiting Professor of Practice
+
+,
+
+=== welcome message from hod ===
+Source: https://www.iitk.ac.in/aero/welcome-message-from-hod
+The Aerospace Engineering Department is more than 40 years old. Till 1991, it was known as Aeronautical Engineering Department.
+
+The name change was accompanied by addition of topics relating to spacecraft in the UG curriculum; some members of the faculty had been conducting research and guiding PG students in this area even before the formal alteration of the name in 1991. In matters of teaching, research & development, the department has always tried to strike a balance between hardware development and experiments on one hand, and theory and computational aspects on the other.
+The faculty strength currently is 31. We share four faculty members with Sustaibale Energy Engineering Department, although their parent Department is Aerospace Engineering. The department has more than 200 UG Students (including those pursuing Dual Degree), 80 M.Tech students and 100 Ph.D students. The department has the following laboratories with a clear focus on teaching and research :
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > welcome message from hod]
+UG Laboratories
+
+Low Speed Aerodynamics Laboratory
+
+High Speed Aerodynamics Laboratory
+
+Propulsion Laboratory
+
+Structures Laboratory
+
+Aero-modeling Laboratory
+
+Design Laboratory
+
+Research Laboratories & National facilities
+
+Autonomous Helicopter Facility
+
+Computational Flight Dynamics Lab
+
+Unsteady Aerodynamics Lab
+
+Flame and Combustion Dynamics Lab
+
+Virtual Instrumentation Lab
+
+Structures, Structural Analysis Lab
+
+NWTF, ACECOST
+
+Computational Propulsion Lab
+
+Combustion Lab
+
+Advanced Combustion and Acoustics Lab
+
+Fluid dynamics Lab
+
+Flight Lab
+
+Structures and Material Characterization Lab
+
+Unmanned and Micro-aerial Vehicle Lab
+
+The faculty of the department were instrumental in establishing the National Tunnel Facility (NWTF), which now forms a separate section.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > welcome message from hod]
+Various consultancy and sponsored research and development projects funded by agencies such as, Aeronautics R & D Board, Indian Space Research Organization, Aeronautical Development Agency, Department of Science & Technology, Hindustan Aeronautics Ltd., Delhi Metro Railways Corporation, NAL, Indo-French Centre for the Promotion of Advanced Research (IFCPAR),, TERI, PCRA, DRDO etc., have been undertaken by the department. The major contributions of the faculty are in the design and development of high speed and low speed wind tunnels, flow measurements using hotwire and laser Doppler anemometry, PIV, reacting flow, CFD, industrial and wind energy aerodynamics, CFD including subsonic, transonic, supersonic and hypersonic flow computations, supersonic/ hypersonic similitude, unsteady aerodynamic modeling and parametric estimation techniques; satellite dynamics; (analysis and development of software in the areas of thermal problems in rocket propulsion) and flow through turbo-machines, structural dynamics, random vibration analysis, design and optimization of fibre reinforced composite structures for static, dynamic and random loading; adaptive finite element analysis; smart structures; multi scale modeling; damage in composite structures; behavior of adhesive joints; helicopter dynamics, aeroelasticity; wind turbines; modeling of advanced materials; micro/mini air vehicles, autonomous helicopter and insect flight.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND P > welcome message from hod]
+Prof. Sanjay Kumar
+Head
+Email:
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/aero/propulsion-faculty (propulsion faculty)

@@ -1,0 +1,196 @@
+KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Kotak School of Sustainability, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/kss. Snapshot: scraped in 2026.
+
+=== research ===
+Source: https://www.iitk.ac.in/kss/research
+At the Kotak School of Sustainability (KSS), research is the cornerstone of our mission to address today’s pressing environmental challenges and create solutions for a sustainable tomorrow. KSS fosters an interdisciplinary approach that brings together engineers, scientists, policy experts, and industry practitioners to advance knowledge in water, energy, air, and ecosystems. By connecting cutting-edge research with real-world applications, KSS ensures that scientific insights translate into tangible societal and environmental benefits.
+
+Department of Sustainable Energy Engineering (SEE)
+Research Overview
+
+The Department of Sustainable Energy Engineering (SEE) is pioneering the transition to clean energy systems through research on solar photovoltaics, energy storage, green hydrogen, and smart grids. SEE faculty and students are engaged in developing next-generation perovskite solar cells, biofuel technologies from agricultural residues, and scalable hydrogen production pathways that could help decarbonize transport and industry. One notable initiative has been the creation of microgrid prototypes that integrate solar and storage solutions, offering energy access to remote rural communities while reducing carbon footprints.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+Advanced Technologies for Monitoring Air-quality and Novel Interventions (ATMAN)
+Research Overview
+
+Air pollution, a critical challenge for India’s cities, is the focus of ATMAN (Advanced Technologies for Monitoring Air-quality and Novel Interventions). ATMAN is building robust monitoring networks that combine satellite data, low-cost sensors, and AI-driven analytics to provide high-resolution air quality mapping. Beyond measurement, the program develops intervention strategies such as innovative filtration systems for indoor air, emission control technologies for small-scale industries, and data-driven advisories for city administrations. A recent project deployed compact, real-time monitoring sensors in Lucknow, enabling local authorities to take more targeted and timely action to reduce pollution hotspots.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+
+Centre for Environmental Science and Engineering (CESE)
+The Centre for Environmental Science and Engineering (CESE) extends its knowledge through capacity-building programs, industry–academia workshops, and partnerships with NGOs working on waste management and ecological restoration. CESE also develops open-access tools and training materials for regulators and practitioners, ensuring that cutting-edge environmental research translates into practice at scale.
+
+Research Overview
+
+Environmental Remediation Technology
+
+In our lab we develop carbon-based beads, nanofibers, nanoparticles, nanotubes and biopolymeric nanofibers to address various environmental contaminants like arsenic, mercury, chromium, fluoride, pesticides, pharmaceutical wastes etc. We endeavor to initiate an IIT Kanpur-centric mission on catalytic/photocatalytic treatment of pollutants present in water effluents from various laboratories. It is envisaged that understanding of the fundamental chemistry, development of novel (photo)catalytic frameworks for water decontamination will enrich fundamental science in this area. Other interests concern construction of thin films, coordination models and biological soft matter. We synthesize and characterize environmentally benign cellulose-clay nanocomposites. We use surface functionalization route to enhance interfacial binding between cellulose and clay to improve mechanical properties of cellulose-clay nanocomposites.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+Biology & Health
+
+Health and Biosystems laboratory deals with human health and environmental toxicology. The major focus of our research is design and synthesis of materials for environmental health applications and remediation of pollutants. Fabrication of polymeric macroporous materials for air and water filtration for real time field applications. Development of polymeric adsorbents for blood purification.
+
+Advance Chemical Trace Analysis
+
+Trace level analysis support is vital for any environmental research facility. A large laboratory with the state-of-the-art instrumentation is fully operational at CESE. The major instruments include: (i) Ion Chromatography (IC) for ionic analysis, with transitional metallic ions and bio-scan facility (ii) Gas Chromatography Mass Spectrometry (GCMS) with ATD (automatic thermal desorption) facility for trace organics including pesticides, aromatic hydrocarbons, PCBS, volatile organic compounds (iii) Inductively Coupled Plasma Mass Spectrometry (ICP-MS) for analysis of all elements at nano-gram level (iv) Total Organic Carbon (TOC) for analysis of organic carbon and (v) Microwave Digestion system (MDS) for digestion of samples for metals/elements.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+Atmospheric Particle Technology
+
+The atmospheric particle technology laboratory endeavours for excellence in research and consulting. The current research interests of the APTL include mixing state and its effects on particle optical and cloud condensation nuclei properties, atmospheric nanoparticles, sustainability of smog-fog-smog cycle and life cycle assessment of replacement agrochemicals. Another goal is to indigenously develop aerosol instrumentation. We use both observational data and chamber studies to meet our research goals.
+
+Nano- Bio ENVIRONMENTAL TECHNOLOGY
+
+The Bionanotechnology and Biosensors laboratory aims at establishing state of the art research and facilitiesin the area of clinical diagnosis and detection. The current research interests of the BNBS development of novel sensing technologies using nano and microstructures and aims at detection of diseases, pathogenic bacteria for from food water samples and reducing gases.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+Green Energy: Production, Storage and Conversion Technologies
+
+It is critical for the protection of the environment that 'Green' technologies are developed. An important component of this theme is the need to develop green energy alternatives, which include: (i) production, (ii) storage and (iii) conversion aspects. Two important areas of this initiative include: (i) making current technologies 'greener' via better efficiency systems and utilization and (ii) developing new technologies for the future/p>
+
+Centre for Ganga River Basin Management and Studies), cGanga
+Website link: Research Overview
+
+A flagship initiative hosted at IIT Kanpur is cGanga (Centre for Ganga River Basin Management and Studies), which works to restore and conserve India’s rivers through basin-scale planning and science-based interventions. Its projects include the development of advanced water quality models for the Ganga Basin, low-cost decentralized wastewater treatment technologies, and decision-support systems that help policymakers and communities design sustainable river basin strategies. For instance, cGanga has piloted decentralized treatment plants in peri-urban areas that recycle wastewater for agriculture, showcasing how technology can serve both ecological and community needs.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > research]
+Together, these initiatives illustrate the breadth and impact of research at KSS. Whether it is piloting decentralized wastewater solutions, developing renewable energy innovations, enabling cleaner air in cities, or advancing circular economy practices, the School’s work is designed to be both transformative and actionable.
+
+KSS also emphasizes collaboration and outreach, working closely with government agencies, industries, civil society, and international partners. This ensures that research outcomes do not remain confined to academic publications but actively shape policy, technology adoption, and community-level change.
+
+Through these efforts, the Kotak School of Sustainability aspires to be a hub where science, innovation, and sustainability converge—advancing India’s leadership in sustainable development and contributing to the global discourse on building a more resilient, equitable, and sustainable future.
+
+=== sustainability projects ===
+Source: https://www.iitk.ac.in/kss/sustainability-projects
+Sustainability Projects
+
+Weather, Climate & Floods
+
+Towards flood resilient cities: a pilot study in the Lower Ghaghra-Rapti river basin
+
+PI Prof. Rajeev Sinha (ES)
+
+Co-PI Prof. Deep Mukherjee, Prof. Manoj Kumar Tiwari
+
+Forecasting weather and climate using dynamics and artificial intelligence
+
+PI Prof. M. K. Verma (Phy)
+
+Co-PI Prof. Rajesh Ranjan, Prof. Arnab Bhattacharya
+
+An integrated glacio-hydrological model for flood process understanding in the Indian Himalayan regions
+
+PI Dr. Nanditha J S (KSS)
+
+Improving carbon, water, and energy flux estimates over Indo Gangetic plains using a new eddy covariance tower in Kanpur
+
+PI Dr. Sarosh Alam (KSS)
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > sustainability projects]
+Environment, Public Health & Sanitation
+
+Tech-integrated planning of solid waste management at Kanpur city
+
+PI Prof. Manoj Kumar Tiwari (CE)
+
+Co-PI Prof. Jitendra Bera, Prof. Saravanan Matheshwaran, Prof. Santosh Kumar Misra, Prof. Rajeev Jindal
+
+The Business of Waste-Technology and the Social Landscape of Waste Management in India
+
+PI Prof. Anindita Chakrabarti (HSS)
+
+Sustainable solution to provide drinking water from surface water
+
+PI Prof. Raju Kumar Gupta (ChE)
+
+Co-PI Dr. Indra Sekhar Sen, Dr. Anand Singh, Dr. Prabodh Bajpai
+
+Engineering sustainable microbial consortia for microplastic degradation
+
+PI Dr. Praneet Prakash (KSS)
+
+Fate and Dynamics of Antimicrobial Resistance in Drinking Water Systems: Source-to-Tap Assessment in Kanpur, India
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > sustainability projects]
+PI Prof. G. R. Abhijith (CE)
+
+Co-PI Dr. Saravanan Matheshwaran
+
+Pure Drinking Water Project
+
+PI Prof. Manoj Kumar Tiwari
+
+Net Zero Campus
+
+PI Prof. Ashish Garg (SEE)
+
+Co-PI Prof. Prabodh Bajpai, Prof. Manoj Tiwari
+
+Green Tech & Sustainable Production
+
+Concentrated solar thermal-based ammonia cracking for hydrogen regeneration
+
+PI Prof. Laltu Chandra (SEE)
+
+Co-PI Prof. Goutam Deo
+
+Development of a flash iron making reactor based on the direct reduction of iron oxide fines with H2-CO mixtures
+
+PI Prof. Rahul Sarkar (MSE)
+
+Co-PI Prof. Laltu Chandra, Dr. Raghavendra Ragipani
+
+Smart materials for dynamic radiative cooling
+
+PI Prof. Shikhar Misra (MSE)
+
+Co-PI Prof. Rituraj, Prof. Amit Verma, Prof. Rik Dey, Prof. Laltu Chandra
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > sustainability projects]
+Promoting residential energy efficiency through an appliance-level electricity monitoring system
+
+PI Prof. Anubha Goel (CE)
+
+Co-PI Prof. Aakash C. Rai, Prof. Gururaj M.V.
+
+A sustainable energy storage solution based on earth abundant organic materials
+
+PI Prof. Sudarshan Narayanan (SEE)
+
+Co-PI Prof. Sandeep Verma, Prof. Basker Sunderaraju, Dr. Sivasurender Chandran, Dr. Ramkrishna Sarkar, Dr. Shivam Tripathi
+
+Green structural materials - exploring the prospects of Kans grass-based product development involving the local communities
+
+PI Prof. C. S. Upadhyay (AE)
+
+Co-PI Prof. R. Kitey
+
+Electrochemical synthesis of ammonia combined with electrochemical regeneration of hydrogen: Catalyst and device development
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > sustainability projects]
+PI Prof. Lalit Pant (SEE)
+
+Co-PI Prof. Raju Kumar Gupta, Prof. Shivam Tripathi
+
+=== testing facilities ===
+Source: https://www.iitk.ac.in/kss/testing-facilities
+Testing Facilities
+
+Explore advanced facilities for measurement, validation and system-level analysis of sustainable solutions
+
+The Centers of Excellence under the Kotak School of Sustainability are supported by advanced, interdisciplinary testing and analytical facilities that enable high-quality research, validation, and field deployment of sustainable solutions.
+
+These facilities span environmental monitoring, energy systems, atmospheric sciences, and water and ecosystem analysis, integrating laboratory-based experimentation with real-world field testing.
+
+KSS enables rigorous data generation, technology validation, and system-level analysis. These capabilities are further extended through field deployments and pilot-scale implementations, ensuring that research outcomes are not only scientifically robust but also scalable, deployable, and relevant to policy and practice.
+
+[Context: KOTAK SCHOOL OF SUSTAINABILITY IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS  > testing facilities]
+Testing facilities at Department of Sustainable Energy Engineering
+
+Testing facilities at National Aerosol Facility
+
+Testing Facility at Centre for Environment Science and Engineering
+

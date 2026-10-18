@@ -1,0 +1,2223 @@
+DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Aerospace Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/aero. Snapshot: scraped in 2026.
+
+=== aeromodeling lab ===
+Source: https://www.iitk.ac.in/aero/aeromodeling-lab
+The Aeromodeling is a creative course , which has as main objective the design, building and flying of model airplanes or helicopters. These models can be scale copies of real airplanes or helicopters, or they are specially constructed aircraft models to take advantage of some flying characteristics like speed or duration of flight.
+
+In the Aeromodeling lab, students design, fabricate and fly models. It not only gives a primary introduction to the world of aerodynamics, designing, electronics, engine technology, wood crafting and the technology of new materials but also provides a hands-on experience necessary for developing a practical aptitude.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > aeromodeling lab]
+Variety of kits, engines, RC sets, prefabricated models available.
+
+Contact Details
+Faculty In-charge:
+Subrahmanyam Saderla, Associate Professor
+
+0512-259-2009 (Office, HSAL-05)
+
+=== autonomous mini helicopter facility ===
+Source: https://www.iitk.ac.in/aero/autonomous-mini-helicopter-facility
+Various UAV platforms designed and developed in Helicopter and MAV labWith the advancement in technology, ideas which existed only as science fiction, are becoming a reality. One such idea is the development of autonomous mini flying vehicle or Mini/ Micro Air Vehicle (MAV) no larger than a small bird. Accordingly, a lab focusing on the fundamentals of design, manufacturing and testing of systems and sub systems for a mini-helicopter is developed. Autonomous Mini-Helicopter which while weighing only a few kilograms incorporates most of the functions of a real life helicopter and achieves autonomous flight. This lab serves as a platform to test innovative ideas in the design, development, ground/flight testing of autonomous flying vehicle.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > autonomous mini helicopter facility]
+Focus Areas
+
+Design and Development of avionics package (Sensing and actuation, Communication, Navigation, Automatic Flight Control and Ground Control) for autonomous flight of a mini Helicopter.
+
+Flight Testing of autonomous Helicopter and expanding the utility by making the vehicle perform intelligent tasks.
+
+Structural design and development of a mini helicopter, test bed for performance measurements, Control law design and validation.
+
+Dr. Abhishek - Helicopter Aeromechanics, VTOL Unmanned Aerial System, Wind turbines.
+
+Contact Details
+Dr. Abhishek
+Department of Aerospace Engineering
+Indian Institute of Technology
+Kanpur - 208 016 (UP)
+INDIA Phone Numbers
+Off: +91 (512) 259-7515Lab: +91 (512) 259-6259
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > autonomous mini helicopter facility]
+E-mail -
+
+Web:  http://www.iitk.ac.in/aero/abhishek
+
+=== books monographs ===
+Source: https://www.iitk.ac.in/aero/books-monographs
+List of Books
+
+Foundations of Space Dynamics, Wiley, Hoboken, N.J., U.S.A., 2021, by A. Tewari.
+
+Computational Aerodynamics and Aeroacoustics, Springer Nature, Singapore, 2020, by Tapan K. Sengupta and Yogesh G. Bhumkar.
+
+DNS of Wall-Bounded Turbulent Flows: A First Principal Approach, Springer Nature, Singapore, 2019, by Tapan K. Sengupta and Swagata Bhaumik.
+
+Optimal Space Flight Navigation - An Analytical Approach, Birkhauser, Boston, U.S.A., 2019, by A. Tewari.
+
+Uncertainty quantification in laminated composites: A meta-model-based approach, CRC Press, Taylor & Francis Group, 2018, by S. Dey, T. Mukhopadhyay, S. Adhikari.
+
+Instrumentation, Measurements and Experiments in Fluids, 2nd ed., Taylor and Francis, CRC Press, 2017, by E. Radhakrsihnan.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Fundamentals of Rocket Propulsion, CRC Press, USA, 2017, by D. P. Mishra.
+
+Gas Dynamics 6th ed., PHI Learning, Delhi, India, 2016, by Radhakrishnan.
+
+Basic Flight Mechanics, Springer, Basel, Switzerland, 2016, by A. Tewari.
+
+Adaptive Aeroservoelastic Control, Wiley, Chichester, U.K, 2016, by A. Tewari.
+
+Theoretical and Computational Aerodynamics, John Wiley, UK, 2015, by Tapan K. Sengupta.
+
+High Enthalpy Gas Dynamics, John Wiley, NJ, 2015, by E. Radhakrishnan.
+
+Aeroservoelasticity - Modeling and Control, Birkhauser, Boston, S.A., 2015, by A. Tewari.
+
+Gas Turbine Propulsion, MV Learning, London/New Delhi, 2015, by D. P. Mishra.
+
+Fundamentals of Helicopter Dynamics, CRC Press, Taylor & Francis Group, 2014, by C. Venkatesan.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Experimental Combustion: An Introduction, CRC Press, USA, 2014, by D. P. Mishra.
+
+An Introduction to Mechanics and Materials, Alpha Science, 2013, by Vijay Gupta.
+
+Theoretical Aerodynamics, John Wiley, NJ, 2013, by E. Radhakrishnan.
+
+High Accuracy Computing Methods: Fluid Flows and Wave Phenomena, Cambridge Univ. Press, USA, 2013, by Tapan K. Sengupta.
+
+Fluid Mechanics, An Introduction (Third Edition), PHI Learning, Delhi, India, 2012, by E. Radhakrishnan.
+
+Instabilities of Flows and Transition to Turbulence, CRC Press, USA, 2012, by Tapan K. Sengupta.
+
+Elements of Heat Transfer, Taylor and Francis, CRC Press, 2012, by E. Radhakrishnan.
+
+Automatic Control of Atmospheric and Space Flight Vehicles, Birkhauser, Boston, U.S.A., 2011, by A. Tewari.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Advanced Control of Aircraft, Spacecraft, and Rockets, Wiley, Chichester, U.K., 2011, by A. Tewari.
+
+Fluid Mechanics and Its Applications, New Age International Publishers, 2011, by Vijay Gupta.
+
+Engineering Thermodynamics, Cengage Learning India Pvt. Ltd, 2011, by D. P. Mishra.
+
+Introduction to Integral Calculus: Systematic Studies with Engineering Applications for Beginners, John Wiley & Sons, Inc., New York, 2011, by Ulrich L. Rohde, G. C. Jain, Ajay K. Poddar, A. K. Ghosh.
+
+Introduction to Differential Calculus: Systematic Studies with Engineering Applications for Beginners, John Wiley & Sons, Inc., New York, 2011, by Ulrich L. Rohde, G. C. Jain, Ajay K. Poddar, A. K. Ghosh.
+
+Fundamentals of Combustion, Prentice Hall of India, New Delhi, revised edition, 2010, by D. P. Mishra.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Applied Gas Dynamics, John Wiley, NJ, 2010, by E. Radhakrishnan.
+
+Compressible Flows, Maruzen Co. Ltd., Tokyo, Japan, 2008, by E. Radhakrishnan.
+
+Atmospheric and Space Flight Dynamics-Modeling and Simulation, Birkhauser, Boston, 2006, by A. Tewari.
+
+Fundamentals of Engineering Thermodynamics (Second Edition), Prentice-Hall of India, 2005, by E. Radhakrishnan.
+
+Fundamentals of Design and Manufacturing, Alpha Science, 2005, by  K. Lal, Vijay Gupta,  N. Venkata Reddy.
+
+Fundamentals of CFD,  Universities Press, Hyderabad, India, 2004, by Tapan K. Sengupta.
+
+Modern Control Design with MATLAB and Simulink, Wiley, Chichester, U.K., 2002, by A. Tewari.
+
+Mechanical Sciences, Narosa, 1998, by K. Lal, Vijay Gupta, N.G.R Iyengar, B.N. Banerjee, K. Ramesh.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Structural Design Optimization, Affiliated East-West Press Ltd., New Delhi, 1997, by  G. R. Iyengar and S K Gupta.
+
+Elements of Heat and Mass Transfer, New Age International, 1 By Vijay Gupta.
+
+Solution Manual for Elements and Heat Transfer, Wiley Eastern, New Delhi, 1994 (2nd Ed.), by Vijay Gupta.
+
+Applications of Random Vibration, Springer-Verlag/Narosa, 1994, by N.C.Nigam and S.Narayanan
+
+Structural Stability of Columns and Plates, Ellis Horwood Ltd., 1988, by N. G. R. Iyengar.
+
+Programming Methods in Structural Design, Hodder Arnold H& S, 1981, by  G. R. Iyengar and S K Gupta.
+
+An Introduction to Engineering Design Method, New Delhi : Tata McGraw-Hill Pub., 1980, by Vijay Gupta; P N Murthy.
+
+List of Monographs
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Immersed Boundary Methods – Development and Applications, Editors: S. Roy, A. De, E. Balaras, Springer (2020).
+
+Sustainable Development for Energy, Power, and Propulsion, Editors: A. De, A. K. Gupta, S. K. Aggarwal, A. Kushari, A. K. Runchal, Springer (2020).
+
+High-Performance Computing of Big Data for Turbulence and Combustion, Editors: Sergio Pirozzoli, Tapan K. Sengupta, Springer Nature Switzerland (2019).
+
+Innovations in Sustainable Energy and Cleaner Environment, Editors: Ashwani K. Gupta, Ashoke De, Suresh K. Aggarwal, Abhijit Kushari, Akshai Runchal, Springer (2019).
+
+Energy for Propulsion, A Sustainable Technologies Approach, Editors: A. K. Runchal, A. K. Gupta, A. Kushari, A. De and S. K. Aggarwal, Springer (2018).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Energy, Combustion and Propulsion New Perspectives, Editors: A. K. Agarwal, S. K. Aggarwal, A. K. Gupta, A. Kushari and A. Pandey, Athena Academic (2016).
+
+Air Flow Management in Raised Floor Data Centers, Springer Briefs in Applied Sciences and Technology, Editors: Vaibhav K. Arghode, Yogendra Joshi, Springer International Publishing, Switzerland (2016).
+
+IUTAM Symposium Proceedings: "Advances in Computation, Modeling and Control of Transitional and Turbulent Flows”, Editors: T. K. Sengupta, S. K. Lele, K. R. Sreenivasan and P. A. Davidson, World Scientific Publishing Company, Singapore (2015).
+
+Novel Combustion Concepts for Sustainable Energy Development, Editors: A. K. Agarwal, A. Pandey. A. K. Gupta, S. K. Aggarwal and A. Kushari, Springer (2014).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Fluid Mechanics and Fluid Power- Contemporary Research, Editors: Arun K. Saha, Debopam Das, R. Srivastava, P.K Panigrahi, K. Muralidhar, Springer (2014).
+
+of Symposium on Recent Advances in Rotor Dynamics, Editors: S. Narayanan, A. S. Sekhar and Abhijit Sarkar, McMillan Publishers India Ltd (2012).
+
+Instabilities of Flow: With and without Heat Transfer and Chemical Reaction, Editors: Tapan Sengupta, Thierry Poinsot, Springer Wien-New York (2012).
+
+Combustion Science and Technology Recent Trends, Editors: A. K. Agarwal, A. Kushari, S. K. Aggarwal and A. K. Runchal, Narosa Publications, New Delhi (2009).
+
+Proceedings of the IUTAM Symposium on “Nonlinearity and Stochastic Structural Dynamics”, Editors: S. Narayanan and R. N. Iyengar, Springer-Science + Business Media, B.V (1999).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > books monographs]
+Ground Testing of Aerospace Vehicles including Engines, Proc. National Seminar, Editors: N. G. R. Iyengar, Krishna Kumar, Allied Publishers (1995).
+
+=== consultancy projects ===
+Source: https://www.iitk.ac.in/aero/consultancy-projects
+List of ongoing projects
+
+Consultancy Projects:
+
+Sr. No. | Start Date | Principal Investigator | CO Principal Investigator | Project Title |
+
+1. |
+22-07-2014 |
+Abhishek . |
+C S UPADHYAY
+ABHIJIT KUSHARI |
+Development Of Autonomous Rotary Unmanned Aerial Vehicle (Ruav) In 10 Kg Weight Class |
+
+2. |
+01-04-2015 |
+A K Ghosh |
+G. M. Kamath |
+Flight Lab Training Program For Pvt. Engg College |
+
+3. |
+23-05-2016 |
+Kamal Poddar |
+Wind Tunnel Model Study Of Bridge No.44,53 & 65 In Tupul- Jiribam Section Of N.F. Railway In Manipur. |
+
+4. |
+15-11-2016 |
+A K Ghosh |
+Aerodynamic Design Of Uav |
+
+5. |
+01-04-2018 |
+Kamal Poddar |
+Flexible Heads With Salary, Consumable, Contigency, Equipment And Ta |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > consultancy projects]
+6. |
+01-02-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m High Rcc Chimney Of Fgd Project Of Darlipali Super Critical Thermal Power |
+
+7. |
+01-02-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m High Rcc Ghimney Of Fgd Project Of Vindhyachal Super Thermal Power Project |
+
+8. |
+22-04-2019 |
+Kamal Poddar |
+DEBOPAM DAS
+ALAKESH CHANDRA MANDAL |
+Wind Tunnel Model Study Of Siarang Section Of Nf Railway In Mizoram |
+
+9. |
+01-11-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m High Rcc Chimney Of Fgd Project For 2x500 Mw Durgapur Steel Tps Fgd Project |
+
+10. |
+01-11-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m High Rcc Chimney Of Fgd Project For 2x600 Mw Raghunathpur Tps Fgd Gujarat |
+
+11. |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > consultancy projects]
+01-11-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m High Rcc Chimney Of Fgd Project For 2x500 Mw Mejia Tps Fgd Project |
+
+12. |
+23-12-2019 |
+Kamal Poddar |
+Wind Tunnel Study For 150m & 240m High Rcc Chimney For Stage-I & Stage-Ii (6x210mw+2x500mw)Of Vindhyanchal Super Thermal Power Project |
+
+13. |
+23-01-2020 |
+Kamal Poddar |
+Wind Tunnel Study For 275m High Chimney 2x660mw Sjvn Thermal (P) Limited At Buxar, Bihar |
+
+14. |
+01-06-2020 |
+Kamal Poddar |
+Wind Tunnel Testing Of Two Chimneys (180m & 225m High) For 5x210mw Unchahar Wfgd |
+
+15. |
+15-06-2020 |
+Abhishek . |
+KETAN RAJAWAT
+Mangal Kothari |
+Vtol Uav Design And Development For 7kg Payload |
+
+16. |
+01-07-2020 |
+Kamal Poddar |
+DEBOPAM DAS |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > consultancy projects]
+Wind Tunnel Testing For 2x700mw Rajpura Stpr Rajpura Punjab |
+
+17. |
+17-08-2020 |
+Kamal Poddar |
+Wind Tunnel Testing For 150mtr Rcc Chimney For Fgd Package At Vallur Tps (3x500mw) Tamil Nadu |
+
+18. |
+17-08-2020 |
+Kamal Poddar |
+Wind Tunnel Testing For 150mtr Rcc Chimney For Fgd Package At Talcher Tps Stage I & Ii (2x250mw+4x500mw) Odisha |
+
+19. |
+21-10-2020 |
+Kamal Poddar |
+Wind Tunnel Study Of 150m High Rc Chimney For Dvc Bokaro Fgd Project |
+
+20. |
+01-01-2021 |
+Kamal Poddar |
+Wind Tunnel Testing For 125m High Fgd Chimneys For 5x830mw Cgpl Mundra Tps |
+
+=== flight laboratory ===
+Source: https://www.iitk.ac.in/aero/flight-laboratory
+The flight laboratory is a unique national facility with three single engine airplanes: 1. Piper Super Cub - a two seater a/c, 2. Cessna Skylane - a four seater and 3. Piper Saratoga - a six seater.
+
+The flight laboratory runs courses in flight testing wherein students participate to collect, analyze and evaluate performance and handling qualities of the airplanes. Such courses are also run for the Aerospace Engineering students of other institutes - IIT Bombay, IIT Kharagpur, IIt Madras, PEC Chandigarh and MIT Madras. Presently, under a project ARDB, selected students and faculty members are being imparted flying experience and opportunity to observe routines involved in various phases of flight, eg., take-off, climbing, landing, turning, etc. A project is also underway to instrument the six seater Saratoga airplane for on-board recording of aircraft motion and control variables and thereby make a variable quality flight data required for evaluation, etc. The flight laboratory also has several gliders and an active gliding center where students as well as any member of IIT community can become a member and aspire to reach the stage of getting his/her licence to fly the gliders.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > flight laboratory]
+Flight laboratory is actively involved in the research towards parameter estimation from flight data. Accordingly, the aircraft instrumentation is being upgraded. The expertise developed here are being shared with various aero agencies to contribute towards research and development in the field of flight testing.
+
+Organisaion Tree
+
+Avionics shop : This is rare facility developed in IIT to provide avionics maintenance support to aircraft avionic systems.
+Quality Control Cell : All the maintenance and operation histories of each component of all aircraft are monitored to arrive at timely maintenance of aircraft
+
+Battery Shop : Aircraft batteries are capacity tested here in this shop. We are also providing consultancy support to other aviation clubs.
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > flight laboratory]
+Workshop
+
+Bonded and Quarantine Store : All the aircraft spares are kept in this store under strict environment control as per DGCA norms.
+Data Aquisition cell and Class room
+
+Contact Details
+Faculty In-charge:
+G.M.Kamath, Professor & Head
+
++91-512-259-6614 (w)
+
+Vipul Mathur, Chief Engineer
+Flight Lab
+
++91-512-259-7729(O) / 8225(R)
+
+=== high speed aerodynamics lab ===
+Source: https://www.iitk.ac.in/aero/high-speed-aerodynamics-lab
+The High Speed Laboratory of the Aerospace Engineering Dept. of IIT Kanpur is well known for Research in the area of GAS DYNAMICS. It has gained National and International recognition through its considerable contribution to literature and projects of national importance.
+
+The lab provides facilities in the areas of High Speed Jet Mixing and Acoustics, Supersonic Combustion and so on. In addition to catering to the needs of undergraduate and post-graduate laboratory course needs, it caters to the research requirements of a large number of Doctoral (PhD) and Master (MTech) students. Currently 7 doctoral students are doing their research in the lab. The lab is equipped with an indigenously built Jet Acoustic Chamber, which is unique in India
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > high speed aerodynamics lab]
+The lab also houses an intermittent, blowdown type supersonic wind tunnel. The tunnel is equipped with a dedicated computer system for tunnel control and data acquisition. This facility has already made substantial contribution in establishing new testing techniques and basic research in the area of transonic/supersonic flows.
+
+Research Activities
+
+Gas Dynamics - experimental and theoretical investigation Rarefied flowsApplied Gas Dynamics and High speed jets
+
+Sudden expansion problems
+
+Aeroacoustics
+
+Active and passive control of jets and base flows
+
+Supersonic, Transonic and subsonic Aerodynamics
+
+Facilities Available
+
+Supersonic blow-down wind tunnel (225mm x 175mm)
+
+High Speed Jet Test Facility
+
+Indigenously built Jet Acoustic Chamber.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > high speed aerodynamics lab]
+Compressor for air supply, it can compress the air to a maximum of about 300 psi.
+
+The lab has also acquired a high-pressure compressor which can deliver compressed air at 2000 psi.
+
+Contact Details
+Faculty In-charge:
+Mohammed Ibrahim Sugarno, Associate Professor
+
++91-512-2596345 (O)
+
+Suresh Mishra, Tech. Superintendent
+High Speed Lab
+
++91-512-2597847 (O)
+
+=== hypersonic test facilities ===
+Source: https://www.iitk.ac.in/aero/hypersonic-test-facilities
+S1
+
+The test facility ‘S1’ nicknamed ‘Vaigai’ is the first in the series of Shock tunnel test facilities at IITK. The facility is multifaced; can be operated as shock tube/ Ludwieg tube/ shock tunnel, both in reflected as well as straight through mode. The test facility is 10 m long with 2m Driver, 6 m Driven and 2 m long dump tank assembly with test section. The facility generates Mach 4 and Mach 6 flow based on the nozzle throat insert, in the enthalpy range 0.3 – 1.8 MJ/kg, Reynolds number range 0.5 – 20 million/m, depending on the mode of operation and fill condition.
+
+S2
+
+The test facility ‘S2’ nicknamed ‘Jigarthanda’ is second in the series of Shock tunnel test facilities at IITK. The facility is a Free Piston driven type; can be operated as reflected shock tunnel or expansion tunnel. The facility consists of 6.5 m long and 225 mm compression tube, 65mm dia and 4.5 m shock tube and 8 m long acceleration tube opening into a diverging nozzle with exit dia of 200 mm. The free piston weighing 15kg is launched from a piston launcher supplied with required pressure from a reservoir. The test facility is designed to generate flow enthalpies ranging from 3 to 40 MJ/kg, simulating flight velocities ranging from 2.5 to 12 km/s depending on fill conditions.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > hypersonic test facilities]
+S3
+
+The facility ‘S3’ nicknamed ‘Honeybee’ is the third in the series of the facilities established at HEAL for Hypersonic Aerothermodynamics research. It’s a 15kW plasma torch facility capable of generating Argon, N2 and Air plasma with temperature ranging from 4000 – 6000 K.
+
+Contact details
+Faculty In-charge:
+
++91 512-2596345 (O)
+
+=== journal ===
+Source: https://www.iitk.ac.in/aero/journal
+Journal Publications (2021) : IITK_Aero_2021.pdf
+Journal Publications (2020) : IITK_Aero_2020.pdf
+Journal Publications (2019) : IITK_Aero_2019.pdf
+
+=== lab facilities ===
+Source: https://www.iitk.ac.in/aero/lab-facilities
+Low speed Aerodynamics Lab.
+
+High speed Aerodynamics Lab
+
+Structures Lab
+
+Flight Lab
+
+Aero modelling Lab
+
+Design Lab
+
+Virtual Instrumentation Lab
+
+Research Laboratories & National facilities
+
+High Speed Flows
+
+Flow-Acoustics Coupling
+
+Fluid-Structure Interaction
+
+Energy Harvesting
+
+Turbulence Modeling: DNS, LES, Hybrid RANS/LES
+
+Combustion and Flame Dynamics
+
+Spray modeling
+
+Turbo-machinery Flows
+
+Lattice Boltzmann Modeling
+
+Flow Control
+
+Ashoke De, Professor
+
++91-512-259-7863 (O) / 8301 (R)
+https://home.iitk.ac.in/~ashoke
+
+Low Speed Aerodynamics Laboratory
+
+Unsteady aerodynamics, high – α aerodynamics
+
+Flow control on airfoils, wings, and other bodies
+
+Bluff body flows
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Vortex dynamics
+
+Decelerator aerodynamics
+
+Transition & turbulence
+
+Jets
+
+Alakesh Chandra Mandal, Associate Professor
+
++91-512-259-7062 (O)
+
+Kamal Poddar, Professor
+
++91-512-2597293, 7843 (O)/ 8723 (R)
+
+High Speed Aerodynamics Laboratory
+
+Gas Dynamics - experimental and theoretical investigation
+
+Rarefied flows
+
+Applied Gas Dynamics and High speed jets
+
+Sudden expansion problems
+
+Arun Kumar Perumal, Assistant Professor
+
++91-512-259-2155 (O)
+
+Parameter Identification
+
+Design and Control
+
+Space Dynamics
+
+Missile Guidance and Control
+
+Flight testing
+
+Unmanned and Autonomous Air Vehicles (UAV)
+
+Development and validation of aerodynamic parameter estimation techniques using flight data
+
+High angle of attack aerodynamics
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Estimation of concentration of trace gases and pollutants
+
+Validation and calibration of IMU’s
+
+GPS Receiver Testing, GPS/INS Navigation
+
+A. K. Ghosh, Professor & Former Head
+
++91-512-2597716 (O) / 8221 (R)
+https://www.iitk.ac.in/aero/akg
+
+G.M.Kamath, Associate Professor
+
++91-512-259-6614 (w)
+
+Subrahmanyam Saderla, Assistant Professor
+
+0512-259-2009 (Office, HSAL-05)
+
+National Wind Tunnel Facility
+
+Decelerator Aerodynamics
+
+Development of High Lift Devices
+
+Unsteady and High Angle of Attack Aerodynamics
+
+Transport Aircraft Studies Including Development of Airfoils
+
+Missile Aerodynamics
+
+Helicopter Aerodynamics
+
+Aerodynamics of Road Vehicle
+
+Wind Effect on Structures
+
+Aerodynamics of Wind Power Devices
+
+Bridge Aerodynamics
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Structural Analysis Laboratory
+
+Computational Aeroelasticity, dynamics and vibration, mini-helicopter design and fabrication
+
+Stochastic analysis, design and analysis of fastener systems (for Indian Railways)
+
+Smart structure modeling and analysis
+
+Composite structure analysis and design, homogenization, generalized damage mechanics.
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+https://home.iitk.ac.in/~shekhar
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+https://home.iitk.ac.in/~mohite
+
+Pritam Chakraborty, Assistant Professor
+
++91-512-259-7951 (O)
+https://home.iitk.ac.in/~cpritam/
+
+Tanmoy Mukhopadhyay, Assistant Professor
+
++91-512-679-2092 (O)
+https://www.tmukhopadhyay.com/
+
+Stabilized finite element methods
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Unsteady aerodynamics
+
+Laminar separation bubbles on airfoils
+
+Shape optimization of airfoils
+
+Linear stability analysis
+
+Buzz instability in air intakes
+
+Aerodynamics of sport balls and shuttle cock
+
+Bluff body flows
+
+Fluid-Structure Interactions
+
+High performance computing
+
+Sanjay Mittal, Professor
+
++91-512-2597906, 6603 (O)/ 8702, 1132 (R)
+https://home.iitk.ac.in/~smittal
+
+Experimental study on compressible vortex rings: Flow velocity measurements in circular and non-circular vortex rings using Particle Image Velocimetry (PIV), Time-Resolved PIV (TRPIV) and Hotwire. Flow visualization using high speed Schlieren system in supersonic flow.
+
+Aeroacoustics of supersonic vortices during evolution and interaction.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Impinging jet flow studies for GSLV MK-III. Flow and acoustic field during initial startup, interaction with the reflected shock and interaction with the deflector.
+
+Debopam Das, Professor
+
++91-512-259-7227 (O)/ 8578 (R)
+https://home.iitk.ac.in/~das
+
+Design and fabrication of MAVs/UAVs
+
+Hover capable VTOL/STOL vehicles
+
+Development of NAAVIK (Navigation for Autonomous Aerial Vehicles by IIT Kanpur)
+
+Cross platform auto-pilot system for fully autonomous indoor and outdoor navigation for UAVs/MAVS
+
+Helicopter Aeromechanics
+
+Helicopter inverse simulation for loads prediction
+
+Morphing rotor concept
+
+Geometrically exact beam formulation
+
+Comprehensive analysis for helicopter design
+
+Vertical Axis wind turbine design for urban application
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Abhishek, Associate Professor
+
++91-512-259-7515 (O), 6259 (L)
+https://home.iitk.ac.in/~abhish/
+
+Gelled Jet A1 Propellant Spray Combustion
+
+Scope of Studies
+
+Develop and characterize Jet A1 based gelled propellant formulation
+
+Achieve atomization of highly viscous non-Newtonian gel propellant in an air-assist atomizer
+
+Unravel breakup mechanisms and spray characteristics
+
+Discover distinguishing features of gel propellant spray flames
+
+D. P. Mishra, Professor
+
++91-512-2597125 (O) / 8695 (R)
+https://www.iitk.ac.in/aero/dpm/index.htm
+
+Modeling of High Speed and Non-equilibrium Gas Flows
+
+Rarefied Gas Dynamics using Direct Simulation Monte-Carlo (DSMC) Approach
+
+Development and Implementation of Particle based Approaches
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
+Micro/nano-fluidics using Particle based Approach
+
+Numerical Simulation of Granular Flows using Discrete Element Method (DEM)
+
+Simulation of Dusty-Gas Flows using CFD-DEM or DSMC-DEM based Approach
+
+Planetary Landing and Reentry Flow Simulation in Particle Framework
+
+Study of Gas-Surface Interactions, Pyrolysis Kinetics and Surface Chemistry using Molecular Dynamics Approach
+
+Experimental and Numerical Simulation of Jet Flows and Plug Nozzles
+
+Heat Transfer and Thermal Management of Aerospace Systems
+
+Rakesh Kumar, Associate Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+https://home.iitk.ac.in/~rkm
+
+Unsteady Gas Dynamics
+
+Flow control
+
+Bluff body flows
+
+Vortex dynamics
+
+Granular Flows
+
+Sanjay Kumar, Professor
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
++91-512-2596768
+
+Gas turbine combustion
+
+Solar thermal energy
+
+Gas-particle flows
+
+Nano energetics
+
+Thermal management of aerospace systems
+
+Thermo-fluids diagnostics
+
+Vortex shedding combustors
+
+Entropy driven instabilities
+
+Azimuthal instability in annular combustors
+
+Vaibhav Arghode, Assistant Professor
+
++91-512-259-6294 (O)
+https://sites.google.com/view/varghode
+
+Sathesh Mariappan, Associate Professor
+
++91-512-259-6331 (O)
+https://sites.google.com/view/sathesh-mariappan/
+
+Rocket and Gas Turbine Propulsion
+
+Combustion
+
+Liquid Atomization
+
+Turbo-machinery
+
+Intake and Nozzle Flows
+
+Electric Propulsion
+
+Flow Physics and Flow Control
+
+Aeroacoustics
+
+Fluid Structure Interaction
+
+Fire Dynamics and Suppression
+
+Abhijit Kushari, Professor & Head
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > lab facilities]
++91-512-2597126 (O) / 8536 (R)
+https://home.iitk.ac.in/~akushari/
+
+Planetary Entry Studies – Convective & Radiative heat transfer
+
+Hypersonic Shock-Wave Boundary Layer Interaction (H-SWBLI)
+
+Scramjet Propulsion – External and internal flows
+
+High Enthalpy Test Facility Development
+
+Shock Waves – Shock focusing & shock interaction with complex media
+
+Mohammed Ibrahim Sugarno, Assistant Professor
+
++91 512-2596345 (O)
+
+=== low speed aerodynamics lab ===
+Source: https://www.iitk.ac.in/aero/low-speed-aerodynamics-lab
+Unsteady aerodynamics
+
+High – AOA aerodynamics
+
+Flow control on airfoils, wings and other bodies
+
+Bluff body flows
+
+Wind engineering
+
+Decelerator aerodynamics
+
+Transition
+
+Low speed aerodynamics laboratory has several wind tunnels to carry out experimental research in the areas of aerodynamics. A brief description of these facilities are given below.
+
+Low Turbulence Tunnel
+This is a open-return suction type tunnel powered by a 2.5 H.P. DC fan. The outlet from a 8:1 contraction has a rectangular cross section of 12" x 16" and exit velocities up to 25 m/sec. Downstream of the contraction there is a 48" long working section which could be extended if needed. The fan is equipped with a variable speed control.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > low speed aerodynamics lab]
+Boundary layer Tunnel
+This is another open-return sunction type tunnel powered by a 20 H.P. fan. This facility has a contraction ratio of 9:1, and has a 120" long working section with a 24" x 24" cross section. It has a variable speed range up to 20 m/sec.
+
+Twin Air or 5-D Tunnel
+This tunnel is a closed circuit type with two test sections: one is 3-D and the other is 2-D. This is powered by two 15 H.P. fans and has variable speed control. The 2-D side of the tunnel has a contraction ratio of 12:1 and a 60" long working section with a cross section of 12"x 48". Maximum speed in this side is about 40 m/sec. On the 3-D side, the tunnel has a contraction of 11:1 and a working section of 24" x 36". Maximum speed in this side is about 30 m/sec.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > low speed aerodynamics lab]
+Contact Details
+Faculty In-charge:
+Alakesh Chandra Mandal, Professor
+
++91-512-259-7062 (O)
+
+Abhinath Kumar Yadav, Junior Technical Superintendent
+Low-Speed Aerodynamics Laboratory
+
++91-512-2597812 (O)
+
+=== m s research program ===
+Source: https://www.iitk.ac.in/aero/m-s-research-program
+M.S. (Research) Program
+
+The MS(Research) program in Aerospace Engineering is two years (4 semesters) program. The students admitted to this program are expected to complete 36 credits of courses (typical one semester load) and the rest of the duration is expected to be spent on research work leading to a thesis. This program is more research intensive than the M.Tech. program.
+
+A student admitted to the MS(Research) program in Aerospace Engineering is associated with one of the four groups:
+
+Aerodynamics
+
+Flight Mechanics and Control
+
+Propulsion
+
+Structures, Structural Dynamics & Aeroelasticity
+
+The details of the areas encompassed by each group and IDS can be found in “Research Areas”.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > m s research program]
+Eligibility
+
+Candidates with B.E./B.Tech. degree in Aerospace / Aeronautical, Mechanical, Automobile, Production, Civil, Chemical, Naval Architecture, Electrical, Electronics / Electronics and Communication, Metallurgy / Metallurgy & Material Science, Instrumentation, Mechatronics; four year BS degree in Physics, Mathematics or MSc degree in Physics, Mathematics and Engineering Physics with valid GATE score can apply to the M.S. (Research) program. For details, please refer to the attached table Eligibility.pdf
+
+Candidates working on research projects in the department for 2 years or more are eligible without a GATE score.
+
+Admissions
+
+Announcements for admission to the MS(Research) program are made twice a year typically around April or May and October or November. Please check the institute website (https://iitk.ac.in) for the announcement and details of the admission procedure.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > m s research program]
+During application every candidate has to mention the choice of specialization out of the 4 groups
+
+The department specific procedures for admission to the M.S. (Research) program are as follows:
+
+Non-sponsored candidates are required to appear in a written test based on mathematics and basic subjects related to Undergraduate Engineering Program. Typically the candidates are required to answer five questions that include two compulsory mathematics questions and any three out of eight subject questions. The shortlisted candidates are then called for a panel interview in their choice of group.
+
+Sponsored (By Industry / Govt. Labs) may be asked to appear for a panel interview in their choice of group.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > m s research program]
+Typically the details of the department specific procedure are shared with the applicants over email or announced on our website after the advertisement for admissions is made.
+
+Refer to https://iitk.ac.in/doaa/pg-manual for more details about the rules and regulations.
+
+Conversion of Program from M.Tech./MS(R) to Ph.D.
+
+Refer to the criteria given below item 4.6 in PG Manual (https://iitk.ac.in/doaa/pg-manual).
+
+For any query, please contact:
+
+Convenor,
+DPGC Department of Aerospace Engineering
+IIT Kanpur, Kanpur-208016, UP (India)
+Email:
+
+Mr. Vikas Kumar
+Office of Department of Aerospace Engineering
+IIT Kanpur, Kanpur-208 016, UP (India)
+Email:
+
+Ph: +91-512-2596704(O)
+
+=== new research initiatives ===
+Source: https://www.iitk.ac.in/aero/new-research-initiatives
+ACECOST program for composite materials and structures
+
+NP-MICAV program for autonomous vehicles: fixed wing, flapping wing and rotary wing configurations
+
+GATET Program - gas turbine aeroelasticity
+
+Advanced computational fluid dynamics
+
+In-flight simulation with variable stability aircraft
+
+Aero-acoustics, aeroelasticity and aero-servo-elasticity
+
+Hypersonics
+
+Combustion and fire dynamics
+
+Damage and fracture mechanics
+
+Shell and missile dynamics
+
+=== patents ===
+Source: https://www.iitk.ac.in/aero/patents
+List of Patents
+
+Sr. No. | Inventors | Title | IPA No. | Filing Date | Grant No. |
+
+1 |
+Dr. Kunal Ghosh (AE) |
+A Device for Extracting Power from to-and-fro Wind |
+2673/DEL/1996 |
+02.12.1996 |
+212643 |
+
+2 |
+Dr. Abhijit Kushari (AE) Mr. Mahindra Singh Rawat (AE) |
+A Twin- Fluid Internally Mixed Swirl Atomizer |
+180/DEL/2004 |
+09.02.2004 |
+262457 |
+
+3 |
+Dr. D. P. Mishra, AE |
+An Improved Tandoor |
+1292/DEL/2004 |
+14.07.2004 |
+251576 |
+
+4 |
+Dr. Kunal Ghosh (AE) |
+A Wind Turbine Device |
+570/DEL/2005 |
+16.03.2005 |
+265417 |
+
+5 |
+Dr. Kamal K Kar (ME), Dr. Prashant Kumar (ME), Dr. N. G. R. Iyengar (AE), Mr. Prahbat Kumar (MME) |
+Carbon Nanotube and Nanoparticle Coated Carbon Fiber Reinforced-polymer Hybrid Nanocomposite with Improved Thermomechanical Properties and a Process for Preparation Thereof |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+1813/DEL/2005 |
+14.07.2005 |
+258293 |
+
+6 |
+Dr. D. P. Mishra, AE & Mr. S. C Nayak |
+Recuperative Liquefied Petroleum Gas (LPG) Vortex Burner System |
+3197/DEL/2005 |
+29.11.2005 |
+269392 |
+
+7 |
+Dr. Abhijit Kushari, AE, Sanjeev Kumar Gupta, Sr. Pro. Asso (AE), Dr. C. Venkatesan, AE & Dr. C. S. Upadhyay, AE |
+Drile Measurement Machine |
+1656/DEL/2007 |
+03.08.2007 |
+
+8 |
+Dr. C. Venkatesan, AE, Dr. A. Kushari AE and Dr. C.
+S. Upadhyay, AE , Mr. Sanjeev Kr. Gupta, Sr. Pro. Asso, AE |
+Piston Based Resistor |
+1886/DEL/2007 |
+06.09.2007 |
+306832 |
+
+9 |
+Dr. C. Venkatesan, AE, Dr. A. Kushari, AE, Dr. C. S. Upadhyay, AE & Mr. Sanjeev Kumar Gupta, Sr. Pro. Asso. , AE |
+Estimation of Inertia Tensor and Centre of Gravity of a Vehicle on the Three Axes Platform |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+2365/DEL/2007 |
+13.11.2007 |
+
+10 |
+Dr. D. P. Mishra, AE, Mr. S. Y. Jejurkar, Doctoral student, AE |
+A Heat Recurperating Microcombustor |
+2257/DEL/2009 |
+03.11.2009 |
+
+11 |
+Dr. D P Mishra, AE |
+Low Emission and Energy Efficient CNG Burner |
+2347/DEL/2009 |
+13.11.2009 |
+
+12 |
+Dr. Kunal Ghosh, AE |
+Device for Power Control and Storm Security for Savonius Wind Turbine |
+1217/DEL/2010 |
+26.05.2010 |
+
+13 |
+Dr. Kunal Ghosh, AE |
+A Horizontal Axis Wind Turbine for Augmenting Torque |
+212/DEL/2011 |
+31.01.2011 |
+330293 |
+
+14 |
+Dr. Abhijit Kushari, (AE), Mr. Mukul Atri, Student , Mr. Sriram Ganesan, Student |
+An Arrangement for Jet Engine to Reduce Noise |
+3603/DEL/2011 |
+12.12.2011 |
+
+15 |
+Dr. D P Mishra (AE), Ms. Manisha B Padwal |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+Two- Fluid Atomizer |
+1551/DEL/2013 |
+23.05.2013 |
+
+16 |
+Dr. D P Mishra (AE) |
+Hydrogen Gas Burner and Method of Combustion in Hydrogen Gas Burner |
+2545/DEL/2013 |
+28.08.2013 |
+
+17 |
+Dr. Debopam Das (AE) and Mr. Joydeep Bhowmik (PhD Student) |
+Ornithopter |
+59/DEL/2015 |
+07.01.2015 |
+
+18 |
+Mr. Tigmanshu Goyal , Mr. David Kumar, Mr. Shyam Kumar Vemuri, Dr. P M Mohite, Dr. Sudhir Kamle (AE) |
+Independently Controlled Gull Inspired Bionic Flapping Wing Mechnanism for UAVs |
+509/DEL/2015 |
+23.02.2015 |
+
+19 |
+Dr. Abhishek (AE), Mr. Palash Jain (Student) and Kirti Bhatnagar (Student) |
+High Efficiency Variable-pitch Vertical Axis Wind Turbine (VAWT) |
+904/DEL/2015 |
+31.03.2015 |
+
+20 |
+Mr. Chandrala Lakshmana Dora, Mr. Kuchimanchi K Bharadwaj and Dr. Debopam Das (AE) |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+A System for Particle Generator in PIV Applications |
+4130/DEL/2015 |
+16.12.2015 |
+
+21 |
+Dr. Abhishek (Asst Dr. ), AE Dr. Mangal Kothari (Asst Dr. ), AE, Mr. Ramdas (PhD Student, AE) Ms. Nidhi sh Raj (PhD Student, AE) |
+High Endurance Quadrotor Helicopter |
+4184/DEL/2015 |
+19.12.2015 |
+
+22 |
+Dr. Sathesh Mariappan (AP, AE) Dr. Anand Singh (AP, Chm), Sai sandeep Dammati (AE, Student), Kuchimanchi K Bharadwaj (PhD Student, AE), Santosh D. Jadhav (Student, Chm) |
+Temperature Sensitive Paint for the Usage in Green Spectrum of Light |
+201611001597 |
+15.01.2016 |
+324934 |
+
+23 |
+Dr. Abhishek (AE), Dr. Abhijit Kushari (AE), Mr. Yonas Gebre (AE), Mr. Palash Jain (AE) |
+A Device for Power Control and Storm Protection for Wind Turbine |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+201611003599 |
+02.02.2016 |
+
+24 |
+Mr. Rishi Kant (ME), Dr. Shantanu Bhattacharya (ME), Mr. Abhijit Verma (AE), Mr. Naman Kumar Rawal (AE) |
+Micropump for Fluidic Applications |
+201611005750 |
+18.02.2016 |
+
+25 |
+Dr. Abhishek, AE, Dr. Mangal Kothari, AE, Ms. Namrata Gupta (Student, AE), Mr. Vishnu Chipade (Student, AE), Mr. Naveen Gupta (Student, AE), Mr. Rushikesh Chaudharu (Student, AE), Mr.
+Ranvijay Singh (Student, AE) |
+A VTOL Unmanned Aerial Vehicle |
+201611015384 |
+03.05.2016 |
+
+26 |
+Mr. K Sri harsha, Civil Student ,Dr. Shivam tripathi (Asst Dr. , CE), Abhijeet Verma, Student AE, Sunil Nishad, Junior Technician, CE |
+Automated Interactive Multi-parameter Recorder and Water Sampler |
+201611019268 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+03.06.2016 |
+
+27 |
+Dr. Debopam Das (AE), Mr. Gaurav Seth (Student, AE), Mr. Joydeep Bhowmik (PhD Student, AE) |
+A Foldable Wing Design of an Improved Flapping Wing Aerial Vehicle |
+201611038098 |
+08.11.2016 |
+
+28 |
+Dr. Abhishek (AE), Mr. Rahul R (PhD Student, AE) |
+Coaxial Rotor System with Asymmetric Rotor Arrangement and Method Thereof |
+201711013049 |
+11.04.2017 |
+
+29 |
+Mr. Vishvendra Rustagi (Student, AE), Dr. Anindya Chatterjee (ME), Dr. Mangal Kothari (AE) |
+Angular Momentum Device for Stabilization and Control for Tailless Aircraft |
+201711017649 |
+19.05.2017 |
+
+30 |
+Dr. Abhishek (AE), Mr. R. Rama Krishna (B. tec Student), Mr. Sourav Sinha (B. Tech Student), Mr. Joydeep Bhowmick (PhD Student, AE), Dr.Debopam Das (AE), Dr. Mangal Kothari (AE) |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+Quadrotor Convertiplane Air Vehicle |
+201711020832 |
+14.06.2017 |
+
+31 |
+Dr. Abhishek (AE), Mr. Rajat Tripathi (Student, AE), Mr. M. Rama Krishna (Student, AE), Mr. Sourav Sinha (Student, AE) |
+Unmanned Aerial Vehicle System having Vertical Takeoff, Vertical Landing, and Hovering Flight Capabilities |
+201711021886 |
+22.06.2017 |
+
+32 |
+Mr. Jay Patrikar (Student, AE), Mr. M. Rama Krishna (Student, AE), Mr. Chirag Jha (Student, AE), Mr. Rachit Agarwal (Student, AE), Dr. A. K . Ghosh (AE) |
+A Portable Unmanned Aerial Vehicle and Method Thereof |
+201711029820 |
+23.08.2017 |
+
+33 |
+Mr. Santosh Pramanik (JTS, 4i Lab), Mr. Afraz Khan (Alumni, AE), Mr. Ravi Pandey (REO, IPR Cell) |
+A Flow Cell and Method Thereof for Optical Measurement of Micro/nano Structure |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+201811029094 |
+02.08.2018 |
+
+34 |
+Dr. Joydeep Bhowmik (AE), Dr. Debopam Das (AE) |
+Novel Spring Induced Ornithopter Wing Design with a Bent Bar |
+314953-001 |
+19.02.2019 |
+Design |
+
+35 |
+Dr. Abhijit Kushari (AE), Mr. M. C. Keerthi (PhD Student, AE) |
+A Traverse System and Method Thereof |
+201911009661 |
+13.03.2019 |
+
+36 |
+Dr. Joydeep Bhowmik (AE), Dr. Debopam Das (AE) |
+A Spring Induced Ornithopter Wing Design |
+201911016240 |
+24.04.2019 |
+
+37 |
+Dr. Abhijit Kushari (AE), Dr. C. S. Upadhyay (AE), Mr. Rajat Arora (PhD Student, AE), Mr. Chandra Sekar T. (PhD Student, AE), Mr. Keerthi M. C. (PhD Student, AE), Mr. Ramraj H. Sundararaj (PhD
+Student, AE) |
+Force Measurement Arrangement |
+201911022443 |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+06.06.2019 |
+
+38 |
+Mr. Avisor Bhattacharya (PEO, IITK), Mr. Prabhat Kumar Rai (PhD Student, MSE), Ms. Neetu (PhD Student, MSE), Dr. Kallol Mondal (MSE), Dr.
+Sandeep Sanghal (MSE), Dr. Shashank Shekhar (MSE), Dr. Chandra Shekhar Upadhyay (AE), Mr. Shubhendu Garg (Student, MSE), Dr. Sankaran S. (IIT Madras), Dr. Bhattacharya Somnath (IIT Madras), Dr. Chandan Srivastava (IISc Bangalore), Dr. Satyam Suwas (IISc Bangalore) |
+High Strength Steel Composition and Method Thereof |
+201911030090 |
+25.07.2019 |
+
+39 |
+Mr. Tushar Goswamy (Student, AE), Mr. Priyanshu Gupta (Student, CSE), Mr. Himanshu Kumar (PhD Student, EE), Dr. K. S. Venkatesh (EE) |
+A System and Method for Detection of Keystroke using Defocus |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+201911044242 |
+31.10.2019 |
+
+40 |
+Mr. Naveen Balaji N (B. Tech Student, AE), Dr. Mangal Kothari (AE), Dr. Abhishek (AE) |
+System and Method for Estimation of Yaw Angle for Mobile Objects |
+201911048789 |
+28.11.2019 |
+
+41 |
+Dr. Debi Prasad Mishra (AE), Mr. Vishnu Hariharan (Research Scholar, AE) |
+Low Nox Fuel Port Array Burner for Emission Control |
+201911052615 |
+18.12.2019 |
+
+42 |
+Mr. Vijay Shankar Dwivedi (Student, AE), Dr. A. K. Ghosh (AE), Dr. G. M. Kamath (AE) |
+A Novel Control Surface “Auxiron” to Optimize Solar Power Collection of Solar Aircraft |
+201911054467 |
+30.12.2019 |
+
+43 |
+Dr. Vaibhav Arghode (AE) |
+A Peripheral Vortex Reverse Flow Combustor with Coaxial Fuel Injection (PVRF-COAX) And Method Thereof |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > patents]
+202011004332 |
+31.01.2020 |
+
+44 |
+Ms. Kiranjit Das Dalal (Student, EE), Dr. Abhishek (AE), Dr. K. S. Venkatesh (EE) |
+Real-time Spherical Omnidirectional Visual Gyroscope |
+202011057504 |
+31.12.2020 |
+
+=== projects ===
+Source: https://www.iitk.ac.in/aero/projects
+Content Pending
+
+=== propulsion lab ===
+Source: https://www.iitk.ac.in/aero/propulsion-lab
+The Propulsion Lab of the Aerospace Engineering Dept. of IIT Kanpur is well known for Research in the area of Propulsion and combustion. The lab has completed a number of sponsored and consultancy projects for different agencies.
+
+The lab has all research level facilities. The lab is equipped with Low Speed Cascade Tunnel (30 cm x 38 cm) with variable speed upto 60 m/sec, Tunnel (7cm x 7 cm ) for LDA facility where jet mixing studies and flow visualization can be carried out. The lab also houses a 2- shaft Gas Turbine where Power, Torque, Pressure, Temperature measurement and cycle analysis can be performed. The Lab is equipped with a continuous combustion Unit where heat balance studies, exhaust gas composition, effect of fuel and flame stability test can be performed.Since the modern laboratory practices require automation, an on-line data acquisition on computers for all wind tunnel operation and measurement, new instruments, techniques and facilities are also being added to the lab.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > propulsion lab]
+Research Activities
+Internal Flow Control (Active & Passive) (S-Ducts, Serpentine Ducts, Cascades)
+
+Secondary Flow
+
+Separation
+
+Flow Diagnostics
+
+Combustors
+
+Pipe flow
+
+Turbo-machinery
+
+Compressors (surge and rotating stall)
+
+Secondary Flow
+
+Flutter
+
+Thrust VectoringCombustion
+
+Thrust VectoringCombustion
+
+Instability
+
+Emissions
+
+Liquid Atomization and Spray Combustion
+
+Air-assisted, air-blast, effervescent, electrostatic, piezo-electric
+
+Electric Propulsion
+
+Pulsed Plasma Thruster
+
+Low Speed Cascade Wind Tunnel
+
+2-Shaft Gas Turbine
+
+Continuous Combustion Unit
+
+Tunnel (7cm x 7cm) for LDA Facility
+
+Gaseous Fuel Combustion Test Rig
+
+Combustor With Optical Windows
+
+Test Bench For Characterization of Fuel Atomizers
+
+Important Instruments
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > propulsion lab]
+High Resolution CCD Camera for Flow Visualization
+
+Mini-CTA hot wire Annemometer
+
+Malvern Spraytech Particle Size Analyzer
+
+Chemiluminescence NOx Gas Analyzer
+
+NDIR CO/CO2 Gas Analyzer
+
+Paramagnetic O2 Gas Analyzer
+
+Pressure Scanner
+
+Pulse Generator
+
+Contact Details
+Faculty In-charge:
+Vaibhav Arghode, Associate Professor
+
++91-512-259-6294 (O)
+
+Harshu Bhimgade, Junior Technician
+Propulsion Laboratory
+
++91-512-2592451 (O)
+
+=== recent publications ===
+Source: https://www.iitk.ac.in/aero/recent-publications
+Some of the papers published in past five years (year wise) with details of co-authors and journals / conferences
+
+Mariappan, S. and Sujith, R. I. Modeling nonlinear thermoacoustic instabilityin an electrically heated Rijke tube. Journal of Fluid Mechanics,680:511–533, 2011, doi:10.1017/jfm.2011.176
+
+Mariappan, S. and Sujith, R. I. Thermoacoustic instability in a solid rocketmotor: non-normality and nonlinear instabilities. Journal of Fluid Mechanics,653:1–33, 2010, doi:10.1017/S0022112010000133
+
+Subramanian, P., Mariappan, S., Sujith, R. I. and Wahi, P. Bifurcation analysis of thermoacoustic instability in a horizontal Rijke tube. Int’lJournal of Spray and Combustion dynamics, 2:325–356, 2010
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Mariappan, S., Gardner, A., Richter, K. and Raffel, M. Analysis of dynamicstall using dynamic mode decomposition technique, under revisionwith AIAA Journal, 2013
+
+Lang, W., Gardner, A. D., Schuelein, E., Mariappan, S. and Raffel, M.Rotor blade boundary transition measured by temperature sensitive paint,thermal imaging and image derotation, submitted to Experiments in Fluids,2013
+
+P. Kumar, A. C. Mandal, and J. Dey.  Reversal of roughness-induced transition by a  mesh in the outer boundary layer. 14th Asian Congress of Fluid mechanics, Hanoi,  Vietnam, Oct, 15-19, 2013.
+
+Mandal, A. C., and Dey, J. An experimental study of boundary layer transition induced by cylinder wake. J. Fluid Mech. Vol-684, pp 60-84, 2011.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Mandal, A. C., Venkatakrishnan, L. & Dey, J. A study on boundary-layer transition induced by freestream turbulence.J. Fluid Mech.Vol-660, pp 114-146, 2010.
+
+Mandal, A. C., and Dey, J. A relationship between Laminar and turbulent skin-friction in a constant pressure boundary layer,” Journal of Aerospace Sciences and Technologies,Vol-61, pp 519-521, 2009.
+
+Shyam, G., Mandal, A. C., & Dey, J. Transient Growth in a Boundary Layer in a Freestream with Uniform Shear. International Conference and Exhibition on Aerospace Engineering, IISc Bangalore, India, 2009.
+
+Kumar, R., Li, Z., Levin, D., “Modeling of Carbon Dioxide Condensation in the High Pressure Flows using the Statistical BGK Approach,”  Physics of Fluids, 23, 052001 (2011).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Kumar, R., Li, Z., vanDuin A., and Levin, D., “Molecular Dynamics Studies to Understand the Mechanism of Heat Accommodation in Homogeneous Condensing Flow of Carbon Dioxide,” The Journal of Chemical Physics, 135, 064503 (2011).
+
+Kumar, R., Saurav, S., Titov, E., Levin, D., Long, R., Neely, W., and Setlow, P., “Thermo-structural Studies of Spores Subjected to High Temperature Gas Environments,” International Journal of Heat and Mass Transfer, 54, 755 (2011).
+
+Kumar, R., and Levin, D., “Simulation of Homogeneous Condensation of Small Polyatomic Systems in High Pressure Supersonic Nozzle Flows using BGK Model” The Journal of Chemical Physics, 134, 124519 (2011).
+
+Kumar, R., Titov, E., and Levin, D., “Development of a Particle-Particle Hybrid Scheme to Simulate Multi-scale Transitional Flows,” AIAA Journal, 51, 200 (2010).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Abhishek, Ananthan, S., Baeder, J., and Chopra, I., “Prediction and Fundamental Understanding of Stall Loads in UH-60A Pull-up Maneuver,” Journal of the American Helicopter Society, Vol. 56, No. 4, October 2011.
+
+Abhishek, Datta, A., Ananthan, S., and Chopra, I., “Prediction and Analysis of Main Rotor Blade Loads in a Prescribed Pull-Up Maneuver,” Journal of Aircraft, Vol. 47, No. 4, July–August 2010, pp. 1197-1215.
+
+Abhishek, Datta, A., and Chopra, I., “Prediction of UH-60A Structural Loads and Servo Loads using Multibody Analysis and Swashplate Dynamics,” Journal of Aircraft, Vol. 46, No. 2, March 2009, pp. 474-490.
+
+"Large Eddy Simulation of a Premixed Bunsen flame using a modified Thickened-Flame model at two Reynolds number”, Combustion Science and Technology, 2009, 181(10), 1231-1272.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+“An experimental and computational study of a swirled stabilized premixed flame”, ASME J. of Engg. for Gas Turbines and Power, 2010, 132 (7), 071503.
+
+“Numerical Simulation of Delft-Jet-in-Hot-Coflow (DJHC) Flames Using the Eddy Dissipation Concept Model for Turbulence-Chemistry Interaction”, Flow, Turbulence and Combustion, 2011, 87(4), 537-567.
+
+“Parametric study of upstream flame propagation in hydrogen-enriched premixed combustion: Effects of swirl, geometry and premixedness”, International Journal of Hydrogen Energy, 2012, 37, 14649-14668.
+
+“Dynamics of upstream flame propagation in a hydrogen enriched premixed flame”, International Journal of Hydrogen Energy, 2012, 37, 17294-17309
+
+Dynamic mechanical behavior of epoxy variant sandwich structures, N. Rajesh and R. Kitey, 3rd Asian Conference on Mechanics of Functional Materials and Structures (ACMFMS), Dec 2012, IIT Delhi, India.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+A hybrid experimental/numerical approach to characterize interfacial adhesion in multilayer low-k thin film specimens, R. Kitey, N. R. Sottos and P. H. Geubelle, Thin Solid Films, 2010, V. 519, P. 337-344.
+
+Mixed-mode interfacial adhesive strength of a thin film on an anisotropic substrate, R. Kitey, P. H. Geubelle and N. R. Sottos, Journal of Mechanics and Physics of Solids, 2009, V. 57, I. 9, P. 51-66.
+
+Mixed-mode Dynamic Crack growth past a stiff inclusion: Optical investigation of inclusion eccentricity and inclusion-matrix adhesion strength, R. Kitey and H. V. Tippur, Experimental Mechanics, 2008, V. 48, I. 1, P. 37-53.
+
+Role of particle size and filler-matrix adhesion on dynamic fracture of glass-filled epoxy: II. Linkage between macro- and micromeasurements, R. Kitey and H. V. Tippur, ActaMaterialia, 2005,V. 53, P. 1167-1178.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Mohite PM and Upadhyay CS. Region-by-region modeling of laminated composite plates, Computers and Structures, Vol. 85, 23-24, December 2007; 1808-1827.
+
+Mohite PM and Upadhyay CS. A generalized adaptive analysis of laminated plates, Vol. 112-113, December 2012, 217-234.
+
+Prasanna Kumar I, Mohite PM and Kamle S. Axial compressive strength testing of single carbon fibres, Archives of Mechanics, Vol. 65, 2013, 27-43.
+
+T. Murugan & Debopam Das, Characteristics of counter-rotating vortex rings formed ahead of a compressible vortex ring , Expts. In Fluids Vol. 49 Issue: 6 Page: 1247-1261, 2010
+
+T. Murugan & Debopam Das, Characteristics of noise produced during impingement of a compressible vortex ring on a wall, International Journal of Aeroacoustics Vol 9 Issue 6 PP849-846, 2010
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Murugan T, S. De, C. L. Dora and Debopam Das,  Numerical simulation and PIV study of compressible vortex ring evolution,  Shock Waves Vol.22, Number 1, 69-83, 2012 online 2011
+
+Joydeep Bhowmik, Debopam Das, Saurav Kumar Ghosh, Aerodynamic modeling of flapping flight using lifting line theory,  International Journal of Intelligent Unmanned Systems(Invited Article) Vol. 1 Iss: 1, pp.36 – 61, 2013
+
+Murugan, T., De, S., Dora, C., Das, D. and Kumar, P.P.,  A study of the counter rotating vortex rings interacting with the primary vortex ring in shock tube generated flows,  Fluid Dynamics Research Vol. 45(2), pp. 025506 ,2013 (Most read article May 2013)
+
+R Neelamegam, V Shankar, and Debopam Das, Suppression of purely-elastic instabilities in the torsional flow of viscoelastic fluid past a soft solid,  Physics of Fluids Vol.25, Issue 12, 2013
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Combustion Science and Technology, Recent Advances, Eds. A. K. Agarwal, A. Kushari, S. K. Aggarwal and A. K. Runchal, 2009, Narosa Publications, New Delhi.
+
+M. Madanmohan, A. Kushari and K. Ramamurthi, “Thermo-Fluidic Instabilities in Cone Stabilized Non-premixed Combustor”, Applied Thermal Engineering, Vol. 31, 2011, pp. 3206-3213.
+
+Jejurkar S  J  and  D. P. Mishra, “Flame Stability Studies in a Hydrogen-Air Premixed Flame Annular Microcombustor”,   International Journal of Hydrogen, vol 36, issue 12, Pages 7326-7338, 2011.
+
+Jejurkar S  J  and  D. P. Mishra, “Effects of Combustor Geometry on Hydrogen-Air Premixed Flame Combustion in an Annular Microcombustor, Proc. IMechE, Part Journal of Aerospace Engineering, 225:1310–1321, 2011.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+P. K. Ezhil Kumar and D. P. Mishra, “Numerical Simulation of Cavity Flow Structure in an Axisymmetric Trapped Vortex Combustor”, Aerospace Science and Technology, 21, pp. 16–23, 2012.
+
+Jejurkar S.  Y.  and  D. P. Mishra, “Characterization of Confined Hydrogen–Air Jet Flame in a Crossflow Configuration Using Design of Experiments”,  International Journal of Hydrogen, Volume 38, Issue 12,  Pages 5165-5175  2013.
+
+Manisha B. P. and D. P. Mishra, Effect of Air Injection Configuration on the atomization of gelled JetA1 fuel in an air-assist internally mixed atomizer, Atomization and Spray, 23(4), pp.327-341, 2013.
+
+V Murari, CS Upadhyay. Micromechanics based ply level material degradation model for unidirectional composites, Composite Structures, Vol. 94, 2012, 671-680.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+V Murari, CS Upadhyay. Micromechanics Based Diffuse Damage Model for Unidirectional Composites, Composite Structures, Vol. 96, 2013, 419-432.
+
+Mohite PM and Upadhyay CS. A generalized adaptive analysis of laminated plates, Vol. 112-113, December 2012, 217-234.
+
+Adaptive Vectored Thrust Deorbiting of Space Debris, J. Spacecraft & Rockets (AIAA), Vol.50, No.2., 2013.
+
+Entry Trajectory Model with Thermomechanical Break-Up, J. Spacecraft & Rockets (AIAA), Vol.46, No.2, 2009.
+
+Ghosh, A. K., Misra, A., and Rakesh Kumar, "Parameter Estimation from Flight Data of Hansa-3 Aircraft using Quasi-steady Stall Modeling”, Journal of Aerospace Engineering, ASCE, USA, Vol. 26, No. 3,July, 2013.
+
+Ghosh, A. K., and Rakesh Kumar, "Nonlinear Modeling of Cascade Fin Aerodynamic using Kirchhoff’s Steady-stall Model”, Journal of Aircraft, AIAA, USA, Vol. 49, No. 1, Jan.-Feb. 2012, pp. 315-319.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Ghosh, A. K., and Peyada, N. K., "Aircraft Parameter Estimation using New Filtering Technique based on Neural Network and Gauss-Newton Method”, Aeronautical Journal, UK, Vol. 113, No. 1142, April 2009, pp. 243-252.
+
+Ghosh, A. K., and S. Singh, "Estimation of lateral-directional parameters from real flight data using neural networks based modified delta method”, The Aeronautical Journal, UK, October 2007, Vol. 111, Paper No. 1124.
+
+Ghosh, A. K., and Raisinghani S.C., "Parameter Estimation from Flight Data of an Unstable Aircraft using Neural Networks”, Journal of Aircraft, Vol. 39,No. 5, Sept. Oct. 2002, pp. 892-894.
+
+Amit Kr. Onkar, C. S. Upadhyay, D. Yadav*, “Stochastic finite element buckling analysis of laminated composite plates with circular cutout under uniaxial compression” ASME, Journal of Applied Mechanics, 2007, 74, 798-809.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Amit Kr. Onkar, C. S. Upadhyay, D. Yadav, “Stochastic buckling analysis of laminated plates with random material properties under shear and compression” AIAA Journal, 2007, 45, 8, 2005-2014.
+
+K. Jayakumar, D. Yadav* and B. NageswaraRao, “Nonlinear free vibration analysis of generic coupled induced strain actuated Piezo-laminated beams”, ForschungimIngenieurwesen, 72, 2008, 153-162.
+
+K. Jayakumar, D. Yadav* and B. NageswaraRao, “Nonlinear Free Vibration Analysis of Piezo-Laminated Plates with Random Actuation Electric Potential Difference and Material Properties", Communications in Nonlinear Science and Numerical Simulations, 14, 2009, 1446-1663.
+
+K. Jayakumar, D. Yadav* and B. NageswaraRao, “Moderately large deflection analysis of simply supported piezo-laminated composite plates under uniformly distributed transverse load", International Journal of Non-linear Mechanics, 49, 2013, 137-144.
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Vortex - induced instability of incompressible wall - bounded shear layer - Sengupta T.K., De, S., and Sarkar, S.; J. Fluid Mech. vol. 493, pp 277-286 (2003)
+
+Spatiotemporal growing wave-fronts in spatially stable boundary layers - Sengupta, T.K., KameswaraRao, A. &Venkatasubbaiah K.; Physical Review Letters vol. 96, pp 224504-1 to 4 (2006)
+
+Error dynamics: Beyond von Neumann analysis, T.K. Sengupta, A. Dipankar, P. Sagaut, J. Comp. Physics vol. 226, pp 1211-1218 (2007)
+
+Onset of turbulence from the receptivity stage of fluid flows, T. K. Sengupta and S. Bhaumik Physical Review Letters, vol. 107, 154501 (2011)
+
+Direct Numerical Simulation of Transitional Mixed Convection Flows: Viscous and Inviscid Instability Mechanisms, Tapan K. Sengupta, SwagataBhaumik and Rikhi Bose. Physics of Fluids, Vol. 25, 094102 (2013)
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Navrose, Sanjay Mittal, 'Free vibrations of a cylinder: 3D computations at Re=1000', doi: 0.1016/j.jfluidstructs.2013.02.017, Journal of Fluids & Structures, (2013).
+
+Bhaskar Kumar, Sanjay Mittal, 'On the origin of secondary vortex street',doi: 10.1017/jfm.2012.421, Journal of Fluid Mechanics, (2012).
+
+AbhishekVerma and Sanjay Mittal, 'A new unstable mode in the wake of a circular cylinder', Physics of Fluids, 23, 121701, (2011).
+
+Prasanth T.K., Vijay Premchandran, and Sanjay Mittal, 'Hysteresis in vortex-induced vibrations: critical blockage and effect of m*', Journal of Fluid Mechanics, 671, 207--225, (2011).
+
+D.N. Srinath and Sanjay Mittal, `An adjoint method for shape optimization in unsteady viscous flows', Journal of Computational Physics, 229, 1994--2008, (2010).
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > recent publications]
+Venkatesan, C., and Friedmann, P.P.,"A new approach to finite state modelling of unsteady aerodynamics", AIAA Journal, Vol. 24, No. 12, Dec.1986, pp. 1889-1897.
+
+Sheikh, N.A., Upadhyay, C.S., and Venkatesan, C., "Linear and nonlinear analysis of a smart beam using general electrothermoelastic formulation", AIAA Journal, Vol. 42, No. 4, April 2004, pp. 840-849.
+
+Laxman, V., and Venkatesan, C., "Chaotic response of an airfoil due to aeroelastic coupling and dynamic stall", AIAA Journal, Vol. 45, No. 1, Jan. 2007, pp. 271-280.
+
+Venkatesan, C., "Feeling: a measurable quantity? ",Current Science, Vol. 100, No. 9, May 2011.
+
+Puneet Singh, and Venkatesan, C., "Experimental performance evaluation of coaxial rotors for a micro aerial vehicle ", Journal of Aircraft, Vol. 50, No. 5, 2013, pp. 1465-1480.
+
+=== research areas ===
+Source: https://www.iitk.ac.in/aero/research-areas
+Aerodynamics
+
+Experimental Aerodynamics
+
+CFD and High performance computing
+
+Transition and Turbulence
+
+Hypersonic Aerodynamics
+
+Microfluidics
+
+Acoustics
+
+Wind energy and design
+
+Fluid-Structure interactions
+
+Flight Mechanics and Control
+
+Design & Control
+
+Missile Guidance & Control
+
+Flight Testing
+
+Instrumentation & Parameter Estimation
+
+Unmanned & Autonomous Air Vehicle
+
+Space Dynamics
+
+Propulsion
+
+Experimental and computational Combustion
+
+Emissions
+
+Intake Aerodynamics
+
+Internal Flow Control (Active & Passive)
+
+Flow Diagnostics
+
+Turbo machinery
+
+Thrust vectoring
+
+Electric propulsion
+
+Liquid atomization and spray combustion
+
+Material Characterization
+
+Composite Materials and Smart Structures
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Structural Dynamics and Stochastic Modeling
+
+Aeroelasticity
+
+Helicopter Theory (Dynamics & Aerodynamics)
+
+Structural Design & Optimization
+
+Damage Modeling
+
+Design and Dynamics of Autonomous Micro and Mini Air Vehicles
+
+Computational Mechanics
+
+Multiscale models of solids and fluids
+
+Computational material modeling
+
+Reduced/ lower order models of fluids problems
+
+Machine learning and artificial intelligence
+
+Composites including multi-functional composites, sandwich structures
+
+Metamaterials including acoustic metamaterials
+
+Plasticity, fatigue, fracture and damage of high-temperature alloys
+
+Uncertainty quantification and reliability analysis
+
+Optimization and inverse models
+
+FSI: aeroelasticity, aerothermoelasticity, flutter
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Computational fluid dynamics (CFD)
+
+Finite Element Method (FEM)
+
+Theoretical and computational aeroacoustics (CAA)
+
+Wave mechanics
+
+Aero-Thermodynamics and Thermal Sciences
+
+High Speed Flows
+
+Turbomachinery
+
+Acoustics and Noise
+
+Multiphase Flows
+
+Heat Transfer
+
+Fire Dynamics
+
+Detonation & Explosions
+
+High Speed Flows
+
+Flow-Acoustics Coupling
+
+Fluid-Structure Interaction
+
+Energy Harvesting
+
+Combustion and Flame Dynamics
+
+Spray modeling
+
+Turbo-machinery Flows
+
+Lattice Boltzmann Modeling
+
+Flow Control
+
+Ashoke De, Professor
+
++91-512-259-7863 (O) / 8301 (R)
+https://home.iitk.ac.in/~ashoke
+
+Low Speed Aerodynamics Laboratory
+
+Bluff body flows
+
+Vortex dynamics
+
+Decelerator aerodynamics
+
+Transition & turbulence
+
+Jets
+
++91-512-259-7062 (O)
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Kamal Poddar, Professor
+
++91-512-2597293, 7843 (O)/ 8723 (R)
+
+High Speed Aerodynamics Laboratory
+
+Rarefied flows
+
+Sudden expansion problems
+
+Arun Kumar Perumal, Assistant Professor
+
++91-512-259-2155 (O)
+
+Parameter Identification
+
+Design and Control
+
+Space Dynamics
+
+Missile Guidance and Control
+
+Flight testing
+
+High angle of attack aerodynamics
+
+Validation and calibration of IMU’s
+
+A. K. Ghosh, Professor & Former Head
+
++91-512-2597716 (O) / 8221 (R)
+https://www.iitk.ac.in/aero/akg
+
+G.M.Kamath, Associate Professor
+
++91-512-259-6614 (w)
+
+0512-259-2009 (Office, HSAL-05)
+
+National Wind Tunnel Facility
+
+Decelerator Aerodynamics
+
+Development of High Lift Devices
+
+Missile Aerodynamics
+
+Helicopter Aerodynamics
+
+Aerodynamics of Road Vehicle
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Wind Effect on Structures
+
+Aerodynamics of Wind Power Devices
+
+Bridge Aerodynamics
+
+Structural Analysis Laboratory
+
+Smart structure modeling and analysis
+
+C. S. Upadhyay, Professor
+
+91-512-2597936 (O) / 8745 (R)
+https://home.iitk.ac.in/~shekhar
+
+P. M. Mohite, Professor
+
++91-512-259-6024 (O) / 6024
+https://home.iitk.ac.in/~mohite
+
+Pritam Chakraborty, Assistant Professor
+
++91-512-259-7951 (O)
+https://home.iitk.ac.in/~cpritam/
+
++91-512-679-2092 (O)
+https://www.tmukhopadhyay.com/
+
+Stabilized finite element methods
+
+Unsteady aerodynamics
+
+Laminar separation bubbles on airfoils
+
+Shape optimization of airfoils
+
+Linear stability analysis
+
+Buzz instability in air intakes
+
+Bluff body flows
+
+Fluid-Structure Interactions
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+High performance computing
+
+Sanjay Mittal, Professor
+
+https://home.iitk.ac.in/~smittal
+
+Debopam Das, Professor
+
++91-512-259-7227 (O)/ 8578 (R)
+https://home.iitk.ac.in/~das
+
+Design and fabrication of MAVs/UAVs
+
+Hover capable VTOL/STOL vehicles
+
+Helicopter Aeromechanics
+
+Morphing rotor concept
+
+Geometrically exact beam formulation
+
+Abhishek, Associate Professor
+
++91-512-259-7515 (O), 6259 (L)
+https://home.iitk.ac.in/~abhish/
+
+Scope of Studies
+
+D. P. Mishra, Professor
+
++91-512-2597125 (O) / 8695 (R)
+
+Rakesh Kumar, Associate Professor
+
++91-512-259-6301 (O)/ 5524 (R)
+https://home.iitk.ac.in/~rkm
+
+Unsteady Gas Dynamics
+
+Flow control
+
+Bluff body flows
+
+Vortex dynamics
+
+Granular Flows
+
+Facility available:
+
+Low-speed wind tunnel, Time-Resolved-PIV, 2D-2C PIV, Stereo-PIV, PXI-system, Manometer, Hotwire anemometry, etc
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Sanjay Kumar, Professor
+
++91-512-2596768
+
++91-512-259-7062 (O)
+
+Gas turbine combustion
+
+Solar thermal energy
+
+Gas-particle flows
+
+Nano energetics
+
+Thermal management of aerospace systems
+
+Thermo-fluids diagnostics
+
+Vortex shedding combustors
+
+Entropy driven instabilities
+
+Vaibhav Arghode, Assistant Professor
+
++91-512-259-6294 (O)
+https://sites.google.com/view/varghode
+
+Sathesh Mariappan, Associate Professor
+
++91-512-259-6331 (O)
+
+Rocket and Gas Turbine Propulsion
+
+Combustion
+
+Liquid Atomization
+
+Turbo-machinery
+
+Intake and Nozzle Flows
+
+Electric Propulsion
+
+Flow Physics and Flow Control
+
+Aeroacoustics
+
+Fluid Structure Interaction
+
+Fire Dynamics and Suppression
+
+Abhijit Kushari, Professor & Head
+
++91-512-2597126 (O) / 8536 (R)
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+https://home.iitk.ac.in/~akushari/
+
+High Enthalpy Test Facility Development
+
++91 512-2596345 (O)
+
+Futuristic Propulsion Technologies Including High-speed Propulsion Systems and Detonation-based Engines
+
+Supersonic Combustion
+
+Detonation and Explosion Physics
+
+Gas Turbine Combustion Including Emissions
+
+Flame Spread and Fire Dynamics
+
+Soot Formation and Oxidation
+
+Combustion Generated Functional Nanoparticles
+
+Chemical Kinetics (Jet Fuel, Biofuel and Liquid Hydrocarbon Fuel Combustion Chemistry, Green Fuels)
+
+Flame Synthesis (Carbon Nanotubes, Graphene, Quantum Dots, Nanomedicine, etc.)
+
+Renewable and Sustainable Energy
+
+Ajay Vikram Singh, Assistant Professor
+
++91-512-2592006 (O)
+https://www.ajayvsaero.com/
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > research areas]
+Attitude Determination and Control System Simulator for Small Satellites
+
+Control for Spacecraft Rendezvous and Docking
+
+Robotic Manipulator for On-orbit servicing
+
+Aircraft Control System Design
+
+Non-Linear and Adaptive Controls for Aerospace Systems
+
+Hybrid Actuators for Satellite Attitude Control
+
+Conceptual and Architectural Design Approaches for Space Systems
+
+Dipak Kumar Giri, Assistant Professor
+
++91-512-259 7107
+https://sites.google.com/view/dipakgiri
+
+=== sponsored projects ===
+Source: https://www.iitk.ac.in/aero/sponsored-projects
+List of ongoing projects
+
+Sponsored projects:
+
+1. |
+03-06-2013 |
+C S Upadhyay |
+ISHAN SHARMA |
+Knowledge Incubation For Teqip- Ii |
+
+2. |
+22-12-2017 |
+Mangal Kothari |
+Design & Development Of Aquatic Autonomous Observatory (Niracara Svayamsasita Vedhshala-Nsvs) For In Situ Monitoring, Real Time Data Transmission & Web Based Visualization (Sub Project- D) Dett. Of Ae |
+
+3. |
+17-01-2018 |
+Dipak Kumar Giri |
+A K GHOSH |
+Fixed & Finitc Time Attitude Control Of Earth Pointing Satellites Using Mrp |
+
+4. |
+23-03-2018 |
+Abhijit Kushari |
+Fist Programme Of Ae |
+
+5. |
+16-04-2018 |
+Rakesh Kumar |
+Numerical Study Of Flow- Thermal Response Of A High Speed Vehicle With Ablative/Non-Ablative Thermal Protection System |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+6. |
+01-08-2018 |
+Sanjay Mittal |
+J C Bose Fellowship |
+
+7. |
+07-03-2019 |
+G. M. Kamath |
+Development And Demonstration Of Fibre-Optic Sensor-Based System For Aircraft Loads And Usage Monitoring |
+
+8. |
+28-03-2019 |
+Pritam Chakraborty |
+Concurrent Multiscale Method For Micro-Crack Propagation In Polycrystalline Alloys |
+
+9. |
+30-03-2019 |
+Abhijit Kushari |
+Passive Stall Control Of Turbo Machinery Blades Using Leading Edge Tubercles |
+
+10. |
+27-05-2019 |
+Mohammed Ibrahim Sugarno |
+An Experimental Investigation On Shock Wave Focusing And Associated High Tehmperature Radiating Flowfield |
+
+11. |
+31-05-2019 |
+Rakesh Kumar |
+Sparc: Development Of Computational Model For Multi- Physics Simulation Of Flows During Planetary Landing Of Spacecrafts |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+12. |
+09-07-2019 |
+Pritam Chakraborty |
+Modeling Thermo-Mechanical Fatigue Behavior Of A Near Alpha Titanium Alloy For Compressor Disc/Bling Applications |
+
+13. |
+11-07-2019 |
+Ashoke De |
+Sparc: Modeling Of Diluted Turbulent Spray Flames In Hot Coflow Using Les-Fgm |
+
+14. |
+11-09-2019 |
+Rakesh Kumar |
+A New Capacitance Based Model For Sdbd Plasma Actuation |
+
+15. |
+07-11-2019 |
+P. M. Mohite |
+Unidirectional Tape Pre-Preg Based Carbon/Epoxy Short Fiber Composites:Development Mechanical Characterization, Stiffness And Strength Predictions |
+
+16. |
+05-12-2019 |
+Abhijit Kushari |
+ASHOKE DE |
+Development Of Integrated Dampers For Combustion Dynamics Abatement For Low Emission/Advanced, Biojet Fuel Gt Combustors |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+17. |
+21-12-2019 |
+Ashoke De |
+Aditya Hemchandra Kelkar |
+Development Of Impurity Transport Code For Aditya-U Tokamak At Ipr Gandhinagar |
+
+18. |
+24-12-2019 |
+Ajay Vikram Singh |
+Turbulent Boundary Layer Combustion For Propulsion And Fire Science Applications: Theoretical, Experimental And Computational Studies |
+
+19. |
+22-01-2020 |
+Ashoke De |
+Investigation Of Near And Far Field Acoustics Due To The Jet Impingement On The Flame Deflector During Rocket Lift-Off |
+
+20. |
+22-01-2020 |
+Rakesh Kumar |
+Experimental And Numerical Investigation Of Aerospike Nozzles For Effective Propulsion Systems |
+
+21. |
+03-02-2020 |
+Arun Kumar Perumal |
+Turbulent Jet Manipulation Using Unsteady Injection |
+
+22. |
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+21-02-2020 |
+Rakesh Kumar |
+Development Of A Computational Model For Reentry Trajectory Analysis Of Space Debris |
+
+23. |
+17-03-2020 |
+Rakesh Kumar |
+Coupling Of Particle-Based Dem And Dsmc Techniques For Undrstanding Dusty Gas Flow Dynamics |
+
+24. |
+19-03-2020 |
+Sathesh Mariappan |
+Experimental Investigation Of Azimuthal Combustion Instability (Screech) In Annular Combustors/Afterburners Of Gas Turbine Engines |
+
+25. |
+19-03-2020 |
+Subrahmanyam Saderla |
+Real Time Flight Vehicles Distress Management Using Inline System Identification |
+
+26. |
+28-05-2020 |
+Mangal Kothari |
+K S VENKATESH
+ISHAN SHARMA
+ABHISHEK .
+SHAKTI SINGH GUPTA |
+Guidance And Control Of A Precision Guidance Kit (Pgk) For Existing 155mm Artillery Shell |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+27. |
+28-05-2020 |
+Mangal Kothari |
+K S VENKATESH
+PARTHASARA THI SENSARMA
+ISHAN SHARMA
+ABHISHEK .
+SHAKTI SINGH GUPTA |
+Design And Development Of A Ramjet Based Propulsion System And A Precision Guidance Kit(Pgk) For Existing 155 Mm Artillery Shell To Achieve Minimum 60 Km Range |
+
+28. |
+01-06-2020 |
+Pritam Chakraborty |
+Microscale Modeling Of Steels |
+
+29. |
+20-06-2020 |
+Mangal Kothari |
+ABHISHEK . |
+Autopilot And Trajectory Generation For Swarm |
+
+30. |
+03-07-2020 |
+C S Upadhyay |
+Fabrication And Characterization Of A Low Cost Hybrid Composite Blast And Ballistic Applications |
+
+31. |
+12-08-2020 |
+Sanjay Mittal |
+SHARAD SAXENA
+ABHIJIT KUSHARI |
+Low Speed Wind Tunnel Test On Amca, "Air Intake Model" |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+32. |
+07-10-2020 |
+Tanmoy Mukhopadhyay |
+Development Of A Coupled Machine Learning Based Approach For Origami Inspired Deployable Multi-Functional Metamaterials |
+
+33. |
+07-10-2020 |
+Vaibhav Kumar Arghode |
+Ajay Vikram Singh |
+Investigation Of Combustion Characteristics Of Carbon Coated Aluminium Nanoparticles |
+
+34. |
+09-10-2020 |
+Sathesh Mariappan |
+DEBOPAM DAS
+Anand Singh |
+Experimental Identification Of Laminar To Turbulent Transition And Separation Locations Using In-House Made Temperature Sensitive Paint In Wings And Launch Vehicles |
+
+35. |
+15-11-2020 |
+Mohammed Ibrahim Sugarno |
+Experimental Investigation Of Leading-Edge Bluntness On Heat Transfer Rate And Flow Unsteadiness In Shock-Induced Boundary Layer Separation In A Scramjet Intake |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+36. |
+15-12-2020 |
+Subrahmanyam Saderla |
+Miniature Pneumatic Recoil Management Mechanism For Micro Uav |
+
+37. |
+18-12-2020 |
+C S Upadhyay |
+RAJESH KITEY |
+Mechanical Characterisation And Structural Intigrity Of Radar Absorbing Paints (Rap) |
+
+38. |
+19-12-2020 |
+Tanmoy Mukhopadhyay |
+Uncertainty Resilient Multi- Harvester Metamaterials For Optimal Non-Linear Energy Harvesting |
+
+39. |
+28-12-2020 |
+Sanjay Kumar |
+RAKESH KUMAR |
+Study Of Shocks Amd Wakes In Granular Flows |
+
+40. |
+31-12-2020 |
+A K Ghosh |
+Design And Develop Indigenous Tactical Uav Wioth Maximum Local Content Through Collaboration Between The Parties |
+
+41. |
+10-01-2021 |
+Mohammed Ibrahim Sugarno |
+ASHOKE DE |
+Establishment Of Hypervelocity Expansion Tunnel Test Facility And Heat Flux Measurements Over Payload Configurations |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+42 |
+01-05-2021 |
+A K GHOSH |
+Drones For Vaccine Delivery-A Feasibility Study |
+
+43 |
+22-06-2021 |
+Arun Kumar Perumal |
+Fluidic Thrust Vectoring Of A Supersonic Jet |
+
+44 |
+06-10-2021 |
+Ajay Vikram Singh |
+Sensitizing Fuel Oxidizer Diluents Mixtures For Detonation Cycle Engines |
+
+45 |
+28-12-2021 |
+ASHOKE DE |
+Investigation Of Spray Characteristics At Elevated Temperature And Pressure Under Swirling Cross Flow |
+
+46 |
+31-12-2021 |
+Dipak Kumar Giri |
+Air-Bearing Based Table-Top Attitude Determination And Control System Simulator For Small Satellites: Designm Fabrication And Analysis |
+
+47 |
+31-12-2021 |
+Rajesh Ranjan |
+Computational Investigation Of Flow Over Low-Drag Turobrop Wings In Tractor Configuration |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+48 |
+31-12-2021 |
+Subrahmanyam Saderla |
+Design Optimization, Prototype Development And Wind Tunnel Testing Of A Foldable Tandem Wing Uav |
+
+49 |
+11-02-2022 |
+Vaibhav Kumar Arghode |
+Meaurement Of Species Concentration And Temperature Using Coherent Anti-Stokes Raman Spectroscopy (Cars) In Combustors |
+
+50 |
+25-02-2022 |
+DEBOPAM DAS |
+Investigation Of Insect Flight In Turbulent And Gusty Conditions |
+
+51 |
+10-03-2022 |
+G. M. Kamath |
+Study On Ttc/Ttl Beyond 40 Years Of An-32 Aircraft |
+
+52 |
+01-04-2021 |
+ALAKESH CHANDRA MANDAL |
+Wind Tunnel Study For Existing Chimneys Of Rourkela Steel Plant Hot Strip Mill Project |
+
+53 |
+01-04-2021 |
+KAMAL PODDAR |
+Wind Tunnel Study Of 15m High Rc Wet Chimney With Steel Flue For Wet Fgd System Package For 1x500mw Btps-A Bokaro Jharkhand (Reissuance For New Conf Of Chimney Shell) |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+54 |
+17-06-2021 |
+Sanjay Kumar |
+Wind Tunnel Study For 250m High Rcc Chimney Of Fgd Project For 4x210mw & 2x250mw Mejia Tps Fgd Project |
+
+55 |
+19-06-2021 |
+Pritam Chakraborty |
+Physics Based Process Modeling Of Hot Isostatic Pressing (Hip): Influence Of Hydrostatic Pressure And Temperature On Consolidation/Density Distribution |
+
+56 |
+25-07-2021 |
+ABHISHEK . |
+Analysis Of Shock And Vibration Experienced During Crash Landing Of P-68 Observer-Ii Aircraft |
+
+57 |
+01-08-2021 |
+A K GHOSH |
+Flight Lab Training Program For Private Engineering Colleges |
+
+58 |
+02-08-2021 |
+ABHISHEK . |
+Uav Testing At IIT Kanpur |
+
+59 |
+10-11-2021 |
+KAMAL PODDAR |
+Wind Tunnel Testing Of 20-Sided High Mast Standard |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+60 |
+13-01-2022 |
+SANJAY MITTAL |
+Cfd Simulation Of Ram Air Parachute With Reflex Airfoil & Elliptical Planform |
+
+61 |
+09-02-2022 |
+SANJAY MITTAL |
+Wind Tunnel Aero Dynamic Model Study For Proposed Wet Stacks For Wlpgd Projects At Budge Budge Generating Station (Bbgs) |
+
+62 |
+24-03-2022 |
+SANJAY MITTAL |
+Services Of Parametric Aerodynamic Simulation Studies By Wind Tunnel Test And Computational Fluid Dyanamics For P15b Ships |
+
+63 |
+31-03-2022 |
+ALAKESH CHANDRA MANDAL |
+Wind Tunnel Model Design, Fabrication & Testing Of Unmanned Figher Aircraft |
+
+64 |
+01-12-2021 |
+Subrahmanyam Saderla |
+Reconfigurable Control Of Fixed Wing High Speed Unmanned Aerial Vehicle (2020446) (Special Grant) |
+
+[Context: DEPARTMENT OF AEROSPACE ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJ > sponsored projects]
+65 |
+20-09-2021 |
+Arun Kumar Perumal |
+Acoustic Studio On Jet (Special Grant) |
+
+66 |
+18-06-2021 |
+Vaibhav Kumar Arghode |
+Serb-OVDF |
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/aero/teaching-labs (teaching labs)

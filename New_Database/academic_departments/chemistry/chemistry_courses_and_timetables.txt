@@ -1,0 +1,171 @@
+DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Chemistry, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/chm. Snapshot: scraped in 2026.
+
+=== courses ===
+Source: https://www.iitk.ac.in/chm/courses
+List of Courses
+
+Teaching is an integral part of the Chemistry Department at IIT Kanpur.We teach courses at undergraduate, masters and doctorate levels. Below is a list of courses. A complete description of the contents can be viewed by clicking on the courses.
+
+CHM 101N/CHM 101A: Basic Chemistry Lab
+
+CHM 102A/CHM 102R: Basic Chemistry
+
+CHM112: General Chemistry: Physical Chemistry
+
+CHM113: General Chemistry: Inorganic and Organic Chemistry
+
+CSO 202A: Atoms, Molecules and Photons (New ARC)
+
+CHM 301/SE 332: Basic Organic Chemistry I
+
+CSO 201A: Organic Chemistry: Fundamentals and Applications (New ARC)
+
+CHM 203A: Basic Organic Chemistry-I (New ARC)
+
+CSO 203A: Inorganic Molecules, Materials & Medicine (New ARC)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+CHM 205/SE 333: Industrial Organic Chemistry
+
+CHM221: Basic Physical Chemistry I
+
+CHM222: Basic Physical Chemistry II
+
+CHM241: Basic Inorganic Chemistry I
+
+CHM 302/CHM 202A: Basic Organic Chemistry II
+
+CHM 303A: Organic Chemistry I (New ARC)
+
+CHM341/242: Basic Inorganic Chemistry II
+
+CHM 344A/CHM 343A: Inorganic Chemistry Laboratory Experiments (NEW ARC)
+
+CHM305A/CHM 404/CHM 305: Organic qualitative and quantitative analysis
+
+CHM321A/CHM 321/CHM 421: Physical Chemistry-1
+
+CHM322A/CHM 322/CHM 422: Physical Chemistry-II
+
+CHM324: Basic Physical Chemistry Laboratory
+
+CHM342A/CHM 342/CHM 442: Inorganic Chemistry-II
+
+CHM345A/CHM 345/CHM 441: Inorganic Chemistry -I
+
+CHM361: Chemistry Communication Skills
+
+CHM 391A: Undergraduate Project (UGP-I)
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+CHM 392A: Undergraduate Project (UGP-II)
+
+CHM 401: Organic Chemistry I
+
+CHM 402/402A: Organic Chemistry II
+
+CHM423A/CHM 423: Physical Chemistry Laboratory
+
+CHM443A/CHM 443: Inorganic Chemistry Laboratory
+
+CHM481A/CHM 481/SE 334: Biosystems
+
+CHM503A/CHM 503: Organic Preparations Lab
+
+CHM521: Mathematics for Chemistry
+
+CHM 600A: Mathematics for Chemistry (New ARC)
+
+CHM 602/602A: Advanced Organic Chemistry
+
+CHM 609/609A: Principles of Organic Chemistry
+
+CHM 611: Physical Organic Chemistry
+
+CHM 612: Frontiers in Organic Chemistry
+
+CHM 614: Organic Photochemistry
+
+CHM 616: Chemistry of Organometallic Compounds
+
+CHM 621: Chemical Binding
+
+CHM 622: Chemical Kinetics
+
+CHM 626: Solid State Chemistry
+
+CHM 627A: Methods Of Electronic Structure Calculation
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+CHM629/CHM629A: Principles of Physical Chemistry
+
+CHM 631/CHM631A: Application of Modern Instrumental Methods
+
+CHM 632: Enzyme; reactions mechanism and kinetics
+
+CHM 636/CHM636A: Physical photochemistry
+
+CHM 637/CHM637A: Molecular Spectroscopy
+
+CHM 645: Orbital Interactions in Chemistry
+
+CHM 646/CHM 646A: Bio-inorganic Chemistry I
+
+CHM 647: Macrocycles, Rings and Polymers
+
+CHM 648/CHM648A: Chemistry of Metal Carbon Bond: Structure, Reactivity and Applications
+
+CHM 649/CHM649A: Principles of Inorganic Chemistry
+
+CHM 650/CHM650A: Statistical Mechanics and its applications to Chemistry
+
+CHM 651/CHM651A: Crystal and Molecular Structure Determination
+
+CHM 654/CHM 654A: Supramolecular Chemistry
+
+CHM 656A: Organic Structure Determination by Spectroscopic Techniques
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+CHM661: Computational Electronic Structure of Solids
+
+CHM 662/CHM 662A: Chemistry of Natural Products
+
+CHM 664: Modern Physical Methods in Chemistry
+
+CHM 665: Advances in Chemical Biology and Medicinal Chemistry
+
+CHM 667A: Quantum Dynamics in Chemistry (New ARC)
+
+CHM 668: Advanced Main Group Chemistry
+
+CHM 671: Applied Electrochemistry: Electrodics and Electrocatalysis
+
+CHM 679: Molecular Reaction Dynamics
+
+CHM 681: Basic Biological Chemistry
+
+CHM 682A: Modern Chemistry and Applications of Lanthanides
+
+CHM 683: Surfaces, Interfaces, Thin Films and Related Analytical Techniques
+
+CHM 684: Computer Programming in Chemistry
+
+CHM 685: Molecule Radiation Interactions
+
+CHM 689: Nuclear Magnetic Resonance
+
+CHM 691: Frontiers in Inorganic Chemistry
+
+[Context: DEPARTMENT OF CHEMISTRY IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses]
+CHM 693: Chemical Synthetic Strategy of Advanced Materials
+
+CHM 695: Molecular Modeling in Chemistry
+
+CHM 696: Quantum Computing
+
+CHM697: Lasers in Chemistry and Biology
+
+CHM 698: Chemistry of Drug Design and Metabolism
+

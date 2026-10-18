@@ -1,0 +1,227 @@
+NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Nuclear Engineering and Technology (NET) programme, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/net. Snapshot: scraped in 2026.
+
+=== projects ===
+Source: https://www.iitk.ac.in/net/projects
+The faculty of NET programme in collaboration with the faculty members from other departments have been able to attract significant sponsored research activity.
+
+Application of Computerized Tomography and Fractal Theory in Material Characterization.
+
+Experimental Investigation of the LMMHD Facility at BARC using Computerized Tomography.
+
+Laser-Ultrasonic Tomographic Imaging of Composites.
+
+Studies In Ultrasonic NDT for Composite Materials (Indo-German Project).
+
+=== recent publications ===
+Source: https://www.iitk.ac.in/net/recent-publications
+2023
+
+S.K. Chaudhary, P. Wahi, P. Munshi, Uniformly sampled polar and cylindrical grid approach for 2D, 3D image reconstruction using algebraic algorithm, NDT&E International, 140(2023), 102960 (pp 1-16).
+
+S. Gupta, S. Duhan, S. Sarkar, P. Munshi, A.K. Plappally, A novel semi-empirical model for lifetime prediction of gravity based ceramic filter and permeability estimation, Desalination and Water Treatment 309(2023), pp. 220–235.
+
+Akanchha, Vikesh Singh Bhadouria, Arun Kumar Pandey, Pankaj Wahi, Niraj Sinha, and Prabhat Munshi. "Development and Calibration of an Indigenous Spectroscopic System for Radiation Portal Monitor Application." Journal of Nuclear Engineering and Radiation Science 9, no. 3 (2023): 032003.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+2022
+
+D. Ray, M. Kumar, O.P. Singh, P. Munshi, “A Study of Nuclear Fuel Burnup Wave Development in a Fast Neutron Energy Spectrum Multiplying Medium: Improved Model and Consistent Parametric Approach for Evaluation”, Nuclear Science and Engineering, 196(2022), pp 478-496.
+
+D. Ray, S.P. Saraswat, M. Kumar, O.P. Singh, P. Munshi, “Build-up and Characterization of Ultraslow Nuclear burnup wave in Epithermal Neutron Multiplying Medium”, ASME Journal of Nuclear Engineering and Radiation Science, 8(2022), 021501 (11 pages)
+
+K. Kalare, M. Bajpai, S. Sarkar, P. Munshi, ”Deep neural network for beam hardening artifacts removal in image reconstruction”, Applied Intelligence, 52(2022), pp 6037-6056.
+
+S. Sarkar, S. Chakravorti, S.K. Chaudhary, D.P. Sengupta, P. Wahi, P. Munshi, “Preliminary observations on computerized tomography-powered fractal dimension-based technique to differentiate between coprolites and body fossils” Current Science, 123(2022), pp 933-938.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+S.P. Saraswat, D. Ray, G. Mishra, D. Yadav, V.S. Bhadouria, P. Munshi, C. Allison, “Thermal-Hydraulic Safety Assessment of Full-Scale ESBWR Nuclear Reactor Design”, ASME Journal of Nuclear Engineering and Radiation Science”, 8(2022), 031403(pp 01-13).
+
+D. Handa, D. Ray, P. Munshi, M.S. Kalra, “Simulation of Zircaloy and SiC cladding thermal performance of a nuclear fuel rod subassembly”, Engineering Research Express, 4(2022), 025012(pp 01-11).
+
+“Upper bound in fusion products and transmutation enhancement in alloys” A. Kumar, P. Jain, K. P. Rajeev and R. G. S. Pala, J. Condensed Matter Nuclear Science, 36, 327–335 (2022)
+
+“Low Energy Nuclear fusion with Two Photon Emission” Pankaj Jain, Ankit Kumar, K. Ramkumar, K. P. Rajeev and R. G. S. Pala, J. Condensed Matter Nucl. Sci. 36, 302–304 (2022)
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+“Photon-induced low-energy nuclear reactions”, Pankaj Jain, Ankit Kumar, Raj Ganesh S. Pala and K. P. Rajeev, Pramana J. Phys, 96(2),1-14 (2022)
+
+“Low Energy Nuclear fusion with Two Photon Emission” Pankaj Jain, Ankit Kumar, K. Ramkumar, K. P. Rajeev and R.G.S. Pala, J. Condensed Matter Nucl. Sci. 35, 1–20 (2022)
+
+2021
+
+S.P. Saraswat, P. Munshi, C. Allison," Non-Hyperbolicity of Conservation Equations of RELAP5 Two-Fluid Model in Nuclear Reactor Safety Results (Investigation and Eigenvalue Analysis)", ASME Journal of Nuclear Engineering and Radiation Science, 2021, 7(1), pp 011402/1-23.
+
+V.S. Bhadouria, M.J. Akhtar, P. Munshi, “Low-level Radioactive Waste Management using Microwave Technology”, Progress in Nuclear Energy, 131(2021), 103569/
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+K.D. Badgujar, N.B.V. Subrhmanyam, P. Munshi, L.M., B.K., The construction of shower maximizing sensitive MCP detector, Pramana - Journal of Physics, 95(2021), 187
+
+V.S. Bhadouria, Z. Akhtar, M.J. Akhtar, P. Munshi, “Automated microwave monitoring of hidden objects for strategic and security applications”, Journal of Electromagnetic Waves and Applications, 35(2021), pp. 2492–2509.
+
+S.K. Chaudhary, P. Munshi, “Computation and Storage Efficient Sparse MART Algorithm for 2-D, 3-D Reconstruction from Fan Beam, Cone-Beam Projection Data, Research in Nondestructive Evaluation, 32(2021), pp. 115–131.
+
+2020
+Peer-reviewed Journals
+
+J. Norris, S. Prasad, “Importance of Self-Shielding in Mass Measurements using Gamma Spectroscopy,” Pramana - Journal of Physics, 94, 109 (2020).
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+A. Karmakar, S. Prasad, A. Kelkar, “Energy Response Function of Stilbene and BC501 Neutron Detection System,” Advances in Energy Research, Vol. 2 (2020), 8-981-15-2662-6 (eBook), doi.org/10.1007/978-981-15-2662-6
+
+A. Bhattacharya, J. Ghosh, M. B. Chowdhuri, P. Munshi. "Numerical estimation of the oxygen impurity transport in the Aditya tokamak", Physics of Plasmas, 27(2020), pp 023303/1-19.
+
+S. Sarkar, P. Wahi, and P. Munshi, "Total Variation (TV) l1 Norm Minimization Based Limited Data X-ray CT Image Reconstruction", Research in Nondestructive Evaluation, 31(2020), pp 164-186.
+
+M. Sarkar, K. Velusamy, P. Munshi, O.P. Singh, "Analysis of flow and heat transfer through a partially blocked fuel subassembly of fast breeder reactor", Progress in Nuclear Energy, 118(2020), pp 103142/1- 12.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+D. K. Yadav, A. Gupta, P. Munshi, "Design of NDI-SMC based robust hybrid nonlinear controller for load following operation in pressurized water reactor", Nuclear Engineering and Design, 363(2020), pp 110604/1-14.
+
+S.P. Saraswat, P. Munshi, C. Allison, "Linear stability analysis of RELAP5 two-fluid model in nuclear reactor safety results", Annals of Nuclear Energy, 149(2020), pp 107720/1-25.
+
+S.P. Saraswat, P. Munshi, C. Allison, "Characteristics and linear stability analysis of RELAP5 two-fluid model for two-component, two-phase flow, Annals of Nuclear Energy, 151(2020), pp 107948/1-18.
+
+Bhadouria VS, Akanchha, Pandey AK, Wahi P, Sinha N, Munshi P. Development of a Low-Cost Multichannel Analyzer System Using LabVIEW for Nondestructive Evaluation of Samples-2020.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+2019
+
+M. Sarkar, K. Velusamy, P. Munshi, O.P. Singh, “Thermal Hydraulic Investigation of Heat Transfer from a Completely Blocked Fuel Subassembly of SFR", Annals of Nuclear Energy, 130(2019), pp 131- 141.
+
+S. Sarkar, P. Wahi, P. Munshi, "An empirical correction method for beam-hardening artefact in Computerized Tomography images ", NDT & E International, 102(2019), pp 104-113.
+
+S. P. Saraswat, P. Munshi, C. Allison, " Analysis of Loss of Heat Sink for ITER Diverter Cooling System using Modified RELAP/ SCDAPSIM/ MOD 4.0 ", ASME Journal of Nuclear Engineering and Radiation Science, 5(2019), pp 042202/1-8.
+
+A. Bhattacharya, J. Ghosh, M.B. Chowdhuri, P. Munshi, I. Murakami " A study of the O4+ emissivity profiles with two separate Photon Emissivity Coefficient databases and a comparison of the impurity diffusion coefficients in the Aditya tokamak", Plasma and Fusion Research, 14(2019), pp 1403155/1 - 1403155/17.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+2018
+
+S. Shakya, A. Saxena, P. Munshi, M. Goswami "Adaptive Restructuring for computerized Tomography", Research in Nondestructive Evaluation, 29(2018), pp 78-94.
+
+Yadav D.K., Gupta A., Munshi P., Nonlinear Dynamic Inversion based controller design for load following operations in Pressurized Water Reactors with bounded Xenon oscillations, Nuclear Engineering and Design, 328 (2018), pp 241-254.
+
+S. P. Saraswat, P. Munshi, A. Khanna, C. Allison, " Thermal Hydraulic Safety Assessment of LLCB Test Blanket System in ITER Using Modified RELAP/SCDAPSIM/MOD4.0 Code", ASME Journal of Nuclear Engineering and Radiation Science, 4(2018), pp. 021001/1-10.
+
+M. Sarkar, K. Velusamy, P. Munshi, O.P. Singh, "Investigation of heat transfer from a totally blocked fuel subassembly of fast breeder reactor with 7 and 19 pin bundles", Nuclear Engineering and Design, 338(2018), pp 74-91.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+A. Bhattacharya, P. Munshi, J. Ghosh, M.B. Chowdhuri, "A study of the von Neumann Stability Analysis of a Semi-Implicit Numerical method Applied over the radial Impurity Transport Equation in Tokamak Plasma", Journal of Fusion Energy, 37(2018), pp 211-237.
+
+P. K. Pandey, N. Naik, P. Munshi, A. Pradhan, "Inherent error estimates for noisy-data discrimination and filter-specification in universal back-projection based photo-acoustic tomography" Biomedical Physics and Engineering Express, 4(2018), pp 035022/1- 25.
+
+2017
+
+R. Purty, Akanchha, S. Prasad, “Isotopic characterization and thermal neutron flux determination of a PuBe neutron source,” Applied Radiation and Isotopes, 125, 144 (2017).
+
+K.K. Singh, M.K. Bajpai, R.K. Pandey, P. Munshi, "A novel noninvasive method for extraction of geometrical and texture features of wood", Research in Nondestructive Evaluation, 28(2017), pp 150-167.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+K. Rathore, S. Bhattacharjee, D.N. Patel, P. Munshi, "Optical Emission Spectroscopy-Based Tomography for Compact Low-Pressure Microwave Plasma in a Multicusp", IEEE Transactions on Plasma Science, 45(2017), pp 2492-2503.
+
+K. Rathore, S. Bhattacharjee, P. Munshi, " Characterization of microwave plasma in a multicusp using 2D emission based tomography: Bessel modes and wave absorption", Physics of Plasmas, 24(2017), Article 063503.
+
+S. P. Saraswat, P. Munshi, A. Khanna, C. Allison, " Ex-Vessel Loss of Coolant Accident Analysis of ITER Diverter Cooling System Using Modified RELAP/SCADAPSIM/Mod4.0", ASME Journal of Nuclear Engineering and Radiation Science, 3(2017), pp. 041009/1-13
+
+S. Sarkar, P. Wahi, P. Munshi, "Dual scan CT Image Recovery from truncated Projections", Review of Scientific Instruments, 88(2017), pp 123704/1-5.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+2016
+Peer-reviewed Conferences
+
+Akanchha, S. Singh, M. Barrett, S. Prasad, “Flux Estimation of a PuBe source using Delayed Gamma Neutron Activation Analysis,” Transactions of the of the 2016 American Nuclear Society, 114, 341 (2016).
+
+M. Goswami, S. Shakya, A. Saxena, P. Munshi, "Optimal Spatial Filtering and Compact Tomography Set-ups", Research in Nondestructive Evaluation, 27(2016), pp 69-85.
+
+K. Rathore, P. Munshi, S. Bhattacharjee, "Design of a portable optical emission tomography system for microwave induced compact plasma for visible to near-infrared emission lines", Review of Scientific Instruments, 87(2016), 033501 (10 pp).
+
+D. Nath, M.S. Kalra, P. Munshi," Numerical simulation of time-dependent Navier-Stokes and MHD equations using a meshless method based on fundamental and particular solutions", Engineering Analysis with Boundary Elements", 67(2016), pp 81-95.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+A.K. Trivedi, C. Allison, A. Khanna, P. Munshi, " RELAP5/SCDAPSIM model development for AP1000 and verification for large break LOCA", Nuclear Engineering and Design, 305(2016), pp 222-229.
+
+A.K. Trivedi, C. Allison, A. Khanna, P. Munshi, "AP1000 station blackout study with and without depressurization using RELAP5/ SCDAPSIM, Nuclear Engineering and Design, 307(2016), pp 299-308.
+
+C. Zeliang, O.P. Singh, P. Munshi, "Uncertainty evaluation of reliability of shutdown system of a medium size fast breeder reactor", Nuclear Engineering and Design, 308(2016), pp 283-296.
+
+S. Kumar, Obaidurrahman K., O. P. Singh and P. Munshi, “A Space Time Dependent Study of Control Rods Withdrawal in a Large Size PWR”, Journal of Nuclear Engineering and Radiation Science, 3(2016), pp 011015/1-8.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+S. P. Saraswat, P. Munshi, A. Khanna, C. Allison," Thermal Hydraulic and Safety Assessment of First Wall Helium Cooling System of a Generalized Test Blanket System in ITER Using RELAP/SCDAPSIM/MOD4.0 Code", ASME Journal of Nuclear Engineering and Radiation Science, 3(2016), pp. 014503/1-7.
+
+A.K. Trivedi, C. Allison, A. Khanna, P. Munshi, AP1000 station blackout study with and without depressurization using RELAP5/SCDAPSIM, Nuclear Engineering and Design, 307 (2016), pp. 299-308
+
+A.K. Trivedi, C. Allison, A. Khanna, P. Munshi, RELAP5/SCDAPSIM model development for AP1000 and verification for large break LOCA, Nuclear Engineering and Design, 305 (2016), pp. 222-229
+
+Kavita Rathore, Prabhat Munshi, and Sudeep Bhattacharjee, "Design of a Portable Optical Emission Tomography System for Microwave Induced Compact Plasma for Visible to Near-Infrared Emission Lines", Review of Scientific Instruments,, 87,(2016), pp. 033501-033510
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+PATENTS
+
+Kavita Rathore, Prabhat Munshi, and Sudeep Bhattacharjee, "Design of emission tomographic measurement device for low pressure multicusp compact plasma application", , Intellectual Ventures Inc. USA ( through SIDBI center, IIT Kanpur) 2292/DEL/2015.
+
+2015
+
+M. Goswami, P. Munshi, A. Saxena and A. Khanna, Non-uniform arrangement of emitter-receiver pairs arrangement and compact ultrasonic tomography setup,Sensors Journal, IEEE, 89(2015), pp. 1198 - 1207
+
+M. Goswami, S. Shakya, A. Saxena and P. Munshi, Reliable reconstruction strategy with higher grid resolution for limited data tomography, NDT & E International, 72(2015), pp. 17-24
+
+2014
+
+A.K. Trivedi, C. Allison, A. Khanna, P. Munshi, "RELAP5/SCDAPSIM/MOD3.5 analysis of the influence of water addition during a core isolation event in a BWR", Nuclear Engineering and Design, 273 (2014), pp. 298–303 (doi: http://dx.doi.org/10.1016/j.nucengdes.2014.03.016)
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+D. Nath and M. S. Kalra, "Solution of Grad–Shafranov equation by the method of fundamental solutions", Journal of Plasma Physics, 80, 3 (2014), pp. 477-494.
+
+M. Goswami, A. Saxena and P. Munshi, "A New Grid-Based Tomographic Method for Two-Phase Flow Measurements", Nuclear Science and Engineering, 176, 2, (2014), pp. 240-253
+
+S. Shakya, P. Munshi, M. Behling, A. Luke, D. Mewes, "Analysis of Dynamic Bias Error in X-ray Tomographic Reconstructions of a Three-phase Flow System", International Journal of Multiphase Flow, 58(2014), pp. 57-71.
+
+2013
+
+M. Bajpai, P. Gupta and P. Munshi, "Fast multi-processor multi-GPU based algorithm of tomographic inversion for 3D image reconstruction", International Journal of High Performance Computing Applications, Dec. 30, 2013, doi: : http://dx.doi.org/10.1177/1094342013518444
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+P. Athe, S. Shakya, P. Munshi, A. Luke, D. Mewes, "Characterization of multiphase flow in bubble columns using KT-1 signature and fractal dimension", Flow Measurement and Instrumentation, 33(2013), pp. 122-137.
+
+M. Bajpai, P. Munshi, P Gupta, C Schorr, M Maisl, “High Resolution 3D Image Reconstruction using Algebraic Method for X-ray Cone-Beam Geometry over Circular and Helical Trajectories”, NDT & E International, 60(2013), pp. 62-69.
+
+M. Bajpai, P. Gupta, P. Munshi, V. Titarenko, P. J. Withers, A GPU Based Parallel Implementation of MART Algorithm for Limited View Tomography, Research in Nondestructive Evaluation, 24(2013), pp. 211-222.
+
+H.L. Kumawat, O. P. Singh, P. Munshi, “Uncertainty Evaluation of Reliability of Safety Grade Decay Heat Removal System of Indian Prototype Fast Breeder Reactor”, Annals of Nuclear Eneregy, 62(2013), pp 242-250.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+J. Tyagi, M. Kumar, H.G. Lele, P. Munshi, "Thermal Hydraulic Analysis of the AHWR-The Indian Thorium Fuelled Innovative Nuclear Reactor", Nuclear Engineering and Design, 262(2013), pp. 21-28.
+
+D. Nath, R. Majumdar, M. S. Kalra, "Thermonuclear Fusion Reactivities for Drifting Tri-Maxwellian Ion Velocity Distributions", Journal of Fusion Energy, 32(2013), pp. 457-463
+
+C. Arun, T. Palani Selvam, Verma Dinkar, Prabhat Munshi, Manjit Singh Kalra, "Monte Carlo-based energy response studies of diode dosimeters in radiotherapy photon beams", Radiological Physics and Technology, 6(2013), pp. 151-156.
+
+2012
+
+A.K. Trivedi, A. Srivastava, H. G. Lele, M. S. Kalra, P. Munshi, Uncertainty Analysis of Large Break LOCA for Pressurized Heavy Water Reactor, Nuclear Engineering and Design, 245(2012), pp. 180-188.
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+K. Semwal, R. Ranjan, P.K. Panigrahi, P. Munshi, Color Schlieren Deflectometry Study of Jet Mixing: Effect of buoyancy and perforation, Heat and Mass Transfer, 48(2012), pp. 541-554.
+
+2011
+
+P. Tewari, G. Vinod, V.V.S.S. Rao, P. Munshi, M.S. Kalra, Uncertainty Evaluation of Blackout Initiated Accident Sequences of a typical PHWR, Nuclear Engineering and Design, 241(2011), pp. 5251-5262.
+
+N.N. Kishore, P. Munshi, M Ranamale, V. Ramakrishna, W. Arnold, “Tomographic Reconstruction of Defects in Composite Plates Using Genetic Algorithms with Cluster Analysis.”, Research in Nondestructive Evaluation, 22(2011), pp. 31-60.
+
+Nitin Jain, Anant Raj, M.S. Kalra and Prabhat Munshi, MART Algorithms for Circular and Helical Cone;Beam Tomography, Research in Non-Destructive Evaluation, 22(2011), pp. 147-168
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - RESEARCH AREAS, LABORATORIES, F > recent publications]
+Nitin Jain, M.S. Kalra and Prabhat Munshi, “Characteristic Signature of Specimen using an Approximate Formula for 3D Cone-Beam Tomography, Research in Non-Destructive Evaluation, 22(2011), pp. 169-195.
+
+2010
+
+Verma D, Palani Selvam T, Arun C, Munshi P., Comment on "Energy dependence of commercially available diode detectors for in vivo dosimetry" [Medical Physics, 34(2007), pp. 1704–1711] Medical Physics, 37(2010), pp. 4517-4519.
+
+S.K. Rathore, N.N. Kishore, P. Munshi, W. Arnold, “Tomographic Reconstruction of Elastic Constants in Composite Materials Using Numerical and Experimental Laser Ultrasonic Data”, Research in Nondestructive Evaluation, 21(2010), pp. 61-90.
+
+S. Gulati, M. Behling, P. Munshi, A. Luke, D. Mewes, “Tomographic KT-1 signature of phase-fraction distributions in multiphase bubble columns”, Flow Measurement and Instrumentation, 21(2010), pp. 249-254.
+

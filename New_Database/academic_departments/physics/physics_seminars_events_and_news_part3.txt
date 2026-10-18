@@ -1,0 +1,3513 @@
+DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS (part 3 of 3)
+Name: Department of Physics, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/phy. Snapshot: scraped in 2026.
+
+=== activities colloquium 29850e ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=3
+20 May 2024
+
+Building International Research Software Collaborations in Physics
+
+Prof. David Lange & Prof. Peter Elmer (Princeton University)
+
+05 November 2024 (11:00 AM)
+
+Solar Wind Forecasting at NOAA's Space Weather Prediction Center
+
+Prof. Mark Miesch (CIRES)
+
+24 October 2024 (4:00 PM)
+
+How does information emerge from a black hole?
+
+Prof. Suvrat Raju (ICTS-TIFR, Bengaluru)
+
+4 October 2024 (05:15 PM)
+
+<< Prev
+Next >>
+
+=== activities colloquium 6adf23 ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=6
+20 May 2024
+
+First-Ever Discovery of a Temperate Giant Exoplanet through Direct Imaging:
+
+Prashant Pathak
+
+16 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Colloquium A review on accretion disc models around black holes and the state of AGN & microquasar research:
+
+Prof.Indranil Chattopadhyay
+
+09 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Colloquium Information ProcessingDistributed Cellular Systems
+
+Prof.Madan Rao (NCBS-TIFR)
+
+28 June 2024 (4:00 PM)
+
+FB382 (AKR Seminar Room)
+
+<< Prev
+Next >>
+
+=== activities colloquium 817a92 ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=7
+20 May 2024
+
+Speaker: Prof. Basudeb Dasgupta
+
+Affiliation:TIFR, Mumbai
+Title: Stars as Laboratories for Fundamental Physics
+
+Date: 30th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Venue: A.K.R. seminar room [Faculty Building (FB)-382
+
+Abstract:
+
+Stars host extreme conditions that are difficult to achieve on Earth, and provide a natural lab to conduct important tests of fundamental physics. I will discuss two remarkable examples -- a novel search for heavy dark matter using observations of neutron stars and/or black holes, and a search for neutrino-neutrino interactions (a Standard Model interaction that has not been directly tested) using supernovae. In each case, we will see how improved knowledge of the astrophysical conditions paves the way for deeper probes of fundamental physics. read more...
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+Speaker: Prof. Poonam Mehta
+
+Affiliation:School of Physical Sciences, Jawaharlal Nehru University
+Title: The  Neutrino Frontier in Particle Physics
+
+Date: 23rd Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Venue: A.K.R. seminar room [Faculty Building (FB)-382
+
+Abstract:
+
+Everything in the universe is made up of a few basic building blocks called
+fundamental particles governed by four fundamental forces. The Standard Model
+(SM) of particle physics, developed in the nineteen seventies, beautifully
+encapsulates how the fundamental particles and the three forces
+(electromagnetic, strong and weak) are related to each other. The SM has been
+a well-tested physics theory so far yet some questions remain both within the
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+realm of SM and beyond such as why there are three generations of fundamental
+particles and why their masses are different,
+explanation of the observed matter-antimatter asymmetry in the universe, the
+existence of dark matter, and hint of non-zero neutrino masses etc. We will
+introduce the elusive subatomic particles, the neutrinos and highlight the
+role they play in our understanding of the universe. The first part of the
+talk will comprise of an introduction to neutrino physics along with
+historical account of important discoveries. We will discuss the current
+status and open questions in this field. Towards the end, we will discuss
+some of our current theoretical efforts and their connection to experiments
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+at Fermilab. read more...
+
+Speaker: Dr. Prashant Pathak
+
+Affiliation:SPASE, IIT Kanpur
+Title: First-Ever Discovery of a Temperate Giant Exoplanet through  Direct Imaging
+
+Date: 16th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Venue: A.K.R. seminar room [Faculty Building (FB)-382
+
+Abstract:
+
+Directly imaging rocky exoplanets is one of the key science goals of current and upcoming large telescopes. Direct imaging has emerged as a powerful technique for studying distant worlds beyond our solar system. Modern large telescopes are capable of imaging young Jupiter-mass planets at wide separations from the host star. However, the challenge of imaging rocky planets remains due to the high contrast requirement. The mid-infrared (mid-IR) regime offers the optimum contrast to directly detect the thermal signatures of exoplanets in our solar neighborhood. Upcoming mid-IR instruments such as METIS (Mid-infrared ELT Imager and Spectrograph) on the Extremely Large Telescope (ELT) will be able to detect rocky exoplanets. In this talk, I will cover fundamental principles, challenges, and recent advancements in the direct imaging of exoplanets. Key topics include innovative instrumentation, such as coronagraphs and adaptive optics, utilized to suppress starlight and enhance the detection of exoplanets. I will also discuss the results from the first discovery of a cold giant exoplanet using direct imaging from James Webb Space Telescope and the ground-based VLT telescope. read more...
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+Speaker: Dr. Indranil Chattopadhyay
+
+Affiliation:ARIES, Nainital
+Title: A review on accretion disc models around black holes and the state of AGN & microquasar research
+
+Date: 9th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Venue: A.K.R. seminar room [Faculty Building (FB)-382
+
+Abstract:
+
+In this talk we would discuss the major broad observational features of
+black hole astrophysics and discuss how various disc models arose,
+starting from Bondi flow, thin Keplerian (Shakura Sunyaev; Novikov Thorne)
+disc, thick disc or the POLISH donuts, ADAF, TCAF and also the modern
+popular disc models. We will discuss the pros and cons of them. We would
+end by point out the challenges that lie ahead.read more...
+
+Speaker: Prof. Mahendra K. Verma
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+Affiliation:IIT Kanpur
+Title: Revisiting time’s arrow and entropy from multi-scale perspectives
+
+Date: 2nd Aug, 2024, Friday
+
+Time: 04:00 pm
+
+Venue: A.K.R. seminar room [Faculty Building (FB)-382
+
+Abstract:
+
+Fundamental laws of physics are symmetric under time reversal
+(T) symmetry, but T symmetry is strongly broken in the macroscopic
+world. In this talk, I will present several mechanisms for determining
+the arrow of time (or breaking T symmetry), including the second law of
+thermodynamics, multi-scale energy flux, asymmetric macroscopic objects
+such as rockets, open systems, and causality. In this talk, I will also
+discuss hydrodynamic entropy that captures multi-scale order in
+hydrodynamic flows.read more...
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 817a92]
+<< Prev
+Next >>
+
+=== activities colloquium 94a7c6 ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=1&limitstart=
+20 May 2024
+
+12-13 October 2026, 11:00 AM
+
+ColloquiumBlack Holes in the Cosmic Web
+
+09 October 2026 (5:15 PM)
+
+08 October 2026, 03:00 PM
+
+07 September 2026 (5:30 PM)
+
+03 September 2026 (5:15 PM)
+
+31 August 2026 (5:15 PM)
+
+28 August 2026 (5:15 PM)
+
+21 August 2026 (5:15 PM)
+
+Prof. Pankaj Jain (SPASE, IIT Kanpur)
+
+14 August 2026 (5:15 PM)
+
+SeminarQuantum Games
+
+13 August 2026 (05:00-06:00 PM)
+
+LHC 01 (Lecture Hall Complex)
+
+ColloquiumSpin-Orbitronics Devices
+
+07 August 2026 (5:15 PM)
+
+02 July 2026 (11:00 AM)
+
+24 April 2026 (5:15 PM)
+
+10 April 2026 (5:15 PM)
+
+04 February 2026 (6:15 PM)
+
+LHC 16 (Lecture Hall Complex)
+
+30 January 2026 (5:15 PM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+22 January 2026 (5:15 PM)
+
+16 January 2026 (5:15 PM)
+
+Prof. Mohit Bhardwaj, SPASE, IIT Kanpur
+
+09 January 2026 (5:15 PM)
+
+ColloquiumMagnon Spintronics
+
+14 November 2025 (5:15 PM)
+
+13 November 2025 (5:15 PM)
+
+07 November 2025 (5:15 PM)
+
+31 October 2025 (5:00 PM)
+
+10 October 2025 (5:15 PM)
+
+15 September 2025 (5:15 PM)
+
+15 September 2025 (4:00 PM)
+
+12 September 2025 (5:15 PM)
+
+08 September 2025 (5:15 PM)
+
+04 September 2025 (5:15 PM)
+
+29 August 2025 (5:15 PM)
+
+22 August 2025 (5:15 PM)
+
+01 August 2025 (5:15 PM)
+
+Shiraz Minwalla (TIFR, Mumbai)
+
+24 June 2025, Tuesday (10:30 AM)
+
+Prof. Annagiri Sumana (IISER Kolkata)
+
+25 April 2025 (5:15 PM)
+
+Dr. Bhaskar Mukherjee (SNBNCS, Kolkata)
+
+09 April 2025 (04:30 PM)
+
+09 April 2025 (12:00 PM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+04 April 2025 (5:15 PM)
+
+Prof. Amol Dighe (TIFR, Mumbai)
+
+28 March 2025 (5:15 PM)
+
+Prof. Aditya H. Kelkar (IITK)
+
+21 March 2025 (5:15 PM)
+
+ColloquiumDetection of a single microwave photon using semiconductor quantum dots: experimental and fundamental Challenges
+
+Prof. Subhomoy Haldar (IITK)
+
+7 March 2025 (5:15 PM)
+
+ColloquiumMultimessenger Astroparticle Physics with High Energy Photons and Neutrinos
+
+Prof. Pratik Majumdar (Saha Institute of Nuclear Physics)
+
+14 February 2025 (5:15 PM)
+
+ColloquiumTwo Dimensional Moire Materials
+
+Prof. U Chandni (IISc Bangalore)
+
+07 February 2025 (5:15 PM)
+
+ColloquiumMastering the Art of Impactful Academic Writing
+
+Prof. Amit Agarwal (IIT Kanpur)
+
+31 January 2025 (5:15 PM)
+
+LH- 1 (Lecture Hall Complex)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Lepton Flavor Violation in the Tau Sector
+
+Prof. Swagato Banerjee (University of Louisville)
+
+03 January 2025 (4:00 PM)
+
+Polymer models for chromatin domain structure and dynamics
+
+Prof. P B Sunil Kumar (IIT Madras)
+
+08 November 2024 (5:15 PM)
+
+05 November 2024 (11:00 AM)
+
+Prof. Mark Miesch (CIRES)
+
+24 October 2024 (4:00 PM)
+
+4 October 2024 (05:15 PM)
+
+How Universal is Turbulence?
+
+27 September 2024 (05:15 PM)
+
+Prof. Chanchal Sow
+
+12 September 2024 (4:00 PM)
+
+FB382 (AKR Seminar Room)
+
+The Carrollian Kaleidoscope
+
+Prof. Arjun Bagchi
+
+11 September 2024 (11:00 AM)
+
+FB382 (AKR Seminar Room)
+
+Understanding-Driven Discovery of Quantum Matter:A Bottom Up Design Approach
+
+Prof. Bahadur Singh
+
+06 September 2024 (5:15 PM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+FB382 (AKR Seminar Room)
+
+Stars as Laboratories for Fundamental Physics
+
+Prof. Basudeb Dasgupta
+
+30 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+The Neutrino Frontier in Particle Physics
+
+Prof. Poonam Mehta
+
+23 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prashant Pathak
+
+16 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prof.Indranil Chattopadhyay
+
+09 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prof.Madan Rao (NCBS-TIFR)
+
+28 June 2024 (4:00 PM)
+
+FB382 (AKR Seminar Room)
+
+Speaker: Prof. Basudeb Dasgupta
+
+Affiliation:TIFR, Mumbai
+
+Date: 30th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Abstract:
+
+Speaker: Prof. Poonam Mehta
+
+Date: 23rd Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Abstract:
+
+at Fermilab. read more...
+
+Speaker: Dr. Prashant Pathak
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Affiliation:SPASE, IIT Kanpur
+
+Date: 16th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Abstract:
+
+Speaker: Dr. Indranil Chattopadhyay
+
+Affiliation:ARIES, Nainital
+
+Date: 9th Aug, 2024, Friday
+
+Time: 05:15 pm
+
+Abstract:
+
+Speaker: Prof. Mahendra K. Verma
+
+Affiliation:IIT Kanpur
+
+Date: 2nd Aug, 2024, Friday
+
+Time: 04:00 pm
+
+Abstract:
+
+hydrodynamic flows.read more...
+
+Speaker: Sudhir Vempati
+
+Affiliation: IISc
+Title: Rare Processes
+
+Date: April 5, 2019, Friday
+
+Time: 04:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+The discovery of neutrino masses and mixing has raised important theoretical challenges due to their tiny masses and large mixing angles. Generating such tiny couplings would typically require special mechanisms like, suppressing by a large mass scale or by a (extra space dimensional) volume etc. When these are put together in larger theoretical frameworks which solve the hierarchy problem, it has interesting consequences: large rates for rare decays like \mu \to e + \gamma, or \tau \to mu + \gamma etc. In the coming years, new experiments will be searching for these rare decays with a precision orders of magnitude beyond the current limit. We consider three example frameworks including the recently proposed clockwork mechanism and discuss the strong implications these processes have on the theoretical models.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: Sampat Raj Vadera
+
+Affiliation: IIT Jodhpur
+
+Title: Functional Electromagnetic Materials for Camouflage and Stealth Applications
+
+Date: March 29, 2019, Friday
+
+Time: 04:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+With the advancements in sensors, computational and communication technologies, the survival of military resources has become one of the major challenges for the Armed Forces across the world. The imaging sensors operating over a wide range of electromagnetic spectrum, from visible-near infrared to microwaves and millimeter waves, coupled with real time processing technologies has rendered the military equipment highly vulnerable to precision strike by the enemy. These advancements in sensor technologies require matching developments in the area of camouflage and stealth technologies which can defy the detection and identification of military targets by the adversary. Materials with desired electromagnetic properties are very important components of camouflage and stealth technologies. The major challenge before the scientific community to develop materials or materials combinations which can address the requirements covering a very wide range of wavelengths of operating sensors. In this talk, I shall present basic concepts of camouflage and stealth together with the materials research done by our group in this area.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: Jim Libby
+
+Affiliation: IIT Madras
+
+Title: Belle II: flavour physics at the intensity frontier
+
+Date: March 15, 2019, Friday
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+On April 26th 2018 the SuperKEKB e+e- accelerator produced its first collisions, which were recorded by the Belle II detector. SuperKEKB is the first new particle accelerator to begin operation since the LHC. SuperKEKB is an intensity-frontier machine that is designed to reach an instantaneous luminosity of 8 x 10^35 cm^-2s^-1. Operating at a centre-of-mass energy corresponding to the peak of the Upsilon(4S) resonance, the goal is accumulate a data sample corresponding to an integrated luminosity of 50 ab^-1. The sample will contain billions of B mesons, charm hadrons and tau leptons that the Belle II experiment will use to search for rare decays and perform precision measurements of flavour observables. These searches and measurements allow indirect probes of physics beyond the standard model. This talk will first motivate the Belle II physics programme, before describing SuperKEKB and the Belle II experiment. Results from the 2018 pilot run, along with specific examples of the physics potential related to tests of lepton-universality and measurements of the Unitarity Triangle will be presented. Throughout, the complementarity and competition with LHCb and its upgrades will be noted.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: Anurag Gupta
+
+Affiliation: IIT Kanpur
+
+Title: Acoustical Perspectives on Indian Musical Instruments
+
+Date: March 8, 2019, Friday
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+We will discuss several unique design features in Indian musical instruments from an acoustical viewpoint. First, we will look at a variety of Indian drums - tabla, pakhawaj, idakka - all of which are adept in producing melody. Using simple mathematical models we will illustrate how these drums are capable of producing sound which is rich in overtones and therefore transmit definite pitch. Second, we will make an attempt to understand the complex structure of tanpura sound in light of our recent experimental and theoretical investigations. Our focus will be to investigate the acoustic signature behind the distinctiveness of tanpura’s drone. Throughout, we will discuss historical contexts of our work and also explore several avenues for research.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: K. P. Rajeev
+
+Affiliation: IIT Kanpur
+
+Title: Low Energy Nuclear Reactions: Time for a Paradigm Shift in Physics?
+
+Date: March 1, 2019, Friday
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+There have been several experimental observations, over the course of a century or so, where transmutation of elements have been found to happen in table top experiments that does not make use of high energy particles. According to our current understanding of Physics such phenomena should not happen. We will review some of the important experimental observations starting with the (in)famous experiment conducted by Pons and Fleischmann and dubbed as “Cold Fusion” and dismissed by the mainstream physics community as “pathological science”. The field has since been renamed as Low Energy Nuclear Reactions (LENR) though it still carries some of the old stigma. This colloquium is an attempt to assess the current situation and its implications for science and technology. The talk will also present some of the speaker’s own attempts to verify some of the claims of this field. Also, some of the recent technological developments and the tantalizing possibilities they open up will be touched upon.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: Alok Laddha
+
+Affiliation: Chennai Mathematical Institute
+
+Title: Classical Limit of Soft Graviton Theorem and the memory effect
+
+Date: February 26, 2019, Tuesday
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+In this talk we will show how certain results in Quantum Gravity can be used for analysing low frequency gravitational radiation in classical scattering processes in arbitrary dimensions. In Four dimensions this analysis yields an interesting observable effect. Namely, a late time component in Gravitational field that falls off as inverse power of time, which can be interpreted as a tail term to the Linear Memory effect.
+
+Speaker: Dipankar Chakrabarti
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Affiliation: IIT Kanpur
+
+Title: Lattice Gauge Theory With Minimally Doubled Fermion
+
+Date: 15th February, 2019(Friday)
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+Lattice gauge theory is a non-perturbative quantum field theory technique where the space and time are discretized on a four dimensional hypercubic lattice. Though it is successful in calculating many interesting non-perturbative observables, putting fermion on a discrete space-time lattice is difficult due to presence of extra unphysical degrees of freedom, known as "doublers". In 4-dimensions, 15 such doublers appear along with the physical fermion. A no-go theorem implies we need to break chiral symmetry on the lattice to remove these doublers. In minimally doubled fermion formulation, there is only one doubler with chiral symmetry, the minimum number allowed by the "no-go" theorem. But the minimally double fermions break parity and time reversal invariances and so people are skeptic about using them. In this talk I will discuss one such minimally doubled fermion formulation to show how these invariances can be restored and demonstrate that it can be used to investigate interesting nonperturbative physics.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker: Durgesh Tripathi
+
+Affiliation: The Inter-University Centre for Astronomy and Astrophysics(IUCAA)
+
+Title: Heating and Dynamics of Sun's Atmosphere
+
+Date: 8th February, 2019(Friday)
+
+Time: 4:00 pm (Tea at 3.50 pm)
+
+Venue: FB382 (A. K. Raychaudhuri Seminar Room)
+
+Abstract:
+
+The Sun is the closest star that not only shapes the environment we live in but also challenge our physical understanding of the working of the star. On the one hand, the Sun's UV and X-ray radiation do impact the dynamics of the Earth's atmosphere. On the other hand, the existence of million-degree hot corona (atmosphere) above mere 6000 K photosphere (surface) and dynamics therein at a range of spatial and temporal scales has been considered to be one of the most stubborn problems in Astrophysics, since its discovery in 1940. Besides, the high energy explosions on the Sun affects the space weather and can have devastating effects on society. In this talk, I shall focus primarily on the heating and dynamics of the active solar regions which demonstrate the most pronounced form of coronal heating and dynamics and they also form the source regions of high energy explosions. I shall provide a brief overview of the field including the open questions followed by some recent results obtained using the observations recorded with the state-of-the-art current space missions.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Avinash Deshpande
+Raman Research Institute(RRI)
+On the Attempts to Detect the Global Spectral Signature of the Cosmic
+Dawn
+1st February, 2019(Friday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+A number of on-going and planned future efforts at low radio frequencies aim to detect precious tokens of the yet unobserved details of the transition from the dark ages to the cosmic dawn and beyond to completion of reionization, heralded by the first stars. The potential detectability of global signal from the red-shifted 21-cm line of atomic hydrogen across this cosmic transition was first discussed by Shaver et al. (1999). Detection of such signals holds unmatched promise to reveal several key details of the physical condition and constituents of the universe during these early epochs. However, the associated challenges are not confined only to isolating the weak signal of interest from the orders of magnitude brighter foregrounds, but extend equally to reliably establishing the origin of the apparent global signal to the very early epochs.
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+The talk will highlight the challenges in such measurements and the attempts so far to detect the global signal, including the recently claimed "detection of a flattened absorption profile in the sky-averaged radio spectrum". by Bowman et al (2018). The potential of a novel model-independent path toward isolating the foreground contribution will be discussed, and a critical test that the measurements of the global cosmic-dawn signal should necessarily pass will be presented.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Anirban Chakraborti
+Jawaharlal Nehru University
+Predicting the unpredictable: A case study of financial market crashes
+25th January, 2019(Friday)
+4:00 pm (Tea at 3.50 pm)
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+FB382 (A. K. Raychaudhuri Seminar Room)
+Catastrophic events, though rare, do occur and when they occur, they have devastating effects. The study of the critical dynamics in complex systems is always interesting yet challenging. First, we present a brief overview of the random matrix theory and correlated Wishart ensemble. Then, we choose financial market as an example of a complex system, and do the analysis of the S&P 500 (USA) stock market based on the evolution of cross-correlation structure patterns. We identify “market states” as clusters of similar correlation structures, which occur more frequently than by pure chance (randomness). Power mapping method from the random matrix theory is used to suppress the noise on correlation patterns, and an adaptation of the intra-cluster distance method is used to obtain the optimum number of market states, and also identify the “precursors” to the crashes. The dynamics of the transitions between the states are interesting. Further, the resulting “emerging spectrum” of eigenvalues near zero, have intriguing properties: (i) the shape of the emerging spectrum reflects the market instability, (ii) the smallest eigenvalue is able to statistically distinguish the nature of a market crash or crisis. We finally investigate whether the smallest eigenvalue is able to predict a high market correlation, which is a signature of a crash.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Saikat Ghosh
+IIT KANPUR
+Superposed states of atoms and nano-mechanical resonators
+18th January, 2019(Friday)
+5:00 pm (Tea at 4.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+We will discuss some recent results on two experiments in our lab: on atoms and on 2-dimensional (graphene) mechanical resonators. In particular, we will describe a single-shot measure of quantum coherence in atoms, that accurately quantifies superposed states in experimentally simulated open and closed thermal ensembles. Furthermore, we find that the measure can be applied to freeze such superposed states, countering incoherent decay. We will also discuss a mechanical amplifier that we have developed using few-atomic layer graphene, which can measure displacements down to 3.4 femto-meter, integrated over a second. We use parametric squeezing to reach these extreme scales. The system also displays a range of rich non-linearity, including phonon lasing, cooling, phase coherent phononic frequency combs and can induce giant non-linearity in an otherwise linear, NEMS oscillator. We will end with a discussion on our future experiments towards integrating these two powerful but otherwise disconnected platforms of atoms and 2-dimensional mechanical resonators and probable benefits of undertaking such an exercise.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Tapobrata Sarkar
+IIT KANPUR
+Small Anisotropy in Stellar Objects in Modified Theories of Gravity
+11th January, 2019(Friday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Interior structures of stellar objects might have small pressure anisotropy due to several reasons. In this talk, we will review this, and study the possible role of small anisotropy in stellar interiors in theories of modified gravity, that are known to alter the hydrostatic equilibrium condition inside stars. We will discuss how anisotropy may put lower and upper bounds on the modified gravity parameter depending on the polytropic equation of state. We will also discuss the mass of stellar objects in these theories, and the associated modification of the Chandrasekhar mass limit in white dwarf stars. Effects of small pressure anisotropy on the Hydrogen burning limit in low mass stars will be commented upon.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Arjun Bagchi
+IIT KANPUR
+Towards Realistic Holography
+4th January, 2019(Friday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+The Holographic Principle is mainly understood for negatively curved Anti-de Sitter spacetimes, through the celebrated AdS/CFT correspondence. Our universe is clearly not AdS and hence we need to generalise the notion of holography beyond AdS. In this talk, I would outline some steps towards construction of holography for asymptotically flat spacetimes. The later half of the talk would be focused on more technical recent developments, viz. modified modular invariance and the construction of characters of the underlying symmetry algebra.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Pankaj Joshi
+Institut Néel, Univ. Grenoble Alpes, Grenoble INP and CNRS
+Black Holes and Quantum Stars: Observer's Paradise?
+12th November, Monday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Einstein's theory of gravity predicts the existence of Black Holes and Space-time Singularities. We discuss the current efforts to make a direct observational detection of these entities. The Black Holes and visible or Naked Singularities arise from the gravitational collapse of massive stars. Quantum gravity effects dominate near the naked singularities, that we may call `Quantum Stars', which may be long or short lived. These offer an opportunity to test the quantum theories of gravity, or the Unification of Physics. The connection to new observational missions such as the Event Horizon Telescope, Gravitational Waves, TMT, and others are pointed out and exciting theoretical developments emerging are indicated.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Hervé Courtois
+Institut Néel, Univ. Grenoble Alpes, Grenoble INP and CNRS
+Quantum Thermodynamics in a Single Electron Transistor
+9th November, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Single Electron Transistors (SETs) are key elements of quantum nano-electronics. Investigating their thermodynamic properties is thus of both fundamental and practical interest. In this talk, I will review our recent experiments on the thermal conductance and the thermo-power of SETs. Devices based on either a metallic island or a quantum dot are investigated. In particular, I will discuss the violation of the celebrated Wiedemann-Franz (relating the thermal conductance and the electrical conductance) in a metallic SET. In a quantum dot strongly coupled to one lead, the Kondo effect generates a peak in the tunneling density of states close to the Fermi level. I will report on measurements of the thermo-power, showing that this Kondo peak is shifted from the Fermi level.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Palash Baran Pal
+SINP, Kolkata
+Quantum Synchronisation in the Quantum Regime
+2nd November, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+I will discuss, starting from Newtonian times, how physicists have tried to understand different forces in a single unified framework. The pursuit includes Maxwell's unification of electricity and magnetism, and modern gauge theories of interaction, leading to the idea of grand unification.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Mahendra Verma
+IIT Kanpur
+Description of nature: A single law or many laws?
+25th October, Thursday, 2018
+4:00 pm (Tea at 3.50 pm)
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+FB382 (A. K. Raychaudhuri Seminar Room)
+To understand nature, physicists have attempted to construct minimalistic laws to describe varied phenomena. In history of science, there have been successes in this direction — Maxwell’s unification, unification of forces, etc. However, the world appears to be quite complex, and there is a school that believe that not everything can be reduced to a single framework. For example, phase transition is described by large-scale modes. Turbulent flows have their own framework, and possibly it cannot be derived from first principle. It is possible that different layers of nature have their own laws, thus nature’s laws may be hierarchical.
+
+Speaker:
+Affiliation:
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Sai Vinjanampathy
+IIT Bombay
+Quantum Synchronisation in the Quantum Regime
+12th October, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+It is well known that weakly coupled, self-sustained oscillators can mutually lock the phase of their oscillations in classical mechanics. Such a phenomenon is known as synchronisation. Given the experimental progress of seeing resonators in the quantum regime, there is an ongoing effort to observe synchronisation and other non-linear dynamical effects in quantum systems. It is desirable to observe such synchronisation of quantum systems not just in the classical regime, but also in the quantum regime. This quantum regime is defined by low number of excitations and a highly non-classical steady state of the self-sustained oscillator. In this talk, I will introduce quantum synchronisation and present several results relating to the synchronisation of quantum systems. I will also comment on the applications of these new ideas to quantum technologies All interested are welcome.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+D. S. Rana
+IISER, Bhopal
+Terahertz Science and Technology in Condensed Matter
+5th October, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Terahertz (THz) science and technology has proved its potential to unravel novel phases and functionality in a wide range of condensed matter systems of contemporary interest. In electronic and magnetic complex systems, the study of low energy (0.5-20 meV) dynamics/excitations using THz time-domain and of ultrafast functionality employing THz emission spectroscopy explores those novel electronics phases and ground states which are beyond the scope of static and low frequency transport property determination techniques. Such studies when performed on high quality epitaxial thin films can probe both the collective excitations/dynamics of ordered electronic phases and the free carriers’ dynamics under the influence of THz electric fields. In this talk, I’ll present some of our recent THz spectroscopic investigations on coherently strained thin films of complex perovskite nickelates which are known to exhibit inter-related electronic, magnetic and structural phase transition via complex interplay of competing energetics of spin, charge, lattice and orbitals. Our studies reveal a variety of low energy carrier dynamics such as resonance absorption by charge-density-wave type excitations, non-Drude type of conductivity, non-Fermi liquid behavior, etc. These studies resolve some long standing issues pertinent to phase-diagram of nickelates.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Kavita Jain
+JNCASR, Bangalore
+How fast does a biological population adapt?
+28th September, Thursday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+In an influential essay, evolutionary biologist Theo Dobzhansky stated that “nothing in biology makes sense except in the light of evolution”. Indeed, evolution shapes diversity at all levels of biological organization, ranging from cells to species. Population genetics and quantitative genetics have been used for over a century to understand biological evolution, and share many ideas with statistical physics and thermodynamics. In this talk, I will introduce some basic population-genetic concepts, and processes that drive biological evolution. I will then describe our recent theoretical results on the adaptation dynamics of populations in static and continually changing environments, and their relation to microbial experiments.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Rajeev Gupta
+IIT Kanpur
+Quest for a Room Temperature Multiferroic
+25th September, Thursday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Multiferroic materials have attracted enormous interest in recent times due to their perceived potential applications such as in sensors, actuators and memory devices. This phenomenon seldom occurs in nature-generated materials near room temperature. Therefore, it is vital to explore new lab synthesized multiferroic materials demonstrating the multiferroic effect near or above room temperature. In this talk, we will discuss our results on two materials – Gallium Ferrite and Yttrium Orthoferrite (YCrO3).
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Gallium ferrite (GaFeO3 or GFO) is a low temperature ferrimagnet and room temperature piezoelectric wherein the magnetic transition temperature can be tailored to room temperature and above by tuning the stoichiometry. We have systematically studied the evolution of phonons in good quality samples of GFO using Raman spectroscopy. Using the phonon softening behavior and nearest neighbor spin-spin correlation function we estimated spin-phonon coupling strength in the magnetically ordered state. We also show, for the first time, the presence of a spin glass phase in GFO where the spin-glass transition has a signature of abrupt change in the spin-phonon coupling strength. We also demonstrate room temperature ferroelectricity in epitaxial thin films of gallium ferrite.
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Next, we use the example of YCrO3 to show that there are two competing phenomenon – onset of ferroelectricity due to rotation of CrO6 octahedra and displacement of Y atom leading to suppression of ferroelectricity. This competition reveals that while the octahedral rotations favor a lower symmetry state, the Y atom displacement opposes it, leaving YCrO3 to exhibit only an incipient ferroelectric state. The evolution of phonon modes supports the role of phonons in the origin of ferroelectricity associated with the local distortion in the crystal structure. We believe that this work addresses the long-standing question as to why, despite the high temperature perovskite cubic structure being so common, very few oxides transform into the R3c structure and exhibit ferroelectricity.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+V Subrahmanyam
+IIT Kanpur
+Entanglement in Spin systems: Distribution, Generation, Nonlocal Bell Pairs
+24th September, Thursday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Quantum entanglement is recognised, in recent years, as a resource in information processing and communication protocols. Many-electron spin states can exhibit a variety of entanglement structure. The entanglement can be redistributed and generated when the system undergoes a dynamical process. We will discuss the distribution and generation of multi-partite entanglement through a Hamiltonian evolution of initial unentangled spin states, for well-known quantum spin models. A quantum circuit will be presented that uses the dynamics of a kicked transverse field Ising model, that generates a multi-party entanglement structure, and non local Bell pairs.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Anjan K. Gupta
+IIT Kanpur
+Strengthening the superconducting weak-links in m-SQUIDs for probing nano-magnetism
+20th September, Thursday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Nano-magnetism is of interest for the underlying physics as well as applications. Magnetic measurements of an individual magnetic nano-particle, as compared to an ensemble, are preferred as they avoid complications arising from averaging over particle size and shape as well their interactions. Magnetometry using micron-size superconducting quantum interference devices (m-SQUIDs) has been remarkably successful in probing classical as well as quantum regimes of magnetism in single particles. This technique can be further improved for better speed and higher sensitivity with hysteresis-free m-SQUIDs. The later has been a challenge, particularly at low temperatures, which is essential for probing quantum-magnetism. The hysteresis in these devices arises from thermal instabilities in superconducting weak-links that are used as Josephson junctions in m-SQUIDs. The heat generated by resistive normal region leads to a self sustained hot-spot. This has been modeled by solving steady state thermal conduction equation, which is valid in certain regime. However, as we approach the hysteresis-free regime by optimizing the heat evacuation, another regime of hysteresis is found in which the bistability results due to a dynamic steady state. This dynamic regime appears to be more challenging in terms of eliminating hysteresis. The common idea of resistive shunting, which works well in usual tunnel junction based SQUIDs, leads to a marked reduction in sensitivity. By understanding this new regime through a simple model we have been able to device ways of eliminating hysteresis with remarkable sensitivity. We shall also discuss some of the limitations of the model including the non-equilibrium effects. In particular, we find a very slow relaxation of quasi-particles (QPs) that are generated during phase-slips in our devices. This slow relaxation of QPs is known to be a bottleneck in several superconducting devices such as nano-coolers and superconducting qubits.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Sudip Sengupta
+Institute for Plasma Research (IPR), Gandhinagar
+On Wave Breaking of Relativistically Intense Longitudinal Space Charge Waves in Plasma
+14th September, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Spatio-temporal evolution of large amplitude relativistically intense longitudinal space charge waves in plasma is a fascinating fi
+eld of research. It is not only a topic of fundamental academic interest to nonlinear plasma theory but also serves as a useful paradigm to illustrate the under-lying physics of many plasma based phenomenon in the laboratory and astrophysical scenarios where large amplitude nonlinear space charge waves are excited. A space charge wave is said to be relativistically intense when the energy gained by an electron over a distance of one wavelength becomes of the order or more than its rest mass energy. The amplitude of these nonlinear plasma waves is limited by a phenomenon called wave breaking, which may be induced by several physical processes. In this talk, along with a brief overview, current understanding of wave breaking of relativistically intense space charge waves will be presented. Its application to the rapidly developing field of plasma based particle acceleration schemes will also be touched upon.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Amita Das
+Institute for Plasma Research (IPR), Gandhinagar
+Electron Beam Transport in Plasmas
+7th September, Friday, 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+The electron beam transport and its energy deposition in plasma is crucial in the context of many applications such as fast ignition etc., where it is desirable to dump energy in an overdense compressed core of the target where lasers are unable to penetrate. The talk will cover complex collective physics associated with electron beam plasma instabilities, the associated evolution of magnetic fields and the ensuing turbulence leading to possible anomalous behavior of transport. The experimental evidences in support of anomalous transport will be provided. A novel effect arising due to finite transverse beam size will also be demonstrated.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Tarun Kanti Ghosh
+IIT Kanpur
+Exotic properties of generalized Dirac-Weyl systems
+31st August, (Friday), 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+The signatures of Dirac physics in condensed matter systems have been established after the realization of graphene monolayers. In this talk, we will consider two different kinds of 2D Dirac-Weyl systems, namely borophene/deformed graphene having tilted anisotropic Dirac cones and alpha-T3 optical lattice having Dirac cones along with a flat band. We will discuss effect of the tilted anisotropic Dirac cones on zero-momentum optical conductivity of borophene/deformed graphene. The role of a variable Berry phase in magnetotransport coefficients and various properties of Floquet quasienergy states of the alpha-T3 systems will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Dhrubaditya Mitra
+NORDITA, Stockholm
+Our turbulent times
+03rd August, (Friday), 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Turbulence is often called the last unsolved problem of classical physics although it is not always clear what exactly the "problem of turbulence" is. I shall first try to well-define the problem of turbulence from the point of view of a physicist. The common perception of turbulence is a behaviour that changes dramatically over time. I shall show several ways in which to quantify and then understand the dynamic behaviour of a turbulent fluid generalising ideas from statistical mechanics. They are all attempts to precisely define and understand a commonly asked question in turbulence: "What is the lifetime of a turbulent eddy ? ". First by borrowing ideas from dynamical scaling of critical phenomenon and generalising them to dynamical multiscaling in turbulence. Next by numerically calculating the probability distribution of first-passage-times. To cut a long story short, there no unique time scale that corresponds to a particular length scale in a turbulent fluid. Depending on precisely how you define your time scale you will get a different answer. This aspect of turbulence has been elucidated by research done over last two decades.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Kedar Khare
+Indian Institute of Technology, Delhi
+Hilbert Transform in 2D, Complementary Diffraction and Robust Laser Beam Engineering
+18th April, (Wednesday), 2018
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Sine and cosine quadratures connected by the Hilbert transform are commonly used in the complex signal representation of optical wavefields. A curious theorem due to L. Mandel (published in 1967) tells us that the quadrature representation obtained via Hilbert transform is the most efficient one in the sense that it leads to a least fluctuating complex signal. I will begin my talk by generalizing Mandel's theorem and showing that the quadrature transform operation for a 2-dimensional signal involves Fourier domain filtering of the 2D signal by a spiral phase function. This result can be tested by a simple laboratory experiment where we observe that when an arbitrary amplitude-phase aperture is illuminated by l = 0 and l = 1 orbital angular momentum (OAM) states, the corresponding far field diffraction intensity patterns are complementary. I will describe two interesting applications of the complementary diffraction phenomenon: (1) spiral phase diversity imaging, (2) engineering of laser beams capable of maintaining robust intensity profile on propagation through random time-varying phase fluctuations as in atmospheric turbulence.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Prabal K Maiti
+Indian Institute of Science, Bangalore
+Modelling complex soft and biomaterials
+3rd April, (Tuesday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Computer simulations are becoming, or are already, important scientific tools to understand the emergence of collective properties from chemical structures in complex molecular systems. It has helped us in improving our basic understanding of soft and biomaterials and providing calculation tools for the pre-synthesis design and screening of novel materials for various technologies. In this talk I will summarize our efforts in understanding the structure and dynamics, the self-assembly and phase behavior in a number of different soft-matter systems like: DNA, dendrimer, DNA-dendrimer complex, HIV protein and confined water. I will present results from our atomic level simulations on the DNA and dendrimer systems. Using Molecular dynamics (MD) simulations we have been able to study and predict the structural properties of various DNA molecules, which are useful for nanoscale applications. Our atomistic simulations of dendrimer systems allow us to study in great detail various properties of such systems. We have also used MD techniques to study the complex dissociation pathway of protein complex in the context of HIV infection and inhibition. If time permits, I will also talk about modeling effort understanding charge transport in DNA.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Anil Shaji
+Indian Institute of Science Education and Research, Thiruvananthapuram
+NonClassical correlations in quantum information processing and open quantum dynamics
+28th March, 2018 (Wednesday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+NonClassical correlations in quantum states appear to have a role to play in both quantum information processing as well as in the dynamics of open quantum systems. Quite a bit of literature exists on quantum entanglement, its uses, roles etc. However nonClassical correlations that can be present in a quantum state are not necessarily limited to entanglement have received attention only relatively recently. These other nonClassical features, as quantified by a multitude of proposed measures like discord and measurement induced disturbance, and their role in mixed state quantum computing as well as open quantum dynamics are only beginning to be understood. I present a brief overview of these areas and describe how such correlations can be harnessed to perform useful tasks using appropriate quantum technologies. All interested are welcome.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Anirban Sain
+Indian Institute of Technology Bombay
+Self organised patterns in biological soft matter
+22nd March, 2018 (Thursday)
+5:00 pm (Tea at 4.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Living organisms form patterns at various length scales, from cells to tissues and organs, all the way up to the full organism level. To understand how these patterns form and function one must study the properties of polymers, membranes, viscous fluids, the so called soft matter, which constitute the cells. Much of the polymers in the cell are short filaments, which often form networks. Recently, physics of liquid crystals have been very useful in interpreting collective behavior of these filaments. Even cell colonies have been interpreted as liquid crystals, which are essentially assembly of many rod like molecules. Liquid crystals, otherwise known for their spectacular visual effects, are already important in technology (e.g., LCD screens). They are well known for the variety of ordered states, which they exhibit, namely nematics, smectics, cholesterics etc. Interestingly, these states are also accompanied by topological defects, and in the biological context the defects have important functional role, and therefore have received more highlight than the ordered states themselves. In this context, I will also discuss some of our research on, a) filament induced spontaneous tubulation of membrane vesicles, and b) pattern of domains which form during crystallisation of colloidal membranes. a) https://arxiv.org/abs/1802.08608, b) https://www.nature.com/articles/s41467-017-01441-3, c) https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3580
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Anjan Barman
+S. N. Bose National Centre for Basic Sciences, Kolkata
+Ultrafast Spin Dynamics in Ferromagnetic Thin Films and Nanostructures for Applications in Spintronics and Magnonics
+16th March, 2018 (Friday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Spintronics and Magnonics are rapidly emerging fields with huge potential applications in magnetic storage, memory, logic, microwave source and data communication devices, and for them to become viable and sustainable technology it is imperative to study excitation, manipulation and detection of spin dynamics in artificially structured materials. Here, we present three different methods of excitation and detection of spin dynamics in ferromagnetic thin films, multilayers, heterostructures and two-dimensional arrays of nanostructures. Optical, thermal and electrical excitation and detection of spin waves in artificial two-dimensional, pseudo-one-dimensional and quasi-periodic ferromagnetic nanodot and nanoantidot lattices will be presented by time-resolved MOKE microscope[1], Brillouin light scattering and ferromagnetic resonance spectroscopy. Investigation and control of collective spin-wave spectrum and Gilbert damping behaviour by varying the physical and material parameters of the magnonic crystals and bias magnetic field will be discussed [2-7]. Important observations such as ultrafast demagnetization, magnonic-mode splitting [2], bandgap formation[5,6], tunability of bandgap[5], dynamic dephasing[2], tunability of inter-element interaction [3,4,7] and transition from collective to non-collective dynamics2 will be discussed based upon experimental data and numerical simulations. A novel all-optical method of investigating spin-Hall effect in heavy metal will be presented [8,9]. Finally, detection of pure interfacial Dzyaloshinskii-Moriya interaction in heterostructures with broken inversion symmetry by Brillouin light scattering measurement will be presented [10,11]. References 1. A. Barman and A. Haldar, Solid State Physics 65, 1-108 (2014). 2. B. Rana et al., ACS Nano, 5, 9559 (2011). 3. R. Mandal et al., ACS Nano 6, 3397 (2012). 4. S. Choudhury et al., ACS Nano 11, 8894 (2017) 5. C. Banerjee et al., Phys. Rev. Applied 8, 014036 (2017). 6. C. Banerjee et al., Phys. Rev. B 96, 024401 (2017). 7. S. Saha et al., Adv. Funct. Mater. 23, 2378 (2013). 8. A. Ganguly et al., Appl. Phys. Lett. 105, 112409 (2014). 9. S. Mondal et al., Phys. Rev. B 96, 054414 (2017). 10. A. K. Chaurasiya et al., Sci. Rep. 6, 32592 (2016). 11. A. K. Chaurasiya et al., Phys. Rev. Applied 9, 014008 (2018).
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Sibaji Raha
+Physics and Environmental Sciences, Bose Institute, Kolkata, INDIA
+CLIMATE CHANGE: A PHYSICIST’S PERSPECTIVE
+9th March, 2018 (Friday)
+4:00 pm (Tea at 3.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Climate Change is, arguably, the greatest challenge facing the human civilisation today. Global warming is a prominent feature, though not the only one, of climate change, which threatens life as we know it today. Internationally, there is a lot of scientific activity aimed at understanding various features of climate change, with the objective of devising workable strategies for alleviation and/or mitigation of its ravages. Most of these studies, however, are empirical in nature. The basic scientific processes, chemical and physical, remain largely unexplored. Till date, only one Nobel Prize has ever been awarded, to Paul Crutzen, Mario Molina and F. Sherwood Rowland in Chemistry (1995), for their work on ozone formation and decomposition in the atmosphere. The realisation that a complete understanding of the issues related to global change requires a better understanding of fundamental processes has dawned only lately. In this semi-technical (almost non-technical) talk, some of the physics issues related to climate change will be highlighted and current approaches to address them will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Debajyoti Choudhury
+Department of Physics & Astrophysics, Delhi University
+Top @25
+16th February, 2018 (Friday)
+5:00 pm (Tea at 4.50 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+Nearly a quarter century after its discovery, the top quark continues to intrigue us. It's role in the understanding of electroweak symmetry breaking (Higgs physics) in particular, and physics beyond the Standard Model cannot be underestimated. In this talk, I will touch upon some of these issues, with emphasis on what role the determination of its properties play in this quest.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Manas Kulkarni
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+International Center for Theoretical Sciences, TIFR, Bangalore
+Nonlinear dynamics: From integrable models to cold atomic gases.
+9th February, 2018 (Friday)
+4:00 pm (Tea at 3.45 pm)
+FB382 (A. K. Raychaudhuri Seminar Room)
+I will present some fascinating properties in dynamics of integrable models. In particular, I will discuss the Calogero family of models in external potentials. Using certain aspects of integrability, we will discuss duality, solitons and field theory for the Calogero family of models. I will then discuss few integrable and non-integrable models that appear in the context of cold atomic gases and nonlinear optics. I will discuss dynamics, quenches and shock-waves in these models and will present some connection to recent experiments.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Chandrabhas Narayana
+Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore
+Versatility of Raman Spectroscopy in Condense Matter to Biology
+1st February, 2018 (Thursday)
+5:10 pm (Tea at 5.00 pm)
+FB-382 (Physics conference room)
+It is going to be 90 years after the discovery of Raman spectroscopy this year. Due to its very low scattering cross sections its development was hampered vis-a-vis absorption techniques, like Infra-red, UV-visible, Fluorescence etc. After the advent of Nano Science and Technology, Raman spectroscopy has found use in every research area. This talk would highlight the recent forays of Raman spectroscopy in the areas hither too not been used. Topological Insulator is one such area. As an example, TiTe2 has been predicted to show a series of pressured induced Topological transitions [1]. Since Topological transitions require a good understanding of the electronic band structure, Angle Resolved Photo Emission Spectroscopy (ARPES) is found to be the ideal direct tool for elucidating these Topological Transitions. Since it is near impossible to do ARPES under pressure, we have used Raman Spectroscopy in combination with x-ray diffraction and resistivity under pressure to demonstrate the existence of multiple Topological transition in TiTe2. In the area of materials chemistry, Metal organic framework (MOFs) has been highly researched topic due to its wide variety of applications, like gas adsorption, catalysis, fluorescence, water splitting etc, due to tailor-able pore sizes simple chemistry. Raman spectroscopy provides an ideal tool to understand the molecular origin of the interactions of guest and host molecules. As an example, we understand the unusual room temperature CO2 uptake in a fluorofunctionalized MOF [2]. In the area of biology, drug discovery and screening for potential drug is a very important area. The golden standard has been Protein Crystallography combined with Docking studies and MD simulations in the quest for potential drugs. We have shown for the first time Raman spectroscopy combined with MD Simulations is a potential drug screening too by understanding the binding cite of a hyper tension drug, Felidipine in cancer therapeutic protein Aurora Kinase [3]. In the present times, Raman spectroscopy provides an ideal tool to study any branch of science. [1] V. Rajaji, Utpal Dutta, et al, Physical Review B (2018) (just accepted paper). [2] Prakash Kanoo, Sandeep Kumar Reddy et al Chemical Communications, 48, 8487 – 8489 (2012). [3] Dhanasekaran Karthigeyan, Soumik Siddhanta et al Proceedings of the National Academy of Sciences (USA), 111, 10416 – 10421 (2014)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Anand Kumar Jha
+Indian Institute of Technology Kanpur
+Efficient measurement of high-dimensional quantum states
+25th January, 2018 (Thursday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+High-dimensional quantum information protocols are extremely important as they provide several unique advantages compared to the traditional two-dimensional protocols based on the polarization of photons. This talk will present our recent experimental and theoretical work on developing efficient techniques for measuring the high-dimensional classical and quantum states of light.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Prof. L. Sriramkumar
+Indian Institute of Technology Madras
+Can inflation be falsified?
+19th January, 2018 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Inflation is presently the most compelling paradigm to describe the origin of perturbations in the early universe. The remarkable success of the inflationary paradigm can be attributed to its simplicity and efficiency. However, the efficacy of the inflationary scenario also seems to be responsible for a major drawback. Despite the strong constraints from Planck on primordial non-Gaussianities, a rather large set of models seems to remain consistent with the cosmological data, even as new models continue to be proposed. I shall begin the talk with an introduction to inflation and the inflationary observables. Thereafter, I shall discuss the performance of a handful of inflationary models against the cosmological data. I shall also touch upon the status of the feasibility of features in the primordial spectrum, an aspect which I have investigated in some detail. I shall then argue that, in the absence of additional theoretical and experimental inputs from beyond cosmology, it may be difficult to falsify otherwise viable models of inflation. In the final stages of the talk, I shall discuss bouncing scenarios as a possible alternative to inflation. With the aid of a specific example (of the so-called matter bounce model), I shall highlight the typical theoretical challenges faced in constructing a convincing alternative.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. S. Anantha Ramakrishna
+Indian Institute of Technology Kanpur
+New developments in visualization of latent fingerprints for crime scene investigations
+12th January, 2018 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Although the development of DNA identification techniques was initially touted to make other criminal detection methods irrelevant, severe issues of DNA contamination have rendered methods of fingerprint detection and visualization critically important. The detection and visualization of "latent" fingerprints at a crime scene pose inherent challenges with traditional methods like powder dusting failing for majority of surfaces. Recently there has been a surge of developments in fingerprint visualization using different techniques that take advantage of the variety of residues present in fingermarks on varied kinds of surfaces including smooth or rough, porous or non-porous, dry or wet surfaces. These methods take advantage of various physical, chemical as well as optical phenomena. I will review the recent developments in the field and present our recent results [1,2] on latent fingermark visualization on non-porous, rough and reflecting surfaces using vacuum deposition techniques and optical methods. Feedback from experts on various topics is solicited. [1] J. Dutta, S.A. Ramakrishna and I. Mekkaoui Alaoui, Fingerprint visualization enhancement by deposition of columnar thin films and fluorescent dye treatment, Forens. Sci. Int. 228, 32–37 (2013) [2] A.K. Tiwari, S. Guddala, I. Mekkaoui-Alaoui and S. A. Ramakrishna, "Enhanced visualization of latent fingermarks on rough aluminium surfaces using sequential Au and Zn/ ZnS/ ZnO depositions" Journal of Forensic Science, DOI: 10.1111/1556-4029.13686 (online, 2017)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Nirmalya Ghosh
+Indian Institute of Science Education and Research, Kolkata
+Weak measurements on Spin Optical effects
+13th November, 2017 (Monday)
+5:10 pm (Tea at 5 pm)
+FB-382 (Physics conference room)
+Spin orbit interaction (SOI) dealing with the coupling of spin (SAM, circular / elliptical polarization) and orbital angular momentum (OAM) of light is under recent intensive investigations because of their fundamental nature and potential applications. The SOI of light has been observed in various optical interactions leading to a number of interesting and intricate spin optical effects, e.g., Spin Hall effect (SHE) of light, spin dependent vortex formation etc. However, these spin optical effects are usually rather tiny and accurate measurement / unique interpretation of these are extremely challenging. Weak measurement, introduced by Aharonov, Albert, and Vaidman is an extraordinary concept that enables faithful amplification and high precision measurement of small physical parameters. Even though it is a quantum mechanical concept, it can be understood using classical electromagnetic theory of light and thus can be naturally extended into classical optics. Indeed, carefully designed experiments were able to verify the validity of the concept in optical systems. In this talk, I shall introduce the concept of optical weak measurements and discuss its applications for the amplification of the tiny spin optical effects of classical light beam. In this regard, I shall highlight a new concept of weak measurement on using the asymmetric spectral response of Fano resonance as a natural pointer generated within the system. The theoretical framework of the concept and its experimental realization in precisely designed metamaterials, namely, waveguided plasmonic crystals will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. V. Ravishankar
+Indian Institute of Technology Delhi
+The logic route to non classicality of states
+6th November, 2017 (Monday)
+5:10 pm (Tea at 5 pm)
+FB-382 (Physics conference room)
+There is an explosion in the number of criteria that are (being) evolved to understand non-classical features of quantum states. I endeavour to show that they acquire a natural formulation in the language of a particular implementation of quantum logic. The talk assumes acquaintance with with basic quantum mechanics, and pretty much just that.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Daniel Grumiller
+Vienna University of Technology, Austria
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Soft Heisenberg hair
+30th October, 2017 (Monday)
+5:10 pm (Tea at 5 pm)
+FB-382 (Physics conference room)
+"Soft hair" refers to zero energy excitations of black holes or other entities with horizons. This notion was introduced by Hawking, Perry and Strominger two years ago. From a near horizon perspective it was shown by Afshar and collaborators that soft hair falls into representations of infinite copies of the Heisenberg algebra, with surprising consequences for the entropy of black holes or cosmological spacetimes. I provide an introduction to black holes with soft Heisenberg hair and outline what we hope to learn from this new perspective about their entropy, in particular their microstates.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Prabhat Mandal
+Saha Institute of Nuclear Physics, Kolkata
+Topological insulators and 3D Dirac semimetals: novel electronic materials
+23rd October, 2017 (Monday)
+5:10 pm (Tea at 5 pm)
+FB-382 (Physics conference room)
+The electronic properties of graphene, which is a 2D Dirac semimetal, have opened up a new window in condensed matter physics research and device applications. The surface states of several materials such as B1_xSb_x, Bi_Se_3, Sb_2Te_3 and Bi_2Te_3 have striking similarities with graphene. In these materials, known as topological insulators, the bulk has a full insulating energy gap, whereas the surface possesses gapless highly conducting states. As a result, the electrical conduction is dominated by the surface. Following the discovery of topological insulators, another new class of materials, 3D Dirac semimetal, which is 3D analog of graphene has been reported recently. In this seminar, I present some of our recent works on electronic transport properties of topological insulators and 3D Dirac semimetals.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Manas Khan
+Indian Institute of Technology Kanpur
+Decoding Complexity in Working with Complex Fluids
+18th October, 2017 (Wednesday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Most of the soft materials that we have around us are multi-component materials exhibiting non- Newtonian rheology. These soft materials are commonly called as complex fluids. The characteristic mechanical properties of complex fluids govern various processes - starting from the preparation of a delicious dish in the kitchen to maintaining the shape of a cell in our body. The origin of these useful mechanical properties is their exotic structural properties. While the complex fluids look homogeneous at macroscopic scale, they are disordered at the ‘microscopic’ scale, and possess structures at an intermediate scale. Due to these intricacies it is not easy to probe the mechanical properties of complex fluids, given by their viscoelastic moduli, reliably. In this talk, with a brief introduction to microrheology, which is the most common experimental technique to probe the viscoelastic moduli of complex fluids, I will discuss different ways to tackle challenges related to working with complex fluids and in complex environments. These include a new microrheology technique that can probe shear-induced anisotropy in complex fluids, along with our modeling and simulations of microrheology in different complex fluids and environments. Our results provide guidelines for accurate microrheology measurements and data analysis that yield reliable system properties.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Shyamal K. Bhadra
+Indian Association for the Cultivation of Science, Kolkata
+A new twist of light by photonic crystals
+15th September, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Light is composed of colours. We see the beauties of the world through delicate combination of these colours. Some of the natural species like peacock and butterfly show sublime landscape of colours through iridescence or structural colouration. Artificially, similar colours can be created or trapped in delicately crafted photonic crystals. With little twist of photonic crystal one can generate helical Bloch mode or helical wavefront. In mid 1980s band gap properties in photonic crystals are demonstrated - resulting multifarious applications in micro-cavities, compact waveguides, optical filters. In later part of development gas-filled photonic bandgap optical fiber and solid core photonic crystal fiber facilitated making of deep UV laser and broadband supercontinuum light sources. Fascinating properties of noble metal-filled hollow core photonic crystal fiber (HCPCF) can be utilized for plasmonic sensors to estimate minute change in refractive indices of flowing analyte like biofluid. In another significant development it has been shown that trapping of Dirac mode in photonic crystal is possible and extending further Dirac mode guidance in specially designed HCPCF is demonstrated. In photonic crystal cladding of HCPCF two photonic bands can create Dirac cones by linearly crossing each other at Dirac point. This typical photonic bands are useful for trapping of light which is otherwise impossible. It has now been shown that helical or topological optical modes can be trapped in twisted HCPCF. Some of the above stated aspects will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Subhendra Mohanty
+Physical Research Laboratory, Ahmedabad
+Looking for underground resources with satellite borne atomic clocks
+8th September, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Underground aquifers, oil and mineral deposits change the local gravitational potential in the vicinity. I will describe a proposal to map underground density changes using atomic clocks on satellite which could be used for making maps of underground aquifers and other resources.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Parongama Sen
+University of Calcutta
+Physics of opinion dynamics: theory and reality
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+5th September, 2017 (Tuesday)
+3.30 pm (Tea at 3.15 pm)
+FB-382 (Physics conference room)
+“Universal” and emergent behaviour existing in many social phenomena have inspired extensive research by physicists in recent years. One of the most extensively studied problems is that of opinion formation in a society. A few models of opinion dynamics which have close resemblance with classical spin systems are to be discussed and some recent results will be reviewed. Two particular problems will be in focus. The first is how an initial minority can influence the entire population. The second one deals with the cases of US presidential elections where the popular candidate getting the maximum individual votes can turn out to be the loser in an electoral college system as it happened in 2016.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Umakant Rapol
+Indian Institute of Science Education and Research (IISER), Pune
+Quantum Networking: The essentials of distributed quantum computing
+1st September, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Quantum Mechanical bits (QUBITS) armed with features of superposition and entanglement offer enormous possibilities in solving some of the most challenging physical problems. The main drawback is the scalability of the no of QUBITS due to the loss of quantum coherence. One of the ways to mitigate this issue is by coupling quantum registers connected by a quantum link, similar to classical networking of multiple computers/processors. In this talk, I will describe some of the systems that are currently being investigated as ‘Nodes’ and the methods that are being developed for reversible mapping of the internal quantum state of QUBITS to a photon and vice-versa. Emphasis will be on experimental methods in mapping Quantum information between individual atoms and photons. In the end, I will present some of the ongoing experiments in our group that are targeted towards addressing the issues of coherence control and quantum coupling.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Bhavtosh Bansal
+Indian Institute of Science Education and Research (IISER) Kolkata
+When first-order phase transitions become zeroth-order and look like second-order transitions
+11th August, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+It is well known that we can easily superheat water to above 100 degrees celsius in a microwave oven and then make it violently boil by a small disturbance that may help bubbles to nucleate. Such first-order phase transitions can also show hysteresis, i.e., the observed boiling temperature may be higher than the condensation temperature. The temperature window of the hysteretic region represents a metastable phase where equilibrium thermodynamics breaks down and we may observe strange glass-like behaviour—-kinetic arrest, ageing, and rate-dependent effects. In this talk I will try to show that the dynamical behavior for a special subset of such hysteretic transitions, where thermal fluctuations are not too important due to long-ranged interactions, may actually be described in very simple terms and mimic some features of second-order phase transitions. In particular, I will discuss the experimental observation of scaling of dynamical hysteresis and phase-ordering after a thermal quench following critical dynamics. I will also briefly discuss some generic characteristics of thermal hysteresis loops and the problems arising from the non-equivalence of ensembles for non-convex free energies. All experiments are performed around the strongly hysteretic Mott transition in vanadium sesquioxide (V2O3), which we have taken as our model system.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Satyajit Banerjee
+Indian Institute of Technology, Kanpur
+Investigating features of equilibrium and non-equilibrium phase transition using vortices in superconductors as a prototype
+13th April (Thursday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Vortices in type II superconductors are string like entities carrying with them a fixed quantum of magnetic flux. Often the behaviour of a collection of vortices mimics the behaviour of a collection of interacting classical particles. A collection of vortices exhibit intriguing evolution across different structural phases produced under the influence of thermal fluctuations, disorder and drive. Due to the ease with which the density and interaction between vortices can be tuned, vortices in superconductors act as a convenient prototype for investigating features of equilibrium and non equilibrium phase transition phenomena. To illustrate some of the above issues I will discuss two examples: (i) thermal melting phenomena of a vortex solid and discovery of an unusual low density vortex liquid to solid phase transition, which is not encountered in usual melting of condensed matter solid, (ii) non-equilibrium vortex depinning transitions with specific emphasis on instability driven vortex Jamming phenomenon found in a traffic of moving vortices. I will discuss how such transformations are quantitatively investigated using tools like non-equilibrium fluctuation relations.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Aninda Sinha
+Indian Institute of Science, Bangalore
+Wilson-Fisher without Feynman diagrams
+7th April (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Wilson’s renormalization group ideas form a cornerstone of modern quantum physics. They lead to a field theory understanding of critical phenomena. However, the enhanced symmetries at the critical point, namely conformal symmetries are not used as a result of which the calculations, which typically depend on evaluating and regularizing Feynman diagrams, are tedious and complicated. In 1974, Polyakov had put forward an idea based on the consistency between the operator product expansion (OPE) and crossing symmetry, which lay dormant for many years. I will revisit this idea and show how a reformulation in Mellin space leads to enormous calculational advantages—this leads to conformal bootstrap in Mellin space. The building blocks, in their modern incarnation, are what are called Witten diagrams in the AdS/CFT parlance. The calculational steps are manifestly finite. Several standard results (eg. those found in Wilson-Kogut) are easily reproduced and several new results for the OPE coefficients, which are difficult to obtain in the diagrammatic approach, are obtained.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Chiranjib Mitra
+Indian Institute of Science Education and Research, Kolkata
+Experimental quantification of entanglement in low dimensional spin systems
+31st March (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Starting from the basic definitions of entanglement measures, we shall report the macroscopic entanglement properties of a low dimensional quantum spin system by investigating its magnetic properties at low temperatures and high magnetic fields. The temperature and magnetic field dependence of entanglement from the susceptibility and magnetization data is performed and comparison is made with corresponding theoretical estimates. Extraction of entanglement has been made possible through the macroscopic witness operator, magnetic susceptibility and heat capacity. The spin systems studied exhibit quantum phase transition (QPT) at low temperatures, when the magnetic field is swept through a critical value. We show explicitly, using tools used in quantum information processing (QIP), that quantum phase transition (QPT) can be captured experimentally using quantum complementary observables. Entanglement properties of the same quantum spin systems when investigated by heat capacity measurements also capture the QPT.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Rajdeep Sensarma
+Tata Institute of Fundamental Research, Mumbai
+Potential Inhomogeneities in Presence of Strong Interactions: Birth and Death of Superconductors
+9th March (Thursday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Strong repulsive interactions and potential inhomogeneities both tend to localize Fermions on a lattice and lead to loss of superconductivity. The natural question that comes up is whether they compete or complement each other when both are present in a system at the same time. In this talk, we will use a effective Hamiltonian approach which treats both interactions and inhomogeneities on the same footing to look at two systems: (a) the Ionic Hubbard Model at half-filling, where a staggered potential on a bipartite lattice competes with interactions to delocalize charge and give birth to a novel superconductor. The superconducting Tc scales with the bandwidth of the system and shows a non-monotonic behaviour with the staggered potential, (b) the disordered Hubbard model away from half-filling, where weak disorder competes with strong interaction to preserve superconductivity, but strong disorder complements interactions leading to sudden death of superconductivity in this system.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Ambar Jain
+Indian Institute of Science Education and Research, Bhopal
+Jets in QCD and at Colliders
+23rd February, 2016 (Thursday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+I will provide a brief overview of jets in QCD and jets observed at colliders. I will expose the audience to various tools and techniques used to study jet physics and reflect upon the new trends in jet physics. I will also present some new and exciting results for particle tagging, identification and vetos.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Goutam Sheet
+Indian Institute of Science Education and Research, Mohali
+Tip-induced superconductivity in topological materials
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+17th February, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+It has been recently observed that certain novel phases of matter, like superconductivity, emerge at mesoscopic interfaces between elemental metals and topologically nontrivial systems like topological insulators and topological Dirac and Weyl semimetals. In this talk, I will review some of the published results on such phases with special emphasis on tip-induced superconductivity (TISC). Since the superconducting volume fraction in a TISC is extremely small, traditional bulk characterization tools like regular transport and magnetization measurements fail to detect such a phase. I will highlight how investigation of other hallmarks of superconductivity through point contact spectroscopy becomes useful in detecting such phases. Furthermore, point contact spectroscopy also provides useful information about the nature of superconductivity in a TISC.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Diptiman Sen
+Indian Institute of Science, Bangalore
+Studies of topological insulators: edge states and granular films
+9th February, 2016
+5.00 pm (Tea at 4.45 pm)
+FB 382
+In this talk, we discuss two studies of three-dimensional topological insulators like Bi_2 Se_3. As an introduction to topological insulators, we discuss the bulk Hamiltonian of Bi_2 Se_3 near the origin of the three-dimensional Brillouin zone. We show how the Hamiltonians on different surfaces of the system can be derived from the bulk Hamiltonian. The surface Hamiltonians have a massless Dirac form with the spin and momentum of the electron being related in a special way. We then discuss our work on the edge lying between two surfaces of this system. We find that a potential barrier applied along such an edge gives rise to states which are localized along the edge. We use a lattice model to study these edge states in detail. These states have an unusual energy-momentum dispersion. We show that the dispersion can be tuned by varying the barrier strength; in particular the edge states have an almost flat dispersion at a particular value of the barrier strength. Next we discuss experiments indicating that a granular thin film of Bi_2 Se_3 can behave like a single topological insulator crystal. Magnetoconductance measurements show signatures of surface states despite the granularity. However this system has distinctly different properties from conventional bulk TI systems including surface state coupling-decoupling transitions, large surface state penetration depths and Berry phase effects. We present a model which explains these results. Our findings illustrate that granularity can be used to engineer TIs and can allow access to certain features which are difficult to observe in single crystal systems.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Tapobrata Sarkar
+Indian Institute of Technology Kanpur
+Information on Information
+2nd February, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+The geometry of information finds wide applications in areas ranging from simple day to day thermodynamical systems to space-time singularities called black holes. The latter can be related to strongly coupled quantum field theories via the so called gauge-gravity duality. Current progress indicates that one can in principle address all these issues in a unifying framework. In this talk, we will discuss some important recent developments in the subject. We start from information in basic thermodynamics, comment on this in the context of statistical mechanics and field theories, and end with a recent conjecture by Susskind that black holes might be examples of the fastest computers.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Arul Lakshminarayan
+Indian Institute of Technology Madras
+Of quantum chaos, entanglement, and randomness
+27th January., 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+We will discuss the basics of entanglement before embarking on its interplay with the spectra of few-body quantized classically chaotic systems and many-body non-integrable spin chains. We will discuss how these can produce psuedo-randomness that can be used for quantum communication protocols, especially encryption and data hiding.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Jayanta K. Bhattacharjee
+Harish-Chandra Research Institute, Allahabad
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+OSCILLATORS : OLD AND NEW
+24th January, 2017 (Tuesday)
+5.00 pm (Tea at 4.45 pm)
+L1
+Oscillators have played a major role in the developments of various ideas in physics and applied mathematics. A game which started a few centuries ago is still quite alive and leading to insights whose impact can be felt across disciplines. In this talk I will try to focus on some of the aspects ( meaning those which I am competent to discuss! ) beginning with Galileo who started it all and coming down to the renormalization group which puts the dynamics of oscillators at par with other developments of the last few decades.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Ayan Banerjee
+Indian Institute of Science Education and Research (IISER) Kolkata
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Light-bandi?!': demonstrating the 'control' of light over mesoscopic matter using optical tweezers
+13th January, 2017 (Friday)
+5.00 pm (Tea at 4.45 pm)
+FB-382 (Physics conference room)
+Optical tweezers confine mesoscopic particles by generating a gradient force of dipolar origin that is restoring in nature and produced by tight focusing of light. Particles can be trivially moved by moving the light beam itself, or by using angular-momentum carrying beams that lead to rotational motion of trapped particles. In this talk, we shall describe two methods where complex motion can be generated in trapped particles without moving the beam or using tailored beams, and thus demonstrate the absolute ‘control’ that light can exercise over mesoscopic matter. In the first method, we utilise effects of the spin-orbit interaction of light generated by the act of tight focusing itself. Thus, there appears a spin-redirection topological phase in the beam, as well as a longitudinal component in the electric field that produces transverse energy flows leading to the transverse separation of the two constituent opposite circular polarization modes of the input linearly polarized state (spin-Hall shift). We accentuate these effects by using a stratified medium in the path of the trapping beam so that the intensity distribution near the focal plane contains polarization dependent side lobes where particles are preferentially trapped and can be moved by simply changing the polarization state of the input beam. Also, regions of opposite circular polarization are produced in the vicinity of the focus, where particles spin in a controllable manner. In the second method of generating dynamics in particles, we create microbubbles in an aqueous suspension of a material (soft oxometalate or SOM) absorbing at the trapping laser wavelength. The temperature gradient across a single microbubble causes a surface tension gradient that generates Marangoni flows in the water around the bubble. Mesoscopic particles are dragged by the flow and self-assemble to form patterns along the sample chamber wall where the bubble is localised. In addition, local flow vortices – indirectly controlled by light – are created, resulting in rotational motion of particles akin to that produced by angular momentum carrying beams.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Anandamohan Ghosh
+Indian Institute of Science Education and Research (IISER) Kolkata
+Statistics of Lyapunov Spectrum for Randomly Coupled Systems
+6th January, 2017 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+The sensitivity of spatiotemporal dynamics to small changes in initial conditions can be quantified by computing the Lyapunov spectrum. The collective dynamics of coupled units arranged on a random network in the limit of weak coupling is chaotic with all Lyapunov exponents positive. On the other hand, in the case of strong coupling synchronization is observed, with the largest Lyapunov exponent positive and the rest of the spectrum is negative. In this lecture, simple tools of Random Matrix Theory will be reviewed and applied to the Lyapunov spectrum of randomly coupled systems. The statistics of gaps in the Lyapunov spectrum show universal Poisson and Wigner like distributions corresponding to the chaotic and the synchronized phases, respectively. Interesting dynamical phases are observed for intermediate coupling strengths and a possible explanation using random matrix theory of asymmetric matrices will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Bikas K. Chakrabarti
+Saha Institute of Nuclear Physics, Kolkata
+Econophysics of Income and Wealth Inequalities
+3rd November, 2016 (Thursday)
+5.00 pm (Tea at 4.45 pm)
+FB-382 (Physics conference room)
+Inequalities in income and wealth distributions have been a permanent feature of the societies in any civilization, and are characterized by established and universal laws. The century old kinetic theory for the gases had long been identified as a possible tool to explore the origin of such inequalities. Such kinetic exchange formulations for social dynamics will be discussed and the recent developments will be indicated. Extensions of the kinetic theory to collective opinion formations in societies will also be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Sreerup Raychaudhuri
+Tata Institute of Fundamental Research, Mumbai
+Electroweak Physics - The Catastrophe of Success
+28th October, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+The Standard Model of electroweak physics has proved to be one of the most successful models ever developed to describe the natural world. In this talk, some of these successes will be described briefly. It will then be discussed how the model itself is a patchwork of different ideas, held together with experimentally-fitted parameters, and should, by rights, be replaced by a more fundamental theory. Attempts at building such theories will be described and it will be shown how the runaway success of the Standard Model is now standing in the way of further progress - leaving us, for the present, in a predicament rather like the one described by Tennessee Williams in his poignant 1947 essay. Finally, some speculations about the possible future will be presented, in brief.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. S. Rangwala
+Raman Research Institute, Bangalore
+Interactions in a trapped ion-atom system
+6th October, 2016 (Thursday)
+5.00 pm (Tea at 4.45 pm)
+FB-382 (Physics conference room)
+Cooling and trapping of atoms and ions has resulted in path breaking advances ranging from metrology to condensed matter physics and beyond. A significant and exciting leap towards new possibilities in ultracold physics is the co-trapping of ions and atoms in hybrid traps. This opens up several new classes of interactions for precision experiments. In this talk, I shall discuss some of the interesting and motivating ideas behind the experiments in this direction, discuss briefly the motivations behind the experiments at RRI in this direction, and present some important results from RRI that contribute to efforts in this direction. I shall also summarize some selected key results from other groups in the area, which underlines the course of major future directions in the field, with particular reference to statistical and condensed matter physics. This is still possible with cooled and trapped ion-atom systems as the number of contributions in this now rapidly growing area is still modest compared to more matured fields, and therein lies the excitement.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. S. Ramakrishnan
+Tata Institute of Fundamental Research, Mumbai
+Superconductivity at extremely low carrier density: Bismuth
+30th September, 2016 (Friday)
+5.00 pm (Tea at 4.45 pm)
+FB-382 (Physics conference room)
+Bismuth(Bi) has played a very important role in uncovering many interesting physical properties in condensed matter research and continues to draw enormous scientific interests due to its anomalous electronic properties. Unlike metals where there is roughly one mobile electron per atom, in a semi-metal like Bi, the concentration of mobile electrons is extremely low (100,000 atoms share a single mobile electron). Hence, the superconductivity (SC) in bulk Bi is thought to be very unlikely at a currently achievable temperature (~40 μK). In this talk, I will describe the first-ever observation of bulk SC in Bi single crystals (99.9999%) below 530 μK under ambient pressure with an estimated critical magnetic field of 5.2 μT (one fifth of earth’s magnetic field) at absolute zero. The standard models (superconductivity) cannot explain this phenomenon because the characteristic thermal energy is comparable to the Fermi energy in Bi and a new theory is necessary.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Gautam Mandal
+Tata Institute of Fundamental Research, Mumbai
+Black holes, entanglement and thermodynamics
+23rd September, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Dynamics of a closed system is deterministic and time reversal invariant. How does a thermodynamic description of such a system emerge? A partial answer comes from a study of quantum entanglement between parts of a closed system. Another intriguing hint comes from gravitational collapse into a black hole using the concept of gauge/gravity duality. In this colloquium I will review some of these developments, both theoretical and experimental, and present some recent results.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. P. S. Anil Kumar
+Indian Institute of Science, Bangalore
+Current induced magnetization reversal in perpendicularly magnetized systems
+9th September, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Spintronics or magneto-electronics is an area of active research because of the tremendous potential both in terms of fundamental physics and technology. Here, one exploits the spin degree of freedom of the electrons along with its charge. So, spintronics combines standard microelectronics with spin-dependent effects. Hence, one can expect a new generation of devices with completely different functionality. The advantages of these magnetic devices would be non-volatility, increased data processing speed, decreased electric power consumption, and increased integration densities compared to semiconductor devices. This has led to a revolution in magnetic data storage technology. Present day data storage heavily relies on magnetic hard disc drives in the form of magnetic thin film media and one of the key concerns is the magnetization reversal of the magnetic data bits by applying local magnetic fields. The replacement of magnetic field assisted reversal by more sophisticated spin transfer torque mechanism is emerging as a viable and attractive option for next generation technology. This mechanism requires source of spin polarized electrons from a ferromagnet to switch the magnetization of soft ferromagnet in spin valves or magnetic tunnel junctions. Recently, a different route of generating spin polarized current using heavy metals like Pt by utilizing the phenomenon of Spin Hall Effect is catching tremendous attention. Here, a charge current is converted into a spin current in the spin Hall metals which is injected into an ultrathin ferromagnetic layer to induce magnetization reversal by spin transfer torque. Normally this torque requires assistance of magnetic field to attain deterministic switching of magnetization, but as a case study we show that by utilizing in-plane asymmetry of the ultrathin ferromagnetic films we can attain deterministic switching of magnetization without any field assistance. This involved careful optimization of anisotropy of the Pt/Co/Pt thin films with Co thickness down to 0.35nm and the understanding of interfaces. In this colloquium, I will be giving an overview of magnetic memory concepts, magnetic domain wall engineering, current induced magnetization reversal etc. with case studies.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Mustansir Barma
+TIFR Centre for Interdisciplinary Sciences, Hyderabad
+Fluctuations and Order
+6th September, 2016 (Tuesday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+It is common wisdom that very large random fluctuations would succeed in destroying an ordered state. While this statement is almost always true, there are interesting exceptions; these exceptionally interesting systems are the focus of this talk. Giant fluctuations coexisting with long range order are seen in models of passive scalars, active biological systems and granular media, and experiments on vibrated rods. These will be discussed, along with the unusual signatures that characterize fluctuation-dominated order.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Arnab Sen
+Indian Association for Cultivation of Science, Kolkata
+Disorder as a probe for spin liquids
+2nd September, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Spin liquids, despite their apparently featureless ground states, are rather exotic magnetic states which host fractionalised excitations and emergent gauge fields, unlike ferromagnets or antiferromagnets. Interestingly, quenched disorder can nucleate defects with unusual properties and thus reveal the hidden collective excitations of such states. In this talk, having introduced the basics, I will discuss how disorder can act as a powerful probe for the diagnosis of spin liquids.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. K. Thyagarajan
+Department of Physics, IIT Delhi
+Integrated optic devices for the generation and manipulation of entangled photon pairs
+26th August, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Quantum properties of light are being exploited for various applications in the field of information and communication technologies. Spontaneous parametric down conversion (SPDC) involving the second order nonlinear optical effect in which a pump photon splits into a pair of photons is one of the most important process used for the generation of entangled photon pairs and is expected to find applications in a wide variety of quantum optics based systems. Increased complexity of quantum devices for generation and manipulation of photons can be realized by using the well developed integrated optic technology leading to integrated quantum photonic circuits. Such circuits also provide the designer with optimum devices with higher efficiencies and new geometries. The talk will discuss the process of SPDC in optical waveguides and present our recent work in the design of integrated optic waveguide devices for the generation and manipulation of polarization and mode entangled photon pairs.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Sagar Chakraborty
+Department of Physics, IIT Kanpur
+Synchronizing by uncoupling!
+19th August, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+I shall present a scheme for synchronizing chaotic dynamical systems by transiently uncoupling them. Specifically, systems coupled only in a fraction of their phase spaces may synchronize even if, when fully coupled, they do not do so. For many standard systems coupling strengths need to be bounded to effect synchrony. Transient uncoupling removes this bound and enables synchronization in an infinite range of effective coupling strengths. Additionally, the transient coupling scheme opens up the possibility to induce synchrony in (biological or technical) systems whose parameters are fixed and cannot be modified continuously. One can also extend the scheme to induce generalized synchronization in both unidirectionally and bidirectionally coupled populations of chaotic systems. Further, we demonstrate that transient uncoupling scheme is capable of counteracting the usual disruptive effect of noise on synchronization.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof Subroto Mukherjee
+FCIPT Division, Institute for Plasma Research, Gandhinagar, Gujarat
+Environment Friendly Plasma Technologies: Developments at Institute for Plasma Research
+5th August, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+L6 (Lecture Hall Complex)
+Plasma, the 4th state of matter after solid, liquid and gas comprises of matter in an excited state. Matter in plasma state starts conducting electricity, comprises of ions, electrons, radicals, complex molecules, uv-visible radiation and one can perform various modifications on the material surface that it interacts with. For environment friendly applications of plasmas one can use either the extreme heat content of atmospheric pressure plasma or use the reactive species present in low pressure plasma. Plasma pyrolysis is a process that uses the high heat content of atmospheric pressure plasmas to dissociate complex long-chain molecules of polymer (present in biomedical, industrial and plastic waste) and form harmless inflammable gases like methane, ethane, carbon monoxide and either use them as fuel or burn them. When plasma pyrolysis is used with energy recovery concept, it is generally energy efficient process provided the waste has a calorific value. Recent developments are in the field of waste flower disposal in the vicinity of religious sites and disposal of caracass, and plasma pyrolysis disposes them in a complete environment friendly manner. Subatmospheric pressure plasma is very good in generating active species which can be used for above surface or subsurface modification. On above surface modification, plasma etching as well as deposition of compounds can be done using plasmas. When the plasma comprises of nitrogen, it can be implanted and diffused inside steel components to increase the lifetime of industrial components. Emerging applications of plasmas are in the field of skin-disease treatment, modification in germination rate of seeds, killing of bacteria in food and sterilization of biomedical equipments, pesticide removal and various other applications, all done in an environment friendly manner. At FCIPT Division of Institute for Plasma Research, R&D on all the areas are being pursued in developing plasma based technologies that are environment friendly and benefits the society.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Soumitra Sengupta
+Indian Association for Cultivation of Science, Kolkata
+Miracles of extra dimensions
+29th July, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+L6 (Lecture Hall Complex)
+Our observable universe has three space and one time dimension. To describe this universe, most of the theoretical models are therefore formulated in a four dimensional space-time with some underlying symmetries. Such theories, despite many successes, have limitations which are yet to be resolved. Can the presence of additional spatial dimension resolve these issues ? If such extra dimensions exist, why have we not been able to see them yet? What could be the possible signatures of their invisible presence and how can they influence the Physical laws as well as phenomenological outcome of our observable universe ? In this talk I shall try to address how the evolution of this idea over the years points towards some remarkable influences of extra dimensions on our visible universe.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Pavan Kumar
+Indian Institute of Science Education and Research, Pune
+Nanophotonics based on Exciton-Polaritons
+8th April, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Collective excitations in solids, such as plasmon-polaritons and exciton-polaritons, have emerged as versatile platforms to control light at nano-scale. In this talk, I shall introduce some basic aspects of exciton-polaritons, their variety and utility as nanophotonic platforms. Specifically, I shall discuss about nanophotonic response of certain organic molecular meso-architectures that support Frenkel exciton-polaritons.
+
+Speaker:
+Affiliation:
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Anand Kumar Jha
+Department of Physics, IIT Kanpur
+Transfer of quantum correlations from one-photon systems to entangled two-photon systems.
+1st April, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+The simultaneous existence of both particle and wave properties is the most distinguishing feature of quantum systems. Just as particle-like properties are characterized by physical observables such as energy, momentum, angular-momentum, etc., the wave-like properties are characterized by correlations, the degree of which can be quantified in terms of the contrast with which a system produces interference patterns. This talk will consider processes in which one-photon systems break up to produce systems of two entangled photons and will discuss how the particle and wave properties get transferred in such processes. It is well established that in such processes, the particle-like properties get transferred in a conserved manner. For example, the sum of the energies of two entangled photons remain equal to the energy of the original photon. However, it is not very well understood as to how the wave-like properties, that is, the correlations, get transferred from one-photon to two-photon systems? This question is intimately connected to another very important question as to how the entanglement of two-photon systems get affected by the correlations of the original one-photon systems. A definite answer to these questions not only is essential for a deeper understanding of entanglement but also will have important implications for entanglement-based applications. This talk will go through the basics of correlations and two-particle entanglement and will present our recent results that attempt to answer some of the above questions.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Sourin Das
+University of Delhi
+Non-local multi-particle geometric phases in electronic intensity interferometry
+18th March, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Berry's discovery of the geometric phase in 1984 led to a deeper understanding of wide range of phenomena in different areas of physics starting from molecular physics to condensed matter systems. In this talk, I will first provide an introduction to the concept of geometric phase in spirit of Berry's definition and then relate it to its generalized version as anticipated in earlier works of Pancharatnam. I shall then apply Pancharatnam's ideas to obtain non-local and multi-particle geometric phase in the context of electronic version of the Hanbury-Brown and Twiss intensity interferometer. I will discuss a possible experimental realization of this effect by exploiting edge states of two-dimensional topological insulators (2d TI). It will be shown that the electrical transport in quantum spin Hall (an example of the 2d TI state) edge can host a two particle Aharonov - Bohm (AB) effect in spin space which essentially is an example of multi-particle and non-local geometric phase. This two particle “spin A-B effect” stems from an effective AB flux piercing a two particle loop identified on the Bloch sphere which can be attributed to an abstract monopole of strength 1/2 placed at the origin of the sphere.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Prateek Sharma
+Indian Institute of Science, Bangalore
+Black Holes in Our Universe
+10th March, 2016 (Thursday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Observations show that astrophysical black holes (BHs) occur in two classes: stellar mass black holes, the end results of the death of massive stars; and supermassive black holes (SMBHs), occurring at the centers of most galaxies.The SMBHs play a crucial role in regulating cooling of gas (and hence star-formation) in dark matter halos. I will present numerical simulations of energetic jets driven by SMBHs and their interaction with the hot gas in halos (best observed in galaxy clusters), the ultimate raw material for forming stars in galaxies. These simulations produce morphologies similar to observations and can suppress star formation to a value inferred from observations. Very recently gravitational wave detectors detected a merger of ~30 solar mass BHs. These are the most massive stellar mass black holes that we know. I will briefly discuss the implications of this discovery on BH demographics.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Lokesh C. Tribedi
+Tata Institute of Fundamental Research (TIFR), Mumbai
+Recent trends in atomic collision studies in bio-molecules, PAHs and fullerenes
+4th March (Friday), 2016
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Present-day atomic collision physics is closely related to interdisciplinary science. Collisional interactions of fast ions or electrons with clusters and other mesoscopic objectsare useful to bridge the gap between gas atoms and bulk solids. A homo-nuclear diatomic molecules, such as, H2 can even be considered as a smallest double-slit to observe Young type electron interference. The complex allotropes of carbon, such as, fullerenes, nanotubes, large organic molecules of biological (DNA bases) interest and PAH molecules have been at the focus of recent atomic collision research. The secondary electron emission from nucleobases and water is an important parameter to estimate the radiation damage caused by fast ions. Atomic processes are influenced when the fast ion passes through a mesoscopic object due to collective plasmon excitation. The C60 fullerene is used as a bench mark system which manifests the giant plasmon resonance. A similar plasmon excitation in the PAH molecules has been demonstrated only recently which will have implications in astrochemistry and plasmon devices. A recently installed ECR based -ion-accelerator in TIFR and the existing 14 MV Pelletron tandem accelerator are used along with the electron, recoil-ion and high resolution x-ray spectrometers are used for such experiments.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Raja Paul
+Indian Association for Cultivation of Science, Kolkata
+Segregating chromosomes during mitosis: time and error
+26th February, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Mitotic spindle is the microtubule based biomechanical machinery that segregates chromosomes to two daughter cells. Evolution of spindle during mitosis relies on the stochastic capture of microtubules at kinetochores in which dynamically unstable microtubules search in space until all the kinetochores are captured. Kinetochore texture is a crucial factor of the efficiency and fidelity of this process with large kinetochores expected to speed up assembly at the cost of accuracy, and smaller kinetochores to suppress errors at the expense of efficiency. We show that at the onset of mitosis kinetochores form large crescent structures that subsequently condense into discrete objects on opposite sides of the centromere. This condensation occurs only after the formation of end-on microtubule attachments. In silico modelling of kinetochore expansion-compaction in the context of lateral interactions correctly predict experimentally-observed spindle assembly times with reasonable error rates. The computational model suggests that larger kinetochores reduce both errors and assembly times, explaining the robustness of spindle morphogenesis and the functional significance of augmented kinetochores..
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Romesh Kaul
+The Institute of Mathematical Sciences, Chennai
+High Energy Physics: A Reductionist Perspective of Constituents of Matter
+19th February, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Quest for the ultimate constituents of matter has a long history. Starting from the earliest times, a survey of various developments leading to present understanding of the elementary particles and the fundamental forces experienced by them will be presented. General theoretical dogmas that govern these developments will be discussed. Role of Large Hadron Collider (LHC) at Geneva in this saga will be outlined with the aim of highlighting present concerns. Expectations of new directions beyond the present day Standard Model (SM) of particle physics will be pointed out.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Prof. Satishchandra Ogale
+Department of Physics and Centre for Energy Science, IISER, Pune.
+Seeking Clean Energy Solutions Through Materials Innovation
+12th February, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+Our ability to harvest energy efficiently from clean and green sources, and store it effectively for subsequent use in large scale stationary or small scale mobile application sectors will define our future in terms of sustainability and quality of life. Towards this end, new and novel solutions based on advanced functional materials are being intensely sought at the present time. Most such solutions must necessarily ride upon the promise of materials innovation involving a variety of materials systems, and their compositions, morphologies and architectures. In this talk, after a brief introduction to the current scenario, I will discuss some interesting possibilities in this respect by deriving several examples based on the research done in my group in the areas of sensitized cells, photoelectrochemical water splitting and energy storage devices using metal oxide and sulphide nanomaterials, and different functional forms of carbon. I will also address the issues of scalability and cost-effectiveness, which can impact the real-world applicability of laboratory methods and processes.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Krishnendu Sengupta
+Indian Association for Cultivation of Science, Kolkata
+Dirac fermions and Majorana bound states in condensed matter systems.
+22nd January, 2016 (Friday)
+4.00 pm (Tea at 3.45 pm)
+FB-382 (Physics conference room)
+In recent years, extensive theoretical and experimental research has been carried out on realizations of Dirac fermions and Majorana bound states on condensed matter system. In this talk, I shall provide a brief and pedagogical introduction to some of such condensed matter systems. This will be followed by a brief discussion of transport properties and issues regarding experimental detection of such particles.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Y N Mohapatra
+Department of Physics and Materials Science Programme,
+Indian Institute of Technology Kanpur
+Cooking with quantum dots: Physics of Recipes for Flexible Electronics
+14th January, 2016 (Thursday)
+4 pm
+FB-382
+A new electronic revolution is brewing based on devices which can be fabricated on thin glass, paper, plastic, and cloth. Away from the conventional electronics in a box and a plug, the brave new world of applications need be bendable, flexible, disposable, and of large area making every object smart and intelligent in the new global project of Internet of Things (IoT). The development of such technology relies on one’s ability to print different functionalities such as conductors, semiconductors and dielectrics on flexible substrates almost at will.
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+In this talk, I will focus on some key physics problems that one faces in trying to realize electronic functionalities based on solution processing and printing. A promising strategy of developing materials for such applications has been to embed quantum dots or similar nanostructures in a disordered polymeric host. The physics of charge processes in these hybrid materials is challenging both from fundamental and technological perspectives. I will illustrate several such issues in the development of bulk heterostructures, where subtle interplay of order and disorder plays a crucial role in determining electronic and optoelectronic properties.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Professor Amalendu Chandra
+Department of Chemistry, Indian Institute of Technology Kanpur
+Hybrid Quantum-Classical Studies of an Enzymatic Reaction in Aqueous Solution
+1st January, 2016
+2.30 pm
+FB-382
+Transaminase is an enzyme which reversibly catalyzes the transamination reaction. Aspartate Transaminase (AspTase) is a key enzyme of amino acid metabolism process. In the present talk, we will discuss our recent studies on the mechanism of the transamination reaction in the active site of AspTase using hybrid quantum-classical molecular dynamics simulation with the aid of metadynamics technique.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Abhijit Mookerjee
+S.N. Bose National Center for Basic Sciences, Kolkata
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+DEALING WITH DISORDER
+6th November, 2015 (Friday).
+4 pm
+FB-382
+In the world of real materials disorder is ubiquitous.Nevertheless, condensed matter theoreticians still find it difficult to
+ditch the Bloch bandwagon : periodicity, plane waves, crystallinity - the lot. We shall declare with Heine "Let us throw k-space out of the window"(Lectures in Physics, vol 35, Academic Press) and face the consequences.The lecture will focus on th
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Sukanta Bose
+The Inter-University Centre for Astronomy and Astrophysics, Pune, India
+Gravitational waves and the neutron star equation of state
+29th October, 2015 (Thursday)
+4 pm
+FB-382
+The two detectors of the Laser Interferometer Gravitational-wave Observatory (LIGO) began observation runs a few weeks ago. A few other detectors in the world, possibly including one in India, called LIGO-India, are expected to join them in the coming years to usher in the era of gravitational wave (GW) astronomy. Such a multi-baseline network will be able to localize GW transients, e.g., the merger of neutron star binaries, that it detects to within a few to tens of square-degrees. This presents both an opportunity and a challenge to other observatories that are in pursuit of their electromagnetic (EM) and particle counterparts, e.g., in the form of afterglows. The opportunity is to develop a more complete understanding of these sources. To wit, are short duration gamma-ray bursts and kilonovae indeed associated with the merger of binaries involving neutron stars? On the other hand, the challenge is to be able to scan the large error boxes in the sky of GW networks in an ingenious way so as not to miss observing an EM counterpart. After describing the general aspects of what is clearly a multi-messenger endeavor, I will discuss how Indian telescopes can contribute to this effort. I will also discuss how GW observations of neutron stars can improve our understanding of nuclear interactions in ways that complement the knowledge acquired from terrestrial labs.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Amit Agarwal
+Indian Institute of Technology, Kanpur
+Collective spin and density excitations (plasmons) in 2 dimensional electron gas, and Dirac systems (such a graphene)
+16th October, 2015 (Friday)
+4 pm
+FB-382
+In this talk we will discuss some of our recent works related to collective spin and density excitations, beginning with our prediction of a new long lived collective spin mode in a two dimensional electron gas. This new spin mode arises as a consequence of the interplay between spin polarization and electron electron interactions, and can be used as a interconnect between spin-torque oscillators. Further we study charge-plasmons in spin polarized graphene, and propose a new way to measure spin polarization. We derive explicit expressions for the plasmon dispersion in the undamped regime. From this, we are able to calculate the critical wave vector beyond which the plasmon enters the electron-hole continuum, its quality factor decreasing sharply. We find that the value of the critical wave vector is strongly spin polarization-dependent, in a way that has no analogue in ordinary two-dimensional electron gases. We show that the effect is robust with respect to the inclusion of disorder and we suggest that it can be exploited to experimentally determine the spin polarization of graphene. Additionally we will also discuss the collective density oscillations of a collection of charged massive Dirac particles, in one, two and three dimensions and their one dimensional superlattice. Our analytical results will be useful for exploring the use of massive Dirac materials as electrostatically tunable plasmonic metamaterials and can be experimentally verified by infrared spectroscopy as in the case of graphene.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Srubabati Goswami
+Physical Research Laboratory, Ahmedabad
+Neutrinos: The Invisible Messengers
+9th October, 2015
+4 pm
+FB-382
+Neutrinos are all pervading yet elusive. Since its discovery the question which has puzzled physicists is whether they have mass or not. Finally, the observation of neutrino oscillations in terrestrial experiments established that the neutrinos indeed have small but non-zero mass. In this talk I will discuss the salient features of neutrino oscillations, the current status of the oscillation parameters and the present unknowns. I will mention some of the future experiments that can determine these unknown parameters giving special emphasis on the India-based Neutrino Observatory (INO) experiment. I will also discuss some of the implications of small neutrino masses in terms of probing physics beyond the Standard Model.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Arvind Ayyer
+Indian Institute of Science, Bangalore
+Two Species Semipermeable Exclusion Processes
+11th September, 2015
+4 pm
+FB-382
+One of the primary motivations of nonequilibrium statistical physics is the study of systems connected to reservoirs at different temperatures. In that context, exact solutions of model systems lend insight into the behaviour of real systems. In joint works with E. R. Speer and J. L. Lebowitz, we study and solve exactly one particular model system. We consider two-species variants of the totally asymmetric simple exclusion process (TASEP) on an interval connected to reservoirs. Most of the time will be spent discussing an "integrable" variant in which second-class particles are not allowed to leave. In this case, we can both prove and understand the nonequilibrium steady state and phase diagram in great detail. Time permitting, we will consider other variants which permit exact analysis.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Pankaj Jain
+Department of Physics, Indian Institute of Technology Kanpur
+Large Scale Anisotropy in the Universe
+4th September, 2015
+4 pm
+FB-382
+The cosmological principle states that the Universe is homogeneous and isotropic on large distance scales. However I will argue that the Big Bang paradigm is consistent with small deviations from this principle. At very early times the Universe need not be isotropic and homogeneous. It acquires this property during the inflationary phase of its expansion. The early anisotropic and inhomogeneous phase can affect observations today, leading to a violation of the cosmological principle. These may provide an explanation for a diverse set of observations that indicate a deviation from the standard expectations of the Big Bang model. These include anisotropy in radio polarization, radio flux, optical polarizations, CMBR large scale anisotropies as well as the hemispherical anisotropy in CMBR. Curiously many of these observation indicate a preferred direction pointing roughly in the direction of the Virgo cluster. I will review these observations and the theoretical models which aim to explain them.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Dibyendu Das
+Indian Institute of technology Bombay
+Can spatial order and disorder coexist? Case studies of Porod law violation in non-equilibrium systems.
+28th August, 2015
+4 pm
+FB-382
+Although seemingly strange, in many non-equilibrium systems large scale spatial ordering may often coexist with large scale fluctuations. Thus they are neither cleanly ordered nor disordered in the conventional sense. This is in contrast to coarsening systems approaching equilibrium steady states, which usually exhibit growth of clean order, marked by a universal characteristic form of the scaled structure function called the Porod law. In the talk, many systems exhibiting Porod law violation would be discussed. The connection of this violation to the underlying fractal-like spatial density structure would be sketched.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Avinash Khare
+Department of Physics and Astrophysics, University of Delhi, Delhi
+A model for the dust cluster explosion
+21st August, 2015
+4 pm
+FB-382
+A model for the dust cluster explosion where micron/sub-micron sized particles are accelerated at the expense of plasma thermal energy, in the afterglow phase of a complex plasma discharge is proposed. The model is tested by MD simulations of dust particles in a confining potential. The nature of the explosion (caused by switching off the discharge) and the concomitant dust acceleration is found to depend critically on the pressure of the back ground neutral gas. At low gas pressure, the explosion is due to unshielded Coulomb repulsion between dust particles and yields maximum acceleration while in the high pressure regime it is due to shielded Yukawa repulsion and yields much feebler acceleration. These results are in agreement with recent experimental findings.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Pratap Raychaudhuri
+Tata Institute of Fundamental Research, Mumbai
+Real space investigations of the order-disorder transition of the vortex lattice using scanning tunneling spectroscopy
+14th August, 2015
+4 pm
+FB-382
+In an ideal Type II superconductor the magnetic flux which enters in the form of quantized flux tubes get arranged in a period fashion through mutual interactions, thereby mimicking a soft periodic solid. However, in real superconductors the perfect periodic order of the flux line lattice is interrupted by structural defects in the crystal, which provide an additional disordered background potential for the flux tubes. The flux line lattice in a Type II superconductor thus provides a versatile model system to study the interplay between interactions and random pinning. In this talk, I will describe our recent investigations on the order-disorder transition of the flux line lattice, using direct imaging through low temperature scanning tunneling spectroscopy. Through simultaneous imaging of the flux line lattice and the crystal lattice, I will show that the order-disorder transition is strongly influenced their mutual coupling which reinforces the orientational order of the flux line lattice. In addition, I will show the existence of several metastable states, which can be accessed through different magneto-thermal cycling.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+Abstract:
+
+Professor Mahendra K. Verma
+Indian Institute of Technology Kanpur
+Dynamics vs Thermodynamics: Who is the winner?
+7th August, 2015
+4 pm
+FB-382
+and Thermodynamics are two pillars of physics; both are used to describe the nature. In this talk, we will contrast the assumptions of these two fields, specially for phase transitions. We will show how bifurcation theory with a small number of variables can describe the hysteresis and phase coexistence suitably. Dynamics provides insights into how initial condition could play a major role in the system’s final state.
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Professor Biswarup Mukhopadhyay
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Harish Chandra Research Institute, Allahabad, India
+The Messiah of Mass and Message about More
+31 July 2015 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Brajesh Kumar Mani
+University of South Florida (USF), Tampa, USA
+Many-body methods and physics of atomic and many-atomic system
+17 April 2015 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Gagan Kumar
+IIT Guwahati
+Terahertz Photonics
+10 April 2015 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Dr. R. Prabhu
+HRI, Allahabad
+Quantum communication networks
+7th April, 2015 (Tuesday)
+12 noon
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Manoj K. Harbola
+Department of Physics, IIT Kanpur
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Excited-state energy functionals and ionization potential theorem
+27 March 2015 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Prof. J. S. Yadav
+Large Area X-ray Proportional Counter (LAXPC) instrument onboard
+ASTROSAT
+26 March, 2015 (Thursday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+P. Viswanath
+Centre for Nano and Soft Matter Sciences, Bangalore
+Dynamics of liquid crystalline drops at air-water interface
+20 March 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Justin David
+Indian Institute of Science, Bangalore
+Entanglement entropy and Holography
+13 March 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+
+Title:
+Date:
+Time:
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Venue:
+
+Sunil K. Gupta
+TIFR, Mumbai & GRAPES-3 Experiment, Cosmic Ray Laboratory, Ooty
+Precision measurements in Astroparticle Physics using state- of-the-art technology in GRAPES-3 experiment
+09 March 2015 (Monday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Gautam Sengupta
+Department of Physics, IIT Kanpur
+Space time Holography, Black Holes and Superconductors
+27 Feb. 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Shashikant Dugad
+Tata Institute of Fundamental Research, Mumbai
+Searches for Fundamental Particles: An experimental overview
+13 Feb. 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Joydeep Chakrabortty
+Department of Physics, Indian Institute of Technology Kanpur
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Looking at Particles through a Giant's eye.
+10 Feb. 2015 (Tuesday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Arvind
+Indian Institute of Science Education and Research, Mohali
+Quantum entanglement: A central theme in quantum information processing
+06 Feb. 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+
+Ujjwal Sen
+Harishchandra Research Institute, Allahabad
+Strong Subadditivity in Quantum Information
+30 Jan. 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+
+Srihari Keshavamurthy
+Department of Chemistry, Indian Institute of Technology Kanpur
+Eigenstate Thermalization Hypothesis and Intramolecular
+Vibrational Energy Flow - connecting two different "worlds"
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+23 Jan. 2015 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Sankalpa Ghosh
+Indian Institute of Technology Delhi
+Ultracold atoms in Synthetic Gauge field in an optical cavity
+16 Jan. 2015 (Monday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Avinash Deshpande
+Raman Research Institute, Bangalore
+Fascinating Life-stories of Pulsars
+09 Jan. 2015 (Monday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Gautam I Menon
+Institute of Mathematical Sciences, Chennai
+The Nuclear Physics of Chromosome Positioning
+14 Nov. 2014 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Abhishek Chaudhuri
+Indian Institute of Science Education and Research, Mohali
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Forced desorption of an active polymer
+07 Nov. 2014 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+
+Punyabrata Pradhan
+S. N. Bose National Centre for Basic Sciences, Kolkata
+Additivity Principle and Mass Fluctuation in Conserved-Mass
+Transport Processes
+31 Oct. 2014 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+B. V. R. Tata
+Indira Gandhi Centre for Atomic Research, Kalpakkam
+Photonic Crystalline Arrays of Charged and Soft Colloidal Spheres
+17 Oct. 2014 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Soumitra SenGupta
+Indian Association for the Cultivation of Science, Kolkata
+Unveiling space-time mysteries -- an unending quest
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+10 Oct. 2014 (Friday)
+4.00 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Jai Sukhatme
+Indian Institute of Science, Bangalore
+Water Vapour in the Atmosphere - The Advection-Condensation Model
+26 Sept. 2014 (Friday)
+4.00 pm
+FB 382
+
+Speaker:
+Affiliation:
+Title:
+
+Date:
+Time:
+Venue:
+
+Krishnacharya Khare
+IIT Kanpur
+Limitless Beauty of Soft Matter: Surface and Interfacial Phenomenon (wetting, adhesion, friction and SLIPs)
+12 Sept. 2014 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Subrata Pradhan
+Institute for Plasma Research, Gandhinagar
+SST-1: The First Indian Superconducting Tokamak
+05 Sept. 2014 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities colloquium 94a7c6]
+Joydeep Chakrabortty
+IIT Kanpur
+Looking at Particles through a Giant's eye
+4 pm
+29 Aug. 2014 (Friday)
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Arun M. Umarji
+Materials Research Centre, Indian Institute of Science, Bangalore
+Nanostructurization of Transition Metal Silicides for High Temperature Thermoelectric Applications.
+22 Aug. 2014 (Friday)
+4 pm
+FB-382
+
+Speaker:
+Affiliation:
+Title:
+Date:
+Time:
+Venue:
+
+Harshawardhan Wanare
+Department of Physics, IIT Kanpur
+Can Polarization be a high-precision spectroscopic tool?
+08 Aug. 2014 (Friday)
+4.00 pm
+FB-382
+
+=== activities conferences workshops ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/conferences-workshops
+20 May 2024
+
+Conferences/workshops
+
+Title: Space Science Workshop
+
+Date: 28 Feb 2020
+
+For further details visit here
+
+Title: Course on Cosmic Neutrino Observations at Ultra High Energy
+
+Date: 16 to 23 December 2019
+
+For further details visit here
+
+Title: Conference on Nonlinear Systems and Dynamics(CNSD)-2019
+
+Date: 12th to 15th December 2019
+
+For further details visit here
+
+Title: Short Course On Electromagnetic Metamaterials:Microwave-Infrared-Optical Applications
+
+Date: 19 to 23 August 2019
+
+For further details visit here
+
+Title: 22nd National Conference on Atomic and Molecular Physics
+
+Date: 25th March 2019 - 28th March 2019
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities conferences workshops]
+For further details visit here
+
+Title: Workshop on High Energy Physics Phenomenology (WHEPP XIV)
+
+Date: 4th to 13th December, 2015
+
+For further details visit here
+
+Title: OSI - International Symposium on Optics (OSI-ISO 2018)
+
+Date: 19th to 22nd September, 2018
+
+For further details visit here
+
+=== activities events gallery ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/events-gallery
+06 July 2024
+
+2
+
+3
+
+Details
+
+How Physics Inspired the Modern Day Machine Learning
+
+How Physics Inspired the Modern Day Machine Learning
+
+Outreach Lecture "The 2024 Nobel Prize
+in Physics: How Physics Inspired the Modern Day Machine Learning" given by Prof. Sanmay
+Ganguly.
+
+Details
+
+Chaotic Life is a Game
+
+Chaotic Life is a Game
+
+Outreach Lecture Chaotic Life is a Game given by Prof Sagar Chakraborty on 26 September 2024
+
+Details
+
+Einstein to Enigma
+
+Einstein to Enigma
+
+Distinguished Lecture Series, Common Man Science lecture given by Prof. Manish Jain of IIT Gandhinagar on 11th November 2024
+
+Details
+
+Light & Life
+
+Light & Life
+
+Outreach talk given by Prof. Harshawardhan Wanare on 22 Otober 2024
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities events gallery]
+Details
+
+Physics Around Us
+
+Physics Around Us
+
+“Physics Around Us” National Science Day Lecture with Prof. Aditya Kelkar and Adhip Agarwala Christ Church College, Kanpur on 28th Feb 2024
+
+Details
+
+Annual Physics Department Get Together - 2024
+
+Annual Physics Department Get Together - 2024
+
+Annual Physics Department Get Together with a Panel Discussion on "Role of Serendipity in Research" was held on 25th January, 2024 in Diamond Jubilee Building.
+
+Prev
+Next >>
+
+=== activities events gallery 94a7c6 ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/events-gallery?showall=1&limitstart=
+06 July 2024
+
+2
+
+3
+
+Details
+
+Outreach Lecture "The 2024 Nobel Prize
+Ganguly.
+
+Details
+
+Chaotic Life is a Game
+
+Chaotic Life is a Game
+
+Details
+
+Einstein to Enigma
+
+Einstein to Enigma
+
+Details
+
+Light & Life
+
+Light & Life
+
+Details
+
+Physics Around Us
+
+Physics Around Us
+
+Details
+
+Details
+
+Outreach Science Demonstrations
+
+Outreach Science Demonstrations
+
+Outreach Science Demonstrations by Prof. Aditya Kelkar, Rozi Shiksha Kendra on 1st February, 2024
+
+Details
+
+National Science Day- 2024
+
+National Science Day- 2024
+
+National Science Day Celebrations was done on 2nd March, 2024 between 10 am to 1.30pm in L17. Talks were delivered by Prof. Ajit Chaturvedi, Prof YN Mohapatra, Demos by Aditya Kelkar and Adhip Agarwala.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities events gallery 94a7c6]
+Details
+
+Research Scholar Day- 2024
+
+Research Scholar Day- 2024
+
+Department of Physics Research Scholar Day 2024 was celebrated on 5th-6th April, 2024 at DJAC Building
+
+Details
+
+Evolution of Quantum Theory & A Simple Derivation of Bell's Inequality
+
+Evolution of Quantum Theory & A Simple Derivation of Bell's Inequality
+
+“Evolution of Quantum Theory & A Simple Derivation of Bell's Inequality” by Prof. Ajoy Ghatak, Prof. Jagadishwar Mahanty Distinguished Lecture September 9th 2024 L17
+
+Details
+
+Scientific Demonstration by Prof Aditya Kelkar and Prof Adhip Agarwala
+
+Scientific Demonstration by Prof Aditya Kelkar and Prof Adhip Agarwala
+
+Scientific Demonstration by Prof Aditya Kelkar and Prof Adhip Agarwala, National Science Day celebration on March 2, Saturday at 10 am in L17.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities events gallery 94a7c6]
+Details
+
+Hearing Quantum Interferences through Sounds
+
+Hearing Quantum Interferences through Sounds
+
+“Hearing Quantum Interferences through Sounds” by Prof. Anjan Gupta, April 17th, 2024 (L7)
+
+Details
+
+Attosecond Physics: Observing Matter on its Natural Time Scale
+
+Attosecond Physics: Observing Matter on its Natural Time Scale
+
+'Attosecond Physics: Observing Matter on its Natural Time Scale' L17, 18th January (2024), Thursday 4PM by Prof. Chandrima Banerjee
+
+Details
+
+LHC: Lord of the Rings
+
+LHC: Lord of the Rings
+
+“LHC: Lord of the Rings” L19, 15th February (2024) Thursday 4pm by Prof. Swagata Mukherjee
+
+Details
+
+Common Man Science
+
+Common Man Science
+
+“Prof Rakesh Popli and Mrs Rama Popli Distinguished Lecture Series on Common Man Science” by Prof. H.C. Verma on 6th Nov 2023 at 5pm
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities events gallery 94a7c6]
+Details
+
+When Quantum World Comes Alive
+
+When Quantum World Comes Alive
+
+“When Quantum World Comes Alive” by Prof. Anand Jha and Prof. Aditya Kelkar on 5th November (2023), L16 Sunday 3.30PM
+
+=== activities jagdishwar mohanty lecture ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/jagdishwar-mohanty-lecture
+20 May 2024
+
+Prof. Jagadishwar Mahanty Lecture Series in Physics has been instituted by Dr. Siddharth Mahanty in memory of his father, Prof. Jagdishwar Mahanty, who was a faculty member of the Physics Department at IIT Kanpur from 1961-1972. He made important contributions to Condensed Matter Physics, particularly, to the study of many body physics, lattice dynamics, van-der-Waals interactions and electronic structure of solids. Prof. Mahanty was born on 20th July 1932 in Puri, Orissa.
+After his M. Sc. in Physics from Calcutta University, he worked for several years at the National Physical Laboratory. In 1956, he went to the University of Maryland, USA for his doctoral degree. After completing his Ph.D. in 1960 he joined Panjab University,
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities jagdishwar mohanty lecture]
+Chandigarh and subsequently joined the Physics department of IIT Kanpur in 1961. He was instrumental in shaping the Physics
+department during its infancy. He was the Head of the Physics department from 1967 to 1972. In 1971, Prof. Mahanty decided to
+concentrate on his own research and gave up the administrative responsibility. In 1972, he joined the prestigious Australian National
+University and superannuated from there in July 1995 due to ill health. Prof. Mahanty was an excellent physicist with a very modest
+and kind personality. His helpful nature to both students and colleagues was a great asset of his character. He was a warm and caring person who is greatly missed by his family and friends.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities jagdishwar mohanty lecture]
+Jagadishwar Mahanty 2024
+PDF
+
+Jagadishwar Mahanty 2019
+PDF
+
+Jagadishwar Mahanty 2017
+PDF
+
+Jagadishwar Mahanty 2016
+PDF
+
+Jagadishwar Mahanty 2014
+PDF
+
+Jagadishwar Mahanty 2013
+PDF
+
+Jagadishwar Mahanty 2012
+PDF
+
+=== activities mr rakesh popli and and ms rama popli distinguished lecture ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/mr-rakesh-popli-and-and-ms-rama-popli-distinguished-lecture-series
+06 July 2024
+
+Prof. Rakesh Kumar Popli (1952 - 15 September 2007) was a faculty member in the Department of Physics at IIT Kanpur from 1981 to 1983.
+He left his job at lIT Kanpur to work for the education and upliftment of the tribal population of India. He is a brilliant academician, was a passionate advocate of science popularization. He was instrumental in the establishment of Ekal Vidyalaya, a non-profit organization that aims to provide education to children in rural and remote areas of India. Additionally, he actively engaged in popularizing science through his writings.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > activities mr rakesh popli and and ms rama popli distinguish]
+Mrs. Rama Popli, wife of professor Rakesh Popli, is a specialist in elementary education for children with more than 40 years of experience in the field research, action research, and rural social development. She founded Kislaya Vidya Mandir, which later became an incubator for the creation of curricula for Ekal Vidyalaya. Through her non-profit organisation Panini foundation, she continues to contribute in the field of elementary education for children.
+
+Prof Rakesh Popli and Mrs Rama Popli 2025
+Poster
+
+Prof Rakesh Popli and Mrs Rama Popli 2024
+Poster
+
+Prof Rakesh Popli and Mrs Rama Popli 2023
+Poster
+
+=== outreach events ===
+Source: https://www.iitk.ac.in/phy/index.php/outreach-events
+Outreach Activities
+
+Outreach Events
+
+Outreach
+
+27 March 2025
+
+Outreach Events
+
+Outreach Events
+
+Farewell CeremonyCelebrating the Legacies of Prof. Y.N Mohapatra, Prof. K.P Rajeev, and Prof. Gautam Sengupta
+
+20th August 2026 (04:00 PM)
+
+LHC 01 (Lecture Hall Complex)
+
+Physics Society RSD 2026 Research Scholars Day
+
+Prof. Anindya Das, Indian Institute of Science, Bengaluru
+
+27-28th March 2026 (9:30 AM to 6:00 PM)
+
+Outreach Auditorium
+
+Physics Society Outreach Lecture 2025 Physics Nobel Prize: Discovery of Macroscopic Quantum Mechanical Tunnelling and Energy Quantization in an Electric Circuit
+
+Prof. Anjan Kumar Gupta, Department of Physics, IIT Kanpur
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events]
+17 February 2026 (5:00 PM)
+
+LHC 16 (Lecture Hall Complex)
+
+Distinguished Lecture Series The Wonderful Lab called Home
+
+Prof. Arnab Bhattacharya, Centre Director of HBCSE, TIFR Mumbai
+
+11 November 2025 (5:00 PM)
+
+LHC 17 (Lecture Hall Complex)
+
+Outreach Event Introduction To Spin Glasses And Neural Networks
+
+03, 04, 06 November 2025 (3:30 PM)
+
+LHC 17 & 19(Lecture Hall Complex)
+
+Outreach Event 100 Years of Quantum Mechanics(1925-2025): What happened in 1925?
+
+Prof. Manoj K. Harbola, Department of Physics, IIT Kanpur
+
+27 October, 2025 (05:00 PM)
+
+Lecture Hall (LHC)-17
+
+Outreach EventFun with Science - Vigyan ka Maza
+
+Mr. Arvind Kumar Gupta (BT/EE/IIT Kanpur/1975)
+
+27 September 2025 (10:30 AM – 12:00 Noon)
+
+LHC 17
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events]
+Outreach EventAre we smart enough to know about the cosmos?
+
+Prof. Kaushik Bhattacharya (IIT Kanpur)
+
+20 August 2025 (05:15 PM)
+
+LHC 17
+
+Outreach EventBasic experiments in Electro-Magnetism for school students
+
+Prof. Rohit Medwal(IIT Kanpur)
+
+29 July 2025 (10:00 AM)
+
+LHC 17
+
+LectureA brief overview of the physics of quantum many-body scars
+
+Dr. Bhaskar Mukherjee (SNBNCS, Kolkata)
+
+07-08 April 2025 (04.30 PM)
+
+Outreach EventLectures on Neutrino Physics
+
+Prof. Amol Dighe (TIFR, Mumbai)
+
+26-27 March 2025 (3:00 PM)
+
+LHC 10 & FB 382 (Amal Kumar Raychaudhuri Seminar Room)
+
+Distinguished Lecture SeriesTowards a unified description of the Quantum Hall Effects
+
+Prof. Ajit C. Balram (IMSC, Chennai)
+
+5-6 March 2025 (11:30 AM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events]
+Outreach EventKinetically constrained models showing Hilbert space fragmentation
+
+Prof. Diptiman Sen (IISc Bangalore)
+
+20 February 2025 (5:00 PM)
+
+LH- 4 (Lecture Hall Complex)
+
+Prev
+Next >>
+
+=== outreach events 052c5d ===
+Source: https://www.iitk.ac.in/phy/index.php/outreach-events?showall=&start=4
+Outreach Activities
+
+Outreach Events
+
+Outreach
+
+27 March 2025
+
+Outreach Events
+
+Outreach Events
+
+Outreach Event
+Electron’s Spin: New way to develop efficient devices
+
+Prof. Rohit Medwal
+
+29 December 2023
+
+Lecture Hall 16
+
+<< Prev
+Next
+
+=== outreach events 14 outreach ===
+Source: https://www.iitk.ac.in/phy/index.php/outreach-events/14-outreach
+Outreach Activities
+
+Outreach Events
+Outreach
+
+Outreach
+
+27 March 2025
+
+Outreach Events
+
+20th August 2026 (04:00 PM)
+
+LHC 01 (Lecture Hall Complex)
+
+27-28th March 2026 (9:30 AM to 6:00 PM)
+
+Outreach Auditorium
+
+17 February 2026 (5:00 PM)
+
+LHC 16 (Lecture Hall Complex)
+
+11 November 2025 (5:00 PM)
+
+LHC 17 (Lecture Hall Complex)
+
+03, 04, 06 November 2025 (3:30 PM)
+
+LHC 17 & 19(Lecture Hall Complex)
+
+27 October, 2025 (05:00 PM)
+
+Lecture Hall (LHC)-17
+
+LHC 17
+
+Prof. Kaushik Bhattacharya (IIT Kanpur)
+
+20 August 2025 (05:15 PM)
+
+LHC 17
+
+Prof. Rohit Medwal(IIT Kanpur)
+
+29 July 2025 (10:00 AM)
+
+LHC 17
+
+Dr. Bhaskar Mukherjee (SNBNCS, Kolkata)
+
+07-08 April 2025 (04.30 PM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+Prof. Amol Dighe (TIFR, Mumbai)
+
+26-27 March 2025 (3:00 PM)
+
+Prof. Ajit C. Balram (IMSC, Chennai)
+
+5-6 March 2025 (11:30 AM)
+
+Prof. Diptiman Sen (IISc Bangalore)
+
+20 February 2025 (5:00 PM)
+
+LH- 4 (Lecture Hall Complex)
+
+Distinguished Lecture SeriesSome Analytical Techniques For Studying Quantum Many-Body Systems
+
+Prof. Diptiman Sen (IISc, Bengaluru), Prof. Amit Dutta (IITK)
+
+17, 18, 19 February 2025 (3:30 PM)
+
+Outreach Event
+Unraveling Mysteries of the Universe: Remarkable Discoveries in Particle Physics
+
+Prof. Biplob Bhattacherjee (IISc, Bengaluru)
+
+14 November 2024 (5:15 PM)
+
+LH- 19 (Lecture Hall Complex)
+
+Distinguished Lecture Series
+Common Man Science
+
+Prof. Manish Jain (IIT Gandhinagar)
+
+11 November 2024 (5:15 PM)
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+RM 101 (Rajeev Motwani Building)
+
+Outreach Talk
+Light & Life
+
+Prof. Harshawardhan Wanare (IIT Kanpur)
+
+22 October 2024 (05:15 PM)
+
+L-19 (LHC)
+
+Outreach Event
+Chaotic Life is a Game
+
+Prof. Sagar Chakraborty
+
+26 September 2024 (05:15 PM)
+
+Lecture Hall (LH) 19
+
+Prof. J Mahanty Memorial Lecture
+The Evolution of Quantum Theory and a Simple Derivation of Bell's Inequality
+
+Prof. Ajoy Ghatak
+
+09 September 2024 (6:00 PM)
+
+Lecture Hall (LH) 17
+
+Outreach Event
+LHC: The Lord of the Rings
+
+Prof. Swagata Mukherjee
+
+15 Feburary 2024 (17:15 - 18:15)
+
+Lecture Hall (LH) 19
+
+Outreach Event
+Topological Phases of Quantum Matter
+
+Prof. Anjan Gupta
+
+05 Feburary 2024
+
+Lecture Hall (LH) 10
+
+Distinguished Lecture Series
+Common Man Science
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+Prof. H.C. Verma
+
+06 November 2023
+
+Outreach Auditorium
+
+Outreach Event
+
+Prof. Rohit Medwal
+
+29 December 2023
+
+Lecture Hall 16
+
+Outreach
+
+06 March 2025
+
+When Quantum World Comes Alive
+
+Outreach
+
+06 March 2025
+
+Common Man Science
+
+Speaker: Prof. H.C. Verma
+
+Affiliation: IIT Kanpur
+
+Title: Common Man Science
+
+Date: 06th Nov, 2023, Monday
+
+Time: 05:00 pm to 06:30 pm
+
+Venue: Outreach Auditorium
+
+Abstract:
+
+Science is our constant companion. It would be a challenge to find Anyone above 3 years of age who does not intuitively respond to the basic laws of science such as the Newton's three laws of motion. Every home has a Kitchen wherein lots of Physics, Chemistry and Biology happens on the go. Using kitchen materials one can learn and experiment with a large number of basic scientific phenomena. Furthermore, it also gives an Opportunity to learn advanced concepts in Science as well. Some glimpses of these will be discussed in the talk. view poster...
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+Outreach
+
+06 March 2025
+
+LHC: Lord of the Rings
+
+Speaker: Prof. Swagata Mukherjee
+
+Affiliation: IIT Kanpur
+
+Title: LHC: The Lord of the Rings
+
+Date: Feburary 15 2024, Thursday
+
+Time: 5:15 pm to 6:15 pm
+
+Venue: Lecture Hall 19
+
+Abstract:
+
+Particle physics is a discipline in science that aims to understand how Nature works at the most elementary level. We have accumulated a lot of understanding by probing matter at smaller and smaller scales. To do that we need powerful accelerators, and advanced experiments at these accelerator facilities. The Large Hadron Collider (LHC) at CERN, Geneva is the most recent major scientific instrument for fundamental science. It is a circular accelerator, to probe the smallest constituents of matter, In this talk I will provide a pedagogical overview of our current understanding of the elementary particles, what we have conclusively learned about them in the past years, and what are the big questions that will be studied in the near future.
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+view poster...
+
+Outreach
+
+06 March 2025
+
+Speaker: Prof. Chandrima Banerjee
+
+Affiliation: IIT Kanpur
+
+Title: Attosecond Physics: Observing Matter on its Natural Time Scale
+
+Date: January 18 2024, Thursday
+
+Time: 4:00 pm to 5:30 pm
+
+Venue: Lecture Hall 17
+
+Abstract:
+
+The Physics Nobel prize 2023 was given to Pierre Agostini, Anne L' Huillier and Ferenc Krausz for their pioneering work on the generation and use of attosecond optical pulses for the study of electron dynamics in matter. The generation of ever shorter pulses is a key to exploring the dynamic behavior of matter on faster time scales. Attosecond pulses are unprecedentedly short (10*1®second) light pulses which matches with the intrinsic timescales of electron motion. In this talk I will give a basic overview on different attributes of generation and characteristics of attosecond pulses. Finally, I will provide a basic understanding on how attosecond light pulses allow one to probe the inner workings of atoms, molecules and solids on their intrinsic timescale. view poster...
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > outreach events 14 outreach]
+Research Scholar Day- 2024
+
+=== past events 29850e ===
+Source: https://www.iitk.ac.in/phy/index.php/past-events?showall=&start=3
+Past Events
+
+Past Events
+
+04 September 2024
+
+All Events
+
+All Events
+
+Prof. Basudeb Dasgupta
+
+30 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prof. Poonam Mehta
+
+23 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prashant Pathak
+
+16 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+Prof.Indranil Chattopadhyay
+
+09 August 2024 (5:15 PM)
+
+FB382 (AKR Seminar Room)
+
+<< Prev
+Next >>
+
+=== research phy central research facilities central workshop facility ===
+Source: https://www.iitk.ac.in/phy/index.php/research-phy/central-research-facilities/central-workshop-facility
+Uncategorised
+
+13 June 2024
+
+About Lab
+
+Physics workshop is a crucial facility of physics department, which provides its facilities to
+physics department as well as other departments. The workshop creates new ideas, designs and fabricates them as per the requirement of different labs and departments. The workshop is typically equipped with various machine equipments such as 5 axis CNC milling, Lathe, milling, drilling, saw cutting, sheet molding, grinding, and welding with expert manpower.
+
+Vision of Workshop
+
+To  continue to work closely with the faculty members to help develop and fabricate  new, complex and innovative designs/components/apparatuses which are necessary  for the challenging and innovative experiments being devised in the labs of  various faculty members in the department and in the Institute.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > research phy central research facilities central workshop fa]
+To  help students in their regular workshop related matters.
+
+To  help aid teaching labs and also develop demonstrations as aids to effective  teaching.
+
+To  add new infrastructure to the Physics workshop and also upgrade the existing  infrastructure to meet current and future needs of the department and the  Institute.
+
+Faculty Incharge:
+
+Lab Incharge: Sandeep Kumar Pal, Ashok Singh
+
+Machine/ Equipment:
+
+Contact
+
+Physics  Workshop
+
+Department of Physics
+
+IIT Kanpur (208016)
+
+office  :-26797973
+mail id : [email address hidden on the website]
+
+Other Lab Facilities
+
+Book Facilities: Please Download Facility Booking Form (Pdf)
+
+=== research phy photonics and quantum technologies ===
+Source: https://www.iitk.ac.in/phy/index.php/research-phy/photonics-and-quantum-technologies
+20 May 2024
+
+Current active research areas in this group
+
+Laser Raman Spectroscopy
+
+Laser-Plasma Studies
+
+Bio-Medical Applications
+
+Nonlinear Optics, Fiber Optics
+
+Photonic Band Gap Structures
+
+Imaging in Complex Media & Biological Tissues
+
+Photonics and Waves in Random Media
+
+Coherent Control of Light-Matter Interaction
+
+Non-Linear Optics, Quantum Optics
+
+Quantum Optics, Quantum Information, Precision Spectroscopy
+
+Cold-Atom Systems, Foundations of Quantum Mechanics
+
+Using Cold-Atom Systems to Probe Nano-Materials and Molecules.
+
+Faculty Involved
+
+Anand Kumar Jha
+
+Quantum Optics and Quantum Entanglement
+
+Cold Atom Physics
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > research phy photonics and quantum technologies]
+Harshawardhan Wanare
+
+Light-Matter Interaction - Classical and Quantum systems
+
+R Vijaya
+
+Nonlinear Optics
+
+Fiber Optics
+
+Nanophotonics
+
+Saikat Ghosh
+
+Quantum and Nano-Optics
+
+Laser Cooling and Trap
+
+Sapam Ranjita Chanu
+
+Quantum computation and simulations with cold ions
+
+Cold atoms and quantum metrology with single pure state of cold atoms and ions
+
+Sudipta Dubey
+
+Photoluminescence spectroscopy
+
+Venkata Jayasurya Yallapragada
+
+Nanophotonics, nanoscale light emitters and scatterers, biogenic photonic structures, optical imaging.
+
+=== space science workshop 28 feb 2020 ===
+Source: https://www.iitk.ac.in/phy/index.php/space-science-workshop-28-feb-2020
+Space Science Workshop (28 Feb 2020)
+
+Space Science Workshop (28 Feb 2020)
+
+10 March 2025
+
+Space Science Workshop (28 Feb 2020)
+
+Schedule of Talks:Venue: L18
+
+9:00 Welcome and brief introduction, Pankaj Jain
+
+9:05 Welcome address, Director Chair: Kumar Vaibhav Srivastava, IITK
+
+9:15 New dimensions of Indian hard X-ray Astronomy, Santosh Vadawale, PRL, Ahmedabad
+
+9:55 Understanding Black-holes in our Galaxy with LAXPC/AstroSat, J.S. Yadav, IITK
+
+10:20 How gravitational wave detectors measure sub-nuclear displacements?, Saikat Ghosh, IITK
+
+10:45 Ultrafast table-top spectroscopy for Space Science, Debu Goswami, IITK
+
+11:10 break for tea Chair: Abhishek, IITK
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+11:30 Rings around minor planets, Bharath, IITK
+
+11:50 To Be Announced, Ishan Sharma, IITK
+
+12:10 Satellites as Gravimeters, Balaji Devaraju, IITK
+
+12:30 Space Debris Mitigation, Akhil B. Krishna, IITK
+
+12:55 In-situ data analysis to study the solar wind plasma, Supratik Banerjee, IITK
+
+Chair: Sagar Chakraborty, IITK
+
+3:00 Gaia DR2 Informed Distance Constraint to the North Polar Spur, Kaustav K. Das, IITK
+
+3:10 Where is the matter in our Universe and what is the matter with it? Sharvari Nadkarni Ghosh, IITK
+
+3:35 Dark energy: One of the greatest puzzles of Modern Science, Suratna Das, IITK
+
+4:00 GMRT discovery of a large ring of atomic hydrogen gas around a red and dead galaxy, Omkar Bait, NCRA, Pune
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+4:25 The staggering power of thunderstorms, Hari Haran, TIFR, Mumbai
+
+4:50 Shocking Granular Flows, Sanjay Kumar, IITK
+
+5:15 Very Long Baseline Interferometric Technique - Its Applications in Geodetic Studies, B. Nagarajan, IITK
+
+5:35 high tea
+
+6:10 Space science - the everlasting excitement, public lecture by Shri V. Koteswara Rao, ISRO
+
+Title:
+Speaker:
+Description:
+
+New dimensions of Indian hard X-ray Astronomy
+Santosh Vadawale, PRL
+In this talk I will discuss the new aspects of hard X-ray astronomy which have emerged from the additional capabilities of AstroSat-CZTI, namely - hard X-ray polarimetry and hard X-ray transient monitoring. I will begin with a brief introduction to the field, discuss recent advances made with CZTI, and then discribe two new missions being proposed to ISRO, which will carry forward the legacy of AstroSat-CZTI and enable India to make a mark on international level.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+NUnderstanding Black-holes in our Galaxy with LAXPC/AstroSat
+J. S. Yadav, IITK
+AstroSat, the first Indian Space science mission was successfully launched by ISRO on 28th Sept., 2015 in near-earth 650 km circular orbit. The Large Area X-ray Proportional Counter (LAXPC) instrument is one of the major science instruments onboard AstroSat. I will share some of the exciting moments during LAXPC instrument development along with a comparison with more recent science space missions like Chinese mission HXMT and NASA`s Nicer space mission (both launched in June 2017). I will describe how LAXPC/AstroSat data is helping us in
+unraveling the mysteries of Blackhole systems in our Galaxy.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+How gravitational wave detectors measure sub-nuclear displacements?
+Saikat Ghosh, IIT Kanpur
+
+Title:
+Speaker:
+Description:
+
+Ultrafast table-top spectroscopy for Space Science
+Debu Goswami, IIT Kanpur
+
+Title:
+Speaker:
+Description:
+
+Rings around minor planets
+Bharath, IIT Kanpur
+The cronian rings ( the rings around Saturn ) were analysed extensively in the last century. Through Voyager and Cassini missions, today we know that there are rings around Jupiter, Uranus and Neptune also. The recent discovery of rings around the much smaller centaurs and asteroids surprised the scientific community. Doublets of optically thin rings have been observed around the small bodies Chariklo and Haumea and another pair is hypothesized to be around Chiron. Unlike the cronian case, these ringlets are subject to a more complex dynamical environment with large perturbing forces coming from the non-spherical central field and the moons of the minor planets and a stronger self-gravity. This lead to several new questions that are worth researching. We do kinetic theory, assuming the rings to be dilute particulate flows, to study the internal structure of such rings. We also conduct numerical experiments through N-body codes to analyse the possible origins of such rings. Our results show interesting and subtle features that may arise, given the sensitivity of the dynamics to the parameters in the problem.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+To Be Announced
+Ishan Sharma, IIT Kanpur
+
+Title:
+Speaker:
+Description:
+
+Satellites as Gravimeters
+Balaji Devaraju, IIT Kanpur
+Satellites are projectiles orbiting around the Earth predominantly under the influence of the Earth's gravity field. Their position is a consequence of the attraction of the Earth's gravity field and other gravitational and non-gravitational forces. Thus, by knowing the positions of the satellites and accounting for the non-gravitational forces acting on them the gravity field of the Earth can be recovered to remarkable accuracy. In this sense, all satellites can be viewed as gravimeters---instruments that measure the gravity field attraction. While we know that the average gravity value on Earth is about 9.81 meters per square second, the reality is that the gravity varies from place to place and also with time. The mass transport of Earth both in geological time-scales (mantle convection, glacial isostatic adjustment, etc.) and in human time-scales (atmospheric/ocean circulation and hydrologic variations) is manifest in the gravity field. Thus the gravity field captures information of the past as well as the present, allowing us to understand geophysical processes in a broadband of temporal scales. In the past couple of decades, satellite gravimetry has emerged as a reliable technique for studying climate change. In this talk I will discuss the evolution of satellite gravimetry, the techniques, its applications and the challenges that lie ahead of us in the future.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Space Debris Mitigation
+Akhil B. Krishna, IIT Kanpur
+In this work, we are proposing a novel and safe way of disposing of space debris by utilizing Solar Radiation Pressure. A group of co-operative satellites are employed having large reflective surface capable of reflecting solar radiation, mimicking the design of 'Solar Sails'. As a result of the co-operative action of the satellites, a force field is created which dispose of the space debris either into a safe grave yard orbit or to a non-periodic orbit resulting in its mitigation by falling on to Earth's atmosphere. For validating the proposed idea, a numerical simulation is carried out, using realistic space debris trajectory information provided by the European Space Agency (ESA). As a case study a patch of space debris collection is chosen and the
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+concentration of solar radiation force resulted in their orbital decay and falling on to Earth's atmosphere. A preliminary design of satellites are considered and rigid body simulations are carried out employing attitude control by using actuators. The numerical simulations show promising results. The stability analysis of the proposed controllers are done using Nonlinear Control Theory.
+
+Title:
+Speaker:
+Description:
+
+In-situ data analysis to study the solar wind plasma
+Supratik Banerjee, IIT Kanpur
+In this talk, I will give a very basic/ introductory presentation on how using in-situ data (both plasma and electromagnetic field data), the nature of solar wind plasma can be studied. It will also consist of a brief description of the spacecraft instruments used for collecting those data. Finally, I will give a schematic outline of the methodology of studying turbulent properties of the Solar wind using such data.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Gaia DR2 Informed Distance Constraint to the North Polar Spur
+Kaustav K. Das, IITK
+The North Polar Spur (NPS) is one of the largest structures observed in the Milky Way in both the radio and soft x-rays. While several predictions have been made regarding the origin of the NPS, modeling the structure is difficult without precise distance constraints. Building on the work of Zucker et al. 20191, which determined accurate distances to local molecular clouds, we fit for distance and extinction to stars for sightlines along the southern terminus of the NPS and towards high latitudes ranging up to 53°, using optical and near-infrared photometry and Gaia DR2 astrometry. We model these per-star distance-extinction estimates as being caused by dust screens at unknown distances, which we fit for using a nested sampling algorithm. Based on our results, we conclude that the NPS is not associated with the Galactic Center or the Fermi bubbles as is commonly believed, rather it is associated with, especially at higher latitudes, with the Sco-Cen association. The robust distance constraints to the NPS obtained will be of paramount importance for modeling the evolution and origin of the structure.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Where is the matter in our Universe and what is the matter with it ?
+Sharvari Nadkarni-Ghosh, IIT Kanpur
+The matter in our Universe is distributed over a large range of scales. The smallest gravitationally bound objects are planets which measure about a few thousand km (or nano light years), whereas one of the largest gravitationally bound structure is the recently discovered Saraswati supercluster which is about 4000 million light years across. Inspite of being so ubiquitous over such a huge range of scales, the matter that is `visible' to us i.e., which interacts electromagnetically, is only about one sixth of the total matter in the universe; the rest of the matter is dark. Even more alarming is the fact that the total matter content of the universe "dark + visible" is only about 30 % of the total energy budget of the Universe. In this talk, we will introduce some of these issues related to the large scale matter distribution of the universe and what discuss the clues we can use to unravel these mysteries.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Dark Energy: One of the greatest puzzles of Modern Science
+Suratna Das, IIT Kanpur
+What is Dark Energy? What do we mean by "Dark"? What kind of "Energy" is it? We will try to address some of such questions regarding Dark Energy in this short talk.
+
+Title:
+Speaker:
+Description:
+
+GMRT discovery of a large ring of atomic hydrogen gas around a red and dead galaxy
+Omkar Bait, NCRA Pune
+I will present the Giant Metrewave Radio Telescope (GMRT) discovery of an extremely large and off-centered ring of atomic hydrogen (HI) around a red and dead galaxy named AGC 203001. This ring is interesting because unlike several other known ring galaxies it does not have any bright optical counterpart. We confirmed this lack of optical emission with our very deep g, r, and i-band imaging using the Canada-France-Hawaii Telescope (CFHT), which reached a surface brightness level of ~28 mag/arcsec^2. Such large HI-dominated rings are extremely rare with only one another case known so far -- the Leo ring. Conventionally, the formation of such structures around galaxies is explained by a collision with another galaxy leading to an expanding density wave of gas and stars in the form of a ring. Such a collision leads to the compression of the gas in the ring which condenses to form new stars. On the contrary, in our deep optical observations, we do not detect any strong signs of active star formation in the HI ring. I will discuss some modifications in simulations of galaxy collisions and alternative scenarios for the formation of such rare HI-dominated rings around galaxies. I will then briefly discuss our ongoing upgraded-GMRT (uGMRT) program to target more such galaxies selected using the same criteria as AGC 203001.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+The staggering power of thunderstorms
+B. Hari Haran, TIFR Mumbai
+Thunderstorms are a spectacular manifestation of massive electrical discharges of thunderclouds, and have fascinated humans through millennia. There is a dark side of thunderstorms as thousands of lives are lost every year worldwide, making them a major cause of death by natural disasters. The GRAPES-3 muon telescope's measurements showed that huge voltages developed in supercharged thunderclouds by using muon imaging technique. The voltage produced by a thundercloud on 1 December 2014 in Ooty measured 1,300,000,000 Volts (1.3 GV) across its height, which is 10 times larger than the previous record voltage of 0.13 GV. This verifies the 90-year-old prediction of 1,000,000,000 Volts (1 GV) by C.T.R. Wilson. Such massive voltages are essential for the production of high-energy (100 MeV) gamma rays in the Terrestrial Gamma Ray Flashes (TGFs) emanating from thunderstorms, first discovered 25 years ago.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Shocking Granular Flows
+Sanjay Kumar, IIT Kanpur
+When a supersonic aircraft zooms past us we hear a boom a little later and also when a lightning bolt jumps across the sky the thunderclap reaches us a couple of seconds later. These are some examples of fluid dynamical shock associated with high energies not easily obtained in laboratories. In granular flows shocks occur more readily and can be easily studied. We exploit these features to present some very novel and interesting experiments which demonstrate many of the unique rheological complexities of such flows.
+
+Title:
+Speaker:
+Description:
+
+Very Long Baseline Interferometric Technique - Its Applications in Geodetic Studies
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+B. Nagarajan, IIT Kanpur
+Very Long Baseline Interferometry Technique is an advanced Space Based geodetic technique that can measure a distance of thousands of kilometers between its antennas, with an accuracy of few millimeters by receiving radio signals from deep space as for as several billion light years away.
+
+With such unprecedented precision and resolution made possible by VLBI, various tasks such as geodetic positioning, reference frames interconnections, Earth rotation monitoring, estimating the crustal movements, and mapping the extra-galactic radio sources, have attained accuracies of the levels never reached before. In this talk, various Earth Science Applications which were impossible few decades back to be taken up can now be achieved with ease, will be discussed.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > space science workshop 28 feb 2020]
+Title:
+Speaker:
+Description:
+
+Space science - the everlasting excitement
+Shri V. Koteswara Rao
+The romance with space science is enticing, exciting and everlasting. The human quest for knowing the unknown, particularly about the universe, is insatiable and everlasting. There are many questions related to the origin of universe, origin of human race, future of living beings and so on and so forth. The answers are not so easy to come in a definite form, all the more explaining everything together. The answers are expected to come through step by step advanced research in space science, thus revealing the universe layer by layer. The subject of space science is vast and need many researchers and institutes to carry on the arduous task. Space research institutes and organisations world over have several projects and missions to explore 'Space'. Indian space research Organisation (ISRO) took up some key initiatives in this area and continues to do the same in future through some innovative projects. The initiatives are in broad areas of planetary exploration, solar studies, solar interaction on planets, Earth observation, exo-world, aeronomy and astronomy. The academic institutes, with eminent scientists, can play a major role in the research of space science, astronomy and astro-physics.
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=5 (activities colloquium a37acd)
+https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=8 (activities colloquium b61ae5)
+https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=2 (activities colloquium c6662a)
+https://www.iitk.ac.in/phy/index.php/activities/colloquium?showall=&start=1 (activities colloquium e46984)
+https://www.iitk.ac.in/phy/index.php/activities/events-gallery?showall=&start=2 (activities events gallery c6662a)
+https://www.iitk.ac.in/phy/index.php/activities/events-gallery?showall=&start=1 (activities events gallery e46984)
+https://www.iitk.ac.in/phy/index.php/outreach-events?showall=&start=3 (outreach events 29850e)
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/phy/index.php/outreach-events?showall=1&limitstart= (outreach events 94a7c6)
+https://www.iitk.ac.in/phy/index.php/outreach-events?showall=&start=2 (outreach events c6662a)
+https://www.iitk.ac.in/phy/index.php/outreach-events?showall=&start=1 (outreach events e46984)
+https://www.iitk.ac.in/phy/index.php/past-events (past events)
+https://www.iitk.ac.in/phy/index.php/past-events?showall=&start=4 (past events 052c5d)
+https://www.iitk.ac.in/phy/index.php/past-events/13-activities (past events 13 activities)
+https://www.iitk.ac.in/phy/index.php/past-events?showall=1&limitstart= (past events 94a7c6)
+https://www.iitk.ac.in/phy/index.php/past-events?showall=&start=2 (past events c6662a)
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS > Other URLs whose page content is a duplicate of a page above]
+https://www.iitk.ac.in/phy/index.php/past-events?showall=&start=1 (past events e46984)
+https://www.iitk.ac.in/phy/index.php/space-science-workshop-28-feb-2020/13-activities (space science workshop 28 feb 2020 13 activities)

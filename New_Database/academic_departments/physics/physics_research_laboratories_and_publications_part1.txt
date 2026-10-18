@@ -1,0 +1,549 @@
+DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS (part 1 of 3)
+Name: Department of Physics, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/phy. Snapshot: scraped in 2026.
+
+=== academics teaching labs electronics lab phy441 ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/electronics-lab-phy441
+Location: 201, New Core Lab/Building
+
+Uncategorised
+
+13 June 2024
+
+About Lab
+
+This is Teaching lab in New Core Building  - 201 , The course code is PHY441- Electronics
+
+Course Information : The  basics of Digital Electronics -Gates , Flipflops, Shift Registers , Counters,  Microcontrollers with Arduino UNO, and Analog Electronics - Basics Op-Amp-Amplifiers, Feedback circuits, Limitations and Applications. Diodes circuits, Regulators, BJT, MOSFET, CMOS circuits. All necessary  Equipment's and Consumables  are  available in lab for circuits  analysis.
+
+Faculty Incharge: Prof. Rohit Medwal
+
+Machine/ Equipment: Equipment's used for practical's in circuit analysis - Digital Storage Oscilloscopes  60- 70 MHz dual channels  ,DC Regulated Power Supply 0-32 volt and 1amp- single/dual channels, Multimeters , Signal Generators / Function Generators   maximum frequency range  10 MHZ, and below frequency, Computers, DAQ, Microcontroller UNO , etc .Electronics consumables are available in lab.
+
+=== academics teaching labs electronics lab phy441 2 uncategorised ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/electronics-lab-phy441/2-uncategorised
+Location: 201, New Core Lab/Building
+
+Govind
+
+Uncategorised
+
+10 April 2026
+
+UG Electives (Sem-I, 2026-27)
+
+PHY307
+
+PHY312
+
+Govind
+
+Uncategorised
+
+10 April 2026
+
+PG Electives (Sem-I, 2026-27)
+
+PHY613
+
+PHY614
+
+PHY615
+
+PHY624
+
+PHY628
+
+PHY643
+
+PHY673
+
+PHY677
+
+PHY685
+
+PHY690X
+
+Govind
+
+Uncategorised
+
+30 October 2025
+
+UG Electives (Sem-II, 2025-26)
+
+PHY302
+
+PHY313
+
+Govind
+
+Uncategorised
+
+30 October 2025
+
+PG Electives (Sem-II, 2025-26)
+
+PHY607
+
+PHY611
+
+PHY617
+
+PHY624
+
+PHY625
+
+PHY632
+
+PHY656
+
+PHY657
+
+PHY661
+
+PHY676
+
+PHY680
+
+PHY686
+
+PHY692
+
+PHY781
+
+Govind
+
+Uncategorised
+
+08 August 2025
+
+Koushik Pal
+
+Koushik Pal
+
+Assistant Professor, Department of Physics, PhD (Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR))
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs electronics lab phy441 2 uncategoris]
+Specialization: Materials theory and simulation, Materials informatics and machine learning, Quantum and energy materials
+
+Office Address:
+Room no. OLD SAC, Block C, Office No 106
+
+Department of Physics
+
+IIT Kanpur, Kanpur 208016
+
+Contact Information:
+
+Email: koushik[at]iitk.ac.in
+
+Tel: (91) 512-679-2435
+
+Web Links:
+
+Homepage Page
+Google Scholar
+
+IRINS Profile
+
+Academic Background:
+
+PhD, Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) - 2017
+
+PG., Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) - 2013
+
+UG., Jadavpur University - 2010
+
+Research Interests:
+
+Materials theory and simulation, Materials informatics and machine learning, Quantum and energy materials
+
+Previous Work and Experience:
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs electronics lab phy441 2 uncategoris]
+Northwestern University, USA, Postdoc
+
+Los Alamos National Laboratory, USA, Postdoc
+
+UG Electives (Sem-I, 2025-26)
+
+PG Electives (Sem-I, 2025-26)
+
+UG Electives (Sem-II, 2024-25)
+
+PG Electives (Sem-II, 2024-25)
+
+=== academics teaching labs modern physics lab phy 315 ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/modern-physics-lab-phy-315
+Location: 202, New Core Lab/Building
+
+Uncategorised
+
+13 June 2024
+
+About Lab
+
+This laboratory course focuses on the  experiments that led to the development of quantum mechanics including  determination of fundamental constants and illustration of some of the  significant modern phenomena of physics. It consists of about 15 different experiments  of which at least six are compulsory.
+
+The experiments determine some of the  fundamental constants (Planck constant, e/m of electron, gravitational  constant, Rydberg constant, Boltzmann constant) or quantitatively demonstrate  some of the concepts (quantum analog, Single photon interference, Optical  Pumping) and applications (Thermionic emission, Solar Cells) of quantum  physics.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs modern physics lab phy 315]
+There are the experiments that illustrate applications of  thermodynamics (Johnson Noise, thermoelectric effect and Peltier effect), and  non-linear dynamics (chaos). The lectures consist of introduction to error  analysis and essential tools of modern experiments (vacuum and low  temperatures), discussion of experiments leading to quantum mechanics and a  brief introduction to other experiments carried out in the
+
+Faculty Incharge: Prof.Krishnacharya
+
+Lab Incharge:Dr. Upendra K. Parashar and Mr. Ramesh Prasad
+
+Machine/ Equipment: Thermal Deposition Systems, Four Probe Measurement  setup
+
+Probable day and timings per week: Monday and Tuesday (2:00 PM to 5:00 PM)
+
+Experiments
+
+Franck-Hertz Experiment, Chaos in a diode circuit, Cavendish Experiment (G  value), Electron Diffraction, Planck's Constant (Photoelectric effect), Solar  Cell characteristics, e/m of electron by bar magnet, Peltier Heat pump, Single  Photon Interference, Johnson and Shot Noise, Quantum Analogs in Acoustics,  Optical Spectroscopy (Rydberg constant and quantum dot E-levels), Speed of  Light, Coulomb's Law, Thin Film & Scanning Tunnelling Microscopy,  Measurement of Dielectric Constant, Thermoelectric Effect, Vander Pauw  Experiment etc.
+
+=== academics teaching labs msc lab phy 461 462 ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/msc-lab-phy-461-462
+Location: 206, 207, New Core Lab/Building
+
+Uncategorised
+
+13 June 2024
+
+About Lab
+
+Welcome  to PHY461/462 Experimental Physics Laboratory course. The  “Experimental Physics” laboratory contains experiments from solid-state  physics, modern physics, optics, nuclear and atomic physics topics.  This laboratory will introduce you to advanced  concepts of Physics through a set of nicely designed experiments. You will deal  with a range of phenomena from Atomic spectroscopy, Nuclear radiation  detection, Nuclear magnetic resonance, Crystallography,  Klystron, Gunn Oscillator, superconductivity,  phase transitions, Hall effect and its temperature dependence, magneto-resistance  to optics and laser physics experiments. These also include classic experiments  like the Millikan’s oil drop experiment, Concave grating spectrometer and  Michelson interferometer etc.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs msc lab phy 461 462]
+The  goal is NOT just to obtain a set of values as the results but to learn the  physical phenomena and analysis of your measurements.  M.Sc. Lab is the intermediate phase between under  graduate and research lab where students as well as TAs get a qualitative  experience. This lab also helps Ph.D students in their research work. The M.Sc  lab currently runs for four days a week in both semester, with strength of  approximately 100 students.
+
+Faculty Incharge: Prof. Soumik Mukhopadhyay
+
+Machine/ Equipment: Monochromator, Interferometer, Gamma Ray Spectrometer, 12-20 MHz NMR Spectrometer,
+Power supplies, Electromagnet, vacuum pumps, DMM, DSO, Frequency counter etc.
+
+List of Experiments
+
+1. Stefan&#39;s Constant
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs msc lab phy 461 462]
+2. Faraday Effect Using sodium lamp
+
+3. Faraday Effect using tungsten lamp
+
+4. Phase Transition of BaTiO 3
+
+5. Photoconductivity of CdS Photo- resistor
+
+6. Planck’s constant using Cs cell
+
+7. Electrical and thermal conductivity of metals
+
+8. P-E Hysteresis
+
+9. Hall Effect
+
+10. Temperature dependence of Hall coefficient
+
+11. Magneto-resistance and its Field Dependence
+
+12. Magnetic Hysteresis using anchor ring
+
+13. Magnetic Hysteresis with cobra interfacing unit
+
+14. Ionic Conductivity of Alkali Halides (NaCl)
+
+15. Characteristic X-Rays of copper
+
+16. Electrical Resistance of a Conductor between 77 K and 300 K
+
+17. Electrical Resistance of a Superconductor
+
+18. AC Susceptibility of a high T c superconductor
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs msc lab phy 461 462]
+19. Electron Spin Resonance (ESR)
+
+20. Nuclear Magnetic Resonance (NMR)
+
+21. Characteristics of Microwave generators (Klystron)
+
+22. Study of Gunn oscillator
+
+23. Electro Optic Effect
+
+24. Kerr effect
+
+25. Study of Thermo-luminescence of Color Centers in Crystals
+
+26. G-M Counter, Counting Statics and  absorption cross-section
+
+27. Gamma ray Spectrometer
+
+28. Beta Ray Spectroscopy
+
+29. Millikan&#39;s Oil Drop Experiment
+
+30. Bragg’s Diffraction with Microwaves
+
+31. Electrical Conductivity and Band Gap Determination of Ge using two probe method
+
+32. Electrical Conductivity and Band Gap Measurement of Ge using four probe method
+
+33. Michelson Interferometer using a He-Ne Laser
+
+34. Michelson Interferometer using a Sodium Lamp
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs msc lab phy 461 462]
+35. Mach. Zehnder Interferometer
+
+36. Diffraction of He-Ne Laser Radiation by 2-d Objects
+
+37. Zeeman effect
+
+38. Concave Grating Spectrometer, Rowland Mounting
+
+39. Iodine Absorption Spectrum
+
+40. Fluorescence of Uranyl Nitrate Hexahydrate (UNH)
+
+41. Measurement of life time of photoluminescence
+
+=== academics teaching labs optics lab phy 224 ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/optics-lab-phy-224
+Location: 106, New Core Lab/Building
+
+Uncategorised
+
+13 June 2024
+
+About Lab
+
+In the Optics  Laboratory (PHY224A), students explore fundamental wave optical phenomena –  propagation, reflection, polarization, interference and diffraction.   Here, students assemble and build their  experimental setups on an optical breadboard from basic optomechanical  components and individual optical elements, similar to how it is done in  research labs throughout the world. This allows significant improvisation by  the student while setting up the experiment. Another  defining feature of this lab is that the lab sessions run in parallel with  classroom lectures. This way, once the students are taught a concept in the  classroom, they perform an experiment based on this concept the same week.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs optics lab phy 224]
+The standard set of experiments exposes students to  characterizing laser beams, manipulating linear and circular polarization,  understanding birefringence and optical activity, exploring interference and  diffraction, and building and aligning interferometers and using them for  precise length measurements. These experiments utilize a Helium Neon laser as a  light source and a photodiode as a detector. In addition to these experiments,  the students also undertake a longer experimental project, which they design  and implement using the instruments available in the lab. For this purpose,  lasers of several wavelengths, cameras, and state-of-the-art electronic test  and measurement equipment are available in the lab.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs optics lab phy 224]
+Faculty Incharge: Prof. Venkata Jayasurya Yallapragada
+
+Lab Incharge: Dr. Upendra K. Parashar  and Mr. Ramesh Prasad
+
+Machine/ Equipment: He-Ne and diode lasers, optical elements (lenses,  mirrors, polarizers, waveplates, etc.) and compatible mechanical components,  photodiodes, multimeters, CMOS cameras, electronic test and measurement devices
+
+Experiments
+
+Characterization  of a laser beam, photodiode and neutral density filters
+
+Studying  reflection at a plane dielectric interface
+
+Studying the  generation and manipulation of linear and circular polarization
+
+Studying and  quantifying birefringence and optical activity
+
+Studying  two-slit and multi-slit interference patterns
+
+Constructing  and aligning a Michelson interferometer to calibrate a micrometer actuator.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs optics lab phy 224]
+Constructing  and characterizing a Fabry Perot interferometer
+
+Exploring  Fraunhofer diffraction using a single slit
+
+=== academics teaching labs ug lab phy 111 ===
+Source: https://www.iitk.ac.in/phy/index.php/academics/teaching-labs/ug-lab-phy-111
+Location: 203, 204, 205, New Core Lab/Building
+
+Uncategorised
+
+23 May 2024
+
+UG Lab (PHY 101)
+
+About Lab
+
+This laboratory course focuses on the core physics experiments for first year undergraduate students covering many fundamental aspects of mechanics, optics, and electricity and magnetism. The objective of the experiments is to provide an opportunity to the students for learning through doing, observing and testing, so that they become familiar with the instruments and gain experience in handling experimental setups and their operating procedures. The laboratory course aims to build a strong understanding of some of these important physics topics. The course contains 10 different experiments, and each experiment has several setups to accommodate around 1350 students every year. There are two sets of experiments which require computer interfacing (Coupled Pendulum and Electromagnetic Induction), that train the students in data acquisition using a computer. Apart from the afore mentioned experiments the lab has several demo experiments too. The experiments at UG Lab demonstrate some fundamental physics phenomena such as mechanical oscillations, resonance, conservation of energy, elastic and inelastic collisions, gyroscopic motion, light spectrum and dispersion, including electromagnetic induction.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+General guidelines:
+
+• Lab manual softcopy will be sent to you.
+
+• One experiment (including data recording, analyses, graph plotting) needs to be completed in one
+
+day, i.e., in 3 hours, and the lab report needs to be submitted at the end of the lab session
+
+• Come to the lab on time – no extra time will be given to complete your experiment
+
+• No entry to the lab after 10:15 am
+
+• You need to bring the lab report book, graph papers, calculator and pencil box
+
+• No printed materials are allowed on the experiment table
+
+• Keep your bag away; bring only lab report book, graph papers, calculator, and pencil box to the
+
+experiment table
+
+• Come prepared for the experiment assigned to you; read the lab manual thoroughly to prepare
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+• Write the working principle for the experiment and make the tables for recording your observation
+
+in your lab report book before coming to the lab
+
+• Do not use pencil to write your observation (data) on the lab report book, write only by pen
+
+• Get the first set of your data signed by the TA
+
+• If the report remains incomplete, submit the incomplete report
+
+• If you have any questions, ask the assigned TA for the experiment
+
+• You may come in at a specified time to see your mistakes in the lab reports after they are graded
+
+• Don’t miss a lab session – there will be no makeup lab later, unless a lab session is missed due to
+
+medical emergency (authorized by HC and approved by DoAA)
+
+• Strictly no mobile phone in the lab – if you are seen with your mobile phone, 10 marks will be
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+deducted
+
+Grading policy:
+
+• Continuous evaluation: 60%
+
+Each experiment carries 30 marks (Punctuality, preparedness and performance: 10; Lab report: 20)
+
+• Final exam: 40%
+
+Marks will be given for successfully performing the experiment, report preparation, and viva
+
+Lab safety guidelines:
+
+• Avoid accidents to be safe and keep safe
+
+• Come with covered, i.e., closed toe shoes, No entry with slippers
+
+• Do not climb on anything that can slide, i.e., lab stools with wheels; climb on stools without wheels,
+
+if required
+
+• If feeling an electrical shock, switch off the power supply and inform the TA or a lab technician
+
+immediately
+
+• If feeling unwell or dizzy, inform the TA or the instructor, or the lab in-charge immediately
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+Course structure:
+
+• Regular lab sessions
+will start from Thursday, August 6th
+
+• The lab will run five days a week – for five batches; each student will attend the lab once a week
+
+• The batches are made as per sections
+
+• There will be two students in each group performing an experiment
+
+• Timing: 10:00 to 13:00 hrs
+
+• Venue: Physics UG lab (1st floor) at New Core Lab building
+
+• Each of you will
+perform 10 experiments in this semester
+
+Faculty Incharge: Prof. Manas Khan
+
+Course Incharge: Prof. Sudeep Bhattacharjee
+
+Faculty Team Members: Prof. Manas Khan, Prof. Debtosh Chowdhury, Prof. Goutam Das, Prof. Navaneeth Poonthottathil
+
+Lab Incharge: Mr. A.S. Rathaur
+
+Lab Team Members: Mr. Kaushal Kumar Yadav, Ms Arti Sharma, Mr. Sujoy Das, Mr. Nitish Yadav
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+Lab day and timings: Monday to Friday (10:00 AM to 1:00 PM)
+
+Lab Manual: Manual 2026-27 Sem I
+
+Allotment Chart
+
+Experiment Cyclic Order
+
+Experimental Videos
+
+Course objective
+
+To provide an opportunity for learning through doing, observing and testing
+
+To become familiar with the instruments and gain experience in handling them
+
+To acquire the skill of making the optimum use of a given apparatus
+
+To establish for yourself the working of physical principles
+
+To become aware of limitations of the accuracy with which measurements can be made
+
+Generally, to relate textbook information to the behavior of the physical world around you
+
+List of experiments:
+
+Prism Spectrometer
+
+Velocity of Light
+
+Helmholtz Coils
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > academics teaching labs ug lab phy 111]
+Coupled Pendulum
+
+Linear Air Track
+
+Pohl’s Pendulum
+
+Moment of Inertia of Bicycle    Wheel
+
+Electromagnetic Induction
+
+Current Balance
+
+Gyroscope
+
+=== activities patents ===
+Source: https://www.iitk.ac.in/phy/index.php/activities/patents
+Patents since 2012
+
+07 April 2025
+
+2013
+
+2012
+
+2013
+
+Harshawardhan Wanare, Neha Singh and K.K. Dokania / Design and implementation of a vein visualization device using narrow band visible light. Patent filed with the Delhi Patent Office: 1525/DEL/2012 on March 15, 2013.
+
+Rajeev Gupta, Ashish Garg, and Rajesh Katoch, "Development of a process for fabricating BFTP thin films heterostructures with gian ferroelectric response for sensors and actuators using low cost solution deposition." Intellectual Ventures Inc. USA (through SIDBI center IIT Kanpur) (2013).
+
+Satyajit S. Banerjee, Shyam Mohan, Jaivardhan Sinha / International Patent filed by Intellectual Ventures (National and International). An instrument for imaging spatial distribution of magnetic fields generated from small direct and alternating electric currents enabling in the non-destructive mapping of regions with structural damage.
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > activities patents]
+S.A. Ramakrishna, Govind Dayal Singh, and J. Ramkumar, "A green process for fabrication of binary masks with isolated features for micromachining and photolithography," Application no. 79/DEL/2013List of patents filed (contd.) technologies commercialized
+
+Sudeep Bhattacharjee and Jose V. Mathew, Multi element focused ion beams (MEFIB) from intense, collimated microwave plasmas: concepts to genesis of a novel device, Intellectual Ventures Inc. USA (through SIDBI center, IIT Kanpur) (Application Number: 1452/DEL/2013)
+
+2012
+
+S.A. Ramakrishna, Govind Dayal Singh, and J. Ramkumar, Systems and methods for dry processing fabrication of binary masks with arbitrary shapes for ultraviolet laser micro machining, Application no. 1858/DEL/2012
+
+[Context: DEPARTMENT OF PHYSICS IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLI > activities patents]
+S.A. Ramakrishna and Govind Dayal Singh, Metamaterial structures for q-switching in lasers, Application no. 3706/DEL/2012
+
+Sudeep Bhattacharjee and Samit Paul, System and method for characterizing focused charged beams, Intellectual Ventures Inc. USA (through SIDBI center, IIT Kanpur) (Application Number: 1301/DEL/2012)
+

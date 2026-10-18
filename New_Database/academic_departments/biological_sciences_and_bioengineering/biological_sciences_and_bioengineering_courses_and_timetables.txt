@@ -1,0 +1,17 @@
+DEPARTMENT OF BIOLOGICAL SCIENCES AND BIOENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Biological Sciences and Bioengineering, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/bsbe. Snapshot: scraped in 2026.
+
+=== pg courses ===
+Source: https://www.iitk.ac.in/bsbe/pg-courses
+Structure of M. Tech program
+
+Structure of PhD program
+
+=== ug courses ===
+Source: https://www.iitk.ac.in/bsbe/ug-courses
+The students of BSBE will take courses common with all other branches of science and engineering in the first year. During their second year, they will take foundation and elective courses in basic biology and bioengineering topics, besides developing their interest and excitement in biological experiments and discoveries. Concepts in biology will be sharply focused on to provide a holistic view and to facilitate integration of these with the fundamental principles of physics, chemistry, mathematics and engineering. The final two years of the program will see the development of professional competence of the students on a broad spectrum of topics.
+
+[Context: DEPARTMENT OF BIOLOGICAL SCIENCES AND BIOENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETA > ug courses]
+Major emphasis during the final semesters will be on research and development along with the development of entrepreneurial skills. Students would also compete for 'Joy Gill Endowment" scholarship for R&D internship in Bio-pharma and Biotech industries besides participating in Bio-business plan competitions.
+

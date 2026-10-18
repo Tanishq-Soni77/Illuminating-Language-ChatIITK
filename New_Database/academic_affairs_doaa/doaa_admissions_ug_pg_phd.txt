@@ -1,0 +1,2221 @@
+DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND APPLICATION
+Name: Admission-related pages of the DoAA (Dean of Academic Affairs) website https://www.iitk.ac.in/doaa/ : admission procedure, eligibility criteria (latest notice is the 2022-23-I Semester notice), contacts of departments for PG admissions, external / foreign / part-time / sponsored candidate guidelines, financial assistance, PMRF, Ph.D. walk-in interviews and how to apply. Type: INSTITUTE OFFICE pages (the Dean of Academic Affairs office is not a student body). Earlier semester versions of the same notices are in doaa_pg_admission_notices_archive_2018_2022.txt. Snapshot: website pages scraped in 2026; the PG notice pages themselves are dated by the semester they announce.
+
+=== DOAA page: /doaa/admission-procedure  ===
+Source: https://www.iitk.ac.in/doaa/admission-procedure
+
+You are here: Home  Admission Procedure
+
+Admission Procedure
+
+
+
+
+B. Tech. and B.S. Programmes:
+Admission to these programmes is made once a year in July through Joint Entrance Examination-Main (JEE-Main) and Joint Entrance Examination-Advanced (JEE- Advanced) conducted on an All India level in April and May by CBSE and IITs respectively. The minimum academic qualification for appearing in JEE is a pass in the final examination of 10+2 system or its equivalent. For the detailed procedure in this regard, visit JEE- Advanced website before the end of December preceding the year in which admission is sought.
+
+
+
+M. Sc. (2-year) and M. Sc. - Ph. D. (Dual Degree) Programmes:
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+Admission is made once a year through an All India level examination known as 'Joint Admission Test for M. Sc. (JAM)'. The underlying philosophy of JAM seeks to provide a single unified national level test for admission to different post-B. Sc. programmes offered at respective IITs, to synergise the admission procedures for M. Sc. programmes in all IITs and thereby ensure a qualitative difference in the students admitted on a wider basis.
+
+
+
+M. B. A. Programme:
+
+IIT Kanpur’s MBA program is making great strides in setting new benchmarks in providing relevant and effective Business Management education. A highly talented and energetic faculty team at the Department of Management Sciences (DoMS) at IIT Kanpur leads these efforts with fruitful interactions with the students, industry, and the society. MBA program’s strength reflects in its ratings and rankings, placement records, and remarkable knowledge contribution to the industry and the community.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+Admissions to the MBA program occur once in a year. A candidate is required to take CAT examination held around December every year. Advertisement to the admissions is generally released on the next day of declaration of CAT result. For the detailed admissions procedure and admission notifications, visit the website of DoMS, IIT Kanpur (https://www.iitk.ac.in/ime/)
+
+
+
+M. Des. Programme:
+To meet the new challenge of design - related professions, a comprehensive and formal training through a curriculum is the need of the day. There is a growing demand for specially trained graduates in the field of Design for the national and international industries. The postgraduate programme of Design at IIT Kanpur seeks to meet this requirement. Admission is made once a year through the CEED examination.
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+Master of Science(MS) by Research Programme
+Senate of Indian Institute of Technology, Kanpur recently approved a new postgraduate academic programme called "Master of Science (MS) by Research" in the following disciplines: Chemical Engineering; Civil Engineering; Electrical Engineering; Environmental Engineering and Management; Mechanical Engineering; and Photonics Science and Engineering. Objective of this program is to promote project based and industry sponsored research (including sponsored projects based research). The essential qualifications for admission to this programme are B.Tech/BS (4-year) /M.Sc. or equivalent degree with 55% marks/5.5 CPI (on a 10-point scale), and a valid GATE score (GATE is waived for sponsored and part-time candidates). Candidates having B.Sc (3-year) or equivalent degree with 75% marks/7.5 CPI are also eligible to apply for Environmental Engineering and Management, and Photonics Science and Engineering desciplines.
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+M. Tech. Programme:
+Admission to M. Tech. programmes is normally made twice a year, once in July and again in December. Advertisement is released in March/April and September respectively. For eligibility to the M Tech programme, one is required to have passed the qualifying examination, i.e., B. Tech./B. E. or M. Sc. in the appropriate area as well as hold a valid GATE score. Admission is also allowed in the M. Tech. programmes for the sponsored candidates from the industries as well as research organisations and those admitted need not have qualified GATE. Admission forms for the same can be obtained by sending the prescribed fee and a self-addressed envelope, as stipulated in the advertisement, to the Assistant Registrar (Academic), IIT Kanpur-208 016. The normal duration of the course is four semesters.
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+Ph. D. Programme:
+Admission to the Ph. D. programme is generally made in both the semesters in a year, i.e., July and December. The advertisement is released by March/April and September each year respectively. The basic qualification for admission to the Ph. D. programme is Master's degree in Engineering, Science, Humanities and Social Sciences respectively or allied area(s). However, the applicants with Bachelor's degree in Engineering may also be considered for admission based on their performance and attainments. In addition to the basic educational qualifications prescribed in the appropriate area, one is required to have qualified GATE/UGC/CSIR examination for entry to Ph. D. programmes in Science and Humanities & Social Sciences. On the basis of an interview that assesses the candidate's aptitude, proficiency and potential in the area of his/her choice, a candidate is finally chosen. Admission for the sponsored candidates from the industries as well as research organisations is also available in the Ph. D. programme.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admission-procedure ]
+Admission is also encouraged in Ph. D. programmes for external registration to the personnel of R & D establishments which are equipped with necessary laboratory, library and computational facilities. External registration is permitted only after the department concerned has satisfied itself that the sponsoring organisation of the candidate is equipped with necessary facilities for research including the availability of a co-supevisor.
+
+
+
+Part-time Postgraduate Programmes:
+The Institute also offers part-time postgraduate programmes leading to the M. Tech. & Ph. D. degree for the local (professionally) employed personnel such as working engineers, scientists and teachers who can regularly attend classes/courses.
+
+
+
+
+
+
+
+
+
+=== DOAA page: /doaa/admissions.html  ===
+Source: https://www.iitk.ac.in/doaa/admissions.html
+
+INDIAN INSTITUTE OF TECHNOLOGY, KANPUR
+Admission Notice
+Ph.D. and MS (Research) Programmes
+commencing from December 26, 2015 (2015-16-II Semester)
+
+
+
+Applications are invited from Indian as well as foreign nationals for admission to Ph.D. and MS (Research) programmes commencing from December, 26, 2015 (2015-16-II Semester) in the following departments/interdisciplinary programmes:
+
+Ph.D. (ENGINEERING): Aerospace Engineering * Biological Sciences & Bio-Engineering * Chemical Engineering * Civil Engineering * Computer Science & Engineering * Earth Sciences * Electrical Engineering * Industrial & Management Engineering * Materials Science & Engineering * Mechanical Engineering * Nuclear Engineering & Technology * Photonics Science & Engineering
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions.html ]
+Ph.D. (SCIENCES): Chemistry * Mathematics & Statistics * Physics
+
+Ph.D. (HUMANITIES & SOCIAL SCIENCES): English (Literature and Linguistics and ELT) * Philosophy * Psychology * Sociology * Fine Arts
+
+MS (RESEARCH): Chemical Engineering * Civil Engineering * Electrical Engineering * Mechanical Engineering * Computer Science & Engineering. Objective of this program is to promote project based and industry sponsored research.
+
+GENERAL INFORMATION:
+
+(i) Reservations (for SC/ST/OBC(NCL)/PD candidates) shall apply as per Government of India rules.
+
+(ii) For Application Form, Reference Letter Form, Information Brochure, Eligibility Criteria, linkages to concerned department and other relevant details visit:
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions.html ]
+http://www.iitk.ac.in/doaaold/DOAA/implinks20152.htm
+
+Click the link of concerned department to get detailed information about department.
+
+(iii) Detailed information on PG programmes offered at IIT Kanpur is available at
+
+http://www.iitk.ac.in/doaaold/pgmanual-02Sep2015.pdf
+
+(iv) B.Tech/BS students from CFTIs (Centrally Funded Technical Institutes) having CPI of 7.5 or more and M.Sc. students from CFTIs having CPI of 7.0 or more are eligible to get admission and financial assistance in Ph.D program without GATE score. Students who are in final year of their programme (likely to finish the program by July 15, 2016) may also apply and secure provisional admission for the session commencing in July, 2016 (2016-17-I Semester).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions.html ]
+(v) Financial aid (Assistantship/Scholarship) will be provided to non-sponsored Ph.D. and MS students.
+
+(vi) Those employed in an industry or a college/university/institute may apply for admission as a sponsored, external or part-time candidate. Further information on these category of admissions is available at
+
+(vii) Application Procedure:
+
+All applications for admission (except Computer Science & Engineering department) are to be sent by post. There is no provision for online submission of application forms (except Computer Science & Engineering department). Computer Science & Engineering department's applicants need to apply through online application process. Please visit: Computer Science & Engineering department application portal here.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions.html ]
+Download the Application Form (common form for Ph.D. and MS (Research)) from:
+
+PhD applicants must submit two letters of reference letters as well. The reference letters can directly be sent by the referees to the DPGC (Department Post Graduate Committee) convener of the concerned department or they can also be sent in a sealed envelope along with the application form. The Reference forms can be downloaded from the link:
+
+The application fee is Rs.400 for General and OBC candidates and Rs.200 for SC/ST and all PD candidates (including General and OBC). The application fee is waived for 'Foreign National' candidates. The fee must be paid through a demand draft in favour of 'The Registrar, IIT Kanpur and payable at Kanpur.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions.html ]
+Send all the above material along with self-attested copies of certificates (see the application form for list of certificates required) and demand draft to the concerned department (for information about concerned department and the address where application form is to be sent, visit:
+
+(viii) LAST DATE FOR RECEIPT OF COMPLETED APPLICATION FORM THROUGH POST: November 17, 2015.
+
+©2015 Designed & Developed by DOAA Office
+
+=== DOAA page: /doaa/admissions-notice  ===
+Source: https://www.iitk.ac.in/doaa/admissions-notice
+
+You are here: Home  Admissions Notice
+
+Admission Notice
+for Ph.D. and MS (Research) Programmes commencing from December 26, 2015 (2015-16-II Semester)
+
+
+
+
+Applications are invited from Indian as well as foreign nationals for admission to Ph.D. and MS (Research) programmes commencing from December, 26, 2015 (2015-16-II Semester) in the following departments/interdisciplinary programmes:
+
+
+
+Ph.D. (ENGINEERING): Aerospace Engineering * Biological Sciences & Bio-Engineering * Chemical Engineering * Civil Engineering * Computer Science & Engineering * Earth Sciences * Electrical Engineering * Industrial & Management Engineering * Materials Science & Engineering * Mechanical Engineering * Nuclear Engineering & Technology * Photonics Science & Engineering
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions-notice ]
+Ph.D. (SCIENCES): Chemistry * Mathematics & Statistics * Physics
+
+Ph.D. (HUMANITIES & SOCIAL SCIENCES): English (Literature and Linguistics) * Philosophy * Psychology * Sociology * Fine Arts
+
+MS (RESEARCH): Chemical Engineering * Civil Engineering * Electrical Engineering * Mechanical Engineering * Computer Science & Engineering. Objective of this program is to promote project based and industry sponsored research.
+
+GENERAL INFORMATION:
+
+(i) Reservations (for SC/ST/OBC(NCL)/PD candidates) shall apply as per Government of India rules.
+
+(ii) For Application Form, Reference Letter Form, Information Brochure, Eligibility Criteria, linkages to concerned department and other relevant details visit:
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions-notice ]
+Important links
+
+(iii) Detailed information on PG programmes offered at IIT Kanpur is available at
+
+PG Progrmme- Procedures and Requirements
+
+(iv) B.Tech/BS students from CFTIs (Centrally Funded Technical Institutes) having CPI of 7.5 or more and M.Sc. students from CFTIs having CPI of 7.0 or more are eligible to get admission and financial assistance in Ph.D program without GATE score. Students who are in final year of their programme (likely to finish the program by July 15, 2016) may also apply and secure provisional admission for the session commencing in July, 2016 (2016-17-I Semester).
+
+(v) Financial aid (Assistantship/Scholarship) will be provided to non-sponsored Ph.D. and MS students.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions-notice ]
+(vi) Those employed in an industry or a college/university/institute may apply for admission as a sponsored, external or part-time candidate. Further information on these category of admissions is available at
+
+Important links
+
+(vii) Application Procedure:
+
+All applications for admission are to be sent by post. There is no provision for online submission of application forms.
+
+Important links
+
+Important links
+
+Send all the above material along with self-attested copies of certificates (see the application form for list of certificates required) and demand draft to the concerned department (for information about concerned department and the address where application form is to be sent, visit:
+
+Important links
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/admissions-notice ]
+(viii) LAST DATE FOR RECEIPT OF COMPLETED APPLICATION FORM THROUGH POST: November 17, 2015.
+
+
+
+
+
+=== DOAA page: /doaa/admissions-pg  ===
+Source: https://www.iitk.ac.in/doaa/admissions-pg
+
+You are here: Home  Admissions PG
+
+Admission Procedure
+
+
+
+
+M. B. A. Programme:
+
+IIT Kanpur recognised for its excellence in engineering and science education has made a strategic move with the introduction of the MBA programme that is slated to become the best in management education. Admission is made once a year. A candidate is required to take Common Admission Test (CAT) Examination held in December. Advertisement is released next day of declaration of CAT result. For the detailed procedure in this regard, visit Department of IME, IIT Kanpur.
+
+M. Des. Programme:
+
+M. Tech. Programme:
+
+Ph. D. Programme:
+
+Part-time Postgraduate Programmes:
+
+
+
+Notice for Admission to M.Tech / Ph.D Programmes
+
+
+
+=== DOAA page: /doaa/admissions-ug  ===
+Source: https://www.iitk.ac.in/doaa/admissions-ug
+
+You are here: Home  Admissions UG
+
+Admission Procedure
+
+
+
+
+B. Tech. and B.S. Programmes:
+
+Admission to these programmes is made once a year in July through Joint Entrance Examination-Main (JEE-Main) and Joint Entrance Examination-Advanced (JEE- Advanced) conducted on an All India level in April and May by CBSE and IITs respectively. The minimum academic qualification for appearing in JEE is a pass in the final examination of 10+2 system or its equivalent.
+
+For the detailed procedure in this regard, visit JEE- Advanced website before the end of December preceding the year in which admission is sought.
+
+
+
+
+
+=== DOAA page: /doaa/DOAA/externalstudents.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/externalstudents.htm
+
+Notice for Admission to
+
+PhD/MTech/MDes/MS(By Research)/DIIT Programmes
+
+2022-23-I Semester
+
+Guidelines for Admission to External Registration
+Programme for MTech/MDes/MS (Research) and PhD in various Branches
+of Engineering and Earth Sciences Programme
+
+A candidate working in an R & D establishment
+which is equipped with the necessary research and library
+facilities may be considered for admission only to the
+MTech/MDes/MS (Research) and PhD in various Branches
+of Engineering and Earth Sciences programmes. Such a
+candidate must be sponsored by his/her employer and
+must have been in employment with the sponsoring organization
+for at least 2 year at the time of admission. The employer
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/externalstudents.htm ]
+must expressly undertake to pay full salary to the candidate
+and relieve him/her to stay on the campus at least as
+long it takes to
+
+(i) complete the required course work and pass the comprehensive
+examination (in case of a PhD student) and
+
+(ii) get a written proposal (prepared in consultation
+with his/her supervisor and co-supervisor) outlining
+the work proposed to be done for his/her thesis.
+
+A certificate to that effect from sponsoring
+organization must be provided by the candidate at the
+time of applying for admission.
+
+For fellows and employees of research labs, centers of excellence, and other organizations such as DRDO, CSIR, DAE, DoS, DIT, DST, DBT, ICMR, ICAR, NGRI, GSI, Wadia Institute etc., fully funded by the government (central/state), the minimum employment requirement will be only one year. The reduced employment requirement will also be applicable to employees of public sector unit (PSU) and central and state universities fully funded by the government.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/externalstudents.htm ]
+A candidate applying for admission to the external registration programme must provide detailed information about the research facilities available at his/her organization and a certificate that these would be available to him/her for carrying out research. He/she should also provide the biodata of the prospective supervisor who would supervise the candidate's work at his/her organization.
+
+©2022-23,
+
+=== DOAA page: /doaa/DOAA/financial-assistanship.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/financial-assistanship.htm
+
+Notice for Admission to
+
+2022-23-I Semester
+
+INSTITUTE
+ASSISTANSHIP
+
+The Institute may provide to postgraduate
+students financial support in the form of teaching or research assistantships
+(referred to as Institute Assistantship). Assistantships are awarded
+on a semester to semester basis for a period of up to 22 months
+for MTech/MDes/MS (By Research) students and up to five years for
+PhD students. The stipend for the assistantship is paid at the approved
+rates. A student is expected to devote up to eight hours per week
+towards job(s) assigned to him/her. The renewal of assistantship
+is contingent on the student's satisfactory performance in the academic
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/financial-assistanship.htm ]
+programme and in the discharge of assistantship duties.
+
+Financial Assistance for
+MTech/MDes/MS (by Research) Programmes: A valid GATE score
+or JRF is required for awarding Institute Assistantship to MTech/MDes/MS
+(By Research) students. This requirement is waived for those with
+MBBS. degree and for those who are B Tech /BS (Four Year) graduates
+from IITs with a minimum CPI of 8.0.
+
+Financial Assistance for
+PhD (Engg.) Programmes: A valid GATE score is required
+for the candidates with bachelor’s degree in engineering/design/architecture.
+The requirement of GATE is waived for candidates with a bachelor’s
+degree in engineering from the centrally funded technical institutes
+(CFTIs) with a percentage of 75% or more or a CPI of 7.5 or more.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/financial-assistanship.htm ]
+The candidates with master's degree in science must either have
+a valid GATE score or must have qualified for/in JRF/NET.
+
+Financial Assistance for
+PhD (Sciences) Programmes: The candidate either must have
+a valid GATE score or must have qualified for JRF. The requirement
+of GATE/JRF is waived for candidates having a master's degree in
+science from IITs with a minimum CPI of 8.0. In addition to GATE/JRF,
+a valid JEST score is also an eligibility criterion for financial
+assistantship in Physics.
+
+Financial Assistance for
+PhD (HSS) Programmes: The candidate either must have a
+valid GATE score or must have qualified for/in JRF/NET. The requirement
+of GATE/JRF/NET is waived for candidates having a master's degree
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/financial-assistanship.htm ]
+in science/arts from IITs with a minimum CPI of 8.0.
+
+For MS by Research students who
+are project employees of IIT Kanpur, there is a minimum commitment
+of support from the project for one year. On the completion of one
+year, it is expected that such candidates will continue to be supported
+by PI (possibly through other projects, if the current project is
+over), or by the department (through DPA or other such projects).
+In case, there is no support available from PI/Department, the student
+can be provided assistantship from the Institute at the level of
+MTech assistantship for at most one year, subject to the student
+having a valid GATE score as on the day of starting Institute assistantship.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/financial-assistanship.htm ]
+DPGC recommendation is required for switching to Institute Assistantship.
+
+Some financial support in the form of research assistantships may
+also be available from sponsored research projects. Additional assistantships
+in the form of scholarships, fellowships, etc. may be available
+through other organizations such as the Council of Scientific and
+Industrial Research (CSIR), Department of Atomic Energy (DAE), etc.
+
+In addition to the students admitted
+with financial assistantship, students may also be admitted to the
+MTech/MDes/MS by Research/PhD programmes on a self-financing basis.
+
+©2022-23,
+
+=== DOAA page: /doaa/DOAA/foreignstudents.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/foreignstudents.htm
+
+Notice for Admission to
+
+2022-23-I Semester
+
+Guidelines for Candidates in the Foreign National category for admission
+in MTech/MDes/MS (Research) and PhD Programmes
+
+Candidates in
+the Foreign National (FN) category are required
+to apply by sending the filled & signed PDF file
+of the application along with supporting documents
+to oir@iitk.ac.in.
+The application form can be downloaded here.
+
+Requirement of GATE qualification
+is waived for candidates in the Foreign National (FN)
+category.
+
+Final selection of the shortlisted
+FN candidates is based on interviews through video
+conferencing.
+
+Candidates from ASEAN countries
+may apply for fellowship through the portal http://asean.iitd.ac.in.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/foreignstudents.htm ]
+©2022-23,
+
+=== DOAA page: /doaa/DOAA/parttimestudents.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/parttimestudents.htm
+
+Notice for Admission to
+
+2022-23-I Semester
+
+Guidelines for Admission to Part-Time Programme for MTech/MDes/MS
+(Research) and PhD (Engg. and Sciences) Program
+
+The Institute also offers
+part-time postgraduate programmes leading to the MTech/MDes/MS
+(Research)/PhD degrees for professionally employed personnel
+such as working engineers, scientists and teachers who
+can, while employed, attend regular classes as per schedule
+of the Institute. These students will have to give an
+undertaking endorsed by their employers that they will
+be attending all classes.
+
+The applicant must be an employee of a recognized organization with at least two years of service at the time of admission and be engaged in professional work in the area to which admission is sought. An application for the part-time studies forwarded by the employer should be sent to the Convener, DPGC of the department concerned.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/parttimestudents.htm ]
+Fulfillment of GATE
+requirement may be waived for such candidates. This
+is also applicable to the part-time candidates seeking
+admission to the MS (Research) program, who are employees
+of IIT Kanpur (project or regular) with an appointment
+and support for at least one year from the date of admission.
+However, the part-time candidates seeking admission
+to the MTech/MDes/MS (Research) program, who have not
+qualified GATE, will be called for interview and may
+in addition be asked to take a written test.
+
+For an employee of
+IIT Kanpur (project or regular) with a valid GATE score
+at the time of seeking admission for part-time MTech/MDes/MS
+(Research) program, the requirement of two years of
+service may be waived.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/parttimestudents.htm ]
+©2022-23,
+
+=== DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/pg-eligibility-criteria.htm
+
+Notice for Admission to
+
+2022-23-I Semester
+
+Post-Graduate Admission   |
+
+Eligibility Requirements:
+
+The eligibility conditions given below are the
+absolute minimum. Departments may prescribe any requirements over
+and above.
+
+The specified minimum
+marks/CPI (Cumulative Performance Index), referred to in subsequent
+sections, implies a minimum of 55 percent marks /5.5 (on a 10
+point scale) as long as it is not less than the minimum pass marks/CPI;
+otherwise, the specified minimum marks/CPI
+implies the minimum pass marks/CPI.
+
+Eligibility Criteria:
+
+Programme |
+Offered by the Department/
+Interdisciplinary Programme (IDP) |
+Eligibility
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+Criteria  |
+
+PhD in Engineering |
+Aerospace Engineering, Biological
+Sciences & Bio-Engineering, Chemical Engineering, Civil Engineering,
+Computer Science & Engineering, Electrical Engineering, Industrial
+and Management Engineering, Materials Science & Engineering,
+Materials Science (Interdisciplinary Programme), Mechanical
+Engineering, Photonics Science and Engineering, Sustainable
+Energy Engineering, Space Science and Astronomy
+
+(i) A Master's degree in Engineering
+with marks/CPI not below the specified minimum.
+
+or
+
+Bachelor's degree in Engineering or Science (4-year programme)
+with a minimum of 75 percent marks/7.5 CPI and a valid GATE
+score (the requirement of GATE score is waived for candidates
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+with Bachelor's degree in Engineering from the centrally funded
+technical institutes (CFTIs)).
+
+or
+
+a Master's degree in Science or an allied area while satisfying each
+of the following three criteria:
+
+(a) a minimum of 65 percent marks/6.5 CPI in the Master's degree,
+
+(b) first division in bachelor's degree, and
+
+(c) JRF/95 percentile or higher in GATE score.
+
+For admission into PhD in Biological Sciences and Bio Engineering,
+applicants having Master's degree in Pharmacy/Medicine/Veterinary
+Science with marks/CPI not below the specified minimum, or
+Bachelor's degree in Pharmacy/Medicine/Veterinary Science
+with a minimum of 75 percent marks/7.5 CPI, may also be considered.
+
+For admission into PhD in Computer Science and Engineering,
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+applicants with Master in computer applications while satisfying
+each of the above criteria in (a), (b) and (c) may also be
+considered.
+
+(ii) A valid GATE score is required for the candidates
+with a Bachelor’s degree in Engineering/Design/Architecture,
+except in the case of candidates with Bachelor’s degree
+in Engineering from the centrally funded Technical Institutes
+(CFTIs). The candidates with Master’s degree in Science
+must either have a valid GATE score or must have qualified
+for/in JRF/NET.
+
+PhD in Sciences |
+Chemistry, Earth Sciences, Economic Sciences,
+Mathematics, Physics, Statistics
+(i) A Master's degree in the
+relevant subject or a Bachelor's degree in Engineering or
+Science (4-year programme) with marks/CPI not below the specified
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+minimum.
+
+(ii) The candidate either must have a valid
+GATE score or must have qualified JRF, or should have INSPIRE
+fellowship. In addition to GATE/JRF, a valid JEST score is
+also an eligibility criterion for applying to the PhD programme
+in Physics. The requirement of GATE/JRF/JEST is waived for
+candidates having a Master's degree in Science from IITs with
+a minimum CPI of 8.0.
+
+(iii) For Economic Sciences:
+
+(a) The candidate must have a Master's degree
+in economics or a Bachelor's degree in Engineering or Sciences
+(4 year programme) or a Master's degree in Sciences or in
+an allied field of economics with marks/CPI not below the
+specified minimum.
+
+(b) The candidate must either have a valid
+GATE score or must have qualified JRF/NET. The requirement
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+of GATE/JRF/NET is waived for candidates having a Master's
+degree in Sciences/arts from IITs with a minimum CPI of 8.0.
+
+PhD in Cognitive Science |
+Cognitive Science
+Applicants must have a MA/M.Sc/M.Phil/MS/equivalent
+degree (Cognitive Science/ Psychology/ Linguistics/Philosophy/
+Anthropology/ Physics/ Chemistry/ Mathematics/ Statistics/
+Bio Sciences/ related disciplines) with a minimum of 60%/6.0
+marks/CPI in the qualifying degree. Applicants should have
+a valid score/qualification in GATE/ CSIR/ JRF/ NET/ COGJET/
+other equivalent exam. Applicants from IITs with a minimum
+CPI of 8.0 are exempted from the GATE/ CSIR/ JRF/ NET requirement.
+Applicants with M.Sc. in Cognitive Science are also exempted
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+from the GATE/CSIR/JRF/NET requirement.
+
+or
+
+M.Tech/ME/MD (any branch) with a minimum of 60%/6.0 marks/CPI
+in the qualifying degree.
+
+or
+
+B.Tech/BE (any branch), BS 4-year program (Physics/ Chemistry/
+Mathematics/ Statistics/Biosciences/ related sciences), MBBS.
+Applicant must have a minimum of 75%/7.5 marks/CPI in the
+qualifying degree. Should have a valid score/qualification
+in GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants
+from CFTIs (centrally funded technical institutions) with
+a minimum CPI of 7.5 and those with an MBBS degree are exempted
+from the GATE/ CSIR/ JRF/NET requirement.
+
+PhD in Humanities and
+Social Sciences (HSS) |
+Humanities and Social Sciences [English (Literature,
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+Linguistics & ELT), Fine Arts, Philosophy, Psychology
+& Sociology]
+Applicant must have a Master’s degree
+in relevant subject or Master degree in Engineering/technology
+with marks/CPI not below the specified minimum
+
+or
+
+a Bachelor's degree in Engineering or Science (4 year program)
+with a minimum of 75 percent marks/7.5 CPI
+
+or
+
+a Master's degree in Sciences/(fine-arts)/arts/commerce or
+chartered accountant from or in an allied field of HSS or
+an allied area while satisfying each of the following criteria:
+
+(a) a minimum of 55 percent marks/5.5 CPI in the Master's
+degree or CPI not below the specified minimum.
+
+(c) JRF/NET in a relevant discipline, GATE in Humanities and
+Social Sciences (XH) or any other national level exam
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+PhD in Management |
+Industrial & Management Engineering
+(all areas of Management)
+(i) A Master’s degree
+in management or relevant disciplines in Engineering / technology
+with marks / CPI not below the specified minimum.
+
+or
+
+a Bachelor's degree in Engineering or Science (4-year programme)
+with a minimum of 75 percent marks/7.5 CPI.
+
+or
+
+a Master's degree in Science/arts/commerce/chartered accountancy
+while satisfying each of the following three criteria:
+
+(a) a minimum of 65 percent marks/6.5 CPI in the Master's
+degree,
+
+(c) JRF/95 percentile or higher in GATE/CAT/GMAT/NET or any
+other national level examination.
+
+with a bachelor’s degree in Engineering, except in the
+case of candidates with Bachelor’s degree in Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+from the centrally funded Technical Institutes (CFTIs). The
+candidates with Master’s degree in Science/arts/commerce
+must either have a valid GATE/CAT/GMAT score or must have
+qualified for/in JRF/NET.
+
+PhD in Design |
+Design Programme
+(i) A Master's degree in Engineering/Design
+
+or
+
+a Bachelor's degree in Engineering/Design (4-year)/architecture
+or Science (4-year programme) with a minimum of 75 percent
+marks/7.5 CPI and a valid GATE/CEED score (the requirement
+of GATE/CEED score is waived for candidates with Bachelor's
+degree in Engineering from the centrally funded technical
+institutes (CFTIs)).
+
+or
+
+a Master's degree in Science or an allied area while satisfying
+each of the following three criteria:
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+degree,
+
+(c) JRF/95 percentile or higher in GATE/CEED.
+
+(ii) A valid GATE/CEED score is required
+for the candidates with a Bachelor’s degree in Engineering/Design/Architecture,
+(CFTIs).
+
+Master of
+Technology (MTech)  |
+Aerospace Engineering, Biological
+Sciences & Bio-Engineering, Chemical Engineering, Civil
+Engineering, Computer Science & Engineering, Earth Sciences,
+Electrical Engineering, Industrial and Management Engg, Materials
+Science & Engineering, Materials Science (Interdisciplinary
+Programme), Mechanical Engineering, Photonics Science and
+Engineering, Sustainable Energy Engineering
+
+(i) A Bachelor's
+degree in Engineering or Science (4-year programme) or a Master's
+degree in Science with marks/CPI not below the specified minimum.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+(ii) A valid GATE score
+is required for admission to the MTech programme in the case
+of regular (non-sponsored) candidates. The requirement of
+GATE score is waived off for the candidates with the B Tech/BS
+(Four Year) degree from IITs with a minimum overall CPI of
+6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS
+(Four Year).
+
+Master of
+Technology (MTech) in Cybersecurity  |
+Computer Science & Engineering
+
+(i) A Bachelor's
+
+(ii) A valid GATE score
+(Four Year).
+
+Master of Design (MDes)
+Design Programme (Interdisciplinary
+Programme)
+(i) A Bachelor’s
+degree in Engineering or Science (4-year programme), Design
+or Architecture with marks/CPI not below the specified minimum.
+Candidates holding degrees in Fine Arts or Interior
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+Design are not eligible to apply.
+
+(ii) A valid GATE/CEED score is
+required for admission to the M Des programme in the case
+GATE score is waived off for the candidates with B Tech graduates
+from IITs with a minimum overall CPI of 6.5 and a minimum
+CPI of 8.0 in the last two years in B Tech.
+
+MS (By Research) |
+Aerospace Engineering, Civil Engineering, Chemical
+Engineering , Computer Science & Engineering, Cognitive
+Science, Electrical Engineering, Mechanical Engineering, Photonics
+Science & Engineering, Sustainable Energy Engineering
+(i) MS (By Research)
+2-year Programme: For Aerospace Engineering and Sustainable
+Energy Engineering:
+
+Applicants must have a Bachelor's degree in Engineering or
+Science (4-year programme) or a Master's degree in Science
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+For Electrical Engineering, Mechanical Engineering:
+
+minimum.
+
+For Cognitive Science:
+
+Applicants must have a: (i) BTech/BE (any branch), BS 4-year
+program (Physics/ Chemistry/ Math/ Stat/BioSciences/ related
+Sciences), MBBS. An applicant must have a minimum of 60%/6.0
+marks/CPI in the qualifying degree. All regular applicants
+must have a valid score/qualification in GATE/ CSIR/ JRF/
+NET/ COGJET/ other equivalent exam. Applicants with BTech
+from IITs with an overall CPI of 6.5 and a minimum CPI of
+8.0 in the last two years and those with an MBBS degree are
+exempted from the GATE/ CSIR/ JRF/ NET requirement; or, (ii)
+MA/M.Sc/equivalent degree (Psychology/ Linguistics/ Philosophy/
+Anthropology/ Phy/ Chem/Math/ Stat/ Biosciences/ CS/ related
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+disciplines) with a minimum of 60%/6.0 marks/CPI in the qualifying
+degree. An applicant must have a valid score/qualification
+in GATE/CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants
+from IITs with a minimum CPI of 8.0 and those with an MBBS
+degree are exempted from the GATE/ CSIR/JRF/ NET requirement.
+
+MS (By Research) 3-year Programme:
+For Computer Science & Engineering and Photonics Science
+& Engineering:
+
+Applicants with B.Sc. (3-year) or equivalent with a minimum
+of 75%/7.5 marks/CPI may also be considered.
+
+For Cognitive Science:
+
+Applicants with 3-year BA/B.Sc/equivalent degree in (Psychology/
+Linguistics/ Philosophy/ Anthropology/ Physics/Chemistry/
+Mathematics/ Statistics/ BioSciences/ Cognitive Science/ related
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+degree may also be considered.
+
+(ii) A valid GATE/ CSIR/ JRF/ NET/ COGJET
+score is required for admission to the MS (Research) programme
+in the case of regular candidates (non-sponsored/non-project
+candidates). The requirement of GATE/ CSIR/ JRF/ NET/ COGJET
+score is waived for the B Tech/BS (Four Years) graduates from
+IITs with a minimum overall CPI of 6.5 and a minimum CPI of
+8.0 in the last two years in B Tech/BS (Four Year).
+
+MS (By Research)
+in Cybersecurity |
+Computer Science & Engineering
+(i) Applicants with B.Sc. (3-year)
+or equivalent with a minimum of 75%/7.5 marks/CPI may also
+be considered.
+
+Diploma of IIT (DIIT) Programme |
+1.	Geodesy
+
+2.	Navigation and Mapping
+
+3.	Remote Sensing and GIS
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+(i) Bachelor’s degree
+in Civil Engineering / Mining Engineering / Electrical Engineering
+/ Computer Science / Electronics Engineering / Information
+Technology / Geoinformatics
+
+or
+
+Master of Science in Earth Science and related areas or Geography
+/ Physics/ Mathematics/ Environmental Sciences. Candidates
+with MSc degree must have mathematics as one of the subjects
+at BSc level.
+
+(ii) The GATE requirement is waived off for
+candidates in the DIIT program.
+
+The applicant must have a Bachelor's degree in Engineering or a Master's degree in science with marks/CPI not below 55% marks (or Cumulative Performance Index (CPI) of 5.5 on a 10-point scale) or minimum pass marks (or CPI) whichever is greater. Candidates belonging to the Scheduled Castes/Scheduled Tribes who have a Bachelor's degree in Engineering or a Master's degree in Science are eligible to apply irrespective of the marks/CPI.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+The proposed DIIT programme is primarily for working professionals in Government Department/Institutions, Industry, Faculty members in Academic Institutions involved in teaching and R&D in Geoinformatics.
+
+Financial Assistanships:
+
+Financial support (in the form of Institute Assistantship) is available to the regular (non-sponsored) students of MTech/MS (By Research) and PhD Programmes.
+
+The student is expected to carry out the assigned duties during the programme. The MTech/MS (By Research) students are currently entitled to a monthly assistantship of Rs.12,400/- for 8 hours of work per week. For PhD students the corresponding financial support amounts to Rs.31,000/- for the first two years, and thereafter, it is raised to Rs.35,000/- for another three years.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/pg-eligibility-criteria.htm ]
+Students may also avail financial assistantship from external funding agencies (such as UGC/CSIR/NBHM/INSPIRE/DBT/ICAR/ICMR/PMRF etc.).
+
+In addition to the above, several attractive fellowships from Industry/DAE are also available.
+
+©2022-23,
+
+=== DOAA page: /doaa/DOAA/sponsordstudents.htm  ===
+Source: https://www.iitk.ac.in/doaa/DOAA/sponsordstudents.htm
+
+Notice for Admission to
+
+2022-23-I Semester
+
+Guidelines for Admission of Sponsored Candidates for MTech/MDes/MS
+
+A candidate who is sponsored by his/her employer and who meets the additional conditions specified below may be admitted through a separate selection committee appointed specifically for the purpose.
+
+A sponsored candidate must
+have been in service of the sponsoring organization for at
+least two years at the time of admission. The sponsoring organization
+must specifically undertake to provide full salary to the
+candidate and to relieve him/her to pursue the programme for
+its full duration. A certificate to that effect from sponsoring
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/DOAA/sponsordstudents.htm ]
+organization must be provided by the candidate at the time
+of applying for admission.
+
+Fulfillment of GATE
+requirement may be waived for such candidates. However,
+the sponsored candidates seeking admission to the MTech/MDes/MS
+(Research)/PhD program who have not qualified GATE will
+be called for interview and may in addition be asked
+to take a written test.
+
+©2022-23,
+
+=== DOAA page: /doaa/guidelines-for-admission-of-foreign-students  ===
+Source: https://www.iitk.ac.in/doaa/guidelines-for-admission-of-foreign-students
+
+You are here: Home  Guidelines for Admission of Foreign Students
+
+International Students
+
+
+
+
+
+Guidelines for Admission of Foreign Students are available at the following link:
+
+
+
+
+
+Link: How to Apply >>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== DOAA page: /doaa/guidelines-for-admission-of-sponsored-candidates  ===
+Source: https://www.iitk.ac.in/doaa/guidelines-for-admission-of-sponsored-candidates
+
+You are here: Home  Guidelines for Admission of Sponsored Candidates
+
+Guidelines for Admission of Sponsored Candidates for M.Tech./M.Des./MS (Research) and Ph.D. (Engg. and Sciences) Program
+
+
+
+
+A sponsored candidate must have been in service of the sponsoring organization for at least two years at the time of admission. The sponsoring organization must specifically undertake to provide full salary to the candidate and to relieve him/her to pursue the programme for its full duration. A certificate to that effect from sponsoring organization must be provided by the candidate at the time of applying for admission.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/guidelines-for-admission-of-sponsored-candi]
+Fulfillment of GATE requirement may be waived for such candidates. However, the sponsored candidates seeking admission to the M.Tech./M.Des./MS (Research)/Ph.D program who have not qualified GATE will be called for interview and may in addition be asked to take a written test.
+
+
+
+=== DOAA page: /doaa/guidelines-for-admission-to-external-registration-programme  ===
+Source: https://www.iitk.ac.in/doaa/guidelines-for-admission-to-external-registration-programme
+
+You are here: Home  Guidelines for Admission to External Registration Programme
+
+Guidelines for Admission to External Registration Programme for M.Tech./M.Des./MS (Research) and Ph.D. in various Branches of Engineering and Earth Sciences Programme
+
+
+
+A candidate working in an R & D establishment which is equipped with the necessary research and library facilities may be considered for admission only to the M.Tech./M.Des./MS (Research) and Ph.D. in various Branches of Engineering and Earth Sciences programmes. Such a candidate must be sponsored by his/her employer and must have been in employment with the sponsoring organization for at least 2 year at the time of admission.
+
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/guidelines-for-admission-to-external-regist]
+The employer must expressly undertake to pay full salary to the candidate and relieve him/her to stay on the campus at least as long it takes to
+
+complete the required course work and pass the comprehensive examination (in case of a Ph.D. student) and
+
+get a written proposal (prepared in consultation with his/her supervisor and co-supervisor) outlining the work proposed to be done for his/her thesis.
+
+A certificate to that effect from sponsoring organization must be provided by the candidate at the time of applying for admission.
+
+
+
+
+
+=== DOAA page: /doaa/guidelines-for-admission-to-part-time-programme  ===
+Source: https://www.iitk.ac.in/doaa/guidelines-for-admission-to-part-time-programme
+
+You are here: Home  Guidelines for Admission to Part-Time Programme
+
+Guidelines for Admission to Part-Time Programme for M.Tech./M.Des./MS (Research) and Ph.D. (Engg. and Earth Sciences) Program
+
+The Institute also offers part-time postgraduate programmes leading to the M.Tech./M.Des./MS (Research)/Ph.D. degrees for professionally employed personnel such as working engineers, scientists and teachers who can, while employed, attend regular classes as per schedule of the Institute. These students will have to give an undertaking endorsed by their employers that they will be attending all classes.
+
+
+
+
+Fulfillment of GATE requirement may be waived for such candidates. This is also applicable to the part-time candidates seeking admission to the MS (Research) program, who are employees of IIT Kanpur (project or regular) with an appointment and support for at least one year from the date of admission. However, the part-time candidates seeking admission to the M.Tech./M.Des./MS (Research) program, who have not qualified GATE, will be called for interview and may in addition be asked to take a written test.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/guidelines-for-admission-to-part-time-progr]
+For an employee of IIT Kanpur (project or regular) with a valid GATE score at the time of seeking admission for part-time M.Tech./M.Des./MS (Research) program, the requirement of two years of service may be waived.
+
+
+
+
+
+=== DOAA page: /doaa/how-to-apply-sep  ===
+Source: https://www.iitk.ac.in/doaa/how-to-apply-sep
+
+You are here: Home  How to apply SEP
+
+How to apply?
+
+
+
+
+Process for registering for Student Entrepreneurship Project (SEP):
+
+Check your eligibility for SEP registration.
+
+Complete the SEP registration form proposing the activity to be undertaken as SEP.
+
+Submit the soft copy of form without any signatures to sep@iitk.ac.in by 30th June 2023 for registering for SEP during Semester I of 2023-24 academic session.
+
+IECMC would review the proposal and give feedback for revision by 10th July 2023.
+
+Revised /updated hard copy signed SEP registration forms to be submitted to DOAA office by 17th July 2023.
+
+Approval for SEP registration by IECMC to be confirmed by 24th July 2023.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/how-to-apply-sep ]
+Registration for Entrepreneurship Credits would be done by DOAA office.
+
+
+
+=== DOAA page: /doaa/pg-resources  ===
+Source: https://www.iitk.ac.in/doaa/pg-resources
+
+You are here: Home  PG Resources
+
+Conference Resources
+
+
+
+
+Contingency Grant for Full-time Registered PhD Scholars (excluding PMRF Scholars/ CSIR-UGC NET scholars / Scholars under any other government scheme)
+
+
+
+Revised Financial Support for Registered PhD Scholars/Students (excluding PMRF Scholars) for Presenting the Research Paper in National and International Conferences
+
+
+
+Application Form for Grant of Financial Support and Advance to PhD Students for presenting the paper in National/International Conferences
+
+
+
+Revised Travel Support for presenting the research paper in National Conferences by Registered Students (excluding PhD and PMRF Scholars/Students)
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pg-resources ]
+Application Form for Grant of Travel Support and Advance for Presenting the Research Paper in National Conference/International Conference (Excluding PhD and PMRF Scholars/Students)
+
+
+
+List of Documents Required for Financial Support for an International or National Conference
+
+
+
+Application form for NOC
+
+Application form for Endorsement
+
+Traveling Allowance form
+
+
+
+FAQs related to Contigency grant
+
+=== DOAA page: /doaa/pgadmission/  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Previous
+Next
+ Announcement
+The online application portal will be available from October 16, 2026 (Friday), 02:00 PM to November 03, 2026 (Tuesday), 02:00 PM
+Programmes Offered
+
+Applications are invited for admission to January 2027 semester in the following programmes:
+
+Program	Department
+MS (BY RESEARCH)	Civil Engineering (Environmental Engineering, Geotechnical Engineering)
+Computer Science and Engineering
+Electrical Engineering
+Intelligent Systems
+Mechanical Engineering
+Photonics Science and Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+MS (BY RESEARCH) in Cybersecurity	(Only for Sponsored / Part-Time / External candidate (without financial assistantship)
+PhD	Aerospace Engineering (Aerodynamics, Flight Mechanics, Propulsion, Structures)
+Biological Science & Bio-Engineering
+Civil Engineering (Environmental Engineering, Geoinformatics, Geotechnical Engineering, Hydraulics and Water Resources Engineering, Infrastructure Engineering and Management, Structural Engineering)
+Chemistry
+Computer Science and Engineering
+Design
+Economics
+Electrical Engineering
+Earth Sciences
+Humanities & Social Sciences (English, Fine Arts, Philosophy, Sociology)
+Intelligent Systems
+Kotak School of Sustainability
+Mechanical Engineering
+Materials Science & Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+Materials Science Prog.
+Mathematics
+Physics
+Photonics Science and Engineering
+Statistics and Data Science
+Sustainable Energy Engineering
+Space, Planetary and Astronomical Sciences and Engineering
+General Information
+
+Detailed information on PG programmes offered at IIT Kanpur is available at:
+
+PG Manual
+
+In-campus accommodation:
+
+In-campus accommodation may not be available for the newly admitted PG students at the time of admission/ offer acceptance. HRA, as per rules, may be provided to all such students. The students will be given an option for in-campus accommodation as and when available. Related details will be shared in due course of time.
+
+Indian Candidates:
+Reservations [EWS/SC/ST/OBC(NCL)/DAP] shall apply as per Government of India (GoI) norms.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+For Application Form, Reference Letter Form, Information Brochure, Eligibility Criteria and other relevant details, please visit:
+
+Important Links Apply Online
+
+Click the link for the concerned department to get detailed information about the department.
+Students who are in the final year of their programme (likely to finish the programme by January 04, 2027) may also apply and secure provisional admission for the session commencing in January 2027 (2026-27-II Semester).
+Financial support (Institute Assistantship/Scholarship) will be provided to non-sponsored PhD, and MS (By Research).
+Those employed in industry or a college/university/institute may apply for admission as sponsored, external or part-time candidates. The last date of accepting applications in online mode under these categories is November 03, 2026. Further information on these categories of admissions is available at: Important Links
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+Withdrawal from the Programme and Fee Refund Policy
+The deadline for withdrawal from the admission (with Rs. 2,500/- deduction) is December 13, 2026. If the withdrawal is received after December 13, 2026, the deduction will be at least 25% of the total fees paid, provided the candidate does not join the institute. Post joining the institute, the deduction for withdrawal from the admission will be as DOSA norms.
+Refund processing will be taken up after January 18, 2027. Refund may take up to 21 working days.
+
+For withdrawal requests on or before December 13, 2026, the form at https://forms.gle/EYigWYUBmjiuNYVi6 needs to be filled.
+
+For withdrawal requests after December 13, 2026, the form at https://forms.gle/1wyNy3QZ9m3RNNUy5 needs to be filled.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+It is the sole responsibility of the candidate to submit the withdrawal request through the appropriate link, depending on the date of submission, along with the below mentioned documents
+Signed application for withdrawal consisting of all details
+Fee payment receipt
+Bank details (Name, Brach, IFSC code, A/C no, address)
+Photocopy of front page of passbook
+Foreign Nationals:
+
+For assistance related to foreign national applications (Study in India / ICCR / ASEAN etc) kindly get in touch with Office of International relations. (https://www.iitk.ac.in/oir/contact). The last date of accepting online applications under these categories is November 03, 2026. Further information on these categories of admissions is available at: Important Links
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+Details on the admission for candidates in Foreign Nationals category can be found at: Click Here
+
+How To Apply
+The online application portal will be available from October 16, 2026 (Friday), 02:00 PM to November 03, 2026 (Tuesday), 02:00 PM, Go to "Important Links". .
+Indian as well as Foreign Nationals can apply only through online mode of application. The deadline for application in online mode is November 03, 2026 (Tuesday), 02:00 PM.
+MS (By Research) / PhD Programme: Applicants are requested to register and submit their applications through link given on "apply online" page.
+The application fee is Rs. 500 for General, EWS, OBC and OBC-NCL candidates and Rs. 250 for SC/ST and all DAP candidates. The application fee is waived for candidates in the 'Foreign National' category.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/ ]
+Application Fees is Non-Refundable
+A separate application form is to be filled for each programme or department.
+© Copyright 2026 IIT Kanpur
+Developed & Maintained by Institute Web Team
+
+=== DOAA page: /doaa/pgadmission/apply-online.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/apply-online.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Apply Online
+Programme	Candidate Type	Link
+MS (By Research) / PhD	Anyone eligible	Click Here (Pingala Link)
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/contact.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/contact.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Departments/ Interdisciplinary Programmes Information & Contact Person Details
+Departments/ Interdisciplinary Programmes	Contact Person	Phone No.	Email-id
+Aerospace Engineering	DPGC Convener
+Office Staff	0512-259-2182
+0512-259-6704	dpgcae@iitk.ac.in
+office_ae@iitk.ac.in
+Biological Sciences & Bioengineering	DPGC Convener
+Office Staff	0512-259-2142
+0512-259-4011/4010	dpgc_bsbe@iitk.ac.in
+office_bsbe@iitk.ac.in
+Chemical Engineering	DPGC Convener
+Office Staff	0512-259-2375
+0512-259-7629	dpgc_che@iitk.ac.in
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/contact.php ]
+office_che@iitk.ac.in
+Chemistry	DPGC Convener
+Office Staff	0512-259-6037
+0512-259-7637	dpgc_chm@iitk.ac.in
+office_chm@iitk.ac.in
+admissions_chm@iitk.ac.in
+Civil Engineering	DPGC Convener
+Office Staff	0512-259-2144
+0512-259-7631	dpgc_ce@iitk.ac.in
+dac_ce@iitk.ac.in
+office_ce@iitk.ac.in
+pace@iitk.ac.in
+Cognitive Science	DPGC Convener
+Office Staff	0512-259-2433
+0512-259-4007	dpgc_cgs@iitk.ac.in
+office_cgs@iitk.ac.in
+Computer Science and Engineering	DPGC Convener
+Office Staff	0512-259-2004
+0512-259-7590	dpgc@cse.iitk.ac.in
+office_cse@iitk.ac.in
+admissions@cse.iitk.ac.in
+Design	DPGC Convener
+Office Staff	0512-259-2156
+0512-259-7509	dpgc_des@iitk.ac.in
+office_des@iitk.ac.in
+Earth Sciences	DPGC Convener
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/contact.php ]
+Office Staff	0512-259-2194
+0512-259-6468	dpgc_es@iitk.ac.in
+office_es@iitk.ac.in
+Economic Sciences	DPGC Convener
+Office Staff	0512-259-2332
+0512-259-7870	dpgc_ecos@iitk.ac.in
+office_ecos@iitk.ac.in
+Electrical Engineering	DPGC Convener
+Office Staff	0512-259-2148
+0512-259-6670	dpgc_ee@iitk.ac.in
+office_ee@iitk.ac.in
+admissionee@iitk.ac.in
+Humanities and Social Sciences	DPGC Convener
+Office Staff	0512-259-2324
+0512-259-7632	dpgc_hss@iitk.ac.in
+office_hss@iitk.ac.in
+Intelligent Systems	DPGC Convener
+Office Staff	0512- 259-7337
+0512-259-6336	dpgc_is@iitk.ac.in
+office_is@iitk.ac.in
+Kotak School of Sustainability	DPGC Convener
+Office Staff	0512-259-2114
+0512-259-7396	dpgc_kss@iitk.ac.in
+office_kss@iitk.ac.in
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/contact.php ]
+Management Sciences	DPGC Convener
+Office Staff	0512-259-2289
+0512-259-7376	dpgc_doms@iitk.ac.in
+office_doms@iitk.ac.in
+Materials Science & Engineering	DPGC Convener
+Office Staff	0512-259-7427
+0512-259-7640/6450	dpgc_mse@iitk.ac.in
+office_mse@iitk.ac.in
+Materials Science Programme	DPGC Convener
+Office Staff	0512-259-7697
+0512-259-7740	dpgc_msp@iitk.ac.in
+office_msp@iitk.ac.in
+Mechanical Engineering	DPGC Convener
+Office Staff	0512-259-7196
+0512-259-7627	dpgc_me@iitk.ac.in
+office_me@iitk.ac.in
+Mathematics	DPGC Convener
+Office Staff	0512-259-4769
+0512-259-7456	dpgc_math@iitk.ac.in
+office_math@iitk.ac.in
+admission_math@iitk.ac.in
+Photonics Science and Engineering	DPGC Convener
+Office Staff	0512-259-2406
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/contact.php ]
+0512-259-7341	dpgc_pse@iitk.ac.in
+office_pse@iitk.ac.in
+Physics	DPGC Convener
+Office Staff	0512-259-4768
+0512-259-6998	dpgc_phy@iitk.ac.in
+office_phy@iitk.ac.in
+Space, Planetary & Astronomical Sciences & Engineering	DPGC Convener
+Office Staff	0512-259-7218
+0512-259-2287	dpgc_ssa@iitk.ac.in
+office_spase@iitk.ac.in
+Sustainable Energy Engineering	DPGC Convener
+Office Staff	0512-259-2305
+0512-259-2230	dpgc_see@iitk.ac.in
+office_see@iitk.ac.in
+Statistics and Data Science	DPGC Convener
+Office Staff	0512-259-2254
+0512-259-6778	dpgc_sds@iitk.ac.in
+office_sds@iitk.ac.in
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/eligibility-requirement.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/eligibility-requirement.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Post-Graduate Admission
+
+List of MOE Funded Technical Institutes (MOEFTIs) New
+
+GATE Paper Code Eligibility for MTech programmes in all departments New
+
+GATE Paper Code Eligibility for PhD programmes in all departments New
+
+GATE Paper Code Eligibility for MSR programmes in all departments New
+
+GATE Paper Code Eligibility for MDes programme New
+
+Eligibility Requirements:
+The eligibility conditions given below are the absolute minimum. Departments may prescribe any requirements over and above.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+The specified minimum marks/CPI (Cumulative Performance Index), referred to in subsequent sections, implies a minimum of 55 percent marks /5.5 (on a 10 point scale) as long as it is not less than the minimum pass marks/CPI; otherwise, the specified minimum marks/CPI implies the minimum pass marks/CPI.
+Admission to the Ph.D. programmes will be based on written tests and/or interviews of the candidates shortlisted by the DPGC of the department concerned.
+The candidates with bachelor’s degree in Engineering/Design/Architecture or 4-year bachelor's degree in Science must have a valid GATE / CEED / CAT / GMAT / COGJET score or must have qualified JRF/NET, except in the case of the degree from the MOE Funded Technical Institutes (MOEFTIs).
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+The candidates with master’s degree in Science/Arts/Commerce must either have a valid GATE/CEED/ CAT/GMAT/COGJET score or must have qualified JRF/NET, except in the case of the degree from IITs/ IISERs/NITs with a minimum CPI of 8.0.
+Eligibility Criteria:
+Programme	Offered by the Department/
+Interdisciplinary Programme (IDP)	Eligibility Criteria
+PhD in
+Engineering
+Aerospace Engineering
+Biological Sciences & Bio-Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Management Sciences
+Materials Science & Engineering
+Intelligent Systems
+Interdisciplinary Programme on Materials Science
+Kotak School of Sustainability
+Mechanical Engineering
+Photonics Science and Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+Sustainable Energy Engineering
+Space, Planetary & Astronomical Sciences & Engineering
+
+The applicant must have a master's degree in Engineering/ Pharmacy/ Medicine/ Veterinary Science with marks/CPI not below the specified minimum.
+
+Those applicants may also be considered who have a bachelor's degree in Engineering/Pharmacy/ Medicine/Veterinary Science or a 4-year bachelor's degree in Science with a minimum of 75 percent marks/7.5 CPI or a master’s degree in Science/Computer Applications or an allied area while satisfying each of the following criteria: (a) a minimum of 65 percent marks/6.5 CPI in the master’s degree; (b) first division in bachelor’s degree; and (c) JRF/GATE AIR within the top 5% of the number of candidates that appeared for the relevant paper (if the master's degree is not from IITs/IISERs/NITs with a minimum CPI of 8.0).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+PhD in
+Sciences
+Chemistry
+Earth Sciences
+Economic Sciences
+Mathematics
+Physics
+Statistics and Data Science
+Biological Sciences & Bio-Engineering
+Sustainable Energy Engineering
+
+The applicant must have a master's degree in the relevant subject, Science, or allied area or a bachelor's degree in Engineering or a 4-year bachelor's degree in Science with marks/CPI not below the specified minimum.
+
+PhD in
+Cognitive
+Science
+Cognitive Science
+
+The applicant must have a master's degree in the relevant subject, Arts, Engineering, Medical, or Science with minimum 60 percent marks/6.0 CPI.
+
+Those applicants may also be considered who have a bachelor's degree in Engineering/Pharmacy/ Medicine/Veterinary Science or a 4-year bachelor's degree in Science with a minimum of 75 percent marks/7.5 CPI.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+PhD in
+Humanities
+and Social Sciences
+(HSS)
+Humanities and Social Sciences [English (Literature, Linguistics & ELT), Fine Arts, Philosophy, & Sociology]
+
+The applicant must have a master's degree in the relevant subject or a master's degree in Engineering with marks/CPI not below the specified minimum.
+
+Those applicants may also be considered who have a bachelor's degree in Engineering or a 4-year bachelor's degree in Science with a minimum of 75 percent marks/7.5 CPI or a master's degree in Science/Fine Arts/Commerce or an allied area of HSS while satisfying each of the following criteria: (a) a minimum of 55 percent marks/5.5 CPI in the master’s degree; (b) first division in bachelor’s degree; and (c) JRF/NET in the relevant discipline or GATE AIR within the top 5% of the number of candidates that appeared for the Humanities and Social Sciences (XH) paper (if the master's degree is not from IITs/IISERs/NITs with a minimum CPI of 8.0).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+PhD in
+Management
+Management Sciences (all areas of Management)
+
+The applicant must have a master’s degree in Management or a master's degree in Engineering with marks / CPI not below the specified minimum.
+
+Those applicants may also be considered who have a bachelor's degree in Engineering or a 4-year bachelor's degree in Science with a minimum of 75 percent marks/7.5 CPI or a master’s degree in Science/Arts/ Commerce while satisfying each of the following criteria: (a) a minimum of 65 percent marks/6.5 CPI in the master’s degree; (b) first division in bachelor’s degree; and (c) JRF/NET/95 percentile or higher in CAT or GMAT/GATE AIR within the top 5% of the number of candidates that appeared for the relevant paper, or qualifying in any other national level examination (if the master's degree is not from IITs/IISERs/NITs with a minimum CPI of 8.0).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+PhD in
+Design
+Design
+
+The applicant must have a master's degree in Engineering/Design with marks/CPI not below the specified minimum.
+
+Those applicants may also be considered who have a 4-year bachelor's degree with a minimum of 75 percent marks/7.5 CPI or a master’s degree in Science/Visual Arts/Architecture/Arts while satisfying each of the following criteria: (a) a minimum of 65 percent marks/6.5 CPI in the master’s degree; (b) first division in bachelor’s degree; and (c) JRF/CEED or GATE AIR within the top 5% of the number of candidates that appeared for the relevant paper (if the master's degree is not from IITs/IISERs/NITs with a minimum CPI of 8.0).
+
+Master of
+Technology
+(MTech)
+Aerospace Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+Biological Sciences & Bio-Engineering
+Biomedical Engineering
+Cognitive Systems
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Earth Sciences
+Electrical Engineering
+Kotak School of Sustainability
+Management Sciences
+Materials Science & Engineering
+Intelligent Systems
+Mechanical Engineering
+Photonics Science and Engineering
+Sustainable Energy Engineering
+Unmanned Aerial Systems Engineering
+
+(i) The applicant must have a bachelor's degree in Engineering/ Pharmacy/ Medicine/ Veterinary Science or a 4-year bachelor's degree in Science or a master's degree in Science with marks/CPI not below the specified minimum.
+
+(ii) A valid GATE score is required for admission to the MTech programme in the case of regular (non-sponsored) candidates. The requirement of GATE score is waived off for the candidates with the B Tech/BS (Four Year) degree from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+Master of
+Technology
+(MTech) in
+Cybersecurity (only for sponsored/ part time/ external)
+Computer Science and Engineering
+
+(ii) A valid GATE score is required for admission to the MTech programme in the case of regular (non-sponsored) candidates. The requirement of GATE score is waived off for the candidates with the B Tech/BS (Four Year) degree from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year). Fulfilment of GATE requirement may be waived for sponsored/ part time/ external candidates.
+
+Master of
+Design
+(MDes)
+
+Design
+
+(i) The applicant must have a bachelor’s degree in Engineering or a 4-year bachelor's degree in Science/ Design/ Architecture/ Planning/ Pharmacy/ Fine Arts/ Visual Arts or a master's degree in Science/Arts with marks/CPI not below the specified minimum.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+(ii) A valid GATE/CEED score is required for admission to the M Des programme in the case of regular (non-sponsored) candidates. The requirement of GATE score is waived off for the candidates with B Tech graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech.
+
+MS
+(By Research)
+Aerospace Engineering
+Civil Engineering
+Chemical Engineering
+Computer Science and Engineering
+Cognitive Science
+Electrical Engineering
+Intelligent Systems
+Mechanical Engineering
+Photonics Science & Engineering
+Sustainable Energy Engineering
+
+(i) The applicant must have a bachelor's degree in Engineering/ Medicine or a 4-year bachelor's degree in Science or a master's degree in Science/ Arts with marks/CPI not below the specified minimum. Applicants with 3-year bachelor's degree in Science/ Arts with a minimum of 75% marks/ 7.5 CPI may also be considered.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+(ii) A valid GATE/ CSIR/ JRF/ NET/ COGJET score is required for admission to the MS (Research) programme in the case of regular candidates (non-sponsored/non-project candidates). The requirement of GATE/ CSIR/ JRF/ NET/ COGJET score is waived for the B Tech/BS (Four Years) graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year).
+
+MS
+(By Research) in
+Computer Science and Engineering
+
+(ii) A valid GATE/ CSIR/ JRF/ NET/ COGJET score is required for admission to the MS (Research) programme in the case of regular candidates (non-sponsored/non-project candidates). The requirement of GATE/ CSIR/ JRF/ NET/ COGJET score is waived for the B Tech/BS (Four Years) graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year). Fulfilment of GATE requirement may be waived for sponsored/ part time/ external candidates.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+Financial Assistanships:
+
+Financial support (in the form of Institute Assistantship) is available to the regular (non-sponsored/ non part time/ non external) students of MTech, MS (By Research), MDes and PhD Programmes.
+
+The student is expected to carry out the assigned duties during the programme. MTech, MDes and MS (By Research) students are currently entitled to a monthly assistantship of Rs. 12400/- for 8 hours of work per week. For PhD students the corresponding financial support amounts to Rs. 37000/- for the first two years, and thereafter, it is raised to Rs. 42000/- for another three years.
+
+Students may also avail financial assistantship from external funding agencies (such as UGC/CSIR/NBHM/DBT/ICAR/ICMR/PMRF etc.).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/eligibility-requirement.php ]
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/externalstudents.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/externalstudents.php
+
+PG Admissions, IIT Kanpur
+
+Guidelines for Admission to External Registration Programme for M.Tech./M.Des./M.S. by Research and Ph.D.
+
+A candidate working in an R & D establishment which is equipped with the necessary research and library facilities may be considered for admission only to the M.Tech. /M.Des. /M.S. by Research and Ph.D. programmes. Such a candidate must be sponsored by his/her employer and must have been in employment with the sponsoring organization for at least 2 year at the time of admission. The employer must expressly undertake to pay full salary to the candidate and relieve him/her to stay on the campus to enable the candidate to complete the requirements specified in Section 7.1 , footnote 2 .
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/externalstudents.php ]
+For fellows and employees of research labs, centers of excellence, and other organizations such as DRDO, CSIR, DAE, DoS, DIT, DST, DBT, ICMR, ICAR , NGRI, GSI, Wadia Institute etc., fully funded by the government (central/state), the minimum employment requirement will be only one year. The reduced employment requirement will also be applicable to employees of public sector unit (PSU) and central and state universities fully funded by the government.
+
+On the recommendation of the DPGC, the SPGC will approve an organization for carrying out M.Tech./ M.Des./M.S. by Research/ Ph.D. research in a specified area. An application for admission from a candidate working in the approved organization will be considered only if he/she wishes to work in the specified area.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/externalstudents.php ]
+Back
+
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/financial-assistanship.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/financial-assistanship.php
+
+PG Admissions, IIT Kanpur
+
+Institute Assistantship
+
+The Institute may provide to postgraduate students financial support in the form of teaching or research assistantships (referred to as Institute Assistantship). Assistantships are awarded on a semester to semester basis for a period of up to 22 months for MTech/MDes/MS (By Research) students and up to five years for PhD students. The stipend for the assistantship is paid at the approved rates. A student is expected to devote up to eight hours per week towards job(s) assigned to him/her. The renewal of assistantship is contingent on the student's satisfactory performance in the academic programme and in the discharge of assistantship duties.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/financial-assistanship.php ]
+Financial Assistance for MTech/MDes/MS (by Research) Programmes: A valid GATE score or JRF is required for awarding Institute Assistantship to MTech/MDes/MS (By Research) students. This requirement is waived for those with MBBS. degree and for those who are B Tech /BS (Four Year) graduates from IITs with a minimum CPI of 8.0.
+
+Financial Assistance for PhD (Engg.) Programmes: A valid GATE score is required for the candidates with bachelor’s degree in engineering/design/architecture. The requirement of GATE is waived for candidates with a bachelor’s degree in engineering from the centrally funded technical institutes (CFTIs) with a percentage of 75% or more or a CPI of 7.5 or more. The candidates with master's degree in science must either have a valid GATE score or must have qualified for/in JRF/NET.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/financial-assistanship.php ]
+Financial Assistance for PhD (Sciences) Programmes: The candidate either must have a valid GATE score or must have qualified for JRF. The requirement of GATE/JRF is waived for candidates having a master's degree in science / arts from IITs/IISERs/NITs with a minimum CPI of 8.0. In addition to GATE/JRF, a valid JEST score is also an eligibility criterion for financial assistantship in Physics.
+
+Financial Assistance for PhD (HSS) Programmes: The candidate either must have a valid GATE score or must have qualified for/in JRF/NET. The requirement of GATE/JRF/NET is waived for candidates having a master's degree in science/arts from IITs/IISERs/NITs with a minimum CPI of 8.0.
+
+For M.S. by Research students who are project employees of IIT Kanpur, there is a minimum commitment of support from the project for one year. On the completion of one year, it is expected that such candidates will continue to be supported by PI (possibly through other projects, if the current project is over), or by the department (through DPA or other such projects). In case, there is no support available from PI/Department, no financial support will/can be provided to the student, from the Institute funds at the level of M.Tech. assistantship even if s/he has a valid GATE score, as the students are admitted under sponsored category.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/financial-assistanship.php ]
+Some financial support in the form of research assistantships may also be available from sponsored research projects. Additional assistantships in the form of scholarships, fellowships, etc. may be available through other organizations such as the Council of Scientific and Industrial Research (CSIR), Department of Atomic Energy (DAE), etc.
+
+Back
+
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/foreign-students.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/foreign-students.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Guidelines for Candidates in the Foreign National category for admission in MTech/MDes/MS (Research) and PhD Programmes
+Candidates in the Foreign National (FN) category are required to apply online through the link given on "apply online" page.
+It is mandatory for all foreign students intending to pursue higher education in India to complete their registration on the Study in India (SII) portal. This registration is also linked to issuance of their study visa.
+https://www.studyinindia.gov.in/admission/registrations
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/foreign-students.php ]
+Application fee is waived for the FN category candidates. FN candidates are requested to ignore the payment of application fees on the Pingala Portal after submission of their application.
+Requirement of GATE qualification is waived for candidates in the Foreign National (FN) category.
+Final selection of the shortlisted FN candidates is based on interviews through video conferencing.
+Candidates from ASEAN countries may apply for fellowship through the portal http://asean.iitd.ac.in.
+For scholarship or fees concession, if applicable, please refer the order at https://surl.li/fjpdiq.
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/important-links.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/important-links.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Important Links
+Apply Online New
+
+Contact the Departments
+
+Format of Undertaking
+Eligibility Criteria
+
+Financial Assistantship
+
+Information Brochure
+(For Specialisation Details)
+FAQs New
+
+The certificate for SC/ST/OBC(NCL)/DAP/EWS must be submitted in the specified proforma. The proforma can be downloaded from the links :
+For Government of India Office Memoranda on reservation for EWS, click  here. New
+Note:
+
+An OBC-NCL certificate will be valid if issued on or after April 1, 2025. However, your admission offer, if any, will be provisional, and subject to submission of OBC-NCL certificate issued after April 1, 2026, at the time of registration on January 04, 2027.
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/important-links.php ]
+A EWS Certificate will be considered valid for applying if issued on or after April 1, 2025. However, your admission offer, if any, will be provisional and subject to submission of EWS certificate issued on or after April 01, 2026, at the time of registration on January 04, 2027.
+
+SC/ST
+OBC (Non Creamy Layer)
+DAP
+EWS
+
+Information for Part-Time Students	Part-Time
+Information for External Students	External
+Information for Sponsored Students	Sponsored
+Information for Foreign National Students	Foreign National New
+No Objection Certificate (NOC) for External / Sponsored / Part Time Applicants must be submitted in the specified proforma.	NOC
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/index.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/index.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Previous
+Next
+ Announcement
+Programmes Offered
+
+Program	Department
+Computer Science and Engineering
+Electrical Engineering
+Intelligent Systems
+Mechanical Engineering
+Photonics Science and Engineering
+Biological Science & Bio-Engineering
+Chemistry
+Computer Science and Engineering
+Design
+Economics
+Electrical Engineering
+Earth Sciences
+Intelligent Systems
+Kotak School of Sustainability
+Mechanical Engineering
+Materials Science & Engineering
+Materials Science Prog.
+Mathematics
+Physics
+Photonics Science and Engineering
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/index.php ]
+Statistics and Data Science
+Sustainable Energy Engineering
+General Information
+
+PG Manual
+
+In-campus accommodation:
+
+Indian Candidates:
+
+Important Links Apply Online
+
+Fee payment receipt
+Photocopy of front page of passbook
+Foreign Nationals:
+
+How To Apply
+Application Fees is Non-Refundable
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/information-brochure.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/information-brochure.php
+
+PG Admissions, IIT Kanpur
+
+Programmes Offered
+
+General information
+
+How To Apply
+
+Information Brochure
+
+Eligibility Requirement
+
+Important Links
+
+PG Manual
+Information Brochure
+Departments/ Interdisciplinary Programmes	Links
+Aerospace Engineering	PDF
+Biological Sciences & Bioengineering	PDF
+Chemical Engineering	PDF
+Chemistry	PDF
+Civil Engineering	PDF
+
+Cognitive Science	PDF
+Computer Science and Engineering	PDF
+Design	PDF
+Earth Sciences	PDF
+Economic Sciences	PDF
+Electrical Engineering	PDF
+Humanities and Social Sciences	PDF
+Kotak School of Sustainability	PDF
+Management Sciences	PDF
+Materials Science & Engineering	PDF
+Materials Science Programme	PDF
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/information-brochure.php ]
+Mechanical Engineering	PDF
+Mathematics and Statistics	PDF
+Photonics Science and Engineering	PDF
+Physics	PDF
+Sustainable Energy Engineering	PDF
+Space, Planetary & Astronomical Sciences & Engineering	PDF
+Back
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/parttimestudents.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/parttimestudents.php
+
+PG Admissions, IIT Kanpur
+
+Guidelines for Admission to Part-Time Programme for MTech/MDes/MS (Research) and PhD (Engg. and Sciences) Programme
+
+The Institute also offers part-time postgraduate programmes leading to the MTech/MDes/MS (Research)/PhD degrees for professionally employed personnel such as working engineers, scientists and teachers who can, while employed, attend regular classes as per schedule of the Institute. The employer must provide undertaking to relieve the candidate to finish required course credits (and pass comprehensive and state-of-the-art for PhD) of respective program as per the institute's schedule, as applicable. The course instructors will have to maintain the attendance record of all part-time students in their courses.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/parttimestudents.php ]
+The applicant must be an employee of a recognized organization with at least two years of service at the time of admission and be engaged in professional work in the area to which admission is sought. An application for the part-time studies forwarded by the employer should be sent to the Convener, DPGC of the department concerned. For employees of IIT Kanpur (project or regular) seeking admission to the M.S. by Research programme as a part-time candidate, the two-year service requirement may be relaxed by one year.
+
+Fulfilment of GATE requirement may be waived for such candidates. This is also applicable to the part-time candidates seeking admission to the MS (Research) programme, who are employees of IIT Kanpur (project or regular) with an appointment and support for at least one year from the date of admission. However, the part-time candidates seeking admission to the MTech/MDes/MS (Research) programme, who have not qualified GATE, will be called for interview and may in addition be asked to take a written test.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/parttimestudents.php ]
+For an employee of IIT Kanpur (project or regular) with a valid GATE / CEED/CAT/GMAT/JRF (NET in the case of Ph.D. programmes in HSS) score at the time of seeking admission for part-time M.Tech./ M.Des /M.S. by Research/ Ph.D program, the requirement of two year of service may be waived.
+
+Back
+
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/pgadmission/sponsordstudents.php  ===
+Source: https://www.iitk.ac.in/doaa/pgadmission/sponsordstudents.php
+
+PG Admissions, IIT Kanpur
+
+Guidelines for Admission of Sponsored Candidates for MTech/MDes/MS (Research) and PhD (Engg. and Sciences) Programme
+
+A sponsored candidate must have been in service of the sponsoring organization for at least two years at the time of admission. The sponsoring organization must specifically undertake to provide full salary to the candidate and to relieve him/her to pursue the programme for its full duration. For project employees of IIT Kanpur seeking admission to the M.S. by Research programme, the candidate should have been working in a project at IIT Kanpur for at least one year at the time of admission instead of the two years requirement mentioned above.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pgadmission/sponsordstudents.php ]
+Fulfilment of GATE requirement may be waived for such candidates. However, the sponsored candidates seeking admission to the MTech/MDes/MS (Research)/PhD programme who have not qualified GATE will be called for interview and may in addition be asked to take a written test.
+
+Back
+
+© Copyright 2026 IIT Kanpur
+
+=== DOAA page: /doaa/ph-d-admissions-walk-in-interview  ===
+Source: https://www.iitk.ac.in/doaa/ph-d-admissions-walk-in-interview
+
+You are here: Home  Ph.D Admissions Walk-in Interview
+
+Ph.D Admissions: Walk-in Interviews
+
+For admission to the Ph.D programs, interested candidates with good academic record can send their applications to Convener, DPGC (Departmental Post Graduate Committee) of the concerened department in prescribed form (given below) any time of the year.
+
+
+
+Form:
+
+ Application Form for Walk-in Interview                           download
+
+ Reference Letter for Walk-in Interview                           download
+
+
+
+=== DOAA page: /doaa/pmrf/  ===
+Source: https://www.iitk.ac.in/doaa/pmrf/
+
+PMRF IIT KANPUR
+About
+Research Grant
+List of PMRF Fellows
+Latest News
+Contact
+Prime Minister's Research Fellows
+Indian Institute of Technology Kanpur
+ABOUT US
+
+PMRF scheme offers a highly prestigious fellowship for the PhD students with the intention to improve the quality of research in higher educational institutions. The fellowship is very competitive, and the selection process is extremely rigorous. PhD students of IIT Kanpur can apply for PMRF fellowship through their departments. The candidates are nominated by the Departments. A national level committee scrutinizes the nominations received in each subject area and makes the final selection. Calls for PMRF Fellowship are sent out by the Departments, normally at the beginning of the semester. For more details see here.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pmrf/ ]
+RESEARCH GRANT
+Forms for Cycle 1-7 Fellows
+ Office Order for Ticketing
+ National Travel support form
+ International Travel support form
+ PMRF NonGeM Purchase Indenter Form
+ PMRF GeM Purchase Indenter Form
+ Office order for Utilizing PMRF Research Grant
+ PMRF-Contingency Form
+ PMRF-Contingency Form-Direct Payment
+Forms for Cycle 8-11 Fellows
+ Office Order for Ticketing
+ National Travel support form
+ International Travel support form
+ Travelling Allowance Form
+ PMRF NonGeM Purchase Indenter Form
+ PMRF GeM Purchase Indenter Form
+ PMRF-Direct Payment and Reimbursement Form
+ PMRF-Purchase Committee Approval Form
+ PMRF-Purchase Committee Certificate
+ PMRF-IMPORT Purchase Proposal
+LIST OF PMRF FELLOWS AT IIT KANPUR
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pmrf/ ]
+Aerospace Engineering
+Biological Sciences and BioEngineering
+Chemical Engineering
+Chemistry
+Civil Engineering
+Cognitive Science
+Computer Science and Engineering
+Design
+Earth Sciences
+Electrical Engineering
+Management Sciences
+Materials Science & Engineering
+Materials Science Programme
+Mathematics & Statistics
+Mechanical Engineering
+Physics
+SPASE - Space, Planetary, Astronomical Sciences & Engineering
+Sustainable Energy Engineering
+CONTACT
+Location:
+
+Dean, Academic Affairs , Indian Institute of Technology Kanpur, 208016
+
+Email:
+
+pmrf@iitk.ac.in
+
+Call:
+
+####
+
+DOAA Website:
+
+https://www.iitk.ac.in/doaa/
+
+Copyright © 2022: IIT Kanpur
+Developed and Maintained By : Institute Web Team
+
+=== DOAA page: /doaa/pmrf/index.php  ===
+Source: https://www.iitk.ac.in/doaa/pmrf/index.php
+
+PMRF IIT KANPUR
+About
+Research Grant
+List of PMRF Fellows
+Latest News
+Contact
+Prime Minister's Research Fellows
+Indian Institute of Technology Kanpur
+ABOUT US
+
+RESEARCH GRANT
+Forms for Cycle 1-7 Fellows
+ Office Order for Ticketing
+ National Travel support form
+ International Travel support form
+ PMRF NonGeM Purchase Indenter Form
+ PMRF GeM Purchase Indenter Form
+ PMRF-Contingency Form
+ PMRF-Contingency Form-Direct Payment
+Forms for Cycle 8-11 Fellows
+ Office Order for Ticketing
+ National Travel support form
+ International Travel support form
+ Travelling Allowance Form
+ PMRF NonGeM Purchase Indenter Form
+ PMRF GeM Purchase Indenter Form
+ PMRF-Purchase Committee Approval Form
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/pmrf/index.php ]
+ PMRF-Purchase Committee Certificate
+ PMRF-IMPORT Purchase Proposal
+LIST OF PMRF FELLOWS AT IIT KANPUR
+Aerospace Engineering
+Biological Sciences and BioEngineering
+Chemical Engineering
+Chemistry
+Civil Engineering
+Cognitive Science
+Computer Science and Engineering
+Design
+Earth Sciences
+Electrical Engineering
+Management Sciences
+Materials Science & Engineering
+Materials Science Programme
+Mathematics & Statistics
+Mechanical Engineering
+Physics
+Sustainable Energy Engineering
+CONTACT
+Location:
+
+Email:
+
+pmrf@iitk.ac.in
+
+Call:
+
+####
+
+DOAA Website:
+
+https://www.iitk.ac.in/doaa/
+
+Copyright © 2022: IIT Kanpur
+
+=== DOAA page: /doaa/pmrf/latest-news.php  ===
+Source: https://www.iitk.ac.in/doaa/pmrf/latest-news.php
+
+PMRF IIT KANPUR
+About
+Research Grant
+List of PMRF Fellows
+Latest News
+Contact
+Latest News
+Latest News
+List of Newly Selected PMRF Fellows (Cycle 11)
+List Of Newly Selected PMRF Fellows (Cycle 10: Dec-22 Cycle)
+List Of Newly Selected PMRF Fellows (Cycle 9: July-22 Cycle)
+List Of Newly Selected PMRF Fellows (Dec-21 Cycle)
+Copyright © 2022: IIT Kanpur
+
+=== DOAA page: /doaa/post-graduate-admission  ===
+Source: https://www.iitk.ac.in/doaa/post-graduate-admission
+
+You are here: Home  Post-Graduate Admission
+
+Post-Graduate Admission
+ Eligibility Requirements:
+
+a) The eligibility conditions given below are the absolute minimum. Departments may stipulate other requirements over and above these.
+b) The specified minimum marks/CPI (Cumulative Performance Index), referred to in subsequent sections, implies a minimum of 55 percent marks /5.5 (on a 10 point scale) as long as it is not less than the minimum pass marks/CPI; otherwise, the specified minimum marks/CPI implies the minimum pass marks/CPI.
+c) Candidates belonging to the Scheduled Castes/Scheduled Tribes who have passed the basic qualifying degree are eligible to apply irrespective of the marks/CPI and will be considered for admission.
+
+
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Eligibility Criteria:
+
+
+
+Program
+
+Offered by the department
+
+Qualification Criteria
+
+Ph.D. in Engineering
+
+Aerospace Engineering, Biological Sciences and Bioengineering, Chemical Engineering, Civil Engineering, Computer Science & Engineering, Electrical Engineering, Management Sciences, Materials Science and Engineering, Materials Science (Interdisciplinary Programme), Mechanical Engineering, Nuclear Engineering and Technology, Photonics Science & Engineering (Interdisciplinary Programme), Sustainable Energy Engineering, Space Science & Astronomy
+
+(i) A master's degree in engineering with marks/CPI not below the specified minimum.
+
+or
+
+a bachelor's degree in engineering or science (4-year programme) with a minimum of 75 percent marks/7.5 CPI and a valid GATE score (the requirement of GATE score is waived for candidates with bachelor's degree in engineering from the centrally funded technical institutes (CFTIs)).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+or
+
+a master's degree in science or an allied area while satisfying each of the following three criteria:
+(a) a minimum of 65 percent marks/6.5 CPI in the master's degree,
+
+For admission into Ph.D. in Biological Sciences and Bioengineering, applicants having master's degree in pharmacy/medicine/veterinary science with marks/CPI not below the specified minimum, or bachelor's degree in pharmacy/medicine/veterinary science with a minimum of 75 percent marks/7.5 CPI, may also be considered.
+
+For admission into Ph.D. in Computer Science and Engineering, applicants with master in computer applications while satisfying each of the above criteria in (a), (b) and (c) may also be considered.
+
+(ii) A valid GATE score is required for the candidates with a bachelor’s degree in Engineering/Design/Architecture, except in the case of candidates with bachelor’s degree in Engineering from the centrally funded Technical Institutes (CFTIs). The candidates with master’s degree in science must either have a valid GATE score or must have qualified for/in JRF/NET.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Ph.D. in Sciences
+
+Chemistry, Earth Sciences, Economic Sciences, Mathematics, Physics, Statistics
+
+(i) A master's degree in the relevant subject or a bachelor's degree in engineering or science (4-year programme) with marks/CPI not below the specified minimum.
+
+(ii) The candidate either must have a valid GATE score or must have qualified JRF. In addition to GATE/JRF, a valid JEST score is also an eligibility criterion for applying to the Ph.D programme in Physics. The requirement of GATE/JRF/JEST is waived for candidates having a master's degree in science from IITs with a minimum CPI of 8.0.
+
+(iii) For Economic Sciences:
+(a) The candidate must have a master's degree in economics or a bachelor's degree in engineering or sciences (4 year programme) or a master's degree in sciences or in an allied field of economics with marks/CPI not below the specified minimum.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+(b) The candidate must either have a valid GATE score or must have qualified JRF/NET. The requirement of GATE/JRF/NET is waived for candidates having a master's degree in sciences/arts from IITs with a minimum CPI of 8.0.
+
+Ph.D. in Cognitive Science
+
+Cognitive Science
+
+Applicants must have a MA/M.Sc/M.Phil/MS/equivalent degree (Cog. Sc./ Psychology/ Linguistics/Philosophy/ Anthropology/ Phy/ Chem/ Math/ Stat/ Biosciences/ related disciplines) with a minimum of 60%/6.0 marks/CPI in the qualifying degree. Applicants should have a valid score/qualification in GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants from IITs with a minimum CPI of 8.0 are exempted from the GATE/ CSIR/ JRF/ NET requirement. Applicants with M. Sc. in Cognitive Science are also exempted from the GATE/CSIR/JRF/NET requirement.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+or
+M.Tech/ME/MD (any branch) with a minimum of 60%/6.0 marks/CPI in the qualifying degree.
+
+or
+B.Tech/BE (any branch), BS 4-year program (Physics/ Chem/ Math/ Stat/Biosciences/ related sciences), MBBS. Applicant must have a minimum of 75%/7.5 marks/CPI in the qualifying degree. Should have a valid score/qualification in GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants from CFTIs (centrally funded technical institutions) with a minimum CPI of 7.5 and those with an MBBS degree are exempted from the GATE/ CSIR/ JRF/NET requirement.
+
+Ph.D. in Humanities and Social Sciences (HSS)
+
+Humanities and Social Sciences [English (Literature, Linguistics & ELT), Fine Arts, Philosophy, Psychology & Sociology]
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+A master’s degree in any subject
+
+Minimum 55% marks or a minimum CPI of 6 on a 10-point scale in the master’s degree
+
+One of the following, unless you have a master’s degree from the IITs in any subject with a CPI of at least 8:
+
+JRF/NET certification in the discipline to which you are applying. The NET certificate should be less than five years old at the time of application.
+
+A valid GATE (Humanities and Social Sciences) score in the discipline to which you are applying
+
+You do not require NET or GATE certification if you have a master’s degree from the IITs in any subject with a CPI of at least 8.
+
+Those applying under the SC/ST and OBC-NCL categories require only passing marks in their master’s degrees. In addition, they must have NET certification (less than five years old at the time of applying) or a valid GATE (X/H) score in the discipline to which they are applying.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Ph.D. in Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) A master’s degree in management or relevant disciplines in engineering / technology with marks / CPI not below the specified minimum.
+
+or
+
+a bachelor's degree in engineering or science (4-year programme) with a minimum of 75 percent marks/7.5 CPI.
+
+or
+
+a master's degree in science/arts/commerce/chartered accountancy while satisfying each of the following three criteria:
+(c) JRF/95 percentile or higher in GATE/CAT/GMAT/NET or any other national level examination.
+
+(ii) A valid GATE score is required for the candidates with a bachelor’s degree in Engineering, except in the case of candidates with bachelor’s degree in Engineering from the centrally funded Technical Institutes (CFTIs). The candidates with master’s degree in science/arts/commerce must either have a valid GATE/CAT/GMAT score or must have qualified for/in JRF/NET.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Ph.D. in Design
+
+Design Programme
+
+(i) A master's degree in engineering/design with marks/CPI not below the specified minimum.
+
+or
+
+a bachelor's degree in engineering/design(4-year)/architecture or science (4-year programme) with a minimum of 75 percent marks/7.5 CPI and a valid GATE/CEED score (the requirement of GATE/CEED score is waived for candidates with bachelor's degree in engineering from the centrally funded technical institutes (CFTIs)).
+
+or
+
+(ii) A valid GATE/CEED score is required for the candidates with a bachelor’s degree in Engineering/Design/Architecture, except in the case of candidates with bachelor’s degree in Engineering from the centrally funded Technical Institutes (CFTIs).
+
+Master of Technology (M. Tech.)
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Aerospace Engineering, Biological Sciences & Bioengineering, Chemical Engineering, Civil Engineering, Computer Science & Engineering, Earth Sciences, Electrical Engineering, Management Sciences, Materials Science & Engineering, Materials Science (Interdisciplinary Programme), Mechanical Engineering, Photonics Science & Engineering (Interdisciplinary Programme), Sustainable Energy Engineering, Space Science & Astronomy.
+
+(i) A bachelor's degree in engineering or science (4-year programme) or a master's degree in science with marks/CPI not below the specified minimum.
+
+(ii) A valid GATE score is required for admission to the M.Tech. programme in the case of regular (non-sponsored) candidates. The requirement of GATE score is waived off for the candidates with the B.Tech/B.S (Four Year) degree from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B.Tech/B.S (Four Year).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+Master of Design (M. Des.)
+
+Design Programme (Interdisciplinary Programme)
+
+(i) A bachelor’s degree in Engineering or science (4-year programme), Design or Architecture with marks/CPI not below the specified minimum. Candidates holding degrees in Fine Arts or Interior Design are not eligible to apply.
+
+(ii) A valid GATE/CEED score is required for admission to the M.Des. programme in the case of regular (non-sponsored) candidates. The requirement of GATE score is waived off for the candidates with B.Tech. graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B.Tech.
+
+Masters in Management (MBA - Master of Business Administration)
+
+Management Sciences (DoMS)
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+B.Tech. or B.E. or B.Arch. (with Mathematics as one of the subjects in Class XII)*
+or
+
+four year degree program leading to B.Sc. Engineering (with Mathematics as one of the subjects)*
+or
+
+four year degree program leading to Bachelor of Science degree (with Mathematics as one of the subjects)*
+or
+
+Master of Science (with Mathematics as one of the subjects in the UG program)*
+or
+
+Master of Arts in Economics (with Mathematics as one of the subjects in the UG program)*
+
+* from any AICTE recognized institute/university, IITs, NITs, and IIITs
+
+MS (By Research)
+
+Aerospace Engineering, Chemical Engineering, Civil Engineering, Cognitive Science (Interdisciplinary Programme), Computer Science & Engineering, Electrical Engineering, Mechanical Engineering, Photonics Science & Engineering (Interdisciplinary Programme), Sustainable Energy Engineering
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+(i) MS (By Research) 2-year Programme: For Aerospace Engineering, Chemical Engineering, Civil Engineering, Computer Science & Engineering and Photonics Science & Engineering:
+Applicants must have a Bachelor's degree in Engineering or science (4-year programme) or a Master's degree in science with marks/CPI not below the specified minimum.
+
+For Electrical Engineering & Mechanical Engineering:
+Applicants must have a bachelor's degree in Engineering or science (4-year programme) with marks/CPI not below the specified minimum.
+
+For Cognitive Science:
+Applicants must have a: (i) B.Tech/BE (any branch), BS 4-year program (Physics/ Chem/ Math/ Stat/Biosciences/ related sciences), MBBS. An applicant must have a minimum of 60%/6.0 marks/CPI in the qualifying degree. All regular applicants must have a valid score/qualification in GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants with B.Tech from IITs with an overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years and those with an MBBS degree are exempted from the GATE/ CSIR/ JRF/ NET requirement; or, (ii) MA/M.Sc/equivalent degree (Psychology/ Linguistics/ Philosophy/ Anthropology/ Phy/ Chem/Math/ Stat/ Biosciences/ CS/ related disciplines) with a minimum of 60%/6.0 marks/CPI in the qualifying degree. An applicant must have a valid score/qualification in GATE/CSIR/ JRF/ NET/ COGJET/ other equivalent exam. Applicants from IITs with a minimum CPI of 8.0 and those with an MBBS degree are exempted from the GATE/ CSIR/JRF/ NET requirement.
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+MS (By Research) 3-year Programme: For Computer Science & Engineering and Photonics Science & Engineering:
+Applicants with B.Sc. (3-year) or equivalent with a minimum of 75%/7.5 marks/CPI may also be considered.
+
+For Cognitive Science:
+Applicants with 3-year BA/B.Sc/equivalent degree in (Psychology/ Linguistics/ Philosophy/ Anthropology/ Phy/Chem/ Math/ Stat/ Biosciences/ CS/ related disciplines) with a minimum of 60%/6.0 marks/CPI in the qualifying degree may also be considered.
+
+(ii) A valid GATE (GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam in case of Cognitive Science programme) score is required for admission to the MS (Research) programme in the case of regular candidates (non-sponsored/non-project candidates). The requirement of GATE (GATE/ CSIR/ JRF/ NET/ COGJET/ other equivalent exam in case of Cognitive Science programme) score is waived for the B.Tech/B.S (Four Years) graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B.Tech/B.S (Four Year).
+
+[Context: DEAN OF ACADEMIC AFFAIRS (DOAA), IIT KANPUR - ADMISSIONS (UG, PG, PhD), ELIGIBILITY, FEES AND A > DOAA page: /doaa/post-graduate-admission ]
+ Financial Assistanships:
+
+Financial support (in the form of Institute Assistantship) is available to the regular (non-sponsored) students of MTech/MDes/MS (By Research) and PhD Programmes.
+
+The student is expected to carry out the assigned duties during the programme. The MTech/MS (By Research) students are currently entitled to a monthly stipend of Rs.12,400/- for 8 hours of work per week. For PhD students the corresponding financial support amounts to Rs.31,000/- for the first two years, and thereafter, it is raised to Rs.35,000/- for another three years.
+
+Students may also avail financial assistantship from external funding agencies (such as UGC/CSIR/NBHM/INSPIRE etc.).
+
+=== DOAA page: /doaa/pre-registration  ===
+Source: https://www.iitk.ac.in/doaa/pre-registration
+
+You are here: Home  Pre-registration
+
+Pre-registration 2018-19/1 Semester
+
+
+
+Pre-Registartion: List of Courses offered in 2018-19/1 Semester
+Instructions and schedule for Pre-registration on Pingala
+Notice for HSS Lottery 2018-19-I semester
+Form for HSS Level - I
+Form for HSS Level - II
+List of HSS Courses 2018-19-I semester
+
+
+
+
+
+
+
+=== DOAA page: /doaa/proposal-acceptance-criteria-sep  ===
+Source: https://www.iitk.ac.in/doaa/proposal-acceptance-criteria-sep
+
+You are here: Home  Proposal acceptance criteria SEP
+
+Proposal acceptance criteria?
+
+
+
+
+The SEP registration form describing the proposed SEP activity would be evaluated on aspects of Creativity, Originality, Feasibility, Clarity of Scope etc. Feedback would be given to help you improve it. Final acceptance would be made on revised proposal. To understand what all activities would constitute as innovation and entrepreneurial activity consult the main SEP document available on DOAA website.
+
+
+
+=== DOAA page: /doaa/who-can-apply-sep  ===
+Source: https://www.iitk.ac.in/doaa/who-can-apply-sep
+
+You are here: Home  Who can apply SEP
+
+Who can apply?
+
+
+
+
+See eligibility criteria below for UG and PG students:
+
+Ph.D. students will be allowed to register for IEC credits only after they have successfully completed their comprehensive examination.
+
+Masters’ students (MT/MSR/MSc 2 YR as well as 5 year) will be allowed to register for IEC credits after their usual/normal credit requirements as per the parent departmental norms, e.g., 27 or 36 credits of the first semester have been earned.
+
+UG can commence entrepreneurship activity, i.e. start registering for IECs, after earning credits equivalent to four semesters of normal academic load (two semesters for 2 Year MSc students) as per the template of their respective departments (~200 credits or equivalent).
+
+
+

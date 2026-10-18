@@ -1,0 +1,623 @@
+DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS, CONTACT AND GENERAL PAGES
+Name: Department of Space, Planetary and Astronomical Sciences and Engineering, IIT Kanpur - overview, history, programmes, admissions, contact and general pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/space. Snapshot: scraped in 2026.
+
+=== about us ===
+Source: https://www.iitk.ac.in/space/about-us
+I am delighted that I.I.T. Kanpur has recently established the department of Space, Planetary & Astronomical Sciences & Engineering. Given the rapid pace of development in this field and the fascination it holds for students, I personally feel that this is a welcome step. India is currently pushing for a very ambitious space program and has established several major astronomical observatories. It is also participating in several international astronomical mega-science projects. We aim to create a stimulating environment in the department so that students can participate and effectively contribute to such research and development programs.
+
+Prof. Pankaj Jain
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > about us]
+Head, Department of Space, Planetary & Astronomical Sciences & Engineering
+Kanpur-208016
+Email:
+,
+
+The Department is devoted to research and teaching in all branches of Space Sciences, in particular
+
+Observational Astronomy
+
+Galactic and extragalactic Astronomy
+
+Planetary Science and Technology
+
+Space and Astronomical Instrumentation
+
+Space Missions
+
+The department provides a conducive atmosphere for cutting edge research in these fields. This is augmented by strong Interdisciplinary collaboration with other science and engineering departments at IIT Kanpur, while involving students in major space and astronomical research projects.
+
+=== home ===
+Source: https://www.iitk.ac.in/space/
+ASTROSAT
+Optical Telescope
+Shiv Shakti Point
+
+SKA
+SWAN
+
+Events
+
+Seminars
+
+Labs
+
+Welcome Message from HOD
+
+Prof. Amitesh Omar
+Kanpur-208016
+Email: head_spase@iitk.ac.in , aomar@iitk.ac.in
+
+Admissions Notice
+
+MTech admissions - GATE cutoff 2025 New
+
+Evidence of a Hardening in the Cosmic Ray Proton Spectrum at around 166 TeV Observed by the GRAPES-3 Experiment, Phys. Rev. Lett., F. Varsi et al. (GRAPES-3 collaboration), 2024, 132, 051002
+
+Probing atmospheric effects using GRAPES-3 plastic scintillator detectors, European Physical Journal C, M. Zuberi et al. (GRAPES-3 collaboration), 2024, 84, 255
+
+A study of dipolar signal in distant Quasars with various observables, European Physical Journal C, R. Kothari, M. Panwar, G. Singh, P. Tiwari and P. Jain, 2024, 84, 75
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > home]
+Small-scale Cosmic-Ray Anisotropy Observed by the GRAPES-3 Experiment at TeV Energies, Astrophysical Journal, M. Chakraborty et. al. (GRAPES-3 collaboration), 2024, 961, 87
+
+Indentation of geometrically exact adhesive beams. Suryanarayanan, K., T. Bhuvana, I. Sharma, and S. L. Das 2023. Int. J. Solids Struct. 279, 112348:1-19.
+
+Equilibria of liquid drops on pre-stretched, nonlinear elastic membranes through a variational approach. Nair, V. and I. Sharma 2023. Phys. Fluids. 35, 047111:1-14.
+
+Equilibrium shapes of liquid drops on pre-stretched, nonlinear elastic membranes. Nair, V., I. Sharma, and V. Shankar 2023. J. Fluid Mech.. 961, A28:1-27.
+
+Indentation of geometrically exact beams. Suryanarayanan, K., I. Sharma, and S. L. Das 2022 Int. J. Struct. Solids 254, 111905.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > home]
+Correlations between QPO frequencies and spectral parameters of GRS 1915+105 using AstroSat observations,
+Ruchika Dhaka, Ranjeev Misra, J.S. Yadav, Pankaj Jain, MNRAS, 524 (2023) 2, 2721-2732
+
+The comptonizing medium of the black hole X-ray binary MAXI J1535−571 through type-C quasi-periodic oscillations,
+Rawat et al, MNRAS, 520 (2023) 1, 113-128
+
+Probing cosmology beyond LCDM using SKA,
+Shamik Ghosh, Pankaj Jain, Rahul Kothari, Mohit Panwar, Gurmeet Singh, Prabhakar Tiwari
+J.Astrophys.Astron. 44 (2023) 1, 22
+
+A toy model for low-energy nuclear fusion, Kaanapuli Ramkumar, Harishyam Kumar, Pankaj Jain
+Pramana 97 (2023) 3, 109
+
+Validating the improved angular resolution of the GRAPES-3 air shower array by observing the Moon shadow in cosmic rays,
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > home]
+D. Pattanaik et al (GRAPES-3 collaboration), Phys.Rev.D 106 (2022) 2, 022009
+
+Dipole anisotropy in gravitational wave source distribution, Gopal Kashyap, Naveen K. Singh, Khun Sang Phukon, Sarah Caudill, Pankaj Jain,
+JCAP 06 (2023) 042
+
+Image plane detection of FRB121102 with the MeerKAT radio telescope
+J C Andrianjafy, N Heeralall-Issur, A A Deshpande, et al MNRAS 518, 3462 (2023)
+
+A minimal space interferometer configuration for imaging at low radio frequencies
+Jaini, A., Deshpande, A. A., and Bitragunta, S. 2021, PASA, 38, e040.
+
+A Comparison of Multi-Phase Magnetic Field Tracers in a High-Galactic Latitude Region of the Filamentary Interstellar Medium
+Campbell, J. L., SE Clark, S. E., Gaensler, B. M., Marchal, A., Van Eck, C. L., Deshpande, A. A., George, S. J., Gibson, S. J., Ricci, R., Stil, J. M., Taylor, A. R. 2022, ApJ, 927, 49.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > home]
+Time-resolved spectroscopy on the heartbeat state of GRS 1915+105 using AstroSat, D. Rawat, R. Misra, P. Jain and J.S. Yadav. Published in: Mon. Not. Roy. Astron. Soc. 511  (2022) 2
+
+Superhorizon Perturbations: A Possible Explanation of the Hubble–Lemaître Tension and the Large-scale Anisotropy of the Universe, P. Tiwari, R. Kothari and P. Jain, Astrophys. J. Lett. 924 (2022) 2, L36
+
+Explaining excess dipole in NVSS data using superhorizon perturbation, K. K. Das, K. Sankharva, P. Jain, JCAP 07 (2021) 035
+
+Testing evolution of LFQPOs with mass accretion rate in GRS 1915+105 with Insight-HXMT, H. Liu, L. Ji, C. Bambi, P. Jain, R. Misra et al., Astrophys. J. 909 (2021) 1, 63
+
+General Treatment of Reflection of Spherical Electromagnetic Waves from a Spherical Surface and its Implications for the ANITA Anomalous Polarity Events, P. Dasgupta and P. Jain, Astroparticle Physics 128 (2021) 102530
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > home]
+Granular flow on a rotating and gravitating elliptical body 2021, K Gaurav, D Banik, I Sharma, P Dutt, Journal of Fluid Mechanics 916, A40:1-40, 2019.
+
+Structural integrity of rubble asteroidal satellites, I Sharma, Icarus 319, 770-784
+
+Rings of non-spherical, axisymmetric bodies, A Gupta, S Nadkarni-Ghosh, I Sharma, Icarus 299, 97-116, 2018.
+
+joomla share module
+
+=== academic ===
+Source: https://www.iitk.ac.in/space/academic
+The department offers the following academic programs:
+
+M.Tech. in Space Science and Engineering
+
+Ph.D. in Space Science & Engineering
+
+Minor in Space Science (for IIT UG Students)
+
+=== committees ===
+Source: https://www.iitk.ac.in/space/committees
+Departmental Committees:
+
+DPGC Committee:
+
+Dr. Kunal P Mooley, (Convenor)
+
+Dr. Amitesh Omar, HOD
+
+Dr. Pankaj Jain
+
+Dr. Ishan Sharma
+
+Dr. Sharvari Nadkarni Ghosh
+
+Dr. Rohit Sharma
+
+DUGC Committee:
+
+Dr. Rohit Sharma (Convenor)
+
+Dr. Amitesh Omar, HOD
+
+Dr. Sharvari Nadkarni Ghosh
+
+Dr. Prashant Pathak
+
+Student Placement:
+
+Dr. Soumyabrata Chakrabarty
+
+DORA Committee:
+
+Dr. Sharvari Nadkarni Ghosh
+
+Space Allocation Committee:
+
+Dr. Amitesh Omar (Head)
+
+Dr. Prashant Pathak
+
+Dr. Kunal P Mooley
+
+Dr. Soumyabrata Chakrabarty
+
+Mr. Kundan Kumar Kharwar (Technical Staff)
+
+Budget Committee:
+
+Dr. Amitesh Omar (Head)
+
+Dr. Sharvari Nadkarni Ghosh
+
+Dr. Rohit Sharma
+
+DSAC (Dept. Student Affairs Committee):
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > committees]
+Dr. Sharvari Nadkarni Ghosh
+
+=== contact us ===
+Source: https://www.iitk.ac.in/space/contact-us
+Head: Amitesh Omar
+
++91-512-259-2287
+E.S.B - 2 Building , 6th floor , IIT Kanpur, 208016
+
+For queries related to post-graduate academics:
+Kunal P. Mooley
+
+=== jobs ===
+Source: https://www.iitk.ac.in/space/jobs
+We are looking for faculty and post-doctoral fellows in ALL areas of Space Sciences, Instrumentation & Engineering, Planetary science & Technology, and Astronomy.
+
+If you are interested, please apply through the link: https://www.iitk.ac.in/dofa/rolling-advertisement
+
+Please contact the Head, Prof. Amitesh Omar at
+for further details.
+
+=== library ===
+Source: https://www.iitk.ac.in/space/library
+Senate Library:
+
+Dr. Rohit Sharma
+
+=== m tech ===
+Source: https://www.iitk.ac.in/space/m-tech
+Admissions Open for MTech and PhD - Apply "here" New
+
+For admission to the M. Tech. program.
+Candidate must satisfy the following:
+
+A Bachelor's degree in Engineering or Science (4-year programme) or a Master's degree in Science with marks/CPI not below the specified minimum.
+[ The specified minimum is defined as the greater of the minimum pass marks / CPI and 55 percent marks / 5.5 CPI on a 10 point scale ]
+
+A GATE qualified is required for admission to the MTech programme in the case of regular (non-sponsored) candidates.
+The candidate should have appeared in one of the following papers in the GATE examination:
+AE, CE, CH, CS, DA, EC, EE, IN, MA, ME, MT, PH, ST, XE (papers BCDEH).
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > m tech]
+The requirement of GATE score is waived off for the candidates with the B Tech/BS (Four Year) degree from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year).
+
+=== outreach ===
+Source: https://www.iitk.ac.in/space/outreach
+The Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE), is dedicated to promoting a deeper understanding and appreciation of space sciences through dynamic public engagement initiatives. It helps promote Space and Astronomical education among the masses, enabling a deeper appreciation of the Universe and surroundings.
+
+We aim to nurture the next generation of scientists, engineers, and space enthusiasts by inspiring curiosity and fostering a passion for discovery. Through our outreach programs, we connect academic research with the wider community, making the wonders of space science accessible, engaging, and impactful for people of all ages and backgrounds.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > outreach]
+IAU-OAD Project: Khagolvani
+This innovative project, funded by the International Astronomical Union's Office of Astronomy for Development (IAU-OAD) 2024, aims to bring astronomy education to underprivileged children. Using a mobile observatory, we will conduct hands-on activities to ensure children from migrant families or low-income backgrounds in Kanpur and neighbouring areas have access to quality education in astronomy.
+We believe that the sky is open to all, and through this initiative, we aim to promote STEM education, inspire curiosity, and remove superstitions or misconceptions about astronomy from young minds. By encouraging children to explore their potential and develop a scientific approach, we hope to empower them to study and appreciate the celestial wonders.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > outreach]
+School Visits
+Engaging with young minds is at the core of our outreach efforts. Our faculty, students, and volunteers visit schools to conduct interactive sessions, demonstrations, and hands-on activities that introduce children to the wonders of space science and technology. These visits are designed to spark curiosity, encourage inquiry, and ignite a passion for STEM fields among students.
+
+Shri Ram Janki Inter College, Bithoor
+
+RSK
+
+Lecture with a demo to 100 school children from various schools from Kanpur Dehat district organised by RSK, IIT Kanpur and UPCST.
+
+=== ph d ===
+Source: https://www.iitk.ac.in/space/ph-d
+For admission to the  Ph. D.  program.
+A GATE qualified is required for the candidates with a Bachelor’s degree in Engineering, except in the case of candidates with Bachelor’s degree in Engineering from the centrally funded Technical Institutes (CFTIs). The candidates with Master’s degree in Science must either have a GATE qualified or must have qualified for/in JRF/NET.
+
+Additionally, the candidate must satisfy any one of the following:
+
+A Master's degree in Engineering with marks/CPI not below the specified minimum.
+
+Bachelor's degree in Engineering or Science (4-year programme) with a minimum of 75 percent marks/7.5 CPI and a GATE qualified.
+The requirement of GATE score is waived for candidates with Bachelor's degree in Engineering from the centrally funded technical institutes (CFTIs).
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > ph d]
+A Master's degree in Science or an allied area while satisfying each of the following three criteria
+a minimum of 65 percent marks/6.5 CPI in the Master's degree,
+
+first division in bachelor's degree, and
+
+JRF/95 percentile or higher in GATE score.
+
+The requirement of GATE/JRF/NET/JEST is waived for candidates having a Master's degree in Sciences/arts from IITs, IISERs and NITs with a minimum CPI of 8.0.
+
+Process of thesis supervisor selection (after admission into the Phd Programme)
+
+The supervisor selection process starts towards the end of the first semester. Before the process starts, students are encouraged to interact with all faculty members in the department so as to figure out common interests of research with potential supervisors. The DPGC (Dept. Post Graduate Committee Convener) oversees this process. While the supervisor selection is based primarily on student's preferences, however, academic performance in the semester, openings with a faculty or a research group, and department/institute guidelines in force at that time can also be the determining factors. Prospective students may confirm an opening with faculty members of their choice (if any) by contacting DPGC (
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > ph d]
+) in advance. The research interests and profiles of faculty members and presently enrolled students are listed on the department webpage.
+
+=== relative motion between satellites ===
+Source: https://www.iitk.ac.in/space/relative-motion-between-satellites
+Lecture Series on "Relative motion between satellites", by Prof. Arun Misra
+
+Venue: SPASE seminar Room, 28th Jan - 13th Feb (seven lectures)
+
+The topics covered will be as follows
+
+Relative motion between two satellites: Clohessy-Wiltshire (CW) equations and Tschauner-Hempel (TH) equations
+
+Analytical solution of CW equations
+
+Application to the satellite rendezvous problem
+
+Application to spacecraft formation flying
+
+Relative Attitude Dynamics
+
+Application to on-orbit satellite servicing and proximity operations
+
+=== skaits ska training school ===
+Source: https://www.iitk.ac.in/space/skaits/ska_training_school.html
+SKA-India Summer Training Program 2026
+
+About the School
+
+Important Information
+
+Schedule
+
+List of Speaker
+
+Topics to be covered
+
+Organising Committee
+
+Instructions for Participants
+
+Location
+
+Travel Logistics
+
+List of selected candidates
+
+FAQs
+
+Partner Institutes
+
+About the School
+
+The SKA-India Training Program School is a premier event designed to develop foundational skills in radio astronomy for advanced undergraduate and postgraduate students. This two-week-long school will feature lectures, hands-on sessions, and exposure to cutting-edge tools and techniques relevant to the Square Kilometre Array (SKA) project (SKAO), SKA India.
+
+Participants will gain insights into radio instrumentation, observational techniques, data analysis techniques, AI/ML applications in astronomy, and more.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+For any queries, contact:
+skaits2026@gmail.com
+
+Important Information
+NEW
+
+Instructions for Participants
+
+Instructions for Attendance and Certificate Requirements
+
+Important Navigations in IITK Campus
+
+Schedule
+
+Click to Download the PDF
+
+List of Speakers
+
+Abhirup Datta (IITI)
+
+Amitesh Omar (IITK)
+
+AR Harish (IITK)
+
+Avinash Deshpande (IITK)
+
+Divya Oberoi (NCRA-TIFR)
+
+Jagadheep D. Pandian (IIST)
+
+Kanan k Datta (Jadavpur University)
+
+Kunal Mooley (IITK)
+
+Manoj Puravankara (TIFR-Mumbai)
+
+Mayuresh Surnis (IISER Bhopal)
+
+Mohit Bhardwaj (IITK)
+
+Narendra Nath Patra (IITI)
+
+Neeraj Gupta (IUCAA)
+
+Pankaj Jain (IITK)
+
+Prasanta Kumar Das (BITS-Pilani-Goa)
+
+Prasun Dutta (IIT BHU)
+
+Rohit Sharma (IITK)
+
+Soumyabrata Chakrabarty (IITK)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+Surajit Paul (MAHE)
+
+V. Mugundhan (IITK)
+
+Yashwant Gupta (NCRA-TIFR)
+
+Yogesh Wadadekar (NCRA-TIFR)
+
+Topics to be covered
+
+Square Kilometer Array: The next-gen instrument for radio astronomy
+
+Electronics and devices for radio telescopes
+
+High-throughput real-time Signal processing
+
+High-performance computing and Big-data
+
+AI/ML Applications in Radio Astronomy
+
+Fundamental Concepts: Radiation Mechanisms and Radio Telescopes
+
+Fundamental Science cases: Pulsars, Cosmology, Galactic and Extragalactic Studies
+
+Observational and Data Analysis Techniques
+
+Hands-on: Building a radio telescope
+
+Organizing Committee
+
+Pankaj Jain (IITK)
+
+Rohit Sharma (IITK)
+
+Mugundhan V. (IITK)
+
+Mohit Bhardwaj (IITK)
+
+Abhirup Datta (IITI)
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+Narendra Nath Patra (IITI)
+
+Prasanta Kumar Das (BITS-Pilani-Goa)
+
+Surajit Paul (MAHE)
+
+Neeraj Gupta (IUCAA)
+
+Jagadheep D. Pandian (IIST)
+
+Instructions for Participants
+
+Participants should carefully read the instructions provided below to ensure a smooth reporting and registration process for the SKA-India Summer Training Program 2026.
+
+Click to Download the PDF
+
+Location & Campus Navigation
+
+Category |
+Venue Details |
+Google Maps Link |
+
+Lecture Sessions |
+Lecture Hall Complex, IIT Kanpur |
+
+Lecture Hall Complex
+
+Laboratory Sessions |
+Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE)
+E.S.B.-2 Building, 6th Floor, IIT Kanpur |
+
+Department of SPASE
+
+Accommodation &
+Campus Locations |
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+Visitor Hostel, IIT Kanpur |
+
+Visitor Hostel
+
+Male Participants' Accommodation: Hall of Residence 10 (Hall-10), IIT Kanpur |
+
+Hall-10
+
+Female Participants' Accommodation:Hall of Residence 6 (Hall-6), IIT Kanpur |
+
+Hall-6
+
+SKAITS Gala Dinner |
+Type-II Community Center, IIT Kanpur |
+
+Type-II Community Center
+
+Navigation distance & timings
+
+Maps to guide through
+
+Male Accommodation (HALL 10) to LHC
+
+Female Accommodation (HALL 6) to LHC
+
+LHC to SPASE Department
+
+SPASE Department to Male Accommodation
+
+SPASE Department to Female Accommodation
+
+Travel Logistics
+
+A.) Arrival by air:
+
+Chaudhary Charan Singh International Airport (LKO), Lucknow is the nearest international airport and located about 90 Km. from IIT Kanpur. It has direct flight connection to all major cities of India.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+Kanpur also has an airport (KNU) with limited flights.
+
+Ola/Uber cab services are available both in Lucknow and Kanpur.
+
+B.) Arrival by train:
+
+Kanpur Central Railway station (CNB) is one of the busiest railway stations in the country. It is located on the Delhi-Kolkata train route.
+
+IIT Kanpur is located about 16 km from the Kanpur Central Railway Station.
+
+One can take the Kanpur Metro (fare: ₹40) or hire a taxi/auto rickshaw.
+
+Kanpur Metro:
+
+Metro services are operational between Kanpur Central and IIT Kanpur from 06:00 AM to 10:00 PM (IST) daily.
+
+Arrival in IIT Kanpur campus:
+
+Reach the ‘main gate’ of IIT Kanpur. Tell security you are visiting SPASE Department.
+
+The Department of SPASE is located at the 6th floor of ESB-2 building.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+List of selected candidates
+
+We are pleased to announce the list of selected participants for the SKA-India Summer Training Program 2026:
+
+Student Name |
+Student Name |
+Student Name |
+Student Name |
+Student Name |
+
+Abdul Rahim A |
+ABHIJITH A |
+Abhinav Singh |
+Akanksha Patel |
+Akash Yadav |
+
+Amey Bagare |
+Amruta Kittur |
+ARGHYADEEP BISWAS |
+Arpna Mishra |
+Ashmit Gupta |
+
+Ashwin Raju Kharat |
+Avantika Ajay Sangole |
+Bharadwaj M |
+Chanchal |
+Damarla Sudha Nandana Vamsidhar Babu |
+
+Dhairya Kotecha |
+Eshaan Sowale |
+Harikrishnan V S |
+HONEY RENJAN E |
+Ishita Kundu |
+
+Kartikey M Dixit |
+Kedar Sharma |
+Kushal Prajapati |
+Pragun Nepal |
+R S Pranav Varshan |
+
+Rishav Hazra |
+Ritesh Pandey |
+Rithesh Amalraj |
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+Romana Ruqia |
+Saptashaw Das |
+
+SAROJINI S |
+Simran Kaushik |
+Soumya Gupta |
+Srusti Sampanna |
+Swastika Sanghi |
+
+Tumma Anusha |
+Utkarsh Kr Verma |
+V Gayathri |
+Vanshika Dhiman |
+
+Accommodation and meals will be provided at the hostel to all the selected candidates from June 28 to July 11, 2026.
+
+FAQs
+
+I am a first year PhD student. Can I apply?  No. This school is meant for younger students who are in the early stage of their career.
+
+Can I get support for the school?  Yes. Support for lodging and food to the participants will be provided.
+
+Is there any registration fee?  No. There is no registrarion fee.
+
+How many students will be selected?  The total number of participants is expected to be around 50.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - OVERVIEW, > skaits ska training school]
+What are the selection criteria?  Candidates will be selected based on their academic records, supported by a recommendation letter.
+
+Partner Institutes
+
+The SKA-India Training Program School 2026 is being organized in collaboration with several esteemed partner institutes.
+
+Indian Institute of Technology Kanpur (IITK)
+
+Indian Institute of Technology Indore (IITI)
+
+Indian Institute of Space Science and Technology, Thiruvananthapuram (IIST)
+
+Inter University Centre for Astronomy and Astrophysics, Pune (IUCAA)
+
+Birla Institute of Technology Pillani, Goa Campus (BITS Goa)
+
+Manipal Academy of Higher Education, Manipal (MAHE)
+
+© 2026 SKA-India Consortium. All Rights Reserved.
+
+×
+

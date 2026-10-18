@@ -1,0 +1,363 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF ECO (ECONOMIC SCIENCES) COURSES
+Name: All courses of Department of ECO (Economic Sciences) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course ECO100 - INTRODUCTION TO PROFESSION
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 2-0-0--0. Source: Courses of Study 2021, IIT Kanpur.
+For whom the bell tolls; What is Economics? Basic concepts of supply anddemand; Central Problems of very economic society; Development, freedom andopportunities; Dilemma of development; Linkages between technology, economicsand environment; Business organizations and income; The role of economistin business and industry; The role of economist in societal development; Therole of economist in governance.
+
+Course ECO101 - INTRODUCTION TO ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Definition and central problems of Economics, Microeconomics vs Macroeconomics, Normative vs. Positive Economics, Stock vs. Flow variables; Aggregate economic variables: Gross Domestic Product (GDP), Gross National Product (GNP), National income, Money supply, Price index and inflation rate, Unemployment rate, Exchange rate; Laws of demand and supply, Elasticity, Market equilibrium, Consumer and producer surplus, Price controls; Utility theory: Laws of diminishing marginal and equimarginal utility, Indifference curves and budget constraint, Optimizing conditions, Substitution and income effects; Theory of production and cost: Law of variable proportion, Shortrun cost functions, Isoquant and isocost, Optimizing conditions, Longrun cost functions; Types of market: Perfect Competition, Monopoly, Oligopoly, Monopolistic Competition. Course Reference: 1. Economics, by Paul A. Samuelson, any edition; 2. Macroeconomics, by N. G. Mankiw, 6th edition; 3. Microeconomics, by R. S. Pindyck, D. L. Rubinfeld and P. L. Mehta, 6th edition; 4. Intermediate Microeconomics, by H. R. Varian, 6th edition; 5. Microeconomic Theory, by J. M. Henderson and R. E. Quandt, 3rd edition; 6. Microeconomic Analysis, by R. R. Barthwal, any edition.
+
+Course ECO101A - INTRODUCTION TO ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Definition and central problems of Economics, Microeconomics vs.Macroeconomics, Normative vs. Positive Economics, Stock vs. Flow variables; Aggregate economic variables: Gross domestic product (GDP), Gross national product (GNP), Nationalincome, Money supply, Price index and inflation rate, Unemployment rate, Exchange rate;Laws of demand and supply, Elasticity, Market equilibrium, Consumer and producer surplus,Price controls; Utility theory: Laws of diminishing marginal and equimarginal utility,Indifference curves and budget constraint, Optimizing conditions, Substitution and income effects; Theory of production and cost: Law of variable proportion, Shortrun cost functions,Isoquant and isocost, Optimizing conditions, Longrun cost functions; Types of market: Perfect Competition, Monopoly, Oligopoly, Monopolistic Competition. Course Reference: 1. Economics, by Paul A. Samuelson, any edition; 2. Macroeconomics, by N. G. Mankiw, 6th edition; 3. Microeconomics, by R. S. Pindyck, D. L. Rubinfeld and P. L. Mehta, 6th edition; 4. Intermediate Microeconomics, by H. R. Varian, 6th edition; 5. Microeconomic Theory, by J. M. Henderson and R. E. Quandt, 3rd edition; 6. Microeconomic Analysis, by R. R. Barthwal, any edition.
+
+Course ECO201 - MICROECONOM ICS - I
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Theory of consumer behavior; Theory of demand and supply; Production theory; Costs of production; Markets Perfect competition, Monopoly oligopoly; Theory of distribution; Pricing.
+
+Course ECO201A - MICROECONOM ICS I
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Theory of consumer behavior; Theory of demand and supply; Production theory; Costs of production; Markets Perfect competition, Monopoly oligopoly; Theory of distribution; Pricing.
+
+Course ECO202 - MACROECONO MICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Circular Flow of Income, Output and Expenditure, National Income Accounting Methods, Classical Model, Keynesian Cross Model Theories of Consumption and Investment, Demand for Money, ISLM Model, Macroeconomic Problems, Balance of Payments Account, Exchange Rate Systems, and Open Economy Macroeconomics.
+
+Course ECO221A - MACROECONO MICS I
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Circular Flow of Income, Output and Expenditure, National Income Accounting Methods, Classical Model, Keynesian Cross Model.Theories of Consumption and Investment, Demand for Money, ISLM Model, Macroeconomic Problems, Balance of Payments Account, Exchange Rate Systems, and Open Economy Macroeconomics.
+
+Course ECO231 - ECONOMIC PROBLEMS AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Global economic issues and challenges; From global to national issues; Economic institutions: markets, government, and social groups; Indian economic issues and policy; Indian agriculture and rural economy; Industrial economy; Policy towards social infrastructure; Trade and foreign exchange policy; Policy towardsinternational capital flow
+
+Course ECO261 - INTRODUCTION TO MATHEMETICAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic Mathematical Logic; Set Theory; Review of Functions of a Single Variable and Its Application in Economics: Choice, Utility and Aggregation; Functions of Several Variables: Level Curves, Homogeneity and Homotheticity, Concavity and Convexity; Static Optimization: Unconstrained Optimization, Constrained Optimization with Equality and Inequality Constraints; The Envelope Theorem and Duality; Dynamics and Dynamic Optimization.
+
+Course ECO261A - INTRODUCTION TO MATHEMATICAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic Mathematical Logic; Set Theory; Review of Functions of a Single Variable and Its Application in Economics: Choice, Utility and Aggregation; Functions of Several Variables: Level Curves, Homogeneity and Homotheticity, Concavity and Convexity; Static Optimization: Unconstrained Optimization, Constrained Optimization with Equality and Inequality Constraints; The Envelope Theorem and Duality; Dynamics and Dynamic Optimization.
+
+Course ECO301A - MICROECONOM ICS II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Static games with complete information Nash Equilibrium; Dynamic games with complete information Subgame perfect Nash Equilbrium; Static games with incomplete information Bayesian Nash Equilibrium; Dynamic games with incomplete information Perfect Bayesian Nash Equilibrium, Sigmaling games; Adverse Selection and Moral Hazard; Exchange Economy and definition of Competitive Equilibrium; Pareto efficiency and Pareto set; One consumer one producer econnomy; Two sector production economy; First Fundamental theorem of Welfare Economics; Second Fundamental theorem of Welfare Economics; Pareto optimality and social welfare functions; Public goods and externalities; Property rights and Coase theorem; Social Choi d Theory
+
+Course ECO303 - MICRO ECONOMICS II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Static games with complete information Nash Equilibrium; Dynamic games with complete information Subgame perfect Nash Equilbrium; Static games with incomplete information Bayesian Nash Equilibrium; Dynamic games with incomplete information Perfect Bayesian Nash Equilibrium, Sigmaling games; Adverse Selection and Moral Hazard; Exchange Economy and definition of Competitive Equilibrium; Pareto efficiency and Pareto set; One consumer one producer econnomy; Two sector production economy; First Fundamental theorem of Welfare Economics; Second Fundamental theorem of Welfare Economics; Pareto optimality and social welfare functions; Public goods and externalities; Property rights and Coase theorem; Social Choid Theory.
+
+Course ECO311 - ECONOMETRIC METHODS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Economic growth versus economic development, indicators of economic development, economic inequality, poverty, population growth and economic development, models of dual economy, land tenancy arrangements, rural savings, rural or informal credit markets, history and institutions, role of governance in economic development.
+
+Course ECO311A - DEVELOPMENT ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Economic growth versus economic development, indicators of economic development, economic inequality, poverty, population growth and economic development, models of dual economy, land tenancy arrangements, rural savings, rural or informal credit markets, history and institutions, role of governance in economic development.
+
+Course ECO312 - ECONOMETRIC PRACTICE
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Economic theory and econometrics; Types of models; Sources of data; Microeconometric models; Models of the firm and industry; Applications to development economics; Macroeconometric models; Models of international trade and finance; Deterministic and stochastic models
+
+Course ECO321 - INDUSTRIAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Microeconomic foundations of Macroeconomics, Representative agent model, Application of representative agent model in asset pricing, consumption theories etc., Longrun economic growth models, Models of shortrun economic fluctuations, Macroeconomic policy debates validation and application of growth/business cycle models.
+
+Course ECO321A - MACROECONO MICS-II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Microeconomic foundations of Macroeconomics, Representative agent model, Application of representative agent model in asset pricing, consumption theories etc., Longrun economic growth models, Models of shortrun economic fluctuations, Macroeconomic policy debates validation and application of growth/business cycle models.
+
+Course ECO332 - DEVELOPMENT ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Economic growth versus economic development, indicators of economic development, economic inequality, poverty, population growth and economic development, models of dual economy, land tenancy arrangements, rural savings, rural or informal credit markets, history and institutions, role of governance in economic development.
+
+Course ECO333 - MONEY AND BANKING
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Functions of Money and Interest Rates; Money Supply; Money Market; Regulatoryand promotional institutions; Banking institutions; and Term structure of Interest Rates.
+
+Course ECO341 - ENVIRONMENT AL ECONOMICS AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Classical Linear Regression Model (CLRM), Assumptions of the CLRM and its violation, Hypothesis Testing, Gauss Markov Theorem, Properties of the Estimator, Multiple Regression Model, Hetero scedasticity, Autocorrelation and Multicollinearity, Lagged Variables, Dummy Variables, Specification Bias, Simultaneous Equations, Introduction to Time Series, Discrete Choice, Limited Dependent Variable and Panel Data Models, Estimation Procedures Ordinary Least Square(OLS), Generalized Least Squares(GLS), IV(Instrumental Variable), Maximum Likelihood Estimation(MLE) and Generalized Method of Moments(GMM), Learning of Econometric Software: Eviews and Stata.
+
+Course ECO341A - ECONOMETRIC S I
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Classical Linear Regression Model (CLRM), Assumptions of the CLRM and its violation, Hypothesis Testing, Gauss Markov Theorem, Properties of the Estimator, Multiple Regression Model, Hetero scedasticity, Autocorrelation and Multicollinearity, Lagged Variables, Dummy Variables, Specification Bias, Simultaneous Equations, Introduction to Time Series, Discrete Choice, Limited Dependent Variable and Panel Data Models, Estimation Procedures Ordinary Least Square(OLS), Generalized Least Squares(GLS), IV(Instrumental Variable), Maximum Likelihood Estimation(MLE) and Generalized Method of Moments(GMM), Learning of Econometric Software: Eviews and Stata.
+
+Course ECO342 - ECONOMETRIC S II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Non Linear Regression Models, Non Parametric Regression Models, Measurement Errors, Stochastic Regressor, Multinomial and Conditional Logit Models, Ordered Logit Models, Nested Logit Models, Random Parameter Models, Truncation, Censoring and Sample Selection Models, Duration and Event Count Models, Dynamic Panel Data Models, Time Series Models including ARCH,GARCH and Multivariate GARCH Models, DEA and Stochastic Frontier Models, Total Factor Productivity Estimation, Levinsohn Petrin Approach of Measurement of Productivity, Single and Multiple Equation GMM Procedures, Application of Econometric Models to Trade, Finance, Microeconomics, Development Economics, Growth, Macroeconomics, Industry, among others.
+
+Course ECO342A - ECONOMETRIC S II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-1-0-12. Source: Courses of Study 2021, IIT Kanpur.
+Non Linear Regression Models, Non Parametric Regression Models, Measurement Errors, Stochastic Regressor, Multinomial and Conditional Logit Models, Ordered Logit Models, Nested Logit Models, Random Parameter Models, Truncation, Censoring and Sample Selection Models, Duration and Event Count Models, Dynamic Panel Data Models, Time Series Models including ARCH,GARCH and Multivariate GARCH Models, DEA and Stochastic Frontier Models, Total Factor Productivity Estimation, Levinsohn Petrin Approach of Measurement of Productivity, Single and Multiple Equation GMM Procedures, Application of Econometric Models to Trade, Finance, Microeconomics, Development Economics, Growth, Macroeconomics, Industry, among others.
+
+Course ECO371A - PUBLIC ECONOMICS AND PUBLIC POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-0. Source: Courses of Study 2021, IIT Kanpur.
+Unbounded Operators, Matrix representation, Self adjointness Criterion, Quadratic Forms, Differential Operators, Selfadjoint Extensions, Functional Calculus, Spectra of Selfadjoint Operators, Semianalytic vectors, Theorems of Nelson and Nussbaum, States and Observables, Superselection Rules, Position and Momentum, An Uncertainty Principle of Bargmann, Canonical Commutation Relations, Schrodinger representations, Schrodinger Operators, Selfadjointness, A Theorem of Kato, Spectral Theory for Schrodinger Operators, Discrete Spectrum, Essential Spectrum Course Reference: 1. N. Akhiezer, I. Glazman, Theory of Linear Operators in Hilbert Space II, Dover, 1961; 2. J. Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional Analysis and Partial Differential Equations, World Scientific, 1998; 4. M. Reed and B. Simon, Methods of Modern Mathematical Physics II, Academic Press, 1975. 24-jul-2014
+
+Course ECO397A - TECHNICAL COMMUNICATIO N
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+TECHNICAL COMMUNICATION
+
+Course ECO398A - UG PROJECT (UGP-I)
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT (UGPI)
+
+Course ECO399A - UG PROJECT -II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 0-0-0-2-9. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT II
+
+Course ECO402 - MACROECONO MICS II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Microeconomic foundations of Macroeconomics, Representative agent model, Application of representative agent model in asset pricing, consumption theoriesetc., Longrun economic growth models, Models of shortrun economic fluctuations, Macroeconomic policy debates validation and application of growth/business cycle models. Course Reference: 1. Aghion, A. and Howitt P. The Economics of Growth, MIT Press, 2009; 2. Barro, R. Macroeconomics A Modern Approach, 5th Edition, MIT Press; 3. Mankiw, G. Macroeconomics, 7th Edition, Worth Publishers.
+
+Course ECO404 - HISTORY OF ECONOMIC THOUGHT
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; Social Choice: How much environmental protection; Market failure: Public bad and externatities; Internalisation of externalities; Regulations: Emission Fees & marketable permits; Environmental valuation; Hedonic price method, household production, model & consolouted markets method; Tronsboundary pollotion Sustainable development; Economics of natural resources, Natural resorces accounting; The environmental issues and policies in India.
+
+Course ECO405 - CONTRACT ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; Economics of contracts (adverse selection and moral hazard); Hidden action, monitoring, and control; Efficient contracts; Transfer prices; Contingent claims; Principal agent models; Incomplete and incentive contracts; Implicit contracts; Auctions and bidding; Regulation of contracts
+
+Course ECO407 - MONETARY ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Demand for money; Supply of money; Monetary aggregates; Neutrality of money; Money in a growth model; Money in an OLG model; Central bank goals, targets, and instruments; Time consistent versus discretionary policies; Credible monetary policy
+
+Course ECO408 - ADVANCED MACRO ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; The Solow growth model; Infinite horizon and overlapping generation models; New growth theory; Realbusiness cycle theory; Traditional Keynesian theories of fluctuations; Incomplete nominal adjustment; Consumption andinvestment; Search frictions and unemployment; Inflation and monetary policy; Budget deficits and fiscal policy
+
+Course ECO408A - ADVANCED MACRO ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; The Solow growth model; Infinitehorizon and overlapping generation models; New growth theory; Real businesscycle theory; Traditional Keynesian theories of fluctuations; Incomplete nominal adjustment; Consumption and investment; Search frictions and unemployment; Inflation and monetary policy; Budget deficits and fiscal policy 18-SEP-14
+
+Course ECO411A - INDUSTRIAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction: Structure Conduct Performance (SCP) paradigm, Chicago School view, modem developments and relevance of industrial policy; Monopoly Power and Industrial Concentration; Oligopolistic Industries: competition in quantities and in prices, cartels and collusion; Strategic Behavior: firm entry, accommodation and exit, barriers to entry, predatory pricing and limit pricing; Empirical Studies of SCP Paradigm
+
+Course ECO412A - INTERNATIONA L ECONOMICS AND FINANCE
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+World Trade and Empirical Facts of International Trade with its Explanations, Neoclassical Trade Theories, Alternative and New Trade Theories, Trade PolicyInstruments and their Impact on Welfare, Trade and Income Distribution, International Factor Movements, Negotiations at the GATT and the WTO, Exchange Rate Movements, Past andPresent Arrangements of the International Monetary System including discussion on theEuropean Monetary System and Optimum Currency Area, Regional Trade Agreements, TradeCreation and Trade Diversion, Theories of Exchange Rate and BOP(Balance of Payments) and Different Approaches to the BOP.
+
+Course ECO413 - INDIAN ECONOMIC PROBLEMS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Social accounting matrix; Leontiefs open and closed IO models; Multipliers and linkages in the IO model; Organization of basic data for IO models; Identification of the key sectors; Role of project in development planning; Project development cycles; Capital budgeting decisions; Commercial profit vs. social profitabilityanalysis; Methods of measurement of benefits and costs of projects; Case studies
+
+Course ECO413A - INDIAN ECONOMIC PROBLEMS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+India in a Global Perspective (broad comparison with developed, developing and emerging economies), Trends in Aggregate Economic Activities (trends in Indian national income and related variables, primary, secondary and service sector growth etc), Agriculture (Green Revolution, productivity, land reforms, farming methods etc), Industry (industrial policy resolutions, growth, industrial bottlenecks, structural reforms etc), and Infrastructure (education, poverty alleviation programmes, energy, transport etc)
+
+Course ECO422 - ECONOMICS OF REGULATION AND IPR
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; Rationale for regulation and antitrust; Regulatory practices, rulesvs. implementation agencies; Regulatory capture; Discriminatory pricing; Controlling franchises; Public enterprise regulation; Restructuring and deregulation of keysectors such as energy, transport etc.; Externalities, environmental concerns,and controls; Product quality, safety, and health issues; Patents; Copyrights;Trademark and Service Mark; Industrial Designs Registration; Protection ofLayout of Designs Integrated Circuit; Protection of New Plant Varieties; AntitrustPolicy and IPR; Agreements and IPR Linkages; Litigation; Continuous Issues inIPR (Such as Biotechnology and IPR, TRIPS and Access to Medicines, etc.).
+
+Course ECO423 - FINANCIAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic accounting principles; Basics of financial markets; Return, risk and riskaversion; How securities are traded?; Mutual funds and the institutional environment; Portfolio selection; The capital asset pricing model; Index models and the arbitrage pricing theory; Empirical evidence of market returns; Market efficiency; Bond prices and yields; The term structure of interest rates; Managing bond portfolio; Security analysis; Options and other derivatives; Option valuation;Futures and forward markets; Portfolio management techniques
+
+Course ECO423A - FINANCIAL ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic accounting principles; Basics of financial markets; Return, risk and risk aversion; How securities are traded?; Mutual funds and the institutional environment; Portfolio selection; The capital asset pricing model; Index models and the arbitrage pricing theory; Empirical evidence of market returns; Market efficiency; Bond prices and yields; The term structure of interest rates; Managing bond portfolio; Security analysis; Options and other derivatives; Option valuation;Futures and forward markets; Portfolio management techniques
+
+Course ECO424 - ECONOMIC ANALYSIS OF LAW
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to economic analysis of law; Economic theory of property law; Contracts and warranties; and Economic theory of tort law in addition, Thecourse focuses on any are of the following madule(s): Economic crimes and penalties; Economic theory of administrative law; Corporations and corporate finance; Economic analysis of labor law; Economic analysis of competition law; Project assignment
+
+Course ECO424A - ECONOMIC ANALYSIS OF LAW
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to economic analysis of law; Economic theory of property law; Contracts and warranties; and Economic theory of tort law in addition, Thecourse focuses on any are of the following madule(s): Economic crimes andpenalties; Economic theory of administrative law; Corporations and corporate finance; Economic analysis of labor law; Economic analysis of competition law; Project assignment
+
+Course ECO434 - INTERNATIONA L ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Global trade in goods and services; Why study international trade and finance;Growth and trade; Basic theory of international trade; Theory of comparative advantage; Implications of HeckserOhlin theory; Alternative theories of trade;Empiricial Tests of Trade Therics; International trade and technical change;Economics of import tariff; Nontariff import barriers; Arguments for and against protection; Regional trading blocks; Trade policies for development; International factor movements; Exchange rate and open economy; Internal and External Balance with Fixed and Flexible Exchange rate; Foreign exchange markets and exchange rates; Balance of payments; International monetary system; Benefits and costs of the Globalication Process.
+
+Course ECO498A - UNDER GRADUATE PROJECT-III
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT (UGPIII)
+
+Course ECO501 - ENVIRONMENT AL ECONOMICS AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+(Basic Mathematical Logic; Set Theory; Review of Functions of a Single Variable and Its Application in Economics: Choice, Utility and Aggregation; Functions of Several Variables: Level Curves, Homogeneity and Homotheticity, Concavity and Convexity; Static Optimization: Unconstrained Optimization, Constrained Optimization with Equality and Inequality Constraints; The Envelope Theorem and Duality; Dynamics and Dynamic Optimization. Course Reference: 1. Shyam Divan & Armin Rosencranz, Environmental Law and Policy in India, Oxford University Press; 2. R Rajagopalan, Environmental Studies, Oxford University Press; 3. Charles D. Kolstad, Environmental Economics, Oxford University Press; 4. Trade and Environment, by Hiiksn Nordstrom & Scott Vaughan, WTO; 5. Natural Resource and Environmental Economics, Roger Perman, Yue Ma, JamesMcGilvray, and Michael Common; 6. Environmental Economics for three Huggers and other Skeptics, William K. Jaeger; 7. Renewable Resources: The Fishery and Wildlife, David Pearce; 8. Renewable Resources: The Tropical Forest, David Pearce; 9. Economic Theory of Exhaustible Resource: R Ranganathan; 10. Environmental Economics: Hartwick & Olewaler
+
+Course ECO501A - ENVIRONMENT AL ECONOMICS AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Price mechanism and its limitations to mitigate externalities, economic instruments to promote sustainable development, missing market methods to set market prices for environmental goods and services, renewable and nonrenewable resources and environmental policy. Course Reference: 1. Shyam Divan & Armin Rosencranz, Environmental Law and Policy in India, Oxford University Press; 2. R Rajagopalan, Environmental Studies, Oxford University Press; 3. Charles D. Kolstad, Environmental Economics, Oxford University Press; 4. Trade and Environment, by Hiiksn Nordstrom & Scott Vaughan, WTO; 5. Natural Resource and Environmental Economics, Roger Perman, Yue Ma, JamesMcGilvray, and Michael Common; 6. Environmental Economics for three Huggers and other Skeptics, William K. Jaeger; 7. Renewable Resources: The Fishery and Wildlife, David Pearce; 8. Renewable Resources: The Tropical Forest, David Pearce; 9. Economic Theory of Exhaustible Resource: R Ranganathan; 10. Environmental Economics: Hartwick & Olewaler
+
+Course ECO502 - APPLIED GAME THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction: Optimal contracts under uncertainty, hidden information (adverse selection), or hidden action (moral hazard); Bilateral contracting: Hiddeninformation screening and signaling, hidden action moral hazard; Optimal contracting with multilateral asymmetric information: Auctions and trade under multilateral private information; moral hazard in teams, tournaments and organizations; Incomplete contracts: Institution design, implementation theory, bilateral and multilateral contracts Course Reference: 1. Patrick Bolton and Mathias Dewatripont, Contract Theory (2005), The MIT Press; 2. T.V. S. Rammohan Rao, Contract Economics (2004), New Age International.
+
+Course ECO502A - APPLIED GAME THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction: Optimal contracts under uncertainty, hidden information (adverse selection), or hidden action (moral hazard); Bilateral contracting: Hidden information screening and signaling, hidden action moral hazard; Optimal contracting with multilateral asymmetric information: Auctions and trade under multilateral private information; moral hazard in teams, tournaments and organizations; Incomplete contracts: Institution design, implementation theory, bilateral and multilateral contracts Course Reference: 1. Patrick Bolton and Mathias Dewatripont, Contract Theory (2005), The MIT Press; 2. T.V. S. Rammohan Rao, Contract Economics (2004), New Age International.
+
+Course ECO514 - INPUT-OUTPUT TECHNIQUES
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic inputoutput system; Projection of inputoutput coefficients; Non surveyand partial survey methods; Input demand functions; Capital coefficients and dynamic considerations in input output analysis; Application of inputoutput techniques in the economic planning; Input output tables for the Indian economy; Application of IO models in the field of energy and environment
+
+Course ECO522A - MONETARY ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Monetary Policy in the Basic Macro Model, Demand for Money, Targets versus Instruments, Role of Expectations and Monetary Policy, Time versus Discretionary Policy, Credibility of the Central Bank, Theories of Monetary Aggregate, Money in a Growth Model, and Money in an Overlapping Generations Model. Course Reference: 1. Monetary Economics by J Handa; 2. Handbook of Monetary Economics, edited by Benjamin Friedman and F H Hahn, Vols 1&2; 3. Journal articles to be suggested in class.
+
+Course ECO524A - HETEROGENOU S FIRMS AND INTERNATIONA L TRADE
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Static representative agent model, Dynamic representative model, Bellmao equation! Pontryagin’s Maximum Principle, Asset pricing, Dynamic endowment economy, Overlapping generations model, Real business cycle models. Course Reference: 1. Cooley, T. 1995. Frontiers of Business Cycle Research, Princeton University Press; 2. Krueger, Dirk, Lecture Notes (available on his website); 3. Ljungqvist, L. and Sargent, Thomas J. 2004. Recursive Macroeconomic Theory, SecondEdition, MIT Press, Cambridge, MA; 4. Romer, David. 2006, Advanced Macroeconomics, Third Edition, New York: McGrawHill; 5. Williamson, Stephen D., Lectures in Macroeconomics (available on his website).
+
+Course ECO527 - MULTINATIONA L ENTERPRISES
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; Foreign direct versus portfolio investment; Global and regional trends in direct investment; Horizontal and vertical integration; Ownership location internalization framework; Endogenous market structures in international trade; General equilibrium approaches to the multinational firm; Determinants of FDI; Overseas investment and firm exports; Vertical multinationals,fragmentation and outsourcing; Licensing versus direct investment: models of internalization of the multinational enterprise; Contracts, intellectual property rights, and multinational investment in developing countries; Multinational firms,technology diffusion and trade; International taxation and transfer prices; Dodomestic firms benefit from direct foreign investment?; MNEs and host country relations.
+
+Course ECO535 - PUBLIC ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Scope of public economics; Equity, social welfare and taxation; Taxation, income support and social insurance; Taxation and individuals; Market failure andgovernment intervention; Optimal provision of public goods; Public expenditure and public debt; Modeling government behavior; Organization of public sector
+
+Course ECO535A - PUBLIC ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Scope of public economics; Equity, social welfare and taxation; Taxation, income support and social insurance; Taxation and individuals; Market failure and government intervention; Optimal provision of public goods; Public expenditure and public debt; Modeling government behaviour; Organization of public sector.
+
+Course ECO541 - EMPIRICAL METHODS IN APPLIED MICROECONOM ICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Correlation vs Causality, Omitted Variables, Measurement Error, Randomized Experiments, Introduction to the course; Random Variable, Probability Review. Observational Studies and Regression, Overview of research design, and examples. Measurement Error and Omitted Variables Bias, Applications. Experimental Designs, Applications. Quasi Experimental Designs, Applications. Selection on Observables: Matching and Propensity Scores, Applications. Selection on Observables: Fixed Effects, PrePost Designs and Difference in Differences, Applications. Regression Discontinuity, Applications. Instrumental Variables, Applications. Recent Developments in the field: Discussion of papers on new methods and applications. Course Reference: 1. Joshua D. Angrist, JornSteffen Pischke, Mostly Harmless Econometrics: An Empiricist’s Companion, Princeton University Press, 2008A; 2. Colin Cameron, Pravin K. Trivedi, Microeconometrics: Methods and Applications Papers from various Journals like American Economic Review, Journal of Political Economy, Quarterly Journal of Economics, Journal of Labor Economics, Journal of development Economics etc. 18- SEP-14
+
+Course ECO541A - EMPIRICAL METHODS IN APPLIED MICROECONOM ICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Correlation vs Causality, Omitted Variables, Measurement Error, Randomized Experiments, Introduction to the course; Random Variable, Probability Review. Observational Studies and Regression, Overview of research design, and examples. Measurement Error and Omitted Variables Bias, Applications. Experimental Designs, Applications. Quasi Experimental Designs, Applications. Selection on Observables: Matching and Propensity Scores, Applications. Selection on Observables: Fixed Effects, PrePost Designs and Difference in Differences, Applications. Regression Discontinuity, Applications. Instrumental Variables, Applications. Recent Developments in the field: Discussion of papers on new methods and applications. Course Reference: 1. Joshua D. Angrist, JornSteffen Pischke, Mostly Harmless Econometrics: An Empiricist’s Companion, Princeton University Press, 2008; 2. Colin Cameron, Pravin K. Trivedi, Microeconometrics: Methods and Applications Papers from various Journals like American Economic Review, Journal of Political Economy, Quarterly Journal of Economics, Journal of Labor Economics, Journal of development Economics etc.
+
+Course ECO542 - PANEL DATA PROCEDURES AND ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+1.Panel Data Basics(06) Fixed, Random effect models(one way and two way models),Pooled OLS, Models with unobservable heterogeneity; 2.Model Specification(03) Goodnessoffit measures ,FTest, LMTest, HausmanTest, Model extensions; 3.Dynamic panel data procedures(07) Instrumental Variable Procedure(IV),GIVE(Generalized Instrumental Variable Estimators (2Stage Least Squares) and GMM(Generalized Method of Moments) Estimators, Properties of the GMM estimators, Variances of the IV and 2SLS estimators, Tests for Over identifying Restrictions, Arellano Bond, Arellano Bover , Blundell Bond Procedures, GMM procedure in a simultaneous equation settings; 4.Specification of Dynamic Models(05) SarganHansenTest, Test for autocorrelation, Choice of instruments ,Identification problems; 5.UnitRootTests for Panel Data(04) Levin/Lin, Im/Peseran/Shin, Maddala/Lin ,PANIC Analysis Taking contemporary correlation into account ,Residual tests by Pedroni and Kao TraceTest by LLL (1999); 6.Estimating Cointegration Relationships(04) Fully Modified(FM)OLS (Pedroni, Phillips/Moon), Dynamic Ordinary Least Squares(DOLS)Estimation, Parametric estimation (Pooled Mean Group, 2 Stage Least Squares) ,Estimation of error correction models, Panel VAR(Vector Auto Regression) and Innovation Accounting in a panel framework; 7.Limited Dependent variable models with Panel data(06)Tobit, Logit and Probit Models in a panel settings with applications in Labour economics; 8.Application of Panel data in Trade, Finance, Industrial Economics, Macroeconomics and Microeconomics, among others with hands on experience of doing panel data analysis through standard econometric softwares (07) Course Reference: 1.Angrist,J D and JS Pischke, Mostly Harmless Econometrics: An Empiricist Companion, Princeton University Press, Princeton and Oxford,2009; 2.Arellano, M. (2003), Panel Data Econometrics, 1st edition, Oxford University Press, ISBN13: 9780199245291; 3.Baltagi, B.H. (2008), Econometric Analysis of Panel Data, 4th edition, Wiley, ISBN13: 9780470518861; 4.Baltagi, B.H. (2011), Econometrics, 5th edition, Springer, ISBN13: 9783642200588; 5.Cameron, A.C. and Trivedi, P.K. (2010), Microeconometrics Using Stata, 2nd edition, Stata Press, ISBN13: 9781597180733; 6.Greene, W.H. (2011), Econometric Analysis, 7th edition, Prentice Hall, ISBN13: 9780131395381; 7.Verbeek, M. (2012), A Guide to Modern Econometrics, 4th edition, Wiley, ISBN13: 9781119951674; 8.Wooldridge, J.M. (2010), Econometric Analysis of Cross Section and Panel Data, 2nd edition, The MIT Press, ISBN13: 9780262232586; 9. Christopher Dougherty(2011), Introduction to Econometrics, OUP, Fourth Edition, Oxford, New York
+
+Course ECO543 - BAYESIAN DATA ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-3-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Course Description: This is an introductory level course in Bayesian methods aimed to introduce students to the Bayesian framework (originating from Bayes rule), that formally allows to incorporate nonsample information into the model. The course will equip the students with sufficient tools to analyze data using Bayesian techniques that will be useful in academia as well as industry. The course is targeted for advanced undergraduate students or any individual seeking to learn Bayesian techniques. The course will be heavily dependent on basic knowledge of statistics, elementary calculus, linear algebra, different kind of distributions and linear regression. Consequently, students who have taken the course Econometric Methods (ECO341A) will have an advantage. However, students who are willing to take this course but have not taken econometric methods are required to thoroughly study Ch 1 to Ch 4 from Statistical Inference (by Casella and Berger) and linear regression. Softwares: Bayesian methods are highly computational, hence proficiency in coding is required or one should be willing to put in extra hours to code programs. The official software for this course will be Matlab.
+
+Course ECO543A - BAYESIAN DATA ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-3-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Course Description: This is an introductory level course in Bayesian methods aimed to introduce students to the Bayesian framework (originating from Bayes rule), that formally allows to incorporate nonsample information into the model. The course will equip the students with sufficient tools to analyze data using Bayesian techniques that will be useful in academia as well as industry. The course is targeted for advanced undergraduate students or any individual seeking to learn Bayesian techniques. The course will be heavily dependent on basic knowledge of statistics, elementary calculus, linear algebra, different kind of distributions and linear regression. Consequently, students who have taken the course Econometric Methods (ECO341A) will have an advantage. However, students who are willing to take this course but have not taken econometric methods are required to thoroughly study Ch 1 to ch 4 from Statistical Inference (by Casella and Berger) and linear regression. Softwares: Bayesian methods are highly computational, hence proficiency in coding is required or one should be willing to put in extra hours to code programs. The official software for this course will be Matlab.
+
+Course ECO545A - BAYESIAN ECONOMETRIC S
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Please see uploaded content file attached.
+
+Course ECO572 - PRODUCTIVITY AND EFFICIENCY ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+This course is designed for students who wish to learn about production economics and benchmarking analysis. Benchmarking is used to measure performance of a producer using a specific indicator (production/ cost/profit) resulting in a metric of performance that is then compared to other producers. Students will learn to estimate production and cost functions and compute measures of absolute and relative economic performance using data envelopment analysis (DEA), deterministic frontier analysis (DFA), and stochastic frontier analysis (SFA) methods. Students analyse different types of datasets using software packages such as DEAP, Excel solver, FRONTIER, and Stata. 01-APR-2015
+
+Course ECO572A - PRODUCTIVITY AND EFFICIENCY ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+This course is designed for students who wish to learn about production economics and benchmarking analysis. Benchmarking is used to measure performance of a producer using a specific indicator (production/ cost/profit) resulting in a metric of performance that is then compared to other producers. Students will learn to estimate production and cost functions and compute measures of absolute and relative economic performance using data envelopment analysis (DEA), deterministic frontier analysis (DFA), and stochastic frontier analysis (SFA) methods. Students analyse different types of datasets using software packages such as DEAP, Excel solver, FRONTIER, and Stata. 01-APR-2015
+
+Course ECO598 - PROJECT-I
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 0-0-4-0-4. Source: Courses of Study 2021, IIT Kanpur.
+PROJECTI
+
+Course ECO599 - PROJECT-II
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 0-0-4-0-4. Source: Courses of Study 2021, IIT Kanpur.
+PROJECTII
+
+Course ECO731 - PUBLIC ECONOMICS AND PUBLIC POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Unbounded Operators, Matrix representation, Self adjointness Criterion, Quadratic Forms, Differential Operators, Selfadjoint Extensions, Functional Calculus, Spectra of Selfadjoint Operators, Semianalytic vectors, Theorems of Nelson and Nussbaum, States and Observables, Superselection Rules, Position and Momentum, An Uncertainty Principle of Bargmann, Canonical Commutation Relations, Schrodinger representations, Schrodinger Operators, Selfadjointness, A Theorem of Kato, Spectral Theory for Schrodinger Operators, Discrete Spectrum, Essential Spectrum Course Reference: 1. N. Akhiezer, I. Glazman, Theory of Linear Operators in Hilbert Space II, Dover, 1961; 2. J. Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional Analysis and Partial Differential Equations, World Scientific, 1998; 5. M. Reed and B. Simon, Methods of Modern Mathematical Physics II, Academic Press, 1975.
+
+Course ECO731A - PUBLIC ECONOMICS AND PUBLIC POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Unbounded Operators, Matrix representation, Self adjointness Criterion, Quadratic Forms, Differential Operators, Selfadjoint Extensions, Functional Calculus, Spectra of Self adjoint Operators, Semianalytic vectors, Theorems of Nelson and Nussbaum, States and Observables, Superselection Rules, Position and Momentum, An Uncertainty Principle of Bargmann, Canonical Commutation Relations, Schrodinger representations, Schrodinger Operators, Self adjointness, A Theorem of Kato, Spectral Theory for Schrodinger Operators, Discrete Spectrum, Essential Spectrum. Course Reference: 1. N. Akhiezer, I. Glazman, Theory of Linear Operators in Hilbert Space II, Dover, 1961; 2. J. Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional Analysis and Partial Differential Equations, World Scientific, 1998; 5. M. Reed and B. Simon, Methods of Modern Mathematical Physics II, Academic Press, 1975.
+
+Course ECO732 - ECONOMETRIC S
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-1--4. Source: Courses of Study 2021, IIT Kanpur.
+Problems of statistical inference in economics constraints on the parameterspace, random coefficient models, distributed lags, decision models, and systemsof equations. New functional forms kernel estimation, neural networks.
+
+Course ECO732A - ECONOMETRIC S
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Problems of statistical inference in economics constraints on the parameterspace, random coefficient models, distributed lags, decision models, and systemsof equations. New functional forms kernel estimation, neural networks.
+
+Course ECO734 - INDUSTRIAL ORGANISATION AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Scope of Industrial organization; Industrial Efficiency; Basic Framework forthe Study of Industrial Organization; Recent Approaches to Industrial Organization; Market Structure and Its Elements; Market Conduct, Internal Structure of theFirm. Critical Appraisal of Industrial Development policies in India; Case Studiesfrom Heavy Industries, Consumer Goods Industries and Public Utilities.
+
+Course ECO734A - INDUSTRIAL ORGANISATION AND POLICY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Scope of Industrial organization; Industrial Efficiency; Basic Framework forthe Study of Industrial Organization; Recent Approaches to Industrial Organization; Market Structure and Its Elements; Market Conduct, Internal Structure of theFirm. Critical Appraisal of Industrial Development policies in India; Case Studiesfrom Heavy Industries, Consumer Goods Industries and Public Utilities.
+
+Course ECO735 - DEVELOPMENT ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The international trends in economic development, various development theoriesand operational strategies towards capital formation, international capital flows, foreign trade, agriculture, industry, HRD, technology transfer and environmentwill constitute the broad contents of this course. Further, focus will be on new economic policies and emerging new international structures. Besides, theshidents will undertake some empirical project as group assign many.
+
+Course ECO735A - DEVELOPMENT ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+The international trends in economic development, various development theories and operational strategies towards capital formation, international capital flows, foreign trade, agriculture, industry, HRD, technology transfer and environment will constitute the broad contents of this course. Further, focus will be on new economic policies and emerging new international structures. Besides, the shidents will undertake some empirical project as group assign many.
+
+Course ECO736 - APPLIED ECONOMETRIC S
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+This course provides a methodology of emprical research in applying econometric tools for policy-oriented research in social sciences. Emphasis will be given tovarious ways of handling problems faced in doing empirical research in India.
+
+Course ECO737 - ADVANCES IN MICROECONOM IC THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Developments in monopolistic competition (nonprice decisions in particular), the microeconomic theory of modern organiszations (discretionary managerial behaviour, the organizational dimension) as envisaged by Williamson and Coase, and their implications for industrial policy.
+
+Course ECO737A - ADVANCES IN MICROECONOM IC THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Developments in monopolistic competition (nonprice decisions in particular), the microeconomic theory of modern organizations (discretionary managerial behaviour, the organizational dimension) as envisaged by Williamson and Coase, and their implications for industrial policy.
+
+Course ECO738 - INTER- INDUSTRY ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The course will highlight the basic inputoutput models and their extensions. Various examples would be drawn from the empirical analysis of the inputoutputframework in India and abroad.
+
+Course ECO738A - INTER- INDUSTRY ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+The course will highlight the basic inputoutput models and their extensions Various examples would be drawn from the empirical analysis of the inputoutpu framework in India and abroad.
+
+Course ECO740 - SEMINAR ON SELECTED TOPICS IN ADVANCED ECONOMIC ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The course will cover some frontier topics in advanced economic analysis fora detailed discussion in seminars.
+
+Course ECO741A - PRODUCTION ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Course Description: This applied course focuses on producer/firm behavior in great detail. This course is designed as a blend of microeconomic theory and quantitative techniques to model production data and answer some important managerial questions. Students will learn to handle production data by means of econometrics and linear programming. In particular, the course will teach how to estimate production, cost, profit, and input demand functions and compute measures of absolute economic performance of a producer. Selected case studies and real life databased assignments will be drawn from various sectors (agriculture, energy, industry etc.).Course Content (Number of lectures 40):Part 1: Theory of firmProduction function, Elasticity of substitution, Elasticity of scale and size, Cost function, Duality between cost and production functions, Profit function, Firms supply function, Total factor productivity (TFP), Index numbers and productivity measurement, Difference between productivity and efficiency.Part 2: Quantitative analysis of production dataData and measurement issues, Flexible forms of production and cost functions, Empirical estimation of production, cost, profit and input demand functions, Testing for functional form: Nested vs. nonnested tests in linear models, JustPope type production function to handle risk in production environment, Formulation of linear programming (LP) problems (primal and dual), Graphical and Simplex solution methods, LP applications in production analysis, Activity analysis. Chambers, Course Reference: 1. R.G., Applied Production Analysis: A Dual Approach, Cambridge University Press, 1988; 2. Coelli, T.J., D.S. Prasada Rao, C.J. ODonnell and G.E. Battese, An Introduction to Efficiency and Productivity Analysis, 2nd edition, Springer, New York, 2005; 3. Rasmussen, S., Production Economics, 2nd Edition. Springer, 2013; 4. Articles from American Journal of Agricultural Economics, Journal of Econometrics, and The Review of Economics and Statistics.
+
+Course ECO742A - EFFICIENCY AND PRODUCTIVITY ANALYSIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Course Descriptions: This applied microeconomics course is designed for student who wish to learn about benchmarking analysis. Benchmarking is used to measure performance of decision-making unit (here, a producer or a firm) using a specific economic indicator (productions/cost/profit), resulting in a performance metric (e.g. technical efficiency growth) suitable for comparison across similar units. The course offers an introduction to Data Envelopment Analysis (DEA) and Stochastic Frontier Analysis (SFA). In particular, students will learn to use parametric SFA and nonparametric DEA models to estimate production and most frontiers and compute measures of various types of efficiencies and productivity growth. The course is a mixture of advanced theory, quantitative techniques, and computations involving real life productions data.
+
+Course ECO745 - ADVANCED MONETARY THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The course begins with the role of money in static macroeconomic models, neoclassical growth models and consumption loan models, then focusses upon supply of money and monetary aggregate demand for money, and the role ofthe central bank.
+
+Course ECO745A - ADVANCED MONETARY THEORY
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+The course begins with the role of money in static macroeconomic models, neoclassical growth models and consumption loan models, then focusses upon supply of money and monetary aggregate demand for money, and the role ofthe central bank.
+
+Course ECO747 - ENVIRONMENT AL ECONOMICS LEGISLATION AND SOCIAL IMPACT
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+With a view to establish sustainable development and to overcome the dilemma of development, the course proposes to focus on the broad aspects of environmental economics, environmental legislations and the environmental impact assessment. The consequent changes in the approaches and policies ofvarious Government under the leadership of U.N. and World Bank will be discussed along with a number of case studies. The legel aspects of various environmental projects will be discussed. Besides the students will undertake an empirical excercise through project assignment.
+
+Course ECO747A - ENVIRONMENT AL ECONOMICS LEGISLATION AND SOCIAL IMPACT
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+With a view to establish sustainable development and to overcome the dilemma of development, the course proposes to focus on the aspects of environtal economics, environmental legislations and the environmental impact assessment. The consequent chanes in the approaches and policies of various Government under the leadership of U.N. and World Bank will be discussed along with a number of case studies. The legal aspects of various environmental excercise through project assignment.
+
+Course ECO750 - ADVANCED MICROECONOM ICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Discussions on macroeconomic theory within the ISLM framework, add the supply considerations, and then review some of the new clasical and new Keynesian contributions; budget financing, interactions with the rest of the world andcommon empirical issues in macroeconomics.
+
+Course ECO750A - ADVANCED MACROECONO MICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Discussions on macroeconomic theory within the ISLM frame work, and the supply considerations, and then review some of the new classical and new keynesian contributions; budget financing, interactions with the rest of the world and common empirical issues in macroeconomics.
+
+Course ECO751 - LAW AND ECONOMICS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction; Economic Analysis of Property Law: An Economic Theory of Property, and Intellectual Property Rights; Economic Analysis of Contrat Law: Economic Theory of Contract, and Economics of Remedies for Breach of Contract; Economic Analysis of Tort Law, and Economics of Tort Liability; Public Law and Economics: Legislative and Executive Participation and Discretion: Economic anaylsis of judicial review, and general Applications to Indian Institutes: Economic theoryof Corporation Law: The Theory of the Firm, Corporation and their Interaction,the Economic Reconstruction of Corporation Law, analysis of Specific Problems of Corporation Law, Economic Analysis of Labour Law: Unions and Productivity,Workers Protective Legislation, Issues in Employment discremination on grounds of Race Sex, and Age; and Economic Analysis of Competition Law: Economic Theory of Competition Law, and Competition Policy in India.
+
+Course ECO756 - PROGRAMME EVALUATION: METHODS AND APPLICATIONS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Experimental Design, Measurement Error, Omitted Vairables Bias, Quasi_Experimental Designs, Selection on Observables: Matching and Propensity Scores, Difference in Differences, Instrumental Variables, Regression Discontinuity. Course Reference: 1. Wooldridge, J.M. (2010), Econometric Analysis of Cross Section and Panel Data, 2nd edition; 2. Cameron, A.C. and Trivedi, P.K. (2005), Microeconometric: Methods and Applications; 3. Cameron A.C. and Trivedi, P.K(2010), Microeconometrics Using Stata, 2nd edition, Stata Press; 4. Angrist, J.D. and J.S. Pischke (2009), Mostly Harmless Exonometrics: An Empiricist Companion; 5. Journal Papers to becrecommended by the Instrucor.
+
+Course ECO756A - PROGRAMME EVALUATION: METHODS AND APPLICATIONS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Experimental Design, Measurement Error, Omitted Vairables Bias, Quasi Experimental Designs, Selection on Observables: Matching and Propensity Scores, Difference in Differences, Instrumental Variables, Regression Discontinuity. Course Reference: 1. Wooldridge, J.M. (2010), Econometric Analysis of Cross Section and Panel Data, 2nd edition; 2. Cameron, A.C. and Trivedi, P.K. (2005), Microeconometric: Methods and Applications; 3. Cameron A.C. and Trivedi, P.K(2010), Microeconometrics Using Stata, 2nd edition, Stata Press; 4. Angrist, J.D. and J.S. Pischke (2009); 5.Mostly Harmless Exonometrics: An Empiricist Companion; 6. Journal Papers to becrecommended by the Instrucor.
+
+Course ECO799 - PHD THESIS
+Department: Department of ECO (Economic Sciences). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis

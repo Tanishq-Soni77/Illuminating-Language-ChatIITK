@@ -1,0 +1,565 @@
+CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS, CONTACT AND GENERAL PAGES
+Name: Centre for Lasers and Photonics (CELP) - Photonics Science and Engineering Programme, IIT Kanpur - overview, history, programmes, admissions, contact and general pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/celp. Snapshot: scraped in 2026.
+
+=== about us ===
+Source: https://www.iitk.ac.in/celp/about-us
+The Centre for Lasers and Photonics (CELP) is an interdisciplinary centre of excellence that combines cutting-edge technology from engineering and theoretical advances in science to create new horizons in the field of photonics science and engineering. The faculty in CELP belong to different parent departments (EE, ME, AE, PHY, CY, and CE) and pursue research in the fields of nanophotonics, biophotonics, ultrafast optics, quantum optics, imaging, optical communication, optoelectronics, spectroscopy and related areas. The Centre has research infrastructure worth several crores funded by agencies such as DST, DRDO, CSIR, MHRD etc.
+
+Three PG programmes offered at CELP: PhD , M.Tech and M.S(Research) in Photonics Science and Engineering Programme (PSEP). The aim of PSEP is to train engineers/scientists from diverse background in interdisciplinary activities in photonics and related areas. For details, please visit our Academics webpage.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > about us]
+Some of the projects that are currently pursued by CELP students are: Vein imaging, cancerous cell detection, LiDar systems, semiconductor lasers, chaos in fibers, quantum cryptography, photonic crystals, fibre lasers, and particle imaging.
+
+The department coordinates with institute in placement activities for M.Tech and PhD students. Our alumni are working in prestigious organizations such as DRDO, BEL, MathWorks etc. Many of our alumni have chosen to pursue PhD in reputed international and national universities.
+
+=== home ===
+Source: https://www.iitk.ac.in/celp/
+Ministry of Mines, Government of India (funded project on)
+
+Development of a cost-effective automated LIBS and ML-based system for real-time analysis and sorting of Aluminium (Al) alloys
+CELP IIT Kanpur, is always committed towards translating cutting-edge photonics research into industrial solutions
+
+Advancing Indigenous Innovation with Compact, Cost-Effective, and Stable Femtosecond
+Laser Technology – Empowering 'Make in India' at IMTEX 2025.
+FemtoQube
+An Integrable Optical Fiber based Femtosecond Laser Oscillator System
+Developed under the MoU between CELP, IIT Kanpur, and CMTI Bengaluru.
+
+CELP, IIT Kanpur represented at the Advanced Manufacturing Systems Mission (AMSM)
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > home]
+stakeholder meeting (February, 2026)
+CELP is playing an active role in shaping national strategies for next-generation manufacturing technologies………
+
+Welcome to Center for Lasers and Photonics
+
+Central Manufacturing Technology Institute(CMTI), Bangalore
+and IIT Kanpur signed a MoU on collaborative research in Laser Technology,
+Photonics and Advanced Manufacturing Technology.
+
+Institute Postdoctoral Fellowship
+
+News/ Events
+
+Secured Ministry of Mines-funded project on LIBS | Indigenous FemtoQube showcased at IMTEX 2025 | CELP represented at AMSM stakeholder meeting | Indian patent granted for Femtosecond Laser Oscillator
+
+The Center for Lasers and Photonics (CELP) is an interdisciplinary center of excellence that combines cutting-edge technology from engineering and theoretical advances in science to create new horizons in the field of photonics science and engineering. The faculty in CELP belong to six different parent departments (EE, ME, AE, PHY, CY, and CE) and pursue research in the fields of nanobiophotonics, ultrafast optics, quantum optics and related fields. The Center has research infrastructure worth several crores funded by agencies such as DST, DRDO, CSIR, MHRD etc.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > home]
+Read more
+
+Head of Department
+
+Prof. Pradeep Kumar K
+
+Head, Centre for Lasers and Photonics
+Phone:0512-259-7570
+Email: head_ltp@iitk.ac.in / pradeepk@iitk.ac.in
+
+Course Offered
+
+MS Program
+
+MS program in Photonics Science and Engineering
+
+View Details
+
+M.Tech. Program
+
+M.Tech. program in Photonics Science and Engineering
+
+View Details
+
+Ph.D. Program
+
+Ph.D. in Photonics Science and Engineering
+
+View Details
+
+Course Content for Photonics Science and Engineering
+
+View Details
+
+News & Announcement
+
+Announcements
+
+Events
+
+News
+
+Shortlisting Criterion for M.Tech Admission 2026-2027, Semester-I  New
+
+List of Selected Candidates for M.S. by Research (MSR) programme
+
+List of Selected Candidates for PhD programme
+
+Candidates Shortlisted for Interview in PhD Programme
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > home]
+Candidates Shortlisted for Interview in M.S ( by Research) Programme
+
+Central Manufacturing Technology Institute(CMTI), Bangalore and IIT Kanpur signed a MoU on the 4th July 2022 to undertake collaborative research in Laser Technology, Photonics and Advanced Manufacturing Technology.
+
+See all
+
+Research Scholar Day 2023
+
+R.R. Dasari Distinguished Lecture Series-2022 (16 May 2022)(Click here for Details)
+
+International Day of Light (20 May 2022)
+
+Prof Shilpi Gupta has been awarded with P.K Kelkar Fellowship from the Institute.
+
+Prof Pratik Sen has been awarded with Poonam and Prabhu Goel Chair Professorship.
+
+Upcoming Events
+
+×
+
+joomla social media module
+
+=== contact us ===
+Source: https://www.iitk.ac.in/celp/contact-us
+Centre for Lasers and Photonics
+
+Indian Institute of Technology
+Kanpur - 208 016
+
+Phone : 0512-259-7570
+
+Address : No. 215, Southern Laboratory,
+IIT Kanpur - 208 016, Uttar Pradesh, India
+
+=== dpgc convener ===
+Source: https://www.iitk.ac.in/celp/dpgc-convener
+Departmental Postgraduate Committee (DPGC) Convener
+
+Dr. S. R. Chanu
+
+Assistant Professor
+
++91-512-259 2406
+Home Page
+
+=== electives ===
+Source: https://www.iitk.ac.in/celp/electives
+QUANTUM AND WAVE PHENOMENA
+(EE683A) |
+Introduction to quantum mechanics and its tools: Motivation for quantum mechanics: early experiments; general principles of quantum mechanics: operator algebra, eigenstates, superposition, observables and expectation values, uncertainty relations, commutators, angular momentum, Dirac notation; potential wells and barriers, harmonic oscillator, Hydrogenic atom; time independent and dependent perturbation theory. .Device applications of quantum and wave phenomena: Density of states; practical examples of lowdimensional systems such as quantum wells, wires and dots: design, fabrication and characterization techniques; engineered electronic and optical properties of these lowdimensional materials; application in electronic, optoelectronic and photonic devices; current research efforts towards using quantum mechanical effects for developing efficient devices. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > electives]
+FIBER-OPTIC COMMUNICATIONS
+(EE684A) |
+
+Introduction.
+
+Light propagation in optical fibers. Single and multimode fibers, light guiding by fibers, material and waveguide dispersion, Polarization mode dispersion, Nonlinear effects: self and cross phase modulation, Raman and Brillouin scattering, four wave mixing etc.
+
+Optical transmitters and modulation. External modulators: phase and intensity, bias control, Pulse shaping, pulse carving, Modulation formats; Intensity modulation, RZ and NRZ amplitude modulation, Mary modulation using Mach Zehnder modulator, MSK, IQ modulation and optical OFDM.
+
+Detection of optical signals. Direct detection: receiver structure, data recovery, signal to noise ratio, performance calculations for binary digital optical systems. Coherent detection: heterodyne, homodyne, DSP assisted coherent optical receiver, performance analysis.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > electives]
+Optical amplifiers. Principles of SOA and EDFA, single and double pump configurations, ASE noise in SOA and EDFA, OSNR calculations.
+
+Optical link design. Power budget under linear and nonlinear effects, power penalty, dispersion tolerance in DWDM systems.
+
+SEMICONDUCTOR OPTICAL COMMUNICATION DEVICES
+(EE685A) |
+Introduction., Review of Semiconductors, Epitaxial Growth of Semiconductors, Semiconductor Optical Waveguides, LED, Diode Lasers, Fabrication and Packaging, Single mode Laser diodes plus Reliability, PhotoDetectors, External Modulators, Photonic Integrations. |
+
+COMPUTATIONAL ASPECTS OF TOMOGRAPHIC IMAGING: MODELS TO INVERSIONS
+(EE659A) |
+Motivations and overview of of tomography, limited data settings, approximate tomography, multimodal tomography. Typical Models: Maxwells equations, Helmholtz equation, eikonal equation, radiative transfer equation and its diffusion approximation. Brief review of numerical solutions to the above models: finite element schemes and the method of moments (boundary element method) Linear tomography: Straight path tomography, Born and Rytov approximations in diffraction tomography, algebraic reconstruction techniques. Regularized linear and nonlinear least squares solutions. Frechet derivative calculations, method of adjoints. Approximate tomography: Shape based tomography and topological derivatives Introduction to stochastic reconstruction schemes, maximum likelihood and Bayesian methods, posterior sampling. Applications: Diffuse optical tomography, electrical impedance tomography, refraction tomography, electromagnetic wave tomography, elastography, multimodal tomography |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > electives]
+KALMAN FILTERING AND ITS APPLICATIONS
+(EE698J) |
+
+Introductory concepts: Linear algebra and probability fundamentals
+
+Motivating the basic Kalman filter: Least squares, LMS and RLS algorithms
+
+The linear Kalman filter, constant gain Kalman filters
+
+Filter tuning, expectation maximization.
+
+Bayesian framework, Kalman smoothers, nonlinear and other variants of the Kalman filter (eg.,extended Kalman filter, unscented Kalman filter, particle filter)
+
+Brief introduction to H-Infinity filters
+
+Applications in signal processing, inverse problems and data assimilation.
+
+QUANTUM ELECTRONICS
+(PHY644A) |
+Semiclassical theory of lasers, single and multimode operation, gas laser theory, ring and Zeeman lasers, coherence in lasers. nonlinear optical phenomena, Feynman diagrams in multiphoton problems. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > electives]
+QUANTUM COMPUTING
+(CHM696A) |
+Thermodynamics of computing, Shannon Theory, elementary information theory (2)Basics of computers, Church Turing hypothesis, basics of computing complexity (4)Basic of quantum mechanics, Feynman Block Pseudo polarization Vector Model, Time Dependent Schrodinger equation, basics of approximate quantum approaches (8)Two level Systems, Coherence, Superposition Principle, Density Matrix, Entanglement, Relaxation Processes.(6)Quantum gates and circuits, Theory of Quantum Information and Computation, Deutsch Jozsa algorithm, Shor's algorithm for factoring, Grover's search algorithm and its applications.(8)Quantum Complexity, Quantum Turing Machine. (6) Physical implementations of Quantum Computation, Light polarization, NMR, Cavity QED, IonTraps, Laser matter interaction, Coherent Control. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > electives]
+INTRODUCTION TO BIOPHOTONICS
+(PHY610) |
+Introduction to Biophotonics, Basics of optics and light matter interaction: Reflection, refraction scattering, diffraction, absorption, emission, scattering, Principles of Lasers, Non-linear Optics associated with Biophotonics, Photobiology: Interaction of light with tissue, Bioimaging: Different Optical Imaging techniques: Comparison with other imaging techniques, Microscopy, Spectral and Time resolved Imaging, Applications of bioimaging, Optical Biosensors: fiber optic, evanescent wave, surface plasmon resonance, Bio-nano-photonics |
+
+LASERS IN CHEMISTRY AND BIOLOGY
+(CHM699A) |
+Fundamentals of Lasers, laser induced fluorescence and multiphoton ionization processes of molecules, probing IVR and dynamics of chemical reactions in liquid and molecular beam, spectroscopy of single molecule, probing of proton dynamics, optical trapping and manipulations of biological macromolecules and organelles, confocal microscopy and fluorescence correlation spectroscopy, applications to diagnostics and biotechnology |
+
+=== m tech admissions ===
+Source: https://www.iitk.ac.in/celp/m-tech-admissions
+Photonics Science and Engineering Programme (PSEP) is an interdisciplinary postgraduate (PG) Program offered by the Centre for Lasers and Photonics (CELP). The aim of PSEP is to train engineers/scientists in interdisciplinary activities in photonics The M.Tech programme runs for 4 semesters and includes both course work and a thesis component. Course work includes mandatory courses and electives that students can opt for in consultation with the convener of the PSEP. Students also complete a 2 semester thesis with one of the CELP faculty as part of their M.Tech degree in photonics domain. A unique part of M.Tech experience at CELP is a course on laboratory techniques that provides students with an opportunity to learn hands-on experimental skills in photonics.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > m tech admissions]
+The students are admitted to the M.Tech program depending on the GATE (Graduate Aptitude Test in Engineering) score. The students are also admitted under the sponsored category subject to selection through the interview process. The requirement of GATE score is waived off for the candidates with the B Tech/BS (Four Year) degree from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B Tech/BS (Four Year). The detailed eligibility criteria of the M.Tech program are listed on IITK Admissions Page
+
+=== machine shop ===
+Source: https://www.iitk.ac.in/celp/machine-shop
+PSE Workshop at IITK houses the modern facilities such as CNC lathe machine and conventional machines like milling, drilling, cutting etc. It provides support to the department faculties and research scholars for designing the various research apparatus as well as making the standard specimens.
+
+=== osa student chapter ===
+Source: https://www.iitk.ac.in/celp/osa-student-chapter
+Founded in 1916, The Optical Society (OSA) was organized to increase and diffuse the knowledge of optics, pure and applied; to promote the common interests of investigators of optical problems, of designers and of users of optical apparatus of all kinds; and to encourage cooperation among them. The purposes of the Society are scientific, technical and educational. OSA sponsors small and large meetings consisting of a technical program and an industrial exhibition appropriate to the subject matter and number of attendees. Large conferences often include professional education courses and workshops addressing the state of emerging technology and industry.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+The Optical Society brings together optics and photonics scientists, engineers, educators, and business leaders. OSA's membership totals more than 16,000 individuals from over 100 countries. Approximately 49 percent of the Society's members reside outside the United States.
+
+MISSION OF OSA
+
+“Since 1916, working to bring together scientists, engineers, educators, technicians and business leaders in the fields of optics and photonics.”
+
+OSA Official Website
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+Student Chapter of the
+OPTICAL SOCIETY OF AMERICA
+
+(Established in year 2011)
+
+President
+Garima Joshi
+PhD Scholar, CELP
+
+Vice President
+Vaswati Biswas
+PhD Scholar, Physics
+
+Faculty Mentor
+Prof. D. Goswami
+Dept. of Chemistry & CELP
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+Workshops & other Events
+
+Prof. Manoj Kumar Harbol
+(Professor, Department of Physics, IITK)
+
+Title of the talk: Quantum Principles for Optical Scientist and Engineers
+Date: 28th Feb 2024 (National Science Day)
+Time:04:00 pm- 05:00 pm
+Venue: L-10
+
+Dr. Debdatta Ray
+(Assistant Professor, Department of Electrical Engineering, IITK)
+
+Title of the talk: Growth of Optical Metasurfaces in various applications
+Date: 11th July 2024 (National Science Day)
+Time:04:00 pm- 05:00 pm
+Venue: SL 215
+
+list of other events
+
+Date
+Speaker |
+Affiliation |
+Title of the talk |
+
+25th Sep. 2021 |
+Dr. Sankhyabrata Bandyopadhyay |
+Dept. of Electrical & Electronics Engineering, City University (London) |
+Lecture on Optical Fiber Sensors: Opportunities, scope & challenges |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+17th Sep. 2021 |
+Dr. Suchita Yadav |
+Dept. of Instrumentation & Applied Physics, IISc. Bengaluru |
+Lecture on Intermodal Stimulated Brillouin Scattering |
+
+18th Jan. 2021 |
+Dr. Sendhil Raja S. |
+RRCAT |
+Precision Optical Measurements -An enabling Tool for Fundamental Physics |
+
+18th Jan. 2021 |
+Dr. Robert Woodward |
+Toshiba Research Europe Ltd. |
+Pushing Fibre Laser Technology into the Mid Infrared:Recent breakthroughs, outstanding challenges, and the route to practical applications |
+
+10th Oct. 2020 |
+Dr. Deepak Jain |
+Dept. of Electrical Engineering, IIT Bombay |
+A decade of my work with Specialty Optical Fibers & Career pathways in Optics and Photonics |
+
+30th Sep. 2019 |
+Dr. D. Goswami |
+Dept. of Chemistry & CELP, IIT Kanpur |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+Optical Tweezers |
+
+14th Aug. 2019 |
+Dr. Amol Choudhary |
+Dept. of Electrical Engineering, IIT Delhi |
+Next-Generation Communications Powered by Photon-Phonon Interaction |
+
+9th Apr. 2019 |
+Ms. Garima Bawa |
+Dept. of Physics, IIT Kanpur |
+Existence of two unique wavelengths: critical and cross-over wavelengths in the transmission spectrum of directional couplers |
+
+12th Mar. 2019 |
+Mr. Girish Kulkarni |
+Dept. of Physics, IIT Kanpur |
+Novel tools for characterizing photon correlations in parametric down-conversion |
+
+25th Feb. 2019 |
+Mr. Sabyasachi Mukhopadhyay |
+TBA |
+Optical diagnosis of cancer and diabetic macular edema |
+
+1st Feb. 2019 |
+Dr.Jyoti Jaiswal |
+Ph.D. from IIT Roorkee |
+Development of nanostructured thin films for laser detonator, optoelectronic and gas sensing application |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+27th Sept. 2018 |
+Mr. Pavan Kumar |
+Dept. of Physics, IIT Kanpur |
+Comparison of different spectroscopic techniques for oral precancer detection on human tissue and saliva |
+
+10th Aug. 2018 |
+Mr. Syed Tajammul Ahmad |
+Dept. of Electrical Engineering, IIT Kanpur |
+Mitigation of linear and nonlinear impairments in coherent optical OFDM system using radial basis function neural networks |
+
+16th Apr. 2018 |
+Ms. Asha Yadav |
+Center for Energy, IIT Guwahati |
+Growth and study of optoelectronic properties of a-Si:H/nc-Si:H based superlattice structures |
+
+16th Feb. 2018 |
+Mr. Arif Warsi Laskar |
+Dept. of Physics, IIT Kanpur |
+Probing, Quantifying and Freezing Coherence in a Thermal Ensemble of Atoms |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+8th Nov. 2017 |
+Dr. Indrajeet Kumar |
+CELP, IIT Kanpur |
+Pulsed laser deposition and characterization of carbon thin films |
+
+23rd Oct. 2017 |
+Dr.Akhilesh Kumar Mishra |
+Dept. of Electrical Engineering, Technion- Israel, Institute of Technology,Israel |
+Triggering and controlling coherence in a room temperature quantum dot semiconductor optical amplifier |
+
+16th Oct. 2017 |
+Mr. Prince Gupta |
+Dept. of Physics, IIT Kanpur |
+Surface plasmon resonances and their interactions with molecular resonances on corrugated gold gratings |
+
+12th Sept. 2017 |
+Dr. Venkata Ramaiah Badarla |
+University of Tokyo, Hongo Campus, Tokyo, Japan |
+Development of ultrafast optical parametric oscillators from near to mid-infrared region |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+31st Aug. 2017 |
+Dr. Sudip Kumar Chatterjee |
+CELP, IIT Kanpur |
+Selective excitation of higher order modes in Gelatin-coated multilayered fiber for high relative humidity measurement |
+
+29th Mar. 2017 |
+Prabodh Kumar Pandey |
+Dept. of Physics, IIT Kanpur |
+Photoacoustics: A song of light and body |
+
+6th Feb. 2017 |
+Subodh Kumar Gautam |
+Inter-University Accelerator Centre, New Delhi |
+Controlled tailoring of oxide thin films by defect engineering for optoelectronic applications |
+
+30th Jan. 2017 |
+Abhishek Anchal |
+Department of EE, IIT Kanpur |
+Optical phase conjugation and its applications in telecommunications |
+
+5th Dec. 2016 |
+Prof.Eric W. Van Stryland |
+CREOL, University of Central Florida, Orlando, USA |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > osa student chapter]
+Nonlinear spectroscopy: absorption and refraction |
+
+18th Oct. 2016 |
+Nikhil Deep Gupta |
+ECE Department, MNIT Jaipur |
+Light Trapping in Photonic Crystal based Thin Film |
+
+26th Sept. 2016 |
+Prof. P. K. Datta |
+Dept. of Physics, IIT Kharagpur |
+Optimised Generation of Terahertz Radiation for Phonon Spectroscopy of Doped GaSe Crystal |
+
+8th Sept. 2016 |
+A. Kani |
+Dept.of Physics, IIT Kanpur |
+Weak-field Multiphoton excitation |
+
+IITK-OSA home
+
+The student chapter of IIT Kanpur is committed to spreading of Optics education and disseminates Photonics knowledge through workshops, lectures and other events.
+
+=== ph d admissions ===
+Source: https://www.iitk.ac.in/celp/ph-d-admissions
+Photonics Science and Engineering Programme (PSEP) is an interdisciplinary postgraduate Program offered by the Centre for Lasers and Photonics (CELP). The aim of PSEP is to train engineers/scientists in interdisciplinary activities in photonics. The PhD program includes both course work and a thesis component. Course work includes mandatory courses and electives that students can opt for in consultation with thesis supervisor and Departmental Postgraduate Committee (DPGC) Convener. The PhD program significantly contributes to the departmental research work.
+
+Students are either admitted through M. Tech/M.E. or after B. Tech/B.E. The candidate having a B.E/B.Tech or a MSc degree should have a valid GATE or JRF score in order to apply for PhD admissions. However, GATE score is exempted for candidates having B. Tech degree from Centrally Funded Technical Institutes (CFTI) candidates. All the candidates have to go through the interview process in order to be selected for the PhD program. PhD students are also admitted under Quality Improvement Program (QIP) subject to selection through an interview process. The detailed eligibility criteria of the PhD program are listed on the IITK Admissions Page
+
+=== suo moto disclosure ===
+Source: https://www.iitk.ac.in/celp/suo-moto-disclosure
+Vision:
+
+We are an interdisciplinary centre that combines cutting edge technology from engineering and advances in science to create new horizons in the field of photonic science and engineering. Our expertise lies in the areas related to photonics, bio-photonics, imaging, spectroscopy, material processing, optical communication and quantum optics. Being an interdisciplinary research centre we bring together team or individuals that integrate techniques, tools and perspectives from two or more disciplines to advance fundamental understanding or to solve problems whose solutions are beyond the scope of any single discipline or area of research. Our vision is to contribute meaningfully to the world through excellence in scientific education and research, and furthermore create valuable resource for the society at large.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > suo moto disclosure]
+Faculty profile:
+
+We provide a platform for interdisciplinary research on light related technologies, and hence draw faculty from various departments across the institute including Chemistry, Civil Engineering, Electrical Engineering , Mechanical Engineering and Physics.
+
+Admission Criterion:
+
+CELP follows the guidelines laid out by Indian Institute of Technology Kanpur for admissions of students under different programmes. The admission criteria for postgraduate admissions are available at IITK PG Admissions Page
+
+People:
+
+1 |
+Number of faculty  |
+14 |
+
+2 |
+Number of staff  |
+05 |
+
+3 |
+Number of Research establishment Officer |
+01 |
+
+4 |
+Number of Post-doctoral fellows  |
+02 |
+
+5 |
+Number of PhD. students  |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > suo moto disclosure]
+23 |
+
+6 |
+Number of M.Tech students  |
+19 |
+
+7 |
+Number of MS (Research) students  |
+04 |
+
+Research laboratories:
+
+Photonics Laboratory
+
+Optical Metrology and Imaging Laboratory
+
+Fiber and integrated optics Laboratory
+
+Photonic Devices Laboratory
+
+Optoelectronics and Nanofabrication Laboratory
+
+Micro-scale Transport Laboratory
+
+Diffuse Light Imaging Laboratory
+
+Femtosecond laser spectroscopy laboratory
+
+Biophotonics Laboratory
+
+Femto Laboratory
+
+Optical Instrumentation Laboratory
+
+Advanced fiber and quantum optics laboratory
+
+Tomographic Imaging Laboratory
+
+=== technology development ===
+Source: https://www.iitk.ac.in/celp/technology-development
+Some of the prominent contributions to technology development by CELP faculty are listed below:
+
+EPI Pressure sensors
+
+Cervical cancer detection
+
+Fiber optic devices
+
+Enhanced light collection in solar cell using patterned surface
+
+Cavity-coupled guided resonances in photonic crystal heterostructures
+
+Dynamical bistability through loss modulation in fiber laser
+
+Measuring temporal coherence of broadband laser
+
+Characterizing silicon photonic crystal slab with out-of-plane light coupling
+
+Generation of ultraviolet light using standard single mode fiber
+
+Stokes-Mueller study of polarized light in photonic crystal
+
+Metasurface-based triple-band antenna
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > technology development]
+Imaging of inhomogeneities within highly scattering media
+
+Phototherapy units for treatment of Neonatal Jaundice using dual wavelength exposure
+
+Vein visualization aid for intravenous interventions
+
+Optical real-time label free detection of Bilirubin levels in Neonates
+
+UV sterilization chamber using the ideas of chaos in Bunimovich stadium geometry for uniform distribution of radiation
+
+Computational fluorescence optical and photoacoustic tomography and Electrical impedance tomography: Data acquisition system and reconstruction algorithms.
+
+Large-bandwidth chaos in optical fibers: Demonstrated chaos of 12.5 GHz single-sided bandwidth in erbium-doped fiber laser. This is the largest bandwidth of chaos reported till date in fiber-lasers.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > technology development]
+High-speed random number generator: Using chaos in erbium-doped fiber ring lasers, demonstrated random number generator with potential generation rate of 400 Gbps/single-mode of polarization. Patent granted
+
+Trench-Assisted Fiber for FTTH Applications: Developed a novel fiber with refractive index profile that is insensitive to bend induced losses. Patent granted. Presently exploring options for technology transfer.
+
+Developed Quantum Key Distribution hardware including single-photon detector module at 1550 nm, 2.4 GHz RF transmitter and receivers, and OFDM based QKD systems.
+
+High speed and robust fringe analysis method for interferogram processing
+
+Non-invasive multi-component precision metrology instrument
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > technology development]
+Non-contact nanoscale surface topography instrument
+
+A thin film based flat optical device for beam shaping
+
+A reconstructive spectrometer
+
+Greater than 100Gbps Highly Efficient Waveguide Photodiodes Monolithically Integrated with waveguide taper for Optical Fiber coupling at 1550 nm wavelength
+

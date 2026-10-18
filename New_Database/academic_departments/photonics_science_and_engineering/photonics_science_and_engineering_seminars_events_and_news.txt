@@ -1,0 +1,857 @@
+CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Centre for Lasers and Photonics (CELP) - Photonics Science and Engineering Programme, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/celp. Snapshot: scraped in 2026.
+
+=== announcements archive ===
+Source: https://www.iitk.ac.in/celp/announcements-archive
+The center welcomes the participation of post-doctoral fellows in research activities.
+
+Ph.D. Admissions: Walk-in Interviews/ hybrid mode (2024-2025-I Semester)
+
+Selected candidates for admission to the Ph.D Program
+
+Selected candidates for admission to the M.S (By Research)
+
+Candidates Shortlisted for Interview in PhD Programme
+
+Candidates Shortlisted for Interview in M.S (By Research) Programme
+
+PG Admissions 2024-25 1st Semester interview date
+
+Candidate selected for Ph.D programme 2023-2024
+
+Candidate selected for M.Tech programme 2023-2024
+
+Candidate selected for M.S(By Research) programme 2023-2024
+
+Nitish Kumar Gupta selected for Outstanding PhD Thesis Award (2023) from PSE
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > announcements archive]
+List of candidates are selected for admission to the Ph.D
+
+List of candidates are selected for admission to the M.S ( By Research)
+
+List of candidates shortlisted for interview in M.S. By Research (MSR) programme
+
+List of candidates shortlisted for interview in PhD programme
+
+PG Admissions 2022-23 2nd Semester
+
+=== conference papers ===
+Source: https://www.iitk.ac.in/celp/conference-papers
+IEEE MTT-S, IMARC (2021)"Multispectral Non-Hierarchical Metastructures for Radiation Management and Limits of Perfect Absorption" by Nitish Kumar Gupta,Harshawardhan Wanare, Gaganpreet Singh, J. Ramkumar,Kumar Vaibhav Srivastava, and S. Anantha Ramakrishna.
+
+SCPQT-2021, NISER "Ultra-narrowband asymmetric perfect absorption in quasi-random planar structures" by Nitish Kumar Gupta, Anjani Kumar Tiwari, Harshawardhan Wanare, and S. Anantha Ramakrishna.
+
+European Conference on Biomedical Optics (pp. EM1A-22). Optical Society of America(June 2021) "A smartphone-based 3D printed prototype for polarized fluorescence collection from human cervix" by Shukla, S., Ahirwar, S., & Pradhan, A.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+IEEE IPC 2021, paper ThC1.2 "Laser-induced Emission from Tamm Plasmon-activated Three-dimensional Photonic Crystal" by Govind Kumar and R Vijaya(Oral Presentation).
+
+Frontiers in Optics/Laser Science-2021, paper JTu1A.95, Washington DC, USA (1- 4 Nov. 2021) "Computational Spectrometer based on Photonic Crystal Cavity and Reconstruction Algorithm" by Naresh Sharma, Govind Kumar, Shilpi Gupta(Poster Presentation).
+
+Frontiers in Optics/Laser Science-2021, paper JTu1A.94, Washington DC, USA (1- 4 Nov. 2021) "Experimental Generation of Dispersion Curve of Photonic Crystal Cavity using two Laser Sources" by Naresh Sharma, Govind Kumar, Shilpi Gupta(Poster Presentation).
+
+CLEO-2020: Science and Innovations SM4E. 5, San Jose, California, USA (11-15 May 2020), "Generation of Annular Beam using Photonic Crystal Cavity" by Naresh Sharma, Govind Kumar, Shilpi Gupta(Oral Presentation).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+CLEO-2020: Science and Innovations, JTh2F. 36, San Jose, California, USA (11-15 May 2020), "Far-field Optical Diffraction Imaging of Opal-based Photonic Crystal" by Govind Kumar, A Haldar, R Vijaya (Poster).
+
+Frontiers in Optics / Laser Science-2020, OSA Technical Digest (Optical Society of America, 2020), paper JTu1A.1., "Spectral Characterization of Light Source using Photonic Crystal Cavity" by N. Sharma, G. Kumar, R. Vijaya, and S. Gupta.
+
+Tissue Optics and Photonics (Vol. 11363, p. 113631R). International Society for Optics and Photonics(April 2020), "Wavelet transform of Fourier domain low coherence interference spectra for breast cancer detection" by Bharti, D., Sahoo, G. R., Shukla, S., & Pradhan, A.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Tissue Optics and Photonics (Vol. 11363, p. 113631L). International Society for Optics and Photonics (April 2020), "Extraction of thickness and fluorophore concentration of the upper layer in a two-layered solid phantom using spatially resolved fluorescence spectroscopy" by Shukla, S., Singh, P., Pandey, P. K., & Pradhan, A.
+
+IEEE Photonics Conference, Vancouver, Canada (2020), "Unidirectional Narrowband Perfect Absorption in Quasi-random Structures-Interplay of Gap States and Tamm Plasmon Modes" by Nitish Kumar Gupta, Anjani Kumar Tiwari, Harshawardhan Wanare, S. Anantha Ramakrishna.
+
+IEEE-WRAP, IIT Guwahati 2019, "Information Encryption in Thermal Metamaterials by Emissivity Engineering" by Nitish Kumar Gupta, Harshawardhan Wanare, S. Anantha Ramakrishna.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+European Conference on Biomedical Optics(p.11076_60).Optical Society of America, June 2019, "Wavelet leader based multifractal analysis of phase contrast images for cervical pre-cancer detection" by GR Sahoo,Shivam Shukla and Asima Pradhan.
+
+Workshop on Recent Advances in Photonics (WRAP) 2019, "Plasmonic Waveguide Based Optical Ring Resonator For Bio-sensing Application" by Soumya Kumari and Saurabh Mani Tripathi.
+
+Frontiers in Optics 2019, Washington DC, 15-19 Sept 2019, "Remote Imaging of Cracks in Self-assembled Photonic Crystals" by Sravya Rao, Rahul Shaw, Dipak Rout, Govind Kumar, R.Vijaya and Shilpi Gupta (poster).
+
+ADMAT-2019, Hyderabad, 23-25 Sept 2019, "Special-purpose Dielectric Optical Coatings" by Govind Kumar, Linu George and R.Vijaya (e-poster).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+ICOL-2019, Dehradun, 19-22 Oct 2019, "Far-detuned ultraviolet wavelength generation in dispersion-shifted fiber by cascaded intermodal four-wave mixing" by Sudip K.Chatterjee and R.Vijaya (Oral).
+
+ICOL-2019, Dehradun, 19-22 Oct 2019, "Dual-band Microstrip Patch Antenna for KU and K bands" by Garima Joshi and R.Vijaya (Poster).
+
+ICOL-2019, Dehradun, 19-22 Oct 2019, "Control of Optical Bistability in Erbium Doped Fiber Laser by Wavelength Tuning" by Deeksha Jachpure and R.Vijaya (Poster).
+
+Invited talk, ICOL-2019, Dehradun, 19-22 Oct 2019, "Multi-functional Heterostructures and Metasurfaces for Photonic Applications" by R.Vijaya.
+
+ISOT-2019, Goa, 11-13 Nov 2019, "Polarization anisotropy of dye-activated molecules in different environments" by Pratyasha Sahani and R.Vijaya (Poster).
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+ISOT-2019, Goa, 11-13 Nov 2019, "Optical Diffraction from a Metasurface of Periodically Arranged Air Pockets" by Arpita Haldar and R.Vijaya (Oral).
+
+Invited talk, ISOT-2019, Goa, 11-13 Nov 2019, "Diffraction as a Tool for Optical Characterization of Photonic Crystals" by R.Vijaya.
+
+2nd Indian Conference on Antennas & Propagation (InCAP-2019), Ahmedabad, 19-22 Dec 2019, "Dual band Microstrip Patch Antenna using uniplanar EBG of aperture-type FSS" by Garima Joshi and R.Vijaya (Oral).
+
+Govind Kumar, Nitish Kumar Gupta and R. Vijaya, ", "Tamm Plasmon Coupled Fluorescence Enhancement in One Dimensional Distributed Feedback Cavity", icONMAT 2019, Kochi, Jan 3-5, 2019.
+
+Arpita Haldar and R. Vijaya, "Planar Optical Heterostructure for Wide-angle Diffraction using Soft Imprint Lithography", icONMAT 2019, Kochi, Jan 3-5, 2019.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Sudip K. Chatterjee and R.Vijaya, "Generation of discrete ultraviolet-visible wavelengths via intermodal four-wave mixing in SMF-28 fiber", Photonics 2018, Delhi, Dec. 12-15, 2018.
+
+Tushar Gaur and D. Goswami, "Pulse width effect on laser heating in condensed phase light-matter interactions", Photonics 2018, Delhi, Dec. 12-15, 2018.
+
+Deeksha Jachpure, Suchita and R. Vijaya, "Role of spectral features in the temporal coherence characteristics of a broadband erbium-doped fiber laser", Photonics 2018, Delhi, Dec. 12-15, 2018.
+
+Nitish Kumar Gupta and R. Vijaya, "Single Material Periodic Photonic Structures for Dispersion Compensation", Photonics 2018, Delhi, Dec. 12-15, 2018.
+
+Anupa Kumari, Samir Kumar, Govind Kumar, Mukesh K. Shukla, Partha S. Maji, R. Vijaya and Ritwick Das, "Impact of geometrical parameters on excitation of Tamm-plasmon-polaritons", Photonics 2018, Delhi, Dec. 12-15, 2018.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Sudip K. Chatterjee and R.Vijaya, "Experimental demonstration of far-detuned sidebands via intermodal four-wave mixing in SMF-28 fiber with Q-switched nanosecond pulses", OSI-ISO Symposium, Kanpur, Sept. 20-22, 2018.
+
+Tushar Gaur and D. Goswami, "Establishing the paucity of thermal effects for pulsed versus CW lasers in fluids", OSI-ISO Symposium, Kanpur, Sept. 20-22, 2018.
+
+Govind Kumar, Mansoor B and Pradeep Kumar Krishnamurthy, "Subcarrier modulation to improve detuning bandwidth of harmonic mode locked fiber lasers," 2018 3rd International Conference on Microwave and Photonics (ICMAP), Dhanbad, 2018, pp. 1-2.
+
+Govind Kumar and R.Vijaya, "Band edge- and defect mode-induced emission from photonic crystal heterostructure cavity", Thirty years of photonic crystals - the Indian research scenario, Kanpur, Sept 21-23, 2017.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Amar Ghar*, Sanyogita, U Das and P K Panigrahi, "Optical waveguide characteristics fabricated by femtosecond laser direct writing on quartz glass materials" XLI OSI International Conference on Advances in Optics & Photonics, November 23-26, 2017, Guru Jambheshwer University of Science & Technology, Hisar, India.
+
+Arpita Sinha Roy and Pradeep Kumar K., "Low Jitter Measurement of Laser Linewidth using Brillouin Induced Self-Heterodyne Method", Frontiers in Optics 2017, (Optical Society of America), paper JTu3A.46, Washington, D.C. United States,18-21 September, 2017.
+
+Ankita Jain, Pradeep Kumar K. and Pascal Landais, "Mitigating Impairments in 200 Gbps PM-QPSK Modulated Systems Using Bank Of Parallel EKFs" accepted in Advanced Photonics Congress (to be held in New Orleans, Louisiana, USA from 24th-27th July 2017), Optical Society of America, 2017.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Govind Kumar, Dipak Rout and R.Vijaya, "Enhancement and spectral narrowing of emission from photonic crystal heterostructure mediated by band edge modes" Advanced Photonics Congress, New Orleans, July 24-27, 2017.
+
+Chanchal and Dr. P.K Panigrahi, Defect Detection of Electronic Circuit Using Digital Holographic Interferometry, The Fifth International Conference on Optical and Photonic Engineering (ICOPEN 2017), April 5-7, Singapore (2017).
+
+Sanyogita*, Amar Ghar ,U. Das and P K Panigrahi, Study of microstructure and microhole fabrication on PDMS by femtosecond laser direct writing technique for development of miniaturized photonic devices, OWT-2017(Springer), 18 March- 19 March 2017, MNIT Jaipur.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Sanyogita*, Amar Ghar and P K Panigrahi, Study of microstructure and microhole fabrication on PDMS by femtosecond laser direct writing technique for development of miniaturized photonic devices, OWT-2017(Springer), 18 March- 19 March 2017, MNIT Jaipur.
+
+Saket O. Wankhade, Arpita Haldar, Rahul Shaw, R. Vijaya, and Shilpi Gupta, "Fabrication of Diffraction Grating by Patterning Gold Nanoparticles using DVD", The International Conference on Fiber Optics and Photonics, 4-8 December, Kanpur India, 2016;
+
+Amar Ghar*, Sanyogita and P K Panigrahi, Effect of etching solution on femtosecond laser assisted microchannel fabrication in glass, Photonics-2016 (OSA), 04 Dec-08 Dec 2016, IIT Kanpur
+
+Ankita Jain, Pradeep Kumar Krishnamurthy, Pascal Landais and Prince M. Anandarajah, "Extended Kalman Filter For Estimation of Phase Noises and Frequency Offset in 400G PM-16-QAM systems", 13th International Conference on Fiber Optics and Photonics, OSA Technical Digest (online), pp. Tu3A.3, 04-08 December, 2016, IIT Kanpur, India.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Arpita Haldar, Govind Kumar and R. Vijaya, "Selective Spectral Narrowing from Distributed Feedback in Dye-doped Polymer-based Heterostructure Cavity", The International Conference on Fibre Optics and Photonics 4-8 Dec, IIT Kanpur, India (2016).
+
+Amar Ghar*, Sanyogita and P K Panigrahi, Effect of etching solution on femtosecond laser assisted microchannel fabrication in glass, Photonics-2016(OSA), 04 Dec-08 Dec 2016, IIT Kanpur.
+
+Krishnandu Makhal, Sidharth Maurya, and Debabrata Goswami, Reverse Saturable Absorption followed by Anomalous Saturable Absorption in Rhodamine-700 International Conference on Fibre Optics and Photonics, Dec 4-8, IIT Kanpur (2016).
+
+Ankita Jain, Pradeep Kumar K., Pascal Landais and Prince M. Anandarajah, "Extended Kalman Filter For Estimation of Phase Noises and Frequency Offset in 400G PM-16-QAM systems", in International Conference on Fibre Optics and Photonics, Optical Society of America, 2016.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Chanchal and Dr. P.K Panigrahi, Comparison between Digital Inline and Off- axis Holography System for Particle field Characterization, The International Conference on Fiber Optics and Photonics - PHOTONICS 2016, December 4-8 IIT KANPUR INDIA (2016).
+
+Sanyogita*, U. Das and P K Panigrahi, Simulations Studies for femtosecond laser inscribed Bragg grating structures on polymer, OPTRONIX 2016(Springer), 17Aug - 19 Aug 2016, IEM Kolkata.
+
+Nishanth Chandra, Ankita Jain and Pradeep Kumar Krishnamurthy, "Tunable multiwavelength fiber laser using, polarization and wavelength dependent loss" in Advanced photonics, pp. NeT1D-4. Optical Society of America, 27 June-1 July, 2015, Boston, Massachusetts, United States
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Ankita Jain and Pradeep K. Krishnamurthy, "Tracking linear and nonlinear phase noise in 100G QPSK modulated systems using Kalman filter" in Advanced photonics, pp. JM3A-8, Optical Society of America, 27 June-1 July, 2015, Boston, Massachusetts, United States.
+
+Arpita Haldar, M.Srinivas Reddy and R.Vijaya, "Self-assembled Photonic Crystals as Patterning Templates for Enhanced Efficiency of Photovoltaic Devices", 8th India Singapore Symposium in Condensed Matter Physics, February, IIT Kanpur, 2015;
+
+Ankita Jain, Abhishek Anchal, and Pradeep K. Krishnamurthy, "Continuously tunable multiwavelength actively mode locked EDFRL using intra-cavity birefringence" in International Conference on Fibre Optics and Photonics, Optical Society of America, 13-16 December, 2014, IIT Kharagpur, India.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conference papers]
+Suchita Yadav, Govind Kumar and R. Vijaya, "Stimulated Raman Scattering in Toluene for Efficient New Wavelength Generation", The International Conference on Fibre Optics and Photonics, 13-16 Dec, IIT Kharagpur India (2014)
+
+Ankita Jain, Suchita, Pradeep Kumar K., and R. Vijaya, "Pump suppressed four-wave mixing in optical fibers for correlated photon generation using feedback technique" in SPIE Photonics West, pp. 89641X-89641X-6, 1-6 February, 2014, Moscone Center San Francisco, CA, United States.
+
+Ankita Jain and Pradeep K. Krishnamurthy, "RF pulse shaping for higher-order optical modulation" in National Conference on Communications (NCC), pp. 1-4, 28 Feb-2 Mar, 2014, IIT Kanpur, India.
+
+Mukund Anandan, Ankita Jain, Syed Tajammul Ahmad, and Pradeep Kumar K., "RF pulse shaping for QPSK, PM-QPSK and QAM formats" Frontiers in Optics 2013, (Optical Society of America), paper FW4B.6, Orlando, Florida, USA, 6-10 October, 2013.
+
+=== conferences symposia ===
+Source: https://www.iitk.ac.in/celp/conferences-symposia
+International Day of Light (20 May,2022)
+International Day of Light (20 May 2022)
+
+Pictures From the Day
+
+Talk by Dr. Deepak Jain on Novel Optical Fibers for Light Sources and Optical Communication
+
+Time | Event |
+
+10.00 to 10.15 am |
+Introduction to the event  |
+
+10.15 to 11.15 am |
+
+Talk 1:How to promote yourself as a young researcher?
+
+Seminar by: Dr. Deepak Jain
+
+Assistant Professor, IIT Bombay
+
+11.15 to 11.50 am  |
+High tea break+ Optica membership and goodies distribution |
+
+12.00 to 1.00 pm |
+Talk 2: Novel Optical Fibers for Light Sources and Optical CommunicationAbstract: The specialty optical fibers have different geometrical designs and refractive index profiles than conventional step-index optical fibers. These specialty optical fibers have dramatically revolutionized the functionality of optical fibers securing several applications in space division multiplexing, high-power narrow linewidth lasers, broadband supercontinuum sources, and sensors. In this talk, discussion over novel specialty optical fibers which have emerged in the last decade, including his inventions will be done. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+4.30 pm onwards |
+Student interaction session+ discussion on writing postdoc fellowship proposals |
+
+Mini-symposium on Photonics (23 Mar,2018)
+Mini-symposium on Photonics
+
+March 23, 2018
+
+(Venue for all events is SL 215, CELP seminar room)
+
+Photo Gallery
+
+Inauguration and Guest Lecture
+
+Date | Speaker | Title |
+
+3.00 to 3.10 pm |
+Introduction to the event |
+
+3.10 to 4.10 pm |
+Dr. Balaji Srinivasan,Dept of EE, IIT Madras |
+
+Light beams with a Twist - Vortex Beam Generation & Amplification in Optical Fibers.
+
+Abstract:
+
+ptical beams possessing orbital angular momentum (OAM), also known as twisted light beams or vortex beams have gained much interest in recent years due to the potential use in optical tweezers, high resolution microscopy, material processing, and free-space communications. Specifically, higher order OAM modes are quite attractive for the above applications as they provide multiple orthogonal light paths. Although several promising techniques exist in the literature for exciting such OAM modes, none of them are directly fiber compatible and not all of them can multiplex many OAM modes with low loss.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+During the first part of this talk, we will discuss the experimental demonstration of an all-fiber technique for the excitation of an OAM mode using a fused fiber coupler. Our approach is based on mode-selective coupling between different modes in two dissimilar fibers. Specifically, the phase matching between the HE11 mode in the SMF and the desired mode in the ring-core fiber is achieved by pre-tapering the SMF and then fusing both fibers. As such, it provides the promising pathway to directly couple the traditional Gaussian beam to the desired OAM beams with high purity and good stability in an entirely integrated scheme.
+Recently, we also experimentally demonstrated the amplification of an OAM beam. Such a task is quite challenging in a conventional rare-earth (RE) doped fiber amplifier due to gain compression as well as the presence of amplified spontaneous emission, which lead to significant crosstalk with other eigenmodes of the fiber. Raman amplification in passive fibers provide an exciting pathway to overcome the above limitations, thereby also relaxing the tight constraints in the doping profile of a conventional RE-doped amplification approach.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+
+4.10 to 4.30 pm |
+Tea break |
+
+4.30 to 5.30 pm |
+Dr. Pabitra Nath, Dept of Physics, Tezpur University |
+
+Lab-on-phone: A new platform to obtain user-friendly sensing system.
+
+Abstract:
+
+According to International Telecommunication Union (ITU), till 2016 almost 7 Billion people around the world are connected by the mobile network facility. These data signifies that irrespective of rural or urban region, a cellular phone is accessible everywhere. Out of these 7 Billion cellphone users approximately 40% of them can be considered as smartphone. A smartphone in general is equipped with different high-end opto-electronic sensors, fast central processing unit, an ever improving RAM-ROM and graphical user interface; which facilitate a user to use it for different applications. Again, for analysis and data processing, a need based mobile application can be developed within the phone itself. Due to vast availability of smartphones and its continuous improvement both in software and hardware part, effort has been made by the researchers around the world to convert it into a useful tool for sensing and imaging of various chemical and biological samples. In this presentation, a brief research activity related to design of smartphone platform sensing system currently undertaken by the speaker at his parent institution -Tezpur University will be discussed.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+
+5.30 to 6.30 pm |
+Prof. Kallol Bhattacharya, Dept of Applied Optics and Photonics, Calcutta University |
+
+Pancharatnam phase and its applications in Optical Interferometry.
+
+Abstract:
+
+In a landmark publication in 1956 Pancharatnam showed that if polarized light is brought back to its initial state of polarization through a series of polarization transformations, the polarization phase associated with the light beam is proportional to the solid angle subtended by the area of the Poincare sphere enclosed by the locus of the polarization path traversed by the light beam. What distinguishes polarization phase from propagation phase is the fact that the former is completely independent of the wavelength of light. The talk attempts to explain the origin of Pancharatnam phase, discuss optical configurations to realize dynamical implementation of Pancharatnam phase and explore its areas of application in phase shifting interferometry, digital holography, quantitative phase microscopy and total internal reflection microscopy.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+
+Symposium on Photonic crystals 2017
+Symposium on Photonic crystals (Sept.21-23, 2017)
+
+Symposium on Photonic crystals (21 Sept,2017)
+
+IEEE Women in Photonics(November 5, 2016)
+IEEE Women in Photonics
+
+For more details view the program poster.
+
+IEEE Women in Photonics Gallery
+
+Poster Session
+
+Prof. Deepa Ventakesh's Talk
+
+Experimental Demonstration
+
+International Year of Light(10 October 2015)
+
+International Year of Light 2015
+
+The year 2015 has been designated as the International Year of Light by the United Nations, and is being celebrated throughout the world. To quote the Optical Society (OSA):"The International Year of Light and Light-Based Technologies (IYL 2015) is a global initiative that will highlight to the citizens of the world the importance of light and optical technologies in their lives, for their futures, and for the development of society.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+As part of the IYL 2015 celebrations, we are planning to hold a one day symposium on 10 October 2015 at the Centre for Lasers and Photonics (CELP) in IIT Kanpur, and would be inviting select alumni to visit us. The event would showcase the contributions of our alumni who are working in the domain of lasers and photonics, and also highlight the recent developments in photonics research at IIT Kanpur. Further, this would also serve as an ideal platform to foster collaborations and exchange of ideas.
+
+QIP School on optics of gravitation waves detectors(22-27th september,2014)
+
+QIP course on Optics of Gravitational wave detectors
+
+The five day school on Optics of Gravitational Wave Detectors provided broad introduction to experimental techniques of interferometric gravitational wave detectors such as LIGO.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+The course includes tutorials on fundamentals of optics and related areas required for an understanding of GW detectors.
+
+The course is supported by hands-on lab session and demonstration experiments which reinforce the theoretical concepts developed in the course. The course also introduces optics related software Finesse and COMSOL.
+
+Course Coordinator: Pradeep Kumar K, Centre for Lasers and Photonics, IIT Kanpur, Kanpur-208016, India
+Dates: 22-27th september,2014
+Venue: PBCEC building for lectures. CELP Lab for experiments.
+
+About the School
+
+The five day school on Optics of Gravitational Wave Detectors provides broad introduction to experimental techniques of interferometric gravitational wave detectors such as LIGO. The course includes tutorials on fundamentals of optics and related areas required for an understanding of GW detectors. The course is supported by hands-on lab session and demonstration experiments which reinforce the theoretical concepts developed in the course. The course also introduces optics related software Finesse and COMSOL.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+Registration:
+
+to register for the course with the following details: Your name, designation, institute, and address. Graduate students who are interested in attending the course must provide a 50-100 word write up about your research. A limited number of undergraduate students will also be accommodated in the course.
+
+Accommodation:Selected candidates will be provided accommodation in Visitor's Hostel on a twin sharing basis. Students will be accommodated in Hostels.
+
+Travel allowance:Selected candidates will be provided traveling allowance (TA) as per QIP norms.
+
+Speakers:Will be announced shortly.
+Contact us: Pradeep Kumar K, Centre for Lasers and Photonics, IIT Kanpur, Kanpur-208016, India. Email: [email address hidden on the website]
+
+Course contents (Tentative):
+
+1. |
+Overview of gravitational waves and gravitational wave detectors. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+2. |
+Optics of Fabry-Parot cavities: Plane wave analysis, Audio frequency transfer functions, Higher order transverse modes, Geometric stability, Numerical simulations using Finesse. |
+
+3. |
+Laser requirements for GW detectors: Frequency and intensity stabilization issue, High power laser design, Laser diagnostic and developments tools, Thermal-optical effects, Numerical simulations. |
+
+4. |
+Noise in GW detectors: Thermal noise, thermal-elastic noise, Zener damping, Optical thin film coating, noise cancellation, measurement of coating thermal noise, Shot noise, Radiation pressure noise (classical and quantum), noise propagation in interferometers, Numerical simulation using Matlab. |
+
+5. |
+Introduction to network and control systems: Linear system theory, network synthesis, feedback and feed-forward, Pound-Drever-Hall technique as control system, Numerical simulations using Matlab. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+6. |
+Quantum engineering in GW detectors: Squeezed light, generation and characterization of squeezed light, issues in audio-frequency squeezing, quantum non-demolition measurements in interferometers |
+
+Hands-on Experiments:
+
+Experiments such as (a) He-Ne laser characterization (b) Michelson interferometer (c) Study of Fabry-Perot cavity, (d) Beam profile and beam shape measurements of lasers (e) Optical mode cleaner (f) Second harmonic generation
+
+Day#1:
+
+9:00-9:20 |
+Inauguration of school |
+
+9:30-11:00 |
+Lecture 1 |
+
+11:00-11:20 |
+Tea Break |
+
+11:30-12:50 |
+Lecture 2 |
+
+1:00-2:30 |
+Lunch Break |
+
+2:30-4:00 |
+Lecture 3 |
+
+4:00-5:30 |
+Lecture 4 |
+
+5:30-5:45 |
+High Tea |
+
+Day#2:
+
+9:00-11:00 |
+Lecture 5 |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+11:00-11:20 |
+Tea Break |
+
+11:30-12:50 |
+Lecture 6 |
+
+1:00-2:30 |
+Lunch Break |
+
+2:30-5:00 |
+Lab Session-I |
+
+5:00-5:20 |
+Tea Break |
+
+5:20-6:50 |
+Lecture 7 |
+
+Day#3:
+
+9:30-11:00 |
+Lecture 8 |
+
+11:00-11:20 |
+Tea Break |
+
+11:30-12:50 |
+Lecture 9 |
+
+1:00-2:30 |
+Lunch Break |
+
+2:30-5:00 |
+Lab Session-II |
+
+5:00-5:20 |
+Tea Break |
+
+5:20-6:50 |
+Lecture 10 |
+
+Day#4:
+
+9:30-11:00 |
+Lecture 11 |
+
+11:00-11:20 |
+Tea Break |
+
+11:30-12:50 |
+Lecture 12 |
+
+1:00-2:30 |
+Lunch Break |
+
+2:30-5:00 |
+Lab Session-III |
+
+5:00-5:20 |
+Tea Break |
+
+5:20-6:50 |
+Lecture 13 |
+
+Day#5:
+
+9:30-11:00 |
+Lecture 14 |
+
+11:00-11:20 |
+Tea Break |
+
+11:30-12:50 |
+Lecture 15 |
+
+1:00-2:30 |
+Lunch Break |
+
+2:30-5:00 |
+Numerical/Software Lab |
+
+5:00-5:20 |
+Tea Break |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+5:20-5:45 |
+Closing Remarks |
+
+1. |
+LIGO: On the Threshold of Gravitational-wave Astronomy By Dr. Stanley E. Whitcomb |
+Click to Open |
+
+2. |
+Lecture on Interferometer Configurations for Gravitational Wave Detectors by Dr. Stanley E. Whitcomb |
+Click to Open |
+
+3. |
+Lecture on Noises in Gravitational Wave detectors by Dr. Stanley E. Whitcomb |
+Click to Open |
+
+4. |
+Lecture on Control System in Gravitational Wave Detectors by Dr. Stanley E. Whitcomb |
+Click to Open |
+
+5. |
+Lecture on Quantum Noise in Gravitational Wave Detectors by Dr. Stanley E. Whitcomb |
+Click to Open |
+
+6. |
+Lecture on Gravitational Waves by Dr. Unnikrishnan. C. S. |
+Click to Open |
+
+7. |
+Review of Optics esential for Gravitational Wave Detection by Dr. Pradeep Kumar K |
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+Click to Open |
+
+8. |
+Lecture Note-1(Review of Some Points) by Dr. Unnikrishnan. C. S. |
+Click to Open |
+
+9. |
+Lecture Note-2(The Interferometer Detector) by Dr. Unnikrishnan. C. S. |
+Click to Open |
+
+Ultrafast photonic processes and interactions Workshop(2014)
+ULTRAFAST PHOTONIC PROCESSES AND INTERACTIONS Workshop
+
+The workshop brought together researchers from the Indian Institute of Technology Madras, Chennai, India (IITM), Indian Institute of Technology Kanpur, Chennai, India (IITK), Dublin City University, Dublin, Ireland (DCU) and Optics Research Centre, University of Southampton, UK (ORC).
+
+The event preceded with the latest developments in high speed and ultrafast photonic interactions and processes in systems from atomic ensembles to devices.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+Event provided a valuable opportunity to exchange ideas in a relaxed environment, to create synergies and to establish and schedule new secondments between DCU, ORC, IITK and IITM.
+
+Topics of Interest in Workshop
+
+Optical Signal Processing and Generation
+
+Wavelength conversion, clock recovery function, ultrafast processing of advanced modulation format signals, THz signal generation from non-linear materials and cognate areas of research and innovation.
+
+Optical Materials
+
+Silicon optical waveguides and silicon nanocrystal embedded optical waveguides, inorganic-organic hybrid interfaces and metal-dielectric photonic architectures, nonlinearity in polymers/suitable matrix, nanocomposites incorporating semiconductor quantum dots and cognate areas of research and innovation.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+Ultrashort Pulse Detection, applications and simulation
+
+Coherent XUV and soft X-ray generation using femtosecond lasers, XUV and IR autocorrelation techniques, THz streaking, ionization and fragmentation pathways for small quantum systems and plasmas, theoretical studies of small quantum systems in weak and strong radiation fields and cognate areas of research and innovation.
+
+Biophotonics
+
+he application of light to sensing and imaging in, and manipulation of, biological materials, particularly applied to biological and medical problems. It encompasses associated materials development, e.g. probes and platforms and the range of associated optical methods and spectroscopies.
+
+List Of Participants
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > conferences symposia]
+Dr. Asima Pradhan
+
+Dr. R.K. Thareja
+
+Dr.Pradeep Kumar K.
+
+Miss. Ankita Jain
+
+Miss. Seema Devi
+
+Miss. Neha Goswami
+
+Mr. Udit Narayan
+
+Mr. Shyam Lal Gupta
+
+Mr. Ravi Pratap Singh
+
+Mr. Nishanth Chandra
+
+Mr. Mohammad Zaffar
+
+Mr. Bharat Lal Meena
+
+Mr. Gyana Ranjan Sahoo
+
+Mr. Syed Tajammul Ahmed
+
+Photos
+
+=== lecture series ===
+Source: https://www.iitk.ac.in/celp/lecture-series
+R R Dasari Lecture Series
+
+Ramachandra Rao Dasari Distinguished Lecture Series
+
+Late Ramachandra Rao Dasari, worked as a faculty member of Physics department of I.I.T. Kanpur for 16 years. He left IIT Kanpur in 1978.Subsequently, he worked at the National Research Council of Canada, University of British Columbia and Massachusetts Institute of Technology, USA. He passed away in Schererville, IN, U.S.A. on April 12, 2020 at the age of 87.He established the first laser laboratory in India, fabricating the lasers indigenously. This pioneering work later led to the formation of CELT at IITK which has now grown into a vibrant Centre for Lasers and Photonics (CELP) offering interdisciplinary training and research.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+In order to give respect to his contributions towards IIT Kanpur and the whole world, CELP conducts lecture series every year by inviting prominent scientist in the field of photonics.More details about the lecture series click the link below:
+
+R. R. Dasari Distinguished Lecture Series - 2022 (October)
+Speaker: Dr. Naresh Chand
+
+Affiliation:Associate Vice President, IEEE Photonics Society, NJ, USA
+
+Topic : Advances and Opportunities in Optical Communication Networks and Systems
+Date/Time : 25 October, 2022 at 4:00 PM.
+Venue : Lecture Hall-15
+
+View in Poster Format
+
+Abstract :Today we are at the beginning of 4th industrial revolution in which Photonics in general and Optical Communication technologies in particular are the key enablers. They offer India unlimited opportunities to contribute and benefit, driving her green- economic growth towards US $5 Trillion goal by 2024. Photonics is everywhere around us. New photonics technologies, pr oduc t s and appli c a tions continue to eme rge . All emerging technologies such as IoT, artificial intelligence, virtual reality, machine learning, smart X (X could be states, cities, villages, communities, and/or homes), data centers, vehicular communications, and cloud computing rely heavily on Optical Communication Networks and Systems. This talk will discuss advances and opportunities in this field.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Biodata of Dr. Naresh Chand: Presently Dr. Naresh Chand represents IEEE Photonics Society in multiple leadership capacities. In 2019, he retired as Director from the US R&D Center of Huawei Technologies in NJ where he was working on developing low-cost advanced technologies for Ultra-Broadband Optical Access Networks since 2011. Prior to this, he worked for BAE Systems (2003-11), Agere Systems and AT&T/Lucent Bell Laboratories (1986-2003), and Dept of Electronics, Government of India (1974-79). His areas of research include optical communication systems, fiber-to-the-home, RF over fiber, non-hermetic 1300-1500 nm InP lasers, reliable high power 980 nm InGaAs/GaAs pump lasers, VCSELs, HBTs, HEMTs, QWIPs, GaAs/Si and AlGaAs/GaAs MBE. He has several firsts and world records to his credit. He has authored > 180 research papers and 15 patents (issued). He did his M.Sc. (Tech) Electronics in 1974 from BITS, Pilani with Gold Medal. From there he joined IIT Kanpur to do his PhD that he left to join Dept. of electronics, Govt. of India, where he was involved with the licensing and development of the Electronic Component industry in India. Later on a British Commonwealth Scholarship, he did his M. Eng. (1980) and Ph.D. (1983) in EE from the University of Sheffield, UK. He also did 2 years post-doctoral research at the University of Illinois, Urbana, IL. Dr. Naresh Chand is a Life Fellow of IEEE and the founder of Prakash Bharati to promote Photonics in India.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+R. R. Dasari Distinguished Lecture Series - 2022 (May)
+Speaker: Dr. Shankar V. Nakhe
+
+Affiliation:Director, Raja Ramana Centre for Advanced Technology(RRCAT), Indore
+
+Topic : Indigenous Laser and Photonic Systems for Utilization in Nuclear Power and Societal Changes.
+Date/Time : 16th May 2022 at 12 P.M.
+Venue : L14(Lecture Hall Complex)
+
+View in Poster Format
+
+Abstract :Laser after its invention is rightly described as 'a solution looking for a problem' and in real life lasers continued to provide unique and novel solutions to variety of problems for more than 5 decades. Nuclear research and power program, societal health program have imposed challenging problems. RRCAT at Indore is engaged in development of laser/photonics system developed at RRCAT and deployed in field applications in the areas of nuclear, industrial and societal health.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Biodata of Dr. Shankar V. Nakhe: Shankar V. Nakhe, Outstanding scientist, is currently Director, Raja Ramanna Centre for Advanced Technology(RRCAT), Indore. He graduated in Electrical Engineering from Walchand College in 1985 with first rank in the Shivaji University. He joined Department of Atomic Energy in 1987. He subsequently obtained M.S.(Engg. Sc.) from IISC Bengaluru. The Oriental University awarded him PhD(honoris causa) in 2021. He is the President of Indian laser Association. At RRCAT he worked on design, development of the fiber Bragg grating inscription facility at RRCAT.
+
+R. R. Dasari Distinguished Lecture Series - 2018
+Speaker: Professor Bijoy Krishna Das
+
+Affiliation:Electrical Engineering, Indian Institute of Technology Madras
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Topic : Integrated Silicon Photonics – An enabling technology for the 21st Century
+Date/Time : 28th November at 10:45 A.M. (Tea will be served at 10:15 A.M.)
+Venue : L15(Lecture Hall Complex)
+View in Poster Format
+
+Abstract : Silicon photonics has been considered to be one of the few enabling technologies for the 21st century. It is finding many novel applications in the area of high speed optical interconnects in semiconductor IC technology, lab-on-chip sensing, and futuristic quantum optic computation and secured communication systems. The triumph of silicon photonics technology has been possible because of the advancement of silicon CMOS technology nodes along with a little add-on for the co-integration of electronics and photonics devices. Besides hybrid integrations of III-V laser sources/detectors, waveguide-based devices like directional coupler, micro-ring resonator and Mach-Zehnder interferometer are commonly used to achieve almost all other passive and active functions. In this lecture, the speaker starts with discussion about how the electrical interconnect bottleneck in IC technology compelled semiconductor industries to re-invent integrated optics or photonics integrated circuit technology during the last two decades of the last millennium. It will then be followed by an overview of latest state-of-the-art integrated silicon photonics technology leading towards successful products for high-speed optical interconnects and many other attractive applications. Thereafter, he will present some novel silicon photonics devices and circuits recently demonstrated at IIT Madras and elsewhere in India.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+R. R. Dasari Distinguished Lecture Series - 2016
+Speaker : Sri. H. B. Srivastava
+
+Affiliation : Director, LASTEC/DRDO
+
+Topic : Lasers in Homeland Security and Defence
+Date/Time : 17th August at 5:00 P.M. (Tea will be served at 04:30 PM)
+Venue : L17(New Lecture Hall Complex)
+View in Poster Format
+
+Abstract : Lasers have been traditionally used in medical and industrial applications for long. The applicability of lasers in security and defence is now only gaining momentum. Non-conventional and invisible technologies are required that can detect threats, e.g. explosives, chemical and biological warfare agents. LASTEC has been experimenting with scattering and absorption based laser spectroscopy techniques to address these concerns. The talk will present the recent advances made at LASTEC in these areas. A few research areas of interest to defence scientists, which may become potential collaboration topics between LASTEC and IIT Kanpur communities, will also be presented.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Biodata of Sri. H. B. Srivastava : Shri Hari Babu Srivastava took over as Director of Laser Science and Technology Centre, Delhi on 20th June 2014. At this Centre, he has been spearheading various laser technologies ranging from high power laser sources to chem.-bio LIDARs, explosive identification, laser countermeasures, electro-optical/laser equipment and various other innovative laser applications for use in low intensity conflicts and for armed forces.
+
+He joined DRDO in 1984 at Instruments Research and Development Establishment (IRDE), Dehra Dun, after a brief stint (1983-84) in industry at M/S Hindustan Instruments Ltd., New Delhi. He took over as Director of Electronics and Computer Science at DRDO HQs on 18th April 2013, where he was instrumental in pushing a large number of DRDO projects of national importance. He was also associated with Kota Harinarayana committee, a committee set up by the Govt. of India, for studying organizational aspects and productionization of DRDO technologies. He was re-designated as Director Tech. (Electronics and Communication Systems) on restructuring of DRDO HQ on implementation of Rama Rao Committee recommendations. He is an alumnus of IIT Roorkee and IIT Kanpur from where he obtained his B.E. and M. Tech. degrees in Electrical Engg., respectively.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+R. R. Dasari Distinguished Lecture Series - 2014
+SpeakerDr. Stanley E. Whitcomb
+
+Affiliation : Affiliation:LIGO Lab(operated by Caltech and MIT)
+
+Topic : LIGO: On the Threshold of Gravitational-wave Astronomy Science
+Date/Time : 24th September at 6:00 P.M. (Tea will be served at 05:45 PM)
+Venue : L4(Lecture Hall Complex)
+
+View in Poster Format
+
+Abstract : The Laser Interferometer Gravitational-wave Observatory is a project to develop ultra-sensitive optical interferometers for the detection and study of gravitational waves from astrophysical sources. First detections are expected in the next few years, and they will offer new information about some of the most energetic events in our universe. The challenges of using interferometry to detect gravitational waves and how LIGO is meeting those challenges will be described. In conclusion, there will be a short discussion of the importance of international networks for extracting the full potential from gravitational wave observations.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Biodata of Dr. Stanley E. Whitcomb : Dr. Stanley E. Whitcomb is currently the Chief Scientist of the Laser Interferometer Gravitational-wave Observatory (LIGO) Laboratory. The LIGO Lab is operated by Caltech and MIT through funding from the National Science Foundation.
+
+It comprises observatories in Livingston, Louisiana and Hanford, Washington, in addition to the groups at Caltech and MIT. Over thirty years in development and construction, LIGO is expected to begin taking data at its design sensitivity by year’s end, and will be a key part of an international network of gravitational wave detectors, seeking to learn about the universe through a new type of signal. The LIGO Scientific Collaboration currently includes approximately 800 scientists, engineers and students from more than 60 institutions in 12 countries.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Professor Stan received his undergraduate education at Caltech. He had one year of graduate study at Cambridge University before completing his Ph. D at the University of Chicago in far-infrared and submillimeter astronomy. He returned to Caltech in 1980 as the assistant professor of physics, near the beginning of Caltech’s entry into the field of gravitational wave detection. Over the years since then, he has been involved in nearly every phase of the effort to build LIGO—concept development, prototype sensitivity demonstration, detector design and installation, commissioning, data analysis, and management. He is a Fellow of the American Physical Society and of the Optical Society of America.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+R. R. Dasari Distinguished Lecture Series - 2013
+Speaker: Prof. Kazuaki Sakoda
+
+Affiliation:  National Institute for Materials Science & Tsukuba University
+
+Topic : Nanophotonics Studies Based on Modern Optics and Materials Science
+Date/Time : 19th August at 12:00 P.M.
+Venue : DA 229
+
+View in Poster Format
+
+Abstract : The combination of modern optics and materials science can realize a variety of novel optical phenomena that may find innovative applications.In this lecture I will review the recent achievements of such nanophotonics studies in our research group. I will focus in particular on
+(1) The control of the radiation field by photonic crystals metamaterials plasmonicnano-cavities and their fabrication technologies
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+(2) nano-scale materials sciencelike quantum dots quantum rings isoelectronic traps and polariton nano-fibers
+(3) Their applications (Purcell effect photonic Dirac cone tunable laser micro-pattern laser thermalIR source single-photon source and entangled photon-pair source).The lecture will be an introductory one for both graduate and undergraduate students.
+
+Biodata of Prof Kazuki Sakoda :Kazuaki Sakoda is the Managing Director of the Photonic Materials Unit at the National Institute for Materials Science (NIMS), Japan. He is also a Professor in the Doctoral Program in Materials Science and Engineering at the Graduate School of Pure and Applied Sciences, University of Tsukuba.
+
+Professor Sakoda is an engineer and scientist by training. Prior to joining NIMS as a Senior Researcher in 2002, he was a researcher at the Toray Industries Electronic and Information Materials Research Laboratory and an Associate Professor of the Hokkaido University Research Institute for Electronic Science. He was appointed Director of the NIMS Quantum Dot Center in 2007 and has been Unit Director of the Photonic Materials Unit since 2011.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Prof. Sakoda is a very well-known researcher in the area of Photonic crystals and has several seminal publications to his credit. He holds the credit of writing the first comprehensive textbook on the optical properties of photonic crystals. The book provides both introductory knowledge for graduate and undergraduate students and also important ideas for researchers in this field.
+
+Distinguished Lecture Series - 2012 (Jul-Dec)
+SpeakerProf. Yukihiro Ozaki
+Professor, School of Science and Technology
+Kwansei Gakuin University
+2-1 Gakuen, Sanda, Hyogo 669-1337 Japan
+
+Topic SERS; its Principle and Biological Applications
+Date/Time: 21st August at 5:15 PM (Tuesday)
+Place: L-12
+
+Abstract : Surface-enhanced Raman scattering (SERS) is an extraordinary candidate for detecting and characterizing biological and biomedical molecules, because Raman cross-sections of these molecules attached to Au or Ag nanostructures can be enhanced by a factor of 1010-1014. In fact, SERS has actively been applied to the nondestructive and ultrasensitive characterization of biomolecules, and has thus attracted increasing interest in the field of life sciences, including in DNA-, protein-, cell-, and bacterial studies. The enhancement originates from the near electromagnetic (EM) field or charge transfer (CT) interactions between nanostructures and the attached molecules on them. Thanks to the enhancement, detection time of SERS considerably decreases compared to conventional Raman scattering. SERS for biological and biomedical molecules generally uses near-infrared (NIR) lasers, which can reduce the risk of damaging the molecules even by applying high power. The high specificity of vibrational spectra and the sensitivity to the aqueous environment increase the significance of SERS to study living biological systems. Also SERS active nanoparticles (NPs) bring advantages of detecting or tracking different known biomolecules over fluorescent tags. The usage of such fluorescent tags suffer from confused overlapping fluorescence spectra broader than SERS spectra and non-uniform photobleaching rates, which brings us several potential complications On Ag or Au NPs, optical responses of adsorbed molecules are enhanced. It is widely known in the field of surface enhanced spectroscopy. One of the most common examples may be SERS for the researchers involved in analytical chemistry fields. The enhancement factors of SERS up to 1014 allow us to measure spectra of single molecules (SMs). Raman spectra have distinct vibrational bands known as “molecular fingerprints”, which enable us to attribute molecular species in details. Despite the significant impact of SERS in basic research, fundamental issues such as lack of conclusive evidence for validating the mechanism underlying SERS. We attempted here to resolve the issue by identifying correlations between SERS and its mechanism. There are mainly two mechanisms underlying SERS, which are based on two different mechanisms of enhancement: one is electromagnetic (EM) mechanism and another is chemical one. EM mechanism is characterized by twofold EM enhancement of Raman process induced by plasmon resonance. Chemical enhancement is characterized by shifting of Raman scattering in non-resonance to that in resonance through the formation of charge transfer complexes between adsorbed molecules and metal surface . Both mechanisms have been experimentally investigated in detail and found to be valid. Thus, in an effort to find out which mechanism is dominant, quantitative evaluation of SERS based on exclusive one mechanism is important. In the section, we focus ourselves on recent experimental investigations of EM mechanism using systems composed of single AgNP aggregates and rhodamine 6G (R6G) dye molecules. Thanks to the protection of functional groups of R6G chemical interaction between Ag surfaces and ?-electrons of R6G is weak, indicating we can expect exclusive contribution on EM mechanism to SERS in the system. Generally, there are two kinds of strategies for SERS-based detection of biological molecules. One is label-free detection and the other is Raman dye-labeled detection. Label-free detection is a method of acquiring intrinsic SERS spectra of target biomolecules. It is a simple, direct and reliable approach, but its sensitivity is not high enough in some cases especially for those biomoleculs with small Raman-cross sections. In the case of Raman-dye labeled detection, SERS spectra of extrinsic labels are used as representatives of masked target biomolecules. Recent years, lots of Raman-dye labeled NPs probes have been developed for biomolecule detection based on biomolecule-ligand interactions. It is an indirect approach with high sensitivity; however, it is not always reliable because nonspecific bindings of the ligands may cause false positive results.For some SERS-inactive biomolecules, e.g., phenolic estrogens, changing them to be SERS-active is a new idea we proposed for their detection. It is an indirect method, differing from the Raman-dye labeled strategy because the target molecules are changed to azo dyes and the SERRS spectra correspond to the target molecules. In this chapter we describe our several important strategies for the detection of proteins and other biological molecules by SERS.1. Itoh, T.; Sujith, A.; Ozaki, Y. in Frontiers of Molecular Spectroscopy, J. Laane ed. Elsevier, Amsterdam, Netherlands, 2009, p.289–320.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+2. Han, X. X.; Zhao, B.; Ozaki, Y. Anal. Bioanal. Chem. 2009, 394, 1719.
+3. Han, X. X.; Zhao, B.; Ozaki, Y. Trends in Anal. Chem. in press.
+4. Itoh, T.; Biju, V.; Ishikawa, M.; Kikkawa, Y.; Hashimoto, K.; Ikehata, A.; Ozaki, Y. J. Chem. Phys. 2006, 124, 134708.
+5. Itoh, T.; Yoshida, K.; Biju, V.; Kikkawa, Y.; Ishikawa, M.; Ozaki, Y. Phys. Rev. B 2007, 76, 085405.
+6. Yoshida, K.; Itoh, T.; Biju, V.; Ishikawa, M.; Ozaki, Y. Appl. Phys. Lett. 2009, 95, 263104.
+7. Yoshida, K.; Itoh, T.; Biju, V.; Ishikawa, M.; Ozaki, Y. Phys. Rev. B 2009, 79, 085419.
+
+Distinguished Lecture Series - 2012 (Jan-Jun)
+Speaker: Prof. P. N. Prasad
+Departments of Chemistry, Physics, Electrical Engineering and Medicine
+Institute for Lasers, Photonics and Biophotonics
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+University at Buffalo,The State University of New York
+Buffalo, NY 14260-3000, US
+
+Topic (a): Nanophotonics: Controlling the Excitation Dynamics at Nanoscale to Impact on World Energy and Healthcare
+Date/Time: March 15, 2012 at 11:15 AM (Thursday)
+Place: L-6
+
+Topic (b): METAPHOTONICS: A New Multidisciplinary Frontier
+Date/Time: March 15, 2012 at 05:15 PM (Thursday)
+Place: L-11
+
+Abstract (a) Nanophotonics deals with interaction between light and matter on nanoscale 1 . Its coverage includes size dependence of optical properties in quantum-confined structures, local field enhancement due to plasmonics that leads to enhanced linear, and nonlinear optical responses, as well as nanocontrol of excitation dynamics. We are developing nanoscale inorganic, organic and hybrid materials in which phonon-induced excitation dynamics, energy transfer and nonlinear optical interactions can be controlled and photon localization can be manifested. Application of nanophotonics to two areas of global priority: solar energy conversions and 21 st century healthcare will be discussed.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+For solar energy conversion, our nanophotonics approach uses hybrid nanostructures in which quatum dots are utilized to harvest photons and a polymeric medium provides a flexible large area structure with ease of processing. The emphasis is to efficiently use u.v. photons by carrier multiplication derived from multi-excitation generation as well as harvest IR photons efficiently by quantum dots and multipods of a narrow band-gap semiconductor. Our approach utilizes nanocontrol of excitation dynamics, phonon relaxation, interfacial electron transfer, electron cascading and carrier dynamics to maximize conversion of photon energy to electrical energy.
+Nanophotonics application to Biophotonics in the form of Nanobiophotonics provides new approaches for 21 st century healthcare by its application to the field of nanomedicine which is generating worldwide interest 2, 3 . Nanophotonics provides optical functions for multimodal optical imaging and light controlled targeted therapy. A major opportunity is created for nanomedicine by the use of nanostructures to manipulate the optical resonances and excitations dynamics which provide novel modalities for optical imaging and light controlled therapy. An important aspect of our program is the use of nonlinear optical processes such as twophoton excitation. Control of multiphoton excitation dynamics provides approaches for light activated and optically monitored therapy. Examples provided are photodynamic therapy and gene therapy; their impact on a broad range of health care challenges covering cancer, neurological diseases, infectious diseases, addictions, obesity and depression will be discussed.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+1. P.N. Prasad “Nanophotonics”, John Wiley & Sons, New York (2004)
+2. P. N. Prasad “Introduction to Biophotonics”, John Wiley
+3. P.N Prasad “Introduction to Nanomedicine and Nanobioengineering”, John Wiley, New York (May, 2012)
+
+Abstract (b) Metaphotonics is a rapidly emerging new direction that deals with manipulation of electric and magnetic fields and their coupling in nanoengineered materials to control the field distribution and propagation of electromagnetic waves. The application of metaphotonics ranges from photonics communications, to solar energy harvesting, to sensor technology, to biophotonics. Metaphotonics covers a broad scope which includes:
+
+Chiro-Optics describes the coupling of electric and magnetic dipoles in a chiral medium. Here chiral control of both linear and nonlinear optical properties can be used for manipulation of beam propagation. Chiro-optics also provides a new chemical approach to achieve negative refraction. Our theory-guided design of novel polymeric chiral media to yield negative refractive index will be discussed, along with our more recent reports of plasmonic, structural, and excitonic enhancement of chirality. We have shown that each of these mechanisms can produce increases in chirality parameter of more than an order of magnitude; their combination should ultimately produce chirality parameter values approaching one to enable chiral negative index materials.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Magneto-Optics describes the magnetic control of optical fields and involves cross-coupling between electric and magnetic fields. The two principal effects are Faraday rotation, and magnetic circular dichroism. Our efforts in this direction, using chiral polymer nanocomposites, will be presented. A promising direction is the use of stable organic biradicals for light harvesting, controllable reactivity, and spin valve applications.
+
+Magneto-Plasmonics describes hybrid materials and systems with synergistic magnetic and plasmonic functionality. Here, a quasistatic magnetic field can modulate the dispersion relation of plasmons via induced magnetization of (ferro)magnetic component, and/or plasmonic field can, in turn, modify the dielectric tensor of the former. This can be used for biosensing, dual modality bioimaging and enhanced photothermal therapy. We are pursuing coupled modeling and experimental efforts to develop novel biosensing systems and therapeutic nanoplatforms based on core-shell geometries: an iron oxide core with a gold shell and an iron-platinum core with a gold shell.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Plexcitonics involves plasmon-exciton coupling in hybrid metal/organic/inorganic systems to manipulate absorption and emission of organic/inorganic counterpart as well as the plasmonic field distribution. It can find application in quantum computing and light harvesting. To this point, we are studying doped copper chalcogenide systems coupled to plasmonic metals.
+
+Spin-Photonics describes optical control of magnetization. Here our efforts are both on inorganic and organic nanostructures with a rich manifold of excited spin states as well as their nanocomposites.
+
+Switchable/Transformable Materials in which electric, optical, and magnetic fields can be used for dynamic and reversible control of an optical field as well as linear and nonlinear optical functions.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Here our efforts in electrically and optically switchable liquid crystal based photonic structures will be presented.
+
+This talk will conclude with a discussion of new opportunities in metaphotonics.
+1. P. N. Prasad “Nanophotonics” John Wiley & Sons, (2004).
+2. P. N. Prasad “Introduction to Biophotonics” John Wiley & Sons, (2003).
+3. P. N. Prasad “Introduction to Nanomedicine and Nanobioengineering” John Wiley & Sons, (to be published)
+
+Distinguished Lecture Series - 2010
+Speaker: Dr. Jagdish P. Singh
+Institute for Clean Energy Technology
+Mississippi State University, Starkville, MS 39759, USA
+
+Topic: Laser Induced Breakdown Spectroscopy (LIBS) And Its Application To Water And Slurry Samples.
+Date/Time: December 30, 2010 (Friday)/ 12 PM
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Place: Outreach Auditorium
+
+Abstract : The talk describes the principle of the laser induced breakdown spectroscopy (LIBS) and its application to water and slurry samples. LIBS has been used to detect the elemental composition in different types of samples such as solid, liquid and gas. The characterization of emission from laser induced breakdown with liquid samples using a Nd: YAG laser in single pulse (SP) and double pulse (DP) excitation mode will be presented. It is found that the line emission from magnesium ion/atom is enhanced by more than six times in the case of double pulse excitation in comparison to single pulse excitation mode. The effect of inter-pulse separation on the emission intensity of a magnesium ion and a neutral atom showed an optimum enhancement at a delay of 2.5 -3 ms. This talk also presents a simple theoretical model for the emission from double pulse laser-induced plasma that is developed to better understand the processes and factors involved in enhancement of plasma emission. In this model, the plasma emission is directly proportional to the square of plasma density, its volume, and the fraction of second laser pulse absorbed through inverse Bremsstrahlung absorption by the plasma plume of the first laser pulse.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Distinguished Lecture Series - 2008
+Speaker: Dr. Rohit Bhargava
+Full Time Faculty
+Bioimaging Science and Technology
+Beckman Institute, University of Illinois, Urbana, IL, USA
+(http://www.beckman.uiuc.edu/directory/index.php?qry=BY_NETID&type=BIO&filter=rxb)
+
+Topic: Cancer Pathology Using Infrared Spectroscopic Imaging
+Date/Time: February 29, 2008 (Friday)/ 5 PM
+Place: L-13
+
+Abstract : Fourier transform infrared (FTIR) spectroscopic imaging is a strongly emerging technique that combines the molecular selectivity of spectroscopy with the spatial specificity of optical microscopy. Hence, the technique is capable of providing molecularly specific imaging without the use of probes or specialized reagents. The data recorded being quantitative, numerical methods can be used to extract information objectively and reproducibly. We first demonstrate a new concept in obtaining high fidelity data using commercial array detectors coupled to a microscope and Michelson interferometer. Next, we apply the developed technique to automate human cancer diagnoses and grading. Traditionally, disease diagnoses are based on optical examinations of stained tissue and involve a skilled recognition of morphological patterns of specific cell types (Histopathology). Utilizing endogenous molecular contrast inherent in vibrational spectra, we employed specially designed tissue microarrays and pattern recognition to develop algorithms for automated classifications. The developed protocol is objective, statistically significant and, being compatible with current tissue processing procedures, holds potential for routine clinical diagnoses. We present the application of the concept to detection and grading of in biopsies for different tissue types. We first demonstrate that the classification of tissue type (histology) and that of disease (pathology) can be accomplished in a manner that is robust and rigorous. Since we employ a classifier based on linear combinations of spectral features, the biochemical basis of tissue recognition is apparent. Since data quality and classifier performance are linked, we quantify the relationship both analytically and empirically through our analysis model. We demonstrate that the classification of tissue is both possible and statistically controllable by using simple parameters to determine operating points. Last, we introduce a systems concept to the idea of automated pathology for prostate, breast and colon tissues. In particular, we demonstrate human competitive capability in recognizing histopathology and in automating disease diagnoses.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Distinguished Lecture Series - 2007
+Speaker: Pallab Bhattacharya Charles M. Vest Distinguished University Professor of Electrical Engineering and James R. Mellor Professor of Engineering,
+Department of Electrical Engineering & Computer Science, University of Michigan, Arbor, MI, USA.
+http://www.mnf.umich.edu/ssel/People/index.aspx?id=15
+
+Topic: Quantum Dot Laser: The Ultimate Light Source
+Day/ Time: November 06, 2006 at 5PM (Monday)
+Place: L-15
+
+Abstract : Self-organized quantum dot lasers, grown by MBE or MOVPE, have demonstrated superior characteristics such as large differential gain, ultra-low threshold current, high output power and large output tenability. However, these devices had successfully eluded researchers in the realization of large modulation bandwidths at room temperature. Typically, a bandwidth f-3dB ~5-8 GHz is measured in single-mode quantum dot lasers. The underlying reasons have been elucidated from detailed femto-second differential transmission spectroscopy measurements. In this talk, the speaker also introduced special techniques, such as modulation doping and tunnel injection, that are required to enhance quantum dot laser performance. Tunnel injection and p-doped quantum dot lasers now exhibit extreme temperature stability (T0 à ¥ ), large modulation response frequency (~25 GHz) together with near-zero chirp and linewidth enhancement factors. These characteristics are better than those of pseudomorphic quantum well lasers. Quantum dot lasers grown directly on silicon substrates, with ~4% lattice mismatch, show room temperature performance with power outputs ~ 50 – 100 mW. These are the first electrically injected lasers grown directly on silicon. Quantum dot lasers have also demonstrated large power outputs (~14W).The properties of these fascinating lasers and the underlying physics were described in this talk.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Distinguished Lecture Series - 2006
+Speaker
+
+Michael S. Feld, Professor of Physics &
+Director, George R. Harrison Spectroscopy
+Laboratory, MIT, USA
+(http://web.mit.edu/spectroscopy/overview/index.html)
+
+Topic: Seeing Small Biological Structures With Light
+Date/Time: January 20, 2006 at 5 PM (Friday)
+Place: L-15
+
+Abstract : Conventional light microscopy can only study structures as small as a light wave, a limitation imposed by diffraction. However, by utilizing optical interference, tissues, cells and organelles can be probed at the nanometer length scale, in their native state, without fixation or other pre-processing. Two types of such interference-based techniques, light scattering spectroscopy (LSS) and low coherence interferometry (LCI) were be described. It was discussed how LSS can be used to study large and small sub-cellular structures. In rat epithelium, the small-scale (nm) structure exhibits scale-invariance (i.e. it is fractal). LCI instruments for quantitative phase microscopy and their application to study of red blood cell dynamics and neural activity were also described. The prospect of an optical microscope capable of providing tomographic images of small biological structures were discussed.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Distinguished Lecture Series - 2005
+The following lectures were held on februrary 28, 2005 at L-15
+
+Speaker |
+Affiliation |
+Topic |
+
+Dr. D D Bhawalkar |
+DAE/IITK |
+Laser Cooling |
+
+Prof K R Sarma (PPT) |
+Samtel |
+Recent advances in Display Technology |
+
+Prof R R Dasari(PPT) |
+MIT |
+Spectroscopy for Diagnosis of Disease |
+
+Prof G Ravindra(PPT) Kumar |
+TIFR |
+New Peaks |
+
+Dr Rama Chari(PPT) |
+CAT Indore |
+Fiber Nonlinearity as a Monitor of Ultra-short Pulse Characteristics |
+
+Prof B P Singh(PPT) |
+IITB |
+Optoelectronic and Nonlinear optical Processes in Low Dimensional Organic and Inorganic Semiconductors |
+
+Prof Alika Khare(PPS) |
+IITG |
+Periodic Structures via Laser Matter Interaction |
+
+About Distinguished Lecture Series)
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Ramachandra Rao Dasari,former Professor of Physics, I.I.T. Kanpur, age 87, passed away in Schererville,IN,U.S.A. on April 12, 2020.He was born in India in Krishna District of Andhra Pradesh. He had all his education in India receiving B.Sc. in 1954 from Andhra University, M.Sc. in 1956 from Benares Hindu University and Ph.D. in 1960 from Aligarh Muslim University. He joined the faculty of the Department of Physics at the Indian Institute of Technology Kanpur in 1962 and became a full professor in 1973. During this period, he spend two years at MIT (1966-68) as a visiting scientist and gained valuable experience in the fabrication of lasers and research in laser physics. Prof. Dasari's major accomplishments at IIT, Kanpur include building one of the largest Laser laboratories for university research in India,(many lasers were actually built at IIT Kanpur) training large number of Ph.D students in laser research and interactions with R&D laboratories such as Central Electronics Ltd, New Delhi, and Bharat Heavy Electricals, Hyderabad for laser technology based instrumentation. As Physics panel member of UGC, he had initiated number of new initiatives for improvements in undergraduate education and organized workshops for training of teachers. Besides laser fabrication he also worked in high resolution spectroscopy of simple molecules, vibrational-rotational relaxations in infrared and laser spectroscopy of rare-earth ions in single crystals. He left IIT Kanpur in 1978.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Canada And USA
+
+Prof. Dasari spend a year (1978-79) as a visiting Senior Research Officer at the National Research Council of Canada, Ottawa and another year (1979-80) as visiting Scientist at the Department of Physics, University of British Columbia, Vancouver. He joined MIT in 1980 as a visiting Professor of Physics. In 1981 he was appointed Principal Research Scientist in Spectroscopy Laboratory. In 1984 he was appointed as Assistant Director of the Spectroscopy Laboratory and later promoted as Associate Director in 1992. He oversaw project coordination and facility developments of the National Institute of Health supported MIT Laser Biomedical Research Centre and also coordinated research programs associated with the National Science Foundation supported Laser Research facility. His major research activities were laser biomedical studies leading to spectral diagnosis of disease using several techniques like scattering, reflectance, fluorescence, and Raman spectroscopy. Specifically, detection of early stages of cancer in several organs of the body including breast, colon, bladder, esophagus, uterine cervix, and oral cavity was the major theme of research. Also he was involved in the extensive studies that were conducted in vitro and in some cases in vivo related to atherosclerosis in coronary, femoral and carotid arteries. His other research were related to low coherence interferometry for detection of nanometer motions in cells and neurons, Dicke narrowing in infrared transitions, laser nuclear studies, molecular collisions and dynamics and single atom laser.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > lecture series]
+Publications
+
+Dr. Dasari's research publications numbering close to 200 in referred journals which include Physical Rev. Letters, Physical Review, Nature, Optics Letters, Applied Optics, Journal of Quantum Electronics, Applied Spectroscopy, , Journal of Chemical Physics, Journal of Molecular Spectroscopy, Cancer Research, Gastro Enterology, etc. He had given numerous lectures at universities in the U.S.A., Canada, and India and participated in several international conferences. Under his supervision, twelve students have received Ph.D.degrees and several students received M.S./M.Tech degrees.
+

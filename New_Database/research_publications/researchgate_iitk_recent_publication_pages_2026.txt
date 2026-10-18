@@ -1,0 +1,555 @@
+RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026)
+Name: Individual ResearchGate publication pages (title, journal, date, DOI, authors, abstract, similar research) for five recent IIT Kanpur papers.
+Type: RESEARCH PUBLICATIONS of IIT Kanpur authors, from ResearchGate. Snapshot: scraped in 2026 (publication pages dated up to early 2027 as listed by ResearchGate).
+
+=== ResearchGate publication: A Fully Soft-Switched Primary Parallel Compensated IPT System for Entire Load and Coupling Variations in EV Applications ===
+Source: https://www.researchgate.net/publication/412106845_A_Fully_Soft-Switched_Primary_Parallel_Compensated_IPT_System_for_Entire_Load_and_Coupling_Variations_in_EV_Applications
+
+Article
+
+A Fully Soft-Switched Primary Parallel Compensated IPT System for Entire Load and Coupling Variations in EV Applications
+
+A Fully Soft-Switched Primary Parallel Compensated IPT System for Entire Load and Coupling Variations in EV Applications
+
+December 2026 · IEEE Transactions on Power Electronics · 41(12):20894-20899
+
+DOI: 10.1109/TPEL.2026.3722394
+
+Akhouri Prateek Sinha · Suvendu Samanta
+
+Citations
+
+0
+
+Reads
+
+3
+
+Overview
+Citations
+References (11)
+Abstract
+
+No abstract
+
+The abstract for this research is not available.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Fully Soft-Switched Primary Para]
+Similar research
+A Reduced Order Dynamic Modeling and Control of Phase-Shift Modulated Wireless Power Transfer Converters
+Article
+Full-text available
+
+January 2026 · 4 Reads
+
+IEEE Access
+
+Jalaj Kumar · Akhouri Prateek Sinha · Suvendu Samanta
+To read the full-text of this research, you can request a copy directly from the authors.
+Accurate Reduced Order System Using Small Signal Modeling and Controller Design of the Series-Parallel Wireless Power Transfer Converter
+Conference Paper
+
+July 2025 · 3 Reads
+
+Jalaj Kumar · Akhouri Prateek Sinha · Suvendu Samanta
+A Fully Turn-on and Turn-Off Zero-Voltage Switched CSI-Fed PS/S-Based IPT System Without Using Any Auxiliary Switches or Circuits
+Conference Paper
+
+December 2025 · 2 Reads
+
+Akhouri Prateek Sinha · Jalaj Kumar · Suvendu Samanta
+Zero Current Switching Based Current-Source Inverter With Reduced Switches in IPT Application
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Fully Soft-Switched Primary Para]
+Conference Paper
+
+May 2025 · 9 Reads · 2 Citations
+
+Akhouri Prateek Sinha · Jalaj Kumar · Suvendu Samanta
+An Efficient Parallel Subdomain DGFEM for Multi-Physics Coupling Analysis
+Conference Paper
+
+November 2024 · 4 Reads
+
+Tianxiang Song · Ping Li
+
+Ad
+
+Company
+About us
+Blog
+Careers
+Resources
+Help Center
+Contact us
+Business Solutions
+Marketing Solutions
+Scientific Recruitment
+Publisher Solutions
+
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+
+Terms
+Privacy
+Copyright
+Imprint
+Consent preferences
+
+=== ResearchGate publication: Efficient and Coupled 1D-2D Hydrodynamic Framework to Model Catchment Scale Surface Flow Dynamics ===
+Source: https://www.researchgate.net/publication/414275602_Efficient_and_Coupled_1D-2D_Hydrodynamic_Framework_to_Model_Catchment_Scale_Surface_Flow_Dynamics
+
+Article
+
+Efficient and Coupled 1D-2D Hydrodynamic Framework to Model Catchment Scale Surface Flow Dynamics
+
+Efficient and Coupled 1D-2D Hydrodynamic Framework to Model Catchment Scale Surface Flow Dynamics
+
+December 2026 · Journal of Hydrologic Engineering · 31(6)
+
+DOI: 10.1061/jhyeff.heeng-6908
+
+Ravi Shukla · Naveed Ul Hassan Bhat · Alok Kumar · Gourabananda Pahar
+
+Citations
+
+0
+
+Reads
+
+21
+
+Overview
+Citations
+References
+Abstract
+
+Surface flow in a catchment consists of slowly varying overland flow and a predominantly fast and concentrated flow through channels. Since channel width is generally small relative to the catchment extent, accurate channel representation requires fine domain discretization, thereby increasing computational overhead. This study aims to develop a computationally efficient hybrid coupled 1D-2D framework with module-specific time-stepping for channel and overland flows, based on various forms of depth-averaged conservation laws, selected in accordance with their physical applicability. Overland flow is modeled using the 2D dynamic and diffusive variants of the shallow water equations, and the 1D dynamic (width-averaged, hyperbolic) counterpart governs the flow through channel(s). Bends/junctions formed by channel network involve changes in flow direction and are resolved locally as a 2D system. All the modules are duly coupled at the shared boundary between 1D and 2D systems through interfacial fluxes. The governing partial differential equations are solved on a regular finite-volume grid using an explicit shock-capturing scheme for the dynamic variants, whereas the diffusive model is solved with an implicit temporal discretization. The numerical framework incorporates appropriate treatment of bed variation, wet–dry transitions, and friction to ensure physically admissible solutions. The proposed framework is validated against multiple benchmark scenarios, including experimental cases involving variable-width-channel, channel-networks, and overland-flow (with/without channel) scenarios as well as an extension to real catchments with varying topographical features. The results demonstrate that the dynamic variant better captures rapidly varying and inertia-dominated flows, while the diffusive variant provides computational advantages for gradually varying shallow overland flow.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+Similar research
+Granular media deformation and fluid flow as overlapping, concurrent, coupled multilayered depth-averaged framework
+Article
+
+September 2023 · 38 Reads · 7 Citations
+
+Ocean Engineering
+
+Naveed Ul Hassan Bhat · Gourabananda Pahar
+To read the full-text of this research, you can request a copy directly from the authors.
+
+A novel coupled depth-averaged formulation for the combination of multilayered fluid and monolayer granular flows as a set of interpenetrating continua has been developed in this study. Granular and fluid phases are coupled through an interaction force pair comprised of fluid stresses, and drag forces. Fluid phase is discretized in the vertical direction through a set N of virtual layer interfaces to obtain a variation of flow properties along depth. A novel algorithm for mass and momentum exchange between fluid layers for flow through and over porous media has been proposed. Eigenstructure analysis of the coupled system shows that the system may be discretized in separate yet coupled Riemann problems. An improved version of well-known HLL method is developed for solution of the model (Finite Volume Method) in a regular grid. The resistive source–sink terms are embedded implicitly within the interfacial flux. Based on the choices of state variables and layer-interface porosity, four variants of the coupled system are developed. A set of benchmark experimental test-cases and a representative test involving both rigid and deformable granular media has been simulated using the four variants to establish the robustness of the model and the coupling procedure.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+Layered shallow water equations: Spatiotemporally varying layer ratios with specific adaptation to wet/dry interfaces
+Article
+
+November 2023 · 59 Reads · 5 Citations
+
+International Journal for Numerical Methods in Fluids
+
+Naveed Ul Hassan Bhat · Gourabananda Pahar
+
+The study of multilayered shallow water equations has developed from a consideration of immiscible layers as a vertical mesh to the layer bounds as imaginary extremes for vertical integration of the flow equations. In the current work, a quasi three‐dimensional flow model has been developed with the consideration of the spatiotemporal flexibility/variability of the pervious vertical discretization/layer ratios. Thus, in principle, vertical layering offers a nonuniform grid with a temporal variation. The system of equations thus formulated comprises a conservative part and the appended source/sink terms. These source/sink terms pertain to the inter‐layer interactions such as mass/momenta transfer and interfacial stress, which have been treated in a novel implicit form alongwith the subgrid‐scale eddy‐viscosity for interlayer shear. They are integrated into the system through different physical considerations so as to arrive at a well‐balanced numerical scheme in a regular finite volume grid. The model has been validated through the standard test‐cases highlighting the conservation properties and the model's adaptability to uniform and nonuniform vertical meshes alongwith the spatiotemporal transitions of layer ratios, with a specific interest in limiting cases of wet/dry fronts. The increase in layer ratios tends to nearly replicate the full‐scale model results in experimental scenarios at a lesser computational overhead.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+A Unified Depth-averaged Approach for Integrated Modeling of Surface and Subsurface Flow Systems
+Article
+
+December 2020 · 78 Reads · 11 Citations
+
+Journal of Hydrology
+
+Alok Kumar · Gourabananda Pahar
+
+A two-dimensional depth-averaged continuum framework is developed for simulating the interaction of flows outside and within porous media. A unique set of generalized equations applicable to both surface and subsurface systems is derived originating from conservation laws of microscopic variables with first volume-averaging and then integrating vertically. The model is free of ad-hoc coupling as interface conditions are satisfied implicitly owing to the generalized nature of the governing equations. The set of depth-integrated equations (unconditionally hyperbolic) is resolved by employing a Total-Variation-Diminishing MacCormack scheme. The developed model is validated with four one-dimensional experimental test-cases (containing both Darcy and non-Darcy regimes) and applied to a demonstrative two-dimensional scenario having various interface conditions. Results obtained from the proposed framework highlights the potential applicability of the generalized model for diverse time-scales and vertical/ sloping interface conditions.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+Depth-averaged coupling of submerged granular deformation with fluid flow: An augmented HLL scheme
+Article
+
+January 2022 · 87 Reads · 8 Citations
+
+Journal of Hydrology
+
+Naveed Ul Hassan Bhat · Gourabananda Pahar
+
+Debris flow in or towards water bodies, and bed load transport in open channels manifest from the interaction of fluid with deformable granular media at varied spatiotemporal scales. The present study aims to formulate a robust two-dimensional coupled depth-averaged framework for simulation of submarine deformation of non-cohesive granular media and the corresponding effect on water and the otherwise. The unified framework consisting of conditional hyperbolic set of partial differential equations has been conceptualized as two concurrent yet independent systems interacting through source/ sink terms comprising of drag force, shear and water-surface gradient. The system is solved on a regular finite volume grid through a robust modification of the Harten-Lax-Van Leer (HLL) scheme. The interaction terms are embedded into the interfacial fluxes, where additional closure employs the effect of dry-wet zone transition and flow arrest for both modules. Various aspects of the proposed framework are validated against an array of test cases ranging from landslide induced tsunami to dambreak induced scour. The last representative scenario emphasizes the potential applicability of the model for real-time extension to field-scale problems. A few one-dimensional approximations are explored in the Appendix to calculate relative velocity between interstitial fluid and granular media for computation of drag force.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+Euler–Lagrange framework for deformation of granular media coupled with the ambient fluid flow
+Article
+
+November 2021 · 57 Reads · 12 Citations
+
+Applied Ocean Research
+
+Naveed Ul Hassan Bhat · Gourabananda Pahar
+
+A full-scale continuum framework for modeling fluid interaction with granular media is computationally exhaustive due to the diverse range of length and time scales. Given the nature of these processes, the computational burden aggravates the problem of real-time simulation for large-scale scenarios. In the current study, the interaction between Newtonian fluid and deformable granular media is modeled through a coupled framework comprising of a two-dimensional divergence-free Incompressible Smoothed Particle Hydrodynamics and a depth-integrated Finite Volume Method, respectively. The coupling is based on the interaction force pair tailored for each module appropriately. The formulation has been validated against a variety of test-cases comprising of a diverse configuration of initial conditions for both fluid and granular modules. The proposed framework is in consonance with experimental data and may be extended to real-time scenarios owing to lower computational overhead.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Efficient and Coupled 1D-2D Hydrod]
+Ad
+
+Company
+About us
+Blog
+Careers
+Resources
+Help Center
+Contact us
+Business Solutions
+Marketing Solutions
+Scientific Recruitment
+Publisher Solutions
+
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+
+Terms
+Privacy
+Copyright
+Imprint
+Consent preferences
+
+=== ResearchGate publication: Modeling Incomplete Solute Mixing at Pipe Junctions in Water Distribution Networks: Parametric CFD Simulations and a Predictive Regression Approach ===
+Source: https://www.researchgate.net/publication/414512866_Modeling_Incomplete_Solute_Mixing_at_Pipe_Junctions_in_Water_Distribution_Networks_Parametric_CFD_Simulations_and_a_Predictive_Regression_Approach
+
+Article
+
+Modeling Incomplete Solute Mixing at Pipe Junctions in Water Distribution Networks: Parametric CFD Simulations and a Predictive Regression Approach
+
+Modeling Incomplete Solute Mixing at Pipe Junctions in Water Distribution Networks: Parametric CFD Simulations and a Predictive Regression Approach
+
+January 2027 · Journal of Hydraulic Engineering · 153(1)
+
+DOI: 10.1061/jhend8.hyeng-14715
+
+Richárd Wéber · Levente Sándor · Gopinathan R. Abhijith · Show all 5 authors · Avi Ostfeld
+
+Citations
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
+0
+
+Reads
+
+16
+
+Overview
+Citations
+References (17)
+Abstract
+
+High-quality drinking water is essential for modern settlements, and accurate modeling of solute mixing at pipe junctions is crucial in water distribution networks (WDNs). While complete mixing is often assumed, recent studies emphasize the need to account for incomplete mixing. This paper advances the understanding of incomplete mixing effects on water quality dynamics in WDNs. Computational fluid dynamics (CFD) simulations are employed to examine how pipe connection angles in cross junctions influence solute mixing. The results highlight the significance of the junction angle and the relative distribution of inflow and outflow rates, whereas the diffusion coefficient and the turbulent Schmidt number have a limited influence. A generic regression model is developed to capture the nonlinear relationships between the dominant factors, providing accurate predictions of mixing at pipe junctions with minimal computational cost. The model is validated against experimental data from the literature and can be integrated into traditional WDN solvers such as EPANET. The findings improve the simulation reliability of contaminant concentration profiles, supporting more robust water quality analysis and advancing the state of the art in WDN modeling.
+To read the full-text of this research, you can request a copy directly from the authors.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
+Similar research
+Predicting Contamination Spreading in Water Distribution Networks
+Article
+Full-text available
+
+September 2024 · 36 Reads · 1 Citation
+
+Engineering Proceedings
+Richárd Wéber · Levente Sándor · Ákos Horváth · [...] · Avi Ostfeld
+
+High-quality drinking water is an essential need of every modern settlement. Typical analysis applies the EPANET to calculate the water age and the chlorine distribution. However, it cannot cope with diffusion or three-dimensional effects. This study aims to find the potential cases where the traditional modelling needs adjustment or improvements. This study uses computational fluid dynamics to analyse how non-reacting contaminants (e.g., fluoride, chloride, metal oxides, and micropollutants) spread in water distribution networks.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
+Booster Disinfection Scheduling under Uncertainty in Water Distribution Systems: Approximate Robust Reformulation Approach Approximate Robust Reformulation Approach
+Preprint
+File available
+
+November 2023 · 85 Reads
+
+Sriman Pankaj Boindala · G Jaykrishnan · Avi Ostfeld
+
+One key aspect of ensuring water safety in water distribution systems (WDS) is the controlled use of disinfectants like chlorine within these systems. The amount of disinfectant levels in WDS directly impacts the quality and safety of the water supplied to consumers thus chlorine/disinfectant regulation in WDS is paramount. An upper residual Chlorine limit controls the formation of disinfection by-products, while a lower residual Chlorine limit guarantees that the water remains free of organic contaminants. However, accurately modelling the Chlorine reaction in WDS is a complex task due to various influencing factors, including pipe material, pipe age, water pH, temperature, and more. The variability in the Chlorine reaction rate in WDS poses a significant challenge in accurately predicting water quality provided to the consumers and also affects the optimal scheduling of Chlorine booster injections. To ensure the water quality remains within the acceptable range, we consider the chlorine reaction rate as an uncertain parameter and propose an approximate robust reformulation approach for the booster chlorination scheduling problem. We utilize two benchmark WDS systems to perform rigorous testing and analysis of our methodology. The proposed approach provides a systematic and robust method to obtain chlorine injection scheduling that adheres to predefined aims to maintain safe water quality levels while considering the uncertain reaction rate coefficients to be within ellipsoidal uncertainty sets.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
++5
+
+Robust Optimal Booster Disinfectant Injection in Water Systems under Uncertainty
+Article
+Full-text available
+
+May 2023 · 179 Reads · 9 Citations
+
+Water
+Sriman Pankaj Boindala · G. Jaykrishnan · Avi Ostfeld
+
+Water distribution systems (WDSs) require high-quality water for safe consumption. To achieve this, disinfectants such as chlorine are often added to the water in the system. However, it is important to regulate the levels of chlorine to ensure they fall within acceptable limits. The higher limit is to control disinfection by-products, while the lower limit is established to guarantee that the water is free of organic contaminants. The rate at which chlorine reacts within the pipes is affected by various factors, such as the type of pipe, its age, the pH level of the water, the temperature, and others. This variability makes it challenging to accurately model water quality in WDSs, which can impact the optimal rate of booster injection. To address the uncertainty in the chlorine reaction rate, the current research proposes a robust counterpart reformulation of the booster chlorination scheduling problem, which considers the chlorination reaction rate as uncertain. The proposed reformulation was tested on two benchmark WDSs and analyzed with a thorough sensitivity analysis. The results showed that as the size of the uncertainty set increased, the injection mass also increased. This reformulated approach can be applied to any WDS and provides a way to obtain optimal scheduling within the desired protection levels.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
++1
+
+Analyzing the role of consumer behavior in coping with intermittent supply in water distribution systems
+Preprint
+File available
+
+November 2022 · 173 Reads
+
+Abhijith G R · Maddukuri Naveen Naidu · Sriman Pankaj Boindala · [...] · Avi Ostfeld
+
+In developing countries, most water distribution systems (WDS) are operated as intermittent water supply (IWS) systems. A significant share of them also delivers water to consumers in irregular and unreliable ways. To meet water demands under such inconsistent WDS operations, IWS consumers commonly adapt to flexible consumption behaviors characterized by storing the limited water available during shorter supply periods in intermediate storage facilities for subsequent usage during more extended non-supply periods. Towards accounting for this characteristic behavior in understanding the IWS behavior more realistically, this paper presented the development, functioning, and application of a novel open-source PYTHON-based simulation tool (EPyT-IWS) for WDS, virtually acting like an IWS modeling extension of EPANET 2.2. EPyT-IWS integrates EPANET 2.2 solver with an independent hydraulic solver to mimic the water withdrawal during supply periods, storage in intermediate storage facilities, and subsequent use. The applicability of the simulation tool was demonstrated by performing extended-period hydraulic simulations on a typical WDS with representative IWS attributes. The simulation outcomes showed that practicing the typical consumption behavior, involving storing water within underground tanks and later pumping it into overhead tanks, allows consumers to cope with the intermittent water availability and meet their demands very suitably. Besides the water supply duration, the clock time of water supply in IWS systems was predicted to influence consumers' ability to fill the intermediate storage tanks and meet water demands. This study's overall findings can advance the state-of-the-art for planning, designing, and operating WDS with IWS characteristics.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
+CFD SIMULATIONS OF INCOMPLETE MIXING AT PIPE JUNCTIONS: JUNCTION ANGLE INFLUENCE AND PREDICTIVE MODELLING
+Conference Paper
+
+August 2025 · 19 Reads
+
+Richárd Wéber · Levente Sándor · Abhijith G R · [...] · Avi Ostfeld
+
+Accurate modelling of solute transport in water distribution networks (WDNs) is critical for ensuring water safety, yet conventional approaches often rely on the oversimplified assumption of complete mixing at pipe junctions-an idealization that fails under realistic flow conditions and can lead to substantial errors in predicting contaminant spread and disinfectant efficacy. This study advances the understanding of incomplete mixing by employing high-resolution computational fluid dynamics (CFD) simulations to systematically analyse how junction geometry, specifically the pipe connection angle, and the distribution of inflow and outflow rates govern solute dispersion at cross-junctions. The results demonstrate that these hydraulic and geometric factors dominate mixing behaviour, while diffusion coefficients and turbulent Schmidt numbers exert negligible influence. To translate these findings into practical applications, a nonlinear regression model is developed and validated against experimental data, offering fast and accurate predictions of solute concentrations at junction outflows. The model is readily integrable into existing WDN solvers such as EPANET, enabling scalable and physically realistic simulation of water quality dynamics. By incorporating incomplete mixing effects, this approach significantly enhances the fidelity of disinfection strategies and contaminant risk assessments in complex urban water systems.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Modeling Incomplete Solute Mixing ]
+Ad
+
+Company
+About us
+Blog
+Careers
+Resources
+Help Center
+Contact us
+Business Solutions
+Marketing Solutions
+Scientific Recruitment
+Publisher Solutions
+
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+
+Terms
+Privacy
+Copyright
+Imprint
+Consent preferences
+
+=== ResearchGate publication: A Unified Arching-Based Framework for Predicting Active Earth Pressures on Retaining Walls under Different Wall Movements ===
+Source: https://www.researchgate.net/publication/415145244_A_Unified_Arching-Based_Framework_for_Predicting_Active_Earth_Pressures_on_Retaining_Walls_under_Different_Wall_Movements
+
+Article
+
+A Unified Arching-Based Framework for Predicting Active Earth Pressures on Retaining Walls under Different Wall Movements
+
+A Unified Arching-Based Framework for Predicting Active Earth Pressures on Retaining Walls under Different Wall Movements
+
+December 2026 · Journal of Geotechnical and Geoenvironmental Engineering · 152(12)
+
+DOI: 10.1061/jggefk.gteng-15226
+
+Ashutosh Verma · Sathiyamoorthy Rajesh
+
+Citations
+
+0
+
+Reads
+
+1
+
+Overview
+Citations
+References
+Abstract
+
+Arching is the fundamental mechanism governing the development of earth pressures on retaining walls. This phenomenon, driven by soil rearrangement, initiates during construction and therefore comprises two components: construction-phase arching and active-phase arching. Although several studies have addressed arching under active conditions, the contribution of the construction phase remains underexplored. This study develops an analytical framework that incorporates the combined effects of construction-phase and active-phase arching into the prediction of normal stress distribution, total active thrust, and resultant point of application on retaining walls. Three principal modes of wall movement, namely, rotation about the base and translation (producing concave soil arches) and rotation about the top (inducing convex arches) are examined. Both planar and parabolic failure surfaces are employed to derive the loci of soil arches corresponding to each movement mode. Design charts are formulated to determine the arch coefficient and curvature factor for varying degrees of wall–soil friction mobilization and different backfill friction angles. Furthermore, a comprehensive formulation for evaluating the stress ratio is proposed using a differential slice approach that accounts for the bin coefficient and explicitly incorporates construction-phase arching. Results demonstrated that construction-phase arching substantially influences the stress distribution and increases the magnitude of active thrust by a considerable margin, whereas the height of thrust application remains relatively unaffected. Additionally, comparison with existing theories and available experimental data demonstrated satisfactory agreement. These findings highlight the necessity of accounting for construction-phase arching in design practice for retaining structures to avoid underestimation of earth pressures.
+To read the full-text of this research, you can request a copy directly from the authors.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
+Similar research
+Influence of grain segregation on the behavior of sand in triaxial tests
+Article
+Full-text available
+
+September 2021 · 260 Reads · 4 Citations
+
+Journal of Mountain Science
+
+Fangwei Yu · Xiong-zhi Peng · Li-Jun Su
+
+As a common phenomenon in granular flow, grain segregation plays a great role in affecting the behavior of granular soil by causing a great change of grain-void distribution in granular soil. This paper presents an experimental study on the influence of grain segregation on the behavior of sand, by a number of triaxial tests to interpret the characteristic behavior, friction and dilatancy behavior, excess pore water pressure behavior and critical state behavior of sand incorporating grain segregation. An index - grain segregation index Igs was proposed to quantify grain segregation. Grain segregation affected greatly the characteristic behavior of sand, causing the movement of void ratio-dilatancy relation of sand towards the increase of void ratio and dilatancy of sand. In the drained tests, the mobilized friction angle of sand showed a decrease followed by an increase but the mobilized dilatancy angle of sand increased, with increasing grain segregation index. An increase in grain segregation index impaired the basic friction of sand. In the undrained tests, the mobilized friction angle of sand showed an increase followed by a decrease with increasing grain segregation index. However, grain segregation caused an increase of the mobilized dilatancy of sand followed by a different development. An increase in grain segregation resulted in a higher summit of the dilatancy of sand but with a faster decrease along axial strain. In the q-p′ plane, grain segregation caused a reciprocating rotation of the dilatancy line and failure line of sand. Grain segregation resulted in enhancement of the peak-state dilatancy of sand, affecting greatly peak-state friction angle and peak-state basic friction angle of sand as well as the normalized excess pore water pressure. The excess friction angle of sand showed an increase followed by a decrease in the drained tests but increased linearly in the undrained tests, with increasing grain segregation index. The excess friction angle-over-maximum dilatancy angle of sand decreased in up convexity while increasing grain segregation index. Grain segregation resulted in rotation and translation of the critical state line of sand in the e-p′α=0.7 plane. However, in the q-p′ plane, the critical state line of sand showed an anticlockwise rotation followed by a clockwise rotation with increasing grain segregation index.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
++5
+
+An improved method of active earth pressure on rigid retaining wall under movement modes considering arching effects
+Article
+Full-text available
+
+December 2022 · 180 Reads · 20 Citations
+
+International Journal for Numerical and Analytical Methods in Geomechanics
+Ling Fan · Zhuyan Zheng · Shuquan Peng · [...] · Hongling Ma
+
+Both wall movement mode and soil arching are important to the active earth pressure on rigid retaining wall, but the method of active earth pressure under wall movement modes considering arching effects is yet to be studied. A series of minor principal stress trajectories described by the power function with the exponent b is assumed to analyze the soil arching effect using the equivalent friction coefficient between adjacent soil layers. The horizontal Winkler elastic foundation beam model induced by wall movement modes is presented. Then based on the trajectories and wall movement modes the horizontal flat‐element method of active earth pressure on rigid retaining wall is improved and verified. The active earth pressures on the retaining wall under translation (T), rotation about top (RT) mode and rotation about bottom (RB) mode calculated by the improved method are in a better agreement with the experimental results than other analytical studies. The application point of the resultant active earth pressure on retaining wall increases from 0.25 H to 0.49 H with varies of wall movement modes considering soil arching effect. The larger equivalent friction coefficient is, the more notable soil arching effect is. The most notable soil arching effect is described by the approximate linear minor principal stress trajectory whose power function with exponent of b approaches zero from positive direction. The active earth pressure on retaining wall under RT mode considering the most notable soil arching effect is simplified and suggested for the engineering practice.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
++1
+
+Coefficients of active earth pressure with seepage effect
+Article
+Full-text available
+
+May 2012 · 181 Reads · 36 Citations
+
+Canadian Geotechnical Journal
+Pérsio L.A. Barros · Petrucio J. Santos
+
+A calculation method for the active earth pressure on the possibly inclined face of a retaining wall provided with a drainage system along the soil–structure interface is presented. The soil is cohesionless and fully saturated to the ground surface. This situation may arise during heavy rainstorms. To solve the problem, the water seepage through the soil is first analyzed using a numerical procedure based on the boundary element method. Then, the obtained pore-water pressure is used in a Coulomb-type formulation, which supposes a plane failure surface inside the backfill when the wall movement is enough to put the soil mass in the active state. The formulation provides coefficients of active pressure with seepage effect which can be used to evaluate the active earth thrust on walls of any height. A series of charts with values of the coefficients of active earth pressure with seepage calculated for selected values of the soil internal friction angle, the wall–soil friction angle, and the wall face inclination is presented.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
+Analytical formulation of overturning moments in retaining walls under two-phase arching
+Article
+
+September 2026 · 6 Reads
+
+Géotechnique Letters
+
+Ashutosh Verma · S. Rajesh
+
+Soil arching plays a critical role in governing stress redistribution and stability of rigid retaining walls, yet its influence on overturning moment is commonly evaluated considering only the active phase of wall movement. This study presents an analytical formulation for estimating the overturning moment by explicitly accounting for both construction- and active-phase arching. The formulation uses a differential slice approach combined with a catenary representation of soil arch geometry to model vertical and principal stress distribution within backfill. Different wall movement modes, including rotation about the base, rotation about the top and horizontal translation, are incorporated in the analysis. The proposed model enables direct computation of the overturning moment while considering mobilised wall friction and initial wall inclination during construction. Predicted results show good agreement with established analytical and experimental solutions. Parametric and sensitivity analyses demonstrate that the internal friction angle of the backfill is the predominant factor influencing overturning moment across all wall movement modes. Importantly, incorporation of construction-phase arching improves the prediction of overturning moment resulting in variations of up to 38% compared to formulations considering only active-phase arching. The study emphasises the necessity of explicitly including construction-phase arching in the stability assessment of rigid retaining walls.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
+Effect of arching on active earth pressure distribution against braced wall
+Article
+
+April 2021 · 25 Reads · 4 Citations
+
+International Journal of Geotechnical Engineering
+
+Kingshuk Dan · Ramendu Bikas Sahu
+
+Active earth pressure distribution against the braced wall depends on the mode of wall movement, which may be translational or rotational. The pressure distribution is generally non-linear resulting from arching effects. Here new formulations are proposed for calculation of active earth pressure above and below cut level of braced excavation considering arching effects. Horizontal translation as well as rotation about the top of wall is accounted for above excavation level whereas in case of below cut level it is assumed that the wall is tilting around its lower edge. Expressions for earth pressure coefficient and soil deformation profile are also provided analysing the equilibrium condition of soil within failure zone. In order to find out effects of major soil parameters like soil friction angle ‘ϕ’, wall friction angle ‘δ’ and cohesion ‘c’, parametric studies are carried out. The prposed formulations are validated with existing case studies and found satisfactory results.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: A Unified Arching-Based Framework ]
+Ad
+
+Company
+About us
+Blog
+Careers
+Resources
+Help Center
+Contact us
+Business Solutions
+Marketing Solutions
+Scientific Recruitment
+Publisher Solutions
+
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+
+Terms
+Privacy
+Copyright
+Imprint
+Consent preferences
+
+=== ResearchGate publication: Closure to “An Empirical Model for Time to Ponding Accounting for Root Water Uptake” ===
+Source: https://www.researchgate.net/publication/415388457_Closure_to_An_Empirical_Model_for_Time_to_Ponding_Accounting_for_Root_Water_Uptake
+
+Article
+
+Closure to “An Empirical Model for Time to Ponding Accounting for Root Water Uptake”
+
+Closure to “An Empirical Model for Time to Ponding Accounting for Root Water Uptake”
+
+December 2026 · Journal of Irrigation and Drainage Engineering · 152(6)
+
+DOI: 10.1061/jidedh.ireng-10914
+
+Uma Maheswara Rao Songa · Richa Ojha
+
+Citations
+
+0
+
+Reads
+
+0
+
+Overview
+Citations
+References
+Abstract
+
+No abstract
+
+The abstract for this research is not available.
+
+Similar research
+
++5
+
+Identification of homogeneous regions of near surface air temperature lapse rates across India
+Article
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Closure to “An Empirical Model for]
+Full-text available
+
+March 2019 · 64 Reads · 10 Citations
+
+International Journal of Climatology
+Richa Ojha
+
+Spatial variation of near surface temperature lapse rate is usually analysed by subjectively dividing the study area in to different sub‐regions based on political or physiographic boundaries. This can often lead to unreliable results as near surface temperature lapse rate largely depends on regional conditions. In this study, homogeneous regions of near surface air temperature lapse rate across India have been identified for monthly mean minimum, mean, and mean maximum temperature using a probabilistic Gaussian mixture model clustering approach. For the delineated regions, lapse rates are estimated using weighted linear regression model. The weights corresponding to each station were obtained from the clustering approach. Results indicate that regions with uniform lapse rate vary across different months and a minimum of three regions is obtained for maximum temperature in April month. Further, temperature lapse rate estimates exhibit spatial and temporal variability, and are less steep than the Environmental lapse rate (−6.5°C/km). The maximum spatial variability in lapse rate is observed in May for both maximum and minimum temperature. The delineation of entire India into homogeneous regions improves temperature interpolation when compared to results obtained by considering entire India as one region. A maximum improvement of 34% in root mean square error is observed in prediction of monthly mean temperature in March. The identified regions and the associated lapse rates are expected to improve the prediction of near surface temperature at ungauged locations across India.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Closure to “An Empirical Model for]
+An Empirical Model for Time to Ponding Accounting for Root Water Uptake
+Article
+
+January 2026 · 18 Reads
+
+Journal of Irrigation and Drainage Engineering
+
+Uma Maheswara Rao Songa · Richa Ojha
+To read the full-text of this research, you can request a copy directly from the authors.
+
+This study develops empirical models for time to ponding that account for root water uptake. Using the Mein and Larson model and the one-dimensional (1D) Richards equation, the influences of root water uptake on ponding time were investigated across diverse soils and plant types. Further, empirical time to ponding models were formulated for four soil types by incorporating parameters like soil texture, root zone depth, and crop-specific traits. The R 2 and root-mean-square error (RMSE) for the best-performing models varied between 0.71 to 0.95, and 0.93 to 1.15 h, respectively. Field validation confirmed the robustness of the developed models and demonstrated the need for soil-and crop-specific calibration. Sensitivity analysis highlighted significant interactions between root zone depth (Zr) and maximum root water extraction rate (Smax), with variations in soil type influencing model performance. The findings underscore the importance of incorporating root water uptake when estimating time to ponding. The developed models can be used to formulate simplified models for describing field-scale moisture movement for diverse agricultural settings.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Closure to “An Empirical Model for]
+Discussion of “An Empirical Model for Time to Ponding Accounting for Root Water Uptake”
+Article
+
+December 2026
+
+Journal of Irrigation and Drainage Engineering
+
+Seyed ("Haji") Hajimirzaie
+Performance Evaluation of Green and Ampt Time of Ponding Models
+Chapter
+
+December 2024 · 6 Reads
+
+Uma Maheswara Rao Songa · Richa Ojha
+Macropore Flow and Its Characteristics
+Chapter
+
+May 2024 · 74 Reads · 6 Citations
+
+Anoop Pandey · Richa Ojha
+
+Conventional theories of water flow in soil assume local equilibrium at the elementary volume scale. However, in recent years, this assumption has been abandoned to account for non-equilibrium flow through preferential pathways in soil macropores. Characteristics of macropores such as size, shape, and roughness affect the flow processes through these pores. Various models are available for modelling the flow through these pores; however, they are based on various underlying assumptions. Lately, physics based pore-scale models have been proposed, they cannot be easily upscaled for field applications. Empiricism and parameterization of models again depends upon the application. This chapter focuses on the characteristics of soil macropores and their effect on macropore flow. A comprehensive comparison is established made between the two broad approaches to model macropore flow. We also discuss strategies that can be used to ensure that the models for macropore flow are physically justified and universally acceptable.
+
+[Context: RESEARCHGATE - SELECTED RECENT IIT KANPUR PUBLICATION PAGES (2026) > ResearchGate publication: Closure to “An Empirical Model for]
+Ad
+
+Company
+About us
+Blog
+Careers
+Resources
+Help Center
+Contact us
+Business Solutions
+Marketing Solutions
+Scientific Recruitment
+Publisher Solutions
+
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+
+Terms
+Privacy
+Copyright
+Imprint
+Consent preferences
+

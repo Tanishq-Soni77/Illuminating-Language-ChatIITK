@@ -1,0 +1,717 @@
+VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 (part 2 of 2)
+Name: Vox Populi (VOX) articles of 2022: campus news, reports, interviews, As We Leave series, internship experiences, events, Gymkhana, institute and academic stories.
+Type: STUDENT MEDIA BODY - Vox Populi (VOX), the student media body of IIT Kanpur and a Cell of the Students' Gymkhana; articles from https://voxiitk.com. Vox Populi aims to be the voice of the campus community and a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. Snapshot: scraped in 2026 (articles 2014-2026; entries marked 'from the 2024 snapshot' carry category tags recorded then).
+Notices that appeared on the site: 'Vox Populi, IIT Kanpur, is the exclusive owner of the information on this website. No part of this content may be duplicated, paraphrased, or interpreted in any other way without written consent from Vox Populi. For reproduction contact the chief editors or voxpopuli@iitk.ac.in.' Opinion pieces (As We Leave etc.) carried: 'The views presented below are the author's own and are not in any manner representative of the views of Vox Populi as a body or IIT Kanpur in general.'
+
+=== 24 Campus Workers Fired without Any Prior Notice ===
+Source: https://voxiitk.com/24-campus-workers-fired-without-any-prior-notice/
+Date: 2022-08-02
+
+At around 6 am yesterday (1 August 2022), when about 50 contract workers of the Institute’s water-supply department completed their regular shift, they were informed by the new contractor that 24 of them have been fired with immediate effect and without any prior notice. These include workers who have served the Institute for as long as 26 years, and over multiple generations in their families. The fired group spans all ages and nature of work (skilled, semi-skilled, unskilled).
+
+The water-supply department consisted of separate contracts and workforce for tubewell (for fresh water) and sump well (for sewage) departments. However, according to the workers, a new tender has merged the two departments and thereby, the cumulative strength of hired workers has been reduced from 49 to 31. Of these 31, six new employees have been brought in by the contractor, and so only 25 old workers have been retained.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 24 Campus Workers Fired without Any Prior Notice]
+The campus’ water supply and sewage infrastructure consists of 64 sump-wells (and STPs) and 53 tubewells (and booster pumps). Each of these pumps needs to be manually operated by a contract worker. In the absence of the worker, the machines are at risk of malfunctioning. Due to reduced strength under the new contract, the number of machines per worker would increase from 2-3 to 4-5. The workers fear that increased workload and, thereby, increased chance of error would give the contractor an excuse to fire them. A worker recounted an incident where a colleague of his was suspended for 15 days owing to a pump malfunction.
+
+To seek respite, the workers contacted the DoIP (Dean of Infrastructure & Planning). But they were told that they are contractor employees and, hence, must take up the issue directly with the contractor and IWD (Institute Works Department).
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 24 Campus Workers Fired without Any Prior Notice]
+Unsatisfied with the response of the DoIP, more than 100 workers gathered outside the Institute Works Department (IWD) and demanded the reinstatement of all the fired workers. The Senior Engineer at IWD told the workers that it is beyond his purview to increase the number of contract workers hired. However, he said that he had talked to the Deputy Director and the Deputy Director had assured him that all fired workers would be given employment in other departments in the campus. When the workers asked for a deadline for re-employment, the Engineer refused to commit to any date.
+
+The workers feel disillusioned with the IWD and administration’s response to their concerns. Most of these fired workers are sole earners in their family and are facing subsistence issues.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 24 Campus Workers Fired without Any Prior Notice]
+“We have served this Institute for over multiple decades and worked with these officials over the years. We didn’t expect them to leave us helpless and respond in this manner when we need their help,” one of the workers told us.
+
+Vox Take: We think it is about time we ask the crucial questions: How many of us have thought about the workers who keep our campus’ mammoth water supply and sewage infrastructure running? What responsibility do we (as students and faculty members) hold to ensure that the most vulnerable section of our IITK community – the contract workers – have job security and basic dignity? Does the Institute administration have any moral, if not legal, responsibility towards contract workers?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 24 Campus Workers Fired without Any Prior Notice]
+Written by: Aarish Khan, Aditya Kumar Mishra, Bhavya P, Gauravi Chandak, Mutasim Khan, Tanuja Kaleli
+
+Designed by: Manasvi Jain, Shreya Verma
+
+Edited by: Abhimanyu Sethia, Ayush Anand, Bhavya Sikarwar
+
+=== 5G Network Developed at IIT Kanpur ===
+Source: https://voxiitk.com/5g-network-developed-in-iit-kanpur/
+Date: 2022-08-24
+
+A team of engineers and research scholars led by Prof. Rohit Budhiraja from the Electrical Engineering department of the Institute has contributed to the design of the first indigenous 5G network. The complete hardware and software of this 5G network was built from scratch, and that too completely inhouse.  India’s first 5G call was recently made using this network by the telecom minister. Vox team talked to Prof. Budhiraja to break down the development and what it means for the country:
+
+About the Project
+
+The 5G mobile network consists of our phone, the base station (BS), and the core network. A BS further consists of three different sub-systems:  baseband unit (BBU), remote radio head (RRH) and the antennas. The BBU is the heart of the 5G network which processes the data which needs to be transmitted by the BS to the user or receive from it.  To indigenously build the 5G technology in the country, various institutes worked on different parts of the 5G network. While IIT Bombay developed the core network, IIT Kanpur and IIT Madras took up the responsibility for development of the entire BS hardware and software.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+This is the first nationally-endorsed project globally for the 5G initiative. While a few private corporations have been significant players in the market, India as a nation emerges as the first country to indigenously build a 5G network.
+
+Why is it important to develop an indigenous network?
+
+All our systems are dependent on telecom networks today. If this network falls into the wrong hands or is controlled by a monopolized market, then critical systems of the entire country lie susceptible. This is one of the reasons why we should have indigenous technology. Such indigenous system design also helps in training the young engineers who want to solve challenging problems. It also helps in reducing the telecom import bill, which is currently the second highest after that of oil. Although a few Indian companies have developed system components, they are isolated components and do not constitute the entire network.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+How is 5G different from the previous generations' mobile networks?
+
+5G and previous telecom generations primarily differ in three broad aspects over a 4G network
+Bandwidth: Increased from 20 MHz in 4G to 100 MHz  in 5G. Data rate can be linearly increased by increasing the bandwidth.
+Antennas: Increased from minimum of 4-8 at the BS in 4G to minimum of 64 in 5G. Research in the early current decade envisaged the idea that data speed can be radically increased by increasing the number of antennas at the BS.
+Different verticals: 4G standard was designed for only humans to communicate. 5G is designed to enable a massive number of machines e.g., electricity and water meters to communicate. It will also provide ultra-reliable-low latency communications for example to enable driverless cars to ply on the road.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+The 5G system design complexity, when compared with 4G, due to the aforementioned aspects, has also increased exponentially.
+
+What challenges did you face? How did you overcome these challenges?
+
+We had to tackle numerous problems in our journey, but I’ll particularly share one incident we had while testing the BBU, which consists of a motherboard, and our custom hardware card. Both of them communicate via a PCI connection that acts as an interface to send data. The correct way is to connect the custom hardware card’s transmitter with the motherboard’s receiver. However, due to a small overlook, our team connected the card’s transmitter to the motherboard’s transmitter.
+
+Although it looks like a naive error, it was a significant blunder. The motherboard didn’t detect the card, and our team went clueless. We had to spend a lot of time understanding which component was going wrong. Without testing the transmitter, we couldn’t test the card. We realized our mistake after almost three months of rigorous testing.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+Interestingly, a cross helped us verify if the card and the transmitter are working. However, in the entire globe, there was just one vendor for cross-cable. Thankfully we ordered the device before the lockdown and as soon as the cable landed in IIT Kanpur, we could confirm that the card was working properly. Hence, with just a few design changes, we were ready to roll. This helped in reducing the overall system design cost.
+
+Building a subsystem is challenging, and bringing all of it together is even more complicated. The more complex the problem is, the more satisfaction it gives to make it work. The urge to solve complex problems drove my students to leave their high-paying  corporate jobs, come back and work on these projects.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+"We can now proudly say that IITK is one of the very institutes in the world which owns the intellectual property right for the 5G network."
+
+Plan forward for your lab
+
+Every decade, there is a generation shift in the telecom industry – 3G in 2000, 4G in 2010, and 5G in 2022. So by 2030, we can expect 6G to get materialized. The standards of different generations are designed by standard making bodies. My lab first performs theoretical research on 6G technologies. We do this  first by analyzing these technologies using advanced mathematical tools like machine learning, convex optimization, information theory, and linear algebra. We then push these ideas to standards. My team regularly attends standard meetings, which were being held online, and have recently become offline. They will soon start traveling abroad to attend these meetings, and that too every month and a half.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+Advice for Students
+
+There are a lot of challenging theoretical and practical research problems in the 5G+/6G wireless domain which are waiting to get cracked. We need motivated and hardworking students to work on them. My advice is once you start working on these problems, you need to be patient while solving them. You should not get deterred by the impediments you might face. It is about being patient and tackling them. Students should be willing to make mistakes, learn from them, not repeat the old mistakes, and again willing to make fresh ones. We have had a lot of B.Tech students with such an attitude. They have worked with complete determination with us in their 4th year, and have even got their papers published in one year. All such students are now either doing cutting-edge research in their PhD or working in top-notch wireless research companies.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+Change in Research over the years
+
+During my masters, the inclination toward research was relatively low. Wireless companies could not find students who had experience working in wireless networks, as students did not opt for research. The change in attitude came in the last 20 years, when the government focused on promoting IITs as research institutes. Now, there is a transition in IITs from undergraduate teaching institutes to research institutes.
+
+This change is visible in also the teachings imparted as we offer state-of-the-art courses which are relevant for both theoretical and standards-based research. The undergraduate and postgraduate students can now equip themselves with the relevant skill-set  by first doing relevant courses, and then performing the cutting-edge research, which will help them in building a promising career.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > 5G Network Developed at IIT Kanpur]
+Written By: Gauravi Chandak, Utkarsh Agarwal
+Edited By: Dev Barbhaya, Pradeep Suresh
+
+=== Metacognition in Decision Making ===
+Source: https://voxiitk.com/metacognition-in-decision-making/
+Date: 2022-08-27
+
+Metacognition, in simple words, is thinking about your thoughts. Sounds interesting, doesn’t it? Prof. Shikha Dixit (Professor in Psychology at IIT Kanpur) and Prof. Sabnam Basu (Assistant Professor in management at IIT (ISM) Dhanbad) worked on a paper to find the role of metacognition in rational decision making. While releasing this paper, Prof. Sabnam was a final year PhD student working under the supervision of Prof. Shikha Dixit. To understand more about their work and the use of metacognition in our daily life, Vox talked to Prof. Sabnam Basu. Read on to find more about her research:
+
+What is metacognition?
+
+Higher-order cognition! In layman’s terms, we call it thinking about thinking; We all make multiple daily decisions, and the process of decision-making involves information processing. However, everyone has a different and individual style of making decisions. Some people are prone to making intuitive decisions, so they might rely more on their feelings when making a decision. Some people might do a lot of research and try to gather a lot of information about the issue at hand, and thus it can be said that they follow a rational style of decision-making. Some people might depend on others, like their friends or parents, to decide; in contrast, some might make an impulsive decision. So what role would metacognition play?
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+How we control your thought process, monitor it and regulate would help us decide which kind of decision-making style you are taking up. Metacognition again has two components: the regulation component and the knowledge component. The knowledge component is the information one has about their cognitive abilities. The regulation component is about how we monitor our cognitive skills.
+
+On validating our ‘gut feeling’ by going ‘in depth’
+
+There are two systems of the brain, System I and System II. System I is the fast and intuitive process, while System II is the slow and deliberate one. Usually, when we encounter day-to-day decisions or activities, system I of the brain takes precedence as it requires lesser cognitive effort. Thus multiple decisions every day are made without doing much deliberation. However, whenever we encounter a decision that is of great importance or has a higher difficulty level, it has been found that System II takes over. Thus initial decisions taken via gut feeling might be revisited by going in depth. Similarly, when talking in terms of decision-making style, it has been observed that people do not always have one decision-making style. They could have a primary style and a secondary style.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+On Depression arising from Multiplicity of Choices
+
+My other paper on depression talks about when the number of choices increases, the person might find themselves revisiting the decision after making it. In earlier times, for example, our parents would have two or three college choices. So even if they took a ‘wrong decision’, they would not blame themselves; they’d blame the situation. But nowadays, we would blame ourselves if we take an ‘incorrect decision’ as we had a whole lot of choices available and still made an incorrect decision. So, as the paper suggests, the abundance of choices in modern times might be a contributing factor to the prevalence of depression.
+
+Could metacognition be a way to overcome this depression?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+Yes! There was another category of decision-makers I had talked about in the paper, called maximisers. Maximisers try to optimise their decision-making by looking at all available options. For example, if a maximiser looks for a gift for their friend, they would look at all the possible options and then decide, as opposed to someone who would just go and buy the first gift they like and not look at it every opportunity. Studies suggest that these people are more prone to depression and also that their metacognition skills are deficient. Thus metacognition might act as a buffer.
+
+How do you quantify qualities like emotional, logical and rational in psychology?
+
+There are two things here. The first is the decision’s outcome. On a scale called the Decision Outcome Inventory (DOI), it questions your ‘life’s outcomes’ such as receiving a parking ticket or getting into a mild accident. The point is to ask if people have faced these outcomes from bad decisions. Based on this, we decide if the person’s decision-making style is good or bad.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+The second thing we look at is biases. If these increase in one’s decision-making, that is a wrong decision. An example of a decision-making bias is the availability bias. Some people are still hesitant to go on aeroplanes because they believe them to be unsafe, but if one were to look at the data, air travel is the safest mode of transportation. But this fear still prevails because when an aeroplane accident occurs, it escalates to such a degree that it becomes salient in your mind. At the same time, this doesn’t happen with regular road accidents—availability of information matters.
+
+How do you quantify qualities like emotional, logical and rational in psychology?
+
+In psychology, we perform the preliminary research and based on that, we prepare a questionnaire. Furthermore, the questionnaire asks multiple questions to assess a single parameter. This way, if one question doesn’t give a good result, another one would. Sometimes questions are also repetitive. For example, one question might be, “Do you rely on your feelings?” and another one would be, “Do you rely on your emotions?” This way, we can check how truthful the person is and whether they are following some random pattern for answering the survey and not actually answering. There are even some questions to check social desirability.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+On future research opportunities in the domain
+
+The importance of cognition can be felt everywhere today. Even IIT Kanpur has recently established a cognitive science department. This highlights the importance of cognition in today’s time. Moreover, previously metacognition was mainly studied in the educational psychology domain with implications for student learners. However, it has become necessary to link metacognition and decision-making over the years. Now the importance of metacognition is not only limited to educational psychology but has even spread to organizational behaviour, as the more aware you are of your mental capacity, the fewer biases you’ll face in decision-making.
+
+Advice to students interested in research
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+The primary advice for all would be to follow your interest. You have to work with that specific subject for a lot of time. Thus you must have a keen interest in the same. In research, I’d say that patience is the crucial element for the successful completion of your work. There would be instances where the variable or your statistic data might not seem significant. But don’t you think insignificant results also speak a lot? They are an essential part of your research. So never get discouraged by insignificant results. There might be times when you would want to give up. But, you have to be patient and think of their entire research journey as learning. Be focused and take small steps towards your ultimate goal. This would help you with your mental health as well as the research.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Metacognition in Decision Making]
+Written by: Gauravi Chandak, Samarth Kumar, Chetanya Bhan
+Edited by: Pradeep Suresh, Dev Barbhaya
+
+=== Fired Workers Announce Indefinite Dharna ===
+Source: https://voxiitk.com/fired-workers-announce-indefinite-dharna/
+Date: 2022-08-30
+
+Over four weeks after being fired and given the reassurance of re-employment in other departments, 18 water-supply workers of the Institute remain unemployed. They are now staging an indefinite dharna in front of the IWD (Institute Works Department) until their demand to be re-employed with minimum wages is met.
+
+What happened?
+
+As Vox had reported on 1 August 2022,  18 workers from the water supply and sewage department of the Institute were fired without prior notice, owing to a change in the contractor. The pumps that 49 workers operated are now operated by just 31. Following this event, over one hundred workers had gathered outside the IWD on 31 July, demanding their re-employment. The Senior Engineer at IWD had then, informed them that the Deputy Director had assured employment for all of them in some other department of the Institute. Four weeks have passed since, and the workers have approached the office multiple times-but there appears to be no sign of relief. Many have taken loans to sustain themselves through these four weeks, and others have had to empty their savings.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Fired Workers Announce Indefinite Dharna]
+What are their demands?
+
+The workers have demanded written answers from authorities on questions like:
+
+On what grounds were they fired?
+
+On what basis were the retained workers selected?
+
+They further mention the case of sump well no. 7 located near the airstrip. One of the fired workers (name retracted) had been operating the sump well for the past 22 years. Post his firing, no new worker is ready to operate this sump well at night, owing to the constant danger of snakes and other wild animals. The workers have raised concerns about the consequences of improper functioning of that sump well on the sewer line.
+
+They also allege favouritism and nepotism in the selection process of the retained workers. Many feel better connections with contractors helped some workers retain their jobs.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Fired Workers Announce Indefinite Dharna]
+Later at night the workers were not allowed to stage their dharna and were subsequently removed by SIS guards.
+
+Institute’s view
+
+Four weeks after the verbal assurance of re-employment, these promises from the IWD Senior Engineer seem empty. When we visited the Minimum Wages Office, we were told that the workers will soon be ‘adjusted’ in other departments as new buildings are coming up on the campus. Moreover, they told us that the Institute has directed them not to hire any new workers in any department, instead adjusting the current workers first.
+
+Worker’s concerns
+
+Workers across departments are concerned that they may as well be fired soon, thanks to a wave of new tenders and increased mechanization of processes. In particular, waste disposal workers expressed concerns about their new tender which reduces the strength of workers to 10, and are expecting a similar incident in their department.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Fired Workers Announce Indefinite Dharna]
+Letter floated by the workers (front)
+
+Letter floated by the workers (back)
+
+Information Pamphlet being circulated at the dharna
+
+Written by: Gauravi Chandak, Mutasim Khan
+Design by: Praneat Data
+Edited by: Abhimanyu Sethia, Ayush Anand, Bhavya Sikarwar
+
+=== Why Mosquitoes Love You(And Not Your Roommate) ===
+Source: https://voxiitk.com/why-mosquitoes-love-you/
+Date: 2022-09-11
+
+Have you ever tried sleeping early, only to be woken up by an army of mosquitoes out for your blood, all while your roommate sleeps peacefully right next to you, with no signs of an insect assault? Is the Mosquito corporation out to get you, or is there something else?
+
+It is no secret that mosquitoes are attracted to certain scents and repelled by others, as shown by multiple studies done on this subject. However, these are scattered and use various parameters, making it hard to reach general conclusions. This also makes it difficult to predict responses to new odours. So, to solve this problem, Prof. Nitin Gupta and his team at IIT Kanpur have compiled the available behavioural and electrophysiological olfactory responses in 12 species of mosquitoes from over 170 research papers and have created a database called MORE (Mosquito Olfactory Response Ensemble). Now, what is so special about this database? And how was it created?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Why Mosquitoes Love You(And Not Your Roommate)]
+So How Does One Create a Database on Mosquito Corp?
+
+Well, one problem that the researchers faced was that different studies measured behavioural responses using different metrics. Some of the metrics used were preference index, percent attraction, percent repellency, etc. All of these were instead converted to one common metric – the Preference Index:
+
+[ (no. of animals choosing test odour) - (number of animals choosing the control) ]  / (sum of the two)
+Not only this, many studies reported data in the form of plots. This data also had to be extracted manually. Moreover, entries that were reported under different synonyms were mapped to a standard name and the odorant concentrations were converted to standard units.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Why Mosquitoes Love You(And Not Your Roommate)]
+Alright, so a lot of work was put into making this structured database, but the question remains – how will it be useful?
+
+It’s Not You. It’s Your Roommate.
+
+One interesting pattern that the researchers noticed was that higher concentrations of Benzaldehyde were typically associated with more aversion. This can be seen in graph A1. This naturally led to the question – can this behaviour be generalised? Do other odours also show similar patterns?
+
+A1, A2: Violin plots of preference index against the concentration of benzaldehyde (A1) and ethanol (A2) in Drosophila. The different points in the violin represent data points from different studies.
+
+So, to study the effect of odour concentration on preference index, researchers at IIT Kanpur collected pairs of preference indices at concentrations separated by a factor of 10 for the same odour, using the same type of assay (the process of analysing a substance to determine composition or quality) in the same species and compared the preference indices at higher and lower concentrations. The results of this experiment support what you may have suspected – your roommate is probably just more… odorous. It turns out that increasing the odour concentration 10-folds decreases the preference index (on average) by 0.2. What’s more, this trend is observed in both positive (attractive) and negative (aversive) odours.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Why Mosquitoes Love You(And Not Your Roommate)]
+Why? One would ask. Well, one possible explanation for this is that higher concentrations are likely to activate non-specific olfactory responses, irrespective of whether they are positive or negative odours. This indicates a very disturbing result – the ones who are the safest from mosquitoes are either those who haven’t showered in ages or those who leave a traumatising trail of deodorant behind them.
+
+The Perfect Smell
+
+If the behavioural response varies depending on the odour, then there must be a smell that mosquitoes prefer, which can be used to ‘redirect’ them. In that case, how do we find it?
+
+This is where MORE comes in handy! The data from MORE can be visualised in the form of graphs, such as these graphs which check the response of sensory neurons against some common parameters of odorant molecules.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Why Mosquitoes Love You(And Not Your Roommate)]
+A-D: Scatter plots of Olfactory Response against Physicochemical Property of Odour in Anopheles (A1, B1, C1, D1) and  Drosophila (A2, B2, C2, D2)
+The nice bell curves indicate that mosquitoes preferably detect molecules whose physicochemical properties are within certain ranges. 12 of the 13 properties on which data is available show such curves, the only exception being the number of conformers of the molecule. This indicates that there are in fact ‘ideal molecules’ (read smell) that the mosquitoes can detect. All one needs to do now is find such a molecule in the closest pharmacy.
+
+This regularity in the data tells us that it is probably possible to complete the missing points on the graph. And this is where it gets even more interesting. A neural network was built and trained with a 70-15-15 split of the dataset for training, validation and testing. The model showed very promising results, with a high correlation to the testing data, suggesting that machine learning will be a useful tool when predicting the responses to novel odorants.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Why Mosquitoes Love You(And Not Your Roommate)]
+Here’s to a mosquito-free sleep?
+
+So, not only does MORE help compare various studies on mosquitoes, but it can also be used to study the effect of various changing parameters on olfactory responses and predict responses to new odours. And then there’s also the fact that it may help remove your name from Mosquito Corp’s books.
+
+Written by: Aniruddh Pramod, Shreya Gupta
+In collaboration with IIT Tech Ambit Team.
+Edited by: Ayush Anand
+
+=== Flex-E Centre: Intersecting Engineering, Research, and Entrepreneurship ===
+Source: https://voxiitk.com/flex-e-centre-intersecting-engineering-research-and-entrepreneurship/
+Date: 2022-09-24
+
+Early on, at the start of the millennia, Mr Satish Kaura, an alumnus of our institute, was running a business that manufactured most of the cathode ray tubes for displays in the country. However, he had the foresight to realise that the industry would need to be nimble and change and evolve in the coming years. The inception of the Flexible Electronics ecosystem at IIT Kanpur was set in motion with the Samtel Centre for Display Technologies coming up under the guidance and leadership of Prof. K. R. Sarma, Prof. R. Sharan and a team of enthusiastic faculty members from multiple departments from the institute.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+While this facilitated and enhanced academia-industry collaboration, there were still challenges faced to translate the research ideas into manufacturing and making the ideations commercially viable. The National Centre for Flexible Electronics (Flex-E Centre), built as a centre of excellence, came about to address this need. The Flex-E Centre is home to the intersection of industrial ideation, manufacturing and entrepreneurial ventures engaging with corporate pioneers and academicians, along with the support of the Ministry of Electronics and Information Technology (MeitY) of the Government of India and the Institute administration. With more than 20 member industries and NDAs with over 125 organisations, the Flex-E Centre stands tall in the academic area as a place of innovation and science. To cover what goes on at this flagship centre on our campus, correspondents from Vox Populi reached out to Prof. Sundar Kumar Iyer, the current coordinator of the centre and visited the facility to get a glimpse of the day-to-day happenings there.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+Projects
+The Flex-E Centre building is a modern state-of-the-art facility that is home to more than 10 ongoing projects spanning various topics. The core group leading this centre consists of faculty members as mentors, a chief operating officer (COO) and subject expert team leaders. They are ably supported in carrying out the activities by several research, maintenance and office staff.  Many of the researchers involved with the centre have international and international experience.  Currently, the activities in the facility are funded by MeitY, the strategic sector (eg. Indian Space Research Organisation ISRO and the Defence Research and Development Organisation, DRDO) and industrial partners. The annual operational costs for the centre add up to an amount of 8 – 10 crores.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+Support Labs
+We then visited the support labs, starting with the Wet lab, which is where inks are developed for printing electronics on various flexible substrates, such as plastics, paper, cloth and metal foils. The in-house develops inks, often custom built on request of partner industries and ongoing projects. These inks along with some commercially available ink provide the basic building block of flexible and printed electronic products.
+At the other end of the prototype and product development is the Systems Lab.  Here the innovative printed components developed are giving a useful practical product form, often in conjunction with traditional electronics and already available articles.  In this lab, we got to see some novel applications developed by the centre which address some of the common-place problems faced by the average person in society. The lab has many tools to facilitate its work, including circuit magnifiers, equipment to integrate chips on printed circuit boards, a 3D printer, circuit testing equipment and the like.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+The various flexible electronic components developed are often tested and refined in some of the other labs which we viewed from the outside – the Electrical Lab, Optics Lab, Materials Lab and Sensors Lab.
+Products
+We got a glimpse of some of the products developed at the centre by the different groups.  The problems that the products address are practical and often typically Indian in their context.
+One such product, which is built upon investigative research carried out earlier at IIT Kanpur, is about verifying milk quality (Prof. Siddhartha Panda, Dr  Devendra Mourya and team). Milk in India is often procured by cooperatives from multiple households.  Contamination from any one source will contaminate the whole collection. This project aims to detect many of the common contaminants quickly, effectively and at a low cost so that contaminated milk may be identified just before it is received.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+We got to view some innovative applications in healthcare developed at the centre. Prof. Mazhari, Mr Biswanath Panda and the team have developed a few versions of temperature monitoring devices that were deployed during the pandemic within our institute.  Another innovation by this team is detecting the level of liquid in intravenous (IV) fluid bottles used in medical facilities.  This innovation can sensitise the nurse electronically or by an alarm, once the level liquid comes close to finishing.  The innovative labels used for this prototype were built with in-house ink and printed in the roll-to-roll machine.  This product when deployed will greatly aid in giving better treatment to patients and ease the stress on caregivers.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+Warm hug is a product developed by multiple teams at the centre. For this product, heaters are printed with in-house developed carbon inks and then integrated into jackets.  The heaters are self-limiting at the maximum temperature they can reach and hence are safe for regular use. These jackets are primarily being developed to assist soldiers placed at higher altitudes to stay warm while using minimal electrical power – equivalent to the order of which we store in our phone batteries – to heat up the jacket. The initial prototypes were tried out by SIS guards at our campus in the Kanpur winters. The ITBP has been in talks with Flex-E Centre to test and assess deployment in higher altitudes.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+Another area of innovation is flexible displays and lighting with organic light-emitting diode (OLED) technology.  Prof. Monica Katiyar, Dr Muralidharan Balasubramanian and the team are exploring a variety of applications, including in the automobile sections.  Similarly, Prof. Deepak Gupta, Dr Ashutosh Tripathi and the team are involved in many innovative projects with DRDO and ISRO  using thin film transistor (TFT) technology and other devices for deployment in submarines and antennas respectively. Prof. Anshu Gaur is looking into using amorphous metal-oxide and metal-oxynitride semiconductors to build flexible electronic devices.  Prof. Iyer’s team is developing flexible solar modules on paper substrates.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+Flex-E Centre has spawned a couple of start-up ventures. One such start-up is Checko from Prof. Deepak Gupta’s team, which prints PUFs (Physically Unclonable Features). The unique ID of the PUF can be verified for authenticity by using a pre-downloaded app on a smartphone.  The product is currently used by Madhya Pradesh Beej Nigam and the Delhi Excise Department, besides many private companies that want to ensure their brand protection.
+
+The second start-up is mentored by the ink team led by Prof.  Y.N. Mohapatra and Dr Ashish Gupta called Likhotronics. The pens this start-up has developed have different conductive inks which are supplied with a do-it-yourself (DIY) kit.  By drawing lines with these pens on paper, one can build circuits which could be used to help children learn concepts in electronics.  This is expected to have an impact on education – teaching and examining electrical circuit concepts – in the coming years.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+The strength of the centre, we were told, is its ability to reach out to the industry and work with them in developing many relevant solutions with it. This process is ably supported by the COO Dr Sudheer Kumar along with the individual faculty members and other team members involved.
+
+The Flex-E Centre is a multidisciplinary centre institute, where research results from various disciplines – electronics, materials, chemistry, physics, chemical engineering, bio-engineering, etc. are harnessed for addressing the needs of society. Such a dynamic centre of excellence, with cutting-edge innovation and technological advancements coming out of it, is a matter of immense pride not just for our Institute but for our nation as well. Keep an eye out for novel ideas and technologies from this engineering and science centre!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Flex-E Centre: Intersecting Engineering, Research, and Entre]
+We genuinely thank Prof. Sundar Kumar Iyer for his great zeal and support in helping us write this article.
+Written by: Khush Khandelwal, Rahul Jha, Mridul Pandey, Zainab Fatima
+Edited by: Sanika Gumaste, S. Pradeep
+
+=== An Uneasy Conversation ===
+Source: https://voxiitk.com/mental-health-on-campus/
+Date: 2022-10-10
+
+In the past ten years, the stigma associated with mental health concerns has decreased significantly in our society. People are becoming more at ease discussing it, looking for assistance, finding solutions, and battling stigmatisation on a global scale throughout time. Naturally, the situation on our campus has improved as well. In terms of de-stigmatising mental health conditions, we have come a long way and achieved significant progress. Despite this, we have not yet found our happily ever after.
+Talking to some of the core team members from the counselling service, the Vox team realised that a layer of stigma still clouds the bright minds of our institute. We have a wide range of bottlenecks in the process, from the initial reluctance to seek treatment to combating societal judgement. This Mental Health Day, let us work together to take a step forward and strive to remove these impediments.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+What follows is a list of questions that we compiled on mental health and its surrounding stigmas, answered by a few professionals from the counselling service, core team members, and a few students who were willing to open up to us about it. Wishing you all a fun read, and a Happy Mental Health Day!
+Q. What are the common problems that our campus community encounters?
+The counselling service caters to over  1000 cases per year. Academic stress, mood disorders, emotional problems, traumas, depression, anxiety, poor coping skills, addiction issues and sleep disturbances are a few of the causes. More than often, it’s an amalgamation of several issues. The same causes can range in intensity depending on one’s emotional vulnerabilities. In other words, while exam stress can be easily managed for some students, it may also act as a trigger for others. A CS counsellor remarked, “Students sometimes just want to chat about what’s going on in their lives and see if they have a problem. At times, when students are unable to cope with immediate stressors like exams or breakups, they ask for single-session-therapies (SSTs), in which they come for one session to talk about their concerns.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+There were also a few instances where students could not adapt to the change in environment when they come to campus.  A lot of students approached CS in recent times due to the inability to adapt to the offline shift of academics.
+
+Living alone in a different environment, that too after being cooped up for over 2-3 years was tougher than I expected
+
+Another counsellor told us – “Most of the students here were a few of the smartest students in their schools. Many new students struggle with feeling uneasy about not being the sharpest person in the class when they first arrive.”
+Q. When are cases referred to external psychiatrists?
+There is a difference between a counsellor, a therapist and a psychiatrist. A therapist is a licensed psychologist who uses different therapies and Behaviour modification techniques to treat mental health symptoms. A psychiatrist is a medical doctor who can diagnose and prescribe drugs to treat mental health disorders.  Counsellors in CS are professional and licensed therapists, they offer different kinds of help depending on the need/trauma faced by the student in their lives.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+“Not every case that contacts CS is referred to external psychiatrists. Even then, not every patient that is referred outside requires medication.”
+Q. What kind of stigma still surrounds mental health on our campus today?
+
+I just had to hit rock bottom to realise that I needed help.
+
+Most students are reluctant to ask for help. Some might feel that they can solve the problems independently, and some might be embarrassed to seek help. A few students hesitate because they fear being judged by society, their parents or their friends. We saw a magnified version of this when it came to medication.
+“We strongly promote medical treatment whenever it is necessary. But we cannot enforce it upon someone.” said the counselling service. “We provide psychological education to the students regarding their mental health conditions and let them make the final call. Not their parents, not their peers, not us, just them.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+“ I knew that something was wrong for a very long time,” a student told Vox, “but generally in society, you have this notion that you can work on this on your own. If you get up at 6 AM and run, your life will get better. “
+It was seen that in most cases, initially there was a lot of hesitation to take meds.
+However, after a few counselling sessions, students seemed to get more comfortable with medication. “The problem with taking drugs is that students are afraid of getting addicted to them or being dependent on them. They feel that it is a lifelong treatment or that if they stop taking their medicines, they will repeat the same cycle of problems.” the CS told us.
+Q. What is the exact procedure for prescribing medical care?
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+When it comes to drugs, the professionals take into account your body requirements, diet, exercise, genetic vulnerability and medical history before they recommend the required medicines. They also check for family history. The course usually starts with a small dosage, to see if it’s working and if there are any side effects, and then the dosage is slowly increased.
+It takes a couple of weeks for the medicine to understand your body and work accordingly.
+A student remarked – “I feel that it’s very scary to take medication because it feels like you’re meddling with your brain. In the beginning, I felt a little bit of a high whenever I took the meds because my mind knew something was wrong but my brain felt happy. It took me a couple of weeks for it to work.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+“One important thing to note,” a counsellor said,  “is that students should try not to abruptly stop the medication or change its course without an actual medical consultation. The course is tailored in such a way that the dosage is slowly tapered off and not stopped abruptly.”
+Q. Do medicines induce sleep?
+All medication does not induce sleep. In the initial days, some students might feel a little drowsy. “A lot of body factors are taken into account before prescribing any drugs. So we would suggest not to worry too much about the side effects.” said the CS.
+Q. If I start taking medical treatment, is it a lifelong commitment?
+The duration for which a patient has to take medicines varies depending on their case. “For most cases where a student was well adjusted before coming to IIT and has no major history of psychiatric illness in the family, the medications are not lifelong at all. For such students combination of medication and psychotherapy works best.” The sooner the problem is detected, the better the prognosis. The dosage and its effects are influenced by a person’s genes, coping mechanisms, any ongoing drugs, and the frequency of the dosage.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+“Medication requires patience. For someone, it can take 2 weeks to see the outcome. Someone could need twice the dosage and still not see the results after a month. Follow up are made at the discretion of the psychiatrist.”
+Q. What medicines are usually prescribed?
+The drugs that are usually given are anti-anxiety meds, anti-depressants, mood stabilizers, and antipsychotics. Interestingly, the meds don’t differ much, but different amounts of the same drugs can help with different mental health conditions. Sometimes different combinations of drugs are prescribed as per the variation of cases.
+Q. How do I know when to stop taking medicines?
+Medication should only be stopped when prescribed by psychiatrists. “At times, people stop taking their meds when they start feeling good, as they don’t feel the need for the meds anymore. They also give up if they see no change after a couple of days, and then they stop taking medicines. This is strongly unadvised.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+Q. Are parents informed about my case if I contact the counselling service?
+“Parents are not always informed in case of medication, only in serious or extreme cases.” the CS told us.  “We assure full confidentiality at all times, however, if a student has to be admitted to an external hospital, or if the case is severe, then the patient’s family is informed.”
+Q. What can we do to tackle this issue?
+A student told us – “Throughout this whole process, you face a lot of bottlenecks. When you’re having your good days it’s hard to see that you need help. When your sessions don’t go good, you feel like quitting. At times you feel that you can solve the problems on your own, or at times you’re just too preoccupied to even think about such things. But you have to take that leap of faith. Asking for help, seeking therapy/counselling, and taking medication if necessary is the only way to go about it. Anything else will just be temporary.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+“It has to come from within. No one can push you to take these steps.” another student said.
+The Counselling service stated that they had a few ideas – “We, as an institute, have upcoming plans for group therapies, talks with psychiatrists, support groups, etc. However, we feel that the student community needs to be more proactive to destigmatise these issues.” a counsellor told us. “Street dramas, hall-level mental health talks and sessions, student blogs about success stories, etc can help us start a conversation and abolish the stigma against medication.”
+
+We should make it clear that getting help isn’t a sign of weakness—it’s a sign of strength.
+
+Written by – Mohika Agarwal, Zainab Fatima, Niliena Celine Biju, Shreya Verma, Aman Arya
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > An Uneasy Conversation]
+Edited by – Sanika Gumaste
+Design Credits – Atharv Jiwane
+
+=== Workers’ Wages Take Ages ===
+Source: https://voxiitk.com/workers-wages-take-ages/
+Date: 2022-10-30
+
+As you read this, more than 30 daily wage workers are working day in and day out to keep our mammoth campus’s water supply and sewage infrastructure up and running. Alas, without timely wages!
+
+On August 1, Vox reported on the 18 workers who were fired from the water-supply department of the Institute without any prior notice (here). On August 30, four weeks after their demands for re-employment were not met, the workers staged an indefinite dharna (here). Meanwhile, all has not been well with the retained workers either.
+
+For the last three months, since the contractor was changed, they haven’t received their salaries in time. The salaries for the month of August were paid by the contractor on 29 September, i.e. almost a month after August ended. Moreover, as of writing of this report on 30 October, they have not received wages for the month of September yet.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Workers’ Wages Take Ages]
+To put this in perspective, the workers have sustained for three months on a mere month’s wages. Also, the wages paid are the minimum wages (in accordance to the Central Minimum Wages set by the Government). This is 663 rupees per day for unskilled workers, and only accounts for basic sustenance needs.
+
+Our team found out that this is in clear violation to the terms of the contract. As per the Water Supply contract, the Institute is bound by the Payment of Wages Act, 1936. According to Clause 5(1)(b) of the Payment of Wages Act (linked here), the workers
+
+“shall be paid before the expiry of the tenth day, after the last day of the wage-period in respect of which the wages are payable”.
+
+This means the wages for August must be paid latest by 10 September, and similarly wages for September must be paid latest by 10 October. In effect, the salary was delayed beyond the maximum allowed date, by about 3 weeks for August and more than 3 weeks (and counting) for September.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Workers’ Wages Take Ages]
+It must be noted that most of these workers are sole earners in the family. During the year-long pandemic period, they were either unemployed or on meager salaries (due to less work days). Consequently, the pandemic not only depleted all their savings, but also put them deep in debt. Freshly out of the pandemic, a salary delay of nearly 3 weeks has been catastrophic and has left them with no options but to take further loans to add to their debt.
+
+Vox team questioned the DoIP (Dean of Infrastructure & Planning) on the Institute administration’s stance on salary delays. He said (via email):
+
+“There are issues in the new water supply contract. The Institute is exploring legal options.”
+
+Unfortunately, salary delays for daily wage workers is commonplace in other departments of the Institute as well. For example, the wages of sanitation workers in Hall 6 were also delayed by 12 days in March and by 40 days in April (owing to change in contract), but have gotten back on track since then. Similarly a Hall 13 mess worker told us that he received his salary on 22nd of a month (12 days delay from the allowed deadline of 10th day of the month). However, the delay in the water supply department has stretched for over three months and is one the worst delays in recent times.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Workers’ Wages Take Ages]
+Addendum: As per the contract, the Institute, as the principal employer, is obliged to pay the wages in case there is a delay in payments, as was the case here.
+
+Written by – Aarish Khan, Aditya Mishra, Gauravi Chandak, Mutasim Khan, Shreya Verma, Tanuja Kaleli
+
+Edited by – Abhimanyu Sethia, Aryan Pandeya, Bhavya Sikarwar
+
+Design Credits – Praneat Data, Atharv Jiwane
+
+=== Interview with ICPC Asia-West Champions from IITK ===
+Source: https://voxiitk.com/interview-with-icpc-asia-west-champions-from-iitk/
+Date: 2022-12-06
+
+A team of competitive programmers from IIT Kanpur created history this year by winning the first position in Asia-West in the World Finals of the International Collegiate Programming Competition (ICPC) – a feat no other Indian team has ever achieved. ICPC, with over 50k students participating from 3000 universities around the world, is the world’s largest and oldest programming contest. And a team of three needs to get through an online local round and an on-site regional round to get to the World Finals.
+
+Team ACassins – comprising of Akhilesh Sharma (Y18, CSE), Mohan Raghu (Y17, EE+CSE) and Aryan Choudhary (Y17, EE) – talked to Team Vox on how they overcame injuries, visa issues and Dhaka’s notorious traffic to clinch the Asia-West title and how IITK did (not) help them in achieving this feat. Excerpts:
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Vox: If you trace back your journey in competitive coding, where will you place the starting point? Can you give us an outline of what the journey has been?At what point did you think you had a good shot at the ICPC?
+Akhilesh: I started competitive programming after seeing my brother do it. I began with Codechef before graduating to Codeforces. But it was not before covid struck that I got serious about it. My rating boosted significantly in the lockdown. When I saw Siddhartha Srivastava and Yash Chandnani’s team go to the World Finals, that became my inspiration. My team got a rank of 2698 in the regionals in my second year. In my third year, when my rating was around 2200, I felt I had a realistic shot at the ICPC.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Aryan: I started after JEE, but before joining IITK. A senior advised me to learn C because a lot of freshmen struggled with it in the first year – so, I learnt C from a teacher in Jodhpur. During my initial months on the campus, I participated in the Freshers’ Programming Contest and wasn’t doing very well there, but that’s how I got to know about CP. Then I started participating in  Codechef Long Challenges regularly, even if that meant skipping classes 😉
+
+Vox: How did the three of you come together as a team? What do you think made you click?
+Akhilesh:  I was in a different team initially and wanted to get into Aryan’s team. But he wouldn’t let us in (laughs). So, after a lot of team hopping I ended up with Abhinav and Mohan because both of them couldn’t get into Aryan’s team as well! Interestingly, I didn’t know either Abhinav or Mohan – we were brought together by a mutual friend. Later on, after qualification, Abhinav couldn’t participate in the World Finals and so, Aryan joined our team as his replacement.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+I guess what made us click was the tendency to not interfere when someone else was coding and respecting and trusting each other. Case in point – me and Mohan did not talk till the Amritapuri regionals! During practice sessions and prelims, we would divide the problems among ourselves and solve them independently. Towards the later stages of the contests we would come together and solve the problem according to our expertise.
+
+Vox: How would you describe your journey from the regionals to the World Finals?
+Akhilesh: The journey was nothing short of terrific, from getting 2698 rank in my second year to reaching the world finals. IITK had tremendous internal competition and was sure to send a team to the World Finals. In a sense, we were just competing with teams from IITK, and did not have to look up to other teams. I have no idea how we performed so well. We went to the regionals with no expectations, but ended up getting the second rank there. We were informed that the world finals would be held in Dhaka. Bad things happened before the ICPC world finals, Abhinav was denied a visa, I got into an accident and was on painkillers the whole time. Indigo was adamant on not letting Aryan board. Two days before the World Finals even Mohan fell sick.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Aryan: In my third year, IITK had India’s rank 1, Yash Chandnani, and ICPC has a hard limit that there can be only one team from a college. My team was 7th in Amritapuri regionals among 300+ onsite teams. We would have qualified for World Finals in 2021 on a wildcard slot because a lot of teams backed out due to covid – if the other IITK team was not there. In my fourth year, we had 3 strong teams competing against each other for WFs. They were eventually ranked 2,4,4 in different regionals. Eventually, Akhilesh’s team qualified for World Finals due to their strong performance in Amritapuri regionals; other teams were close but did not qualify. Later on when Abhinav had issues, they asked me and I was like nekee aur pooch pooch.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Vox: How did you prepare just before the contest?
+Akhilesh: Since I got into an accident, only Aryan and Raghu were able to practise, they practised some earlier editions of the world finals. We were just rusty but it wasn’t like we did not have knowledge.
+Aryan: I would say we were slow but we were able to solve problems. Even during the world finals, once we got our first accepted verdict near the half time, we breezed through 5 problems in the second half.
+
+Vox: How was your experience in Dhaka? How many other Indian teams were there and what expectations did you start the contest with?
+Akhilesh: The traffic in Dhaka was pathetic – worse than Bangalore. Our hotel was 10 kilometres from the contest venue. So we had to leave at 8 am to reach the venue at 10:30. We also had to leave the venue early to reach our hotels on time. The staff and volunteers were nice. Perhaps it helped that Aryan is a celebrity in the coding community ;).
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Aryan: The interaction with other Indian teams was nice. The IITB team was great – we used to play poker everyday and the winner would post Instagram stories. In fact, we were playing poker an hour before the contest. There was also some casual sledging. We would rant about the lack of vegetarian food in Bangladesh.
+Akhilesh: We had no expectations from the contest, because before the actual contest there is something called the ICPC challenge, which consists of optimization problems. We did very poorly in the challenge, and ranked second from last.
+Aryan: I wasn’t trusting Akhilesh with the code (both laugh) because he had not coded for a long time. In the World Finals, we solved three problems on pen and paper in the first two hours but were getting wrong answers repeatedly. We got our first Accept verdict at 2 hr 20 minutes.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Vox:What are your personal future plans? Would you continue Competitive Programming (CP)?
+
+Akhilesh: I have already announced my retirement on Instagram so I’m not going to pursue CP anymore. ICPC hasn’t changed my personal life plans.
+
+Aryan: I had stopped hardcore CP last year, but you will still see me around for some time, probably because competitive programmers do not have a life outside xD.
+
+Vox: Your team had zero submissions for the first 2.5 hours of the 5-hour long contest. By the 4th hour, IITK stood at 76th position with only 3 correct submissions. But in the last hour, you guys rose 29 spots to secure the 49th position overall and first in Asia-West.
+How did this drastic increase happen in the last hour? What was going on in your mind?Aryan: To be honest, nothing! We just thought this problem looks doable, let’s do it. What pressure do you expect from someone who’s been at the last rank for the first half of the competition?
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Akhilesh:  As we had messed up the ICPC challenge, I didn’t take much pressure for the world finals and just wanted to do my best. So, when we had our third AC 3 hours, 40 minutes into the contest, me and Raghu were solving the first problem while Aryan was working on the last problem. We weren’t thinking about anything other than solving the problems to the best of our abilities.
+
+Vox: How do you think Indian CP culture is different from that practised internationally? What can we do to improve ours?
+Akhilesh: CP is pursued as a hobby abroad, whereas this is not the case in India. In Russia, China or the US, kids get exposed to CP in 6th-7th grade and they come to like it. Majority of the students in India are exposed to CP after coming to college and they do CP just to land into good internships or jobs. Most of the people are forced into CP and they too, start very late. Also, there are too many cases of Indians cheating in contests to improve their ratings. There are instances of people passing codes for 50 rupees on telegram. This has had a negative impact on the reputation of Indians coders. They are stereotyped to be cheaters and to some extent, this is true. I myself have seen tons of Indians buy or sell codes for intern or placement tests or just to improve their rating. This also kills the interest of the people doing CP as a passion.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Aryan: Adding on to what Akhilesh pointed out, this isn’t the case at higher levels. People don’t stereotype Indians to be cheaters or undeserving. One big problem in India is that the kids who start early don’t usually grind for JEE. Rather, they participate in IOI (International Olympiad in Informatics, which is the school level equivalent of ICPC). Almost all kids1 who perform well in IOI take admissions in foreign universities like NUS or University of Waterloo or even MIT. For instance, Malavika Raj Joshi won two silvers in the IOI but because she was homeschooled, she wasn’t even eligible for JEE. People who represent India in the world finals are people who started CP very late.
+In fact, Siddhartha (Y16 and twice ICPC World Finalist) was the UGARC student nominee – the UGARC recommended directly admitting IOI (and other PCM olympiad) students to IITK, but the proposal is taking forever in its implementation!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Vox: Do you think IITK or the Programming Club at IITK helped you in your journey? If yes, how?
+Aryan: Honestly, I think IITK PClub’s responsibility starts and ends with organising the Linux install fest! If you look at IIT Roorkee, the professors there are motivated and their PClub takes up the responsibility of registering the teams. The only reason I could not participate in ICPC in my first year was that I could not find a professor to register for me. (To register for ICPC, a team needs a faculty coach). I would like to see the Programming Club take up the responsibility of registering the teams. Coordinators here did not want to sign up for that role when I went to them with this proposal about 4 years ago. In IITK, we have to approach the professors personally to get our team registered, which is not the case in other institutes like IITR or IIIT-H.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Akhilesh: Moreover, if any other team would’ve won the West Asia title in their Institute, they would’ve got recognition for it back home – but in IITK, few people care. The teams from IITR, IIITH and DAIICT (basically every other Indian team) got a shoutout on their Institute’s official Linkedin page for just qualifying for the world finals. There’s no such culture at IITK. We were the first Indian team to become the Asia West Champion but we got no acknowledgement from the institute. Even the professor from IITR congratulated me thrice.
+Aryan: In fact, the PClub here at IITK is so defunct that this year only 5 teams registered in the ICPC online round and 10 registered in the year before. This is a massive decline from 2018, 2019, when almost 50ish teams participated in the online rounds and around 10 made it to the regionals. We used to have introductory ICPC sessions (for first timers), practice contests every weekend before regionals and a lecture series to support participating teams. This year the coordinators seem to have completely forgotten about the ICPC and there has been no publicity for the same. I’ll suggest the current and future PClub coordinators to look at the end-term reports of Y12-Y15 coordinators and you’ll find enough initiatives to work on. IITK FOSS group https://students.iitk.ac.in/navya/about/ is dead too. Although if one excludes last year, number of GSOCers have increased over the years. Frankly, it will be better to see PClub split into 4 different clubs (one for CP, ML, Cybersecurity and web dev each). These all are orthogonal but are currently under the umbrella of PClub. While IITR and other institutes have different clubs for each.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Interview with ICPC Asia-West Champions from IITK]
+Interviewed by: Rahul Jha, Zainab Fatima, Rudransh Goel
+Editor: Abhimanyu Sethia
+
+1 https://stats.ioinformatics.org/results/IND
+
+=== The Tryst with HSS Courses ===
+Source: https://voxiitk.com/tryst-with-hss-courses/
+Date: 2022-12-10
+
+Tracing students’ opinions on the humanities curriculum at IIT Kanpur, and exploring the necessity for technology programs to have social science coursework.
+
+Several engineering students at IIT Kanpur often wonder – “why study Humanities courses?” especially when the alarm for early morning class jolts them out of sleep of which every minute feels oh so precious! From the perspective of a student who spent a couple or more years getting better at sciences to crack the JEE, this question seems genuine to a certain extent.
+
+Vox Populi decided to float a survey among the student body to assess and investigate potential answers to the above question, and got enthusiastic and insightful perspectives from the set of responses. The UG community proactively filled out the survey and had lots to say about the HSS courses offered,  grading schemes, pedagogies, and much more. Let us comb through the responses we received and see where they lead us.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+Understanding the Demographic
+
+First of all, who are the respondents? Even though the survey was sent out to all the students of IITK, all except one response was from the UG community. The lone data point was from a PhD student. An important metric to consider is how many HSS courses students have done. 92.5% of all respondents have taken 1-4 courses, with the most prominent faction (35.4%) having done two courses. It is noteworthy that of all the courses done, more than 70% were taken – or rather given – through the lottery system. Nonetheless, people did have reasons to go with the courses they got or accepted, which is what we seek to examine next.
+
+Reasons for Taking HSS Courses
+
+Here we received answers that would already be coming to your mind. Three main reasons stand out: people take HSS courses out of interest, for grading, or the professor. Ideally, we want people to do courses they are interested in, and conversely, we want courses to interest people. However, it is concerning that less than half of the students taking HSS courses had felt that the course would be exciting or had considered interests while filling preferences. At the same time, at 42.2%, it is still the most cited reason for taking these courses, which is the good side of it. Nonetheless, it is evident that there is still a chasm between people’s interests and the courses they take.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+It has to be kept in mind that we can’t lay the blame on either the students or the HSS department. Some students might not pick courses that wouldn’t help them professionally, especially when the courses they can choose from are limited. Some might have had interests in a course but found themselves allotted a different one. Some courses might have failed to arouse interest in the students, while in some, other aspects such as teaching methods or grading schemes might have overweighed the students’ interests. Still, the influence of the interest factor going up is always a good thing.
+
+Let us next look at what is arguably the most discussed matter when the course-choosing season arrives, grading. In the survey, however, only 32% considered ease of getting good grades as one of the reasons for picking the courses they did. Adding to this is an interesting statistic – 35% of respondents were happy with their grades, while 12.6% were not pleased. Considering the amount of discussion around it, the ease of getting good grades stands among the less popular reasons for picking up a course. It might be that we overestimated how much the community values grades. Nevertheless, objectively speaking, we also have to consider the possibility that some students weren’t allotted the high-grading courses they preferred, driving down the percentage.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+Next, 22.4% of the respondents cited having a “good” professor as a reason for picking a course. The teacher is an integral part of the learning experience. You often learn things from the professor, such as how to communicate your ideas coherently, less use of jargon, and so on. But with the multitude of professors working in the HSS department, how many can one know? Although a significant fraction of people found professors in the HSS department friendly and approachable, usually, what they know about a professor comes through word of mouth with no traceable source. Under such circumstances, a professor’s “good”ness is a subjective matter that is hard to convey. So what people mean by a “good” professor boils down to the comprehensibility of the course or the grading. Considering this, we can say that 22.4% makes a strong case in favour of the more objective criteria.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+The next question we asked was relatively straightforward – Which departments in HSS do people prefer? Economics topped the chart with almost 33% of people preferring it over other disciplines. It is helpful for people who plan to explore the finance sector professionally, and it has a reputation for being easier than other courses. Naturally, it becomes the top choice for many students. The ART and ENG disciplines follow with a preference percentage in the 13-15% bracket, followed by Psychology, Philosophy, and Sociology, set around 10%.
+
+Impact of HSS Courses
+
+Now that we have gained an understanding of the demographic, we can move to the second part of our study. How have the HSS courses been for the students who took them? We have a wide array of responses to this. Some people were irritated by the large amount of writing required for some HSS courses; a few others felt there was a lot of jargon in these courses. Such issues can be found in any stream and should not be a defining point in the argument against HSS courses. On the other side, the brighter side (or so to say), many respondents agreed that HSS courses are an essential refuge from usual engineering courses.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+In terms of difficulty, almost equal number of students stood on the ends of the spectrum, with the lion’s share staying in the middle. Regarding usefulness, 37.1% of respondents felt that the courses provided fruitful learning experiences. In comparison, 14% stood on the other side of the spectrum, saying they didn’t learn much from the courses. Even though the maximum percentage of students stood in the middle, the fact that HSS courses positively influenced close to 40% people is commendable. Further, over 30% people also reported that they imbibed new ideals into their everyday life. This indicates how truly the HSS department stands to the aim of its establishment – evolving students into better leaders and decision-makers.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+The survey concludes with some interesting data that indicates that the impact of HSS courses extends beyond the set expectations. More than 10% people opted for a minor or double major, or branch change to an HSS discipline. Add in the 5% that decided to pursue HSS for higher studies and the 12% that considered it but didn’t go through with it; we see that the number of people HSS courses positively impacted far outweighs the 23% who felt that the course didn’t live up to expectations.
+
+Attempt to Better
+
+It is fair to say that HSS courses are not unnecessary or pointless, as some might like to claim. There are ways through which the institute can increase engineering students’ overall interest in taking HSS courses. For instance, one way is to introduce the option of taking up minors in more disciplines under HSS for UG students. To increase the number of PG students taking HSS courses, a push towards interdisciplinary research shall prove beneficial. Addressing the issues regarding the lottery system will also help.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The Tryst with HSS Courses]
+The issues we will discuss in the next article within this series are the usefulness of a random allotment system and the necessity of HSS courses in an engineering curriculum. Please stay on the lookout for it to know what more the campus junta has to say!
+
+Credits: Utkarsh Agrawal, Hisham Hadi T, Gauravi Chandak, Aviral Upadhyay, Niliena Celine Biju
+Edited and Compiled by: Sugandhaa Pandey
+Design Credits: Praneat Data
+
+=== Humanities at IITK – A Reasoned Necessity ===
+Source: https://voxiitk.com/humanities-at-iitk-a-reasoned-necessity/
+Date: 2022-12-13
+
+Following from our previous survey piece, we interview and indulge in conversation with faculty members from the HSS department at IIT Kanpur to understand their motivations and the purview of the curriculum at our flagship engineering institute.
+
+IIT Kanpur was among the few institutes that heralded the crossover between sciences and humanities in India. Prof. Mini Chandran, in her welcome address posted on the HSS website, states the reason behind it: “With an intent to sharpen the creative talents of the students and to help them evolve as better leaders and decision-makers, the institute allocated more than fifteen per cent of the total UG course credits to HSS courses.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+In what follows, we attempt to understand the nuances of this multi-layered statement to help our readers answer the question: Why does an engineering curriculum need humanities courses? This understanding will be developed through the perspective of faculty members while addressing the limitations of HSS courses owing to random course allotment.
+
+Limitations of the System
+
+Despite the positive impact of HSS courses on students, we still feel dissatisfaction brewing among them. In light of this observation, the question then shifts to the elephant in the room. We asked the survey respondents if there were anything else of importance they would like to share, and a repeated concern was the inefficiency of the lottery system.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+One of the primary reasons for this is that the need for a lottery system is not evident. It is not very transparent and is essentially a black box that spits out the course one should do without regarding the student’s choice, as suggested by the data in the survey. One argument for the lottery system is that some people are not interested in any HSS course, so they must be allotted a course. Even without the lottery system, such people would do HSS courses to satisfy credit requirements, thereby invalidating this argument. So we cannot say there isn’t merit in the students’ cries against the lottery system.
+
+To an extent, even the faculty members see and agree with this issue. Still, a resolution for it is not so easily sought. Prof. Braj Bhushan identified two significant problems with allowing students to take an HSS course of their choice. Firstly, how many courses can be offered? Each course requires infrastructure, a commitment that can’t be easily met. He points out a few intelligent solutions to this, like providing some courses online (the productivity of which will be a debatable issue) or having multiple parallel classes with multiple faculty members. Nevertheless, he also accepts that physical limitations constrain the institute from carrying out these solutions.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+Secondly, if the department is offering 25 courses (say), then a load of students per course should be equally distributed. Prof. AVR Sarma points out that maintaining a healthy teacher-student ratio in every course is important. This would not be easy to carry out if the choice was given preference, so, in his opinion, the lottery is the best system we can get under the circumstances. Apart from these practical problems, Prof. Bhushan agrees that ideally, students should be allowed to take a course of their choice as this would aid in the completion of minors and help them engage with disciplines with a newfound interest.
+
+From Knowledge to Wisdom
+
+With that background of evaluating the positives and negatives, we are now equipped to ponder on the big question. Why do we need HSS courses? One look at the effect that HSS courses have had on students gives us a place to start. The numbers speak for themselves, as noted in the previous article. Another way is to understand where the faculty members come from when teaching and designing HSS courses for technical students. What benefit do they think they can impart to the new generation?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+Prof. AVR Sarma, who takes up Logic and Philosophy of Science courses for undergraduates, states that he models his lessons to teach students the power of argumentation. The talent of IITK students sees them placed in high positions. When they have to deliver a pitch to investors or get a policy approved by superiors, their ability to communicate their point shouldn’t be flawed with logical inconsistencies or thwarted by the lack of context and critical thinking.
+
+Prof. Sarma understands some students’ disinterest in certain topics and tries to make up for it by introducing the subject through innovative pedagogy, like puzzles and paradoxes. He was a science student until his master’s and feels that moving to Philosophy helped him comprehend the world with a broader lens. He hopes to inculcate that perspective within his students so that they are humanised as leaders and try to look beyond short-term problems and solutions. An argument on similar lines can be made for courses in English that teach you about the relationship between fiction and reality and help you understand the ‘isms’ affecting modern thinking, among other things. In the future, if you wish to join think tanks, policy-making committees, and consultancies, having a grasp over such intricacies will make you a cut above the rest.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+Prof. Bhushan teaches introductory courses in Psychology and believes that HSS is the anchor of all subjects. His cross-disciplinary interests have allowed him to collaborate with researchers from multiple fields. This experience has led him to believe that humanities and social sciences help in weaving together the threads from other disciplines to tackle real-life problems efficiently. He illustrates his point with an example –
+
+Ageing as a biological process and how it affects the elderly is a part of sociology. The list of problems associated with it would include the likes of dementia and tremors. As a computer engineer, you can program a device that helps overcome the challenge of dementia. Still, you need to take a course in sociology to figure out the demographic details you wish to cater. Unless you have engaged in psychology courses, grasping dementia as a health issue with implications on the condition of living will be arduous. A similar understanding applies to helping patients with tremors which make it difficult for them to walk. A material science engineering student with a background in art and design is better equipped to develop an innovative, lightweight shoe material to help older adults affected by it to walk.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Humanities at IITK – A Reasoned Necessity]
+To Sum Up
+
+Suppose one keeps studying technology and sciences without understanding how they can be used to better the human condition. In that case, it will defeat the purpose of education. Creative research is a product of the overall development IIT Kanpur plans for its students by allowing them to explore HSS courses. Life isn’t only about seeing things as they are but also about making meaning out of them, for which an all-round approach is of utmost importance. The takeaway from this article should be that humanistic inquiry is intricately tied with scientific investigations, and connecting these lines helps transform knowledge into wisdom.
+
+Credits: Sugandhaa Pandey
+
+=== Tracing the PGARC 2020 ===
+Source: https://voxiitk.com/tracing-the-pgarc-2020/
+Date: 2022-12-20
+
+Disclaimer: The following article’s content is comprised of excerpts quoted from the current Post-graduate Academic Review Committee (PGARC) Report, 2020-21. As per a note mentioned within the report, all recommendations and data used have been for pre-pandemic conditions, and the effect or considerations arising out of the pandemic are beyond the scope of the present report.
+
+The first academic review of the PG Programme (PGP) was presented to the Academic Senate in December 2012 amid growing emphasis in the Institute on the centrality of the PGP. The latest review is thus the Second PG Academic Review. The report was prepared by a panel of members that included: Prof. Amitabha Bandopadhyay, Prof. Nisheeth Srivastava, Prof. Nisant N. Nair, Prof. Parasar Mohanty, Prof. Prashant Bagad, Prof. Sameer Khandekar, Prof. Sarani Saha, Prof. Sri Vanamalla V., Mr Vineeth Vijayan (Student Representative), and Prof. Yashowanta N. Mohapatra (Chair).
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+For this article, we have mentioned a few impactful introductions, set out as recommendations or suggestions in the report, made by this committee with an aim to make PGP more student-friendly and meticulous, like most elite and recognized higher education programmes across the globe.
+
+Proposal to set-up PGFC
+
+A PG student typically comes from a different academic set-up and is often left bewildered by the organizational structure and flow of decisions and the stress of academic rigour. Discontent among students has been noted that has led to the propagation of a perception that the system is unresponsive towards problems of PG students. This shall become more acute as the Institute aims to considerably increase the size of PGP, which currently stands at approximately 40 per cent of the total strength.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+To resolve this issue, PGARC recommends setting up a Post-graduate Facilitation Centre (PGFC). The Centre shall be headed by an experienced faculty member or an eminent educationist and aided by a team consisting of one designated DPGC member from each Department and a PG representative of the Student’s Senate. The basic functions of PGFC will broadly include the following:
+
+i) Arranging professional support required by groups of students in improving language skills outside the formal course structure, communication skills in navigating careers, software and data analysis skills, and so on.
+
+ii) Coordinating outreach efforts of Departments to project PGP in digital media space (interviews with faculty and students, short films, etc.), social media, organizing events celebrating student experience through achievements in publishing papers, attending conferences, or innovative projects of a similar kind, maintaining helpdesks manned by students (as a part of their TA work) to direct students seeking help, and providing support to international students in consultation with International Relations Cell.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Addressing Coursework Inadequacies
+
+It has been observed that Departments/IDPs are struggling to be able to offer enough courses to the satisfaction of students, especially for Master’s Programmes. Sometimes even compulsory courses are being joggled around in semesters due to the lack of a critical number of faculty in the Programme or Stream. This is a serious academic concern, and the need for interdisciplinary courses (compulsory or electives IDC/IDE) designed especially for PG students across Departments have been voiced. PGARC supports the introduction of interdisciplinary courses. It encourages all Departments/IDPs to participate in at least one IDC annually, especially those that are offering different versions for similar content.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+A need for a Centre of Interdisciplinary Studies which spearheads the design and development of such courses is an issue that the Departments can discuss and then address accordingly. It has also been suggested to Departments that supervisors should allow students in engineering and science a course in HSS at an appropriate level as an AE if the candidate wishes so (keeping in view constraints of workload and progress). However, this course may be allowed only after the concerned student has passed the Comprehensive Examination successfully.
+
+With the fast-changing pace of knowledge boundaries, the doctoral programme, in which a student spends more than four years, must have the opportunity to continue formal learning even after all course requirements are over. Such opportunities can be made available to interested students through a 4-week long, 3-credit course capsule consisting of 12 lectures and 2 hours of testing or equivalent evaluation. The Special Topic Course Capsule (STCC) can be offered by a visiting professor, a special invitee, or a faculty member.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Further, recommendations to Senate for considering adoption on the Institute level have been stated as well. These include:
+
+i) Introduction of a zero-credit PG Seminar Course (at least for one semester for M.Tech. and two semesters for PhD students) in which PG students attend seminars given by students under the mentorship of a faculty. This shall increase the breadth of knowledge and awareness of current trends in the discipline while improving communication skills.
+
+ii) The Department is advised to offer their doctoral students a course covering topical issues relevant to the profession and the disciplinary community, along with communication skills in writing and oral presentation. The communication skills module may be offered at the Institute level, and the introduction to profession module should be offered by the Department.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Academic Performance: Inadequacy and Programme Termination Procedures
+
+The purely CPI-based criteria for identifying performance deficiency and termination has in large measure, resulted in structural ‘grade inflation’ across PGPs, instead of ensuring minimum quality standards in supposedly elite Programmes. In light of this, PGARC makes two recommendations:
+
+i) Introduction of granular grading: A+ (10/Outstanding); A (10/Excellent); B+ (09/B Plus); B (08/Good); C+ (07/C Plus); C (06/Fair); D+ (05/D Plus); D (04/Pass); E (02/Exposure); F (00/Fail); S: Satisfactory; X:Unsatisfactory; I: Incomplete (for internal usage before converting it to a valid letter grade on completion of evaluation components by the stipulated last date for submission of grades in a semester. (As per an email circulated before the beginning of the new semester, the granular grading system has been enforced on an institute level since 2022-23/I).
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+ii) The current minimum CPI criteria should be reduced to 6.5 for PhD Programmes, and 6.0 for Masters Programme. The revision of minimum CPI criteria should not be seen as a downgrading of standards but rather recalibration to protect the meaning of the standards the Institute seeks to adopt.
+
+Regarding the termination procedure, it has been recommended that the list of deficient students can be allowed to reply to a show-cause notice from the Convener, DPGC, after authorization from SPGC on the basis of the APEC report. SPGC be authorized to decide on a case-by-case basis considering the written and clearly argued recommendations of DPGC and Counselling Services. Only the Termination cases at that stage are brought to the Senate for consideration of mercy appeals.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Milestones in Thesis Work
+
+PGARC makes the following set of recommendations to improve the quality of PhD thesis and reduce the time taken to complete the degree:
+
+i) Open Seminar in 9th Semester (OS9S): this dictum or mantra should dictate all administrative policies, decision-making, and academic judgement at all levels. There are Departments in which currently the allotment of thesis supervisor is carried out after the Comprehensive Examination or the coursework is longer than three semesters. These Departments/IDPs need to critically review their doctoral programmes in the meantime so as to align with the policy of OS9S.
+
+ii) The Doctoral Monitoring Committee (DMC) is now a mandated feature by the Senate. PGARC recommends that a DMC review meeting for a student need not be held at the end of the semester but at any time during it, with a constant gap between them in subsequent semesters. This would evenly distribute DMC meetings in a Department throughout the semester. The award of grades of thesis work remains the responsibility of the Thesis Supervisor as per the extant PG rules.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+iii) PGARC suggests that the Thesis Supervisor prepares the student for Comprehensive Exam Viva through several simulated sessions for them to understand the nature of the examination and expectations. Also, the Comprehensive Boards should provide a narrower pre-specified domain for preparation in view of the student’s coursework and foundations required for later work and career.
+
+iv) Introducing Thesis Work Plan: PGARC recommends that the student presents Version-1 of their broad work plan as a short document specifying the Thesis Work Plan (TWP) to the DMC within four months of finishing SOTA. The nature and style of the TWP is to be decided jointly by the Thesis Supervisor and the student. Keeping in view the work packages within the TWC, the period (between SOTA and Open) can be roughly divided into four achievement milestones (which can be changed as one progresses) which, when completed, will allow the student to deliver their Open Seminar.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+v) PGARC recommends that an online ‘PhD Student Status Dashboard’ be maintained for each student. This should contain essential information about PG Manual mandated milestones, due dates, completed dates, and achievements in Tabular form.
+
+vi) PhD exit options: M.Tech./MA/MS/MSR degree is proposed as the exit degree for PhD in all disciplines. A PhD student can opt for the exit option at any point of time in his/her PhD tenure after completing the required coursework. MTech/MA/MS/MSR thesis/project guide will be assigned by the DPGC Convener. A student failing in the comprehensive examination for two consecutive times may, on the recommendation of DPGC, shift to the exit track of the M.Tech./MA/MS/MSR programme. All PhD students in the exit track of a Master’s Programme be permitted, with the consent of the DPGC Convener, to participate in SPO placements any time after their fourth semester in the PhD programme.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+There is a need for stricter control at all stages of the Master’s Thesis work, starting from articulating well-defined goals and the scope of the projects. Hence, PGARC makes the following suggestions and recommendations to the concerned departments:
+
+i) Prior to the supervisor assignment, projects with titles and a brief description of the scope must be floated on the basis of which students provide their options, or in other words, the students are assigned to projects floated. A certain fraction of students in each Department is allowed to opt for centrally floated projects by ambitious Institute level interdisciplinary research programmes.
+
+ii) The Master’s programme would improve if problems undertaken are shown to be directly related to the industry or are a part of industrial collaboration. In fact, for most such projects in the near future, the fellowship should or would be required to come from industry or be linked to the start-up ecosystem.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+iii) As an experimental measure, the Board of Examiners for Master’s should, in its report, specify a quality tag such as Outstanding, Excellent, or Good with a brief justification. Only the Master thesis adjudged as outstanding or excellent can be nominated to the Awards Committee for consideration for any Institute-level award presented in Convocation.
+
+iv) If a student is not able to complete the requirements of a full thesis in the stipulated time as per the departmental norms, then the student can be offered an alternate degree, called M.Tech. (with Project Report), as an exit option. The regular M.Tech. Degree certificate be referred to as M.Tech. (with Thesis). Delays in completion of M.Tech programme can be effectively controlled with this exit option.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+v) Currently, only 6% of the students in the MSR programme are sponsored by the projects, a serious anomaly for a programme explicitly targeted at project employees. To restore the original objectives of the programme, most of the students in this programme should be sponsored by projects or external organizations. To shift the intake of this programme in this direction, PGARC recommended that at least 50% of the seats filled in MSR admission in each department in a year must be against project funding. This percentage may be revised upwards by the Senate in 3-5 years to 75%.
+
+vi) PGARC recommends that the requirement of external review of the MSR thesis be removed, bringing its evaluation in line with current practice for M.Tech. thesis. This will improve the timeliness of thesis completion for such students, as well as avoid IPR conflicts that are very prevalent in more industry-centric research problems typically addressed by the project and externally funded MSR thesis.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Tutorial and Teaching Assistantship
+
+PGARC recommends that the Departments should issue at the end of the doctoral programme a transcript-like (in a format uniform across all Departments) record of participation as Tutor, Teaching Assistant, or Academic Support (eg. website, library, help-desk services, etc.) listed under three different heads chronologically. The Department to which the student belongs should keep records for this purpose, possibly with a quality tag of performance (such as Outstanding, Excellent, Good, etc) for internal usage. On the basis of the recommendation of a team of instructors, outstanding contributions to tutorial support or teaching assistantship can be recognized by a letter of appreciation from the HoD.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > Tracing the PGARC 2020]
+Credits: Sugandhaa Pandey
+Design Credits: Atharv Jiwane
+
+=== The HC Check-Up ===
+Source: https://voxiitk.com/the-hc-check-up/
+Date: 2022-12-25
+
+IIT Kanpur, one of the country’s finest flagship residential campuses, housing over 8000 students, numerous workers, faculty members, and their families from all over the country, is naturally not immune to ailments and medical emergencies. The IIT Kanpur Health Center is the central body that looks into the ailments of our residents. With over 15 doctors listed on its website, we also have specialists visiting the center from time to time. Our campus is a community in itself, and the campus community’s health must be well catered to. Following several developments and grievances around the Health Centre, the Vox team decided to investigate what the ground reality and public perception were concerning the Health Centre. Unfortunately, we were not able to get a statement from the HC officials regarding the matter, despite multiple attempts.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+In a survey answered by 187 participants, we found out that the most voted option answering the question How often do you visit the Health Center? , was that of emergencies. Less than 10% of the respondents stated that they visited the HC more frequently (two to five times a month), mainly to look after chronic illnesses. The most common reasons for visiting the HC were simple injuries, flu, food poisoning, etc.
+When asked what the campus felt about the services provided by the HC, over 50% of the respondents claimed to have a certain level of dissatisfaction with the services provided by the Health Center. Let us take a look at what the respondents have to say-
+
+The Health Center
+
+One of the most frequently mentioned problems was regarding the unavailability of doctors, or the delay/waiting time for appointments. In principle, the Health Centre is supposed to ensure that a second doctor is available as a substitute in a particular shift, and that has seemingly not been the case in the way the HC has operated post-pandemic. There have been quite a few complaints about the waiting time or the working hours of the Health Centre, but due to constraints of resources, we were told that the problem boils down to choosing between increasing the working hours or having backups during emergency hours.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+About 10% of the respondents claimed that the officials were rude and judgemental and that they had been denied treatment when they approached the HC during emergency hours.
+
+In a recent incident, a student who visited the Health Center psychiatrist stated that he was treated very rudely and impolitely and that the psychiatrist didn’t even bother looking at him, much less making him feel welcome during the visit.
+
+“I had an emergency once, and the emergency contact numbers of the HC were not reachable”, another student told us. “I went there, in a very distressed state, and on reaching the center, I was told that this problem had been going on for 10 days. Apparently, they had registered a complaint too but nothing was being done. After that, I was given an alternative number, not available on the site or anywhere else.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+Many such examples, concerning the rude treatment of the doctors and the staff at the Health Center, were found in the survey. The respondents stated the officials are rude, arrogant, and ignorant, and hinted that they were annoyed by the patients, or were indifferent, to say the least.
+
+However, we also found out that a similar number of survey respondents held the opinion that the waiting time was standard and the services were satisfactory. They stated that the staff was regular, helpful, and punctual, and the ambulance service was stated to be very reliable in case of emergencies. A student additionally mentioned that the HC helped him arrange for an ambulance and the related arrangements in an accident outside the campus. One of the respondents said that the HC even delivered medicines to their room due to the medication being previously unavailable. Another quoted, “We should be satisfied with the health facilities provided by the institute. Not everyone has access to such facilities, and we should be thankful for what we have”.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+Coming to the quality of treatments, there were some claims about extreme medications being advised by the Health center. A couple of respondents claimed that the specialists were hasty and overlooked a lot of symptoms before prescribing medication. We also received responses claiming that they had been prescribed a heavy dosage, for instance, one respondent claimed that he had been given three injections to cure dehydration.
+
+However, contrary to the opinions stated above, only about 20% of the respondents felt that way.  In the survey, one respondent claimed that doctors often went out of their way to help with the treatment, familiarised themselves with the doctors back home, and make arrangements with the hospitals outside the campus to make the treatment more accessible. A few doctors were also listed as polite and welcoming, and their treatment was claimed to be more than satisfactory.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+In general, we received a lot of negative feedback based on the quality of treatment, the general conduct of the doctors, the (in)adequacy of technology, and the working hours. Many respondents also complained about the HC pharmacy always being out of stock.
+However, an anonymous source stated
+
+“There are a lot of people with preconceived notions about the HC who criticize it for no reason. This happens due to the nature of the field. Bad treatments are amplified and talked about while good treatments are never talked about.”
+
+The Apollo Pharmacy
+
+In the responses, we also received a few complaints regarding the Apollo Pharmacy. To look into these complaints, we interviewed the Apollo Pharmacy supervisor. When asked why the pharmacy was frequently short on essentials such as Odomos, Sanitizers, and Electral, he stated that the quantity needed for these items is never definite. “We keep just enough stock so that none of it expires, otherwise we find that a lot of the stock goes to waste, which we cannot afford. We do not keep a buffer stock. Whenever the stock is depleted we order them, and they’re here in a day or so.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+We were told that an Apollo application exists, through which we can order medicines and have them delivered to the room in the daytime. Apollo24x7  helps you order and pay via UPI, and then directly collect the items at the Health Center.
+There were numerous complaints about the failure of the online payment system of the Health Center and their treatment of students.
+
+I practically yelled and slammed their desks and they continued to ignore me as if I didn’t exist. I had gone there to get sanitary pads in the early morning, I paid twice, but their system was not working, and they simply chose to ignore me after that. I went back three times, only to get a different excuse every time, and finally got my refund on my fourth attempt.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+Another student said, “I believe that having an alternative to Apollo Pharmacy will create competition in the market. I hope that at least that would act as an incentive to treat the students right and keep the meds stocked up at all times.”
+
+Insurance
+
+In the survey, we asked students if they were aware of the insurance policy of the Health Center. Shockingly, we found out that over 50% of the respondents were unaware of the insurance policy at IITK. Although there are no complaints regarding this matter, we thought it best to make the student community aware of the benefits offered by the institute.
+
+There exists an insurance policy for the IIT Kanpur students, by which we can reimburse all the medical costs expended in any external hospitals. The Health center takes care of the costs endured by the students when visiting external hospitals. According to a source, 70% of the Insurance Fund is currently getting claimed by the students. The policy is availed by default, even without involvement from the insuree, which means that students can claim it even if they aren’t aware of the specifics of the policy. Interestingly, it was brought to our notice that our institute’s insurance policy was one of the few insurance policies in institutes that also covered the pandemic casualties.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+The insurance policy of our institute applies to any hospital in Kalyanpur, however, a cashless transaction exists in only a few. In the rest of the hospitals, students need to pay the amount first and then claim the reimbursement. These hospitals include the Madhuraj hospital, which is mainly recommended by the HC. As far as private hospitals go, the quality of treatment is a little on the spotty side, but it has a better rapport with the HC. The Regency hospital is the largest private hospital and offers a much better quality of treatment, however, it has a much longer waiting time, and it asks for an extra amount for the treatment, which is not included in the insurance. Lala Lajpat Rai Hospital (formerly Hallet Hospital), is the government hospital recommended by the health center.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+The Insurance policy gets modified every year. Reforms are suggested and debated by a committee that approves them. There exists an amount of about 1.5 lacks of direct coverage and about 1 lakh rupees in corporate buffer Premium amounts change, and so does the coverage amount. These changes are usually informed to the residents via email. However, we can always get to know more about the insurance on the health center’s website.
+
+Feedback
+
+Coming to the possible improvements to overcome these difficulties, it was suggested in the survey that the HC should work towards increasing students’ awareness of the health-related protocols on campus, including information about the health and insurance policies, the HC rules and regulations, and the HCUC (The Health Centre Users Committee).
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+Following the aftermath of the pandemic, the functioning of the HC has changed dynamically. While some things have improved, certain aspects of the way of operating the facility have also become inconsistent. The HCUC has also been sporadic in its meetings and the lack of a feedback mechanism in place for the HC has been a point of concern of late.
+It was brought to our notice that the HC has been revamping facilities deployed, and technological advancements have been planned to digitize the maintenance of records. These changes should improve the day-to-day operations at the HC and also help in streamlining the experience for campus residents.
+To conclude, the Health Center is arguably far from perfect, but it stands to be a capable institute center. The falling standards of the services offered seem to be one of the problems that plague it. We hope that the improvements in the quality of treatment and the services provided by the HC  go hand in hand with the advancements in technology. Hopefully, the near future ahead should bring a more efficient and improvised Health Centre Experience.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2022 > The HC Check-Up]
+Written by – Aniruddh Pramod, Manasvi Jain, Nishanth Shanmukhan, Ridin Datta
+Edited by – Sanika Gumaste, Aryan Pandeya
+Design by – Praneat Data, Atharv Jiwane
+

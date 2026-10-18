@@ -1,0 +1,5273 @@
+DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS, CONTACT AND GENERAL PAGES
+Name: Department of Mathematics and Statistics, IIT Kanpur - overview, history, programmes, admissions, contact and general pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/math. Snapshot: scraped in 2026.
+
+=== about ===
+Source: https://www.iitk.ac.in/math/about
+IIT Kanpur came into existence on November 2, 1959 through the registration of a society in New Delhi. Professor P. K. Kelkar, the founding director, took charge on December 14, 1959 and the first batch of B. Tech. students was admitted in August 1960. IIT Kanpur was the first institute in the country to introduce science based engineering curriculum at the undergraduate level. For overall academic growth, the institute established independent engineering and science departments right in the beginning. The Department of Mathematics at IIT Kanpur came into existence in 1960, starting with two faculty members to cater to undergraduate teaching. The name of the department was changed to Department of Mathematics and Statistics in the year 2004. Over the years, the department has evolved as one of the premier departments in the country, making a remarkable contribution in adding to the lot of well-trained, bright mathematicians and statisticians in the country and abroad. In the 2024 QS world university rankings, IIT Kanpur is rated among the top two in the country in the areas of mathematics and data science. In addition, research is carried out in the department in the interdisciplinary areas of science and technology, thereby contributing to the vibrant academic ambience of IIT Kanpur.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Evolution of Academic Program
+
+Seminars and Visitors
+
+Academic Programs
+
+Postdoctoral Program
+
+Placement of Graduates
+
+Teaching
+
+Administrative Activities
+
+Student Activities
+
+Right from its inception, the department gave high priority to quality research and education. The research areas of our department are broadly divided in four major groups,
+
+Analysis,Topology,Geometry
+
+Numerical Analysis and ScientificComputing, ODE, PDE, Fluid, Mechanics
+
+Our faculty are leading experts in their fields, regularly publishing articles in top mathematics and statistics journals and writing research monographs. That the research contributions made by the faculty and students of the department have been noteworthy, is evident from the large number of awards and accolades the faculty members and students of the department have received.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Seminars and Visitors
+
+The department maintains a vibrant academic atmosphere through various academic initiatives. There is a regular stream of visitors to the department, both for long term and short term, resulting in collaborative research, interactions and seminars. There are regular academic activities such as colloquium, departmental seminar, student seminar and seminar series on specialized topics including Analysis, PDE and Algebra. In addition, a number of conferences, workshops and schools have also been organized by various faculty members of the department over the years, both at IIT Kanpur, and elsewhere.
+
+Post-Doctoral Program
+
+The department generously offers post-doctoral positions to promising Ph.D. graduates. In recent times, it has been able to attract a large number of bright Ph.D. graduates from various institutes of eminence (like TIFR, ISI, IISc, IITs) from India and abroad. The post-doctoral fellows (PDFs) are offered attractive stipend based on merit and experience. The PDFs are mentored by the faculty of the department and the research carried out by them at IIT Kanpur has resulted in publications in top rated journals. Apart from contributing to research activities of the department, the PDFs participate in undergraduate teaching and mentoring Ph.D. students of the department.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Post Doctoral Fellow
+
+Academic Programs
+
+The aim of our programmes is to cultivate a fine mathematical taste, nurture mathematical interests, motivate research in mathematical sciences and train computational scientists who can work on challenging real life problems. All the programs of the department have undergone changes over the years, in order to keep pace with evolving thrust areas in mathematics and statistics across the globe. The programs are completely credit based. Following is the list of programs of the department since its inception.
+
+The PhD programme started in 1960.
+
+The two-year Master’s programme in Mathematics started in 1965.
+
+The two-year Master’s programme in Statistics started in July 1971.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+In the academic year 1971-72, the department started M.Sc. (Integrated) program in Mathematics.
+
+The M.Sc. (Integrated) program in Statistics also started in 1971-72.
+
+These two M.Sc. (Integrated) programs were replaced by a single five-year M.Sc.(Integrated) program in Mathematics and Scientific Computing from the academic year 1995-96.
+
+From 2011, the five-year M.Sc. (Integrated) program in Mathematics & Scientific Computing was discontinued, and a new four-year BS program in Mathematics & Scientific Computing was started. This BS programme is completely credit based and students have the option (subject to fulfilling certain eligibility criteria) to also earn an MS degree along with the BS degree by spending one extra year.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+BS and BS-MS programs in Statistics & Data Science were started by thedepartment from the academic year 2021-22.
+
+The students admitted to various undergraduate programs of the institute through JEE are provided opportunity for change of branch/discipline after completion of second, third and fourth semesters. The BS program in Mathematics & Scientific Computing is one of the most sought after choice for branch change. The MS and second major programs offered by the department are also very popular among undergraduate students of other departments. Many students of other departments take advantage of the flexibility in academic programs offered at IIT Kanpur by doing a second major and/or a dual degree in Mathematics & Scientific Computing. The BS and BS-MS program in Statistics & Data Science has also started gaining popularity in these respects among students across departments.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Placement of graduates
+
+After graduation, most of the PhD students of the department get post-doctoral fellowships in various institutes in the country or abroad, and subsequently become faculty members in institutes of high standing such as TIFR, IITs, IIMs and IISERs. Most of the graduates from our BS and MS/MSc programmes go to reputed universities/institutes in India and abroad for pursuing PhD. Others, particularly graduates specialising in Statistics/Data Science, secure positions in reputed companies/institutions in the country and abroad. It should be mentioned here that alumni of the department have received several prestigious awards including the Shanti Swarup Bhatnagar prize.
+
+Teaching
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+The department actively participates in teaching of undergraduate core courses. Currently the department offers two compulsory core courses (compulsory for all undergraduate students of the BS programme) and three Mathematics Science Option Courses (MSO) for undergraduate students of the institute. Due to the vast heterogeneity in intellectual levels of students registered in these courses, teaching these courses is considered to be a big challenge. For this reason, getting a good rating from students in these courses is difficult. Faculty members of the department have received the Distinguished Teacher Award, Gopal Das Bhandari Distinguished Teacher Award, Excellence in Teaching Award for their teaching. Based on student feedbacks, many faculty members of the department regularly receive commendation letters from The Chairperson, Academic Senate, for extraordinary teaching. In addition to teaching undergraduate level compulsory and MSO courses, the faculty of the department also actively participates in the teaching of courses of various academic programs offered by the department. A large number of elective courses are offered by the faculty to students in the BS, M.Sc. and PhD programs. To keep pace with the new research developments, the faculty, on a regular basis, develops new elective courses for PhD, M.Sc. and undergraduate students of the department. The courses offered are also very popular choices as elective courses for students of other departments. Apart from classroom teaching, the faculty of the department has also actively contributed by writing text books and through distance learning programmes (NPTEL and E-Learning courses).
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Administrative Activities
+
+The faculty of the department has contributed significantly in institute administration by taking up some of the key responsibilities/positions at the institute level and by actively participating in various standing committees of the academic senate and other institute level committees. They have also served as Chairpersons and Vice-Chairpersons of JEE, GATE etc.
+
+Students' Activities
+
+The students of the department actively contribute to the academic vibrancy in the department by arranging various activities through an association called STAMATICS. Through this association the student body arranges regular seminars, quizzes and other academic activities. STAMATICS is also instrumental in holding various cultural events and in arranging social gatherings involving students, faculty and staff.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > about]
+Stamatics
+
+=== home ===
+Source: https://www.iitk.ac.in/math/
+Latest News and Announcement
+
+Prof. B V Rathish Kumar elected as Fellow of the Indian National Science Academy (INSA).
+Updated on September 10, 2026
+
+Prof. Prosenjit Roy has recieved "Pradeep Jotwani Young faculty Fellowship" from IIT KANPUR.
+Updated on Oct 15, 2025
+
+Adimurthi is a recipient of the Rashtriya Vigyan Puraskar, Vigyan Shri, 2024.
+
+More..
+
+Events Calendar
+
+Welcome Message
+
+The department of Mathematics shares the vision of the institute of achieving excellence in teaching and research. It has always striven to succeed in this endeavor. Over the years, it has evolved as one of the premier departments in the country providing excellent teaching and research in Mathematical Sciences. In addition, research is also carried out in interdisciplinary areas of science and technology thereby contributing to the vibrant academic ambiance of IIT Kanpur.  Read More..
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > home]
+- Prof. Akash Anand
+Head, Department of Mathematics
+
+Highlights
+
+40+
+
+400+
+
+Students
+
+500+
+
+joomla social media module
+
+=== algebra number theory and mathematical logic ===
+Source: https://www.iitk.ac.in/math/algebra-number-theory-and-mathematical-logic
+Mohua Banerjee
+
+Narasimha Chary Bonala
+
+Arijit Ganguly
+
+Somnath Jha
+
+Amit Shekhar Kuber
+
+Ashutosh Kumar
+
+A. K. Maloo
+
+Santosh V R N Nadimpalli
+
+N. Nilakantan
+
+Santosha Kumar Pattanayak
+
+Preena Samuel
+
+Sachin Subhash Sharma
+
+Sudhanshu Shekhar
+
+Saurabh Kumar Singh
+
+Pooja Singla
+
+=== analysis topology geometry ===
+Source: https://www.iitk.ac.in/math/analysis-topology-geometry
+Keshab Chandra Bakshi
+
+Vikramjeet Singh Chandel
+
+Sameer L. Chavan
+
+Aparna Dar
+
+Arijit Ganguly
+
+Satyajit Guin
+
+Ashutosh Kumar
+
+Ashish Mandal
+
+P. Mohanty
+
+P. Muthukumar
+
+T. Muthukumar
+
+Abhijit Pal
+
+Sasmita Patnaik
+
+R. Rawat
+
+Bidyut Sanki
+
+Debasis Sen
+
+P. Shunmugaraj
+
+Ajay Singh Thakur
+
+=== bs ===
+Source: https://www.iitk.ac.in/math/bs
+1. Template for BS (Mathematics and Scientific Computing) students upto Y21
+
+2. Template for BS (Mathematics and Scientific Computing) students from Y22 to Y24
+
+3. Template for BS (Mathematics and Scientific Computing) students from Y25
+
+=== bs dm ===
+Source: https://www.iitk.ac.in/math/bs-dm
+1. Template for Double major (Second major in Mathematics and Scientific Computing) students upto Y21
+
+2. Template for Double Major (Second major in Mathematics and Scientific Computing) students from Y22
+
+=== bs ms ===
+Source: https://www.iitk.ac.in/math/bs-ms
+1. Template for five years dual degree (Mathematics and Scientific Computing) students upto Y21
+
+2. Template for five years dual degree (Mathematics and Scientific Computing) students from Y22
+
+=== bs ms new ===
+Source: https://www.iitk.ac.in/math/bs-ms-new
+Template for five-year dual-degree program
+
+BS-MS PG Part – Category A (from the same program) |
+
+COURSES |
+
+Semester 9 |
+Semester 10 |
+
+MS Project (PGP-1, PGP-2) |
+18 |
+MS Project (PGP-3, PGP-4) |
+18 |
+
+DE PG - 1 |
+09 |
+DE PG - 3 |
+09 |
+
+DE PG - 2 |
+09 |
+DE PG - 4 |
+09 |
+
+OE PG – 1/DE PG-5 |
+09 |
+OE PG – 2/DE PG-6 |
+09 |
+
+Total |
+45 |
+45 |
+
+Minimum credits in MS part for graduation: 90
+
+BS-MS PG Part – Category B (from other programs) |
+
+UG pre-requisites |
+PG Requirements |
+
+Odd Semester |
+Even Semester |
+IX Semester |
+X Semester |
+
+MTH201 (11) |
+MTH204 (11) |
+MS Project (PGP-1, PGP-2) |
+18 |
+MS Project (PGP-3, PGP-4) |
+18 |
+
+MTH302 (11) |
+MTH301 (11) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms new]
+DE PG - 1 |
+09 |
+DE PG - 3 |
+09 |
+
+MTH419 (11) |
+MTH437 (10) |
+DE PG - 2 |
+09 |
+DE PG - 4 |
+09 |
+
+MTH403 (11) |
+MTH421 (11) |
+OE PG – 1/DE PG-5 |
+09 |
+OE PG – 2/DE PG-6 |
+09 |
+
+MTH424 (11) |
+MTH430 (10) |
+
+55 |
+53 |
+45 |
+45 |
+
+=== bs ms old ===
+Source: https://www.iitk.ac.in/math/bs-ms-old
+BS-MS (PG Part-Category-A) (From the Same Department) |
+
+1st to 8th |
+9th |
+10th |
+
+C |
+COURSES AS DETAILED IN THE BS TEMPLATE |
+MS-PROJECT-1[9+9] |
+MS-PROJECT-2[9+9] |
+
+O |
+DE PG-1[09] |
+DE PG-3[09] |
+
+U |
+DE PG-2[09] |
+DE PG-4[09] |
+
+R |
+OE PG-1/DE PG-5 [09] |
+OE PG-2/DE PG-6 [09] |
+
+S |
+
+E |
+45 |
+45 |
+
+S |
+
+MS-PROJECT guidelines: Out of the four MS PROJECTS, at least two should be with the same supervisor. In this case, preferably the second project is expected to be a continuation of the first project on related topics.
+
+The four project courses are MTH 697, MTH 698, MTH 699, and MTH 700.
+
+BT/BS-MS (PG Part-Category-B) (From other Departments) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms old]
+Template No. BS-MTH-3 |
+
+UG Pre-Requisites |
+PG Requirements |
+
+C |
+Odd Semester |
+Even Semester |
+Odd Semester |
+Even Semester |
+
+O |
+MTH201A [11] |
+MTH204A [11] |
+MS PROJECT-1 [9+9] |
+MS PROJECT-2 [9+9] |
+
+U |
+MTH302A [11] |
+MTH301A [11] |
+DE PG-1 [09] |
+DE PG-3 [09] |
+
+R |
+MTH305A [11] |
+MTH308A [10] |
+DE PG-2 [09] |
+DE PG-4 [09] |
+
+S |
+MTH403A [11] |
+MTH421A [11] |
+
+E |
+MTH424A [11] |
+
+S |
+MTH430A [10] |
+
+65 |
+43 |
+36 |
+36 |
+
+Minimum credit requirement in ms part for graduation:
+
+PG Component |
+72 Credits |
+
+Remarks:
+
+All courses to be taken with the permission of Supervisor/DUGC Convener.
+
+Minimum credit requirement mentioned under the dual degree template is only for the MS part of the programme. In addition to these credits, students are required to follow and their graduation requirements for their UG programme.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms old]
+Department may restrict the number of students in this program to at most 10 students.
+
+Objective Of The Program
+
+To cultivate a mathematical attitude and nurture the interests,
+
+To motivate for research in mathematical and statistical sciences,
+
+To train computational scientists who can work on real life challenging problems
+
+Structure Of The Programme (From Second Year onwards)
+
+Year II
+
+Semester III |
+Semester IV |
+
+MTH 203 |
+HSS - I - 2 |
+
+CHM 201 |
+ESO 209 |
+
+TA 201 |
+MTH 202 |
+
+ESO 211 |
+MTH 204 |
+
+MTH 201 |
+MTH 302 |
+
+Year III
+
+Semester V |
+Semester VI |
+
+HSS - II - 1 |
+MTH 304 |
+
+MTH 301 |
+MTH 306 |
+
+MTH 423 |
+MTH 308 |
+
+MTH 401 |
+
+Year IV
+
+Semester VII |
+Semester VIII |
+
+MTH 403 |
+
+MTH 421 |
+
+MTH 423 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms old]
+
+Year V
+
+Semester IX |
+Semester X |
+
+HSS - II- 2 |
+MTH 599 |
+
+MTH 598 |
+
+In addition to above, the student must complete the following credits:
+
+HSS-2 08 Credits
+
+GE * 28 Credits (Group Electives)
+
+NDE 08 Credits
+AND
+
+DE 12 credits and OE 16 credits OR - DE 8 credits and OE 20 credits
+
+Group A
+
+MTH 404 Analysis-II, MTH 405 Functional Analysis, MTH 411 Probability Theory-II, MTH 424 Partial Differential Equations, MTH 611 Algebra-II, MTH 612 An Introduction to Commutative Algebra, MTH 620 Measure Theory, MTH 621 Fourier Analysis, MTH 624 Differentiable Manifolds and Lie Groups, MTH 627 Applied Harmonic Analysis, MTH 648 Differential Geometry, MTH 649 Algebraic Topology
+
+Group B
+
+MTH 412 Stochastic Processes, MTH 416 Regression Analysis, MTH 417 Sampling Theory, MTH 418 Inference-I, MTH 428 Mathematical Methods, MTH 506 Optimization, MTH 511 Statistical Simulation & Data Analysis, MTH 513 Analysis of Variance, MTH 514 Multivariate Analysis, MTH 515 Inference-II, MTH 517 Time Series Analysis, MTH 522 Finite Element Method, MTH 523 Fluid Mechanics, MTH 524 Algorithms, MTH 603 Mathematical Modelling, MTH 657 Graph Theory, MTH 658 Nonlinear Dynamical Systems, MTH 686 Non-Linear Regression, MTH 691 Numerical Linear Algebra, MTH 692 Numerical Solutions to ODE, MTH 693 Numerical Solutions to PDE, MTH 698 Parallel Numerical Algorithms,
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms old]
+MSc Project Guidelines PDF
+
+=== bs new ===
+Source: https://www.iitk.ac.in/math/bs-new
+Mathematics and scientific computing - from Y22 to Y24
+
+Template for BS program in Mathematics and Scientific Computing
+
+Template for 3rd to 8th semester for BS program in Mathematics and Scientific Computing |
+
+Semester 3 |
+Semester 4 |
+Semester 5 |
+Semester 6 |
+Semester 7 |
+Semester 8 |
+
+SCHEME-2 EME (9-11) |
+SCHEME-3 HSS-I (9-11) |
+SCHEME-4 HSS-II (9) |
+MTH419 (11) |
+SCHEME-5 HSS-II (9) |
+SCHEME-6 HSS-II (9) |
+
+MTH201 (11) |
+ESC201 (14) |
+MTH421 (11) |
+MTH424 (11) |
+DE-4 (9) |
+DE-6 (9) |
+
+MTH302 (11) |
+MTH204 (11) |
+MTH403 (11) |
+MTH430 (10) |
+DE-5 (9) |
+OE-4 (9) |
+
+E/SO-1: MSO205 (11) |
+MTH301 (11) |
+E/SO-2: ESO207 (12) |
+E/SO-3: ESO207 (12) |
+DE-2 (9) |
+OE-1 (9) |
+OE-5 (9) |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs new]
+E/SO-2 (9-11) |
+MTH437 (10) |
+54-56 |
+55-57 |
+DE-1 (9) |
+DE-3 (9) |
+OE-2 (9) |
+OE-6 (9) |
+
+OE-3 (9) |
+
+51-55 |
+55-57 |
+52 |
+50 |
+54 |
+45 |
+
+Note: UGPs are NOT mandatory. However, depending on the consent of supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE/OE (UGP will be counted as OE if taken outside the department as consented by the DUGC) requirements. A student can also take a 4th UGP, that however will NOT be counted towards fulfilling the graduation requirements.
+
+List of courses |
+
+Course No: |
+Title |
+
+MTH201 (3-1-0-0) [11] |
+Linear Algebra |
+
+MTH302 (3-1-0-0) [11] |
+Set Theory and Mathematical Logic |
+
+MTH204 (3-1-0-0) [11] |
+Abstract Algebra |
+
+MTH301 (3-1-0-0) [11] |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs new]
+Analysis - I |
+
+MTH437 (3-0-1-0) [10] |
+Numerical Analysis and Scientific Computing - I |
+
+MTH421 (3-1-0-0) [11] |
+Ordinary Differential Equations |
+
+MTH403 (3-1-0-0) [11] |
+Complex Analysis |
+
+MTH419 (3-1-0-0) [11] |
+Several Variable Calculus and Differential Geometry |
+
+MTH424 (3-1-0-0) [11] |
+Partial Differential Equations |
+
+MTH430 (3-0-1-0) [10] |
+Numerical Analysis and Scientific Computing - II |
+
+Credit table for BS program in Mathematics and Scientific Computing |
+
+Course type |
+Credits in the department template |
+
+Institute Core (IC) |
+112 |
+
+E/SO |
+32-34 |
+
+Department requirements |
+162 (108 DC + 54 DE) |
+
+Open electives (OE) |
+54 |
+
+SCHEME |
+54-58 |
+
+Total for 4-year BT/BS |
+414-420 |
+
+=== bs old ===
+Source: https://www.iitk.ac.in/math/bs-old
+Mathematics and scientific computing template for students upto y21
+
+1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th |
+
+MTH101AA [3 1 0 11] (IC) |
+MTH102AA [3 1 0 11] (IC) |
+MTH201A [3 1 0 11] (IC) |
+MTH204A [3 1 0 11] (IC) |
+MTH305A [3 1 0 11] (IC) |
+MTH308B [3 0 1 10] (PRF) |
+OE-3[09] (OE) |
+HSS-5 (LEVEL-2) [09](HS2) |
+
+PHY103AA [3 1 0 11] (IC) |
+PHY102AA [3 1 0 11] (IC) |
+MTH302A [3 1 0 11] (IC) |
+MTH301A [3 1 0 11] (IC) |
+MTH403A [3 1 0 11] (IC) |
+MTH421A [3 1 0 11] (PRF) |
+DE-2[09] (DE) |
+DE-3[09] (OE) |
+
+CHM101AA [0 0 0 3] (IC) |
+PHY101AA [0 0 3 3] (IC) |
+COM200 [1 0 2 5] (IC) |
+HSS-2 (LEVEL -1) [11](HS1) |
+ESO207A [3 0 3 12] (ESO/SO) |
+HSS-4 (LEVEL-2) [09](HS2) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs old]
+MTH424A [3 1 0 11] (PRF) |
+OE-4[09] (OE) |
+
+ESC101AA [3 1 3 14] (IC) |
+LIF101AA [2 0 0 6] (IC) |
+ESO[10] (ESO/SO) / SO-1[10] (ESO/SO) |
+MSO201A [3 1 0 11] (ESO/SO) |
+HSS-3 (LEVEL-2) [09](HS2) |
+OE-1[09] (OE) |
+MTH430A [3 0 1 10] (PRF) |
+OE-5[09] (OE) |
+
+HSS1(Level-1) [11](HS1) |
+CHM102AA [2 1 0 8] (IC) |
+ESC201A [3 1 3 14] (IC) |
+ESO[10] (ESO/SO) / SO-2[10] (ESO/SO) |
+DE-1[09] (DE) |
+OE-2[09] (OE) |
+UGP-3 (MTH393A) [09](UGP- 3) / DE[9] (DE) / |
+OE-6[09] (OE) |
+
+PE101AA [0 0 0 3] (IC) |
+PE102AA [0 0 0 3] (IC) |
+TA201A [1 0 3 6] (IC) |
+TA202A [1 0 3 6] (IC) |
+MTH399A [0 0 0 2] (IC) |
+UGP-2 (MTH392A) [09](UGP- 1) / DE[09] (DE) / |
+OE[9](OE) |
+UGP-4 (MTH394A) (EXTRA CREDIT)) [09](UGP- |
+
+TA101AA [2 0 3 9] (IC) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs old]
+UGP-1 (MTH391A) (EXTRA CREDIT) [04](UGP- |
+OE[09](OE) |
+1) |
+
+53.0 |
+51.0 |
+57.0 |
+60.0 |
+54.0 - 56.01) |
+57.0 - 58.0 |
+47.0 - 48.0 |
+45.0 - 54.0 |
+
+Minimum credit requirement for graduation:
+
+Institute Core (IC) : 124 Credits
+Department Compulsory (DC) : 110 Credits
+Department Elective (DE) : 27 Credits
+Open Elective (OE) : 54 Credits
+UGP-2/UGP-3?DE/OE : 18 Credits
+*ESO/SO : 40 Credits
+HSS (Level-I) : 22 Credits
+HSS (Level-II) : 27 Credits
+Total : 422 Credits
+
+Remarks:
+
+*MSO202A and MSO203B cannot be taken by MTH students to fulfill ESO/SO credits.
+
+UGP-2 and UGP-3 may be counted either as OE or DE credits.
+
+UGP-1 and UGP-4 are optional and does not count towards DE/OE credits.
+
+Objective Of The Program
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs old]
+To cultivate a mathematical attitude and nurture the interest,
+
+Structure Of The Programme
+
+Year I
+
+Semester I | Semester II |
+
+MTH101AA (Single Variable Calculus) |
+MTH102AA (Linear Algebra & Ordinary Differential Equations) ˆ PHY102AA (Physics I) |
+
+PHY103AA (Physics II) |
+PHY101AA (Physics Lab) |
+
+CHM101AA (Chemistry Lab) |
+LIF101AA (Introduction to Biology) |
+
+ESC101AA (Fundamentals of Computing) |
+CHM102AA (General Chemistry) |
+
+HSS1 (Humanities & Social Sciences (Level 1)) |
+PE102AA (Physical Education 2) |
+
+PE101AA (Physical Education 1) |
+TA101AA (Engineering Graphics) |
+
+Year II
+
+Semester III | Semester IV |
+
+MTH201A (Linear Algebra) |
+MTH204A (Algebra I) |
+
+MTH302A (Set Theory & Mathematical Logic) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs old]
+MTH301A (Analysis I) |
+
+COM200 (Communication Skills) |
+HSS-2 (Humanities & Social Sciences (Level 1)) |
+
+ESO/SO-1 |
+MSO201A (Probability and Statistics) |
+
+ESC201A (Introduction To Electronics) |
+ESO/SO-2 |
+
+TA201A (Manufacturing Processes I) |
+TA202A (Manufacturing Processes II) |
+
+Year III
+
+Semester V | Semester VI |
+
+MTH305A (Several Variable Calculus & Differential Geometry) ˆ MTH403A (Complex Analysis) |
+MTH308B (Numerical Analysis & Scientific Computing I) ˆ MTH421A (Ordinary Differential Equations) |
+
+ESO207A (Data Structure & Algorithms) |
+HSS-4 (Humanities & Social Sciences (Level 2)) ˆ OE-1 (Open Elective) |
+
+HSS-3 (Humanities & Social Sciences (Level 2)) |
+OE-2 (Open Elective) |
+
+DE-1 (Departmental Elective) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs old]
+UGP-2 (MTH392A) |
+
+MTH399A (Communication Skills) |
+OE (Open Elective) |
+
+UGP-1 (MTH391A) |
+
+Year IV
+
+Semester VII | Semester VIII |
+
+OE-3 (Open Elective) |
+HSS-5 (Humanities & Social Sciences (Level 2)) ˆ DE-3 (Departmental Elective) |
+
+DE-2 (Departmental Elective) |
+OE-4 (Open Elective) |
+
+MTH424A (Partial Differential Equations) |
+OE-5 (Open Elective) |
+
+MTH430A (Numerical Analysis & Scientific Computing II) ˆ UGP-3 (MTH393A) |
+OE-6 (Open Elective) |
+
+OE (Open Elective) |
+UGP-4 (MTH394A) |
+
+**PE: Physical Education; HSS: Humanities and Social Sciences; SO: Science Option; ESO: Engineering Science Option; UGP: UG Project; OE: Open Elective; DE: Department Elective
+
+=== bsh ===
+Source: https://www.iitk.ac.in/math/bsh
+1. Template for BSH (Mathematics and Scientific Computing) students from Y22 to Y24
+
+2. Template for BSH (Mathematics and Scientific Computing) students from Y25.
+
+=== bsh y22 ===
+Source: https://www.iitk.ac.in/math/bsh-y22
+Template for 3rd to 8th semester for BSH program in Mathematics and Scientific Computing
+
+Semester 3 |
+Semester 4 |
+Semester 5 |
+Semester 6 |
+Semester 7 |
+Semester 8 |
+
+SCHEME-2 EME (9-11) |
+SCHEME-3 HSS-I (9-11) |
+SCHEME-4 HSS-II (9) |
+MTH419 (11) |
+SCHEME-5 HSS-II (9) |
+SCHEME-6 HSS-II (9) |
+
+MTH201 (11) |
+ESC201 (14) |
+MTH421 (11) |
+MTH424 (11) |
+DE-4 (9) |
+UGP-2 (9) |
+
+MTH302 (11) |
+MTH204 (11) |
+MTH403 (11) |
+MTH430 (10) |
+OE-1 (9) |
+OE-4 (9) |
+
+E/SO-1: MSO205 (11) |
+MTH301 (11) |
+E/SO-2: ESO207 (12) |
+E/SO-3: ESO207 (12) |
+DE-2 (9) |
+OE-2 (9) |
+OE-5 (9) |
+
+E/SO-2 (9-11) |
+MTH437 (10) |
+54-56 |
+55-57 |
+49-51 |
+DE-1 (9) |
+DE-3 (9) |
+OE-3 (9) |
+OE-6 (9) |
+
+UGP-1 (9)
+
+DEH-1 (9)
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsh y22]
+DEH-2 (9)
+
+DEH-3 (9)
+
+51-55 |
+55-57 |
+52 |
+59 |
+63 |
+54 |
+
+‒ CPI criterion for BSH: 8.5
+Notes:
+
+A student may take additional UGP-3 of 09 credits against DE/OE (UGP will be counted as OE if taken outside the department as consented by the DUGC) requirements. A student can also take a 4th UGP that however will NOT be counted towards fulfilling the graduation requirements.
+
+For BSH, students need to do 27 additional credits of DEH by taking DEs from level 6/7 (Honours Course Basket).
+
+Existing Honors Course Basket
+
+Course ID - Title
+
+MTH 604A - Differential calculus on
+
+MTH 611A - Algebra II
+
+MTH 612A - Introduction to commutative algebra
+
+MTH 613A - Rings and modules
+
+MTH 614A - Introduction to Stochastic Calculus
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsh y22]
+MTH 621A - Fourier analysis
+
+MTH 624A - Differential manifolds and Lie groups
+
+MTH 628A - Topics in Topology
+
+MTH 631A - Approximation theory
+
+MTH 633A - An introduction to hyperbolic geometry
+
+MTH 635A - Introduction to operator theory
+
+MTH 640A - Several complex variables
+
+MTH 641A - Introduction to Lie algebra and representation theory
+
+MTH 642A - Model theory
+
+MTH 644A - Complex function theory
+
+MTH 648A - Differential geometry
+
+MTH 649A - Algebraic topology I
+
+MTH 655A - Parallel numerical methods
+
+MTH 656A - Sobolev spaces and applications
+
+MTH 657A - Graphs and matrices
+
+MTH 658A - Nonlinear dynamical systems
+
+MTH 662A - Chevalley groups and algebraic groups
+
+MTH 663A - Analytical techniques for PDEs
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsh y22]
+MTH 665A - Asymptotic statistics
+
+MTH 666A - Category theory
+
+MTH 667A - Introduction to algebraic geometry and algebraic groups
+
+MTH 668A - Analytic number theory
+
+MTH 669A - Ergodic theory and applications to metric number theory
+
+MTH 671A - Introduction to arithmetic geometry
+
+MTH 673A - Robust statistical methods
+
+MTH 675A - Geometry of differential forms
+
+MTH 676A - Econometrics
+
+MTH 678A - Techniques in combinatorics
+
+MTH 679A - Spatio-temporal models in mathematical biology
+
+MTH 681A - Statistical decision theory
+
+MTH 682A - Order statistics
+
+MTH 684A - Statistical simulation, data analysis & model building
+
+MTH 686A - Nonlinear regression
+
+MTH 688A - Topics in arithmetic
+
+MTH 689A - Linear and nonlinear models
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsh y22]
+MTH 690A - Probabilistic theory of pattern recognition
+
+MTH 695A - Empirical processes
+
+MTH 701A - Modal logic
+
+MTH 707A - Markov chain Monte Carlo
+
+MTH 712A - A first course in algebraic number theory
+
+MTH 713A - Differential topology
+
+MTH 716A - Introduction to geometric analysis
+
+MTH 717A - ANN/ML approach for differential equations
+
+MTH 719A - Introduction to homogenization
+
+MTH 720A - Numerical Solutions of Integral Equations
+
+MTH 721A - Computational mathematical finance
+
+MTH 722A - Introduction to homotopy theory
+
+MTH 731A - Introduction to Coxeter groups
+
+MTH 732A - Representation theory of finite groups
+
+MTH 734A - Banach algebras, C*-algebras and spectral theory
+
+MTH 759A - Algebraic topology II
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsh y22]
+MTH 761A - Vector bundles & characteristic classes
+
+MTH 770A - Numerical techniques for nonlinear dynamical systems
+
+MTH 781A - Statistical pattern recognition
+
+MTH 784A - Statistical reliability theory
+
+=== bsm ===
+Source: https://www.iitk.ac.in/math/bsm
+1. Template for BSM (Mathematics and Scientific Computing) students from Y22 to Y24
+
+2. Template for BSM (Mathematics and Scientific Computing) students from Y25
+
+=== bsm y22 ===
+Source: https://www.iitk.ac.in/math/bsm-y22
+Template for 3rd to 8th semester for BSM program in Mathematics and Scientific Computing |
+
+Semester 3 |
+Semester 4 |
+Semester 5 |
+Semester 6 |
+Semester 7 |
+Semester 8 |
+
+SCHEME-2 EME (9-11) |
+SCHEME-3 HSS-I (9-11) |
+SCHEME-4 HSS-II (9) |
+MTH419 (11) |
+SCHEME-5 HSS-II (9) |
+SCHEME-6 HSS-II (9) |
+
+MTH201 (11) |
+ESC201 (14) |
+MTH421 (11) |
+MTH424 (11) |
+OE-1 (9) |
+OE-3 (9) |
+
+MTH302 (11) |
+MTH204 (11) |
+MTH403 (11) |
+MTH430 (10) |
+OE-2 (9) |
+MTB-4 (9) |
+
+E/SO-1: MSO205 (11) |
+MTH301 (11) |
+E/SO-2: ESO207 (12) |
+E/SO-3: ESO207 (12) |
+DE-2 (9) |
+MTB-1 (9) |
+MTB-5 (9) |
+
+E/SO-2 (9-11) |
+MTH437 (10) |
+54-56 |
+55-57 |
+DE-1 (9) |
+DE-3 (9) |
+MTB-2 (9) |
+MTB-6 (9) |
+
+MTB-3 (9) |
+
+51-55 |
+55-57 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bsm y22]
+52 |
+50 |
+54 |
+45 |
+
+Note:
+
+Students need to do 6 courses from the management track basket (MTB), instead of 3 DE and 3 OE courses required for usual BS Mathematics and Scientific computing program.
+
+=== contact us ===
+Source: https://www.iitk.ac.in/math/contact-us
+Department of Mathematics
+
+Kanpur - 208 016
+
+Phone : (91-512) 259 7500
+
+Email: head_math[AT]iitk.ac.in
+
+General Query
+
+Prof. Akash Anand  (Head of The Department)
+head_math[AT]iitk.ac.in
+0512-259-7500 (O)
++91-512-2597500
+Personal Homepage
+
+DPGC
+
+Arijit Ganguly (Convener)
+dpgc_math[AT]iitk.ac.in
+0512-259 4769 (O)
+FB 581 (Faculty Building)
+Personal Homepage
+
+DUGC
+
+Somnath Jha (Convener)
+dugc_math[AT]iitk.ac.in
+0512-259 6916 (O)
+FB 561 (Faculty Building)
+Personal Homepage
+
+DSAC
+
+Preena Samuel (Convener)
+dsac_math[AT]iitk.ac.in
+0512-259 6917 (O)
+FB 554 (Faculty Building)
+Personal Homepage
+
+Website Query
+
+Uday Kumar Gupta
+ukgupta[AT]iitk.ac.in
+0512-259-7399 (O)
+FB 569 (Faculty Building)
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > contact us]
+Admission Query
+
+Madhuri Naik
+admission_math[AT]iitk.ac.in
+0512-259-7456 (O)
+FB 569 (Faculty Building)
+
+=== dm new ===
+Source: https://www.iitk.ac.in/math/dm-new
+Template for double major: second major in Mathematics and Scientific Computing
+
+Double Major |
+
+Odd Semester |
+Even Semester |
+
+Pre-Requisites |
+
+ESO 207 (12) |
+MSO201 (11) or MSO 205 (11) – Introduction to Probability Theory (Odd Semester) |
+
+Mandatory MTH Courses |
+
+MTH201 (11) |
+MTH204 (11) |
+
+MTH302 (11) |
+MTH301 (11) |
+
+MTH305 (11) |
+MTH308 (10) |
+
+MTH403 (11) |
+MTH421 (11) |
+
+MTH424 (11) |
+MTH430 (10) |
+
+55 |
+53 |
+
+=== dm old ===
+Source: https://www.iitk.ac.in/math/dm-old
+Minimum credit requrement in ms part for gradution:
+
+PG Component : 90 Credits
+
+DOUBLE MAJOR |
+Template No. BS-MTH-4 |
+
+Odd Semester |
+Even Semester |
+
+Pre-Requisites |
+
+C |
+ESO207A [11] |
+MSO201A [11] |
+
+O |
+
+U |
+Mandatory MTH Courses |
+
+R |
+MTH201A [11] |
+MTH204A [11] |
+
+S |
+MTH302A [11] |
+MTH301A [11] |
+
+E |
+MTH305A [11] |
+MTH SCI COMP-1 [10] |
+
+S |
+MTH403A [11] |
+MTH421A [11] |
+
+MTH424A [11] |
+
+MTH SCI COMP-2 [10] |
+
+65 |
+43 |
+
+Remarks:
+
+Department may restrict the number of students in this program to at most 5 students.
+
+=== evolution of academic programs ===
+Source: https://www.iitk.ac.in/math/evolution-of-academic-programs
+The PhD program
+
+Since its inception, the department set an agenda for excellence in teaching with a strong research component. Thus the doctoral programme got started right in the beginning in 1960-61. In the first convocation of the institute held in 1965, out of a total of five PhD degrees awarded, three were in Mathematics. The agenda for strong research was set with introduction of graduate level courses and comprehensive examination. The PhD students of the department constitute a vibrant academic community. They have their own weekly seminars during the regular semesters, where by turn, they present their work. In addition to their own research work, they actively participate in teaching through conducting tutorials and assistance in courses having large number of registrations.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > evolution of academic programs]
+The two-year Master’s program in Mathematics
+
+By 1965, the faculty size had become reasonably large and the department was in a position to start an additional independent program. Thus a two-year Master's program in Mathematics was started in 1965 to provide quality training after B.Sc. This program had flexibility in course structure and was envisaged to produce students who were well-trained and motivated for research. This also provided an input to the PhD program of the department. From the academic session 2004-2005, admissions to this and similar programs in other IIT's are made through an all India Joint Admission Test, called Joint Admission Test for M.Sc.'s (JAM).
+
+The two-year Master’s program in Statistics
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > evolution of academic programs]
+By 1970, some faculty members in the area of Statistics had also joined. In order to strengthen the PhD program and to utilize the available faculty in Statistics, the department started a two year M.Sc. (Statistics) program in July 1971. Students in this program also get admission through JAM.
+
+The M.Sc. (Integrated) programs in Mathematics and Statistics (Discontinued)
+
+In 1971, the institute took an initiative to start 5-year M. Sc. integrated programs in sciences, where the intake was through Joint Entrance Examination (JEE) and National Talent Search (NTS). Thus, in the academic year 1971-72, the department started M. Sc. (Integrated) programs in Mathematics as well as in Statistics. While some very good students (including NTS scholars) joined these programs, the number of students opting for these programs remained small. These programs produced some very motivated students for research, who are now well-placed in various research and teaching institutes.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > evolution of academic programs]
+The five-year M.Sc.(Integrated) program in Mathematics and Scientific Computing (Discontinued)
+
+In the early 1990s, scientific computing was recognized as a new thrust area in many mathematics departments across the world. In order to keep pace with the new developments and also to better utilize its expertise, the department replaced the existing M.Sc. (Integrated) program in Mathematics and Statistics with a single 5-year M.Sc (Integrated) program in Mathematics and Scientific Computing. This new program started from the academic year 1995-96, and attracted very good students. Two students of this program were awarded the President's Gold Medal (PGM) for the best academic performance in the graduating class amongst all disciplines of B. Tech. and M.Sc. (5-year Integrated) degree programs of the institute.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > evolution of academic programs]
+From 2011, the five-year M.Sc. (Integrated) program in Mathematics & Scientific Computing was discontinued, and a new four-year BS program in Mathematics & Scientific Computing was started. This BS program is completely credit based and students have the option (subject to fulfilling certain eligibility criteria) to also earn an MS degree along with the BS degree by spending one extra year.
+
+The field of Statistics has undergone a paradigm shift in the last few decades. Theoretical and mathematical properties of data are not studied in isolation, but in conjunction with practical considerations of real-world implementations. Recognising this, a BS and BS-MS program in Statistics & Data Science was started by the department from the academic year 2021-22. More information on the program proposal can be found here.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > evolution of academic programs]
+In the news: Times of India, Hindustan Times, Indian Express.
+
+=== gian ===
+Source: https://www.iitk.ac.in/math/gian
+Objectives and Guidelines.
+
+Union Cabinet has approved a programme titled Global Initiative for Academic Networks (GIAN) in Higher Education aimed at tapping the talent pool of scientists and entrepreneurs internationally to encourage their engagement with the institutes of Higher Education in India so as to augment the country's existing academic resources, accelerate the pace of quality reform, and elevate India's scientific and technological capacity to global excellence. GIAN is envisaged to catalyse higher education institutions in the country, and that it will initially include all IITs, IIMs, Central Universities, IISc Bangalore, IISERs, NITs and IIITs subsequently cover good State Universities where the spinoff is vast. GIAN is an evolving scheme which will initially include participation of foreign faculty in Institutes as Distinguished / Adjunct / Visiting faculty / Professors of Practice, etc., to participate in delivering Short or Semester-long Courses. Other activities will be included in due course.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > gian]
+Details of Approved Courses from Department of Mathematics, IIT Kanpur
+
+Mathematical Foundations of Cardiac Electro Physiology
+Foreign Faculty: Luca Pavarino, Dipartmento di Mathematica, Universita di Pavia, Italy
+Host Faculty: Prof. B.V. Rathish Kumar
+Dates: 19th March 2018 to 24th March 2018
+Brochure: Mathematical Foundations of Cardiac Electro Physiology
+
+Advanced Techniques and Methodologies of Big Data in Science and Engineering
+Foreign Faculty: Tapabrata Maiti, Professor and Graduate Director in the Department of Statistics & Probability and the Co-director for the Center for Business and Social Analytics at Eli Broad College of Business at Michigan State University, USA United States of America
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > gian]
+Host Faculty: Prof. Subhra Sankar Dhar
+Dates: 3rd February 2018 to 7th February 2018
+Video
+Brochure:  Advanced Techniques and Methodologies of Big Data in Science and Engineering
+
+Control of Fluids: Theory & Computation
+Foreign Faculty: Dr. Jean Pierre Raymond, France
+Host Faculty: Prof. B.V. Rathish Kumar
+Dates: 22nd January 2018 to 27th January 2018
+Brochure: Control of Fluids: Theory & Computation
+
+Differential Geometry and PDEs
+Foreign Faculty: Luca Vitagliano, UNIVERSITA DEGLI STUDI DI SALERNO Italy
+Host Faculty: Prof. Ashis Mandal
+Dates: 4th December 2017 to 8th December 2017
+Brochure: Differential Geometry and PDEs
+
+Deformation Theory of algebraic structures and Twisted algebraic structures
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > gian]
+Foreign Faculty: Abdenacer Makhlouf, Universite de Haute Alsace France
+Host Faculty: Dr. Ashis Mandal
+Dates: 23rd October 2017 to 3rd November 2017
+Brochure: Deformation Theory of algebraic structures and Twisted algebraic structures
+
+Variational Multiscale Finite Element Methods in Computational Fluid Dynamics (VMS-FEM in CFD)
+Foreign Faculty: Prof. Ramon Codina, Universitat Politecnica de Catalunya (UPC), Spain
+Host Faculty: Prof. B. V. Rathish Kumar
+Dates: 4th May 2016 to 14th May 2016
+Brochure: Variational Multiscale Finite Element Method in Computational Fluid Dynamics
+
+=== how to reach iitk ===
+Source: https://www.iitk.ac.in/math/how-to-reach-iitk
+How to Reach IIT Kanpur
+
+A.) Arrival by air:
+
+Chaudhary Charan Singh International Airport (LKO), Lucknow is the nearest international airport and located about 90 Km. from IIT Kanpur. It has direct flight connection to all major cities of India. Upon arrival, You can hire prepaid taxis at the airport (Ola outstation is also available). The typical cost will be around Rs.2500 for sedan-type taxis (around Rs. 1600 for Ola outstation). It takes about two and a half hours to drive from the Lucknow airport to the IITK campus.
+
+Kanpur also has an airport (KNU) with limited flights. Kanpur airport is about 25 km from IIT Kanpur, and it takes about 1 hour to reach campus. The charges are about Rs. 1200-1500. Ola/Uber cab service is also available in Kanpur.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > how to reach iitk]
+Delhi is the adjoining major airport (DEL) which has flights to all Indian cities along with important foreign destinations. Delhi airport is located about 450 km from the city of Kanpur. Flights from Delhi to Kanpur are also available. There is also frequent train connection between Delhi and Kanpur.
+
+B.) Arrival by train:
+
+Kanpur Central Railway station (CNB) is one of the busiest railway stations in the country. It is located on the Delhi-Kolkata train route and all major trains between these cities usually pass through and stop at Kanpur. One can easily get regular trains to Kanpur from other major cities of the country.
+
+IIT Kanpur is located about 16 km from the Kanpur Central Railway Station.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > how to reach iitk]
+It is possible to either take the Kanpur Metro (fare: ₹40 per person), which takes approximately 25 minutes to travel from Kanpur Central to IIT Kanpur, or hire a taxi (about ₹500) or an auto rickshaw (about ₹250) to reach the IITK campus from the station. By road, the journey from Kanpur Central Railway Station to IIT Kanpur takes about 40 minutes.
+
+Details of taxi services and Kanpur Metro are provided below.
+
+Taxi operator:
+
+There are some taxi operators who provide services on the approved rate of IIT Kanpur. One can contact the department office for further assistance.
+The rates are as follows:
+
+Lucknow airport to IIT Kanpur (sedan type cars): Rs. 2500 (including toll tax and parking).
+
+Kanpur railway station to IIT Kanpur: Rs. 650 (including parking)
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > how to reach iitk]
+Ola/ Uber-type taxi operators are available in Kanpur.
+
+Kanpur Metro:
+
+Metro services by Uttar Pradesh Metro Rail Corporation Limited (UPMRC) are operational between Kanpur Central and IIT Kanpur from 06:00 AM to 10:00 PM (IST) daily.
+
+Frequency: Every 15 minutes from Kanpur Central Metro (Underground) Station
+
+Location: The station is situated at the Entry/Exit point of Platform No. 9, Kanpur Central Railway Station
+
+For further details, kindly visit the UPMRC Official Site
+
+Arrival in IIT Kanpur campus:
+
+One should reach the main gate’ of IIT Kanpur. At the entrance to the campus, you need to stop at the security checkpoint, which is managed by campus security. Let them know that you are here to visit Department of Mathematics, and they will allow you. Department of Mathematics is located on the 5th floor of the Faculty Building. It is about 1.5 Km from the main entrance gate of IIT Kanpur.
+
+=== bs ms template sds y21 ===
+Source: https://www.iitk.ac.in/math/index.php/bs-ms-template-sds-y21
+BS-MS PG (Part – Category A) (from the same department) |
+
+COURSES |
+
+IX Semester |
+X Semester |
+
+MS Project – (PGP 1, PGP 2) |
+6-0-0-0 |
+18 |
+MS Project – (PGP 3, PGP 4) |
+6-0-0-0 |
+18 |
+
+DE PG - I |
+3-0-0-0 |
+09 |
+DE PG-II |
+3-0-0-0 |
+09 |
+
+OE PG - I |
+3-0-0-0 |
+09 |
+OE PG-III |
+3-0-0-0 |
+09 |
+
+OE PG - II |
+3-0-0-0 |
+09 |
+OE PG - IV |
+3-0-0-0 |
+09 |
+
+Total |
+45 |
+45 |
+
+Minimum credit requirement in MS part for graduation
+
+Bracket |
+Credits |
+
+PG Component |
+90 |
+
+Total |
+90 |
+
+Note: A maximum of 36 OE credits may be waived from the department under graduation requirement to be used for the PG requirement of dual degree students.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms template sds y21]
+BS-MS PG (Part – Category B) (from other departments) |
+
+UG Pre-Requisites |
+
+Odd Semester |
+Even Semester |
+
+MTH 301A |
+3-1-0-0 |
+11 |
+MTH 211A |
+3-1-0-0 |
+11 |
+
+MTH 210A |
+3-0-1-0 |
+10 |
+
+MTH 207A |
+3-1-0-0 |
+06 |
+MTH 212A |
+3-1-0-0 |
+06 |
+
+MTH 442A |
+3-0-1-0 |
+10 |
+MTH 422A |
+3-0-1-0 |
+10 |
+
+MTH 441A |
+3-0-1-0 |
+10 |
+MTH 314A |
+3-0-1-0 |
+10 |
+
+MTH 443A |
+3-0-1-0 |
+10 |
+MTH 209A |
+1-0-2-0 |
+05 |
+
+MTH 208A |
+0-0-3-2 |
+05 |
+MTH 312A |
+1-0-2-0 |
+05 |
+
+Total |
+52 |
+57 |
+
+PG Requirement |
+
+Odd Semester |
+Even Semester |
+
+MS Project – (PGP 1, PGP 2) |
+6-0-0-0 |
+18 |
+MS Project – (PGP 3, PGP 4) |
+6-0-0-0 |
+18 |
+
+DE PG - I |
+3-0-0-0 |
+09 |
+DE PG-II |
+3-0-0-0 |
+09 |
+
+OE PG - I |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms template sds y21]
+3-0-0-0 |
+09 |
+OE PG-III |
+3-0-0-0 |
+09 |
+
+OE PG - II |
+3-0-0-0 |
+09 |
+OE PG - IV |
+3-0-0-0 |
+09 |
+
+Total |
+45 |
+45 |
+
+Note: A maximum of 36 OE credits may be waived from the parent department graduation requirement to be used for the PG requirement of dual degree students.
+
+=== bs ms template sds y22 ===
+Source: https://www.iitk.ac.in/math/index.php/bs-ms-template-sds-y22
+BS-MS PG Part – Category A (from the same program)
+
+COURSES |
+
+IX Semester |
+X Semester |
+
+MS Project – (PGP 1, PGP 2) |
+18 |
+MS Project - (PGP 3, PGP 4) |
+18 |
+
+DE PG - I |
+09 |
+DE PG-II |
+09 |
+
+OE PG - I |
+09 |
+OE PG-III |
+09 |
+
+OE PG - II |
+09 |
+OE PG - IV |
+09 |
+
+Total |
+45 |
+45 |
+
+Component |
+Credits |
+
+PG |
+90 |
+
+Total |
+90 |
+
+UG Pre-Requisites |
+
+Odd Semester |
+Even Semester |
+
+MTH 301 – Analysis I |
+11 |
+MTH 211 – Theory of Statistics |
+11 |
+
+MTH 210 – Statistical Computing |
+10 |
+
+MTH 207 – (Modular) Matrix Theory II |
+06 |
+MTH 212M – (Modular)Elementary Stochastic Processes-I |
+06 |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs ms template sds y22]
+MTH 441- Time Series Analysis |
+10 |
+MTH 422-Bayesian Analysis |
+10 |
+
+MTH 441 – Linear Regression and ANOVA |
+10 |
+MTH 314 – Multivariate Analysis |
+10 |
+
+MTH 208 - Data Science Lab I |
+05 |
+MTH 443 - Statistical & AI Techniques in Data Mining |
+10 |
+
+MTH 209 – Data Science Lab II |
+05 |
+
+MTH 312 – Data Science Lab III |
+05 |
+
+Total |
+42 |
+67 |
+
+PG Requirement |
+
+Odd Semester |
+Even Semester |
+
+MS Project – (PGP 1, PGP 2) |
+18 |
+MS Project - (PGP 3, PGP 4) |
+18 |
+
+DE PG - I |
+09 |
+DE PG-II |
+09 |
+
+OE PG - I |
+09 |
+OE PG-III |
+09 |
+
+OE PG - II |
+09 |
+OE PG - IV |
+09 |
+
+Total |
+45 |
+45 |
+
+=== bs template sds y21 ===
+Source: https://www.iitk.ac.in/math/index.php/bs-template-sds-y21
+I Semester |
+II Semester |
+
+IC: MTH 101A
+Mathematics I |
+3-1-0-0 |
+11 |
+IC: MTH 102A
+Mathematics II |
+3-1-0-0 |
+11 |
+
+IC: PHY 103A
+Physics II |
+3-1-0-0 |
+11 |
+IC: PHY 102A
+Physics I |
+3-1-0-0 |
+11 |
+
+IC: CHM 101A
+Chemistry Laboratory |
+0-0-3-0 |
+03 |
+IC: PHY 101A
+Physics Laboratory |
+0-0-3-0 |
+03 |
+
+IC: ESC 101A
+Fundamental of Computing |
+3-1-3-0 |
+14 |
+IC: LIF 101A
+Introduction to Biology |
+2-0-0-0 |
+06 |
+
+HSS: ENG 112A/HSS-1 (Level-1) |
+3-1-0-0 |
+11 |
+IC: CHM 102A
+General Chemistry |
+2-1-0-0 |
+08 |
+
+IC:PE 101A
+Morning Exercise |
+0-0-3-0 |
+03 |
+IC: PE 102A
+Evening Exercise |
+0-0-3-0 |
+03 |
+
+IC: TA 101A
+Engineering Graphics |
+2-0-3-0 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y21]
+09 |
+
+Total |
+53 |
+Total |
+51 |
+
+III Semester |
+IV Semester |
+
+DC: MTH 301A
+Analysis I |
+3-1-0-0 |
+11 |
+DC: MTH 211A
+Theory of Statistics |
+3-1-0-0 |
+11 |
+
+ESO/SO-1: MSO 205A
+Introduction to Probability Theory |
+3-1-0-0 |
+11 |
+DC: MTH 210A
+Statistical Computing |
+3-0-1-0 |
+10 |
+
+ESO/SO-2: MSO 202A
+Introduction to Complex Analysis
+(Modular I) |
+3-1-0-0 |
+06 |
+DC: MTH 212A Elementary Stochastic Processes I
+(Modular I) |
+3-1-0-0 |
+06 |
+
+DC: MTH 207A
+Matrix Theory and Linear Estimation (Modular II) |
+3-1-0-0 |
+06 |
+DC: MTH 209A
+Data Science Lab 2 |
+1-0-2-0 |
+05 |
+
+DC: MTH 208A
+Data Science Lab 1 |
+0-0-3-2 |
+05 |
+HSS: HSS-2 (Level-1) |
+3-1-0-0 |
+11 |
+
+IC: ESC 201A
+Introduction to Electronics |
+3-1-3-0 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y21]
+14 |
+IC: TA 202A
+Manufacturing Process II |
+1-0-3-0 |
+06 |
+
+IC: TA 201A
+Manufacturing Process I |
+1-0-3-0 |
+06 |
+ESO/SO-3: |
+3-0-0-0 |
+09 |
+
+Total |
+59 |
+Total |
+58 |
+
+V Semester |
+VI Semester |
+
+DC: MTH 442A
+Time Series Analysis |
+3-0-1-0 |
+10 |
+DC: MTH 422A
+Bayesian Analysis |
+3-0-1-0 |
+10 |
+
+DC: MTH 441A
+Linear Regression and ANOVA |
+3-0-1-0 |
+10 |
+DC: MTH 314A
+Multivariate Analysis |
+3-0-1-0 |
+10 |
+
+DC: MTH 399A
+Communication Skills |
+0-0-2-0 |
+02 |
+DC: MTH 312A
+Data Science Lab 3 |
+1-0-2-0 |
+05 |
+
+ESO/SO-4: ESO 207A
+Data Structures and Algorithms |
+3-0-3-0 |
+12 |
+ESO/SO-5: |
+3-0-0-0 |
+09 |
+
+IC: Com 200
+Communication Skills: Composition |
+1-1-0-0 |
+05 |
+HSS: HSS-4 (Level-2) |
+3-0-0-0 |
+09 |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y21]
+HSS: HSS-3 (Level-2) |
+3-0-0-0 |
+09 |
+OE-2/UGP - 2 |
+0-0-9-0 |
+09 |
+
+OE-1: |
+3-0-0-0 |
+09 |
+
+UGP -1 (Extra Credit) |
+0-0-4-0 |
+04 |
+
+Total |
+57/61 |
+Total |
+52 |
+
+VII Semester |
+VIII Semester |
+
+DC: MTH 443A
+Statistical and AI Techniques in Data Mining |
+3-0-1-0 |
+10 |
+DE – 3 |
+09 |
+
+DE - 1 |
+09 |
+DE – 4 |
+09 |
+
+DE - 2 |
+09 |
+OE – 6 |
+09 |
+
+OE – 3/UGP-3 |
+09 |
+OE – 7 |
+09 |
+
+OE – 4 |
+09 |
+HSS: HSS-5 (Level-2) |
+09 |
+
+OE - 5 |
+09 |
+UGP4 (Extra Credit) |
+09 |
+
+Total |
+55 |
+Total |
+45/54 |
+
+Minimum credit requirement for graduation
+
+Bracket |
+Credits |
+Percentage |
+
+Institute Core (IC) |
+124 |
+28.8 |
+
+Department Compulsory (DC) |
+111 |
+25.8 |
+
+Department Elective (DE) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y21]
+36 |
+8.4 |
+
+Open elective / UGP (OE / UGP) |
+63 |
+14.7 |
+
+ESO/SO |
+47 |
+10.9 |
+
+HSS |
+49 |
+11.4 |
+
+Total |
+430 |
+
+**Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses MTH321 Internship I, MTH322 Internship II, MTH323 Internship III, MTH324 Internship IV, MTH325 Internship V, of 9 credits each. One would have an option to earn 45 credits of OE through internship courses by spending a full semester in an industry or may do online internships (under one or more OEs) from industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and identifies a supervisor in the MTH department. The student, in consultation with the host industry/organization, submits a proposal to the department undergraduate committee (DUGC) with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval and requisite number of credits (in multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+
+=== bs template sds y22 ===
+Source: https://www.iitk.ac.in/math/index.php/bs-template-sds-y22
+Semester 3 |
+Semester 4 |
+Semester 5 |
+Semester 6 |
+Semester 7 |
+Semester 8 |
+
+SCHEME-2 HSS-I (9-11) |
+SCHEME-3 EME (9-11) |
+MTH 442 (10) |
+SCHEME-4 HSS-II (9) |
+SCHEME-5
+HSS-II (9) |
+SCHEME-6
+HSS-II (9) |
+
+ESC201 (14) |
+MTH 211 (11) |
+MTH 441 (10) |
+MTH 422 (10) |
+DE – 1 (09) |
+DE – 4 (09) |
+
+MTH301 (11) |
+MTH 210 (10) |
+ESO/SO-3: ESO 207 (12) |
+MTH 314 (10) |
+DE – 2 (09) |
+DE – 5 (09) |
+
+ESO/SO-1: MSO 205 (11) |
+MTH 212M (1st half) (06) |
+ESO/SO-4: MSO 202M (1st half) (06) |
+MTH 312 (05) |
+DE – 3 (09) |
+OE-5 (09) |
+
+MTH 207M - (2nd half) (06) |
+MTH 209 (05) |
+MTH 443 (10) |
+OE – 3 (09) |
+OE – 6 (09) |
+
+MTH 208 (05) |
+ESO/SO-2 (09) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y22]
+OE-1 (09) |
+OE-2 (09) |
+OE – 4 (09) |
+
+56-58 |
+50-52 |
+47 |
+53 |
+54 |
+45 |
+
+Note: UGPs are NOT mandatory. However, depending on the consent of supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE/OE (UGP will be counted as OE if taken outside the department as consented by the DUGC) requirements. A student can also take a 4th UGP, that however will NOT be counted towards fulfilling the graduation requirements
+
+List of Courses |
+
+Course No.: |
+Title |
+
+MTH442 (3-0-1-0)[10] |
+Time Series Analysis |
+
+MTH211 (3-1-0-0)[11] |
+Theory of Statistics |
+
+MTH441 (3-0-1-0)[10] |
+Linear Regression and ANOVA |
+
+MTH422 (3-0-1-0)[10] |
+Introduction to Bayesian Analysis |
+
+MTH301 (3-1-0-0)[11] |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y22]
+Analysis – I |
+
+MTH 210 (3-0-1-0)[10] |
+Statistical Computing |
+
+ESO/SO-3: ESO 207 |
+Data Structures and Algorithms |
+
+MTH 314 (3-0-1-0)[10] |
+Multivariate Analysis |
+
+ESO/SO-1: MSO 205 (3-1-0-0)[11] |
+Introduction to Probability Theory |
+
+MTH 212M (1st half) (3-1-0-0)[06] |
+Elementary Stochastic Processes I |
+
+ESO/SO-4: MSO 202M (1st half) (3-1-0-0)[06] |
+Complex Analysis |
+
+MTH 312 (1-0-2-0)[05] |
+Data Science Lab 3 |
+
+MTH 207M - (2nd half) (3-1-0-0)[06] |
+Matrix Algebra and Linear Estimation |
+
+MTH 209 (1-0-2-0)[05] |
+Data Science Lab 2 |
+
+MTH 443 (3-0-1-0)[10] |
+Statistical & AI Techniques in Data Mining |
+
+MTH 208 (0-0-3-2)[05] |
+Data Science Lab 1 |
+
+Note: The department recommends PHY104 & PHY105 for the SDS students.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y22]
+Note: (As per the Senate approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses MTH321A Internship I, MTH322A Internship II, MTH323A Internship III, MTH324A Internship IV, MTH325A Internship V, of 9 credits each. One would have an option to earn 45 credits of OE through internship courses by spending a full semester in an industry or may do online internships (under one or more OEs) from industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and identifies a supervisor in the MTH department. The student, in consultation with the host industry/organization submits a proposal to the Department Undergraduate Committee (DUGC) with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval and requisite number of credits (in multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > bs template sds y22]
+Note: Guidelines for internships are available in this page.
+
+Credit table for BS program in Statistics and Data Science |
+
+Course type |
+Credits in the department template |
+
+Institute Core (IC) |
+112 |
+
+E/SO |
+38 |
+
+Department requirements |
+154 (109 DC + 45 DE) |
+
+Open electives (OE) |
+54 |
+
+SCHEME |
+54-58 |
+
+Total for 4-year BT/BS |
+412-416 |
+
+=== double major template sds y21 ===
+Source: https://www.iitk.ac.in/math/index.php/double-major-template-sds-y21
+Double Major |
+
+Odd Semester |
+Even Semester |
+
+Pre-Requisites |
+
+MSO 205A or HSO 201A or CS 203A |
+3-1-0-0 |
+11 |
+
+MSO 202A or MTH403A |
+06 |
+
+ESO 207A |
+3-0-3-0 |
+12 |
+
+Mandatory MTH Courses |
+
+MTH 301A |
+3-1-0-0 |
+11 |
+MTH 211A |
+3-1-0-0 |
+11 |
+
+MTH 207A |
+3-1-0-0 |
+06 |
+MTH 210A |
+3-0-1-0 |
+10 |
+
+MTH 442A |
+3-0-1-0 |
+10 |
+MTH 212A |
+3-1-0-0 |
+06 |
+
+MTH 441A |
+3-0-1-0 |
+10 |
+MTH 422A |
+3-0-1-0 |
+10 |
+
+MTH 443A |
+3-0-1-0 |
+10 |
+MTH 314A |
+3-0-1-0 |
+10 |
+
+MTH 208A |
+0-0-3-2 |
+05 |
+MTH 209A |
+1-0-2-0 |
+05 |
+
+MTH 312A |
+1-0-2-0 |
+05 |
+
+Total |
+52 |
+57 |
+
+Note: A maximum of 36 OE credits may be waived from the parent department graduation requirement to be used for the second major requirement of double major students.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > double major template sds y21]
+Note: “Mathematics and Scientific Computing” and “Statistics and Data Science” students cannot take department compulsory (DC) courses of the other program as department electives (DE). That is, “Mathematics and Scientific Computing” students cannot take “Statistics and Data Science” DC courses as DE; and vice-versa.
+
+=== double major template sds y22 ===
+Source: https://www.iitk.ac.in/math/index.php/double-major-template-sds-y22
+Double Major |
+
+Odd Semester |
+Even Semester |
+
+Pre-Requisites |
+
+MSO 205 – Introduction to Probability Theory  or MSO 201 or HSO 201 or CS 203 |
+11 |
+
+MSO 202 or MTH403 |
+06 |
+
+ESO 207 |
+12 |
+
+Mandatory MTH Courses |
+
+MTH 301 Analysis I |
+11 |
+MTH 211 – Theory of Statistics |
+11 |
+
+MTH 207M – (Modular) Matrix Theory-II |
+06 |
+MTH 210 – Statistical Computing |
+10 |
+
+MTH 442 - Time Series Analysis |
+10 |
+MTH 212M – (Modular) Elementary Stochastic Processes-I |
+06 |
+
+MTH 441 – Linear Regression and ANOVA |
+10 |
+MTH 422-Bayesian Analysis |
+10 |
+
+MTH 314 - Multivariate Analysis |
+10 |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > double major template sds y22]
+10 |
+
+MTH 208 - Data Science Lab I |
+05 |
+MTH 209 – Data Science Lab II |
+05 |
+
+MTH 312 – Data Science Lab III |
+05 |
+
+Total |
+42 |
+67 |
+
+=== howtoreach ===
+Source: https://www.iitk.ac.in/math/index.php/howtoreach
+Kanpur Weather (from BBC)
+
+See this link for Kanpur Weather.
+
+Travelling to and from Kanpur
+
+Travelling by air
+
+International Travel and Transit Assistance from Delhi | Domestic Travel
+
+Air Travel from Delhi
+
+Air Travel from Mumbai
+
+Air Travel from other major Indian cities
+
+Travelling by train
+
+From Delhi
+
+From Kolkata and Kharagpur
+
+International Travel
+
+The Indira Gandhi International Airport at Delhi is a convenient point of entry for arriving at Kanpur. The IGI airport at Delhi is served by most major airlines. The international terminal at the IGI airport is called Terminal 2.
+
+Domestic air travel
+
+Kanpur is mostly served by the airport of the city of Lucknow that is about 1 hour and 45 minutes drive from IIT Kanpur. There are currently four airlines that serve the Lucknow airport with several direct flights to Delhi and Mumbai everyday. There is also a local airport in Kanpur that is about an hour's driving distance from IIT Kanpur. Ocassionally, Air India  flies to and from Delhi direct to Kanpur airport. So, do check this option as well, while planning your trip. Other airline operators that also have flights to Lucknow from various destinations are:
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+GoAir
+
+Indigo
+
+Jet Airways
+
+Vistara
+
+Air Travel from Delhi
+
+Note that domestic flights mostly operate out of Terminal 1 of the Indira Gandhi International Airport in Delhi. Terminals 1 and 2 are at a distance of about 5 miles from each other. There are courtesy shuttle buses that run between the two terminals at a frequency of approximately one per hour. Please contact the airline help desk across from the baggage claim area to avail of this facility. Terminal 1 is divided into several buildings, named Terminals 1A through 1D. Please refer to the IGI airport website to find out which airlines operate out of which terminals.
+
+Air Travel from Mumbai
+
+There are a few direct flights from Mumbai to Lucknow. Another possibility is to take one of the many flights between Mumbai and Delhi and then connect to a Delhi-Lucknow or Delhi-Kanpur flight.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Coming to Kanpur from Chennai, Bangalore, Kolkata, Hyderabad
+
+If you are planning to come from one of the Indian metros or state capitals, you can take a flight from that city to either Delhi or Mumbai and then connect to one of the flights to Lucknow.
+
+Domestic Train Travel
+
+Train service in India is provided by the Indian Railways and is the most popular form of public transportation. Passenger service in the Indian Railways is divided into several classes, namely, Air Conditioned I (First) class, Air Conditioned II (Two Tier) class, Air Conditioned III (3-tier) class, Air Conditioned Chair Car and Sleeper Class. The Rajdhani and the Shatabdi family of trains are widely regarded as the best trains in India. Train reservations can be made at one of the many Railway reservation counters all over India or over the internet using the Indian Railways e-ticket facility. See the Indian Railways website for further details. For those inexperienced in travelling by the Indian Railways, it is recommended that they travel by one of Air Conditioned I, Air Conditioned II or the Air-Conditioned Chair Car (for Shatabdi trains) classes.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Travelling to and from New Delhi
+Travelling to and from New Delhi
+
+There are over twenty trains connecting New Delhi with Kanpur. A few of the convenient trains are listed below. The city of Delhi has several railway stations. The trains listed below originate from the New Delhi Railway Station (code NDLS). The New Delhi railway station is about 10-12 miles from either of the airports. Depending upon the traffic, it may take from 45 minutes to an hour and a half to get from the airport to the railway station. It is suggested that passengers connecting from a flight to a train take this into consideration. The main train station at Kanpur is called the Kanpur Central railway station (code CNB).
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Train Number | Train Name | Origin | Dep. Time | Destination | Arr. Time | Travel Time | Days of Run | Classes |
+
+M | T | W | T | F | S | S |
+
+18110 |
+JAT MURI ROU EXP |
+SZM |
+04:10 |
+CNB |
+12:40 |
+08:30 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12312 |
+KALKA MAIL |
+ANDI |
+05:11 |
+CNB |
+14:20 |
+09:09 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12004 |
+LJN SWRAN SHTBD |
+NDLS |
+06:10 |
+CNB |
+11:20 |
+05:10 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+EC CC |
+
+12816 |
+NANDAN KANAN EX |
+NDLS |
+06:25 |
+CNB |
+12:20 |
+05:55 |
+Y |
+N |
+Y |
+Y |
+N |
+Y |
+N |
+2A 3A SL |
+
+15484 |
+MAHANANDA EXP |
+DLI |
+06:35 |
+CNB |
+15:12 |
+08:37 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12506 |
+NORTH EAST EXP |
+ANVT |
+06:45 |
+CNB |
+12:50 |
+06:05 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+13008 |
+U A TOOFAN EXP |
+NDLS |
+07:00 |
+CNB |
+18:45 |
+11:45 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+3A SL |
+
+22806 |
+ANVT BBS SUP |
+ANVT |
+07:05 |
+CNB |
+13:15 |
+06:10 |
+Y |
+N |
+N |
+N |
+N |
+N |
+N |
+1A 2A 3A SL |
+
+12488 |
+SEEMANCHAL EXP |
+ANVT |
+07:30 |
+CNB |
+13:45 |
+06:15 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12398 |
+MAHABODHI EXP |
+NDLS |
+12:10 |
+CNB |
+17:35 |
+05:25 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12420 |
+GOMTI EXPRESS |
+NDLS |
+12:25 |
+CNB |
+19:50 |
+07:25 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A CC 2S |
+
+15026 |
+ANVT MAU EXP |
+ANVT |
+12:55 |
+CNB |
+19:15 |
+06:20 |
+Y |
+N |
+N |
+N |
+Y |
+N |
+N |
+2A 3A SL |
+
+12566 |
+BIHAR S KRANTI |
+NDLS |
+14:15 |
+CNB |
+20:15 |
+06:00 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12368 |
+VIKRAMSHILA EXP |
+ANVT |
+14:40 |
+CNB |
+20:25 |
+05:45 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+15708 |
+ASR KIR EXPRESS |
+SZM |
+14:42 |
+CNB |
+22:50 |
+08:08 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+14006 |
+LICHCHAVI EXP |
+ANVT |
+15:10 |
+CNB |
+23:25 |
+08:15 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12034 |
+NDLS CNB SHT |
+NDLS |
+15:50 |
+CNB |
+20:45 |
+04:55 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+N |
+EC CC |
+
+12440 |
+NDLS RNC RAJ EXP |
+NDLS |
+16:00 |
+CNB |
+20:55 |
+04:55 |
+Y |
+N |
+N |
+N |
+Y |
+N |
+N |
+1A 2A 3A |
+
+12424 |
+DBRT RAJDHANI |
+NDLS |
+16:10 |
+CNB |
+21:05 |
+04:55 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A |
+
+12314 |
+SEALDAH RJDHANI |
+NDLS |
+16:25 |
+CNB |
+21:15 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+04:50 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A |
+
+12302 |
+KOLKATA RJDHNI |
+NDLS |
+16:55 |
+CNB |
+21:35 |
+04:40 |
+Y |
+Y |
+Y |
+Y |
+N |
+Y |
+Y |
+1A 2A 3A |
+
+22406 |
+ANVT BGP G RATH |
+ANVT |
+16:55 |
+CNB |
+22:12 |
+05:17 |
+Y |
+N |
+Y |
+N |
+Y |
+N |
+N |
+3A CC |
+
+22812 |
+BUBNESWR RJDHNI |
+NDLS |
+17:05 |
+CNB |
+21:45 |
+04:40 |
+Y |
+N |
+N |
+N |
+Y |
+N |
+Y |
+1A 2A 3A |
+
+12310 |
+RJPB RAJDHANI |
+NDLS |
+17:15 |
+CNB |
+21:55 |
+04:40 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A |
+
+12394 |
+SAMPOORN K EXP |
+NDLS |
+17:25 |
+CNB |
+22:25 |
+05:00 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12382 |
+POORVA EXPRESS |
+NDLS |
+17:35 |
+CNB |
+23:00 |
+05:25 |
+Y |
+Y |
+N |
+N |
+Y |
+N |
+N |
+1A 2A 3A SL |
+
+12560 |
+SHIV GANGA EXP |
+NDLS |
+18:55 |
+CNB |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+01:00 |
+06:05 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+22434 |
+ANVT GCT S F EXP |
+ANVT |
+19:10 |
+CNB |
+01:27 |
+06:17 |
+Y |
+N |
+N |
+N |
+Y |
+N |
+N |
+1A 2A 3A SL |
+
+12226 |
+KAIFIYAT EXP |
+DLI |
+19:15 |
+CNB |
+01:35 |
+06:20 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12260 |
+SDAH DURONTO EXP |
+NDLS |
+19:40 |
+CNB |
+00:29 |
+04:49 |
+Y |
+Y |
+N |
+Y |
+Y |
+N |
+N |
+1A 2A 3A |
+
+12818 |
+JHARKHAND EXPRE |
+ANVT |
+19:45 |
+CNB |
+01:45 |
+06:00 |
+Y |
+N |
+N |
+Y |
+N |
+Y |
+N |
+2A 3A SL |
+
+12554 |
+VAISHALI EXP |
+NDLS |
+19:50 |
+CNB |
+02:20 |
+06:30 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12572 |
+GKP HUMSFAR |
+ANVT |
+20:00 |
+CNB |
+00:50 |
+04:50 |
+Y |
+N |
+N |
+N |
+N |
+N |
+N |
+3A |
+
+12402 |
+MAGADH EXPRESS |
+NDLS |
+20:00 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+CNB |
+02:30 |
+06:30 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12556 |
+GORAKDAM EXPRES |
+NDLS |
+20:25 |
+CNB |
+03:05 |
+06:40 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL 2S |
+
+12562 |
+SWATANTRTA S EXP |
+NDLS |
+20:35 |
+CNB |
+02:40 |
+06:05 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+14218 |
+UNCHAHAR EXP |
+SZM |
+20:48 |
+CNB |
+05:05 |
+08:17 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12428 |
+ANVT REWA EXP |
+ANVT |
+21:15 |
+CNB |
+03:15 |
+06:00 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12418 |
+PRAYAG RAJ EXP |
+NDLS |
+21:20 |
+CNB |
+03:30 |
+06:10 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+13414 |
+FARKKA EXPRESS |
+DLI |
+21:40 |
+CNB |
+05:30 |
+07:50 |
+Y |
+N |
+Y |
+N |
+N |
+Y |
+N |
+2A 3A SL |
+
+14724 |
+KALINDI EXPRESS |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+DLI |
+21:50 |
+CNB |
+11:10 |
+13:20 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+12802 |
+PURSHOTTAM EXP |
+NDLS |
+22:15 |
+CNB |
+03:55 |
+05:40 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12582 |
+NDLS MUV SF EXP |
+NDLS |
+22:25 |
+CNB |
+04:45 |
+06:20 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+14056 |
+BRAHMPUTRA MAIL |
+DLI |
+23:40 |
+CNB |
+05:50 |
+06:10 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12452 |
+SHRAM SHKTI EXP |
+NDLS |
+23:55 |
+CNB |
+06:30 |
+06:35 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL |
+
+14020 |
+AGTL SUNDRI EXP |
+ANVT |
+23:55 |
+CNB |
+06:05 |
+06:10 |
+Y |
+N |
+N |
+N |
+N |
+N |
+N |
+2A 3A SL |
+
+Direct Trains from Kolkata
+Direct Trains from Kolkata
+
+Air travel from Kolkata (formerly called Calcutta) to Kanpur requires a changeover at Delhi. Overnight train journey by the Rajdhani expresses can provide a comfortable alternative, besides being less expensive. Below is a list of the timings of the Rajdhani expresses that connect Kanpur to Kolkata. Note that Kolkata has two stations, namely, Howrah and Sealdah. The Calcutta Rajdhani departs from the Howrah station, whereas, the Sealdah Rajdhani departs from the Sealdah station. (In the following table (+1) indicates that the timings specified are for the day after the day of boarding the train.)
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Train Number | Train Name | Origin | Dep. Time | Destination | Arr. Time | Travel Time | Days of Run | Classes |
+
+M | T | W | T | F | S | S |
+
+12303 |
+POORVA EXPRESS |
+HWH |
+08:05 |
+CNB |
+00:05 |
+16:00 |
+Y |
+Y |
+N |
+N |
+Y |
+Y |
+N |
+1A 2A 3A SL |
+
+22857 |
+SRC ANVT SF EXP |
+SRC |
+08:50 |
+CNB |
+03:50 |
+19:00 |
+Y |
+N |
+N |
+N |
+N |
+N |
+N |
+2A 3A SL |
+
+13007 |
+U ABHATOOFAN EXP |
+HWH |
+09:35 |
+CNB |
+08:25 |
+22:50 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+3A SL |
+
+12273 |
+NDLS DURONTO |
+HWH |
+12:45 |
+CNB |
+00:50 |
+12:05 |
+Y |
+N |
+N |
+N |
+Y |
+N |
+N |
+1A 2A 3A SL |
+
+12313 |
+SDAH RAJDHANIEXP |
+SDAH |
+16:50 |
+CNB |
+05:10 |
+12:20 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A |
+
+12301 |
+KOLKATA RAJDHNI |
+HWH |
+16:55 |
+CNB |
+04:45 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+11:50 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+N |
+1A 2A 3A |
+
+12259 |
+NDLS DURONTO |
+SDAH |
+18:30 |
+CNB |
+06:20 |
+11:50 |
+Y |
+N |
+Y |
+Y |
+N |
+N |
+Y |
+1A 2A 3A |
+
+12311 |
+HWH DLI KLK MAIL |
+HWH |
+19:40 |
+CNB |
+12:35 |
+16:55 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+1A 2A 3A SL 2S |
+
+12938 |
+GARBHA EXPRESS |
+HWH |
+23:00 |
+CNB |
+14:00 |
+15:00 |
+Y |
+N |
+N |
+N |
+N |
+N |
+N |
+2A 3A SL |
+
+12987 |
+SDAH AJMER EXP |
+SDAH |
+23:05 |
+CNB |
+14:30 |
+15:25 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+12307 |
+HWH JU EXPRESS |
+HWH |
+23:40 |
+CNB |
+15:05 |
+15:25 |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+Y |
+2A 3A SL |
+
+How to Reach IIT (Kanpur)
+
+Taxis are easily available from the Cantt side of the Kanpur Central Railway Station (from Platform number 1 side). There is a pre-paid auto and taxi booth.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > howtoreach]
+Lucknow Airport also has taxis available, but they can ask for any arbitrary amount. The best thing is to ask your host in IIT Kanpur in advance to book a taxi for you.
+
+Rates (as of Nov 2016)
+
+Mode | From Kanpur Station | From Kanpur Airport | From Lucknow Airport |
+
+Auto |
+250 |
+- |
+- |
+
+Taxi (Toyota Etios, Fiat Linea, Maruti Swift Dzire) |
+450 |
+640 |
+2100 |
+
+Innova |
+575 |
+860 |
+2580 |
+
+You can also hire OLA cabs. OLA cabs fare in Kanpur.
+
+=== minor sds ===
+Source: https://www.iitk.ac.in/math/index.php/minor-sds
+Note: *This programme has been transferred to the Department of Statistics & Data Science (DSDS)
+
+The following courses are required for a minor in Statistics and Data Science.
+
+MSO 205 (Introduction to Probability theory) or MSO 201 (Probability and Statistics) or HSO 201 (Applied probability and statistics) or CS 203 (Mathematics for Computer Science - III)
+
+MTH 211 (Theory of Statistics)
+
+MTH 208 (Data Science Lab 1)
+
+MTH 441 (Linear regression and ANOVA)
+
+=== phd admission 034fe8 ===
+Source: https://www.iitk.ac.in/math/index.php/phd-admission?start=6
+The written test/Interview for the PhD admission in Mathematics and Statistics for 2023-24, Semester-I...
+
+Read more...
+
+We will not be conducting the written test for the PhD admission test in Mathematics and Statistics for 2022-23, Semester-II...
+
+Read more...
+
+We will not be conducting the written test for the PhD admission test in Mathematics and Statistics for 2022-23, Semester-I...
+
+Read more...
+
+Due to the continuing COVID-19 pandemic, we are not conducting the written test for the PhD admission test in Mathematics and Statistics for 2021-22, Semester-II...
+
+Read more...
+
+The Department of Mathematics and Statistics at IIT Kanpur offers separate Ph.D. programs in Mathematics and Statistics...
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 034fe8]
+Read more...
+
+Due to the continuing COVID-19 pandemic, we are not conducting the written test for the PhD admission test in Mathematics and Statistics for 2020-21, Semester-II,...
+
+Read more...
+
+Page 2 of 3
+
+1
+2
+3
+
+=== phd admission bd13f6 ===
+Source: https://www.iitk.ac.in/math/index.php/phd-admission?start=12
+In the unprecedented situation due to COVID-19 outbreak, we are not conducting the written test for the PhD admission test ...
+
+Read more...
+
+The Department of Mathematics and Statistics at IIT Kanpur offers separate Ph.D. programs in Mathematics and Statistics....
+
+Read more...
+
+Page 3 of 3
+
+1
+2
+3
+
+=== search result ===
+Source: https://www.iitk.ac.in/math/index.php/search-result
+Search for:
+
+All words
+
+Any words
+
+Exact Phrase
+
+Ordering:
+
+Newest First
+Oldest First
+Most Popular
+Alphabetical
+Category
+
+Search Only:
+
+Categories
+
+Contacts
+
+Articles
+
+Newsfeeds
+
+Weblinks
+
+=== m sc mathematics 2 year ===
+Source: https://www.iitk.ac.in/math/m-sc-mathematics-2-year
+Template for the M. Sc. (2-Year) in Mathematics Program
+
+Semester I |
+Semester II |
+Semester III |
+Semester IV |
+
+MTH 402
+3-1-0-0 (11) |
+MTH 406
+3-1-0-0 (11) |
+MTH 403
+3-1-0-0 (11) |
+DE-4
+(9) |
+
+MTH 407
+3-1-0-0 (11) |
+MTH 419
+3-1-0-0 (11) |
+DE-1
+(9) |
+DE-5/ MTH 599 |
+
+MTH 408
+3-1-0-0 (11) |
+MTH 424
+3-1-0-0 (11) |
+DE-2
+(9) |
+OE-3
+(9) |
+
+MTH 409
+2-1-1-0 (9) |
+MTH 437
+3-0-1-0 (10) |
+DE-3/ MTH 598
+(9) |
+OE-4
+(9) |
+
+MTH 421
+3-1-0-0 (11) |
+MTH 438
+3-1-0-0 (11) |
+OE-1
+(9) |
+OE-5
+(9) |
+
+MTH 888M
+3-0-0-0 (5) |
+
+Credits: 58 |
+Credits: 54 |
+Credits: 47 |
+Credits: 45 |
+
+The minimum credits required for graduation are 204. The distribution of these credits is detailed below:
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > m sc mathematics 2 year]
+Course type |
+Credits |
+
+Departmental Compulsory (DC) |
+123 |
+
+Departmental Elective (DE) |
+45 |
+
+Open Elective (OE) |
+36 |
+
+Total |
+204 |
+
+List of DC and Project Courses
+
+Course no. |
+Course title |
+
+MTH 402 |
+First Course in Linear Algebra |
+
+MTH 403 |
+Complex Analysis |
+
+MTH 406 |
+First Course in Abstract Algebra |
+
+MTH 407 |
+Set Theory and Discrete Mathematics |
+
+MTH 408 |
+Analysis |
+
+MTH 409 |
+Computer Programming and Data Structures |
+
+MTH 419 |
+
+MTH 421 |
+Ordinary Differential Equations |
+
+MTH 424 |
+Partial Differential Equations |
+
+MTH 437 |
+Numerical Analysis and Scientific Computing I |
+
+MTH 438 |
+Topology |
+
+MTH 598 |
+Project I |
+
+MTH 599 |
+Project II |
+
+MTH 888M |
+Introduction to Profession and Communication Skills |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > m sc mathematics 2 year]
+Note:
+
+Students enrolled in the course MTH 888M will be awarded an S/X grade, which will not be counted towards their CPI.
+
+This template applies to all students joining the M. Sc. (2-year) in Mathematics program starting in 2026. Students who joined the M. Sc. (2-year) in Mathematics program in 2025 or earlier can find their program template at the following link:
+https://www.iitk.ac.in/math/m-sc-y22
+
+The following pairs of DC courses are considered equivalent as graduation requirements for the students who joined the program in 2025 or earlier:
+
+Existing Course No. |
+New Course No. |
+
+MTH 201 |
+MTH 402 |
+
+MTH 202 |
+MTH 407 |
+
+MTH 204 |
+MTH 406 |
+
+MTH 301 |
+MTH 408 |
+
+MTH 304 |
+MTH 438 |
+
+MTH 305 |
+MTH 419 |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > m sc mathematics 2 year]
+MTH 308 |
+MTH 437 |
+
+=== m sc y22 ===
+Source: https://www.iitk.ac.in/math/m-sc-y22
+STRUCTURE OF THE PROGRAM (Y22 to Y25)
+
+YEAR I |
+YEAR II |
+
+Semester I |
+Semester II |
+Semester III |
+Semester IV |
+
+Course |
+L-T-P-A [C] |
+Course |
+L-T-P-A [C] |
+Course |
+L-T-P-A [C] |
+Course |
+L-T-P-A[C] |
+
+MTH201 |
+3-1-0-0 [11] |
+MTH204 |
+3-1-0-0 [11] |
+MTH403 |
+3-1-0-0 [11] |
+OE-2 |
+3-0-0-0 [09] |
+
+MTH202 |
+3-1-0-0 [11] |
+MTH424 |
+3-1-0-0 [11] |
+DE-1 |
+3-0-0-0 [09] |
+OE-3 |
+3-0-0-0 [09] |
+
+MTH301 |
+3-1-0-0 [11] |
+MTH308 |
+3-0-1-0 [10] |
+OE-1 |
+3-0-0-0 [09] |
+OE-4 |
+3-0-0-0 [09] |
+
+MTH409 |
+2-1-1-0 [09] |
+MTH305 |
+3-1-0-0 [11] |
+DE-2 |
+3-0-0-0 [09] |
+DE-4 |
+3-0-0-0 [09] |
+
+MTH421 |
+3-1-0-0 [11] |
+MTH304 |
+3-1-0-0 [11] |
+DE-3/ MTH598 |
+3-0-0-0 [09] |
+DE-5/ MTH599 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > m sc y22]
+3-0-0-0 [09] |
+
+ELC112 |
+2-1-0-1 [09] |
+
+62 |
+54 |
+47 |
+45 |
+
+DC : 118 DE : 45 OE : 36 ELC : 09 TOTAL : 208
+
+ELC112 : English language and communication (intermediate)
+
+MTH201 : Linear algebra
+
+MTH202 : Set theory and discrete mathematics
+
+MTH204 : Abstract algebra
+
+MTH301 : Analysis I
+
+MTH304 : Topology
+
+MTH305 : Several variable calculus and differential geometry
+
+MTH308 : Numerical analysis and scientific computing I
+
+MTH403 : Complex analysis
+
+MTH409 : Computer programming and data structures
+
+MTH421 : Ordinary differential equations
+
+MTH424 : Partial differential equations
+
+MTH598 : Project I
+
+MTH599 : Project II
+
+STRUCTURE OF THE PROGRAMME (Y21 and earlier)
+
+1st |
+2nd |
+3rd |
+4th |
+
+MTH201A [3 1 0 11] (DC) |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > m sc y22]
+MTH204B [3 1 0 11] (DC) |
+MTH305A [3 1 0 11] (DC) |
+OE-2[9](OE) OE-2[9] (OE) |
+
+MTH301A [3 1 0 11] (DC) |
+MTH421A [3 1 0 11] (DC) |
+MTH403A [3 1 0 11] (DC) |
+OE-3[11](OE) |
+
+MTH202A [3 1 0 11] (DC) |
+MTH308A [3 1 0 11] (DC) |
+OE-1[9](OE) OE-1[9] (OE) / OE-1[11](OE) OE-1[9] (OE) |
+OE-4[11] (OE) |
+
+MTH409A [2 1 1 9] (DC) |
+DE-1[11](DE) DE-1[09] (DE) |
+DE-3[11] (DE) |
+DE-5[11] (DE) |
+
+MTH428A [3 1 0 11] (DC) |
+DE-2[11](DE) |
+DE-4/MTH598A[11] (DE) |
+DE-6/MTH599A[11] (DE) |
+
+53.0 |
+51.0 |
+49.0 |
+45.0 |
+
+Objective Of The Program
+
+New ARC
+
+14 and Later Batches
+
+Y13 Batch
+
+Y12 and Earlier Batches
+
+=== mathematics scientific computing ===
+Source: https://www.iitk.ac.in/math/mathematics-scientific-computing
+Admission to the program is through Joint Entrance JEE (Adv). All students in these programs have to complete a set of core courses in the first two semesters. After that, they do some compulsory professional courses and are also offered choices of many departmental and open electives. There is also a provision of some research activity through a series of undergraduate project courses. An attractive feature of the academic program is that the students can do a minor and/or a major in other disciplines (department) by appropriately choosing their elective courses. For obtaining another major, the student has to spend one extra year to fulfil required credits. Since the program is credit based, many students have been able to complete credit requirements of BS (MS) degree in just 7 (9) semesters. Due to the flexibility and opportunities offered, the program has become very popular among the JEE aspirants and is among the most sought after UG programs offered at IIT Kanpur. In 2021, the opening and closing JEE All India Ranks for the BS Mathematics & Scientific Computing program were 321 and 1045, respectively. Since the inception of the BS program in 2011, one undergraduate student of the department has received the President’s Gold Medal for the best academic performance in the graduating class amongst all disciplines of B.Tech. and B.S.
+
+=== numerical analysis scientific computing ode pde fluid mechanics ===
+Source: https://www.iitk.ac.in/math/numerical-analysis-scientific-computing-ode-pde-fluid-mechanics
+Akash Anand
+
+Vedansh Arya
+
+D. Bahuguna
+
+Kaushik Bal
+
+Malay Banerjee
+
+Suprio Bhar
+
+Mrinmay Biswas
+
+Indranil Chowdhury
+
+S. Ghorai
+
+B.V. Rathish Kumar
+
+T. Muthukumar
+
+Prosenjit Roy
+
+Abhijit Biswas
+
+Adimurthi (Distinguished visiting professor)
+
+Cherif Amrouche (Distinguished visiting professor)
+
+=== openhouse2023 ===
+Source: https://www.iitk.ac.in/math/OpenHouse2023/
+
+INDIAN  INSTITUTE OF TECHNOLOGY KANPUR
+
+Annual Departmental Open House 2023
+
+(Sponsored by Department of Mathematics & Statistics, IIT Kanpur)
+
+(February 04, 2023)
+
+Program Schedule  Event Pictures
+
+The Department of  Mathematics and Statistics of IIT Kanpur will be organizing the Annual  Open House symposium on
+February 04, 2023.
+
+Main  aim of this open house is to provide an  opportunity for the research
+scholars of this  department working in various fields of Mathematics and
+Statistics to come  together and discuss current developments in their
+respective areas. This  Open House will provide a platform for them to
+present their works and to exchange ideas with  colleagues.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > openhouse2023]
+
+| Organized By |
+
+Department of Mathematics & Statistics
+
+Kanpur 208016
+
+Contact
+
+Prof. Mohua Banerjee
+
+Head
+
+Department of Mathematics & Statistics
+
+E-mail:  head_math@iitk.ac.in
+
+Prof. Debasis Kundu
+
+Department of Mathematics & Statistics
+
+E-mail: kundu@iitk.ac.in
+
+Venue : L-16, Lecture Hall Complex, IIT Kanpur
+
+Time: 09:30 AM
+
+=== openhouse2024 ===
+Source: https://www.iitk.ac.in/math/OpenHouse2024/
+
+INDIAN  INSTITUTE OF TECHNOLOGY KANPUR
+
+Annual Departmental Open House 2024
+
+(March 03, 2024)
+
+Program Schedule  Event Pictures
+
+March 03, 2024.
+
+| Organized By |
+
+Department of Mathematics & Statistics
+
+Kanpur 208016
+
+Contact
+
+Prof. Mohua Banerjee
+
+Head
+
+Department of Mathematics & Statistics
+
+E-mail:  head_math@iitk.ac.in
+
+Prof. Debasis Kundu
+
+Department of Mathematics & Statistics
+
+E-mail: kundu@iitk.ac.in
+
+Venue : L16 & L17, Lecture Hall Complex, IIT Kanpur
+
+Time: 09:30 AM
+
+=== openhouse2025 ===
+Source: https://www.iitk.ac.in/math/OpenHouse2025/
+
+INDIAN  INSTITUTE OF TECHNOLOGY KANPUR
+
+Annual Departmental Open House 2025
+
+(February 9, 2025)
+
+Program Schedule  Poster   Event Pictures
+
+February 09, 2025.
+
+| Organized By |
+
+Department of Mathematics & Statistics
+
+Kanpur 208016
+
+Contact
+
+Prof. Mohua Banerjee
+
+Head
+
+Department of Mathematics & Statistics
+
+E-mail:  head_math@iitk.ac.in
+
+Prof. Debasis Kundu
+
+Department of Mathematics & Statistics
+
+E-mail: kundu@iitk.ac.in
+
+Venue : L14 & L15, Lecture Hall Complex, IIT Kanpur
+
+Time: 09:00 AM
+
+=== ph d mathematics statistics ===
+Source: https://www.iitk.ac.in/math/ph-d-mathematics-statistics
+Objective Of The Program
+
+The Department offers PhD programs in Mathematics and Statistics with the objective of preparing motivated researchers, who can work in frontline areas as well as to prepare well-trained teaching faculty. The vibrant academic environment of the department is nurtured by strongly motivated faculty. The Department faculty takes research initiatives to work in recent and emerging areas. The department encourages interdisciplinary trends. Around 290 research scholars have graduated from the department and are serving in the faculty of various institutes and universities in India and abroad. Some of them have gone for industry also.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > ph d mathematics statistics]
+Structure Of The Programme
+
+The department offers separate PhD Programmes in Mathematics and Statistics. Following are the requirements for the degrees.
+
+Course work:
+
+During the first two semesters, students are required to complete the minimum credit requirements (24) from course work. The minimum number of courses to be done is 6, out of which 3 are compulsory: Algebra (MTH751), Mathematical Methods (MTH752) and Analysis (MTH753) for Ph.D. Mathematics, and Analysis (MTH652), Probability Theory (MTH754) and Statistical Inference (MTH755) for Ph.D. Statistics. Minimum research credit requirement for the programme is 80 and students are required to register for 16 research credit per semester after finishing the course-work.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > ph d mathematics statistics]
+Comprehensive examination:
+
+Students registered in the Ph.D. programme must pass a Comprehensive examination designed to test the overall comprehension of the student in Mathematics/Statistics. A student can appear in the comprehensive examination only after he/she has completed the course requirements and satisfied the minimum specified CPI requirement, i.e., 7.0 (out of 10.0).The comprehensive examination board consists of at least three but not more than five faculty members of the department and one faculty member from outside the department.
+
+State of Art Seminar:
+
+A student enrolled in the PhD programme is formally admitted to the candidacy for the Ph.D. degree after he/she has completed the course requirements for the degree with a CPI of at least 7.0 and has passed the comprehensive examination. Every Ph.D. student admitted to the candidacy for the Ph.D. degree is required to deliver a general seminar covering the State of Art of the area of research. This seminar, viz., the State of Art Seminar must be delivered within six months of passing the comprehensive examination.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > ph d mathematics statistics]
+Open Seminar:
+
+Before finalizing the thesis, every Ph.D. student must deliver an Open Seminar in which the research work will be presented to obtain comments and criticism, which are to be incorporated in the thesis. The maximum time duration for the submission of the thesis after the delivery of the open seminar is six months. The PhD Thesis Board consists of three members in addition to the thesis supervisor(s) approved by the Chairman, Senate. At least two members of the board (other than the supervisor(s)) must be from outside the Institute and at least one of these two must be from within the country. The thesis supervisor(s), in consultation with the Head, proposes a list of examiners consisting of at least three extra names over and above the required number of members for the thesis board. The Chairman, Senate in consultation with Chairperson, SPGC selects the members of the thesis board from this list. The names of members of the thesis board are kept confidential till successful completion of the oral examination.
+
+=== phd admission ===
+Source: https://www.iitk.ac.in/math/phd-admission
+PhD/M.Sc Admissions: Academic Session 2026-27 (Semester-I)
+
+The selection process for PhD programs in Mathematics and Statistics for the 2026-27-I semester will...
+
+Read more...
+
+The admission tests for PhD programs in Mathematics and Statistics for the 2025-26-II session will be held in...
+
+Read more...
+
+A selected few candidates may be given on-campus hostel accommodation for the first round of the selection process from May 12 to May 13, 2025...
+
+Read more...
+
+We will not be conducting the written test for PhD admission in Mathematics and Statistics for 2024-25, Semester-II...
+
+Read more...
+
+The written test/Interview for the PhD admission in Mathematics and Statistics for the academic session 2024-25 -I...
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission]
+Read more...
+
+We will not be conducting the written test for PhD admission in Mathematics and Statistics for 2023-24, Semester-II...
+
+Read more...
+
+Page 1 of 3
+
+1
+2
+3
+
+=== phd admission 2020 2021 1 ===
+Source: https://www.iitk.ac.in/math/phd-admission-2020-2021-1
+Notice
+
+In the unprecedented situation due to COVID-19 outbreak, we are not conducting the written test for the PhD admission test in Mathematics and Statistics for 2020-21, Semester-I, admissions. We will conduct online interviews of shortlisted candidates on July 6-7, 2020 (the backup date : July 10, 2020) for the PhD admission in Mathematics and Statistics. The following shortlisting criteria will be used for shortlisting candidates for online interviews:
+
+Shortlisting criteria for Ph.D. Mathematics online interviews :
+
+An applicant having INSPIRE PhD fellowship and at least 60% marks in the last qualifying degree will be shortlisted.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+An applicant having NBHM PhD fellowship and at least 60% marks in the last qualifying degree will be shortlisted.
+
+An applicant having a master's degree in Mathematics from IITs with CPI more than or equal to 8.0 will be shortlisted. For result awaited applicants, the CPI till the end of the third semester will be considered.
+
+An applicant having a valid GATE score (in Mathematics) more than or equal to cutoff set by the screening/selection committee and at least 60% marks in the last qualifying degree will be shortlisted.
+
+An applicant having a valid CSIR-UGC NET (fellowship) rank/score (in Mathematical Science) more than or equal to cutoff set by the screening/selection committee and at least 60% marks in the last qualifying degree will be shortlisted.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+Shortlisting criteria for Ph.D. Statistics online interviews :
+
+An applicant having INSPIRE PhD fellowship and at least 60% marks in the last qualifying degree will be shortlisted.
+
+An applicant having a master's degree in Statistics/Mathematics from IITs with CPI more than or equal to 8.0 will be shortlisted. For result awaited applicants, the CPI till the end of the third semester will be considered.
+
+An applicant having a valid GATE score (in Statistics/Mathematics) more than or equal to cutoff set by the screening/selection committee and at least 60% marks in the last qualifying degree will be shortlisted.
+
+Note : If an applicant has valid GATE scores in both Statistics and Mathematics, the maximum of them will be considered.
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+An applicant having a valid CSIR-UGC NET (fellowship) rank/score (in Mathematical Science) more than or equal to cutoff set by the screening/selection committee and at least 60% marks in the last qualifying degree will be shortlisted.
+
+Note : If any applicant fails to submit the required documents, then the applicant's candidature will be cancelled.
+
+Note : The minimum marks in the last qualifying degree for the applicants under OBC-NCL, EWS, SC, ST, PwD categories will be as per the current Government of India rules regarding the same.
+
+Note : The last qualifying degree could be a 2-year Master's degree or a 4-year Bachelor's degree in any subject of science or any subject of engineering or Economic Sciences.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+The Department of Mathematics and Statistics at IIT Kanpur offers separate Ph.D. programs in Mathematics and Statistics.
+The advertisement for PG admissions 2020-21-I, has appeared in IIT Kanpur website on March 16, 2020 (http://www.iitk.ac.in/doaa/pgadmission.htm)
+
+Important Dates
+
+Online Application Start Date March 16, 2020 |
+
+Online Application End Date May 24, 2020 |
+
+Final Result Ph.D(Mathematics) New |
+Click Here |
+
+Final Result Ph.D(Statistics) New |
+Click Here |
+
+General Information & instructions to the candidates shortlisted for online interview New |
+Click Here |
+
+Schedule of Online interview: PhD Mathematics New |
+Click Here |
+
+Schedule of Online interview: PhD Statistics New |
+Click Here |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+Interview for shortlisted candidates of Statistics New |
+Click Here |
+
+Interview for shortlisted candidates of Mathematics (Revised) New |
+Click Here |
+
+Past question papers for qualifying written test for Mathematics candidates
+
+Winter 2019
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Winter 2018
+
+December Admission
+
+Summer 2018
+
+May Admission
+
+Winter 2017
+
+December Admission
+
+Summer 2017
+
+July Admission
+
+May Admission
+
+Winter 2016
+
+December Admission
+
+Summer 2016
+
+July Admission
+
+May Admission
+
+Winter 2015
+
+December Admission
+
+Past question papers for qualifying written test for Statistics candidates
+
+Summer 2019
+
+May Admission
+
+For any query related to Ph.D. admissions contact
+
+Subhra Sankar Dhar (subhra[AT]iitk.ac.in)
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 1]
+Department Post Graduate Committee Convener
+Department of Mathematics & Statistics, IIT Kanpur
+Phone: 0512-259-6950
+
+Department of Mathematics and Statistics
+Phone: 0512-259-7456
+
+=== phd admission 2020 2021 2 ===
+Source: https://www.iitk.ac.in/math/phd-admission-2020-2021-2
+Notice
+
+Due to the continuing COVID-19 pandemic, we are not conducting the written test for the PhD admission test in Mathematics and Statistics for 2020-21, Semester-II, admissions. We will conduct online interviews of shortlisted candidates on December 2-3, 2020 (the backup date: December 4, 2020) for the PhD admission in Mathematics, and December 2, 2020 (the backup date: December 3, 2020) for the PhD admission in Statistics. The following shortlisting criteria will be used for shortlisting candidates for online interviews:
+
+SHORTLISTING CRITERIA FOR PH.D. MATHEMATICS ONLINE INTERVIEWS :
+
+An applicant having a master's degree in Mathematics from IITs with CPI more than or equal to cutoff set by the screening/selection committee will be shortlisted. For result awaited applicants, the CPI till the end of the third semester will be considered.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 2]
+SHORTLISTING CRITERIA FOR PH.D. STATISTICS ONLINE INTERVIEWS :
+
+An applicant having a valid GATE score (in Statistics/Mathematics) and at least 60% marks in the last qualifying degree will be shortlisted.
+
+An applicant having a valid CSIR-UGC NET (fellowship) rank/score (in Mathematical Science) and at least 60% marks in the last qualifying degree will be shortlisted.
+
+The advertisement for PG admissions 2020-21-II, has appeared in IIT Kanpur website on October 12, 2020
+(http://www.iitk.ac.in/doaa/pgadmission.htm )
+
+While processing applications only the first preference (Either Mathematics OR Statistics) will be considered for selection procedures.
+
+For information on the new reservation category 'EWS', please check (http://www.iitk.ac.in/doaa/DOAA/implinks20192.htm )
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2020 2021 2]
+Final Result Ph.D(Mathematics) New |
+Click Here |
+
+Final Result Ph.D(Statistics) New |
+Click Here |
+
+Norms and General instruction to the candidates shortlisted for online interview New |
+Click Here |
+
+Click Here |
+
+Click Here |
+
+Click Here |
+
+Interview for shortlisted candidates of Statistics (Revised) New |
+Click Here |
+
+Winter 2019
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Winter 2018
+
+December Admission
+
+Summer 2018
+
+May Admission
+
+Winter 2017
+
+December Admission
+
+Summer 2017
+
+July Admission
+
+May Admission
+
+Winter 2016
+
+December Admission
+
+Summer 2016
+
+July Admission
+
+May Admission
+
+Winter 2015
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Prof. Mohua Banerjee
+
+Mrs. Veenu Misra
+Phone: 0512-259-7456
+
+=== phd admission 2021 2022 ii ===
+Source: https://www.iitk.ac.in/math/phd-admission-2021-2022-II
+Notice
+
+Due to the continuing COVID-19 pandemic, we are not conducting the written test for the PhD admission test in Mathematics and Statistics for 2021-22, Semester-II, admissions. We will conduct online interviews of shortlisted candidates on December 7-8, 2021 (the backup date: December 9, 2021) for the PhD admission in Mathematics, and December 7, 2021 (the backup date: December 8, 2021) for the PhD admission in Statistics
+
+Final Result Ph.D(Mathematics) New |
+Click Here |
+
+Final Result Ph.D(Statistics) New |
+Click Here |
+
+Click Here |
+
+Click Here |
+
+Click Here |
+
+Interview for shortlisted candidates of Mathematics |
+Click Here |
+
+Interview for shortlisted candidates of Statistics |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2021 2022 ii]
+Click Here |
+
+Winter 2019
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Winter 2018
+
+December Admission
+
+Summer 2018
+
+May Admission
+
+Winter 2017
+
+December Admission
+
+Summer 2017
+
+July Admission
+
+May Admission
+
+Winter 2016
+
+December Admission
+
+Summer 2016
+
+July Admission
+
+May Admission
+
+Winter 2015
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Prof. Santosha Pattanayak
+
+Ms. Renu Verma
+Phone: 0512-259-7636
+
+=== phd admission 2022 2023 i ===
+Source: https://www.iitk.ac.in/math/phd-admission-2022-2023-i
+Notice
+
+We will not be conducting the written test for the PhD admission test in Mathematics and Statistics for 2022-23, Semester-I, admissions. We will conduct online interviews of shortlisted candidates on May 12-13, 2022 (the backup date: May 14, 2022) for the PhD admission in Mathematics and Statistics.
+
+Final Result Ph.D(Mathematics) New |
+Click Here |
+
+Final Result Ph.D(Statistics) New |
+Click Here |
+
+Norms and General instruction to the candidates shortlisted for online interview |
+Click Here |
+
+Schedule of Online interview: PhD Mathematics |
+Click Here |
+
+Schedule of Online interview: PhD Statistics |
+Click Here |
+
+Click Here |
+
+Click Here |
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2022 2023 i]
+Winter 2019
+
+December Admission
+
+Summer 2019
+
+Summer Admission
+
+Winter 2018
+
+December Admission
+
+Summer 2018
+
+May Admission
+
+Winter 2017
+
+December Admission
+
+Summer 2017
+
+July Admission
+
+May Admission
+
+Winter 2016
+
+December Admission
+
+Summer 2016
+
+July Admission
+
+May Admission
+
+Winter 2015
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Prof. Santosha Pattanayak
+
+Ms. Renu Verma
+Phone: 0512-259-7636
+
+=== phd admission 2022 2023 ii ===
+Source: https://www.iitk.ac.in/math/phd-admission-2022-2023-ii
+Notice
+
+We will not be conducting the written test for the PhD admission test in Mathematics and Statistics for 2022-23, Semester-II. We will conduct online interviews of shortlisted candidates on Nov 30 and Dec 01 , 2022 for the PhD admission in Mathematics and Statistics.
+
+Final Result Ph.D(Mathematics) New |
+Click Here |
+
+Final Result Ph.D(Statistics) New |
+Click Here |
+
+Norms and General Instructions to the candidates shortlisted for online interview |
+Click Here |
+
+Schedule for Online Interview : PhD (Mathematics) |
+Click Here |
+
+Schedule for Online Interview : PhD (Statistics) |
+Click Here |
+
+Interview for shortlisted candidates of Mathematics for 2022-23 Sem-II |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2022 2023 ii]
+Click Here |
+
+Interview for shortlisted candidates of Statistics for 2022-23 Sem-II |
+Click Here |
+
+Winter 2019
+
+December Admission
+
+Summer 2019
+
+Summer Admission
+
+Winter 2018
+
+December Admission
+
+Summer 2018
+
+May Admission
+
+Winter 2017
+
+December Admission
+
+Summer 2017
+
+July Admission
+
+May Admission
+
+Winter 2016
+
+December Admission
+
+Summer 2016
+
+July Admission
+
+May Admission
+
+Winter 2015
+
+December Admission
+
+Summer 2019
+
+May Admission
+
+Prof. Ajay Singh Thakur
+
+Ms. Renu Verma
+Phone: 0512-259-7636
+
+=== phd admission 2023 2024 i ===
+Source: https://www.iitk.ac.in/math/phd-admission-2023-2024-i
+Notice
+
+The written test/Interview for the PhD admission in Mathematics and Statistics for 2023-24, Semester-I for shortlisted candidates will be conducted from May 10- May 12, 2023.
+
+Admitted candidates for PhD programme New |
+Click Here |
+
+Final Result Ph.D (Mathematics) New |
+Click Here |
+
+Final Result Ph.D (Statistics) New |
+Click Here |
+
+Result of Written Test for PhD (Mathematics) New |
+Click Here |
+
+List of Shortlisted candidate (MATHEMATICS) New |
+Click Here |
+
+List of shortlisted candidates (STATISTICS) New |
+Click Here |
+
+Shortlisted candidate under Foreign National Category New |
+Click Here |
+
+2023
+
+Summer May Admission
+
+2020 Summer -2022-Winter (Online Interview)
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > phd admission 2023 2024 i]
+2019
+
+Winter December Admission
+
+Summer May Admission
+
+2018
+
+Winter December Admission
+
+Summer May Admission
+
+2017
+
+Winter December Admission
+
+Summer July Admission
+
+Summer May Admission
+
+2016
+
+Winter December Admission
+
+Summer July Admission
+
+Summer May Admission
+
+2015
+
+Winter December Admission
+
+2019
+
+Summer May Admission
+
+Prof. Subhajit Dutta
+
+Ms. Renu Verma
+Phone: 0512-259-7636
+
+=== sbajpai ===
+Source: https://www.iitk.ac.in/math/sbajpai.html
+Saurabh Bajpai
+
+Senior Technical Superintendent
+
+Department of Mathematics and
+Statistics
+
+Kanpur-208016, India
+
+Office: |
+FB-520 |
+
+Phone: |
+91-512-2596778 (O) |
+
+91-512-2598447(R) |
+
+Fax: |  91-512-2597500 |
+
+E-mail: |
+sbajpai@iitk.ac.in
+saurabhbajpayee@gmail.com  |
+
+Publications:
+
+Sur, S., Chitranshi, S. Ganesh, S. Moona, R. Sharma, M., Bajpai, S. and Katiyar S. K.,
+"Living in farming communities (FC) provides children greater protection against asthma attacks than living in poor hygienic conditions (PHC)". JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY  Vol.119(1), 2007,  pp.S46-S46.  (PDF)
+
+R.P. Gupta and Saurabh Bajpai, "Feasibility Study of Data Communication for
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > sbajpai]
+Power Distribution Automation",  Proceedings of International Conference on
+Power Systems (ICPS-2004), Kathmandu, Nepal, November 3-5, 2004, pp. 450-
+454.
+
+Academics:
+
+M.Tech. |
+Information Technology  |
+
+M.B.A. |
+Information Technology & Electronics Commerce.  |
+
+M.Sc. |
+Computer Science  |
+
+M.A. |
+Economics |
+
+=== sds ===
+Source: https://www.iitk.ac.in/math/sds
+Admission to the program is also through Joint Entrance JEE (Adv). The program is tailor-made for students interested in the study and analysis of data. It focusses on fundamental statistical, mathematical, computational, and data science courses, with students having the opportunity to do elective courses from other departments. The emphasis is on the following: (i) imparting raw computational training to the students, (ii) have courses of the curriculum integrate both theoretical and practical commentary with diverse discussion of data applications wherever feasible, and at the same time, (iii) put forth a robust base in rigorous mathematical and statistical concepts. All the features of flexibility and opportunities as described for the BS program in Mathematics & Scientific Computing hold for this BS program as well. In fact, this program has made its mark already among the JEE aspirants, with the opening and closing JEE All India Ranks in 2021 being 492 and 1280, respectively. Graduates of the program will be empowered with the skills and knowledge to build flourishing careers in data science industry and also pursue higher studies in classical and modern statistics and data science.
+
+=== stamatics ===
+Source: https://www.iitk.ac.in/math/STAMATICS/
+Under the aegis of Dept. of Mathematics and Statistics
+
+Main Site
+Stamatics Talk
+
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Newsletter
+
+A new initiative for mathematics enthusiasts. Stamatics presents the Second edition of Alpha, a newsletter of Mathematics and Statistics Department.
+
+Quote of the Day
+
+. If people do not believe that mathematics is
+simple, it is only becausethey do not realize how complicated life is .
+
+John van Neumann
+
+. The mathematical sciences
+particularly exhibit
+order, symmetry, and limitation;
+and these are the greatest forms
+of the beautiful .
+
+Aristotle
+
+. Mathematicians are [like]
+a sort of Frenchmen;
+if you talk to them,
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics]
+they translate it
+into their own language,
+and then it is immediately
+something quite different .
+
+Johann Wolfgang von Goethe
+
+. Mathematics is
+the queen of sciences
+and arithmetic is
+the queen of mathematics .
+
+Johann Carl Friedrich Gauss
+
+. The study of mathematics,
+like the Nile,
+begins in minuteness
+but ends in magnificence .
+
+Charles Caleb Colton
+
+Copyright 2017-18 © Stamatics, IIT Kanpur
+
+=== stamatics about ===
+Source: https://www.iitk.ac.in/math/STAMATICS/about.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+About us
+
+Stamatics is a society of IIT Kanpur under the Department of Mathematics and Statistics.
+Throughout the year, Stamatics organises mathematical competitions, talks by various
+professors and students, workshops, and numerous other informal and formal sessions to guide
+students towards a fruitful life in the campus and outside.
+
+Aimed at shedding more light and inculcating more interest in Mathematics, as well as making
+it fun and enjoyable, Stamatics distributes its newsletter full of interesting stuff ranging
+from groundbreaking scientific research articles to academic guidance by seniors and
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics about]
+professors in various fields. In a nutshell, Stamatics is a group of individuals who
+strive to put all the opportunities, interesting researches, fun puzzles and the guidance of
+seniors, out in the open for everyone in the campus.
+
+=== stamatics activities ===
+Source: https://www.iitk.ac.in/math/STAMATICS/activities.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Stamatics Updates
+
+Stamatics organizes many events, workshops and talks throughout the year.
+
+Forgetful Chinese Whispers
+
+September 07, 2018
+by 12 Mathematicians
+
+A new experimental format inspired by the popular game of Chinese whispers!
+
+On cakes, Games, and Fixed Points
+
+August 31, 2018
+by Harshit Bist & Ayush Basu
+
+An algorithm for cutting cakes, play a game that attracted the interest of both John Nash and Claude Shannon.
+
+Lets Talk about Mathematics
+
+August 24, 2018
+by Prof. Subhajit Dutta, Prof. Arbind Lal, Prof. Parasar Mohanty, Prof. Prosenjit Roy
+
+An interesting talk where ideas from algebra, analysis, statistics, and applied math are discussed by expert faculty members.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics activities]
+From Newton to Google
+
+January 31, 2018
+by Mr. Deepak Pradhan
+
+Mr. Deepak Pradhan is a Research Scholar in the Department of Mathematics and Statistics
+
+Alpha Newsletter
+
+November 2, 2017
+by Mathemania
+
+A new initiative for mathematics enthusiasts. Stamatics presents the first edition of Alpha, a newsletter of Mathematics and Statistics Department.
+
+Combinatorial Nullstellensatz
+
+November 2, 2017
+by Himanshu Shukla & Arihant Jain
+
+In this talk, we will be presenting a combinatorial form of Nullstellensatz (a paper by Noga Alon)
+
+Mathematics on a beach under a palm tree
+
+August 26, 2017
+by Prof. Amit Kuber
+
+Dr. Amit Kuber is an Assistant Professor in the Department of Mathematics and Statistics, IIT Kanpur
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics activities]
+MATHEMANIA-1
+
+August 27, 2017
+by Stamatics
+
+Stamatics, the Math-stat society of the Department of Mathematics and Statistics is organising the first
+Mathemania contest of the session.
+
+Alpha Newsletter
+
+August 23, 2017
+by Mathemania
+
+A new initiative for mathematics enthusiasts. Stamatics presents the first edition of Alpha, a newsletter of Mathematics and Statistics Department.
+
+=== stamatics contact ===
+Source: https://www.iitk.ac.in/math/STAMATICS/contact.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Stamatics IIT Kanpur
+
+stamaticsiitkanpur@gmail.com
+
+Room No. 303, NCL, IIT Kanpur
+
+Harshit Bisht
+
+Coordinator, Stamatics
+
+Address: E-606, Hall-12 IIT Kanpur
+
+Phone: +91-7755057615
+
+Email:  harshitb@iitk.ac.in
+
+Krsihna Manoorkar
+
+Coordinator, Stamatics
+
+Address: E-119, Hall-1 IIT Kanpur
+
+Phone: +91-7054123152
+
+Email:  mkrishna@iitk.ac.in
+
+=== stamatics leaderboard ===
+Source: https://www.iitk.ac.in/math/STAMATICS/leaderboard.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Mathemania Leaderboard
+
+Rank |
+Team Name |
+First Member |
+Second Member |
+Third Member |
+
+1 |
+SharpEye |
+Abhishek Dang |
+Hrishikesh Terdalkar |
+
+2 |
+Math Wizard |
+Ankur |
+Tushar |
+Shubham |
+
+3 |
+Math Wizards |
+Ankush Tiwari |
+Harshit Shinghal |
+Siddhartha Srivastava |
+
+4 |
+S.M.E. |
+Devashish Mehta |
+Gaurav Kumar |
+Pranjal Prasoon |
+
+5 |
+Mathmund3 |
+Anirudh Anil Ojha |
+Abhyuday Pandey |
+Ayush Kumar |
+
+6 |
+supremum |
+Ananta Mukherjee |
+Sagnik Mukherjee |
+Sagnik Bhattacharya |
+
+7 |
+2*1 mathematicians |
+nikunj kothari |
+archit Agrawal |
+
+8 |
+Math πrates |
+Harish Dechiraju |
+Debashish Reang |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+Mihir Jewalikar |
+
+9 |
+πrates |
+Abhinav Puwar |
+Kshitij Yeotikar |
+Nihir Gulati |
+
+10 |
+Bazinga |
+Agrim Bari |
+Prakhar Agarwal |
+Shubhojyoti Nath |
+
+11 |
+Imaginary eyes |
+Shivam Kumar |
+Skand rajmeet upadhyay |
+Rohan Gupta |
+
+12 |
+F211 |
+Pritesh Kumbhare |
+Yaman Sanghvi |
+
+13 |
+Sine sensu autem glacies aetate |
+Rishav Goyal |
+Akhilesh Chauhan |
+Sudhanshu Bansal |
+
+14 |
+Hideous Heads |
+Bismay Swain |
+Nishant Maheshwari |
+Rhythm Pathak |
+
+15 |
+Pi Eaters |
+Triptesh Biswas |
+Sayak Chakrabarty |
+Aamir Ahmed Makki |
+
+16 |
+Math Pirates |
+Kishan Nawal |
+Aniket Gupta |
+Saurav Prakash |
+
+17 |
+Mathletes |
+Durgesh Rajendra Agrawal |
+Yugesh Kothari |
+Harshit Garg |
+
+18 |
+Team 1000101 |
+Neil Rajiv Shirude |
+Parth Athale |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+Abhijaat Kotamkar |
+
+19 |
+Valar Morghulis |
+Aditya Prakash Singh |
+Jatin Jindal |
+Rohan Garg |
+
+20 |
+AKA |
+Kaushal Agrawal |
+Anivesh  |
+Archit Mantri |
+
+21 |
+Number Blasters |
+Rishabh Sanjay |
+Mohammad Saquib Hussein |
+Harsh Jayant |
+
+22 |
+HashInclude |
+Pushkar Dixit |
+Gagandeep Singh |
+Himanshu Arora |
+
+23 |
+Mathemagicians |
+Abhit zakhmi |
+Jaspreet singh |
+Vakul bansal |
+
+24 |
+ganaganis |
+Seelam Ganesh |
+Koushik pithani |
+prabhu vamsi yadav |
+
+25 |
+21 (pi) lots |
+Safa Mustafa Sheick |
+Shashank C |
+
+26 |
+Afraid of 0 |
+Tushar Pandey |
+Yashaswi Sinha |
+
+27 |
+Pythagorean Triplet |
+Utkarsh |
+Umang Malik |
+Yash Srivastava |
+
+28 |
+Faceless Men |
+Raghukul Raman |
+Aryaman Jha |
+Vibhor Porwal |
+
+29 |
+Math Hackers |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+Sarthak Singhal |
+Aniket Sanghi |
+Aman Kumar Thakur |
+
+30 |
+Rock Math |
+Parv Jain  |
+Chirag Jindal |
+Naman Jain |
+
+31 |
+(3.14) rates |
+Aman Sethia |
+Saksham katiyar |
+Amit Tiwari |
+
+32 |
+Complex Analysts |
+Mutta. Ramesh Chandra Prem |
+Aakash Lahoti |
+Rochak Ranjan Parida |
+
+33 |
+Laplacian triplets  |
+Devansh Shringi |
+Shubhendra Singh |
+Ayush agarwal |
+
+34 |
+MTH101 |
+Shibalik Lahiri |
+Geetam |
+Kunal Sharma |
+
+35 |
+Math Wizard |
+Parimal Mukul |
+Ayan Banerjee |
+Alan Nair |
+
+36 |
+Brain Tweezers |
+Vipul Bajaj |
+Yogesh kumar |
+hitesh kumar |
+
+37 |
+Mathemakers |
+Rishabh Kumar |
+Nikhil Bansal |
+Sachin Anand |
+
+38 |
+Math πrates |
+Aditya Gulati |
+Abhishek Soni |
+
+39 |
+Math pirates  |
+Neelesh Kumar Vij  |
+Hargun Preet Singh Bhatia |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+
+40 |
+Maths ka shaktiman |
+Rohit Kumar |
+Parth Pandey |
+Ranjan Kumar |
+
+41 |
+The Mathians |
+Vipul Shankhpal |
+Ajay Prajapati |
+Garimella Mohan Raghu |
+
+42 |
+3 slices of pi |
+Aditya Mishra |
+Anany Sharma |
+Ram Goyal |
+
+43 |
+stick and stone |
+Ashish Agarwal |
+Harsh Thakur |
+Utkarsh Thukral |
+
+44 |
+Vector |
+Anirudh |
+Ashish kumar |
+Shivam kumar |
+
+45 |
+Cosmic Ninjas |
+Prajwal Samal |
+Paramveer Dharmavir Rao  |
+
+46 |
+Undefined |
+Sparsh Kaoshik |
+Nikhil Bansal |
+Sagnik Dey |
+
+47 |
+B6 INTEGRALS |
+Krishna Deo |
+Raghav agrawal |
+Renduchintala Bhanu Krishna Teja |
+
+48 |
+Mathadox |
+Aditya Sonthalia |
+Raghav Maheshwari |
+Srajit Kumar |
+
+49 |
+Math Champs |
+Jayant Ranwka |
+Aakash Khandelwal |
+
+50 |
+Team No.786 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+Rashmi |
+Surbhi |
+Richa mallik |
+
+51 |
+Aleph 3 |
+Abhinav Kumar |
+Raghav Garg |
+Saim Wani |
+
+52 |
+Mathengers |
+Vaibhav Thakkar  |
+Keshav Bansal  |
+
+53 |
+1729 |
+Madhur Deep Jain |
+Shobhit Jagga |
+Dikshant Sachan |
+
+54 |
+Ganith Intellect |
+Utkash Maken |
+Rishab Agarwal |
+
+55 |
+mathmatrix |
+aditya rai |
+yash verma |
+esha gupta |
+
+56 |
+Smooth Operators |
+Ashutosh Kumar |
+Ajeet |
+
+57 |
+Devil |
+Ansh Gupta |
+Ashish Shakyawar |
+Raushan Raj |
+
+58 |
+Ramanujan |
+Ramesh Patel  |
+Vikram Singh gurjar  |
+Sunil Kumar  |
+
+59 |
+Mssy |
+Yaghyesh chouhan |
+Mahipal bera |
+Shekher saini |
+
+60 |
+MTH101 |
+Ritesh Kumar |
+Aaiyush Kapurwan |
+Deepak Prajapati |
+
+61 |
+The Maths Worm |
+Mukesh Kumar  |
+Rohit Saini  |
+Piyush  |
+
+62 |
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > stamatics leaderboard]
+PG DAV  |
+Aman Arun  |
+Ravee Mishra |
+
+63 |
+Math Pirates  |
+Saurab Jain |
+Rahul Chandra  |
+Sabhay Jain |
+
+64 |
+The Turing Omnibus |
+Sudhanshu Mishra |
+Ankur Bajaj |
+Dhanish Kumar |
+
+65 |
+Epsilon  |
+Rik Ghosh |
+Aranyak Acharyya |
+Anish Chakrabarty |
+
+66 |
+Math πrates |
+Aditya Jindal |
+Aniket Sharma |
+Vijit Malik |
+
+67 |
+Mega Methamatrix |
+Shivam Arya |
+Mandeep Kumar |
+
+68 |
+Dr Odd |
+Prashant Tiwari |
+Monu Singh |
+Nonu Sharma |
+
+69 |
+Math frenchie |
+Tushar chahar |
+Dhruv sihag |
+
+70 |
+SV GROUP |
+Ch Suraj Kumar Patro |
+Vikram Singh |
+
+71 |
+Phantom |
+Nitin Kumar Gupta |
+
+72 |
+Dr. Strange |
+Satyam Jha |
+Anita Arora |
+Nibedita Ghosh |
+
+73 |
+WRE101 |
+Pravesh Singh |
+Saurabh Kumar |
+Ravindra Nath Shukla |
+
+=== stamatics mathemania ===
+Source: https://www.iitk.ac.in/math/STAMATICS/mathemania.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Mathemania
+
+Previous Years' Papers and Solutions
+
+Leaderboard, Mathemania-1
+
+Mathemania-2 Paper, 2017
+
+Mathemania-2 Solutions, 2017
+
+Mathemania-1 Paper, 2017
+
+Mathemania-1 Solutions, 2017
+
+Mathemania-1 Paper, 2016
+
+Mathemania-1 Solutions, 2016
+
+<!– Delay in Flipping –>
+
+Mathemania-2 Paper, 2016
+
+Mathemania-1 Solutions, 2015
+
+=== stamatics portfolio ===
+Source: https://www.iitk.ac.in/math/STAMATICS/portfolio.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+Stamatics Gallery
+
+Stamatics Talk
+
+Prof. Arbind Lal
+
+Hex(Board Game)
+
+Ayush Basu
+
+Last Lecture
+
+MTH302A
+
+Stamatics Talk
+
+Prof. Amit Kuber
+
+Stamatics Talk
+
+Prof. Amit kuber
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+Mathemania 1, 2017
+
+NCL, Room-303
+
+=== stamatics team ===
+Source: https://www.iitk.ac.in/math/STAMATICS/team.html
+Toggle navigation
+
+Portfolio
+
+Mathemania
+
+Team
+
+Contact
+
+The Stamatics team
+
+Stamatics Convener
+
+Prof. Amit Kuber
+
+Department of Mathematics & Statistics
+
+Overall Coordinators
+
+Harshit Bisht
+
+Coordinator
+
+Piyush Bagad
+
+Coordinator
+
+Krishna Manoorkar
+
+Coordinator
+
+Web Team
+
+Shubham Singh
+
+Executive, Web
+
+Harshit Garg
+
+Executive, Web
+
+Executives
+
+Kushagra Gupta
+
+Gunjan Jalori
+
+Aditya Gulati
+
+Esha Gupta
+
+Ayush Basu
+
+Medha Agarwal
+
+Prakhar Nagpal
+
+Rishabh Sanjay
+
+Ajay Prajapati
+
+Aditya
+
+=== suo moto ===
+Source: https://www.iitk.ac.in/math/suo-moto
+Click here for details regarding UG/PG Admission process.
+
+Click here for details regarding PhD Admission process.
+
+At present there are approx. 68 Ph.D. scholars enrolled in Mathematics.
+
+Faculty recruitment: The Department of Mathematics invites applications for faculty positions from bright and promising candidates in all areas of mathematics. Applicants with areas of interest that are related to the research groups here are strongly encouraged to apply.
+
+The recruitment process involves discusssion of the appropriateness of the application to the research groups here, along with an assessment of the candidate's publications by the different groups. If the candidate's application is found suitable then he/she is invited for a talk along with interaction with the faculty here. Only after there has been positive feedback from the department, is the candidate's application processed further for discussion at the institute level. The applicants are then short-listed for an interview based on the recommendations of the department and the institute level committee. The final selecetion is made by a selection committee consisting of experts.
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > suo moto]
+The department has 43 faculty, 17 IPDF, 2 NPDF, 6 FARE fellow, 2 inspire faculty fellow & 1 ramanujan faculty fellow currently.
+
+=== ug pg admission ===
+Source: https://www.iitk.ac.in/math/ug-pg-admission
+The Department of Mathematics at IIT Kanpur offers BS, BS-MS (dual-degree) in Mathematics and Scientific Computing and M.Sc programme in Mathematics. Admission to the BS programme is through the Joint Entrance Examination (JEE). The Joint Admission Test for M.Sc. (JAM) is conducted for admission to M.Sc. (Four Semesters) to all IITs. Admission to the M.Sc (Mathematics) programme is purely based on the performance in JAM. Further, information on the admission procedures of JEE and JAM can be found in the respective links below.
+
+Admission Procedure
+
+For any query related to UG/PG Programme contact:
+
+Department Under Graduate Committee Convener
+
+[Context: DEPARTMENT OF MATHEMATICS AND STATISTICS IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS > ug pg admission]
+Department of Mathematics, IIT Kanpur
+
+Phone: 0512-259-7636
+
+Department of Mathematics, IIT Kanpur
+
+Phone: 0512-259-7456
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/math/bs-y25 (bs y25)
+https://www.iitk.ac.in/math/bsh-y25 (bsh y25)
+https://www.iitk.ac.in/math/bsm-y25 (bsm y25)
+https://www.iitk.ac.in/math/phd-admission-2021-2022-1 (phd admission 2021 2022 1)

@@ -1,0 +1,568 @@
+DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND PEOPLE PAGES
+Name: Department of Space, Planetary and Astronomical Sciences and Engineering, IIT Kanpur - faculty, staff, students, alumni, awards and people pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/space. Snapshot: scraped in 2026.
+
+=== faculty ===
+Source: https://www.iitk.ac.in/space/faculty
+Amitesh Omar, Head of the department
+Ph.D., Raman Research Institute, Bangalore
+
+Research Interests: Galaxy astrophysics, Radio & Optical astronomy instrumentation
+
+Ishan Sharma
+Ph.D., Cornell University (2004)
+
+0512-259-6152
+Homepage
+
+Research Interests: Planetary science , Granular Mechanics , Contact Mechanics , Applied Mechanics
+
+Kunal P. Mooley
+Ph.D., Caltech, NRAO (2015)
+
+Research Interests: "Astrophysical transients, jets, compact objects, Galactic Center, Life in the Universe"
+
+Mohit Bhardwaj
+Ph.D., McGill University (2023)
+
++91-512-259-2641
+Room 202-c, Western Extension Lab
+Homepage
+
+Research Interests: Fast Radio Bursts, Compact Objects, Astrophysical Transients, Radio Astronomy Instrumentation, Astrostatistics
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > faculty]
+Mugundhan V.
+Ph.D., Indian Institute of Astrophysics (IIA)
+
+Room 717, ESB-2 Building
+Homepage
+
+Research Interests: Radio Astronomy, Interferometry, Astronomical Instrumentation and Space Weather
+
+Prashant Pathak
+Ph.D., SOKENDAI University
+
+Homepage
+
+Research Interests: Characterization of Exoplanets: direct imaging, transmission spectroscopy. *Adaptive optics and wavefront control techniques. *Ground and space-based optical and infrared instrumentation.
+
+Rohit Sharma
+Ph.D., NCRA-TIFR, Pune, India (2018)
+
+91-512-259-2515
+719, SPASE, 6th floor ESB-2 Building
+Homepage
+
+Research Interests: Solar Physics, Space Weather, Radio Astronomy, Plasma Physics, Radio Wave Propagation, Data Science, Imaging Algorithms
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > faculty]
+Sharvari Nadkarni Ghosh
+Ph.D., Cornell University
+
+Research Interests: Cosmology, non-linear large scale structure, non-linear dynamics.
+
+Soumyabrata Chakrabarty, Professor of Practice
+Ph.D., Indian Institute of Technology Kharagpur
+
+0512-679-2528
+ESB-II, Room No. 726 |    Homepage
+
+Research Interests: Space Weather interaction of Spacecrafts, Computational Electromagnetics, Design and development of Antennas for Radio Telescopes and Microwave Sensors
+
+Sumitesh Sarkar , Professor of Practice
+M.Tech. IISc, Bangalore (2001)
+
+0512-679-2647
+725, SPASE, 6th Floor, ESB-2 Building
+
+Research Interests: Satellite Communication & Navigation, Space Systems, Deepspace Communication & Navigation.
+
+Chhavi Jain , Assistant Professor
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > faculty]
+Ph.D., Yale University (2019)
+
+Research Interests: Geodynamics, Interior rheology of planets, Onset of convection and thermal evolution of planets, Geophysical inversion
+
+Visiting Faculty
+
+Arun Misra, Distinguished visiting professor
+McGill University, Canada
+
+Research Interests: Satellite dynamics and control, space robotics, and dynamics of aerospace structures
+
+Hiroaki Katsuragi, Distinguished visiting professor
+Osaka University, Japan
+
+Research Interests: Granular Matter, soft impact dynamics, planetary cratering
+
+Renu Malhotra, Distinguished visiting professor
+University of Arizona, U.S.A
+
+Research Interests: Planetary Science, Orbital Dynamics
+
+Yamini Jangir, Visiting Assistant Professor
+Ph.D., University of Southern California
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > faculty]
+Homepage
+
+Research Interests: Astrobiology, Microbe-Mineral Interaction, Microbial Ecology
+
+Abhay Gupta
+PhD, University of British Columbia (2009)
+
+Homepage
+
+Research Interests: Space Policy & Regulations, Space Economy, Industrial AI, Commercialization & Impact Pathways
+
+Emeritus Professor
+
+Pankaj Jain
+Ph.D., Syracuse University (1988)
+
+0512-259-7663 (O)
+Homepage
+
+Research Interests: Cosmology, Astrophysics, Cosmic Rays, X-ray Astronomy, Nuclear Fusion at low energies
+
+Inspire Faculty
+
+Sandeep Kumar Kataria, DST Inspire Faculty
+Ph.D., Indian Institute of Science and Indian Institute of Astrophysics (JAP)
+skkataria[at]iitk.ac.in
+Homepage
+
+Research Interests: Galactic and Extragalactic Astrophysics (Theory, Idealised/Cosmological Simulations & Observations)
+
+=== former heads ===
+Source: https://www.iitk.ac.in/space/former-heads
+S.No. | Name of Head | Year |
+
+1. |
+Prof. Pankaj Jain |
+2022-2024 |
+
+=== m tech students ===
+Source: https://www.iitk.ac.in/space/m-tech-students
+Teg Bahadur
+Roll no: 241310012
+
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Binder Finding to Increase the Strength of Moon Soil
+
+Abel George A
+Roll no: 241310001
+
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Magneto HydroDynamics
+
+Bahniman Ghosh
+Roll no: 251310003
+Room no. 709 (Space Instrumentation Lab)
+Thesis Supervisor: Mugundhan Vijayaraghavan
+
+Research Area: Space Instrumentation
+
+Diptangshu Dey
+Roll no: 251310004
+SPASE-703
+Thesis Supervisor: Kunal Mooley and Yamini Jangir
+
+Research Area: Space Instrumentation
+
+Saurav Mishra
+Roll no: 251310008
+
+709 (Space Instrumentation Lab)
+Thesis Supervisor: Mugundhan Vijayaraghavan
+Personal Webpage
+
+Research Area: Space Weather, Radio Astronomy
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > m tech students]
+Anirudh Singh
+Roll no: 251310002
+
+707, Optical Instrumentation Lab
+Thesis Supervisor: Ishan Sharma, Prashant Pathak
+
+Research Area: Opto-Mechanical Design & Instrumentation
+
+Mohd Intakhab Alam
+Roll no: 251310005
+
+Thesis Supervisor: Mohit Bhardwaj
+Personal Webpage
+
+Research Area: Fast Radio Bursts (FRBs), Intelligent Software Systems.
+
+Rohit Kumar
+Roll no: 251310007
+
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Development of Binders for Lunar regolith
+
+Pranay Shukla
+Roll no: 251310006
+
+Thesis Supervisor: Soumyabrata Chakrabarty
+
+Research Area: Large aperture reflector antennas and adaptive surface control
+
+Shubham Rawat
+Roll no: 251310009
+
+Thesis Supervisor: Soumyabrata Chakrabarty
+
+Research Area: AI/ML Surrogate Modeling, Autonomous Satellite Systems.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > m tech students]
+Aditya Saiprasad Waghmare
+Roll no: 261310001
+
+Akshar Kishore
+Roll no: 261310003
+
+Chandrakant Tripathi
+Roll no: 261310005
+
+Durvasula Yashaswini Kameswari
+Roll no: 261310007
+
+Krishn Kumar
+Roll no: 261310009
+
+Neeraj Chaudhary
+Roll no: 261310011
+
+Rahul Kumar Chaudhary
+Roll no: 261310013
+
+Sunil Kumar
+Roll no: 261310015
+
+Tanishq Pradip Shah
+Roll no: 261310017
+
+Tanishque Kumar Kanwar
+Roll no: 261310019
+
+=== ph d students ===
+Source: https://www.iitk.ac.in/space/ph-d-students
+Vikash Maan
+Roll no: 22131269
+
+Thesis Supervisor: Kunal.P.Mooley
+
+Research Area: X-ray Transients
+
+Toushif Alam
+Roll no: 22131268
+
+Thesis Supervisor: Kunal P. Mooley
+
+Research Area: Astrophysics
+
+Liza Verma
+Roll no: 22131265
+
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Shallow water MHD
+
+Riya Mullick
+Roll no: 22131266
+
+Thesis Supervisor: Amitesh Omar
+
+Research Area: Extragalactic Astronomy
+
+Gauri Pachpande
+Roll no: 22131263
+
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Granular Mechanics
+
+Gautam Das
+Roll no: 22131264
+
+Thesis Supervisor: Sharvari Nadkarni Ghosh
+
+Research Area: Large scale structure Formation, Radio Recombination Line
+
+Ankan Majumdar
+Roll no: 231310602
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > ph d students]
+Thesis Supervisor: Deepak Dhingra
+
+Research Area: Remote Sensing, Spectroscopy, Lunar Surface Composition
+
+Aman
+Roll no: 232310601
+
+Thesis Supervisor: Kunal P. Mooley
+
+Research Area: Study of compact object mergers and transient events.
+
+Ajisha C. Sajayan
+Roll no: 231310601
+
+Thesis Supervisor: Kunal P. Mooley
+
+Research Area: Optical Astrometry
+
+Satyendra Kumar
+Roll no: 232310602
+
+Thesis Supervisor: Deepak Dhingra
+
+Research Area: Lunar Geology, Impact Cratering, Planetary Science
+
+Samrat Ghosh
+Roll no: 231310603
+
+Thesis Supervisor: Kunal P. Mooley
+
+Research Area: Radio astronomy, VLBI Imaging, Pulsars, Space Instrumentation
+
+Wasim Mondal
+Roll no: 241310612
+
+Thesis Supervisor: Sharvari Nadkarni Ghosh
+
+Research Area: Cosmology
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > ph d students]
+Vilasanuo
+Roll no: 241310611
+
+Thesis Supervisor: Amitesh Omar and Avinash Deshpande
+
+Research Area: Pulsars
+
+Sujoy Nayak
+Roll no: 241310609
+
+Thesis Supervisor: Amitesh Omar
+
+Research Area: Optical Instrumentation, Polarimetry
+
+Abhirami S Raghu
+Roll no: 241310601
+
+Thesis Supervisor: Prashant Pathak
+
+Research Area: Adaptive Optics
+
+Pranav hariharan
+Roll no: 241310606
+
+Thesis Supervisor: Sharvari Nadkarni Ghosh
+
+Research Area: Detection of high redshifted hydrogen emission
+
+Shahebaj Hasan Shaikh
+Roll no: 241310608
+
+Thesis Supervisor: Amitesh Omar
+
+Research Area: Galaxy Astrophysics
+
+Abhishek Kulkarni
+Roll no: 241310602
+
+Thesis Supervisor: Kunal P. Mooley
+
+Research Area: X-ray Astronomy and Space Instrumentation.
+
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > ph d students]
+Mubashir Ali
+Roll no: 251310605
+SPASE-709
+Thesis Supervisor: Ishan Sharma
+
+Research Area: Granualar media
+
+Bhaska Moni Kalita
+Roll no: 251310603
+
+SPASE-708
+Thesis Supervisor: Rohit Sharma
+
+Research Area: Solar physics, Digital signal processing
+
+Poorva Singh
+Roll no: 251310606
+SPASE-708
+Thesis Supervisor: Mugundhan V.
+
+Research Area: Space Instrumentation
+
+Anirban Naskar
+Roll no: 251310602
+SPASE-708
+Thesis Supervisor: Amitesh Omar
+
+Research Area: Radio observation of galaxies and galaxy simulations
+
+Mitin
+Roll no: 251310604
+SPASE-708
+Thesis Supervisor: Rohit Sharma
+
+Research Area: Solar Physics
+
+Arnab Kundu
+Roll no: 252310601
+
+SPASE-708
+Thesis Supervisor: Rohit Sharma
+
+Research Area: Solar physics
+
+Bhawna Parashar
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > ph d students]
+Roll no: 252310602
+
+SPASE-708
+Thesis Supervisor: Ishan Sharma and Arun Misra
+
+Research Area: Spacecraft Dynamics
+
+Sagar Khare
+Roll no: 251310607
+
+SPASE-708
+Thesis Supervisor: Mohit Bhardwaj, Mugundhan V.
+
+Research Area: Radio Astronomy
+
+Shubhangi Singh
+Roll no: 241310009
+
+Thesis Supervisor: Deepak Dhingra
+
+Research Area: Planetary Science, Remote Sensing, Geological Mapping.
+
+Soumek Pattnaik
+Roll no: 241310010
+
+Research Area: Space weather and near-Earth space environment studies with relevance to spacecraft and Space Situational Awareness
+
+Ashwin Raju Kharat
+Roll no: 241310004
+
+Thesis Supervisor: Mohit Bhardwaj
+Website: https://www.ashwinrk.com/
+
+Research Area: Pulsar, Computational Astrophysics
+
+A Aditya
+[Context: DEPARTMENT OF SPACE, PLANETARY AND ASTRONOMICAL SCIENCES AND ENGINEERING IIT KANPUR - FACULTY,  > ph d students]
+Roll no: 261310601
+
+Anushka Jha
+Roll no: 261310602
+
+Anushree Dey
+Roll no: 261310603
+
+Arunkumar Kotagi
+Roll no: 261310604
+
+Biyas Chowdhury
+Roll no: 261310605
+
+Durakhshan Ashraf Qadri
+Roll no: 261310606
+
+Fayaz Uz Zaman
+Roll no: 261310607
+
+Laxmi Prasoon Barik
+Roll no: 261310608
+
+Mahiguhappriya Prakash
+Roll no: 261310609
+
+Mohd. Mehraj
+Roll no: 261310610
+
+Nachiket Milind Tatke
+Roll no: 261310611
+
+Nihal Mohamed Thalakkott
+Roll no: 261310612
+
+Soumi Mandal
+Roll no: 261310613
+
+Swarnankee Deb
+Roll no: 261310614
+
+=== post docs ===
+Source: https://www.iitk.ac.in/space/post-docs
+Bhaskar Arya
+Ph.D., IUCAA (2024)
+
+706
+
+Research Interest: IGM, metal absorption, large scale structures, machine learning
+
+Rahul Dubey
+Ph.D., Indian Institute of Technology Madras and Swinburne University of Technology, Australia (2022)
+
+Room No. 706, 6th Floor, SPASE Department, Engineering Science Building 2
+
+Research Interest: Impact Mechanics, Solid Mechanics, Planetary Impact, Computational Mechanics
+
+Tejpreet Kaur
+Phd: Panjab University, Chandigarh
+
+Homepage
+
+Research Interest: Galactic Chemical Evolution, Stellar Nucleosynthesis,Stellar Evolution, Massive Binary Stars, Short-lived Radio Nucleides,Origin of our Solar System
+
+=== research support staff ===
+Source: https://www.iitk.ac.in/space/research-support-staff
+Jayasandhya Meenakshinathan
+Research Establishment Officer (REO)
+
+Mubashir Ali
+Principal REO
+
+=== staff ===
+Source: https://www.iitk.ac.in/space/staff
+Office Staff
+
+Kshama Jaiswal, Superintendent
+
+2649
+New Eng. Science Building, Room No. 721
+
+Kumari Kirti, Senior Assistant
+
+2287
+New Engg Science bldg - 721
+
+Hariom Pandey , Junior Assistant
+
+New Engg Science bldg - 721
+
+Technical Staff
+
+Uma Shankar , Jr. Technical Superintendent
+
+2391
+New Engg Science bldg - 721
+
+Kundan Kharwar, Jr. Technician
+
+New Engg Science bldg - 721
+

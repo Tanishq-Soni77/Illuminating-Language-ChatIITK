@@ -1,0 +1,223 @@
+CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Centre for Lasers and Photonics (CELP) - Photonics Science and Engineering Programme, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/celp. Snapshot: scraped in 2026.
+
+=== course content ===
+Source: https://www.iitk.ac.in/celp/course-content
+CELP Department Courses:
+
+INTRODUCTION TO PHOTONICS
+(PSE601A) |
+Photonics deals with light generation, amplification, guiding, manipulation, and detection for harvesting information. This course introduces some of the fundamental aspects of photonics excluding generation and detection.
+Course Topics: Maxwell Equations, Wave Equations, Dielectric Media, Constitutive Relations Electromagnetic, Waves- Gaussian Beams, Absorption and Dispersion, Spatial and Temporal Coherence Boundary conditions, Fresnel’s equations and coefficients, Brewster and critical angles, Total internal reflection, Evanescent waves, ATR Polarization, Crystal optics and Optics of Anisotropic Media, Interference and Interferometers: Fabry Perot Electro-optics, Acousto-optics and modulators Fourier transform, optical Fourier transform and introduction to Diffraction Dielectric Waveguides – conditions for propagation, modes, dispersion, field distribution Suggested topics for photonics applications, if time permits, will include: Photonic devices in brief: Beam splitter, Waveplates, Optical Isolator, Wavelength Switches, Fabry Perot Filters, Bragg Mirrors, Micro-ring Resonators. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+PRINCIPLES OF LASERS AND DETECTORS
+(PSE602A) |
+This course provides an introduction to the fundamental principles governing the operation and design of coherent light sources and detection tools.
+Course Topics: Introduction to light sources, Lasers, principle of lasing Optical cavities, longitudinal, transverse modes, Stability Interaction of radiation with matter, Spontaneous emission Absorption and stimulated emission, line broadening mechanisms Population inversion, absorption and gain coefficients Pumping schemes (Rate equation based Lasing model) Three- and four- level lasers CW and pulsed lasers, Q-switching and mode-locking. Detection of optical radiation: Photomultiplier tubes, semiconductor photodiodes, avalanche photodiodes, Single photon detectors, dark current, thermal noise, shot noise. Measurement systems: Spectroscopy (Spectral and Temporal measurement systems), CCD, monochromater, pulse width measurement. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+NUMERICAL METHODS IN OPTICS
+(PSE603A) |
+This course aims to train a student to be able to numerically model problems related to optical phenomena. Each of the topics listed below will be accompanied by case studies related to optics. Some suggested case studies are: Ray Tracing using Matrix methods, Design of optical systems, Vectorial Wave propagation, Beam propagation, Anisotropic media, Modal description.
+Course Topics: Introduction to MATLAB/MATHMATICA type platform Linear algebra: matrices, matrix inversion; QR, Singular value decomposition, systems of equations, eigenvalues, eigenvectors, orthonormalization, condition number Laplace and Fourier transforms Vector calculus, Cartesian tensors Ordinary differential equations, series solution, Fourier series, Special functions Iterative and direct methods for linear algebraic equations; generalized inverses, least squares Numerical differentiation and integration; Numerical solution of 1st and second order ODEs, Runge-Kutta method, stability, stiff systems Partial differential equations, second order equations, classification, separation of variables, Sturm-Liouville theory Numerical solution of linear PDEs by the method of finite differences, stability Interpolation; Regression analysis Laplace equation, Poisson equation, Heat equation, Wave equation, Telegraph equation Complex variable theory Taylor series expansion, Taylor series approximation, applications such as linearization, root finding Signal processing fundamentals, time domain and frequency domain statistics, Convolution and Correlation, DFT applications. |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+PHOTONIC SYSTEMS AND APPLICATIONS
+(PSE604A) |
+Number of industrial and scientific applications related to photonics is growing rapidly across various disciplines. The basic courses in the first semester related to generation and transmission of photons deal with fundamental principles. The present course focuses on design issues for various applications/devices of photonics. Design of lasers, its tuning system and design of beam transmission components are discussed specific to different practical applications.
+Course Topics: Principles and Applications of Solid-State Laser Systems: Laser diode Structures, Mechanism of photon emission in semiconductor laser, Tunable semiconductor diode laser, rare earth doped lasers, Nd- Glass/Nd-Yag/Er- doped/Vd- Yag Lasers, Transition metal lasers, Ruby/Ti-Saphire lasers, High Power Diode lasers, DPSS Lasers, Quantum cascade Laser. Principles and Applications of Liquid and Gas Laser Systems: Dye laser, Tunable Lasers, Frequency stabilization, Tuning Techniques, Ar + lasers, He-Ne laser, CO2 lasers.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+Nonlinear optics:  Parametric processes, Phase matching, Nonlinear optical processes, SHG, Chirped pulse amplifier, parametricamplifier.
+Photonics Applications in Medicine and Surgery:  Laser Tissue Interaction, Turbid media, Depth of penetration, Thermal and optical properties of tissue, Heat dissipation by blood flow, Diagnostic application of lasers, Dosimetry Photon Transport theory, Measurement of tissue properties, Double integrating sphere. Laser Applications in Material Processing: Laser matter interaction, non-Fourier thermal transport, Ablation, Laser induced plasma, Laser micromachining, Microfabrication, Direct-write patterning, Laser CVD, Texturing, Joining, Annealing, Scribing Optical measurements: thin film measurements, Temperature and concentration measurements, Stresses, Flow imaging, Biomedical diagnostics, Optical Tomography Entertainment: CD Rom, Video Projection, Laser shows
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+Special Topics:  Plasmonics, Photonic crystals, Optical antennas, Photonic metamaterials, anophotonics |
+
+PHOTONICS LAB TECHNIQUES
+(PSE605A) |
+This course aims to develop the experimental skills of the students in the areas of optics and photonics.
+Course Topics: Beam parameter of He-Ne Laser, Diode Laser characteristics, Electro-optic effect in a Lithium Niobate Crystal and Magneto-optic effect in a Terbium doped glass rod, polarization studies, Mach-Zehnder Interferometry, Acousto- Optic modulator, Fresnel and Fraunhofer Diffraction, Nd: YAG laser and 2nd harmonic generation, Diffraction grating characterization and Fabry-Perot Interferometry, Measurement of temporal coherence of different light sources using Michelson interferometer, Alignment, acquisition, processing and reconstruction of holograms, Characterization of optical fiber |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+RESEARCH IN PHOTONICS AND LASERS
+(PSE606A) |
+This course will serve as a precursor to the full Master’s thesis that a student in the program will undertake in the second year. The purpose of the course is two-fold. It will reveal emerging trends in photonics and laser applications to the concerned student and bring out the topicality and importance of the program. The second goal is to train the student in various aspects of research methodology. These are literature survey, problem definition, preliminary analysis, defining a research program, conducting experiments/simulation, data analysis and interpretation, and report preparation. The student will identify and complete a short project during the semester. This project may be similar to his Master’s dissertation and may be guided by the thesis advisor, though it is not a requirement. The student grade will be based on a mid- term presentation and a final presentation combined with a report. A department level committee will evaluate all research projects and the committee chair will award the final grade.
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+This will be a S/X grade course.
+Research areas that can be pursued will evolve with time and reflect faculty interest. Possible topics include the following: Biophotonics, nanobiophotonics, Optical communication, Quantum cryptography Nonlinear optics Tomography Quantum dots, photonic crystals Laser manufacturing and materials processing Laser Instrumentation, PIV, Thermography, micro scale Imaging, Satellite Imaging Clouds, aerosols, Lidar spectroscopy Multiphoton imaging. Texts and references will be project specific. A few lectures will be given to assist students in data representation, thesis and manuscript preparation. It is proposed to allocate five lectures for these and will be conducted in the second half of the semester. The following reference will be appropriate in this context. T.N. Huckin and L.A. Olsen, Technical Writing and Professional Communication for nonnative speakers of English, second (international edition, McGraw Hill (1991) |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+SPECIAL TOPICS IN PHOTONICS
+(PSE607A) |
+This course provides flexibility to individual faculty members to offer new courses in the areas of their research interest. For example, the following course content was offered in Spring 2020 in the domain of quantum optics:
+Quick recap of Quantum mechanics: Particle wavefunction (probability density), Schrodinger equation, Operators, Commutators, Eigenfunctions and eigenvalues of Hermitian operators, Orthogonality and complete set, time-evolution of eigenstates and a general wavefunction, Simple Harmonic Oscillator, Dirac Notation (bra-ket algebra), Perturbation theory;
+
+Semi-classical interaction of electromagnetic field (classical) with matter (quantized): Interaction Hamiltonian, Transition rates, Fermi-’s Golden rule, Two- level model of an atom, Density matrix and Bloch equations, Rabi frequency, Spontaneous decay, lineshape in fluorescence, Seminal experiments;
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course content]
+Quantization of electromagnetic field (light): Single-mode and multi- mode quantized field (light);
+
+Classical and non- classical states of light: Interferometry experiments, Beam-splitters, single-photon based devices;
+
+Quantum mechanical interaction of electromagnetic field (quantized) with matter (quantized): Interaction Hamiltonian, Cavity QED.
+
+=== course structure ===
+Source: https://www.iitk.ac.in/celp/course-structure
+Course Structure of Academic Programs in Photonics Science and Engineering
+
+M.Tech Program
+For the M. Tech program, the minimum total credit requirement for students is 144 credits, with at least 54 course credits and 63 thesis credits. A student must obtain a minimum of 6.5 CPI for the award of M. Tech degree. The course structure of the M.Tech program is as follows:
+
+Semester 1
+
+Course Code | Course Title |
+
+PSE601A |
+Introduction to Photonics |
+
+PSE602A |
+Principles of Lasers and Detectors |
+
+Elective-1 |
+Any course with recommendation from DPGC |
+
+Elective-2 |
+Any course with recommendation from DPGC |
+
+Total Credits |
+36 |
+
+Semester 2
+
+Course Code | Course Title |
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course structure]
+PSE604A |
+Photonic Systems and Applications |
+
+PSE605A |
+Photonics Lab Techniques |
+
+PSE606A |
+Research in Photonics and Lasers |
+
+Elective-3 |
+Any course with recommendation from Supervisor/DPGC |
+
+Total Credits |
+36 |
+
+Semester 3
+
+Course Code | Course Title |
+
+PSE699 |
+M.Tech Thesis |
+
+Total Credits |
+36 |
+
+Semester 4
+
+Course Code | Course Title |
+
+PSE699 |
+M.Tech Thesis |
+
+Total Credits |
+36 |
+
+MS (By Research) Program
+For the MS (By Research) program, the minimum total credit requirement for students is 144 credits, with at least 36 course credits and 72 thesis credits. A student must obtain a minimum of 6.5 CPI for the award of MS (By Research) degree. The course structure of the MSR program is as follows:
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course structure]
+Semester 1
+
+Course Code | Course Title |
+
+PSE601A |
+Introduction to Photonics |
+
+Electives/Thesis credits |
+Courses with recommendation from Supervisor/DPGC and/or Thesis credits |
+
+Total Credits |
+36 |
+
+Semester 2
+
+Course Code | Course Title |
+
+Electives/Thesis credits |
+Courses with recommendation from Supervisor/DPGC and/or Thesis credits |
+
+Total Credits |
+36 |
+
+Semester 3
+
+Course Code | Course Title |
+
+PSE899 |
+MSR Thesis |
+
+Total Credits |
+36 |
+
+Semester 4
+
+Course Code | Course Title |
+
+PSE899 |
+MSR Thesis |
+
+Total Credits |
+36 |
+
+PhD Program
+The students with M.E./M.Tech degrees have to complete at least 36 course credits, and students with B. Tech/BS/M. Sc degrees are required to complete 72 course credits. The minimum total credit requirement for the PhD program is 216 credits, with at least 72 thesis credits. A student must maintain a minimum CPI of 7.0 to appear for the comprehensive examination, which is arranged by the department. After passing the comprehensive examination, the student is formally admitted to the PhD program. Thereafter, the student is required to pass the state of art seminar (SOTA) within six months from the comprehensive examination date. The course structure of the PhD program is as follows.
+
+[Context: CENTRE FOR LASERS AND PHOTONICS (CELP) - PHOTONICS SCIENCE AND ENGINEERING PROGRAMME IIT KANPUR > course structure]
+Semester 1
+
+Course Code | Course Title |
+
+PSE601A |
+Introduction to Photonics |
+
+PSE602A |
+Principles of Lasers and Detectors |
+
+Electives/Thesis credit |
+Courses with recommendation from Supervisor/DPGC and/or Thesis credits |
+
+Total Credits |
+36 |
+
+Semester 2
+
+Course Code | Course Title |
+
+PSE604A |
+Photonic Systems and Applications |
+
+PSE605A |
+Photonics Lab Techniques |
+
+Electives /Thesis credit |
+Courses with recommendation from Supervisor/DPGC and/or Thesis credits |
+
+Total Credits |
+36 |
+
+Semester 3 onward
+
+Course Code | Course Title |
+
+PSE799 |
+PhD Thesis |
+
+Total Credits |
+36 |
+

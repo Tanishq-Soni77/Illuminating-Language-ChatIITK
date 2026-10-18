@@ -1,0 +1,71 @@
+DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Department of Intelligent Systems (established 2025 within the Wadhwani School for AI and Intelligent Systems), IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/dis. Snapshot: scraped in 2026.
+
+=== emerging minds talk series ===
+Source: https://www.iitk.ac.in/dis/emerging-minds-talk-series
+Date: Mar 11, 2026
+Speaker’s Name: Dr. Nikhil Naik, University of Southern California Graduate
+Title: Formal and Scalable Cyber-Physical System Design for Assured Resilient Autonomy
+Venue: Room No. 208, JEE Building, IIT Kanpur
+
+Speaker Bio
+Nikhil Naik is a PhD graduate from the Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California. He worked under the supervision of Prof. Pierluigi Nuzzo. He received his Bachelor of Technology (Hons.) Degree in Instrumentation Engineering from the Department of Electrical Engineering, Indian Institute of Technology, Kharagpur in 2018, and an MS degree in Electrical and Computer Engineering from the University of Southern California in 2020. He is a recipient of the Annenberg Fellowship from USC, the DAC Young Fellowship Award from the Design Automation Conference in 2021, and the JPL Graduate Fellowship (JPLGF) from the NASA Jet Propulsion Laboratory in 2023. He is currently based in East Hartford, Connecticut, working as a senior engineer at the industrial research laboratory of a major defense conglomerate in the USA.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > emerging minds talk series]
+Abstract
+Designing complex systems such as space rovers is typically a hierarchical process. Beginning with a conceptual model of the system, these processes culminate in the realization of each system component, followed by component integration and system performance evaluation. Owing to this layered heterogeneity, verifying correctness, completeness, and inter-layer traceability for safety and mission assurance is challenging. Further, existing manual verification methods may be intractable in the emerging paradigm of autonomous cyber-physical systems.
+
+We present formal approaches to tackle this challenge of assured autonomy, namely, developing scalable design and verification algorithms to provide sound performance guarantees. Our work leverages assume-guarantee contracts, a specification paradigm founded on model-based design. Contracts capture the scope of operation of each component in a system, specifying how a component is expected to operate (guarantees), subject to its functional context (assumptions). Contracts facilitate scalability through a rigorous algebra, which supports compositional design and verification methods. We model requirement hierarchies with a graph of contracts, which we term heterogeneous hierarchical contract networks, through which traceability validation can be performed algorithmically. We introduce contract embeddings to rigorously map contracts between different abstraction layers and use them for automatically decomposing system-level specifications into component specifications. We show how contract embeddings can support compositional design for layered control architectures, in which the coordination of different objectives, such as high-level planning and low-level safe control, is essential. Then, we discuss contract-based specification frameworks for deep neural networks, which enable verification of multiple robustness properties on neural networks and scalable verification of closed-loop neural network-controlled systems. We conclude by summarizing ongoing work and outlining future directions toward resilient design of autonomous systems.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > emerging minds talk series]
+Photos
+
+Date: Nov 10, 2025
+Speaker’s Name: Dr. Sabyasachi Basu, Microsoft Research, India
+Title: Bridging Theory and Practice in Dense Subgraph Decompositionsy
+Venue: KD102
+
+Speaker Bio
+Dr. Sabyasachi Basu is a postdoctoral researcher at Microsoft Research India, where he works with the vector search team (DiskANN) on problems in quantization and retrieval. He earned his PhD in Computer Science from the University of California, Santa Cruz, where he worked with C. Seshadhri on sublinear algorithms and graph decompositions. Previously, he completed his undergraduate studies in Mathematics at IISc Bangalore. His research interests include using theoretical insights to design algorithms for real-world data and exploring theoretical questions arising from empirical observations.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > emerging minds talk series]
+Abstract
+Decompositions of large-scale networks are central to many applications in graph mining, network science, and algorithm design. Over several decades, a rich body of work has developed techniques to partition networks with various different objectives. However, a noticeable gap persists between methods with strong theoretical guarantees and those that perform well in practice. Practical algorithms often lack provable guarantees, while theoretically sound methods are rarely straightforward to implement and scale poorly.
+
+This talk presents a suite of techniques aimed at bridging this gap, focusing on dense subgraph decomposition — a fundamental problem with numerous real-world applications and a close relation to community detection. We introduce fast, theoretically grounded algorithms that perform efficiently on large datasets, along with new objectives and frameworks that capture structural properties of real-world networks. If time permits, Dr. Basu will also discuss challenges and successes in developing similar algorithms for overlapping clusters.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > emerging minds talk series]
+Photos
+
+=== is lecture series ===
+Source: https://www.iitk.ac.in/dis/is-lecture-series
+Date: July 22, 2025
+Speaker’s Name & Affiliation: Prof. Jyotirmoy Deshmukh, Associate Professor, University of Southern California; Co-Director, USC Center for Autonomy and AI.
+Title: Logic-guided and Game-Theoretic Techniques for Planning and Monitoring of Multi-agent Autonomous Systems
+Venue: RM101
+
+Speaker Bio
+Jyotirmoy (Jyo) Deshmukh is an Associate Professor of Computer Science and Electrical and Computer Engineering at the University of Southern California. He is also the co-Director of the USC Center for Autonomy and AI. He transitioned to his role as an educator in 2017 after five years of work as a Principal Research Engineer at Toyota Motors North America R&D. Before joining Toyota, he was the 2010 Computing Innovation Post-Doctoral Fellow at the University of Pennsylvania. He received his Ph.D. in Computer Engineering from the University of Texas at Austin in 2010.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > is lecture series]
+Dr. Deshmukh has received several accolades, including Best Paper Awards at prestigious conferences such as ESOP, RV, EMSOFT, and HSCC, as well as from the IEEE Transactions on Computer-Aided Design (TCAD) journal. He is a recipient of the NSF CAREER Award and the Amazon Faculty Research Award. His current research interests include the application of formal methods to reason about cyber-physical systems, verification and testing of embedded control systems, real-time temporal logics, and analyzing time-series data. He is particularly interested in studying cyber-physical systems that use machine learning–based components, such as autonomous driving vehicles.
+
+Abstract
+Designing and verifying planning algorithms for multi-agent systems (MAS) is significantly more complex than single-agent systems due to the added burden of communication, coordination, and cooperation required between agents. In a decentralized MAS, agents rely on their own sensors coupled with communication with other agents to perceive the environment. Maintaining a consistent global estimate of the environment state may thus incur significant communication cost. Agents may operate in congested environments where coordinating their planned motion is crucial to ensure that agents do not collide or prevent each other from accomplishing their tasks. Task objectives for agents may be different, agents may be homogeneous or heterogeneous, and task objectives could be simple sequences of reach-avoid tasks or more complicated long-horizon temporal tasks. In order to reason about such diverse considerations, it is crucial to develop logical formalisms that can unambiguously express MAS specifications and develop planning algorithms that guarantee logical specifications. In this talk, we examine some existing and new MAS formalisms, and discuss algorithms to perform monitoring of such MAS. We will also look at an overarching framework to design safe control strategies for MAS subject to individual and collective specifications using the framework of potential games. We will present some recent results on monitoring and control synthesis for multi-agent UAV environments based on the presented techniques.
+
+=== latest news archive ===
+Source: https://www.iitk.ac.in/dis/latest-news-archive
+Latest News Archive
+
+List of Candidates Selected for Admission to the Ph.D. Programme 2025–26 (II Semester)
+
+List of Candidates Shortlisted for Interview – Ph.D. Programme 2025–26 (II Semester)
+
+PhD Admissions (2025–26, Semester II)
+The online application portal is open from 21st October, 2025 (Tuesday), 02:00 PM to 10th November, 2025 (Monday), 02:00 PM.
+Application Link: Click here
+Brochure for More Information: Click here
+
+PhD admission advertisement link: https://iitk.ac.in/doaa/data/walk-in_phd.pdf
+

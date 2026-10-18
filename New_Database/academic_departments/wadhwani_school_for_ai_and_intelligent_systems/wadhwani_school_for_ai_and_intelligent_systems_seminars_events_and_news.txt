@@ -1,0 +1,89 @@
+WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Wadhwani School for AI and Intelligent Systems (WSAIS), IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/wsais. Snapshot: scraped in 2026.
+
+=== latest news ===
+Source: https://www.iitk.ac.in/wsais/latest-news.php
+
+Latest News
+
+Latest News
+
+Title: Three Research Papers from WSAIS Accepted at NeurIPS 2026
+
+Content: Three research papers co-authored by WSAIS faculty and their students have been accepted at NeurIPS 2026, the 40th Annual Conference on Neural Information Processing Systems.
+
+Two papers were co-authored by Dr. Rajiv Ratn Shah, along with his students and collaborators from the MIDAS Lab. The papers are:
+
+1. ExperiGen: Agentic Hypothesis Discovery from Observational Data.
+
+2. Practical Estimation of the Bayes Optimal Fairness-Accuracy Tradeoff with Soft Labels.
+
+A third paper, Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks, co-authored by Shivam Pal and his supervisor, Prof. Piyush Rai, was accepted at the conference.
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > latest news]
+Title: Prof. Angshuman Karmakar and his Students, Venkatesh Kumar and Anindya Ganguly, Win Qualcomm Innovation Fellowship (QIF) India 2026
+
+Content: Venkatesh Kumar and Anindya Ganguly, under the guidance of Prof. Angshuman Karmakar, have been selected as winners of the Qualcomm Innovation Fellowship (QIF) India 2026.
+
+Their project, “Pqfdo – Post Quantum Device Onboarding,” has been selected under the Secure System Design category. The team is the only winner in this category in the 2026 edition of the fellowship.
+
+Title: WSAIS Faculty’s Research Collaboration with Texas A&M University Accepted at WiCOMM 2026
+
+Content: Prof. Somitra Sanadhya, WSAIS, IIT Kanpur, in collaboration with Prof. Shreyas Kumar of Texas A&M University, along with their co-authors Shreeyanshi Saxena and Madhav Deorah, has had a research paper titled “Secure Agentic AI for Autonomous Cyber Defense in Software Defined Military Networks” accepted at the IEEE International Conference on Wireless Communication for Military Applications (WiCOMM 2026), to be held on 30–31 October 2026 in Dehradun, India.
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > latest news]
+The work examines the role of agentic AI in enabling autonomous cyber defense in software-defined military networks, with a focus on security, assurance, human authorization, and mission requirements.
+
+Title: Prof. Anirban Roy Publishes Research Paper in IEEE Transactions on Radar Systems
+
+Content: Prof. Anirban Roy, WSAIS, IIT Kanpur, along with his former student S. Sarkar, has published a research paper titled “Extended Object Tracking Algorithms within Interacting Multiple Model Framework for Automotive Radar Applications” in the IEEE Transactions on Radar Systems, July 2026.
+
+Paper:  https://ieeexplore.ieee.org/document/11630662
+
+Title: Prof. Somitra Sanadhya Presents Research on Multi-Layered QR Codes at USENIX 2026
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > latest news]
+Content: Prof. Somitra Sanadhya, WSAIS, IIT Kanpur, presented his research on multi-layered QR codes at USENIX 2026. The work, co-authored with Pulkit Garg, Robin Verma, and Dr. Gaurav Gupta, demonstrates how multiple values can be embedded in a single QR code and decoded differently based on scanning distance, with potential applications in QR data capacity, advertising, and cybersecurity.
+
+Title: WSAIS Faculty Presents Four Research Papers at IEEE SPACE 2026
+
+Content: Prof. Salahudden Salahudden, and Prof Anirban Roy, WSAIS, IIT Kanpur, along with his co-authors, presented research papers at the IEEE Aerospace and Defense (SPACE) Conference 2026, held from 19–21 July 2026 in Bengaluru.
+
+The four papers are:
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > latest news]
+1. Autonomous Landing of UAVs Using INDI Control with Ground Effect Modeling
+Authors: Salahudden Salahudden and Anirban Roy
+
+2. Flight Dynamics Simulation with Sliding Mode Control Under Atmospheric Disturbances
+Authors: Salahudden Salahudden
+
+3. Flight Dynamics and Closed-Loop Control of a Cyclocopter with Real-Time Visualization
+Authors: Salahudden Salahudden, Rahul Bansal, and Srikant Shekhar Padhee
+
+4. Incremental Nonlinear Dynamic Inversion Control of Hybrid Tiltrotor Aircraft with Asymmetric Rotor Placement
+Authors: Salahudden Salahudden and Anirban Roy
+
+=== wsais lecture series ===
+Source: https://www.iitk.ac.in/wsais/wsais-lecture-series.php
+
+Date: Aug 10, 2026 (Monday)
+Speaker’s Name: Dr. Shreyas Kumar, Professor of Practice, Texas A&M University; Visiting Professor, WSAIS, IIT Kanpur
+Title: Mindset, Adaptability, and Resilience for a Cybersecurity Career
+Venue: RM 101, IIT Kanpur
+
+Speaker Bio
+
+Dr. Shreyas Kumar is a Professor of Practice at Texas A&M University in College Station, where he has received multiple teaching awards. He serves as a member of the U.S. National Committee Technical Advisory Group on Quantum Technologies and as an adviser to the United States Air Force and United States Space Force.
+
+Dr. Kumar is also a visiting professor at WSAIS IIT Kanpur. His industry experience includes roles at Adobe, Oracle, and Uber. He holds an MS and PhD in Computer Science, and a Master of Legal Studies from Texas A&M University.
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > wsais lecture series]
+Abstract
+
+Cybersecurity is a rapidly evolving field where technical knowledge alone is not enough for sustained success. Professionals must develop the mindset to learn continuously, adapt to emerging technologies, respond constructively to setbacks, operate under uncertainty, and make responsible decisions as threats evolve. This talk introduces students to the diverse career landscape of cybersecurity while emphasizing resilience, adaptability, curiosity, ethical judgment, and lifelong learning. It also examines how AI is reshaping cybersecurity roles and why future professionals must learn to work effectively with intelligent tools while retaining human judgment, accountability, and professional responsibility.
+
+[Context: WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS (WSAIS) IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS > wsais lecture series]
+Photo Gallery
+

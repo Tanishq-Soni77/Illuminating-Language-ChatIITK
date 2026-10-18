@@ -1,0 +1,823 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF MTH (MATHEMATICS AND STATISTICS) COURSES
+Name: All courses of Department of MTH (Mathematics and Statistics) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course MSO201A - PROBABILITY AND STATISTICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Probability: Axiomatic definition, properties, conditional probability, Bayes rule and independence of events. Random variables, distribution function, probability mass and densityfunctions, expectation, moments, moment generating function, Chebyshev’s inequality. Special distributions; Bernoulli, binomial, geometric, negative binomial, hypergeometric, Poisson, exponential, gamma, Weibull, beta, Cauchy, double exponential, normal. Reliability and hazardrate, reliability of series and parallel systems. Joint distributions, marginal and conditional distributions, moments, independence of random variables, covariance and correlation. Functionsof random variables. Weak Law of large numbers and Central limit theorems. Statistics: Descriptive statistics, graphical representation of the data, measures of location and variability. Population, sample, parameters. Point estimation; method of moments, maximum likelihood estimator, unbiasedness, consistency. Confidence intervals for mean, difference ofmeans, proportions. Testing of hypothesis; Null and alternate hypothesis, Neyman Pearson fundamental lemma, Tests for one sample and two sample problems for normal populations, testsfor proportions. Course Reference: 1. Introduction to Mathematical Statistics, by R V Hogg, A Craig and J W McKean; 2. An Introduction to Probability and Statistics by V.K. Rohatgi & A.K. Md. E. Saleh; 3. Introduction to Probability and Statistics by S. Milton & J.C. Arnold; 4. Introduction to Probability Theory and Statistical Inference by H.J. Larson; 5. Introduction to Probability and Statistics for Engineers and Scientists by S.M. Ross
+
+Course MSO203 - PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-2. Source: Courses of Study 2021, IIT Kanpur.
+Sturm Liouville BVP: introduction, examples. Sturm Liouville BVP: orthogonal functions, Sturm Liouville expansions. Fourier series, convergence of Fourier series, Fourier series with arbitrary period. Fourier series: sine and cosine series, half range expansion. Fourier integrals, Fourier: Legendre series. Fourier Transform. Introduction to PDE, linear, nonlinear (semi linear, quasi linear) examples, order of PDEs. First order (linear, semi linear) PDEs, interpretation, method of characteristics. First order (linear, semi linear) PDEs, general solutions. First order quasi linear PDEs, interpretation, method of characteristics, general solutions. Classification of 2nd order PDEs, Canonical form: hyperbolic equations. Canonical form: parabolic equations, elliptic equations. Wave equations: DAlembertfs formula, Duhamelfs principle. Wave equations: solutions for initial boundary value problems. Heat equation: uniqueness and maximum principle, applications. Heat equation: solutions for initial boundary value problems. Laplace and Poisson equations: Uniqueness and maximum principle for Dirichlet problem. Laplace and Poisson equations: BVP in 2D (rectangular, polar). Laplace and Poisson equations: BVP in 3D (spherical, cylindrical) Course Reference: 1. E. Kreyszig. Advanced Engineering Mathematics. (8th Edition); 2. T. Amarnath. An Elementary Course in Partial Differential Equations.
+
+Course MSO203B - PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-6. Source: Courses of Study 2021, IIT Kanpur.
+Sturm Liouville BVP: introduction, examples. Sturm Liouville BVP: orthogonal functions, Sturm Liouville expansions. Fourier series, convergence of Fourier series, Fourier series with arbitrary period. Fourier series: sine and cosine series, half range expansion. Fourier integrals, Fourier: Legendre series. Fourier Transform. Introduction to PDE, linear, nonlinear (semi linear, quasi linear) examples, order of PDEs. First order (linear, semi linear) PDEs, interpretation, method of characteristics. First order (linear, semi linear) PDEs, general solutions. First order quasi linear PDEs, interpretation, method of characteristics, general solutions. Classification of 2nd order PDEs, Canonical form: hyperbolic equations. Canonical form: parabolic equations, elliptic equations. Wave equations: DAlembertfs formula, Duhamelfs principle. Wave equations: solutions for initial boundary value problems. Heat equation: uniqueness and maximum principle, applications. Heat equation: solutions for initial boundary value problems. Laplace and Poisson equations: Uniqueness and maximum principle for Dirichlet problem. Laplace and Poisson equations: BVP in 2D (rectangular, polar). Laplace and Poisson equations: BVP in 3D (spherical, cylindrical) Course Reference: 1. E. Kreyszig. Advanced Engineering Mathematics. (8th Edition); 2. T. Amarnath. An Elementary Course in Partial Differential Equations.
+
+Course MTH100 - INTRODUCTION TO PROFESSION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 2-0-0-0-0. Source: Courses of Study 2021, IIT Kanpur.
+Mathematical thought process: Proofs by construction, existence, specialization, induction, contradiction, Abstraction, Sets: Russels paradox, Axiom of Choice,Counting, Infinity, Continuum Hypothesis, Numbers:Real numbers, Cantors diagonalization arguments, Complex numbers, Fundamental theorem of algebra, Fermats last theorem, Goldbachs conjecture, Analysis: Existence ofnowhere differentiable functions, Zenos paradox infinite series, Geometry: Eulers theorem, Mobius strip, Trisection of an angle, Squaring a circle, Euclids parallel postulate, NonEuclidean geometries, Mathematical structures: Euclidean structure, Metric spaces, Hilbert spaces, Topology, Groups, Rings, Modules,Vector spaces, Algebraic geometry, Networks, Map coloring, Graphs, Computation: Iteration Approximations, Computability, Church Turing thesis
+
+Course MTH101A - MATHEMATICS I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Real numbers, Sequences; Series; Power series, Limit, Continuity; Differentiability, Mean value theorems and applications; Linear Approximation, Newton and Picard method, Taylor’s theorem (one variable), Approximation by polynomials, Critical points, convexity, Curve tracing, Riemann Integral, fundamental theorems of integral calculus, Improper integrals, Trapezoidal and SimpsonÆs rule; error bounds, Space coordinates, lines and planes, Polar coordinates, Graphs of polar equations; Cylinders, Quadric surfaces, Volume, Area, length; Continuity, Differentiability of vector functions, arc length; Curvature, torsion, Serret-Frenet formulas, Functions of two or more variables, partial derivatives Statement only, of Taylor’s theorem and criteria for maxima/Minima/saddle points, Double, triple integrals, Jacobians; Surfaces, integrals, Vector Calculus, Green, Gauss, Stokes Theorems.,
+
+Course MTH101N - MATHEMATICS I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-1-4. Source: Courses of Study 2021, IIT Kanpur.
+Real numbers, Sequences; Series; Power series, Limit, Continuity; Differentiability, Mean value theorems and applications; Linear Approximation, Newton and Picard method, Taylors theorem (one variable), Approximation by polynomials, Critical points, convexity, Curve tracing, Riemann Integral, fundamental theorems of integral calculus, Improper integrals, Trapezoidal and Simpsons rule; error bounds, Space coordinates, lines and planes, Polar coordinates, Graphs of polar equations; Cylinders, Quadric surfaces, Volume, Area, length; Continuity, Differentiability of vector functions, arc length; Curvature, torsion, SerretFrenet formulas, Functions of two or more variables, partial derivatives Statement only, of Taylors theorem and criteria for maxima/Minima/saddle points, Double, triple integrals, Jacobians; Surfaces, integrals, Vector Calculus, Green, Gauss, Stokes Theorems.,
+
+Course MTH102A - MATHEMATICS - II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Matrices: matrix operations (Addition, Scalar Multiplication, Multiplication,Transpose, Adjoint and their properties; Special types of matrices (Null, Identity,Diagonal, Triangular, Symmetric, Skew Symmetric, Hermitian, Skew Hermitian,Orthogonal, Unitary, Normal), Solution of the matrix Equation Ax = b; Rowreduced Echelon form, Determinants and their properties, Vector Space Rn(R); Subspaces; Linear Dependence/Independence; Basis; Standard Basis of Rn; Dimension; Coordinates with respect to a basis; Complementary Subspaces;Standard Inner product; Norm; GramSchmidt Orthogonalization Process; Generalization to the vector space Cn(C), Linear Transformation from Rn toRm (motivation, X* AX); Image of a basis identifies the linear transformation; Range Space and Rank; Null Space and Nullity; Matrix Representation of a linear transformation; Structure of the solutions of the matrix equation Ax=b; Linear Operators on Rn and their representation as square matrices; Similar Matrices and linear operators; Invertible linear operators; Inverse of a non-singular matrix; Cramers method to solve the matrix equation Ax=b; Eigenvalues and eigenvectors of a linear operator; Characteristic Equation; Bounds on eigenvalues;Diagonalizability of a linear operator; Properties of eigenvalues and eigenvectors of Hermitian, skewHermitian, Unitary, and Normal matrices (including symmetric, skewsymmetric, and orthogonal matrices), Implication of diagonalaizability ofthe matrix A + AT in the real quadratic form XT AX;
+
+Course MTH102N - MATHEMATICS - II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-1-4. Source: Courses of Study 2021, IIT Kanpur.
+Matrices: matrix operations (Addition, Scalar Multiplication, Multiplication,Transpose, Adjoint and their properties; Special types of matrices (Null, Identity,Diagonal, Triangular, Symmetric, Skew-Symmetric, Hermitian, SkewHermitian,Orthogonal, Unitary, Normal), Solution of the matrix Equation Ax=b; Row-reduced-Echelon form, Determinants and their properties, Vector Space Rn(R);Subspaces; Linear Dependence/Independence; Basis; Standard Basis of Rn;Dimension; Coordinates with respect to a basis; Complementary Subspaces;Standard Inner product; Norm; GramSchmidt Orthogonalization Process;Generalization to the vector space Cn(C), Linear Transformation from Rn to Rm (motivation, X* AX); Image of a basis identifies the linear transformation;Range Space and Rank; Null Space and Nullity; Matrix Representation of a linear transformation; Structure of the solutions of the matrix equation Ax=b; LinearOperators on Rn and their representation as square matrices; Similar Matrices and linear operators; Invertible linear operators; Inverse of a non-singular matrix; Cramers method to solve the matrix equation Ax=b; Eigenvalues and eigenvectors of a linear operator; Characteristic Equation; Bounds on eigenvalues; Diagonalizability of a linear operator; Properties of eigenvalues and eigenvectorsof Hermitian, skewHermitian, Unitary, and Normal matrices (including symmetric, skewsymmetric, and orthogonal matrices), Implication of diagonalaizability of the matrix A + AT in the real quadratic form XT AX;
+
+Course MTH201 - LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fields and linear equations. Vector spaces. Linear transformations and projections, Determinants. Elementary canonical forms: diagonalization, triangulation, primary decomposition etc. Secondary decomposition theorem, Rational canonical forms, Jordan canonical forms and some applications. Inner product spaces, Selfadjoint, Unitary and normal operators, Orthogonal projections. Bilinearforms, Symmetric, Skewsymmetric, Positive and semipositive forms etc.
+
+Course MTH201A - A FIRST COURSE IN LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Fields and linear equations. Vector spaces. Linear transformations and projections, Determinants. Elementary canonical forms: diagonalization, triangulation, primary decomposition etc. Secondary decomposition theorem, Rational canonicalforms, Jordan canonical forms and some applications. Inner product spaces, Selfadjoint, Unitary and normal operators, Orthogonal projections. Bilinearforms, Symmetric, Skewsymmetric, Positive and semipositive forms etc.
+
+Course MTH201N - LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fields and linear equations. Vector spaces. Linear transformations and projections, Determinants. Elementary canonical forms: diagonalization, triangulation, primary decomposition etc. Secondary decomposition theorem, Rational canonicalforms, Jordan canonical forms and some applications. Inner product spaces, Self adjoint, Unitary and normal operators, Orthogonal projections. Bilinear forms, Symmetric, Skewsymmetric, Positive and semipositive forms etc.
+
+Course MTH202 - DISCRETE MATHEMATICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Permutations and combinations and basic definitions. Generating functions. Polya’s enumeration theory. Recurrence relations. Principle of inclusion and exclusion. Balanced incomplete block design. Difference sets. System of distinct representatives. Orthogonal Latin squares. Hadamard matrices.
+
+Course MTH203N - MATHEMATICS - III
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-1-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction and Motivation to Differential Equations, First Order ODE f (x, y) geometrical Interpretation of solution, Equations reducible to separable form, Exact Equations, Integrating factor, Linear Equations, Orthogonal trajectories, Picards Theorem for IVP (without proof) and Picards iteration method, EulerMethod, Improved Eulers Method, Elementary types of equations. F (x, y, y); not solved for derivative, Second Order Linear differential equations: fundamental system of solutions and general solution of homogeneous equation. Use of Known solution to find another, Existence and uniqueness of solutionof IVP, Wronskian and general solution of nonhomogeneous equations. EulerCauchy Equation, extensions of the results to higher order linear equations,Power Series Method application to Legendre Eqn., Legendre Polynomials,Frobenious Method, Bessel equation, Properties of Bessel functions, SturmLiouville BVPs, Orthogonal functions, Sturm comparision Theorem, Laplace transform, Fourier Series and Integrals, Introduction to PDE, basic concepts,Linear and quasilinear first order PDE, second order PDE and classification ofsecond order semilinear PDE (Canonical form), D Alemberts formula and Duhamels principle for one dimensional wave equation, Laplaces and Poissons equations, Maximum principle with application, Fourier Method for IBV problem for wave and heat equation, rectangular region, Fourier method for Laplaces equation in three dimensions, Numerical methods for Laplaces and Poissons equations.
+
+Course MTH204 - ALGEBRA I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Some set theoretic notions: Relations, Functions, Partitions, Division algorithm. Various binary operations and examples. Groups and their properties, Subgroups, Cyclic groups and its subgroups, Group of integers and its properties, Fundamental theorem of arithmetic. Properties of subgroups, Lagrange theorem. Normal subgroupand Quotient group, Homomorphism, Isomorphism theorems. Symmetric group, Cyclic decomposition of a permutation, Alternating group. Group action, Class equation, Cauchy’s theorem, Sylow theorems and their applications. Ring and its properties, Characteristic of a ring, Integral domain, Field, Division ring. Ideals and Quotient ring, Homomorphism, Isomorphism theorems. Polynomial ring, Unique factorization domain, Principal Ideal domain, Euclidean domain, Gaussian ring. Course Reference: 1. Contemporary Abstract Algebra, Joseph A Gallian (Narosa Publishing House, NewDelhi, 1998); 2. Algebra, Michael Artin (Prentice Hall of India, New Delhi, 1994); 3. Abstract Algebra, John B Fraleigh (Narosa Publishing House, New Delhi, 1988); 4. Abstract Algebra, David S Dummit and Richard M Foote (John Wiley & Sons, NewDelhi, 1999).
+
+Course MTH204A - ABSTRACT ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Some set theoretic notions: Relations, Functions, Partitions, Division algorithm. Various binary operations and examples. Groups and their properties, Subgroups, Cyclic groups and its subgroups, Group of integers and its properties, Fundamental theorem of arithmetic. Properties of subgroups, Lagrange theorem. Normal subgroupand Quotient group, Homomorphism, Isomorphism theorems. Symmetric group, Cyclic decomposition of a permutation, Alternating group. Group action, Class equation, Cauchy’s theorem, Sylow theorems and their applications. Ring and its properties, Characteristic of a ring, Integral domain, Field, Division ring. Ideals and Quotient ring, Homomorphism, Isomorphism theorems. Polynomial ring, Unique factorization domain, Principal Ideal domain, Euclidean domain, Gaussian ring. Course Reference: 1. Contemporary Abstract Algebra, Joseph A Gallian (Narosa Publishing House, NewDelhi, 1998); 2. Algebra, Michael Artin (Prentice Hall of India, New Delhi, 1994); 3. Abstract Algebra, John B Fraleigh (Narosa Publishing House, New Delhi, 1988); 4. Abstract Algebra, David S Dummit and Richard M Foote (John Wiley & Sons, NewDelhi, 1999).
+
+Course MTH215 - NUMBER THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Divisibility, Primes, Congruences, Residue systems, Primitive roots; Quadratic reciprocity, some arithmetic functions, Farey fractions, Continued fractions, Some Diophantine equations, Bertrands postulate and the partition function.
+
+Course MTH215A - NUMBER THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Divisibility, Primes, Congruences, Residue systems, Primitive roots; Quadratic reciprocity, some arithmetic functions, Farey fractions, Continued fractions, some Diophantine equations, Bertrands postulate and the partition function.
+
+Course MTH300 - BASIC STRUCTURE OF MATHEMATICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Finite and Infinite Sets: Finite sets, Countable sets, Uncountable sets. Groupsand Symmetry: Groups, Subgroups, Lagrange theorem, Normal subgroups, Quotient groups, Group actions, Homomorphisms, Group of symmetry rigidmotion group, finite subgroups of the rotation group, symmetric group. MetricSpaces: Open sets, Closed sets, Sequences, Continuity, Complete metric spaces, Contraction principle and applications, Connectedness and compactness. Fractals: Metric space of fractals and its completeness, Iterated function systems, Attractor, Algorithms to generate fractals. Topology of Surfaces: Eulers theorem, Construction of surfaces by identification: Torus, mobius strip, Klein bottle.
+
+Course MTH301 - ANALYSIS - I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Real Number system: Completeness property. Countable and Uncountable.Metric Spaces: Metric spaces, Examples: lp, C [a; b]; Limit, Open sets, Convergenceof a sequence, Closed sets, Continuity. Completeness: Complete metric space, Nested set theorem, Baire category theorem, An application. Compactness: Totally bounded, Characterizations of compactness, Finite intersection property, Continuous functionson compact sets, Uniform continuity. Connectedness: Characterizations of connectedness, Continuous functions on connected sets, Path connected. Riemann integration: Denition and existence of integral, Fundamental theorem of calculus, Set of measure zero, Cantor set, Characterization of integrable functions. Convergence of sequence andseries of functions: Pointwise and uniform convergence of functions, Series of functions, Power series, Dini’s theorem, Ascoli’s theorem, Continuous function which is no where dierentiable, Weierstrass approximation theorem. Course Reference: 1. N.L. Carothers, Real Analysis; 2. R. R. Goldberg, Methods of Real Analysis; 3. W. Rudin, Principles of Mathematical Analysis.
+
+Course MTH301A - ANALYSIS- I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Real Number system: Completeness property. Countable and Uncountable.Metric Spaces: Metric spaces, Examples: lp, C [a; b]; Limit, Open sets, Convergence of a sequence, Closed sets, Continuity. Completeness: Complete metric space, Nested set theorem, Baire category theorem, An application. Compactness: Totally bounded, Characterizations of compactness, Finite intersection property, Continuous functionson compact sets, Uniform continuity. Connectedness: Characterizations of connectedness, Continuous functions on connected sets, Path connected. Riemann integration: Denition and existence of integral, Fundamental theorem of calculus, Set of measure zero, Cantor set, Characterization of integrable functions. Convergence of sequence andseries of functions: Pointwise and uniform convergence of functions, Series of functions, Power series, Dini’s theorem, Ascoli’s theorem, Continuous function which is no where differentiable, Weierstrass approximation theorem. Course Reference: 1. N.L. Carothers, Real Analysis; 2. R. R. Goldberg, Methods of Real Analysis; 3. W. Rudin, Principles of Mathematical Analysis.
+
+Course MTH302 - MATHEMATICAL LOGIC
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Formal theories, Consequence and deduction. Propositional Calculus: Syntax, Semantics, Applications; Axiomatic approach, Soundness, Consistency, Completeness. Other proof techniques: Sequent calculus, Tableaux. Boolean Algebras: Properties, Stone’s theorem. Completeness of propositional calculus with respect to the classof Boolean algebras. Classical rst order theories: Syntax, Semantics; Axiomatic approach, Soundness; Sequent calculus, Tableaux. Equality, examples of rst order theories with equality. Consistency, Completeness (sketch), Elementary model theory, Decidability. Godel’s incompleteness theorems: sketch. Course Reference: 1. R. Cori and D. Lascar, Mathematical Logic, Oxford, 2001; 2. A. Margaris, First Order Mathematical Logic, Dover, 1990; 3. J. Goubalt Larrecq and J. Mackie, Proof Theory and Automated Deduction, Kluwer,1997.
+
+Course MTH302A - SET THEORY & LOGIC
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Formal theories, Consequence and deduction. Propositional Calculus: Syntax, Semantics, Applications; Axiomatic approach, Soundness, Consistency, Completeness. Other proof techniques: Sequent calculus, Tableaux. Boolean Algebras: Properties, Stone’s theorem. Completeness of propositional calculus with respect to the classof Boolean algebras. Classical rst order theories: Syntax, Semantics; Axiomatic approach, Soundness; Sequent calculus, Tableaux. Equality, examples of rst order theories with equality. Consistency, Completeness (sketch), Elementary model theory, Decidability.Godel’s incompleteness theorems: sketch. Course Reference: 1. R. Cori and D. Lascar, Mathematical Logic, Oxford, 2001; 2. A. Margaris, First Order Mathematical Logic, Dover, 1990; 3. J. Goubalt Larrecq and J. Mackie, Proof Theory and Automated Deduction, Kluwer,1997.
+
+Course MTH304 - TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Topological spaces, Basis for a topology, The order topology, Subspace topology, Closed sets. Countability axioms, Limit points, Convergence of nets in topological spaces, Continuous functions, The product topology, Metric topology, Quotient topology. Connected spaces, Connected sets in R, Components and path components, Compact spaces, Compactness in metric spaces, Local compactness, One-point compactification. Separation axioms, Uryshons lemma, Uryshons metrization theorem, Tietz extension theorem. The Tychonoff theorem, Completely regular spaces, Stone Czech compactification.
+
+Course MTH304A - TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Topological spaces, Basis for a topology, The order topology, Subspace topology, Closed sets. Countability axioms, Limit points, Convergence of nets in topological spaces, Continuous functions, The product topology, Metric topology, Quotient topology. Connected spaces, Connected sets in R, Components and path components, Compact spaces, Compactness in metric spaces, Local compactness, One-point compactification. Separation axioms, Uryshons lemma, Uryshons metrization theorem, Tietz extension theorem. The Tychonoff theorem, Completely regular spaces, Stone Czech compactification.
+
+Course MTH305 - SEVERAL VARIABLE CALCULUS & DEFFERENTIAL GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Diferentiation: Denition and examples, Mean value inequality, Tangent planes to level sets of functions; Implicit mapping theorem, Inverse mapping theoremand applications; Taylor’s theorem and applications. Curves: Denition and examples, Regular curves, Plane curves, Curvature of plane curves, Isoperimetric inequality forplane curves; Space curves, Frenet Serret formula for space curves; Local existence theorem curves. Surfaces: Denition and examples; Tangent planes, Maps between surfaces; First fundamental and second fundamental forms; Curvature of surface; Hilbert’s theorem for compact surfaces; Gauss theorema Egregium. Course Reference: 1. Spivak, Calculus on manifolds, Springer; 2. Kumaresan, Dierential geometry and Lie groups, TRIM Series; 3. M P do Carmo, Dierential geometry of curves and surfaces, Prentice Hall; 4. A Pressley, Elementary dierential geometry, Springer India
+
+Course MTH305A - SEVERAL VARIABLE CALCULUS & DEFFERENTIAL GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Diferentiation: Denition and examples, Mean value inequality, Tangent planes to level sets of functions; Implicit mapping theorem, Inverse mapping theorem and applications; Taylor’s theorem and applications. Curves: Denition and examples, Regular curves, Plane curves, Curvature of plane curves, Isoperimetric inequality for plane curves; Space curves, Frenet Serret formula for space curves; Local existence theoremcurves. Surfaces: Denition and examples; Tangent planes, Maps between surfaces; First fundamental and second fundamental forms; Curvature of surface; Hilbert’s theorem for compact surfaces; Gauss theorema Egregium. Course Reference: 1. Spivak, Calculus on manifolds, Springer; 2. Kumaresan, Dierential geometry and Lie groups, TRIM Series; 3. M P do Carmo, Dierential geometry of curves and surfaces, Prentice Hall; 4. A Pressley, Elementary dierential geometry, Springer India
+
+Course MTH306 - LINEAR PROGRAMMING AND EXTENSIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Linear Models: Formulation and Examples, Basic Polyhedral Theory Convexity,Extreme points, Supporting hyperplanes etc, Simplex Algorithm Algebraic and Geometrical approaches, Artificial variable technique, Duality Theory: Fundamentalt heorem, Dual simplex method, Primaldual method, Sensitivity Analysis, Bounded Variable L.P.P. Transportation Problems: Models and Algorithms, Network Flows:Shortest path Problem, Max Flow problem and Mincost Flow problem, Dynamic Programming: Principle of optimality, Discrete and continuous models.
+
+Course MTH306A - LINEAR PROGRAMMING AND EXTENSIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Linear Models: Formulation and Examples, Basic Polyhedral Theory Convexity, Extreme points, Supporting hyperplanes etc, Simplex Algorithm Algebraic and Geometrical approaches, Artificial variable technique, Duality Theory: Fundamental theorem, Dual simplex method, Primaldual method, Sensitivity Analysis, Bounded Variable L.P.P. Transportation Problems: Models and Algorithms, Network Flows: Shortest path Problem, Max Flow problem and Mincost Flow problem, Dynamic Programming: Principle of optimality, Discrete and continuous models.
+
+Course MTH308 - PRINCIPLES OF NUMERICAL COMPUTATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Root nding problem: Methods and analysis; Interpolation: Methodsand analysis; Approximation: Least squares and minimax approximation; Numerical differentiation; Numerical integration: Methods and analysis; Numerical solution of linear systems; Numerical eigenvalue and eigenvector problem; Singular value decomposition. Course Reference: 1. Elementary Numerical Analysis, an algorithmic approach, S.D. Conte and Carl DeBoor; 2. An Introduction to Numerical Analysis, Kendall E Atkinson; 3. Numerical Methods for Scientic and Engineering Computations, M.K. Jain, S.R.K. Iyengar, R.K. Jain; 4. Introduction to Scientic Computing, C.F. Van Loan
+
+Course MTH308A - PRINCIPLES OF NUMERICAL COMPUTATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Root nding problem: Methods and analysis; Interpolation: Methodsand analysis; Approximation: Least squares and minimax approximation; Numerical differentiation; Numerical integration: Methods and analysis; Numerical solution of linear systems; Numerical eigenvalue and eigenvector problem; Singular value decomposition. Course Reference: 1. Elementary Numerical Analysis, an algorithmic approach, S.D. Conte and Carl DeBoor; 2. An Introduction to Numerical Analysis, Kendall E Atkinson; 3. Numerical Methods for Scientic and Engineering Computations, M.K. Jain, S.R.K. Iyengar, R.K. Jain; 4. Introduction to Scientic Computing, C.F. Van Loan
+
+Course MTH311 - PROBABILITY THEORY - I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Sets and set operations, Sample space, Sigma fields, Measurable spaces, Events. Measure spaces, Caratheodorys extension theorem, Construction of measures, Product spaces, Product measures. Probability measurer and its properties. Independence of events. Measurable functions, Approximations through simple functions, Random variables. Induced measures and probability distribution functions: discrete, continuous and absolutely continuous, one to one correspondence with induced probability measure, decomposition. Independence of random variables, Borel Cantelli lemmas. Integration in measure spaces, Expectation, Fatous lemma, Monotone convergence and dominated convergence theorems, Uniform integrability, Markov, Chebyshev, Cauchy Schwarz, Minkowski, Holder, Jensen and Lyapunov inequalities. Absolute continuity of measures, RandonNikodym theorem, Conditional expectation, Conditional probability measures. Fubinis theorem, Convolution. Functions of random variables, Jacobian theorem.
+
+Course MTH311A - PROBABILITY THEORY - I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Sets and set operations, Sample space, Sigma fields, Measurable spaces, Events. Measure spaces, Caratheodorys extension theorem, Construction of measures, Product spaces, Product measures. Probability measurer and its properties. Independence of events. Measurable functions, Approximations through simple functions, Random variables. Induced measures and probability distribution functions: discrete, continuous and absolutely continuous, one to onecorrespondence with induced probability measure, decomposition. Independence of random variables, Borel Cantelli lemmas. Integration in measure spaces, Expectation, Fatous lemma, Monotone convergence and dominated convergence theorems, Uniform integrability, Markov, Chebyshev, Cauchy Schwarz, Minkowski, Holder, Jensen and Lyapunov inequalities. Absolute continuity of measures, Randon Nikodym theorem, Conditional expectation, Conditional probability measures. Fubinis theorem, Convolution. Functions of random variables, Jacobian theorem.
+
+Course MTH391A - UG PROJECT (UGP-I)
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT (UGPI)
+
+Course MTH392A - UNDER GRADUATE PROJECT II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-9-0-9. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT (UGPII)
+
+Course MTH393A - UG PROJECT (UGP-III)
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+UG PROJECT (UGPIII)
+
+Course MTH399A - TECHNICAL COMMUNICATIO N SKILLS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-0-2-2. Source: Courses of Study 2021, IIT Kanpur.
+Technical Communication
+
+Course MTH401 - THEORY OF COMPUTATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Regular languages, Deterministic and nondeterministic nite automata, Closure properties, Languages that are and are not regular, State minimizationin deterministic nite automata. Contextfree languages, Closure properties, Parsetrees, Languages that are and are not contextfree, Pushdown automata. Turing machines, Turing computability, ChurchTuring thesis, Halting problem, Some undecidable problems. Computational complexity, Classes P and NP, NPcompleteness, Examples of NPcomplete problems. Course Reference: 1. H.R. Lewis and C.H. Papadimitriou: Elements of the Theory of Computation, PrenticeHall, 1998; 2. J.E. Hopcroft, R. Motwani, J.D. Ullman, Introduction to Automata Theory, Languages, and Computation, Pearson Education, 2001.
+
+Course MTH401A - THEORY OF COMPUTATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Regular languages, Deterministic and nondeterministic nite automata, Closure properties, Languages that are and are not regular, State minimizationin deterministic nite automata. Context free languages, Closure properties, Parsetrees, Languages that are and are not contextfree, Pushdown automata. Turing machines, Turing computability, Church Turing thesis, Halting problem, Some undecidable problems. Computational complexity, Classes P and NP, NP completeness, Examples of NP complete problems. Course Reference: 1. H.R. Lewis and C.H. Papadimitriou: Elements of the Theory of Computation, PrenticeHall, 1998; 2. J.E. Hopcroft, R. Motwani, J.D. Ullman, Introduction to Automata Theory, Languages, and Computation, Pearson Education, 2001.
+
+Course MTH403 - COMPLEX ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Topology on C, Convergence and continuity. Cauchy Riemann equation, Elementary Functions. Power series: Convergence, Exponential, Trigonometric functions. Integration along curves, Cauchy Goursat Theorem, Cauchy’s theorem for disc, Evaluation of some integrals, Cauchy integral formula, Liouville theorem and fundamental theorem of Algebra, Identity theorem, Morera’s theorem. Zeros and poles, Residue theorem, Evaluation of some integrals. Riemann theorem on removable singularities, Essential singularities, Casorati Weierstrass theorem. Riemann sphere, Argument principle, Rouche’s theorem, Open mapping theorem, Maximum modulus principle, Cauchy’s theorem for simply connected domain, Analyticity of complex logarithm. Harmonic functions, Poisson integral formula, Characterization of harmonic functions through MVP.Fractional linear transformation, Schwartz lemma, Pick’s lemma, Automorphisms of discand upper half plane. Montel theorem, Riemann mapping theorem. Course Reference: 1. Stein and Shakarchi: Complex Analysis, Princeton Lect. in Analysis; 2. Gamelin: Complex Analysis, Springer
+
+Course MTH403A - COMPLEX ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Topology on C, Convergence and continuity. Cauchy Riemann equation, Elementary Functions. Power series: Convergence, Exponential, Trigonometric functions. Integration along curves, CauchyGoursat Theorem, Cauchy’s theorem for disc, Evaluation of some integrals, Cauchy integral formula, Liouville theorem and fundamental theorem of Algebra, Identity theorem, Morera’s theorem. Zeros and poles, Residue theorem, Evaluation of some integrals. Riemann theorem on removable singularities, Essential singularities, Casorati Weierstrass theorem. Riemann sphere, Argument principle, Rouche’s theorem, Open mapping theorem, Maximum modulus principle, Cauch’s theorem for simply connected domain, Analyticity of complex logarithm. Harmonic functions, Poisson integral formula, Characterization of harmonic functions through MVP.Fractional linear transformation, Schwartz lemma, Pick’s lemma, Automorphisms of discand upper half plane. Montel theorem, Riemann mapping theorem. Course Reference :1. Stein and Shakarchi: Complex Analysis, Princeton Lect. in Analysis; 2. Gamelin: Complex Analysis, Springer
+
+Course MTH404 - ANALYSIS II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Lebesgue measure on Rn: Introduction, outer measure, measurable sets, Lebesgue measure, regularity properties, a nonmeasurable set, measurable functions, Egoroffs theorem, Lusins theorem. Lebesgue integration: Simple functions, Lebesgue integral of a bounded function over a set of finite measure, bounded convergence theorem, integral of nonnegative functions, FatousLemma, monotone convergence theorem, the general Lebesgue integral, Lebesgue convergence theorem, change of variable formula. Differentiation and integration: Functions of bounded variation, differentiation of an integral, absolutely continuity, Lpspaces: The Minkowskis inequality and Hlders inequality, completeness of Lp, denseness results in Lp. Fourier series: Definition of Fourierseries, formulation of convergence problems, The L2 theory of Fourier series, convergence of Fourier series.
+
+Course MTH404A - ANALYSIS II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Lebesgue measure on Rn: Introduction, outer measure, measurable sets, Lebesgue measure, regularity properties, a nonmeasurable set, measurable functions, Egoroffs theorem, Lusins theorem. Lebesgue integration: Simple functions, Lebesgue integral of a bounded function over a set of finite measure, bounded convergence theorem, integral of nonnegative functions, FatousLemma, monotone convergence theorem, the general Lebesgue integral, Lebesgue convergence theorem, change of variable formula. Differentiation and integration: Functions of bounded variation, differentiation of an integral, absolutely continuity, Lpspaces: The Minkowskis inequality and Hlders inequality, completeness of Lp, denseness results in Lp. Fourier series: Definition of Fourier series, formulation of convergence problems, The L2 theory of Fourier series, convergence of Fourier series.
+
+Course MTH405 - FUNCTIONAL ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of normed linear spaces: Normed linear spaces, Riesz lemma, characterization of finite dimensional spaces, Banach spaces. Bounded linear maps on a normed- linear spaces: Examples, linear map on finite dimensional spaces, finite dimensional spaces are isomorphic, operator norm. HahnBanach theorems: Geometric and extension forms and their applications. Three main theorems on Banach spaces: Uniform boundedness principle, divergence of Fourier series, closed graph theorem, projection, open mapping theorem, comparable norms. Dual spaces and adjoint of an operator: Duals of classical spaces, weak and weak* convergence, Banach Alaoglu theorem, adjoint of anoperator. Hilbert spaces: Inner product spaces, orthonormal set, GramSchmidt orthonormalization, Bessels inequality, Orthonormal basis, Separable Hilbertspaces. Projection and Riesz representation theorem: Orthonormal complements, orthogonal projections, projection theorem, Riesz representation theorem. Bounded operators on Hilbert spaces: Adjoint, normal, unitary, self adjointoperators, compact operators, eigen values, eigen vectors, Banach algebras. Spectral theorem: Spectral theorem for compact self adjoint operators, statement of spectral theorem for bounded self adjoint operators.
+
+Course MTH405A - FUNCTIONAL ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of normed linear spaces: Normed linear spaces, Riesz lemma, characterization of finite dimensional spaces, Banach spaces. Bounded linearmaps on a normed- linear spaces: Examples, linear map on finite dimensional spaces, finite dimensional spaces are isomorphic, operator norm. HahnBanach theorems: Geometric and extension forms and their applications. Three main theorems on Banach spaces: Uniform boundedness principle, divergence of Fourier series, closed graph theorem, projection, open mapping theorem, comparable norms. Dual spaces and adjoint of an operator: Duals of classical spaces, weak and weak* convergence, Banach Alaoglu theorem, adjoint of anoperator. Hilbert spaces: Inner product spaces, orthonormal set, GramSchmidt orthonormalization, Bessels inequality, Orthonormal basis, Separable Hilbert spaces. Projection and Riesz representation theorem: Orthonormal complements, orthogonal projections, projection theorem, Riesz representation theorem. Bounded operators on Hilbert spaces: Adjoint, normal, unitary, self adjoint operators, compact operators, eigen values, eigen vectors, Banach algebras. Spectral theorem: Spectral theorem for compact self adjoint operators, statement of spectral theorem for bounded self adjoint operators.
+
+Course MTH409 - COMPUTER PROGRAMMING AND DATA STRUCTURES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 2-1-1-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fortran 77: Integer and real operations, logic and complex operations, Control statements, Do statement, arrays subroutines and functions. Introduction todata structures in C Programming Language; Arrays: linear, Multidimensional, Records, Pointers, Stacks, queues, Linked Lists; Singly linked lists, doubled linked lists, circular linked lists, Application of Linked Lists; Polynomial addition, sparse matrices, Trees: binary trees, redblack trees, Hash tables. Some discussion about data structures in F90F95 with examples.
+
+Course MTH409A - COMPUTER PROGRAMMING AND DATA STRUCTURES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 2-1-1-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Fortran 77: Integer and real operations, logic and complex operations, Controlstatements, Do statement, arrays subroutines and functions. Introduction todata structures in C Programming Language; Arrays: linear, Multidimensional, Records, Pointers, Stacks, queues, Linked Lists; Singly linked lists, doubleedlinked lists, circular linked lists, Application of Linked Lists; Polynomial addition, sparse matrices, Trees: binary trees, redblack trees, Hash tables. somediscussion about data structures in F90F95 with examples. 21-JUL-2014
+
+Course MTH411 - PROBABILITY THEORY II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Tight families of probability distributions, Convergence of probability distribution functions, Hellys theorem, Helly Bray theorem, Skorohods fundamental theorem, Scheffes theorem; Weak convergence, Uniform integrability and convergence of expectations. Characteristic functions, Inversion formula, Levy continuity theorem, Expansion of characteristic functions, Polyas theorem, Bochners theorem. Moments and uniqueness of the probability distribution, Frechet Shohat theorem. Central limit theorems: Lindeberg Levy, Lyapunov and Lindeberg Feller. Various modes of convergence and the interrelations. Strong and weak laws of large numbers.
+
+Course MTH412 - APPLIED STOCHASTIC PROCESS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Definition and classification of general stochastic processes. Markov Chains: definition, transition probability matrices, classification of states, limiting properties. Markov Chains with Discrete State Space: Poisson process, birthand death processes. Renewal Process: renewal equation, mean renewal time, stopping time. Markov Process with Continuous State Space: Introduction to Brownian motion.
+
+Course MTH412A - APPLIED STOCHASTIC PROCESS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Definition and classification of general stochastic processes. Markov Chains: definition, transition probability matrices, classification of states, limiting properties. Markov Chains with Discrete State Space: Poisson process, birthand death processes. Renewal Process: renewal equation, mean renewal time, stopping time. Markov Process with Continuous State Space: Introduction to Brownian motion. 22-MAR-2014
+
+Course MTH413 - REAL AND COMPLEX ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Real and complex numbers; Open, closed and compact sets in Rn; Limits andcontinuity; Differentiation and Integration; Sequences and series; Sequences and series of functions; Complex integration.
+
+Course MTH413A - REAL AND COMPLEX ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Real and complex numbers; Open, closed and compact sets in Rn; Limits andcontinuity; Differentiation and Integration; Sequences and series; Sequences and series of functions; Complex integration.
+
+Course MTH415 - MATRIX THEORY AND LINEAR ESTIMATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Review of finite dimensional vector spaces (Null space and nullity), Linear dependence and independence, Matrix algebra, Rank of a Matrix, Inverse ofa nonsingular matrix. Hermite canonical forms, Generalised inverses, MoorePenrose inverse, solution of linear equations, Projection and orthogonal projection matrices, Idempotent matrices. Real quadratic forms, reduction of pair of real symmetric matrices, Singular value decomposition. extrema of a quadratic forms, Vector and matrix differentiation. Least squares theory and Gauss Mark off theorem, Cochran’s theorem and distribution of quadratic forms, testof single linear hypothesis and more than one hypothesis, ANOVA table, Confidence interval and regions, Power of Ftest. Multiple comparisons and simultaneous confidence intervals.
+
+Course MTH415A - MATRIX THEORY AND LINEAR ESTIMATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Review of finite dimensional vector spaces (Null space and nullity), Linear dependence and independence, Matrix algebra, Rank of a Matrix, Inverse ofa nonsingular matrix. Hermite canonical forms, Generalised inverses, MoorePenrose inverse, solution of linear equations, Projection and orthogonal projection matrices, Idempotent matrices. Real quadratic forms, reduction of pair of real symmetric matrices, Singular value decomposition. Extrema of a quadratic forms, Vector and matrix differentiation. Least squares theory and Gauss Markoff theorem, Cochran’s theorem and distribution of quadratic forms, test of single linear hypothesis and more than one hypothesis, ANOVA table, Confidence interval and regions, Power of Ftest. Multiple comparisons and simultaneous confidence intervals.
+
+Course MTH416 - REGRESSION ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Simple and multiple linear regression, Polynomial regression and orthogonal polynomials, Test of significance and confidence intervals for parameters. Residuals and their analysis for test of departure from the assumptions suchas fitness of model, normality, homogeneity of variances, detection of outliers, Influential observations, Power transformation of dependent and independent variables. Problem of multicollinearity, ridge regression and principal component regression, subset selection of explanatory variables, Mallow’s Cp statistic. Nonlinear regression, different methods for estimation (Least squares and Maximum likelihood), Asymptotic properties of estimators. Generalised Linear Models (GLIM), Analysis of binary and grouped data using logistic and log linear models.
+
+Course MTH416A - REGRESSION ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Simple and multiple linear regression, Polynomial regression and orthogonal polynomials, Test of significance and confidence intervals for parameters. Residuals and their analysis for test of departure from the assumptions suchas fitness of model, normality, homogeneity of variances, detection of outliers, Influential observations, Power transformation of dependent and independent variables. Problem of multicollinearity, ridge regression and principal component regression, subset selection of explanatory variables, Mallow’s Cp statistic. Nonlinear regression, different methods for estimation (Least squares and Maximum likelihood), Asymptotic properties of estimators. Generalised Linear Models (GLIM), Analysis of binary and grouped data using logistic and log linearmodels.
+
+Course MTH417 - SAMPLING THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Principles of sample surveys; Simple, Stratified and unequal probability sampling with and without replacement; ratio, product and regression method of estimation; systematic sampling; cluster and subsampling with equal unequal sizes; double sampling; sources of errors in surveys.
+
+Course MTH417A - SAMPLING THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Principles of sample surveys; Simple, Stratified and unequal probability samplingwith and without replacement; ratio, product and regression method of estimation; systematic sampling; cluster and subsampling with equal unequal sizes; double sampling; sources of errors in surveys.
+
+Course MTH418 - INFERENCE I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Parametric models, parametrs, random sample and its likelihood, statistic and its sampling distributions, problems of inference. Examples from standard discrete and continuous models such as Bernoulli, Binomial, Poisson, Negative Binomial, Normal, Exponential, Gamma, Weibull, Pareto etc. Concept of sufficiency, minimal sufficiency, Neyman factorization criterion, Fisher information, exponential families. Maximum likelihood estimators, method of moment estimators, percentile estimators, least squares estimators, minimum mean squares estimators, uniformly minimum variance unbiased estimators, RaoBlackwell theorem, CramerRao lower bond, different examples. Statistical Hyptheses simple and composite, statistical tests, critical regions, TypeI andTypeII errors, size and power of a test, Neyman Pearson lemma and its different applications. Most powerful test, uniformly most powerful test, unbiased testand uniformly most unbiased test. Likelihood ratio test. Interval estimation, confidence intervals, construction of confidence intervals, shortest expectedlength confidence interval, most accurate one sided confidence interval and itsrelation to UMP test.
+
+Course MTH418A - INFERENCE -I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Parametric models, parametrs, random sample and its likelihood, statistic andits sampling distributions, problems of inference. Examples from standard discrete and continuous models such as Bernoulli, Binomial, Poisson, Negative Binomial, Normal, Exponential, Gamma, Weibull, Pareto etc. Concept of sufficiency, minimal sufficiency, Neyman factorization criterion, Fisher information, exponential families. Maximum likelihood estimators, method of moment estimators, percentile estimators, least squares estimators, minimum mean squares estimators, uniformly minimum variance unbiased estimators, RaoBlackwell theorem, CramerRao lower bond, different examples. Statistical Hyptheses simple and composite, statistical tests, critical regions, TypeI and TypeII errors, size and power of a test, Neyman Pearson lemma and its different applications. Most powerful test, uniformly most powerful test, unbiased testand uniformly most unbiased test. Likelihood ratio test. Interval estimation, confidence intervals, construction of confidence intervals, shortest expected length confidence interval, most accurate one sided confidence interval and its relation to UMP test.
+
+Course MTH421 - ORDINARY DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to ODE; Existence and uniqueness of solution; Continuity and dierentiability of solution w.r.t. initial condition and parameters; Generaltheory of linear dierential equations; Methods of solving nonhomogeneous linear equations; CauchyEuler equation; Linear equations with periodic coecients; System of lineardierential equations; Stability theory for system of linear dierential equations; StrumLiouville boundary value problems, Oscillation theory; Green’s function. Course Reference: 1. Martin Brown, Dierential Equations and Their Applications, Springer, 1992; 2. S. L. Ross, Introduction to Ordinary Dierential Equations, Wiley, 1980; 3. Deo, Lakshmikantham, Raghavendra, Textbook of Ordinary Dierential Equations, Tata McGraw Hill, 1997; 4. C. Y. Lin, Theory and Examples of Ordinary Dierential Equations, World Scientic,2011.
+
+Course MTH421A - ORDINARY DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to ODE; Existence and uniqueness of solution; Continuityand dierentiability of solution w.r.t. initial condition and parameters; General theory of linear dierential equations; Methods of solving nonhomogeneous linear equations; CauchyEuler equation; Linear equations with periodic coecients; System of lineardierential equations; Stability theory for system of linear dierential equations; StrumLiouville boundary value problems, Oscillation theory; Green’s function. Course Reference: 1. Martin Brown, Dierential Equations and Their Applications, Springer, 1992; 2. S. L. Ross, Introduction to Ordinary Dierential Equations, Wiley, 1980; 3. Deo, Lakshmikantham, Raghavendra, Textbook of Ordinary Dierential Equations, Tata McGraw Hill, 1997; 4. C. Y. Lin, Theory and Examples of Ordinary Dierential Equations, World Scientic,2011.
+
+Course MTH423 - INTRODUCTION TO CONTINUUM MACHANICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fundamental concepts; Introduction to Cartesian tensors; Stress tensors and equilibrium equations; Theory of strain and rate of deformation tensor; Conservation laws and basic equations; Linear Elasticity {Hooke’s law, plane elasticity, Airy’s stress principle, Torsion and bending; Fluid mechanics} Incompressible inviscid flow, Incompressible viscous flow, Introduction to boundary layer theory Course Reference: 1. Introduction to Continuum Mechanics {M. Lai, D. Rubin, E. Krempl}; 2. Continuum Mechanics for Engineers {G. T. Mase and G. E. Mase}; 3. Elementary fluid mechanics {D. J. Acheson}; 4. Fluid Mechanics {P K Kundu and I M Cohen}; 5. Mathematical Theory of Elasticity {Sokolniko}
+
+Course MTH423A - INTRODUCTION TO CONTINUUM MACHANICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Fundamental concepts; Introduction to Cartesian tensors; Stress tensors and equilibrium equations; Theory of strain and rate of deformation tensor; Conservation laws and basic equations; Linear Elasticity {Hook’s law, plane elasticity, Airy’s stress principle, Torsion and bending}; Fluid mechanics} Incompressible inviscid flow, Incompressible viscous flow, Introduction to boundary layer theory} Course Reference: 1. Introduction to Continuum Mechanics {M. Lai, D. Rubin, E. Krempl}; 2. Continuum Mechanics for Engineers {G. T. Mase and G. E. Mase; 3. Elementary fluid mechanics D. J. Acheson}; 4. Fluid Mechanics {P K Kundu and I M Cohen}; 5. Mathematical Theory of Elasticity {Sokolniko}
+
+Course MTH424 - PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to PDEs, First order quasilinear and nonlinear equations; Higher order equations and classications; Solution of wave equations, Duhamel’s principle and applications; Existence and uniqueness of solutions; BVPs for Laplace’s andPoisson’s equations, Green’s function, Maximum principle for the Laplace equation; Heatequation, Maximum principle for the heat equation, Uniqueness of solutions of IVPs forheat conduction equation. Course Reference: 1. Robert C. McOwen: Partial Dierential Equations, Pearson Education Inc; 2. Alen Jerey: Applied Partial Dierential Equations, Academic Press; 3. Ervin Kreyszig: Advanced Engineering Mathematics, John Wiley & Sons; 4. T. Amarnath, An Elementary Course in Partial Dierential Equations, Narosa Publications.
+
+Course MTH424A - PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to PDEs, First order quasilinear and nonlinear equations; Higher order equations and classications; Solution of wave equations, Duhamel’s principleand applications; Existence and uniqueness of solutions; BVPs for Laplace’s and Poisson’s equations, Green’s function, Maximum principle for the Laplace equation; Heat equation, Maximum principle for the heat equation, Uniqueness of solutions of IVPs forheat conduction equation. Course Reference: 1. Robert C. McOwen: Partial Dierential Equations, Pearson Education Inc; 2. Alen Jerey: Applied Partial Dierential Equations, Academic Press; 3. Ervin Kreyszig: Advanced Engineering Mathematics, John Wiley & Sons; 4. T. Amarnath, An Elementary Course in Partial Dierential Equations, Narosa Publications.
+
+Course MTH428 - MATHEMATICAL METHODS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Multiple Integral Theorems and their Applications: Greens theorem, Stokes theorem and Gauss divergence theorem. Integral Transforms: Fourier, Fouriersine/cosine and Hankel Transforms with their inverse transforms (properties, convolution theorem and application to solve differential equation). Perturbation Methods: Perturbation theory, Regular perturbation theory, Singular perturbation theory, Asymptotic matching. Calculus of Variation: Introduction, Variational problem with functionals containing first order derivatives and Euler equations. Functionals containing higher order derivatives and several independent variables. Variational problem with moving boundaries. Boundaries with constraints. Higher order necessary conditions, Weiretrass function, Legendres and Jacobiscondition. Existence of solutions of variational problems. RayleighRitz method, statement of Ekelands variational principle; Self adjoint, normal and unitary operators; Banach algebras.
+
+Course MTH428A - MATHEMATICAL METHODS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Multiple Integral Theorems and their Applications: Greens theorem, Stokes theorem and Gauss divergence theorem. Integral Transforms: Fourier, Fouriersine/cosine and Hankel Transforms with their inverse transforms (properties, convolution theorem and application to solve differential equation). Perturbation Methods: Perturbation theory, Regular perturbation theory, Singular perturbation theory, Asymptotic matching. Calculus of Variation: Introduction, Variational problem with functionals containing first order derivatives and Euler equations. Functionals containing higher order derivatives and several independent variables. Variational problem with moving boundaries. Boundaries with constraints. Higher order necessary conditions, Weiretrass function, Legendres and Jacobis condition. Existence of solutions of variational problems. RayleighRitz method, statement of Ekelands variational principle; Self adjoint, normal and unitary operators; Banach algebras.
+
+Course MTH506 - OPTIMIZATION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Optimization Problem: various examples, Characterization of optimality and constrained optimal problems, Convex sets and convex functions and their properties, Nonlinear programming theory KuhnTucker conditions, Lagranges theory, Duality theory, Search techniques one variable and several variables, Pontryagins maximum principle and its applications, Dynamic programming and its applications.
+
+Course MTH511 - STATISTICAL SIMULATION AND DATA ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Simulation of random variables from discrete, continuous, multivariate distributions and stochastic processes, MonteCarlo methods. Regression analysis, scatter plot, residual analysis. Computer Intensive Inference Methods JackKnife, Bootstrap, cross validation, Monte Carlo methods and permutation tests. Graphical representation of multivariate data, Cluster analysis, Principal component analysis for dimension reduction.
+
+Course MTH511A - STATISTICAL SIMULATION AND DATA ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Simulation of random variables from discrete, continuous, multivariate distributions and stochastic processes, MonteCarlo methods. Regression analysis, scatterplot, residual analysis. Computer Intensive Inference Methods JackKnife, Bootstrap, cross validation, Monte Carlo methods and permutation tests. Graphical representation of multivariate data, Cluster analysis, Principal component analysis for dimension reduction.
+
+Course MTH512 - FOUNDATIONS OF MATHEMATICAL FINANCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of the financial markets, meaning of notions like asset portfolio derivatives (example: Futures, options forwwards etc.) Binomial asset pricing model under no arbitrage condition single period model, multiperiod model. Risk neutral probabilities, martingales in the discreate framework, risk neutral valuation of European and American ooptions under noarbitrage condition in the binomial framework. Introduction to continuous time models. Basic notions of probability theory onan infinite sample space. Change of measure and the Radon Nikodym derivative. Random walk and Brownian motion, Ito intergral and Ito formula BlackScholes formula for pricing, a European call option. Markowitz mean variance portfolio optimization problem. Single period andmulti period model, Capital asset pricing model, outlines of the measures ofrisk, Value at Risk (VaR) and Conditional Value at Risk (CVaR).
+
+Course MTH512A - FOUNDATIONS OF MATHEMATICAL FINANCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of the financial markets, meaning of notions like asset portfolio derivatives (example: Futures, options forwards etc.) Binomial asset pricing model under no arbitrage condition single period model, multiperiod model. riskneutral probabilities, martingales in the discreate framework, risk neutral valuation of European and American ooptions under no arbitrage condition in the binomial framework. Introduction to continuous time models. Basic notions of probability theory on an infinite sample space. Change of measure and the Radon Nikodym derivative. Random walk and Brownian motion, Ito intergral and Ito formula Black Scholes formula for pricing a European call option. Markowitz mean variance portfolio optimization problem. Single period and multi period model, Capital asset pricing model, outlines of the measures ofrisk, Value at Risk (VaR) and Conditional Value at Risk (CVaR)
+
+Course MTH513 - ANALYSIS OF VARIANCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Analysis of completely randomized design, randomized block design, Latin squares design; Splitplot; factorials with total and partial confounding, twoway nonorthogonal experiment, BIBD, PBIBD; Analysis of covariance, missing plot techniques; First and second order response surface designs.
+
+Course MTH513A - ANALYSIS OF VARIANCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Analysis of completely randomized design, randomized block design, Latinsquares design; Splitplot; factorials with total and partial confounding, twoway nonorthogonal experiment, BIBD, PBIBD; Analysis of covariance, missing plot techniques; First and second order response surface designs.
+
+Course MTH514 - MULTIVARIATE ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Multivariate normal distribution, assessing normality, Wishart and Hotellings T2; Comparisons of several multivariate means, MANOVA; multivariate linear regression models; principal components, factor analysis; canonical correlations; discrimination & classification.
+
+Course MTH514A - MULTIVARIATE ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Multivariate normal distribution, assessing normality, Wishart and HotellingsT2; Comparisons of several multivariate means, MANOVA; multivariate linear regression models; principal components, factor analysis; canonical correlations; discrimination & classification.
+
+Course MTH515 - INFERENCE - II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Group families, the principle of equivariance, location family, scale family, location scale family. Minimum risk equivariance estimators, risk functions, admissibility, prior distribution, posterior distribution, geometric interpretationfor finite parameter space, Bayes estimators, limit of Bayes estimators, minimax estimators and their relations. Review of convergence in probability andconvergence in distributions. Consistency results of the mle’s, and the mme’s. Asymptotic relative efficiency. Consistent and Asymptotic Normal (CAN) estimators, Invariance of CAN estimators under different transformations. CAN estimatorsobtained by moments and MLE methods in one parameter xponential familyand multiparameter exponential family. Sequential Probability Ratio Tests andits applications in different practical problems. Invariant test and unbiased tests, Likelihood ratio test and its asymptotic distributions, Wald test, Rao’s scoretest, Pearson c2 test for goodness of fit. Large sample tests and confidence intervals based on CAN estimators. Consistency of large sample tests and asymptotic powers of large sample tests.
+
+Course MTH515A - INFERENCE - II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Group families, the principle of equivariance, location family, scale family, location scale family. Minimum risk equivariance estimators, risk functions, admissibility, prior distribution, posterior distribution, geometric interpretationfor finite parameter space, Bayes estimators, limit of Bayes estimators, minimax estimators and their relations. Review of convergence in probability and convergence in distributions. Consistency results of the mle’s, and the mme’s. Asymptotic relative efficiency. Consistent and Asymptotic Normal (CAN) estimators, Invariance of CAN estimators under different transformations. CAN estimators obtained by moments and MLE methods in one parameter exponential family and multi parameter exponential family. Sequential Probability Ratio Tests andits applications in different practical problems. Invariant test and unbiased tests, Likelihood ratio test and its asymptotic distributions, Wald test, Rao’s score test, Pearson C2 test for goodness of fit. Large sample tests and confidence intervals based on CAN estimators. Consistency of large sample tests and asymptotic powers of large sample tests.
+
+Course MTH516 - NON- PARAMETRIC INFERENCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Order statistics, Run tests, Goodness of fit tests, rank order statistics, signtest and signed rank test. general two sample problems, Mann Whitney test, Linear rank tests for location and scale problem, ksample problem, Measures of association, Power and asymptotic relative efficiency, Concepts of jackknifing, Bootstrap methods.
+
+Course MTH516A - NON- PARAMETRIC INFERENCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Order statistics, Run tests, Goodness of fit tests, rank order statistics, signtest and signed rank test. general twosample problems, MannWhitney test, Linear rank tests for location and scale problem, ksample problem, Measures of association, Power and asymptotic relative efficiency, Concepts of jackknifing, Bootstrap methods.
+
+Course MTH517 - TIME SERIES ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Linear stationary processes, AR, MA, ARMA and ARIMA; identification, estimationof the models; forecasting time series regression; Fourier analysis, spectralrepresentation of a stochastic process, properties of ARMA processes in thefrequency domain; estimation of the spectrum, Kalman filter.
+
+Course MTH517A - TIME SERIES ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Linear stationary processes, AR, MA, ARMA and ARIMA; identification, estimation of the models; forecasting time series regression; Fourier analysis, spectral representation of a stochastic process, properties of ARMA processes in the frequency domain; estimation of the spectrum, Kalman filter.
+
+Course MTH520 - NUMERICAL LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Computer arithmetic. Vector and matrix norms. Condition number of a matrixand its applications. Singular value decomposition of a matrix and its applications. Linear least squares problem. Householder matrices and their applications. Numerical methods for matrix eigenvalue problem. Numerical methods for systems and control.
+
+Course MTH522 - FINITE ELEMENT METHOD
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction and motivation, Weak formulation of BVP and Galerkin approximation, Piecewise polynomial spaces and finite element method, Computer implementationof FEM, Results from Sobolev spaces, Variational formulation of elliptic BVP, LaxMilgram theorem, Estimation for general FE approximation, Constructionof FE spaces, Polynomial approximation theory in Sobolev spaces, Variational problem for second order elliptic operators and approximations, Mixed methods, Iterative techniques.
+
+Course MTH522A - FINITE ELEMENT METHOD
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Introduction and motivation, Weak formulation of BVP and Galerkin approximation, Piecewise polynomial spaces and finite element method, Computer implementation of FEM, Results from Sobolev spaces, Variational formulation of elliptic BVP, LaxMilgram theorem, Estimation for general FE approximation, Constructionof FE spaces, Polynomial approximation theory in Sobolev spaces, Variational problem for second order elliptic operators and approximations, Mixed methods, Iterative techniques.
+
+Course MTH523 - FLUID MECHANICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Review and General Properties of Navier Stokes Equations; Some Exact solutionsof NS equations; Introduction to boundary layer theory; Introduction to turbulent flow; Introduction to compressible flow; Applications.
+
+Course MTH523A - FLUID MECHANICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-11. Source: Courses of Study 2021, IIT Kanpur.
+Review and General Properties of Navier Stokes Equations; Some Exact solutionsof NS equations; Introduction to boundary layer theory; Introduction to turbulent flow; Introduction to compressible flow; Applications.
+
+Course MTH524 - ALGORITHMS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Preliminaries: Introduction to algorithms; Analyzing algorithms: space and timecomplexity; growth of functions; summations; recurrences; sets, etc. GreedyAlgorithms: General characteristics; Graphs: minimum spanning tree; Theknapsack problem; scheduling. Divide and Conquer: Binary search; Sorting: sorting by merging, qucksort. Dynamic Programming: Elements of dynamic programming; The principle of optimality; The knapsack problem; Shortest paths; Chained matrix multiplication. Graph Algorithms: Depthfirst search; Breadth first search; Backtracking; Branch and bound. Polynomials and FFT: Representation of polynomials; The DFT and FFT; Efficient FFT implementation. Number Theoretic Algorithms: Greatest common divisor; Modular arithmetic; Solving modular linear equations. Introduction to cryptography. Computational Geometry: Line segment properties; Intersection of any pair of segments; Finding the convex hull; Finding the closest pair of points. Heuristic and Approximate Algorithms: Heuristic algorithms; Approximate algorithms; NPhard approximation problems.
+
+Course MTH524A - ALGORITHMS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Preliminaries: Introduction to algorithms; Analyzing algorithms: space and timecomplexity; growth of functions; summations; recurrences; sets, etc. Greedy Algorithms: General characteristics; Graphs: minimum spanning tree; The knapsack problem; scheduling. Divide and Conquer: Binary search; Sorting: sorting by merging, quicksort. Dynamic Programming: Elements of dynamic programming; The principle of optimality; The knapsack problem; Shortest paths; Chained matrix multiplication. Graph Algorithms: Depth first search; Breadth first search; Backtracking; Branch and bound. Polynomials and FFT: Representation of polynomials; The DFT and FFT; Efficient FFT implementation. Number Theoretic Algorithms: Greatest common divisor; Modular arithmetic; Solving modular linear equations. Introduction to cryptography. Computational Geometry: Line segment properties; Intersection of any pair of segments; Finding the convex hull; Finding the closest pair of points. Heuristic and Approximate Algorithms: Heuristic algorithms; Approximate algorithms; NPhard approximation problems.
+
+Course MTH598 - PROJECT-I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-7-0-4. Source: Courses of Study 2021, IIT Kanpur.
+PROJECT I
+
+Course MTH599 - PROJECT- II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-7-0-4. Source: Courses of Study 2021, IIT Kanpur.
+PROJECT II
+
+Course MTH599 - PROJECT I , II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 0-0-0--0. Source: Courses of Study 2021, IIT Kanpur.
+PROJECT I , II
+
+Course MTH603 - MATHEMATICAL MODELLING
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Elementary mathematical models; Role of mathematics in problem solving; Concepts of mathematical modelling; System approach; formulation, Analyses ofmodels; Sensitivity analysis, Simulation approach; Pitfalls in modelling, Illustrations.
+
+Course MTH606 - BIOMATHEMATIC S
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Biofluid dynamics; Blood flow & arterial diseases; Transport in intestines& lungs; Diffusion processes in human systems; Mathematical study of nonlinear Volterra equations, Stochastic & deterministic models in population dynamicsand epidemics.
+
+Course MTH610 - APPLIED MATRIX THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Review of basic lin.alg. canonical factorization. QForms. Courant Fischer minmax & related theorems. PerronFrobenius theory. Matrixstability. Inequalities, ginverse (A, Am, A+). Direct, iterative, projection and rotations methods forsolving linear systems & eigenvalues problems. Applications.
+
+Course MTH610A - APPLIED MATRIX THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Review of basic lin.alg. canonical factorization. QForms. Courant Fischer minmax & related theorems. PerronFrobenius theory. Matrix stability. Inequalities, ginverse (A, Am, A+). Direct, iterative, projection and rotations methods forsolving linear systems & eigenvalues problems. Applications.
+
+Course MTH611 - ALGEBRA II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fields: definition and examples. Ring of polynomials over a field. Field extensions. Algebraic and transcendental elements, Algebraic extensions. Splittingfield of a polynomial. Algebraic closure of a field, Uniqueness. Normal, separable, purely inseparable extensions. Primitive elements of a field extension simple extensions. Fundamental theorem of Galois. Solvability by radicals Solutions of cubic and quartic polynomials, Insolvabity of quintic and higher degree polynomials. Geometric constructions. Cyclotomic extensions. Finite fields. Cyclotomic polynomials and its properties. Traces and norms. Modules definition, examples and basic properties. Free modules, submodules and quotient modules, isomorphism theorems. Localization. Direct sum and directproducts. Noetherian and Artinian rings and modules, structure of Artinian rings, Hilbert basis theorem. Jordan Holder theorem. Radicals of modules, Nakayama lemma.
+
+Course MTH611A - ALGEBRA II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Fields: definition and examples. Ring of polynomials over a field. Field extensions. Algebraic and transcendental elements, Algebraic extensions. Splitting field of a polynomial. Algebraic closure of a field, Uniqueness. Normal, separable, purely inseparable extensions. Primitive elements of a field extension simple extensions. Fundamental theorem of Galois. Solvability by radicals Solutions of cubic and quartic polynomials, Insolvabity of quintic and higher degree polynomials. Geometric constructions. Cyclotomic extensions. Finite fields. Cyclotomic polynomials and its properties. Traces and norms. Modules definition, examples and basic properties. Free modules, submodules andquotient modules, isomorphism theorems. Localization. Direct sum and direct products. Noetherian and Artinian rings and modules, structure of Artinian rings, Hilbert basis theorem. Jordan Holder theorem. Radicals of modules, Nakayama lemma.
+
+Course MTH612 - INTRODUCTION TO COMMUTATIVE ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Commutative rings, ideals, prime and maximal ideals, Noetherian Artinian rings, Primary decomposition and Noetherian rings, Modules over commutative rings, Exact sequences, the Hom and tensorufunctors, rings and modules of fractions, integral dependence, valuations and dedekind domains.
+
+Course MTH612A - INTRODUCTION TO COMMUTATIVE ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Commutative rings, ideals, prime and maximal ideals, Noetherian Artinian rings, Primary decomposition and Noetherian rings, Modules over commutative rings, Exact sequences, the Hom and tensorufunctors, rings and modules of fractions, integral dependence, valuations and dedekind domains.
+
+Course MTH620 - MEASURE THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Algebras and salgebras, Measures, Outer measures, Lebesgue measure in Rn, Completeness and regularity. Measurable functions and their properties, Convergence in measure, Integral, Convergence theorems. Signed and complex measures, Radon Nikodym theorem, Lebesgue decompostion theorem, Lpspaces and their dual. Product measures, Construction, Fubini theorem and itsapplications, Differentiation of measures.
+
+Course MTH620A - MEASURE THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Algebras and salgebras, Measures, Outer measures, Lebesgue measure in Rn, Completeness and regularity. Measurable functions and their properties, Convergence in measure, Integral, Convergence theorems. Signed and complex measures, Radon Nikodym theorem, Lebesgue decompostion theorem, Lpspaces and their dual. Product measures, Construction, Fubini theorem and its applications, Differentiation of measures.
+
+Course MTH621 - FOURIER ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fourier series; Norm and pointwise convergence, Approximate identities, Plancherel theorem, Conjugation, Maximal functions, Classical Hardy spaces, F. and M. Riesz theorem, Interpolation of linear operators. Fourier & Fourier Stieltjes transforms, Tempered distributions, PaleyWiener theorems. WienerTauberian theorems & applications.
+
+Course MTH621A - FOURIER ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Fourier series; Norm and pointwise convergence, Approximate identities, Plancherel theorem, Conjugation, Maximal functions, Classical Hardy spaces, F. and M. Riesz theorem, Interpolation of linear operators. Fourier & Fourier Stieltjes transforms, Tempered distributions, PaleyWiener theorems. Wienern Tauberian theorems & applications.
+
+Course MTH624 - DIFFERENTIABLE MANIFOLDS AND LIE GROUPS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Differentiable manifolds; Tangent space. Vector fields; Frobenius theorem; Relation between Lie subalgebras & Lie subgroups; Cartans theorem on closed subgroups; One parameter subgroups, Exponential maps; Adjoint representation; Homogeneous spaces; Compact Lie groups; Symmetric spaces.
+
+Course MTH624A - DIFFERENTIABLE MANIFOLDS AND LIE GROUPS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Differentiable manifolds; Tangent space. Vector fields; Frobenius theorem; Relation between Lie subalgebras & Lie subgroups; Cartans theorem on closedsubgroups; One parameter subgroups, Exponential maps; Adjoint representation; Homogeneous spaces; Compact Lie groups; Symmetric spaces.
+
+Course MTH627 - APPLIED HARMONIC ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic Fourier Analysisa review Convolutions, Multipliers and Filters, PoissonSummation Formula, Shannon Sampling Discrete Fourier Transform, Fast FourierTransform, Discrete Wavelets, Continuous Wavelets, Uncertainty Principles, Radar Ambiguity, Phase Retrieval, Random Transform, Basic Properties, Convolutionand Inversion, Computerized Tomography
+
+Course MTH628 - TOPICS IN TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Classification of 2-dimensional surfaces; Fundamental group; Knots and covering spaces; Braids and links; Simplicial homology groups and applications; Degree and Lefschetz Number; BorsukUlam Theorem; Lefschetz FixedPoint Theorem.
+
+Course MTH628A - TOPICS IN TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Classification of 2dimensional surfaces; Fundamental group; Knots and covering spaces; Braids and links; Simplicial homology groups and applications; Degree and Lefschetz Number; BorsukUlam Theorem; Lefschetz Fixed Point Theorem.
+
+Course MTH631 - APPROXIMATION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Best approximation in normed spaces. Tchebycheff systems. Tchebycheff Weierstrass Jackson Bernstein Zygmund Nikolaev etc. theorems. Fourier series, Splines, Convolutions, Linear positive, Variation diminishing, Simultaneous etc. approximations. Direct inverse saturation theorems. Applications.
+
+Course MTH631A - APPROXIMATION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Best approximation in normed spaces. Tchebycheff systems. Tchebycheff Weierstrass Jackson Bernstein Zygmund Nikolaev etc. theorems. Fourierseries, Splines, Convolutions, Linear positive, Variation diminishing, Simultaneousetc. approximations. Direct inverse saturation theorems. Applications.
+
+Course MTH632 - SPECTRAL THEORY FOR SELF-ADJOINT OPERATORS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Unbounded Operators, Matrix representation, Selfadjointness Criterion, Quadratic Forms, Differential Operators, Selfadjoint Extensions, Functional Calculus, Spectra of Selfadjoint Operators, Semianalytic vectors, Theorems of Nelson and Nussbaum, States and Observables, Superselection Rules, Position and Momentum, An Uncertainty Principle of Bargmann, Canonical Commutation Relations, Schrodinger representations, Schrodinger Operators, Selfadjointness, A Theorem of Kato, Spectral Theory for Schrodinger Operators, Discrete Spectrum, Essential Spectrum Course Reference: 1. N. Akhiezer, I. Glazman, Theory of Linear Operators in Hilbert Space II, Dover, 1961; 2. J. Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional Analysis and Partial Differential Equations, World Scientific, 1998; 5. M. Reed and B. Simon, Methods of Modern Mathematical Physics II, Academic Press, 1975.
+
+Course MTH632A - SPECTRAL THEORY FOR SELF-ADJOINT OPERATORS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Unbounded Operators, Matrix representation, Self adjointness Criterion, Quadratic Forms, Differential Operators, Selfadjoint Extensions, Functional Calculus, Spectra of Selfadjoint Operators, Semianalytic vectors, Theorems of Nelson and Nussbaum, States and Observables, Superselection Rules, Position and Momentum, An Uncertainty Principle of Bargmann, Canonical Commutation Relations, Schrodinger representations, Schrodinger Operators, Self adjointness, A Theorem of Kato, Spectral Theory for Schrodinger Operators, Discrete Spectrum, Essential Spectrum N. Course Reference: 1.N. Akhiezer, I. Glazman, Theory of Linear Operators in Hilbert Space II, Dover, 1961; 2. J. Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional Analysis and Partial Differential Equations, World Scientific, 1998; 5. M. Reed and B. Simon, Methods of Modern Mathematical Physics II, Academic Press, 1975.
+
+Course MTH633 - INTRODUCTION TO HYPERBOLIC GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Models of Hyperbolic Space: Upper Half Space Model & Disc Model; Isometries of Hyperbolic Space; Geodesics; Slimness of Triangles and Exponential Divergence of Geodesics in Hyperbolic Space; Isoperimetric Inequalities in Euclidean & Hyperbolic Space; Boundary of Hyperbolic Space; Review of Covering Spaces, Local Isometries and Fundamental groups; Properly Discontinuous Group actions; Fundamental Domains; Hyperbolic Surfaces. * Lectures on Hyperbolic Geometry; Course Reference: 1. Riccardo Benedetti and Carlo Petronio; Springer Verlag* Kleinian Groups; Bernard Maskit; SpringerVerlag; 2. Metric Spaces of NonPositive Curvature; Martin R. Bridson, Andre Haefliger; Springer; 3. Fuchsian Groups; Svetlana Katok; The University of Chicago Press; 4. A course on geometric group theory; Brian H. Bowditch, preprint.
+
+Course MTH633A - INTRODUCTION TO HYPERBOLIC GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Models of Hyperbolic Space: Upper Half Space Model & Disc Model; Isometries of Hyperbolic Space; Geodesics; Slimness of Triangles and Exponential Divergence of Geodesics in Hyperbolic Space; Isoperimetric Inequalities in Euclidean & Hyperbolic Space; Boundary of Hyperbolic Space; Review of Covering Spaces, Local Isometries and Fundamental groups; Properly Discontinuous Group actions; Fundamental Domains; Hyperbolic Surfaces. * Lectures on Hyperbolic Geometry; Course Reference:1. Riccardo Benedetti and Carlo Petronio; Springer Verlag; 2. Kleinian Groups; Bernard Maskit; SpringerVerlag; 3. Metric Spaces of NonPositive Curvature; Martin R. Bridson, Andre Haefliger; Springer; 4. Fuchsian Groups; Svetlana Katok; The University of Chicago Press; 5. A course on geometric group theory; Brian H. Bowditch, preprint.
+
+Course MTH634 - BASES IN LOCALLY CONVEX SPACES AND KOETHE SEQUENCE SPACES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Preliminaries, Elements of basis theory, Types of bases, Summability (summationof infinite series), Koethe sequence spaces, Bases in OTVS, Isomorphism theorems.
+
+Course MTH637 - TOPICS IN OPERATOR THEORY AND HARMONIC ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Operators on Hilbert spaces: Compact operators, Schatten class and Hilbert Schmidt operators, Spectral theorem. Fourier series, Smooth functions anddistributions. Hardy spaces, Carleson measures, H1BMO duality. Hankel and Toeplitz operators on H2. Representation theory of compact groups, Representationof SU (2) and SO (3).
+
+Course MTH637A - TOPICS IN OPERATOR THEORY AND HARMONIC ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Operators on Hilbert spaces: Compact operators, Schatten class and Hilbert Schmidt operators, Spectral theore. Fourier series, Smooth functions and distributions. Hardy spaces, Carleson measures, H1BMO duality. Hankel and Toeplitz operators on H2. Representation theory of compact groups, Representation of SU (2) and SO (3).
+
+Course MTH638 - ABSTRACT HARMONIC ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Banach Algebras and Spectral theory, Locally compact groups, Basic representation theory, Analysis on Locally compact abelian group, Analysis on compact groups, Group C* algebra and structure of dual space. Course Reference: 1. G.B. Folland: Course in Abstract harmonic analysis, Studies in Advanced Maths., CRC Press, Boca Raton, etc., 1995.
+
+Course MTH638A - ABSTRACT HARMONIC ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Banach Algebras and Spectral theory, Locally compact groups, Basic representation theory, Analysis on Locally compact abelian group, Analysis on compact groups, Group C* algebra and structure of dual space. Course Reference: 1. G.B. Folland: Course in Abstract harmonic analysis, Studies in Advanced Maths., CRC Press, Boca Raton, etc., 1995.
+
+Course MTH639 - LOCALLY CONVEX SPACES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Topological linear spaces, Equicontinuity, Function spaces, Convexity & convex topological spaces, HahnBanach theorem, Barrelled spaces, Principle of uniform boundedness, Bornological spaces, Duality theory (Arens Th., Mackey topology, Stopology, Polarity).
+
+Course MTH639A - LOCALLY CONVEX SPACES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Topological linear spaces, Equi continuity, Function spaces, Convexity & convex topological spaces, Hahn Banach theorem, Barrelled spaces, Principle of uniform boundedness, Bornological spaces, Duality theory (Arens Th., Mackey topology, Stopology, Polarity).
+
+Course MTH640 - SEVERAL COMPLEX VARIABLES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Cauchy integral formula, Taylor series, Associated radii of convergence, Analytic functions, Reinhardt domain, Logarithmic convexity, Laurents expansion, Envelope of holomorphy, Goldbergs growth parameter, Factorization, Weirestrass preparation theorem, Types of singularity, Domain of holomorphy, Complex analytic structure.
+
+Course MTH641 - INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATIO N THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Definitions and first examples. Classical Lie algebras. Ideals and homomorphisms. Niporent Lie algegras. Engel’s theorem. Solvable Lie algebras. Lie’s theorem. Jordan Chevalley Decomposition. Radical and semisimplicity. The Killing form and Cartan’s criterion. THe structure of semisimple Lie algebras. Complete reducibility and Weyls theorem. Representation theory of the Lie algebra sl(2). Total sub algebras and root systems. Integrality properties. Simple Lie algebras and irreducible root systems. 1. Humphreys, James E. (1972), Introduction to Lie Algebras and Representation Theory, Berlin, New York.2. J.P. Serre, Complex semisimple Lie algebras (trnslated from French: Algebras de Lie complex semisimple). 24.09.14.
+
+Course MTH641A - INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATIO N THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Definitions and first examples. Classical Lie algebras. Ideals and homomorphisms. Niporent Lie algegras. Engel’s theorem. Solvable Lie algebras. Lie’s theorem. Jordan Chevalley Decomposition. Radical and semisimplicity. The Killing form and Cartan’s criterion. THe structure of semisimple Lie algebras. Complete reducibility and Weyls theorem. Representation theory of the Lie algebra sl (2). Total subalgebras and root systems. Integrality properties. Simple Lie algebras and irreducible root systems. Course Reference: 1. Humphreys, James E. (1972), Introduction to Lie Algebras and Representation Theory, Berlin, New York; 2. J.P. Serre, Complex semisimple Lie algebras (trnslated from French: Algebras de Lie complex semisimple). 24.09.14
+
+Course MTH644 - COMPLEX FUNCTION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fundamental theorems, Winding number & applications, Normal families, Riemann mapping theorem, Fundamentals of univalent functions & entire functions, Phragmen Lindelf theorems, Gamma, Riemannzeta functions; Harmonic functions, Dirichlet problem for disc, Analytical continuation, Runges theorem.
+
+Course MTH647 - COMPLEX ANALYTIC DYNAMICS AND FRACTALS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Chordal & spherical metrics, Normal families. Iteration of polynomials andrational functions, Periodic points & orbits, Julia & Fatous sets and their characterizations, Dynamics of Julia and Fatous sets for quadratic, Rational & entire functions; The Mandelbrot set. Julia sets & fractals, Self similarity and fractal dimension.
+
+Course MTH647A - COMPLEX ANALYTIC DYNAMICS AND FRACTALS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Chordal & spherical metrics, Normal families. Iteration of polynomials andrational functions, Periodic points & orbits, Julia & Fatous sets and their characterizations, Dynamics of Julia and Fatous sets for quadratic, Rational & entire functions; The Mandelbrot set. Julia sets & fractals, Self similarity and fractal dimension.
+
+Course MTH648 - DIFFERENTIAL GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Theory of Space CurvesThe Serret Frenet formulas. Gauss Theory of Surfaces First and second fundamental form, Examples, Weingarten map, Principal curvatures, Gaussian curvature, Examples. Computation of the curvature in standard spaces: Sphere, Torus, Surfaces of revolution etc. LeviCivita connection Uniqueness, Gauss theorem Egregium, Hilberts theorem on the positivity of curvature at a point on a compact surface in R3. Geodesics, Equations of geodesics, Examples. Jacobi fields, Conjugate points etc. Riemannian area element on a surface, Gauss Bonnet theorem. Differentiable manifold, Differentiable structure. Submanifolds, Immersions, Embeddings. Metric tensor, Riemannian connection and curvature.
+
+Course MTH648A - DIFFERENTIAL GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Theory of Space CurvesThe Serret Frenet formulas. Gauss Theory of Surfaces First and second fundamental form, Examples, Weingarten map, Principal curvatures, Gaussian curvature, Examples. Computation of the curvature instandard spaces: Sphere, Torus, Surfaces of revolution etc. Levi Civita connection Uniqueness, Gauss theorem Egregium, Hilberts theorem on the positivity of curvature at a point on a compact surface in R3. Geodesics, Equations of geodesics, Examples. Jacobi fields, Conjugate points etc. Riemannian area element on a surface, Gauss Bonnet theorem. Differentiable manifold, Differentiable structure. Submanifolds, Immersions, Embeddings. Metric tensor, Riemannian connection and curvature.
+
+Course MTH649 - ALGEBRAIC TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Homotopy, Path homotopy. The fundamental group. Covering spaces. The fundamental group of the circle, S1, sphere, S2, Surfaces 2-dimensional, Punctured plane etc. Techniques of calculation. The special Van Kampen theorem. Essential and Inessential maps Applications. The fundamental theorem of algebra, Browers fixed point theorem for the disc etc. Triangulations. Simplical complexes. Barycentric subdivision. Simplical mappings, The simplical approximation theorem. Simplical homology groups; Calculations for cone complex, Sn etc. The Euler Poincare formula. The Lefschetz fixed point theorem. Singular homology groups, Topological invariance, The exact homology sequence. The Eilenberg Steenrod axioms.
+
+Course MTH649A - ALGEBRAIC TOPOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Homotopy, Path homotopy. The fundamental group. Covering spaces. Thefundamental group of the circle, S1, sphere, S2, Surfaces 2-dimensional, Punctured plane etc. Techniques of calculation. The special Van Kampen theorem. Essential and Inessential maps Applications. The fundamental theorem of algebra, Browers fixed point theorem for the disc etc. Triangulations. Simplical complexes. Barycentric subdivision. Simplical mappings, The simplical approximation theorem. Simplical homology groups; Calculations for cone complex, Sn etc. The Euler Poincare formula. The Lefschetz fixed point theorem. Singular homology groups, Topological invariance, The exact homology sequence. The Eilenberg Steenrod axioms.
+
+Course MTH652A - ADVANCED CALCULUS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Least upper bound principle; limits; monotone sequence; subsequences, Bolzano Weierstrass, Cauchy sequence, copleteness; countable and uncountable sets; convergence of series, conditional convergence; equivalence of completeness of R; limsup, liminf, convergent series; absolute and conditional convergent, Riemann Rearragngement Theorem; convergence in R, open sets and closed sets on R; Cantor intersection Theorem, Cantor set; limits and continuity; discontinuous functions; properties of continuous functions; uniform continuity; monotone functions; differentiation, Mean Value Theorem; Riemann integration; Fundamental Theorem of Calculus; sequence and series of functions; point wise convergence; uniform convergence, Weierstrass Mtest, Dedekind test; uniform convergence and continuity; term by term integration and differenciation; power series; Taylor series, Weierstrass Approximation Theorem; analytic functions; Fourier series; differenciation of f:R>R; partial derivatives; chain rule; higher derivatives, local extrema; Taylor expansion; multiple integrals, determinant and volume, Jacobians. Course Reference: 1. K R Davidson and A P Donsig: Real Analysis and Applications, Springer, 2010; 2. R S Strichartz: The Way of Analysis, Jones and Bartlet Mathematics, 2010. 27-MAR-2014
+
+Course MTH653 - INTEGRAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Volterra and Fredholm integral equations, Resolvent Kernels. Operator equations, Fredholm theory, Hilbert Schmidt theory. Nonlinear integral equations, Singular integral equations.
+
+Course MTH653A - INTEGRAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Volterra and Fredholm integral equations, Resolvent Kernels. Operator equations, Fredholm theory, Hilbert Schmidt theory. Nonlinear integral equations, Singular integral equations.
+
+Course MTH656 - SOBOLEV SPACES AND APPLICATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Elements of operator theory and Hilbert spaces; Introduction to the theoryof distributions. Sobolev Spaces: Imbedding and compactness theorems, Fractional spaces and elements of trace theory. Applications to elliptic equations or parabolic equations.
+
+Course MTH656A - SOBOLEV SPACES AND APPLICATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Elements of operator theory and Hilbert spaces; Introduction to the theory of distributions. Sobolev Spaces: Imbedding and compactness theorems, Fractional spaces and elements of trace theory. Applications to elliptic equations or parabolic equations.
+
+Course MTH657 - GRAPH THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic definitions. Blocks. Ramsey Numbers. Degree sequences. Connectivity.Eulerian and Hamiltonian Graphs. Planar graphs and 5 colour theorem. Chromatic numbers. Enumeration. MaxFlow MinCut Theorem. Groups and graphs. Matrices and graphs. Matchings and Halls Marriage Theorem. Eigen values of graphs.
+
+Course MTH657A - GRAPH THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic definitions. Blocks. Ramsey Numbers. Degree sequences. Connectivity.Eulerian and Hamiltonian Graphs. Planar graphs and 5colour theorem. Chromatic numbers. Enumeration. Max Flow Min Cut Theorem. Groups and graphs. Matrices and graphs. Matchings and Halls Marriage Theorem. Eigen values of graphs.
+
+Course MTH658 - NONLINEAR DYNAMICAL SYSTEMS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Picard’s theorem, Boundedness of solutions, Omega limit points of bounded trajectories. LaSalle’s invariance principle; Stability via Lyapanov’s indirect method,Converse Lyapanov functions, Sublevel sets of Lyapanov functions, Stability viaLyapanov’s direct method, Converse Lyapanov’s theorems, Brokett’s theorem,Applications to control system; Stable and unstable manifolds of equilibria, Stablemanifold theorem, HartmanGrobman theorem, Examples and applications,Center manifold theorem, Center manifold theorem, Normal form theory,Examples and applications to nonlinear systems and control; Poincare map, andstability theorems for periodic orbits; Elementary Bifurcation theory.
+
+Course MTH658A - NONLINEAR DYNAMICAL SYSTEMS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Picard’s theorem, Boundedness of solutions, Omega limit points of bounded trajectories. LaSalle’s invariance principle; Stability via Lyapanov’s indirect method,Converse Lyapanov functions, Sublevel sets of Lyapanov functions, Stability viaLyapanov’s direct method, Converse Lyapanov’s theorems, Brokett’s theorem, Applications to control system; Stable and unstable manifolds of equilibria, Stable manifold theorem, Hartman Grobman theorem, Examples and applications,Center manifold theorem, Center manifold theorem, Normal form theory,Examples and applications to nonlinear systems and control; Poincare map, and stability theorems for periodic orbits; Elementary Bifurcation theory.
+
+Course MTH659A - NONLINEAR ANALYSIS AND ITS APPLLICATIONS TO PDE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Review of topic in functional analysis and Soblev space mapping between Banach spaces degree theory, Bifurcation theory. Variation Method: Constrained critical points, Deformation and Palais condition, Linking Theorems, Mountain Pass theorem and Ekeland Variation principal
+
+Course MTH664 - TRIBOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+The fundamentals of lubrication, friction & wear. Boundary lubrication, Hydrodynamic lubrication, Elasto hydrodynamic lubrication. Compressibility and thermal effects, Non- Newtonian lubrication, Roughness effects, Magneto hydrodynamic effects, Application to engineering & human systems.
+
+Course MTH664A - TRIBOLOGY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+The fundamentals of lubrication, friction & wear. Boundary lubrication, Hydrodynamic lubrication, Elasto hydrodynamic lubrication. Compressibility and thermal effects, Non- Newtonian lubrication, Roughness effects, Magneto hydrodynamic effects, Application to engineering and human systems.
+
+Course MTH665A - ASYMPTOTIC STATISTICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Introduction Approximate Statistical Procedures; Asymptotic Optimality Theory Review of Stochastic Convergence Basic Theory, Stochastic and 0 Symbols, Characteristic Functions; AlmostSure Representations, Convergence of Moments, Convergence Determining Classes; Law of the Iterated Logarithm, Lindeberg Feller Theorem, Convergence in Total Variation Delta Method Basic Result, Variance Stabilizing Transformations; Higher Order Expansions, Uniform Delta Method; Moments M and Z Estimators Introduction; Consistency; Asymptotic Normality; Estimated Parameters, Maximum Likelihood Estimators, Classical Conditions, OneStep Estimators; Rates of Convergence; Argmax Theorem W. Contiguity Likelihood Ratios; Contiguity. Local Asymptotic Normality Introduction, Expanding the Likelihood Convergence to a Normal Experiment, Maximum Likelihood; Limit Distributions under Alternatives; Local Asymptotic Normality. Stochastic Convergence in Metric Spaces Metric and Normed Spaces; Basic Properties; Bounded Stochastic Processes. Empirical Processes Empirical Distribution Functions; Empirical Distributions; Goodness of Fit Statistics; Random Functions; Changing Classes; Maximal Inequalities Functional Delta Method von Mises Calculus; Hadamard Differentiable Functions; Some Examples Bootstrap Introduction, Consistency; Higher Order Correctness W.
+
+Course MTH666A - CATEGORY THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+1. Structure vs. property: monoids, groups, preorders, partial orders; structure preserving maps: homomorphisms, continuous maps; category; homsets and duality; functor covariant and contravariant; natural transformations. (3 lectures); 2. Small, locally small and large categories; set theory vs category theory; Russell’s paradox and the category of all categories; skeletons and axiom of choice. (1 lecture); 3. Isomorphism; groupoid; monomorphism and epimorphism; full, faithful, essentially surjective functors, equivalence of categories; building even morecategories from the old ones: slice categories and local property, categories, functor categories, congruence and quotients. (3 lectures); 4. Representable functors; Yoneda lemma and Yoneda embedding; separating anddetecting families; injective and projective objects; representables are projective. (3 lectures); 5. Adjunctions: definition and examples; initial and terminal objects; relation to comma categories; composition of adjoint functors; units, counits and characterization of adjoint functors; equivalence gives adjoint functors. (4lectures); 6. Categorical properties: initial and terminal objects, products, coproducts; diagrams and (co)cones; (co)limits of a given shape; (co)equalizers, regularmono(epi) morphisms; pullbacks and pushouts; direct and inverse limits. (2lectures); 7. Constructing all (co)limits from some of them; (co)complete categories; absolute (co)limits; preservation, creation and reflection of (co)limits; right adjoints preserve limits. (2 lectures).
+
+Course MTH671A - INTRODUCTION TO ARITHMETIC GEOMETRY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+padic numbers: nonarchimedean absolute values, valuations, Ostrowski theorem, Cauchy sequences, padic integers, completions, Hensels lemma, structure of Z and Q. Quadratic forms: definition of quadratic forms and bilinear forms, equivalence of quadratic forms, local global principle (HasseMinkowski theorem), rational points on conics. [8 lectures]Infinite Galois Theory : Profinite groups and profinite topology, Infinite Ga lois extensions and Galois group as profinite groups, absolute Galois groups, the fundamental theorem of Galois theory (for infinite extensions), absolute Galois group of finite fields, Frobenius automorphism, absolute Galois group of Q and Qp.Geometry of curves over Q: Affine Varieties and projective varieties, curvesand function fields, divisors on curves, the RiemannRoch theorem (state ment without proof ), Elliptic curves over Q, Group law on elliptic curves, Weierstrass equations, action of the absolute Galois group of Q over Q points of elliptic curves, Weak MordellWeil Theorem, MordellWeil Theorem, Faltings Theorem
+
+Course MTH678A - TECHNIQUES IN COMBINATORICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Techniques in Combinatorics Pre-requisites: students are expected to have a very good background in Analysis-I (MTH301A), Algebra-I (MTH201A), Linear Algebra (MTH204A), Probability and Statistics as well as in Set theory and Logic (MTH302A) or Set theory and Discrete Mathematics (MTH202A). Some knowledge of the basics of graph theory and Fourier analysis is desirable but not mandatory. Aims of the course: Combinatorics is an area of mathematics that, at elementary level, deals with problems in counting/enumeration, especially in the realm of finite sets. However, the supply of problems as well as the methods to solve them come from a variety of domains of mathematics ranging from algebra, analysis, number theory, geometry, probability theory, and so on. Leon Mirsky has rightly said; combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained. This, course will introduce techniques from three popular branches of combinatorics that are of areas of active research currently, namely extremal combinatorics, extremal graph theory and additive combinatorics over dyadic groups. The emphasis will be on the techniques than the solutions of the problems. Extremal combinatorics with set systems: Hall’s marriage theorem, Sperner’s lemma, Lubell-Yamamato-Meshalkin inequality, Kruskal-Katona theorem, Erdos Ko-Rado theorems [4 weeks]; 2. Extremal graph theory: Mantel & rsquo’s theorem, Turan’s theorem, Dirac’s theorem, Erdos-Stone-Simonovits theorem, Szemeredi & rsquo’s regularity lemma, Triangle,removal lemma, Roth’s theorem for 3 term arithmetic progressions [4 weeks]; 3. Additive combinatorics with dyadic groups: Discrete Fourier transform, Plancherel & rsquo’s theorem, Bogolyubov’s lemma, Arithmetic regularity and removal lemmas, Coincidence of algebraic and statistical independence of Bernoulli r. v s, Rudin’s inequality, Sets with small sumsets: Rusza’s covering lemma, Freiman’s theorem [5 weeks] Course Reference: 1. Bollob. Combinatorics: set systems, hypergraphs, families of vectors, and combinatorial probability. Cambridge, University Press, 1986; 2. Extremal graph theory. Courier Corporation, 2004; 3. Tao, Terence, and Van H. Vu. Additive combinatorics Vol. 105. Cambridge University Press, 2006; Dated: 31/08/2017 Proposer: Amit Kuber
+
+Course MTH681 - STATISTICAL DECISION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Decision function, Risk function, Optimal decision rules, Admissibility & completeness, The minimax theorem, The complete class theorem, Sufficient statistics. Invariant decision problems, Admissible & minimax invariant rules, The Pitman estimates, Estimation of a distribution function.
+
+Course MTH682 - ORDER STATISTICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Basic distribution theory, Moments of order statistics including recurrence relations, Bounds and approximations, Estimation of parameters, Life testing, Short cut procedures, Treatment of outliers, Asymptotic theory of extremes.
+
+Course MTH682A - ORDER STATISTICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic distribution theory, Moments of order statistics including recurrence relations, Bounds and approximations, Estimation of parameters, Life testing, Short cut procedures, Treatment of outliers, Asymptotic theory of exremes.
+
+Course MTH683 - NON- PARAMETRIC INFERENCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Order statistics, Tests of goodness of fit, Sign & signed rank tests, WaldWolfowitz, Kolmogorov Smirnov, Median & MannWhitney tests, Linear ranktests for the location problem & scale problem, Measures of association, Asymptotic relative efficiency.
+
+Course MTH684 - STATISTICAL SIMULATION, DATA ANALYSIS AND MODEL BUILDING
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to simulation & MonteCarlo studies; Generation of random variables. Interactive computational & graphical techniques in model building; Data basedinference methods such as JackKnife, Bootstrap and cross validation techniques; Use of statistical packages in data analysis.
+
+Course MTH685 - TIME SERIES ANALYSIS: FORECASTING AND CONTROL
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Linear stationary processes, Auto covariance & spectral density functions & moving average processes, Linear nonstationary processes, Model estimation & identification, Forecasting, Transfer function models, Design for discrete control.
+
+Course MTH686 - NON-LINEAR REGRESSION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Estimation methods, Commonly encountered problems in estimation, Statistical inference, Multiresponse nonlinear model, Asymptotic theory, Computational methods.
+
+Course MTH686A - NON-LINEAR REGRESSION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Estimation methods, Commonly encountered problems in estimation, Statistical inference, Multiresponse nonlinear model, Asymptotic theory, Computational methods.
+
+Course MTH690A - PROBABILISTIC THEORY OF PATTERN RECOGNITION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Results of convergence in almost sure sense and in probability, DCT, Basic inequalities, Conditional expectation, Methods of resampling. Introduction to discriminant analysis, Basyes; risk, and its properties. Distance measures for deensity functions, and its relation with Bayes; risk. Empirical Bayes; risk and its convergence. Parametric methods: Maximum likelihood principle Fisher’s Linear Discriminant Function (LDA), Quadratic Discriminat Analysis (QDA). Consistency results. Logistic regression, Linear support vector machines (SVM), Maximum linear separation and Projection pursuit. Non-parametric methods: Kernel discriminant analysis (KDA), nearest neighbor classification (kNN), Universal consistencyh results. Idea of curse of dimensionality, and the use of dimension reduction techniques like random projections pricipal component analysis, etc. Semiparametric methods: Mixture Discriminant Analysis (MDA), Nonlinear SVM, Hybrid classifiesrs, Classification using data depth, Related consistency results. Course Reference: 1. Pattern Calssification by Richard Duda, Peter Hart and David Sstork, Wiley; 2. A Probabilistic Theory of Pattern Recognition by Luc Devroye, Laszlo Gyorfi and Gabor Lugosi. Springer; 3. The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman. Springer. 05-apr-2016
+
+Course MTH691 - NUMERICAL LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Triangular form, Matrix norms, Conditioning of linear systems, Direct methods (Gauss, Cholesky, Householder), Iterative methods (Jacobi, GaussSeidel, Relaxation) for solving linear systems, Computing of eigenvalues & eigenvectors (Jacobi, Givens Householder, QR, Inverse methods), Conjugate gradient method & its preconditioning.
+
+Course MTH691A - NUMERICAL LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Triangular form, Matrix norms, Conditioning of linear systems, Direct methods (Gauss, Cholesky, Householder), Iterative methods (Jacobi, Gauss Seidel, Relaxation) for solving linear systems, Computing of eigenvalues & eigenvectors (Jacobi, Givens Householder, QR, Inverse methods), Conjugate gradient method & its preconditioning.
+
+Course MTH692 - NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction. RungeKutta methods derivation, error bounds and error estimates. Weak stability theory for RungeKutta methods. Order and convergence of the general explicit onestep methods. Linear multistep methods derivation, order consistency, zeros tability and convergence. Weak stability theory for genera llinear multistep methods. Predictor Corrector methods. Stiff systems.
+
+Course MTH692A - NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction. RungeKutta methods derivation, error bounds and error estimates. Weak stability theory for RungeKutta methods. Order and convergence of the general explicit onestep methods. Linear multistep methods derivation, order consistency, zerostability and convergence. Weak stability theory for general linear multistep methods. Predictor Corrector methods. Stiff systems. 22-MAR-2014
+
+Course MTH693 - NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Basic linear algebra vector and matrix norms and related theorems. Parabolic equations in one and two space dimensions explicit and implicit formulae. Consistency, stability and convergence. Iterative methods for linear systems. Split operator methods. Multilevel difference schemes. Nonlinear equations. Elliptic Equations Dirichlet, Neumann and mixed problems. Direct factorization methods and successive over relaxation (S.O.R.). ADI and conjugate gradient methods. Hyperbolic equations. First order hyperbolic systems in one and twospace dimensions stability and convergence. Second order equations in one andtwo space dimensions. The Galerkin method and applications.
+
+Course MTH693A - NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic linear algebra vector and matrix norms and related theorems. Parabolic equations in one and two space dimensions explicit and implicit formulae. Consistency, stability and convergence. Iterative methods for linear systems. Split operator methods. Multilevel difference schemes. Nonlinear equations. Elliptic Equations Dirichlet, Neumann and mixed problems. Direct factorization methods and successive over relaxation (S.O.R.). ADI and conjugate gradient methods. Hyperbolic equations. First order hyperbolic systems in one and twospace dimensions stability and convergence. Second order equations in one and two space dimensions. The Galerkin method and applications.
+
+Course MTH694 - COMPUTATIONAL FLUID DYNAMICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Conservation laws, Weak solutions & shocks, Monotone difference schemes, Total variation diminishing schemes, Godunov type schemes, Essentially nonoscillatory methods, Flux limiters.
+
+Course MTH696 - SPECTRAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Galerkin, Collocation & Tau methods, Spectral approximation, The Fourier system, Continuous & discrete Fourier expansion, Orthogonal polynomials in (1,1), Fundamentals of spectral methods for PDEs, Temporal discretization, The Galerkin Collocation method, Implicit spectral equations, Case of nonsmooth solutions.
+
+Course MTH698 - PARALLEL NUMERICAL ALGORITHM
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of parallel computing; Parallel techniques and algorithms; Parallel algorithms for linear algebriac equations; Design of parallel algorithms for eigenvalue problem; Parallel issues of factorization: singular value decomposition and related problems; Parallel implementation of classical iterative methods; Conjugate gradient method; Parallel methods for ordinary and partial differential equations.
+
+Course MTH698A - PROJECT II
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Fundamentals of parallel computing; Parallel techniques and algorithms; Parallel algorithms for linear algebriac equations; Design of parallel algorithms for eigenvalue problem; Parallel issues of factorization: singular value decomposition and related problems; Parallel implementation of classical iterative methods; Conjugate gradient method; Parallel methods for ordinary and partial differential equations.
+
+Course MTH701 - MODAL LOGIC
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Modal Propositional Logic Systems K, T, D, S4, S5, B; Automated Proof Methods, Decidability; Consistency, Frames, Canonical Models, Completeness; FiniteModels, Incompleteness. Algebraic semantics Lindenbaum Tarski Algebras, JonssonTarski Theorem, Goldblatt Thomason Theorem.Modal Predicate Logic Completedness; Automated Proof Methods; Identity. someModal Systems and applications Temporal, dynamic and epistemic Logics, Topology via Modal Logic
+
+Course MTH701A - MODAL LOGIC
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Modal Propositional Logic Systems K, T, D, S4, S5, B; Automated Proof Methods, Decidability; Consistency, Frames, Canonical Models, Completeness; Finite Models, Incompleteness. Algebraic semantics Lindenbaum Tarski Algebras, JonssonTarski Theorem, Goldblatt Thomason Theorem.Modal Predicate LogicCompletedness; Automated Proof Methods; Identity. Some Modal Systems and applications Temporal, dynamic and epistemic Logics, Topology via Modal Logic
+
+Course MTH712A - A FIRST COURSE IN ALGEBRAIC NUMBER THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+A brief review of commutative algebra Localization, Noetherian rings and modules, integral extensions, Dedekind domains and discrete valuation ring, Spec of ring. Number field, ring of integer, primes and ramifications. Class group, initeness of class number, Dirichlet’s unit theorem. Global fields, local fields, valuations. Cyclotomic fields. Zeta functions and Lfunctions, class number formula. Adeles and ideles. Course Reference: 1. Number Fields, D. Marcus, Universitext, SpringerVerlag; 2. Problems in Algebraic Number Theory, E. Jody and M.Ram Murty, GTM 190, Springer Verlog; 3. Algebraic Number Theory, J.S. Milne, Course notes, available at http://www.jmilne.org; 4. Algebraic Number Theory, J. Neukirch, Grundlehren der Mathematischen Wissen schaften 322, SpringerVerlog; 5. Algebraic Number Theory, S. Lang, GTM 110, SpringerVerlog; 6. A course in Arithmetic, J P Serre, GTM 7, SpringerVerlog; 7. Algebraic Number Theory, R. Narasimhan et.al, TIFR Pamphlet, available at www.math.tifr.res.in/ publ/pamphlets/index.html; 8. Introduction to commutative algebra, M.F. Atiyah, and I.G. Macdonald, AddisonWesley Publishing Co.
+
+Course MTH722A - INTRODUCTION TO HOMOTOPY THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+Content can be seen in the attched file
+
+Course MTH732A - REPRESENTATIO N THEORY OF FINITE GROUPS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Basic representation theory, Irreducible representation, Equivalence and unitary equivalence, Construction of new representation, Character of a representation, Schur’s lemma and its applications, Schur’s orthogonality relations, Schur’s theory of characters, induced representations, Frobenius reciprocity, group algebra of S and A for small values of n.
+
+Course MTH733 - REPRESENTATIO N THEORY OF LINEAR LIE GROUPS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Representation theory of Compact groups; Peter Weyl Theorem. Linear LieGroups; The Exponential map, Lie Algebra, Invarient Differential Operaters.Representations of the group and its Lie Algebra. Fourier Analysis on SU (2) and SU (3). Representation theory of the heisenberg Group and some HarmonicAnalysis. Representation of the Euclidean Motion Group.
+
+Course MTH733A - REPRESENTATIO N THEORY OF LINEAR LIE GROUPS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Representation theory of Compact groups; Peter Weyl Theorem, Linear Lie Group/ The Exponential map, Lie Algebra, Invarient Differential Operaters. Representations of the group and its Lie Algebra, Fourier Analysis on SU (2) and SU (3). Representation theory of the heisenberg Group and some Harmonic Analysis. Representation of the Euclidean Motion Group.
+
+Course MTH734 - BANACH ALGEBRAS, C* ALGEBRAS AND SPECTRAL THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Elementary properties of Banach Algebras and examples; Ideals and quotients, the Spectrum, the Riesz Functional Calculas.Abelian Banach Algebras, C* Algebras; Representations of C* Algebras and the Gelfand Naimark Segal Construction.Normal Operators on Hilbert Space, Spectral measure and representation ofabelian C* algebras; The Spectral theorem; Some applications.
+
+Course MTH734A - BRANCH ALGEBRAS, C* ALGEBRAS AND SPECTRAL THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Elementary properties of Banach Algebras and examples; Ideals and quotients, the Spectrum, the Riesz Functional Calculas. Abelian Banach Algebras, C* Algebras; Representations of C* Algebras and the Gelfand Naimark Segal Construction. Normal Operators on Hilbert Space, Spectral measure and representation of abelian C* algebras; The Spectral theorem; Some applications.
+
+Course MTH736 - FOURIER ANALYSIS-I & DISTRIBUTION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, Test function spaces, Calculus with distributions, supports of distributions, Structure theorems, convolutions, Fourier transforms, L1, L2 theory of Fourier Transform, Tempered distributions, Paley Wiener theorem, wiener Tauberian theorem, Applications of distributions theory and Fourier transform to differential equations.
+
+Course MTH736A - FOURIER ANALYSIS-I & DISTRIBUTION THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction, Test function spaces, Calculus with distributions, supports of distributions, Structure theorems, convolutions, Fourier transforms, L1, L2 theory of Fourier Transform, Tempered distributions, Paley Wiener theorem, wiener Tauberian theorem, Applications of distributions theory and Fourier transform to differential equations.
+
+Course MTH751 - ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Groups, Basic properties, Isomorphism theorems, Permutation groups, Sylow Theorems, Structure theorem for finite abelian groups, Rings, Integral domains, Fields, division rings, Ideals, Maximal ideals, Euclidean rings, Polynomial ring over a ring, Maximal & Prime ideals over a commutative ring with unity, Prime avoidance theorem and Chinese Remainder theorem, Field Extension, Cramer’s rule, Algebraic elements and extensions, Finite fields. Determinants and their properties, Systems of linear equations, Eigen values and Eigen vectors, Caley Hamilton theorem, Characteristic and minimal polynomial, diagonalization, Vector spaces, Linear transformations, Inner product spaces.
+
+Course MTH751A - ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Groups, Basic properties, Isomorphism theorems, Permutation groups, Sylow Theorems, Structure theorem for finite abelian groups, Rings, Integral domains, Fields, division rings, Ideals, Maximal ideals, Euclidean rings, Polynomial ringover a ring, Maximal & Prime ideals over a commutative ring with unity, Prime avoidance theorem and Chinese Remainder theorem, Field Extension, Cramer’s rule, Algebraic elements and extensions, Finite fields. Determinants and their properties, Systems of linear equations, Eigen values and Eigenvectors, Caley Hamilton theorem, Characteristic and minimal polynomial, diagonalization, Vector spaces, Linear transformations, Inner product spaces.
+
+Course MTH752 - MATHEMATICAL METHODS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Calculus of Variations; Sturm Liouville Problem and Green’s Function; Perturbation Methods and Similarity Analysis; Stability Theory.
+
+Course MTH752A - MATHEMATICAL METHODS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Calculus of Variations; Sturm Liouville Problem and Green’s Function; Perturbation Methods and Similarity Analysis; Stability Theory.
+
+Course MTH753 - ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Metric spaces, Open and closed sets, Compactness and connectedness, Completeness, Continuous functions (several variables and on metric spaces), uniform continuity C(X), X, compact metric space, Uniform convergence, compactness criterion, Differentiation, Inverse and Implicit fuction theorems. Riemann Integration, Lebesgue Integration, Lpspaces.Complex Analysis: Analytic functions, Harmonic conjugates, Cauchy theorems and consequences, Power series, Zeros of analytic functions, Maximum modulus theorem, Singularities, Laurent series, Residues. Mobius transformations. Hilbert spaces: Inner product, Orthogonality, Orthonormal bases, Riesz Lemma, The space L2 as a Hilbert space.
+
+Course MTH753A - ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Metric spaces, Open and closed sets, Compactness and connectedness, Completeness, Continuous functions (several variables and on metric spaces), uniform continuity C(X), X, compact metric space, Uniform convergence, compactness criterion, Differentiation, Inverse and Implicit fuction theorems. Riemann Integration, Lebesgue Integration, Lpspaces. Complex Analysis: Analytic functions, Harmonic conjugates, Cauchy theorems and consequences, Power series, Zeros of analytic functions, Maximum modulustheorem, Singularities, Laurent series, Residues. Mobius transformations. Hilbert spaces: Inner product, Orthogonality, Orthonormal bases, Riesz Lemma, The space L2 as a Hilbert space.
+
+Course MTH754 - PROBABILITY THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Algebras and sigma algebras; Measurable spaces; Methods of introducingprobability measures on measurable space; Random variables; Lebesgue integral;Expectation; Conditional probabilities and conditional expectations with respect to sigma algebras; Radon Nikodym theorem; Inequalities of random variables;Fubini’s theorem; Various kinds of convergence of sequence of random variables; Convergence of probability measures; Central limit theorem; delta method;Infinitely divisible and stable distributions; ZeroorOne laws; Convergence ofseries; Strong law of large numbers; Law of iterated logarithm; Matringales and their basic properties.
+
+Course MTH754A - PROBABILITY THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Algebras and sigma algebras; Measurable spaces; Methods of introducing probability measures on measurable space; Random variables; Lebesgue integral;Expectation; Conditional probabilities and conditional expectations with respect to sigma algebras; Radon Nikodym theorem; Inequalities of random variables; Fubini’s theorem; Various kinds of convergence of sequence of random variables; Convergence of probability measures; Central limit theorem; delta method;Infinitely divisible and stable distributions; ZeroorOne laws; Convergence ofseries; Strong law of large numbers; Law of iterated logarithm; Matringales and their basic properties.
+
+Course MTH755 - STATISTICAL INFERENCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Population and samples; Parametric and nonparametric models; Exponential and location scale families; Sufficiency and minimal sufficiancy; Complete statistics;Unbiased and UMVU estimation; Asymptotically unbiased estimators; Method of moments; Bayes estimators; Invariance; Minimaxity and admissibility; The method of maximum likelihood; Asymptotically efficient estimation; Variance estimation; The jacknife; The bootstrap; The NP lemma; MLR; UMP tests forone and two sided hypotheses; Unbiased and similarity; UMPU tests in exponential families; Invariance and UMPI tests; LR tests; Asymptotic tests based on likelihoods; Chisquare tests; Bayes tests; Pivotal quantities; Inverting acceptance regions of tests; The Bayesian confidence interval; Prediction sets; Length of confidence intervals; UMA and UMAU confidence sets; Invariant confidence sets.
+
+Course MTH755A - STATISTICAL INFERENCE
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Population and samples; Parametric and nonparametric models; Exponential and location scale families; Sufficiency and minimal sufficiancy; Complete statistics; Unbiased and UMVU estimation; Asymptotically unbiased estimators; Method of moments; Bayes estimators; Invariance; Minimaxity and admissibility; The method of maximum likelihood; Asymptotically efficient estimation; Variance estimation; The jacknife; The bootstrap; The NP lemma; MLR; UMP tests forone and two sided hypotheses; Unbiased and similarity; UMPU tests in exponential families; Invariance and UMPI tests; LR tests; Asymptotic tests based on likelihoods; Chisquare tests; Bayes tests; Pivotal quantities; Inverting acceptance regions of tests; The Bayesian confidence interval; Prediction sets; Length of confidence intervals; UMA and UMAU confidence sets; Invariant confidence sets.
+
+Course MTH761 - VECTOR BUNDLES AND CHARACTERISTI C CLASSES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Smooth Manifolds, Vector bundles, Constructing New vector bundles Out of Old. Grassmann Manifolds and Universal bundles, The classification of vector bundles. Characteristic- classes for vector bundles, Stiefel Whitney classes of manifolds, Characteristic numbers of manifolds, Thom spaces and the Thom isomorphism theorem, The construction of Stiefel Whitney classes, Chern, Pontryagin, and Euler classes. Course Reference: 1.J. P. May. A concise course in Algebraic Topology. Chicago Lectures in Mathematics. University of Chicago Press, Chicago, IL, 1999, pp.; 2. John W. Milnor and James D. Stasheff. Characteristic classes. Annals of Mathematics Studies, No. 76. Princeton University Press, Princeton, N. J.; University of Tokyo Press, Tokyo, 1974.
+
+Course MTH781 - STATISTICAL PATTERN RECONGNITION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to pattern recongnition supervised and unsupervised classification. Dimension reduction techniques: principal component analysis, multidimensional scaling features for maximum linear separation projection pursuit. Parametric methods for discriminant analysis: Fisher’s linear discriminant function. Linear and quadratic discriminant analysis regularized discriminant analysisi. Linear and nonlinear support vector machines. Cluster analysis: hierarchical and nonhirerarchical techniques classification using Gaussian mixtures. Data depth: different notions of depth, concept of multivariate median, application of depth in supervised and unsupervised classification.
+
+Course MTH781A - STATISTICAL PATTERN RECONGNITION
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to pattern recongnition supervised and unsupervised classification. Dimension reduction techniques: principal component analysis, multidimensional scaling features for maximum linear separation projection pursuit. Parametric methods for discriminant analysis: Fisher’s linear discriminant function. Linear and quadratic discriminant analysis regularized discriminant analysisi. Linear and nonlinear support vector machines. Cluster analysis: hierarchical and nonhirerarchical techniques classification using Gaussian mixtures. Data depth: different notions of depth, concept of multivariate median, application of depth in supervised and unsupervised classification.
+
+Course MTH785 - ECONOMETRIC THEORY
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Multiple linear model, estimation of parameters under spherical and nonsphericaldisturbances by least squares and maximum likelihood methods, testsof hypothesis, R2 and adjusted R2. Prediction, within and outside sample predictions. Problem of structural change, tests for structural change. Use of dummy variable. Specification error analysis related to explanatory variables, inclusion and deletion of explanatory variables. Idea of Stein rule estimation. Exact and stochastic linear restrictions, restricted and mixed regression analysis. Multicollinearity, problem, implications and tools for handling the problem, ridge regression. Hetero skedasticity, problem and test, estimation under Hetero skedasticity. Autocorrelation, DurbinWatson test. Errors invariables, inconsistency of least squares method, methods of consistent estimation, instrumental variable estimation. Seemingly unrelated regression equation model, least squares, generalized least squares and feasible generalized least squares estimators. Simultaneous equations model, structural and reduced forms, rank and orderconditions for identifiability, indirect least squares, two stage least squares and imited information maximum likelihood methods of estimation. Additional topics like as Panel data models and unit roots & cointegration.
+
+Course MTH799 - RESEARCH
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Research
+
+Course MTH800 - RESEARCH
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+RESEARCH
+
+Course SE351 - LINEAR ALGEBRA
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Fields and linear equations. Vector spaces. Linear transformations and projections, relations, etc. Determinants. Elementary canonical forms: diagonalization, triangulation, primary decomposition etc. Secondary decomposition theorem, Rational canonical forms, Jordan canonical forms and some applications. Inner product spaces, Self adjoint, Unitary and normal operators, Orthogonal projections. Bilinear forms, Symmetric, Skewsymmetric, Positive and semipositive formsetc.
+
+Course SE352 - DISCRETE MATHEMATICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Permutations and combinations and basic definitions. Generating functions. Poly as enumeration theory. Recurrence relations. Principle of inclusion and exclusion. Balanced incomplete block design. Difference sets. System of distinct representatives. Orthogonal Latin squares. Hadamard matrices.
+
+Course SE353 - BASIC STRUCTURES OF MATHEMATICS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Finite and Infinite Sets: Finite sets, Countable sets, Uncountable sets. Groupsand Symmetry: Groups, Subgroups, Lagrange theorem, Normal subgroups, Quotient groups, Group actions, Homomorphisms, Group of symmetry rigidmotion group, finite subgroups of the rotation group, symmetric group. MetricSpaces: Open sets, Closed sets, Sequences, Continuity, Complete metric spaces, Contraction principle and applications, Connectedness and compactness. Fractals: Metric space of fractals and its completeness, Iterated function systems, Attractor, Algorithms to generate fractals. Topology of Surfaces: Eulers theorem, Construction of surfaces by identification: Torus, mobius strip, Klein bottle.
+
+Course SE354 - MATHEMATICAL LOGIC
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Formal theories, consequence and deduction. Classical Propositional Calculus: Syntax, truth, validity, Adequacy of connectives, normal forms, applications tocircuit design, Axiomatic treatment, deduction theorem, derived rules ofinference, Soundness, Independence of axioms, Consistency, completeness, Completeness w.r.t. Boolean algebras, Computer assisted formal proofs: tableaux, resolution. Classical first order theories: Syntax, satisfaction, truth validity, Axiomatic treatment, Equality, Examples of firstorder theories: Peano arithmetic, Groups, Orderings, Basis of axiomatic set theory, Deduction theorem, derivedrules of inference, soundness, Consistency, completeness, Lowenheim Skolem theorems, compactness, Firstorder theories with equality, Decidability, Computer assisted formal proofs: tableaux, resolution. Godels incompleteness theorems. Examples of other/nonclassical logics. Other proof techniques natural deduction, sequent calculus.
+
+Course SE356 - OPERATIONS RESEARCH - I
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Linear Models: Formulation and Examples, Basic Polyhedral Theory Convexity,Extreme points, Supporting hyperplanes etc, Simplex Algorithm Algebraic and Geometrical approaches, Artificial variable technique, Duality Theory: Fundamental theorem, Dual simplex method, Primaldual method, Sensitivity Analysis, Bounded Variable L.P.P. Transportation Problems: Models and Algorithms, Network Flows:Shortest path Problem, MaxFlow problem and Mincost Flow problem, Dynamic Programming: Principle of optimality, Discrete and continuous models.
+
+Course SE358 - REGRESSION ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Generalized Inverses, Cochrans theorem, Gauss Markov Setup, Least squares estimators with restriction on parameters, Test of Hypothesis of linear parameteric function, ANOVA, power of tests, Confidence Intervals and Regions, Multiple comparison, Linear, Polynomial and Multiple Regression, Residual Analysis, Multico llinearity, Ridge Regression and Principal Component Analysis, Subset Selection, Nonlinear Regression.
+
+Course SE359 - APPLIED STOCHASTIC PROCESSES
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Definition and classification of general stochastic processes. Markov Chains: definition, transition probability matrices, classification of states, limiting properties. Markov Chains with Discrete State Space: Poisson process, birth and death processes. Renewal Process: renewal equation, mean renewal time, stopping time. Markov Process with Continuous State Space: Introduction to Brownian motion.
+
+Course SE360 - MATHEMATICAL METHODS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Multiple Integral Theorems and their Applications: Greens theorem, Stokes theorem and Gauss divergence theorem. Integral Transforms: Fourier, Fouriersine/cosine and Hankel Transforms with their inverse transforms (properties, convolution theorem and application to solve differential equation). Perturbation Methods: Perturbation theory, Regular perturbation theory, Singular perturbation theory, Asymptotic matching. Calculus of Variation: Introduction, Variational problem with functionals containing first order derivatives and Euler equations. Functionals containing higher order derivatives and several independent variables. Variational problem with moving boundaries. Boundaries with constraints. Higherorder necessary conditions, Weirstrass function, Legendres and Jacobis condition. Existence of solutions of variational problems. RayleighRitz method, statement of Ekelands variational principle and applications.
+
+Course SE361 - STATISTICAL SIMULATION & DATA ANALYSIS
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Simulation of random variables from discrete, continuous, multivariate distributions and stochastic processes, MonteCarlo methods. Regression analysis, scatterplot, residual analysis. Computer Intensive Inference Methods JackKnife, Bootstrap, cross validation, Monte Carlo methods and permutation tests. Graphical representation of multivariate data, Cluster analysis, Principal component analysis for dimension reduction.
+
+Course SE363 - FINITE ELEMENT METHOD
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction and motivation, Weak formulation of BVP and Galerkin approximation, Piecewise polynomial spaces and finite element method, Computer implementation of FEM, Results from Sobolev spaces, Variational formulation of elliptic BVP, LaxMilgram theorem, Estimation for general FE approximation, Constructionof FE spaces, Polynomial approximation theory in Sobolev spaces, Variational problem for second order elliptic operators and approximations, Mixed methods, Iterative techniques.
+
+Course SE364 - MATHEMATICAL MODELING
+Department: Department of MTH (Mathematics and Statistics). Credits (L-T-P-D-C): 3-1-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Elementary mathematical models. Role of mathematics in problem solving. Concepts of mathematical modeling. System approach. Formulation. Analysis of models. Sensitivity analysis & parameter estimation. Design of experiment, Validation. Simulation approach. Pitfalls in modeling. Illustrations.

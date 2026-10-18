@@ -1,0 +1,1223 @@
+DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNCEMENTS
+Name: Department of Electrical Engineering, IIT Kanpur - seminars, events, workshops, news and announcements.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/ee. Snapshot: scraped in 2026.
+
+=== event archives ===
+Source: https://www.iitk.ac.in/ee/event-archives
+MATLAB Project Course on Massive MIMO, Cooperative Communication and Cognitive Radio for 5G in Visakhapatnam, January 06 - 10, 2020.
+
+QIP Short Term Course on Artificial Intelligence and Fuzzy Systems: Theories, Concepts and its Application, December 09 - 13, 2019.
+
+PYTHON and MATLAB Project Course on Design and Performance Analysis of 5G Wireless Systems: mmWave, Massive MIMO, NOMA, FBMC, Full Duplex and IoT, November 13-19, 2019.
+
+A Short Term QIP Sponsored Course on Electromagnetic Interference and Compatibility (EMI/EMC) Techniques, October 09-13, 2019
+
+Short course on Electromagnetic Metamaterials: Microwave-Infrared-Optical Applications, August 19-23, 2019
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+MATLAB Project Course in Bangalore on 5G Wireless Technologies: Massive MIMO, mmWave MIMO, NOMA, Full Duplex (FD), OFDM/ FBMC and NB-IoT, July 8-14, 2019
+
+Short course on Theory and Simulation of Massive MIMO & MmWave 5G NR Cellular Networks, May 27-31, 2019
+
+QIP Short Term Course on Smart Grid Technology, May 09-13, 2019
+
+Mini-Project Course in Hyderabad on MU-MIMO, Massive MIMO and OFDM Technologies for 5G Networks, March 27 - 30, 2019
+
+Short Course On Modeling and Simulation of Nano-Transistors January 21 - 25, 2019.
+
+MATLAB Project Course on Massive MIMO and Millimeter Wave MIMO Technologies for 5G Wireless Networks, January 3-6, 2019.
+
+Next Level Innovation in Robotics and Autonomy, December 9-10, 2018
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Introduction to AI and IoT, December 7-14, 2018
+
+2018 IEEE CIS Summer/Winter School on Deep Learning and Computational Intelligence, December 5-7, 2018.
+
+Short course on "Millimeter (mm) Wave MIMO and Filter-Bank Multicarrier (FBMC) Technologies for 5G Wireless Networks" in Bangalore,July 25th-28th,2018
+
+Introduction to AI & IoT -Summer Course for Undergraduate Students.
+
+GIAN Course on "IoT in Smart Living and Cyber-Physical-Social Systems",8-17 Jan 2018.
+
+Optimization for Communications and Machine Learning,March 28-30,2018
+
+GIAN Course on Network Information Theory,March 15-24,2018
+
+Game Theory and Competetive Strategies for 4G/ 5G Wireless Networks, 19-21 February, 2018
+
+Indian Control Conference,Jan 04-06,2018
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+2017 International Conference on Computational Intelligence: Theories, Applications and Future Directions,December 6th-8th,2017
+
+GIAN Course on "Microwave and THz Imaging of the Stratified Media for Industrial and Biomedical Applications",December 05-09, 2017
+
+QIP Short term course on Deep Learning and Computational Intelligence in Automation & Control,December 4th-9th 2017
+
+Short Course on "Optimization for 5G Cellular Networks, Compressive Sensing and Data Science: With CVX-MATLAB Project", 5-8th October 2017
+
+Mini-Colloquium on Nanoelectronics on 26th August,2017
+
+GIAN course on "Codes for Distributed Storage" from July 1st to 10th,2017
+
+Summer Project at IIT Kanpur on "MIMO, Massive MIMO and OFDM 4G/ 5G Wireless Technologies",June 20 to 23, 2017
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Short Course on "5G Multi-User MIMO and Massive MIMO Systems",June 14 to 16, 2017 in Bengaluru
+
+IEEE Workshop on Compact Modeling on March 3, 2017
+
+High Frequency Device Characterization and Modeling for THz applications February 27 - March 03, 2017.(Brochure)
+
+An International Workshop on "Agent Based Self-Healing Energy Systems: Design and Implementation", February 21th-22nd, 2017.
+
+A short term Short Course On "Modeling and Simulation of Nano-Transistors", February 13th-17th, 2017.
+
+National Instruments half day workshop on topics related to use of NI labview in EE application areas, January 19th,2017. Venue:L16.
+
+A short course on "Deep Learning and Applications", January 12-16, 2017, 2017. Venue: Outreach Auditorium
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+A short term QIP sponsored course on "RF, Microwave and Terahertz Imaging Techniques", November 5th-9th, 2016.
+
+MHRD - GIAN (Global Initiative of Academic Networks) course on “Advanced Topics in Coding Theory", October 13th - 22nd, 2016
+
+MHRD - GIAN (Global Initiative of Academic Networks) course on “Cognitive Radio and Wireless Communications", September 1st - 10th, 2016
+
+A workshop on "Big Data and Hadoop Ecosystem", August 13th, 2016
+
+Short Course on Technologies for 5G Wireless Communication Networks, July 25 - 27, 2016
+
+Workshop on SMART MICROGRIDS, Apr 8 - 10, 2016
+
+Short Course on MIMO-OFDM Wireless Communications, Feb 19 - 21, 2016
+
+IEEE MTT-S Workshop on THz Imaging, Systems and Technology. February 18, 2016
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions, December 14-17, 2015
+
+2015 IEEE CIS Winter School on Computational Intelligence: Theories,Applications and Future Directions,December 14th-16th 2015
+
+Short term course on Modelling, Simulation and Characterization of Nano-Transistors, October 26-30, 2015
+
+Short term course on Convex Optimization for Wireless Communictaion, November 16-18, 2015
+
+Short Course On "VLSI Circuit Design in Semiconductor Industry" March 7 - 9, 2016
+
+IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions, December 14-17, 2015
+
+Short term course on Convex Optimization for Wireless Communictaion, November 16-18, 2015
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Short term course on Modelling, Simulation and Characterization of Nano-Transistors, October 26-30, 2015
+
+Short term course on "Fundamentals and Applications of Metamaterials (April 06 - April 10, 2015)
+
+Short term course on "Power Electronic Applications for Renewable Integration" (March 30 - April 1, 2015)
+
+Short term course on "Estimation Theory for Communications and Signal Processing" (Jan 21-23, 2014)
+
+QIP short term course on "Power Generation Technologies: Present Status and Future Directions" (Dec 01-05, 2014)
+
+A short term QIP sponsored course on RF circuit and systems for Industrial Applications (Sept 08-12, 2014)
+
+COGNITIVE RADIO: A New Paradigm in Wireless
+
+Short term QIP sponsored course on Microwave material processing, Modeling and Non-Destructive testing (Sept. 16-21, 2013)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Short term course on Power System Economics (July 26-30, 2013)
+
+Short term course on Wireless sensor networks: Theory and challenges (July 22-24, 2013
+
+IEEE workshop on computational intelligence:Theories, Applications and Future Directions (July 14, 2013)
+
+Short term course on Intelligent Informatics (July 15-29, 2013)
+
+Short term course on Power Markets: Economics and Management (October 29 - November 02, 2012
+
+Short term course on Intelligent Informatics in Electrical Engineering (Sept 17-21, 2012)
+
+Short term course on wireless sensor networks: From theory to practice (May 24-26, 2012)
+
+National workshop on wide area monitoring and control of power systems using synchrophasor technology (April 13-14, 2012)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Short term course on practical approach to networking (April 12-15, 2012)
+
+Short term course on Operation and Management of Emerging Power Systems (Nov 21-25,2011)
+
+COGNITIVE RADIO: The next frontier in wireless communication (Oct 20-Oct 22, 2011)
+
+SERC school on Adaptive Control of Nonlinear Systems using Fuzzy and Neural Networks (Oct 5-Oct 9, 2011)
+
+Seminar on Micro Solar Energy Generation and Utilization(Sept 3 - Sept 4, 2011)
+
+Course on OFDM based 4G cellular standards: LTE and WiMAX (May 09-11, 2011)
+
+Short course on Cognitive Radio: The next frontier in wireless (November 23-25, 2010)
+
+Short term QIP course on Intelligent System Applications to the Smart Electric Grid Solutions (Nov 15-19, 2010)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > event archives]
+Short course on Recent Trends in the Design and measurement of RF and Microwave circuits (DMRMC) (July 12-16, 2010)
+
+Short course on OFDM based next generation wireless standard(May 17-19, 2010)
+
+Brainstorming session on Health Monitoring of Automotives (March 9-10, 2010)
+
+International symposium on photovoltaic science and technology (Jan 8-15, 2010)
+
+Short term course on Cellular Technologies - 3G and beyond (Nov 26-28, 2009)
+
+Indo-US workshop on System of Systems Engineering (Oct 26-28, 2009)
+
+National conference on the emerging trends in the photovoltaic energy generation and utilization (Mar 27-29, 2008)
+
+Last Updated: Thursday, 06 July 2023 17:23
+
+=== kr sharma m ramamoorty distinguished lecture series ===
+Source: https://www.iitk.ac.in/ee/kr-sharma-m-ramamoorty-distinguished-lecture-series
+A Device (TCAD) to Circuit (SPICE) Framework for BTI and HCD Aging - Prof. Souvik Mahapatra (Upcoming)
+A Device (TCAD) to Circuit (SPICE) Framework for BTI and HCD Aging
+
+Abstract- This talk will begin with the basics of Bias Temperature Instability (BTI) and Hot Carrier Degradation (HCD) induced performance degradation in CMOS devices and circuits. A comprehensive reliability model will be introduced, which has been implemented in TCAD and also as a standalone code in SPICE. Various examples of modeling of measured data from GAA FETs will be shown. Finally, the activity (mission profile) and Dynamic Voltage Frequency Scaling (DVFS) analysis in circuits will be discussed.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > kr sharma m ramamoorty distinguished lecture series]
+Bio- Souvik Mahapatra is a professor of Engineering at IIT Bombay. His research area is reliability of CMOS and Flash memory devices and CMOS circuits. He works closely with several semiconductor industries in the fab, fabless, fabtool and EDA space. He is a fellow of IEEE, INSA, INAE and IASc.
+
+Speaker Name: Prof. Souvik Mahapatra, EE Dept, IIT Bombay
+
+Date and Time: 24, February 2025 5:00 PM -6:30 PM
+
+Venue: DA 229, ACES building
+
+Overview of Design Challenges for SiC-based Traction Inverters - Mr. Milind Dighrasker
+Mr. Milind Dighrasker, Senior Director, ON Semiconductor, will deliver a talk on "Overview of Design Challenges for SiC-based Traction Inverters" as a part of the "K R Sharma and Dr. M. Ramamoorty Distinguished Lecture Series"
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > kr sharma m ramamoorty distinguished lecture series]
+Title: Overview of Design Challenges for SiC-based Traction Inverters Abstract: The adoption of SiC in traction inverters is increasing due to its advantages of higher efficiency, higher power density, and improved packaging/thermal performance. SiC outperforms the IGBT in traction inverters and provides an extended driving range for electric vehicles. However, many challenges need to be addressed/considered during the inverter design while using SiC for the traction inverter. Additionally, the choice of the gate driver and its features impact the traction inverter performance, reliability, functionality, and safety aspects.
+
+The talk will provide an overview of key design aspects of traction inverters that need to be considered while using SiC. Also, it provides a detailed insight into the gate driver for traction inverter, its features, challenges, and advancement in this area.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > kr sharma m ramamoorty distinguished lecture series]
+Biography: Milind has more than 20 years of experience in Power electronics system design & development. In his career he has worked on various power applications including Lighting, UPS, Solar inverters, Power supplies, USB Chargers, Onboard EV chargers, Motor controllers, and Traction inverters are few of them. He also has entrepreneurial experience running a company, Enstin Labs, in the area of power conversion system development.
+
+He has 15 US patents & 2 IEEE publications to his credit. Milind holds a master's degree in Power & Control from IIT Kanpur. He is currently working as Sr. Director of Applications in ON Semiconductor Bangalore. His current areas of interest are bi-directional DC-DC converters, Resonant converters & Traction inverters.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > kr sharma m ramamoorty distinguished lecture series]
+Date and Time: Friday, January 31, 5:00 - 6:30 PM
+
+Venue: LH10
+
+Last Updated: Thursday, 20 February 2025 09:06
+
+=== mimt lab lectures ===
+Source: https://www.iitk.ac.in/ee/mimt_lab/lectures.php
+MIMT Lab
+
+About
+
+Projects
+
+Invited Lectures
+
+Short Courses
+
+Ph.D.
+
+M.Tech/MSR
+
+Project Staff
+
+Contact
+
+Invited Lectures
+
+Invited Expert Lectures
+
+Title: RF Sensors and Imaging Techniques
+
+Forum:e-STC on "Recent Innovation and Development in RF and Microwave Engineering for Wireless Communication"
+
+Place:Department of Electronics and Communication Engineering, National Institute of Technology, Hamirpur, India
+
+Date: May 12, 2022
+
+Title: EMI Shielding Materials: Need of Today’s Electronic Industry
+
+Forum:National Conference on Functional Materials: Synthesis, Properties and Applications"
+
+Place:: Department of Physics, AMU, Aligarh, India
+
+Date: February 21-23, 2022
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Title: EMI/EMC Techniques and Shielding Structures
+
+Forum:Tri Services EMI EMC course for officers of Army, Navy, Air Force & Coast Guard.
+
+Place:Military College of Telecommunications Engineering (MCTE), M.P., India
+
+Date: December 21, 2021
+
+Title: FSS Structures for EMI/EMC Applications
+
+Forum:ATAL FDP on EMI and EMC, Mumbai University
+
+Place:Tarena Engineering College, Mumbai University, India
+
+Date: December 14, 2021
+
+Title: RF Planar Resonant Sensors and Their Applications
+
+Forum:e-STC on " Recent Advancement in Microwave Filters and Antennas: Design,Techniques and Applications"
+
+Place:Department of Electronics and Communication Engineering, National Institute of Technology, Hamirpur, India
+
+Date: July 24, 2021
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Title: Metamaterial Inspired RF Sensors and Their Applications
+
+Forum:FDP on "Recent Trends in Communication, Microwave Engineering & IoT"
+
+Place:KIIT Bhubaneshwar
+
+Date: June 24, 2021
+
+Title: Metamaterial Inspired RF Planar Sensors for Biomedical Application
+
+Forum:Bioelectrodynamics webinar series, URSI  & Engineering in Medicine and Biology Society Chapter
+
+Place:IEEE Czechoslovakia Section
+
+Date: June 21, 2021
+
+Title: Microwave Nondestructive Testing and Imaging Techniques
+
+Forum:FDP on "Advanced Electromagnetics and Applications"
+
+Place:Department of ECE, Sri Sivasubramaniya Nadar College of Engineering, Chennai
+
+Date: May 28, 2021
+
+Title: Microwave Imaging and RF Planar Sensors: Theory and Applications
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Forum:Online Workshop on Microwave Imaging and Sensors
+
+Place:IIT Jammu
+
+Date: Mar 11, 2021
+
+Title: Microwave Processing of Advanced Composites and Metal Powders
+
+Forum:TEQIP-III sponsored One Week Online Short Term Course on "Microwave Material Processing: Opportunities and Challenges"
+
+Place:NIT Uttrakhand
+
+Date: December 14-18, 2020
+
+Title: Metamaterial Inspired High Sensitivity Planar RF Sensors and Their Applications
+
+Forum:ATAL Academy sponsored FDP on Sensor Technology
+
+Place:University of Burdwan
+
+Date: November 05, 2020
+
+Title: RF Sensors and Microwave Imaging: Theory and Applications
+
+Forum:Faculty Development Program (FDP) using Online Mode
+
+Place:KIIT Bhubaneshwar
+
+Date: June 27, 2020
+
+Title: Introduction to EMI/EMC Techniques
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Forum:QIP Short Course on “Electromagnetic Interference and Compatibility (EMI/EMC) Techniques”
+
+Place:IIT Kanpur, India
+
+Date:Oct.09 – Oct. 13, 2019
+
+Title: Conducted Emission, LISN Network and Filter Topology
+
+Forum:  QIP Short Course on “Electromagnetic Interference and Compatibility (EMI/EMC) Techniques”
+
+Place: IIT Kanpur, India
+
+Date: Oct.09 – Oct. 13, 2019
+
+Title: EMI/EMC Standards for Military, Commercial and Biomedical Applications
+
+Forum:  QIP Short Course on “Electromagnetic Interference and Compatibility (EMI/EMC) Techniques”
+
+Place: IIT Kanpur, India
+
+Date: Oct.09 – Oct. 13, 2019
+
+Title: FSS and Metamaterial Inspired Hybrid Structures for EMI Shielding
+
+Forum:  QIP Short Course on “Electromagnetic Interference and Compatibility (EMI/EMC) Techniques”
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIT Kanpur, India
+
+Date: Oct.09 – Oct. 13, 2019
+
+Title: Non-Ideal Behavior of Various Electronic Components for EMI/EMC
+
+Forum:  QIP Short Course on “Electromagnetic Interference and Compatibility (EMI/EMC) Techniques”
+
+Place: IIT Kanpur, India
+
+Date: Oct.09 – Oct. 13, 2019
+
+Title: Transmission Lines and S Parameters
+
+Forum:  TEQIP Faculty Development Program/Workshop on “RF, Microwaves and Antennas: Theory and Applications”
+
+Place: IIT Kanpur, India
+
+Date: Sep.16 – Sep. 20, 2019
+
+Title: Vector Network Analyzer (VNA) and Directional Coupler
+
+Forum:  TEQIP Faculty Development Program/Workshop on “RF, Microwaves and Antennas: Theory and Applications”
+
+Place: IIT Kanpur, India
+
+Date: Sep.16 – Sep. 20, 2019
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Title: Waveguide and Cavity Structures
+
+Forum:  TEQIP Faculty Development Program/Workshop on “RF, Microwaves and Antennas: Theory and Applications”
+
+Place: IIT Kanpur, India
+
+Date: Sep.16 – Sep. 20, 2019
+
+Title: RF Amplifiers and Non-linear parameters
+
+Forum:  TEQIP Faculty Development Program/Workshop on “RF, Microwaves and Antennas: Theory and Applications”
+
+Place: IIT Kanpur, India
+
+Date: Sep.16 – Sep. 20, 2019
+
+Title: Parameter Extraction of Metamaterials Structures
+
+Forum:  QIP Short term course on "Electromagnetic Metamaterials: Microwave-Infrared-Optical Applications”
+
+Place: IIT Kanpur, India
+
+Date: Aug. 19 – Aug 23, 2019
+
+Title: Metamaterial Inspired RF Sensors
+
+Forum:  QIP Short term course on "Electromagnetic Metamaterials: Microwave-Infrared-Optical Applications”
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIT Kanpur, India
+
+Date: Aug. 19 – Aug. 23, 2019
+
+Title: Effective Utilization of Virtual Labs
+
+Forum: TEQIP Phase III Short Course “Introduction to Basic Electrical Engineering: A Pedagogical Approach”
+
+Place: IIT Kanpur, India
+
+Date:  July 02-06, 2019
+
+Title: Microwave Subsurface Imaging: Methodologies and Applications
+
+Forum: 2019 URSI Asia Pacific Radio Science Conference  (AP-RASC 2019)
+
+Place: New Delhi, India
+
+Date: March 09-15, 2019
+
+Title: Design and Development of Light Weight Wideband Microwave Absorbers for Stealth Applications
+
+Forum: National Conference on Recent Trends in Materials Science and Spectroscopy (RTMS2019)
+
+Place: Department of Physics, Aligarh Muslim University, Aligarh, India
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Date: March 02-03, 2019
+
+Title: Microwave Imaging: Theory, Applications and Future Challenges
+
+Forum: TEQIP Phase III Workshop – Engineered Materials for Future  Electromagnetic Research and Antenna Applications
+
+Place: Jadavpur University, Kolkata, India
+
+Date: February 06, 2019
+
+Title: Metamaterial Inspired Planar RF Sensors: Theory and Applications
+
+Forum: IEEE MTT-S International Microwave and RF Conference (IMaRC 2018)
+
+Place: Kolkata, India
+
+Date: November 28, 2018
+
+Title: Electromagnetic Theory and Microwave Engineering: Theory and Applications
+
+Forum:  Indus Institute Annual Seminar Series
+
+Place:  Indus Institute of Technology & Management, Bilhaur, Kanpur, India
+
+Date: September 18, 2018
+
+Title: RF and Microwave Characterization Laboratory
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Forum: One Day Workshop on Virtual Laboratories
+
+Place: IIT Kanpur, India
+
+Date: September 18, 2018
+
+Title: RF and THz Imaging and Spectroscopy
+
+Forum: GIAN Course on Microwave and THz Imaging of the Stratified Media for Industrial and Biomedical Applications (December 05 – December 09, 2017)
+
+Place: IIT Kanpur, India
+
+Date: December 07, 2017
+
+Title: Computationally Intelligent System for Microwave Imaging and Testing of Dielectric Objects
+
+Forum: QIP Short Term Course on Deep Learning and Computational Intelligence in Automation & Control (December 04 – December 08, 2017)
+
+Place: IIT Kanpur, India
+
+Date: December 07, 2017
+
+Title: Microwave Characterization of Dielectric  Materials
+
+Forum: CEP Short Course on Advance Characterization Techniques for Functional Materials
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: DMSRDE, Defence Research & Development Organisation DRDO, Kanpur, India
+
+Date: November 22, 2017
+
+Title: RF and Microwave Characterization Laboratory
+
+Forum: Virtual Laboratories Workshop
+
+Place: IIT Kanpur, India
+
+Date: September 16, 2017
+
+Title: Microwave Imaging and Measurement Techniques
+
+Forum: TEQIP-II Sponsored Faculty Development Program (FDP) entitled Advance Course on Antennas and Microwaves (January 30 - February 4 2017)
+
+Place: School of Engineering, Harcourt Butler Technical University, Kanpur
+
+Date: January 30, 2017
+
+Title: Electromagnetic Theory: Pedagogical Aspects and Learning through Virtual Lab Modules
+
+Forum: Refresher Program Under Faculty Development Centre entitled Recent Trends on Microwave Devices and Antennas (December 26, 2016  - January 15, 2017)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIT – ISM Dhanbad, India
+
+Date: January 02, 2017
+
+Title: RF and Microwave Sensors: Theory and Testing Procedures
+
+Forum: Refresher Program Under Faculty Development Centre entitled Recent Trends on Microwave Devices and Antennas (December 26, 2016  - January 15, 2017)
+
+Place: IIT – ISM Dhanbad, India
+
+Date: January 02, 2017
+
+Title: Microwave and THz Imaging Techniques
+
+Forum: Refresher Program Under Faculty Development Centre entitled Recent Trends on Microwave Devices and Antennas (December 26, 2016  - January 15, 2017)
+
+Place: IIT – ISM Dhanbad, India
+
+Date: January 02, 2017
+
+Title: RF, Microwave and Terahertz: Theory and Methods
+
+Forum: QIP Short term course on RF, Microwave and Terahertz Imaging Techniques (November 05 - November 09, 2016)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIT Kanpur, India
+
+Date: November 05, 2016
+
+Title: THz Spectroscopy and Imaging Techniques
+
+Forum: QIP Short term course on RF, Microwave and Terahertz Imaging Techniques (November 05 - November 09, 2016)
+
+Place: IIT Kanpur, India
+
+Date: November 07, 2016
+
+Title: Millimeter-wave and Terahertz Biomedical Imaging
+
+Forum: Medical Imaging: Techniques & Clinical Application (WMITCA-2016), Feb. 22 - Feb. 23, 2016
+
+Place: IIT Kanpur, India
+
+Date: February 23, 2016
+
+Title: Terahertz Biomedical Imaging
+
+Forum: One Day IEEE MTT-S Workshop on THz Imaging, Systems and Technology
+
+Place: IIT Kanpur, India
+
+Date: February 18, 2016
+
+Title: Microwave Characterization of Materials
+
+Forum: CEP Short Course on Advanced Analytical Techniques for Material Characterization
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: DMSRDE, Defence Research & Development Organisation DRDO, Kanpur, India
+
+Date: October 07, 2015
+
+Title: Parameter Extraction of Metamaterials Structure
+
+Forum: QIP Short term course on Fundamentals and Applications of Metamaterials (April 06 - April 10, 2015)
+
+Place: IIT Kanpur, India
+
+Date: April 08, 2015
+
+Title: High Frequency Electromagnetics: Pedagogical Aspects and Research Trends
+
+Forum: TEQIP Workshop: Electromagnetics: Pedagogy and Research Trends, Sponsored by MHRD-TEQIP-KIT, CDEEP
+
+Place: IIT Bombay, India
+
+Date: January 24, 2015
+
+Title: RF Sensors and Testing Techniques
+
+Forum: RF/Microwave Workshop
+
+Place: IIIT Delhi, India
+
+Date: December 14, 2014
+
+Title: RF/Microwave Education and Training: Challenges and Issues
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Forum: Microwave/RF Education Forum Challenges and Issues in Academia, IEEE MTT-S Education Forum, IMaRC 2014
+
+Place: Bangalore, India
+
+Date: December 15, 2014
+
+Title: Microwave Imaging and Nondestructive Testing Techniques
+
+Forum: One Day IEEE MTT-S Workshop on RF and Microwaves for the Cellular and Industrial Applications
+
+Place: Ambedkar Institute of Advanced Communication Technologies & Research, Delhi
+
+Date: December 13, 2014
+
+Title: RF Sensors and Techniques
+
+Forum: QIP Shot Course on RF Circuits and Systems for Industrial Applications
+
+Place: IIT Kanpur, India
+
+Date: September 08, 2014
+
+Title: Microwave Material Modeling and Industrial Heating Systems
+
+Forum: QIP Shot Course on RF Circuits and Systems for Industrial Applications
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIT Kanpur, India
+
+Date: September 12, 2014
+
+Title: Metamaterials: Introduction and its applications
+
+Forum: CEP Short Course on Stealth and camouflage materials for ground based and airborne objects
+
+Place: DMSRDE, Defence Research & Development Organisation DRDO, Kanpur, India
+
+Date: November 12, 2014
+
+Title: Extraction of Microwave Properties of Materials
+
+Forum: CEP Short Course on Stealth and camouflage materials for ground based and airborne objects
+
+Place: DMSRDE, Defence Research & Development Organisation DRDO, Kanpur, India
+
+Date: November 12, 2014
+
+Title: Microwave Imaging of Concealed Objects
+
+Forum: National Conference on Electronics, Communication & Information system- NCECIS-2013
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: United College of Engineering & Research, Greater Noida, India
+
+Date: October 12, 2013
+
+Title: Microwave-Material Interaction: A General Perspective
+
+Forum: QIP Short Course on Microwave Material Processing, Modeling and Nondestructive Testing
+
+Place: IIT Kanpur, India
+
+Date: September 16 - 20, 2013
+
+Title: Microwave Characterization and Non-destructive Testing
+
+Forum: QIP Short Course on Microwave Material Processing, Modeling and Nondestructive Testing
+
+Place: IIT Kanpur, India
+
+Date: September 16 - 20, 2013
+
+Title: Microwave Modeling of Artificial Dielectrics and Metamaterials
+
+Forum: QIP Short Course on Microwave Material Processing, Modeling and Nondestructive Testing
+
+Place: IIT Kanpur, India
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Date: September 16 - 20, 2013
+
+Title: Microwave Processing and Characterization of Materials
+
+Forum: Forum: QIP Short Course on Material Processing
+
+Place: IIT Kanpur, India
+
+Date: February 18 - 22, 2013
+
+Title: Fundamentals of the Vector Network Analyzer + TRL Calibration for Non-Coaxial Media
+
+Forum: National Workshop on RF and Microwave Techniques & Measurements
+
+Place: IIST Thiruvananthapuram, India
+
+Date: July 19, 2012
+
+Title: Microwave Characterization of Materials for Various Applications
+
+Forum: National Workshop on RF and Microwave Techniques & Measurements
+
+Place: IIST Thiruvananthapuram, India
+
+Date: July 19, 2012
+
+Title: Microwave Imaging and Nondestructive Testing of Materials and Objects
+
+Forum: National Workshop on RF and Microwave Techniques & Measurements
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Place: IIST Thiruvananthapuram, India
+
+Date: July 20, 2012
+
+Title: Ultra Wideband Microwave Imaging and Testing
+
+Forum: One Day Workshop on Ultra Wideband Systems (UWBS-2011)
+
+Place: Department of Electronicl Engineering, Aligarh Muslim University, Aligarh, India
+
+Date: March 24, 2011
+
+Title:  Introduction to electromagnetic theory and microwave engineering
+
+Forum: Recent Trends in the Design and Measurement of RF and Microwave Circuits (DMRMC)
+
+Place: IIT Kanpur, India
+
+Date: July 12-16, 2010
+
+Title: Calibration of the vector network analyzer including a case study of the waveguide TRL calibration
+
+Forum: Recent Trends in the Design and Measurement of RF and Microwave Circuits (DMRMC)
+
+Place: IIT Kanpur, India
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Date: July 12-16, 2010
+
+Title: Industrial applications of microwaves: material processing, heating and drying
+
+Forum: RF and Microwave Short Course for Doordarshan Engineers
+
+Place: IIT Kanpur, India
+
+Date: July 12-16, 2010
+
+Title: TRL Calibration of the vector network analyzer
+
+Forum: Recent Trends in the Design and Measurement of RF and Microwave Circuits (DMRMC)
+
+Place: IIT Kanpur, India
+
+Date: Nov 30 - Dec 4, 2009
+
+Title: State of the art of various techniques used for the electromagnetic characterization of a wide range of materials employed in the RF and microwave industry
+
+Forum: RF and Microwave Short Course for Doordarshan Engineers
+
+Place: IIT Kanpur, India
+
+Date: Nov 30 - Dec 4, 2009
+
+Title: Dielectric Measurements of Materials for Microwave Processing Applications
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > mimt lab lectures]
+Forum: Minicourse, International Conference on Plasma Science (ICOPS 2008)
+
+Place: Karlsruhe, Germany
+
+Date: June 19-20, 2008
+
+Title: Measurement of Dielectric Properties for Aerospace Applications
+
+Forum: Dielectric Measurement Short Course, 41st Annual International Microwave Symposium
+
+Place: Vancouver, Canada
+
+Date: August 1-3, 2007
+
+© Copyright IIT Kanpur. All Rights Reserved
+
+Developed & Maintained by Institute Web Team
+
+=== narayan murthy lecture series ===
+Source: https://www.iitk.ac.in/ee/narayan-murthy-lecture-series
+Engineering the strain and neuromorphic performance of 2D-TMD transistors
+
+Abstract- In recent years, researchers have leveraged the unique physical properties of layered two-dimensional (2D) van der Waals (vdW) materials, such as a wide range of thickness-dependent bandgaps and facile fabrication of heterostructures with defect-free heterointerfaces, for several electronic applications. At the same time, their optical and electrical properties can be controlled using strain tuning of band structure parameters because of their high tensile strength, as well as via electrostatic gating based tuning of carrier concentrations because of their ultra-thin nature.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > narayan murthy lecture series]
+This presentation will first describe recent results from our group on engineering the strain-modulated performance of transistors based on 2D vdW transition metal dichalcogenide (TMD) semiconductors. Specifically, an electrically actuated piezo-stack is shown to fine-tune optical and electrical parameters of MoS2 field-effect transistors with tensile as well as compressive strain, offering improved control and integration possibilities over existing mechanical methods. [1] Next, we will describe the use of independent electrostatic gating of contact and channel barriers in 2D TMD transistors towards realizing neuronal spiking behaviour, closely mimicking biological neurons with functionalities such as spike- frequency adaptation and post-inhibitory rebound, at a low energy consumption of 3.5 pJ/spike. [2]
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > narayan murthy lecture series]
+Bio: Prof. Saurabh Lodha is the P. K. Kelkar Chair Professor at the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay in India. He graduated from IIT Bombay in 1999 with a B. Tech (EE) followed by a Masters (ECE) and PhD (ECE) from Purdue University, USA, in 2001 and 2004 respectively. From 2005-2010 he worked at Intel Corporation in Portland, USA, on the research and development of 45, 32 and 22 nm Si CMOS technologies. He joined IIT Bombay in 2010 where he is also the PI of the IITB-OSU Frontier Research Center. His research interests span devices and materials in the areas of advanced CMOS technologies, 2D (opto)electronics and gallium oxide power electronics. He has been awarded the Swarna Jayanti fellowship (2017) and the Young Career Award (2020) by the Department of Science and Technology, Govt. of India, and the KLC Memorial Distinguished Lecture Award (2023) by IIT Delhi.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > narayan murthy lecture series]
+Speaker Name: Prof. Saurabh Lodha
+Professor, Department of Electrical Engineering, IIT Bombay, Powai, Mumbai, India, 400076
+
+Date and Time: 25, February 2025 10:30 AM-12:00 PM
+
+Venue: ACES 214, ACES building
+
+Last Updated: Thursday, 20 February 2025 09:05
+
+=== newsletter ===
+Source: https://www.iitk.ac.in/ee/newsletter
+EE Newsletter Vol. 3, Issue 1, 2026
+
+EE Newsletter Vol. 2, Issue 2, 2025
+
+EE Newsletter Vol. 2, Issue 1, 2025
+
+EE Newsletter Vol. 1, Issue 1, 2024
+
+Last Updated: Thursday, 16 July 2026 14:10
+
+=== research highlights ===
+Source: https://www.iitk.ac.in/ee/research-highlights
+Last Updated: Thursday, 05 October 2023 14:51
+
+=== seminar archives ===
+Source: https://www.iitk.ac.in/ee/seminar-archives
+A talk on "A view into Machine Learning (ML) and Natural Language Processing (NLP) in Industry" by Mr. Rishabh Bhargava from Primer in San Francisco(an AI startup ) on January 3, 2019 in L5.
+
+IEEE MTT-S SBC and MTT-S U.P. Section invited lecture on "Microwave and millimeter-wave antennas and metamaterials hand-in-hand with LTE-A and 5G mobile communication" by Prof. Sungtek Kahng from Incheon National University,Korea on 21st December 2018 in DA229.
+
+IEEE APS SBC invited lectures on "From Engineering Electromagnetics Towards Electromagnetic Engineering, Modeling & Simulation Strategies in Antenna Theory (Antenna Arrays, Beam Forming & Beam Steering)" by Prof. Levent Sevgi from Electrical–Electronics Engineering Department, OKAN University, Istanbul on 20th December 2018 in ACES214.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE APS SBC invited lectures on "Computational and EM simulation prospects of active phased arrays, Active electronically scanned array performance evaluation and calibration" by Dr. Veer Singh Gangwar from LRDE (DRDO), Bangalore, Ministry of Defence, Govt. of India on 7th December 2018 in DA229.
+
+IEEE EDS Seminar on "High-Speed Integrated Circuits and Optical Interconnects for Green Data Centers" by Dr. Shalabh Gupta from Dept. of Electrical Engineering, IIT Bombay on 06 December 2018 in DA229.
+
+IEEE Seminar on "Digital All pass Filter: A Versatile Signal Processing Building Block" by Professor Sanjit K. Mitra on 28th November 2018 in DA229.
+
+A Talk on "Inverse problems for the wave equation" by Prof Rakesh from Department of Mathematical Sciences, University of Delaware on 20 Nov 2018 in ACES213.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE EDS Lecture on "Low-dimensional-structure devices for future electronics" by Prof. Shunri Oda from Tokyo Institute of Technology, Japan on 16th November 2018 in ACES214.
+
+IEEE EDS Seminar on "Efficient and Friendly Energy Conversion Devices" by Dr. Debashree Banerjee from CSIR-CEERI, Pilani on 15th November 2018 in ACES214.
+
+A Talk on "Qubits through Queues: The capacity of channels with waiting time dependent errors" by Dr. Krishna Jagannathan from Department of Electrical Engineering, IIT Madras on 14 Nov, 2018 in ACES214.
+
+IEEE Seminar on "Modelling, Controllability and feedback design of underactuated mechanical systems" by Prof. Krishna Naishadham from School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia, USA on November 5, 2018 in DA229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE MTT-S Talk on "Antenna Design and Integration with Nanotechnology Based Sensor Nodes" by Prof. Krishna Naishadham from School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia, USA on November 5, 2018 in DA229.
+
+IEEE MTT-S Lecture on "Circularly Polarized Dielectric Resonator Antenna" by Dr. Raghvendra Kumar Chaudhary from Indian Institute of Technology (ISM), Dhanbad on November 5, 2018 in DA229.
+
+IEEE Seminar on "Low switching frequency pulse width modulation for induction motor drives" by Dr. Avanish Tripathi from Delta Power Solutions India Pvt. Ltd., Bangalore on 01st November 2018 in DA229.
+
+IEEE Power and Energy Society Distinguished Lecture on "Managing Uncertainties of the Future Grid" by Dr. Jay Giri from University of Washington, Seattle on 1st November, 2018 in L6, LHC.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+A seminar on "Conditional Independence : Novel Consistent Estimators & Hypothesis Testing Paradigm" by Dr. Himanshu Asnani from University of Washington, Seattle on 11th October, 2018 in DA-229.
+
+A Talk on "On the Optimal Association and Bandwidth Allocation for Hybrid RF/VLC Systems" by Dr. Shivanshu Shrivastava from IIT Kanpur on 10th October, 2018 in ACES-214.
+
+IEEE CIS UP Section Lecture on "Ambient intelligence: convergence of artificial intelligence, machine learning, biometrics, cloud-computing, and internet-of-things" by Professor Vincenzo Piuri from Università degli Studi di Milano, Italy on 26th September, 2018 in L17, LHC.
+
+IEEE MTT-S Lecture on "Metamaterials, some concepts and applications" by Prof.Stefan Enoch from Fresnel Institute, France on 18th September, 2018 in L8, LHC.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+A talk on "Unravelling the Mystery of Deafness" by Dr Rohit Mehrotra from Mehrotra Diagnostics And ENT Hospital on 12ht September, 2018 in L17, LHC.
+
+A talk on "Role of DST in promoting S&T ecosystems: Opportunities to students and faculty" by Dr. C. Sivaji from DST on 10th September, 2018 in L9, LHC.
+
+IEEE-EDS Lecture on "Electromigration Simulation at Circuit Levels" by Prof. Tan Cher Ming from Chang Gung University, Taiwan on 5th September, 2018 in DA229.
+
+IEEE MTT-S Lecture on "Imaging: an endless pursuit towards perfection" by Prof. Harshawardhan Wanare from IIT Kanpur on 27th August, 2018 in ACES214.
+
+IEEE Seminar on "Characterisation and Modelling of Solar Photovoltaic Panels" by Ms. Pallavi Bharadwaj from IISc, Bengaluru on 21st August, 2018 in DA229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+A seminar on "Robust Low-Complexity Rate Adaptation Algorithms for Video Streaming" by Dr. Vaneet Aggarwal from Purdue University on 10th August, 2018 in L8, LHC.
+
+IEEE-EDS Lecture by Dr. Tushar Sharma from University of Calgary on "Modelling and Design Methodology of High Efficiency Harmonic Tuned Power Amplifiers for 5G Applications" on 23rd May,2018.Venue:DA229
+
+IEEE EDS Seminar on "Design and Characterization Techniques for High Speed Continuous Time Delta Sigma Modulators" by Dr. Ankesh Jain, University of Ulm, Germany on 18th May 2018.Venue:DA229
+
+IEEE EDS Seminar on "Wideband Tunable True-Time-Delay Architecture Using a Variable Order All-Pass Filter and its Applications to Continuous-Time Pulse Processing" by Dr. Imon Mondal, IIT Madras on 16th May 2018.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE Seminar on "Smart cities generated Big data analytics: Challenges and opportunities" by Dr. Dheeraj Kumar, Purdue University, USA on 11th May 2018.Venue:DA229
+
+IEEE Seminar on "Developments in Indian Electricity Market" by Mr. Sushil Kumar Soonee, POSOCO on 7 April, 2018.Venue:PBCEC Big Seminar Room, VH
+
+IEEE Seminar on "Machine to machine (M2M) communications: opportunities and challenges" by Dr. Jegannathan Srinivasan on 21st March, 2018.Venue:DA229
+
+IEEE Seminar on "Wide-Area Back-up Protection schemes for Transmission Systems" by Dr. S R Samantaray on 9th March 2018.Venue:DA229
+
+IEEE Seminar on "Full Duplex Wireless: From Impossibility to Practice" by Dr. Dinesh Bharadiya on 26th February, 2018.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE Seminar on "Optimal Dynamic Sensor Subset Selection for Tracking a Time-Varying Stochastic Process" by Dr. Arpan Chattopadhyay, University of Southern California, USA on February 23, 2018.Venue:DA229
+
+IEEE PES/IAS Seminar on "DC Microgrid and Integrated AC/DC Smart Microgrid" by Dr. Arindam Ghosh on February 13, 2018.Venue:DA229
+
+IEEE Seminar on "Real-Time Simulations Approach for Analyzing Out-of-Step Protection Conditions in Power Systems" by Dr. Ramakrishna Gokaraju, University of Saskatchewan on February 16,2018.Venue:DA229
+
+IEEE Seminar on "New one-shot communication protocols" by Dr. Naqueeb Ahmad Warsi, Centre for Quantum Technologies, National University of Singapore on February 8,2018.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE AP-S Invited Talk by Dr. Arun K. Bhattacharyya on "Floquet modal based Analysis of Finite and Infinite Phased Array Antennas" on February 16,2018.Venue:DA229
+
+IEEE Seminar by Mr. Ankit Singhal on "Volt-VAr control in power systems using Distributed Energy Resources" on 29th January,2018.Venue:DA229
+
+IEEE Seminar on "En route to smart cities: Mobility-aware rehash of cameras and sensors for smart intersections" by Dr. Shubham Jain, Old Dominion University, USA on 21st February,2018.Venue:DA229
+
+IEEE Seminar on "Statistical-Physics inspired approaches for combinatorial optimization and enabling the grid of the future" by Mr. Mayank Baranwal on 15th Jan,2018.Venue:DA229
+
+IEEE-EDS seminar by Dr. Amitava Das on "Developing products using GaN on Si Technology – Challenges and Opportunities" on 6th Jan,2018.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE PES/IAS lecture by Prof. Noel N. Schulz on "Smart Distribution Systems and Smart Professional Networking with IEEE" on November 20,2017.Venue:KD101
+
+IEEE Seminar on "Deep Representation Learning" by Dr. Angshul Majumdar on 3rd November,2017.Venue:DA229
+
+IEEE Lecture on "SIW based Active and Passive Circuit Components and Antennas" by Prof.Animesh Biswas, Director, NIT Rourkela, India on 26th October,2017.Venue:DA229
+
+IEEE Seminar on "Consistency for Re-identification and Saliency for Explainability" by Dr. Abir Das, Computer Science Department, Boston University, USA on 25th October,2017.Venue:DA229
+
+IEEE MTTs Student Branch Lecture on "Low-cost, pervasive sensing using passive RFID tags" by Dr. Rahul Bhattacharyya,Auto-ID Labs, MIT, USA on 11th October,2017.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE APS Student Branch Lectures on "A story of Maxwell's displacement current" and "An introduction to antenna measurements" by Dr. Krishnasamy T. Selvan on 5th Oct,2017.Venue:DA229
+
+IEEE MTT APS Lecture by Prof. Jayanta Mukherjee,Department of Electrical Engineering,IIT Bombay on "Integrated Mixer and LNA" on 4th Oct,2017.Venue:DA229
+
+IEEE MTT APS Lecture on "RCS Measurements" by Mr. Rakesh Kumar Singh,Head, Stealth Technologies & Test Ranges Division,RCI, DRDO Hyderabad on September 21st,2017.Venue:DA229
+
+IEEE-EDS Distinguished Lecture by Dr. M. K. Radhakrishnan on "Interface Physics and Analysis Challenges in Si Nanodevices" on September 18th,2017.Venue:DA229
+
+IEEE PES SBC IITK Special Lecture Series by Dr. Kailash Nath Srivastava from August 30th to September 6th,2017
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE UP Section PES/IAS Chapter seminar by Dr. Kailash Nath Srivastava on August 29, 2017.Venue:DA229
+
+IEEE seminar by Dr Balarko Chaudhuri on "Grid Integration of Renewables in the UK" on 8th August,2017.Venue:DA229
+
+IEEE PES Distinguished Lecture by Dr. Anurag Srivastava on "Data-Driven Algorithms for Electric Grid Operation and Control" on 4th August 2017.Venue:DA229
+
+IEEE seminar by Dr. Subhankar Chatterjee on "Energy Efficient and Spectral Efficient Design in Cooperative Cognitive Radio Networks" on 26th July,2017.Venue:DA229
+
+IEEE-EDS seminar by Ritu Raj Singh on "A Fully Integrated CMOS Fluorescence Biochip for Multiplex Polymerase Chain Reaction Processes" on 24th July,2017.Venue:DA229
+
+IEEE seminar by Dr. Mayank Bakshi on "Covert Communication: reliable communication in the age of ‘Big Brother’" on 17th July,2017.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Dwaipayan Mukherjee on "Consensus over Digraphs: Robustness and Reachable Sets" on 12th July,2017.Venue:DA229
+
+IEEE-EDS seminar by Imon Mondal on "Synthesis and Application of a Wideband Tunable True-Time-Delay Architecture using a Variable Order All-Pass Filter" on 10th July,2017.Venue:DA229
+
+IEEE seminar by Dr. Chandrasekhar Perumalla on "Frequency control in Renewable - Rich Isolated Microgrid" on 30th June,2017.Venue:DA229
+
+IEEE seminar by Dr. Balakrishna Pamulaparthy on "Integration of Smart Grid Devices and Systems for Extended Situational Awareness" on 30th June,2017.Venue:DA229
+
+IEEE seminar by Dr. Ankush Sharma on "Power System State Estimation for Smart Grid Applications" on 28th June,2017.Venue:DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Avhishek Chatterjee on "A Mathematical Journey into Human-centric Networks and Their Interdisciplinary Connections" on 17th April at 4 pm in DA-229
+
+Prof MA Pai Distinguish Lecture on "Coping with the Future – The Power Scene in India" by Prof. S.S. Prabhu on 21st March,2017.Venue:DA229
+
+Talk on "Spreading influence in social networks: From link-centric to node-centric models" by Frank Schweitzer,Chair of Systems Design, ETH Zurich, Switzerland on 14th March,2017.Venue:L15
+
+IEEE seminar by Abhishek Gupta on "Gains of Spectrum License Sharing in Millimeter Wave Cellular Networks" on 7th March,2017.Venue:DA229
+
+An IEEE seminar on ""Community Knowledge Enterprises as Framework for Socioeconomic Development over Digital India" by Prof. K.R. Srivathsan, IIT Bhubaneswar, 4.30 PM, Mar 3rd, 2017. Venue: DA-229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+K.R. Sharma Distinguished Lecture on "CMOS Transistors - Operation, Scaling, Reliability, and the Way Forward" by Prof. Souvik Mahaptra,Fellow IEEE and INAE,Department of Electrical Engineering,IIT Bombay on February 20th,2017. Venue: L-16.
+
+IEEE UP Section PES/IAS Chapter Lecture on "Synchronized Measurement Technology Supported Future Smart Grid" by Prof. Vladimir Terzija, School of Electrical and Electronic Engineering, The University of Manchester, Manchester, U.K. on February 17th,2017.Venue: DA-229
+
+IEEE seminar by Prof.Marceau Coupechoux on "Optimal Distributed Channel Assignment in D2D Networks Using Learning in Noisy Potential Games" on 8th Feb,2017.Venue: DA-229
+
+IEEE AP-S Distinguished Lecture on "Design, Analysis, and Applications of Waveguide-Fed Slot Arrays” by Prof. Sembiam R. Rengarajan, California State University, USA, Jan 11th, 2017. Venue: DA-229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+Microelectronics Seminar series and IEEE-EDS lecture by Prof. Mayank Shrivastava on " Record High Graphene Transistor Performance", Jan 10th, 2017. Venue: DA-229
+
+IEEE seminar by Dr. K. P. Naveen on "Coverage Properties of One-Dimensional Infrastructure-Based Wireless Networks", Jan 5th, 2017. Venue: DA-229
+
+Joint IEEE UP Section PES/IAS chapter and INAE Kanpur Local chapter Seminar by Dr. Ratan Das, founder of icaPower LLC on "Future Power System Protection, Automation and Control" on December 16, 2016 in ACES DA229
+
+IEEE lecture on "Frugal energy innovations and their ability to serve the energy needs" by Ms. Numminen Sini on 30th November,2016
+
+IEEE lecture on "Microwave Measurement Techniques" by Dr.Anjan Basu,IIT Delhi on 9th November,2016
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+Invited Talk by Dr. Anita R Warrier on "Nanophotonics and Plasmonics" on 26th Oct,2016. Venue: SL-215
+
+IEEE-EDS seminar by Ashutosh Dwivedi on "High Power-High Frequency GaN Device Characterization, Load Pull Measurement & Modeling Flow" on 21st Oct,2016. Venue: DA229
+
+IEEE seminar by Mr. Anand Rajurkar on "Next generation Wireless technologies: Current state of the art and Emerging Trends" on 18th Oct,2016. Venue: DA229
+
+IEEE AP-S expert lecture by Prof. Karu Esselle (Macquarie University, Australia) on "Electromagnetic Band Gap-Inspired Directive Antennas” on 7th Oct, 2016, Venue: DA-229
+
+IEEE MTT-S Lecture by Mr. Soumava Mukherjee on "Substrate Integrated Waveguide Technology" on 30th Sept, 2016, Venue: DA-229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr.Punarjay Chakravarty on "CNN-based Single Image Obstacle Avoidance on a Quadrotor" on Sept 27th,2016. Venue: RM101
+
+IEEE Up Section PES and INAE Kanpur Local Chapter Seminar by Dr. Kailash N Srivastava on "Rural Electrification: Technologies and Challenges " on Sept 21th,2016. Venue: DA-229
+
+IEEE PES Lecture by Dr. Kailash N Srivastava on "Future Power Systems: Adapting to New Challenges" on Sept 21th,2016. Venue: DA-229
+
+Seminar on "Introduction to Matlab" by IEEE Student Branch along with IEEE MTTs SBC and IEEE AP SBC, 3:00PM - Sept 3rd, 2016, Venue: DA229
+
+IEEE seminar on "A Copula based Framework for Distributed Inference" by Prof. P. Varshney(Distinguished Prof.,Dept. of Electrical Engg. and Computer Science, Syracuse University),5 PM-Sept. 2nd, 2016 Venue: DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE UP Section PES/IAS chapter and INAE Kanpur Local chapter Seminar on "Big Data & Analytics Integration in Smart Power Grid Management" by Mr. Bhartendu Sinha (VP & MD India, AutoGrid, Bengaluru), 11.15AM - Aug 31st, 2016, Venue: DA229
+
+IEEE lecture on "Bestowing of QOS in Heterogeneous Communication" by Dr.Kalpana Naidu,VNR Vignana Jyothi Institute of Engineering and Technology,Hyderabad on 18th August,2016
+
+Seminar on "An integrated design approach to power systems: from Kirchhoff’s laws to electricity markets" by Prof. Subhonmesh Bose (University of Illinois Urbana-Champaign), July 6th, 5PM (Venue: DA229)
+
+An IEEE Antennas and Propagation Society (AP-S) distinguished lecture on “Advanced Antenna Systems for 21st Century Satellite Communication Payloads” by Dr. Sudhakar Rao (Northrop Grumman, USA) on June 03, 2016 at 5.15pm (Venue: L-14)
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE lecture on "Free and Open Source Software TCAD/EDA tools for semiconductor device modeling" by Dr. Wladek Grabinski,Consultant and MOS-AK chair EPFL Switzerland on 11th April,2016
+
+IEEE seminar on "String Duplication Systems - Limits and Applications" by Mr. Siddharth Jain Ph.D. student, Electrical Engineering, CalTech on 4th March, 2016 at 4PM in ACES DA 229
+
+IEEE MTT-S UP Chapter in collaboration with IEEE MTT-S Student Branch Chapter (IIT Kanpur) seminar on "Innovating around conventional technologies – My experience at GE" by Mr. Adnan Bohori on 8th February at 5:30 PM in ACES DA-229
+
+IEEE lecture on "Erasur codes in geo-diverse storage clusters" by Dr.Udaya Parampalli on 8th February,2016
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE lecture on "PMU and their Usefulness in Renewable power Integration Power quality Measurement" by Mr. Dalibor Brnobic,Zagreb,Crotia University on 25th January,2016
+
+IEEE lecture on "Smart Grid,Synchrophasor Technology and its implementation in Indian power sector" by Mr.Narendra Singh Sodha,PGCIL,Gurgaon on 25th January,2016
+
+IEEE lecture on "Feasibility Analysis of Spectrum Sharing in 5G cellular using stochastic geometry" by Abhishek Kumar Gupta,University of Texas at Austin on 14th January,2016
+
+IEEE lecture on "Computational Electromagnetics in Remote Sensing" by Dr.Uday Khankhoje on 11th January,2016
+
+IEEE seminar on "Towards a III-V-SiGe CMOS technology: Integration schemes from devices to circuits" by Dr. Veeresh Deshpande, IBM Reaserch-Zurich Research Laboratory - Switzerland, on 31st Dec. at 3PM in DA-229, ACES Building
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar on "Exploring Oxide Semiconductors for Future Electronics" by Dr. Amit Verma, School of Electrical and Computer Engineering, Cornell University, on 17th December, 2015 at 5 pm in DA-229, ACES Building
+
+The IEEE MTT-S Student Branch Chapter (IIT Kanpur) in collaboration with IEEE MTT-S UP Chapter, and IEEE Student Branch Chapter (IIT Kanpur)is organizing a seminar on "Ultra-broadband MMIC Cascode Travelling Wave Amplifier Design on III-V Semiconductors" by Ms. Priya Singhal, PhD Scholar at University of Manchester, UK on 8th December, 2015 at 4 pm- 5 pm in DA-229, ACES Building
+
+The IEEE MTT-S Student Branch Chapter (IIT Kanpur) in collaboration with IEEE MTT-S UP Chapter, and IEEE Student Branch Chapter (IIT Kanpur)is organizing a seminar on "Development in Terahertz Technology for Astronomy, Imaging and NDT" by Mr. Colin Viegas, PhD Scholar at University of Manchester, UK on 8th December, 2015 at 2:30 pm- 3:30 pm in DA-229, ACES Building
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Puneet Goyal on "Model-Based Halftoning for Printer Imaging Systems and Analysis of Clustered-dot halftoning with Direct Binary Search" on 3rd Dec., 2015 at 5PM in ACES DA 229
+
+The IEEE Antennas and Propagation Society (AP-S) Student Branch Chapter IITK in association with the IITK IEEE Student Branch Chapter organized half day workshop on "Some Recent Advances in Antennas and Near Field Theory with Impact on Designs for Wireless and other Applications" under the IEEE AP-S Distinguished Lecture Program. The speaker was Prof. Yahia Antar from Royal Military College, Canada. The worshop was organised on 19th November, 2015 in PBCEC Conference room at 9:30 AM
+
+IEEE UP PES/IAS Chapter Lecture by Dr. Kalyan Sen on "Practical Power Flow Controller Brings Benefits of Power Electronics to the Grid-Part II" on November 18, 2015 at 5PM in ACES DA229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE UP PES/IAS Chapter Lecture by Dr. Kalyan Sen on "Practical Power Flow Controller Brings Benefits of Power Electronics to the Grid-Part I" on November 17, 2015 at 5PM in ACES DA229.
+
+IEEE Seminar by Dr. Pravin Bhagwat on "Wi-Fi Performance: Perspective from the trenches" on Monday, November 16, 2015 at 3PM in ACES DA229.
+
+IEEE seminar by Dr. Sharayu Moharir on "Serving Content with Unknown Demand: the High-Dimensional Regime" on Monday, 28nd Sept. at 5PM in ACES-DA 229
+
+IEEE seminar by Dr. Rohit Budhiraja (Post-doctoral Researcher, IIT Madras) on "Asymmetric Two-Way Relaying in Cellular Systems" on Tuesday, 22nd Sept. at 5PM in ACES-DA 229
+
+IEEE seminar on "Terahertz Photonics: Future of Electronics" by Shashank Pandey (Graduate Student at University of Utah on 15th September at 4PM in ACES DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar on "Innovative Applications from Analysis of Frequency and Time Domain Response of Transformer Winding" by Dr. Saurav Pramanik(Scientist, ABB, Sweden) on 10th September at 5PM in ACES DA229
+
+IEEE UP PES/IAS Chapter and INAE Kanpur local Chapter organised Seminar on The World in 2030 and the Disruptive Potential of Solar PV and Electric Vehicles by Dr. KN Srivastava (ABB Global Research Lab, Sweden) on 24th August at 5:15 PM in L-10
+
+IEEE UP Section Seminar on Applications of Machine Learning in Haptic Perception by Prof. Subhasis Chaudhuri (Department of EE, IIT Mumbai) on 24th August at 6:15 PM in L-14
+
+The Microwave Theory and Techniques Society (MTT-S) Chapter in association with the IITK MTT-S Student Branch Chapter (SBC) of the IEEE UP Section expert lecture by Mr. Pavan Kumar from COM DEV Ltd. Canada on "Filters in the Microwave Communication System" on 28th May, 2015 at 4:30PM in ACES DA 229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Prof. Santosh Vishvakarma on "Next Generation Electronics: Smarter The World" on 28th May at 11.30AM in ACES DA229
+
+IEEE seminar by Ms. Surya Sharma, Research student, University of California Berkeley on "CMOS Circuit Designs for Biomedical and Memory Applications" on May 14, 2015 at 11AM in ACES DA-229
+
+IEEE seminay by Dr. Sourabh Khandelwal. Postdoctoral Fellow, University of California Berkeley on "Advanced Radio Frequency (RF) and CMOS Devices: Modeling, Characterization and Fabrication" on May 13, 2015 at 5PM in ACES DA-229
+
+The IEEE Microwave Theory and Techniques Society (MTT-S) Chapter in association with the IITK MTT-S Student Branch Chapter (SBC) of the IEEE UP Section organised lecture by Dr. Girish Kumar, Professor, Department of Electrical Engineering, Indian Institute of Technology Bombay on "CELL PHONE/TOWER RADIATION HAZARDS AND SOLUTIONS" on April 30, 2015 at 5PM in LHC L-15
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Amit Ranjan Trivedi, Doctoral student, Georgia Institute of Technology on "Low power neuromorphic computing with Tunneling Field Effect transistors (TFETs)" on April 23rd 2015 at 4PM in ACES DA-229
+
+Indian National Academy of Engineering (INAE), Kanpur Local Chapter and IEEE UP Section-Power & Energy/Industry Applications Society Chapter seminar by Dr. A.K. Pradhan, Professor, Department of Electrical Engineering, Indian Institute of Technology, Kharagpur on "Evolving New Generation of Intelligent Protection" on 13th April, 2015 at 5PM in ACES DA-229
+
+IEEE seminar by Prof Jonathan Manton, Deaprtment of Electrical and Electronic Engineering, University of Melbourne on "Transdisciplinary Challenges --- From Mathematics to Systems Engineering and Neuroscience " on April 19, 2015 at 5PM in ACES DA-229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+The Microwave Theory and Techniques Society (MTT-S) Chapter in association with the IITK MTT-S Student Branch Chapter (SBC) of the IEEE UP Section lecture by Prof. Karu Esselle, Macquarie University, Sydney, Australia on "Electromagnetic and Antenna Engineering, aimed at Biomedical and Telecommunication applications" on 31st March, 2015 at 4PM in ACES DA-229.
+
+IEEE seminar by Dr. Rajesh Kumar, Postdoctoral research associate, University of Colorado Boulder, USA , on " Micro Optical Devices for Optical Logic, Interconnects and Signal Processing" on 25th March, 2015 at 5PM in ACES DA 229
+
+IEEE seminar by Mr. Anil Kumar Saini , Head-Railway Systems, Hyderabad Metro Rail Project on "Modern Signalling & Train Control System" on 24th March, 2015 at 4PM in ACES DA 229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Lalitha Vadlamani, Microsoft Research, Bangalore on "Coding for Distributed Storage and Distributed Function Computation" on 23rd March, 2015 at 5PM in ACES DA-229
+
+Distinguish Lecture Sponsored by India Council Vehicular Technology Society Chapter In cooperation with IEEE UP Section and the Department of Electrical Engineering at IIT Kanpur by Prof. Vijay K. Bhargava, Department of Electrical and Computer Engineering, University of British Columbia, Vancouver on "Evolving Fifth Generation Cellular Networks: An Energy-Efficient Perspective" on 17th Feb, 2015 at 3PM in ACES DA229
+
+IEEE seminar by Dr. Amit Agrawal CNST, National Institute of Standard and Technology, Gaithersburg, MD USA and IREAP, University of Maryland, College Park, MD USA on "Negative Refraction and Negative Radiation Pressure at Visible and Ultraviolet Frequencies" on 20th Jan. 2015 at 11AM in ACES DA229
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Prof. Sushobhan Avasthi from Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science (IISc), Bangalore on "Facilities at Centre for Nano Science and Engineering, IISc Bangalore" on 16th Jan, 2015 at 5PM in ACES DA229
+
+IEEE seminar by Dr. Gaurav Pandey, Research Scientist, Ford Motor Company, Dearborn, USA on "An Information Theoretic Framework for Camera and Lidar Sensor Data Fusion and its Applications in Autonomous Navigation of Vehicles" on 15th Jan, 2015 at 5PM in ACES DA229
+
+IEEE seminar by Dr. Swati Gupta, Postdoctoral Fellow, EPFL Switzerland on "Development of ultra-thin dielectric for organic thin-film transistors" on 6th January, 2015 at 05:15 PM in Samtel Centre Seminar Room.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Prof. Krishna Naishadham from School of Electrical and Computer Engineering Georgia Institute of Technology, Atlanta, USA, on " A Compact Multi-Band Array Design Using Vertical Integration in a Common Shared Aperture " on 2nd January, 2015 at 10:00AM in ACES DA-229.
+
+IEEE seminar by Prof. Krishna Shenai from EECS Department Northwestern University, Evanston, IL on "Wide Bandgap (WBG) Power Electronics" on 29th December, 2014 at 4 PM in ACES DA-229.
+
+IEEE seminar by Prof. K. R. Srivathsan, Director Chinmaya Institute of Technology on "Modern Perspective on Quality and Quality Assurance in Education" on 8th December, 2014 at 11:00AM in ACES DA-229.
+
+IEEE seminar by Dr. Santanu Mahapatra, Department of Electronic Systems Engineering, Indian Institute of Science Bangalore on "How to use atomistic simulator for electron device research" on 30th October, 2014 at 5PM in ACES DA-229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+Expert lecture organized by the Microwave Theory and Techniques Society (MTT-S) Chapter in association with the MTT-S Student Branch Chapter (SBC), IIT Kanpur, of the IEEE UP section by Prof. Ramesh Garg of IIT Kharagpur on "Pattern Diversity Antenna Design for Hand-held Terminals" on 5th Sept, 2014 in L-14 at 4PM.
+
+IEEE seminar by Shyam Parthasarathy (IBM) on "RF CMOS circuits and road map for 5G technologies" on 4th Sept. at 5PM in ACES DA-229.
+
+IEEE seminar by Mr. Vaibhav Tripathi, Department of Electrical Engineering, Stanford University on "Successive Approximation Register (SAR) Analog to Digital Converters in Nano-CMOS Technologies" on 22nd August, 2014 at 4:30 PM in ACES, DA-229.
+
+IEEE seminar by Dr. Anil Kumar Ram Rakhyani, Postdoctoral Research Fellow, ECE, University of Utah, USA on "MAGNETIC COILS FOR BIOMEDICAL APPLICATIONS" on 19th August, 2014 at 5PM in ACES DA-229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Abheejeet Mohapatra on "New Efficient Techniques in Power System Analysis and Optimization" on 23rd July, 2014 at 5PM in ACES DA229.
+
+IEEE seminar by Dr. Pinaki Sarder on "Design, Implementation, and Imaging of Position-Encoded Microfluidic Microsphere-Trap Arrays" on 21st July, 2014 at 5PM in ACES DA229.
+
+IEEE seminar by Dr. Kaushik Mitra, Department of Electrical and Computer Engineering, Rice University on "Signal Processing Meets Optics: Theory, Design and Inference for Computational Imaging" on 13th May, 2014 at 5PM in ACES DA-229.
+
+IEEE seminar by Dr. G. Rajshekhar, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign on "Quantitative phase imaging techniques for engineering and biomedical applications" on 5th May, 2014 at 4PM in ACES DA-229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Prof. Pramod K. Varshney on "Distributed Inference in the Presence of Byzantines" on 22nd April at 5PM in ACES DA229.
+
+IEEE seminar by Prof. Abhisek Dixit on "TCAD Enabled Sub-10nm-FinFET Device Design" on 14th March at 11AM in ACES Da-229.
+
+IEEE seminar by Dr. Shilpi Gupta on "Enhanced light-matter interactions using quantum dots and photonic crystal cavities at room temperature" on 10th March, 2014 at 5PM in ACES DA-229.
+
+IEEE seminar by Prof. Vijay Vittal on "Improved grid resiliency through interactive system control" on 10th March, 2014 at 4:45 PM in L12.
+
+IEEE seminar by Prof. Nihar Mohapatra on "CMOS technology challenges and opportunities beyond 22nm node" on 6th Feb at 4:30PM in ACES DA229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Prof. Navin Khaneja on "Control of coupled spin dynamics" on 8th Jan, 2014 at 5PM in ACEs DA229.
+
+IEEE seminar by Pulkit Agrawal on "Brain Reading" on 2nd Jan, 2014 at 3:30 PM in ACES DA229.
+
+IEEE seminar by Prof. K. R. Srivathsan on "Architecting Information Dynamical Systems in IT enabled services using Ranganathan Construct" on 27th December, 2013 at 4PM in ACES- DA 229.
+
+IEEE seminar by Prof. P. Udaya from University of Melbourne, Australia on "On aperiodic correlation bounds and generalized Golay complemetary pairs" on 16th Dec, 2013 at 4PM in ACES, DA229.
+
+IEEE seminar by Prof. P. Udaya from University of Melbourne, Australia on "Low correlation sequences for information hiding" on 12th Dec, 2013 at 4PM in ACES, DA229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Ajit Barve from University of California, Santa Barbara, USA on "Heterostructure engineering for third generation infrared photodetectors" on 2nd Dec, 2013 at 4PM in ACES DA229.
+
+IEEE UP section and Department of Electrical Engineering at IIT Kanpur jointly organized a lecture by Dr. Kailash N. Srivastava on "Issues and Challenges of Future Electric Grid" on 26.09.2013 at 05:00 PM in L-13.
+
+IEEE UP section and Department of Electrical Engineering at IIT Kanpur jointly organized a lecture by Dr. Kailash N. Srivastava on "Role and Value of Intellectual Property Rights" on 20.09.2013 at 10 AM in ACES-213.
+
+IEEE seminar by Dr. Soumya Ranjan Sahoo on "Coordination problems and minimal sensing and coarse actuation" on 27th June at 3PM in ACES- DA 229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Dr. Digbijoy N. Nath on "Advanced polarization engineering of III-nitride heterostructures towards high-speed device applications" on 2nd April, 2013 at 5PM in ACES DA 229.
+
+IEEE seminar by Dr. Sandeep Anand from Cosmic Circuits Pvt Ltd on "DC microgrid for renewables integration" on 19th March, 2013 at 4PM in ACES DA 229.
+
+IEEE seminar by Dr. Pawan Goyal from INRIA France on "A context based word indexing model for document summerization" on March 21st, 2013 at 4PM in ACES DA 229.
+
+IEEE seminar by Dr. Animesh Kumar from IIT Bombay on "Distributed A/D conversion of bandlimited fields" on February 22, 2013 at 5PM in ACES- DA 229.
+
+IEEE seminar by Jai Verma, University of Notre Dame on "MBE grown Quantum-Dot UV Light Emitting Diodes with Tunnel-injection and polarization-engineering" on January 22, 2013 at 5PM in ACES-DA 229.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+Lecture by Dr. Ritwik Majumdar, ABB corporate research sweden on "DC grid and microgrid: operation and control" on 9th Jan, 2013, 5-6 PM in L-14 - organized by IEEE UP section and department of Electrical Engineering.
+
+IEEE seminar by Prof. Santanu Chaudhury, Schlumberger Chair Professor, on "Exciting world of 3-D TV" on November 1, 2012 in DA 229 at 5PM.
+
+IEEE Seminar by Dr. Dipanjan Basu from University of Texas Austin on "Edge effects in graphene nanoribbon MOSFETs: an atomistic simulation study on Oct 31,2012, in ACES-DA 229 at 4PM.
+
+IEEE seminar by Dr. Guido Link, Senior Scientist and Group Leader, Microwave materials processing group, Institute of pulsed power and microwave technology, Karlsruhe Institute of Technology, Karlsruhe, Germany, on "Review on microwave materials processing at Karlsruhe Institute of Technology, Germany"on Oct 16, 2012, in ACES- DA229 at 5PM.
+
+[Context: DEPARTMENT OF ELECTRICAL ENGINEERING IIT KANPUR - SEMINARS, EVENTS, WORKSHOPS, NEWS AND ANNOUNC > seminar archives]
+IEEE seminar by Karthik Venkat on "Pointwise relations between information and estimation in Gaussian Noise", September 4, 2012 in ACES-DA 229 at 5PM.
+
+Last Updated: Thursday, 06 July 2023 17:40
+

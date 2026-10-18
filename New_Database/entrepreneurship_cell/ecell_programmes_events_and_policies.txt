@@ -1,0 +1,2332 @@
+ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES
+Name: Entrepreneurship Cell, IIT Kanpur (E-Cell IITK), website ecelliitk.org
+Type: One of the six cells of the Students' Gymkhana. Its aim is to induce an entrepreneurial mindset in students and to network student enterprises with incubators, seed funds and angel investors. Its events and programmes include E-Summit, Startup Expo, TEDx IIT Kanpur, Upstart, StartUp Master Class (with the Alumni Association), Startup Internship Program (SIP), Entrepreneurial Bootcamp, EntreVerse, YEC, Campus Hangouts and the ECHO magazine. It is a cell (student body), not an inter-IIT event.
+Snapshot: pages scraped from the live E-Cell website in 2026 (events for 2025-26, e.g. TEDx on 29 March 2026), followed by the older text of the original ChatIITK dataset (2024) - the older text is included only where it says something the current pages do not. The startup directory of the E-Cell website is in ecell_iitk_startups_directory.xlsx.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - TEAM ROSTER AND HEADS]
+E-Cell team roster (2026 website snapshot). The E-Cell is headed by Overall Coordinators, and each wing has Heads. Roles below are only those that the website states next to the name:
+- Overall Coordinators (the heads of the E-Cell): Anand Bugalia and Hirani Shah.
+- Head, Events: Gunjan and Mohit Yadav.
+- Head, Startup Development: Shreedhar Gupta.
+- Head, Marketing: Deepika Rathod.
+- Head, Media and Publicity: Srujana.
+- Head, Design: Ankit Masoom.
+Krishna Poojitha and Soni are also listed in the website's team grid, but the page does not state their roles. Older team (2024 dataset, no longer current): Aryan Mittal (Overall Coordinator), Himanshu (Head Events), Kalpak Agrawal (Manager Events), Sanvi Jain (Head Media and Publicity), Vinit Toshniwal (Manager Startup Development). Office-bearers change every year.
+
+=== E-Cell page: Home ===
+
+Team
+
+Ideate. Innovate. Incubate.
+
+Entrepreneurship Cell IIT Kanpur
+
+About Us
+
+E-Cell, IIT Kanpur aims to induce an entrepreneurial mindset into the students and air an innovative streak in them. We are here to water the ‘Ideas’ in the bud and help them bloom into impactful endeavors through networking student enterprises from campus to incubators, seeding funds and angel investors to transform the newly proposed ideas into successful start-ups.
+
+What We Do.
+
+E-Cell organises a variety of events throughout the year to promote entrepreneurial activities in and around the campus. Our annual E-Summit witnesses huge participation from all over India. Events like TEDx and StartUp Master Class take the learning to a whole new level. E-Cell also conducts various lectures and workshops focussed at budding entrepreneurs. StartUp Internship Programme helps IITK students land internships in start-ups and get to know their working in greater depth.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Home]
+E-Summit
+
+E-Summit is an annual flagship event of IIT Kanpur effectuated with the intention to foster entrepreneurial initiatives and activities in the campus to accomplish IIT Kanpur's mandate of nurturing India's future technopreneurs. Sharing of entrepreneurship endeavour and experiences, discussion of ideas and opportunities will be a profuse learning experience for the active leaders of entrepreneurship in the savant community who can then disperse these ideas further.
+
+TEDx
+
+TED is a global set of conferences run by the private non-profit Sapling Foundation, under the slogan "Ideas Worth Spreading". TED was founded in 1984 as a one-off event; the annual conference series began in 1990. TEDx IIT Kanpur is an independent initiative by Entrepreneurship Cell, IIT Kanpur, under the umbrella of TED, to organize versatile an annual talk series from several eminent speakers from the field of Technology, Entertainment and Design.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Home]
+UpStart
+
+An event that caters to the budding startups of our country, Upstart stands apart from the conventional Start-up Competition and 10-minute pitching - we strive to give our participants more than just the prize. The start-ups go through multiple rounds of screening, which are essentially brainstorming sessions at different levels and face to face mentoring. Finalists get to develop their ideas and hone their business plans with a panel of mentors.
+
+StartUp Master Class
+
+In association with Alumni Association, IIT Kanpur, E-Cell organises StartUp Master Class, a highly enriching and enlightening platform for entrepreneurs, graced by many famous personalities. SMC is a unique format startup event “for Entrepreneurs, from Entrepreneurs”. It brings together startups, mentors and investors to build interactions and strengthen the network within the entrepreneurial community.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Home]
+Startup Internship Program
+
+E-Cell, IIT Kanpur achieved great success with Startup Internship Program 2017-18 season with a total of 151 Startups that registered. The profiles included IT/Programming, Core, and Marketing/Business Development. The season saw recruitment from startups like Invento Robotics,Ridlr, Dunzo, Pharmeasy, EarlySalary to name a few. The season witnessed a 73 % boom in the total internships offered than the previous year.
+
+Campus Hangouts
+
+Hangouts is special interactive session specifically targeting the campus students. The session is like an informal discussion between campus junta and entrepreneurship oracles of varied arenas. It involves discussions and brainstorming on entrepreneurship matters. Throughout the year multiple hangout sessions are organised.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Home]
+ECHO
+
+We are thrilled to unveil the inaugural edition of ECHO - Evoke, Connect, Highlight, Outlook, your gateway to the dynamic world of entrepreneurship at IIT Kanpur. ECHO is crafted to evoke your curiosity, connect you with groundbreaking ideas, highlight inspiring stories, and offer a fresh outlook on innovation and entrepreneurship. This first issue brings you inspiring interviews with visionaries turning ideas into reality, insightful summaries from Y Combinator’s best videos, and a glimpse into the trends shaping the entrepreneurial landscape. Challenge your mind with our stimulating puzzles designed to enhance your problem-solving skills. Have fun exploring the world of entrepreneurship with ECHO!
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Home]
+Witness the awesomeness
+
+E-Cell brings to its participants a host of events, ranging from immersive talks to exciting competitions!
+
+Workshops
+
+Details
+
+In the News
+
+Contact
+
+Our Team
+
+Contact us for any queries, questions, or ideas.
+
+ANAND BUGALIA
+
+Overall Coordinator
+
+HIRANI SHAH
+
+GUNJAN
+
+HeadEvents
+
+KRISHNA POOJITHA
+
+MOHIT YADAV
+
+SHREEDHAR GUPTA
+
+HeadStartup Development
+
+DEEPIKA RATHOD
+
+Head Marketing
+
+SRUJANA
+
+Head Media & Publicity
+
+ANKITMASOOM
+
+Head Design
+
+SONI
+
+E-Cell, IIT Kanpur.
+
+Ideate Innovate Incubate
+
+X(Twitter)
+
+Facebook
+
+YouTube
+
+Get Notified.
+
+Be the first to know about the activities of E-Cell.
+
+=== E-Cell page: Esummit ===
+23rd – 25th January, 2026
+
+✦ 14TH EDITION : AEGIS OF ASCENDENCE ✦
+
+ABOUT US
+
+WHAT IS E-SUMMIT?
+
+E-Summit is the flagship event of Entrepreneurship-Cell, annually convening academia, venture capitalists, and forward-thinking entrepreneurs. It serves as a platform to showcase entrepreneurial talent through diverse competitions, including business ventures, product design, and social entrepreneurship ideas. Just join us to witness innovation and creativity in action, where entrepreneurship finds its home.
+
+E-Summit'25 : Aegis of Ascendence
+
+Unveiling the shield that guides our ambitions, the Aegis of Ascendence illuminates every challenge as a step forward and every effort as a silent testament to our vision. In this journey of rise and realization, courage awakens a relentless force that nurtures innovation, sparks creativity, and elevates every dream beyond boundaries.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+WHAT WE DO
+
+UpStart
+
+UpStart being the flagship pitching event of E-Cell has always catered to the budding startups of the nation. With 500+ registrations, UpStart has managed to sow the seeds of entrepreneurship across the country.
+
+Startup Expo
+
+Startup expo offers a platform for startups to showcase their unique ideas and the opportunity to orchestrate product Launches, network with investors, and gain exposure to a wider audience.
+
+Networking Dinner
+
+E-Cell IIT Kanpur holds a networking dinner with the aim of not just connecting people but connecting people with ideas and people with opportunities.
+
+YEC
+
+Youth Entrepreneurship Challenge offers a platform for young innovators to solve real-world problems, learn entrepreneurial fundamentals, refine ideas, build business plans, and present solutions confidently before experienced judges nationwide.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+CA/CP
+
+The Campus Ambassador Program offers students a platform to represent E-Cell IIT Kanpur on their campuses, collaborate with a national team, enhance leadership and communication skills, and foster entrepreneurial growth within their colleges.
+
+SIP
+
+The Startup Internship Program connects IIT Kanpur students with innovative startups, offering hands-on industry exposure while providing startups with enthusiastic, adaptable, and creative talent eager to learn and excel in real-world environments.
+
+COMPETITIONS
+
+DECRYPT
+
+Ignite your entrepreneurial spirit with Decrypt, the ultimate case study competition. Dive into real-world challenges, make tough decisions, and embark on an exhilarating journey of problem-solving!
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+BE AN ANGEL
+
+Experience the investor's perspective in Be an Angel : Shark Tank Edition. Role-play as an Angel Investor with $5 million to invest. Assess startups, pitch investment strategies, and face VC judges. Understand both sides of the table in this nerve-wracking pitch competition.
+
+SELL YOUR SOLE
+
+Prepare to unleash your marketing genius in the Sell Your Sole competition! Step into the shoes of a CMO and craft a game-changing marketing campaign for an existing brand. It's your chance to redefine success!
+
+UPSTART CAMPUS
+
+The classic pitching competition that showcases one's ability to ideate and pitch in front of judges from the across entrepreneurship world. Get the experience of being in the shoes of real life entrepreneur and learn what 'The Art of the Pitch' is all about.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+MODEL UNITED CORPORATION
+
+Unlock the thrill of corporate leadership! Join Model United Corporations and immerse yourself in the world of CEOs, CMOs, and CFOs. Conquer high-pressure decision-making, strategic challenges, and teamwork. Sharpen your skills, seize the spotlight, and prove you've got what it takes to lead in the boardroom. Join the competition, transform into a corporate titan!
+
+Workshops
+
+Priyanka Kalra
+
+People Partner
+
+Mastering Personal Productivity with Notion
+
+Build a structured productivity system using Notion. Learn system thinking to manage academics, internships, and startups.
+
+Chetna Das
+
+Product Manager
+
+AI for Founders
+
+Understand how founders can leverage AI tools to automate workflows, validate ideas faster, and scale efficiently.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+Deepak Wadhwa
+
+Finance Content Creator
+
+Startup Finance 101
+
+Learn fundraising basics, financial modeling, and how startups manage cash flow in early stages.
+
+PAST SPEAKERS
+
+Aman Gupta
+
+Founder, Boat
+
+Mukesh Bansal
+
+Founder, Myntra
+
+Ashneer Grover
+
+Founder, BharatPe
+
+Rahul Garg
+
+Founder, Moglix
+
+Sanjeev Bikhchandani
+
+Co-Founder, Info Edge
+
+Kunal Shah
+
+Founder, Cred
+
+Amit Agrawal
+
+Founder, NoBroker
+
+Vijender Chauhan
+
+Interviewer
+
+Tharun Naik
+
+Creator
+
+Himesh Madaan
+
+Motivational Speaker
+
+Saurabh Dwivedi
+
+Journalist, Lallantop
+
+Sandeep Jain
+
+Founder, GFG
+
+Ishan Sharma
+
+Podcaster & Founder
+
+E-Summit IIT Kanpur
+
+Quick Links
+
+E-Cell IIT Kanpur
+
+Upstart’ 25
+
+Startup Expo’ 25
+
+YEC’ 25
+
+Team
+
+Contact Us
+
+Have queries or want to collaborate?
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Esummit]
+Reach out to us anytime.
+
+Reach Out
+
+1st Floor, B wing, Old Sac Building, IIT Kanpur, Kalyanpur – 208016
+
+esummit@ecelliitk.com
+
+© 2026 E-Summit IIT Kanpur. All rights reserved.
+
+=== E-Cell page: Expo ===
+ROOTS TO REALMS
+
+ABOUT
+
+Startup Expo is a premier exhibition that brings together visionary startups, investors, and organizations from across India under one roof. The event serves as a dynamic platform for emerging ventures to showcase their innovative products, cutting-edge technologies, and disruptive ideas to a diverse audience. By fostering meaningful interactions and collaborations, Startup Expo bridges the gap between innovation and opportunity, enabling startups to gain visibility, insights, and connections essential for scaling their impact.
+
+With an ecosystem-driven approach, the Expo encourages networking, learning, and growth by connecting startups with mentors, investors, and like-minded innovators. It aims to spark conversations that lead to partnerships, investments, and long-term success within the entrepreneurial community.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Expo]
+WHY STARTUP EXPO
+
+Stalls for Showcase
+
+Startups will be provided stalls along with the necessary provisions (special provisions can be provided) to showcase their cutting edge technologies. The stalls will be located at prime locations with the visibility of more that 15k+ people.
+
+Product Launch/ Stage Showcase
+
+Companies will be provided with an opportunity to launch their product in front of a diverse community attending E-Summit consisting of top investors, VC's, Corporate Leaders and esteemed faculty (Details can be found below).
+
+Pitching Opportunities at Pitch Battle
+
+Along with the flow of Startup Expo pitching events and other buzz events will be organized where startups would have an opportunity to pitch in front of a panel composed of Venture capitalists and other dignitaries, to secure a chance of funding and mentoring opportunity.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Expo]
+One On One Mentoring And Opportunities
+
+Mentoring stations will be set up at the Expo where startups can secure a chance of having one on one mentoring/networking with the top dignitaries and corporate leaders at E-Summit'25.
+
+Validation from E-Summit Dignitaries
+
+E-Summit has hosted some of the renowned personalities in the world including the likes of Late Dr. A. P. J. Abdul Kalam (Former President of India), Michael Siebel (CEO, Y Combinator), Kunal Shah (Founder, CRED) among many others.
+
+IIT Kanpur Incubators
+
+IIT Kanpur is the home to not one but two of India's finest incubators, SIDBI Innovation and Incubation Centre (SIIC), C3iHub IIT Kanpur and Technopark IIT Kanpur.
+
+PAST YEAR HIGHLIGHTS
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Expo]
+WHO WILL ATTEND ?
+
+IIT Kanpur diverse student community including UG, PG and PhD scholars
+
+IIT Kanpur Board of Deans and Professors
+
+Top bureaucrats from Central and State Government
+
+Distinguished faculty members of IIT Kanpur
+
+Director and members of SIIC, TechnoPark and C3i Hub (Incubators at IIT Kanpur)
+
+STALL SLABS
+
+PLATINUM STALL
+
+3 X 3 M SIZE STALLS
+
+1 LED DISPLAY
+
+1 TABLE
+
+2 CHAIR
+
+LIGHT
+
+ELECTRICITY SOCKET
+
+DUSTBIN
+
+1 PEOPLE STAY (3 DAYS, 2 NIGHTS)
+
+FASCIA (WITH NAME OF STARTUP)
+
+MEDIA COVERAGE
+
+NETWORKING DINNER
+
+PRODUCT LAUNCH / STAGE SHOWCASE
+
+EXCLUSIVE ENTRY TO UPSTART CONFERENCE
+
+BREAKFAST, LUNCH AND DINNER (2 DAYS)
+
+ONE-ON-ONE MENTORING AND FUNDRAISING OPPORTUNITIES
+
+Platinum Stall is designed for startups seeking maximum visibility and high-impact engagement at the Startup Expo. Positioned at prime locations, these stalls offer a comprehensive setup with premium amenities, brand fascia, and exclusive access to networking, media coverage, and mentoring opportunities. Ideal for product showcases and launches, the Platinum Stall ensures a strong presence among investors, industry leaders, and a diverse audience throughout the event.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Expo]
+E-Summit IIT Kanpur
+
+Quick Links
+
+E-Cell IIT Kanpur
+
+Upstart’ 25
+
+Startup Expo’ 25
+
+YEC’ 25
+
+Team
+
+Contact Us
+
+Have queries or want to collaborate?
+
+Reach out to us anytime.
+
+Reach Out
+
+expo@ecelliitk.com
+
+=== E-Cell page: Tedx ===
+
+Schedule
+
+Sponsors
+
+Past Speakers
+
+BUY TICKETS
+
+IIT Kanpur
+
+Details coming soon...
+
+29th March 2026
+
+Venue: Outreach Auditorium
+
+DECODING THE
+
+DEFAULT
+
+About Us
+
+TEDxIITKanpur is an independently organized TEDx event hosted by the Indian Institute of Technology Kanpur, aiming to emulate the unique TED experience by bringing together leading thinkers and doers to share their passions and ideas.
+
+What is TED?
+
+TED is a nonprofit organization devoted to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics - from sciences to business to global issues - in more than 100 languages.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Tedx]
+What is TEDx ?
+
+In the spirit of discovering and spreading ideas, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDx[name], where x = independently organized TED event. At our TEDx[IIT Kanpur] event, TED Talks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.
+
+Line-Up
+
+Speakers
+
+Acharya Prakhar Dixit
+
+Entrepreneur
+
+Divas Gupta
+
+Public Speaker
+
+Vibha Kagzi
+
+Shivesh Vishwanathan
+
+Dr Nikhil Paul
+
+Ajitesh Sharma
+
+Dr Gagandeep Singh
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Tedx]
+Mr. Chandra Shekar Hegganur
+
+TEDxIITKanpur
+
+Events and Incentives
+
+Special Talk
+
+TEDx
+
+Community
+
+TED
+
+TEDx Organizers
+
+=== E-Cell page: Upstart ===
+UPSTART
+
+The National Business Model Competition
+
+Register Now
+
+→
+
+Scroll Down
+
+↓
+
+About UpStart
+
+Nurturing early-stage ventures into market leaders through mentorship, incubation, and investor networking.
+
+An event that caters to the budding startups of our country, UpStart – The Indian Business Model Competition stands apart from conventional competitions. We strive to give our participants more than just prize money.
+
+Startups go through multiple rounds of rigorous screening, structured brainstorming sessions at different levels, and 1-on-1 face-to-face mentorship with seasoned industry leaders.
+
+Finalists get to hone their business models alongside a dedicated panel of VCs and domain experts, accelerating their venture growth on a national stage.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Event Timeline & Locations
+
+15th August
+
+Upstart Nationals Launch
+
+Deadline for Online Registration
+
+20th September
+
+10, 24 Oct & 5 Dec
+
+Upstart'26 Regional Rounds
+
+4 Weeks Mentorship Commencement
+
+14th December
+
+21st - 22nd January
+
+Elevator Pitch & VC Funding
+
+Upstart'26 Grand Finale
+
+23rd January
+
+Delhi
+
+10TH OCT
+
+IIT Kanpur
+
+21ST - 23RD JAN
+
+Mumbai
+
+5TH DEC
+
+Hyderabad
+
+24TH OCT
+
+Bengaluru
+
+UpStart Internationals
+
+10th September
+
+Seoul, South Korea
+
+UpStart Seoul
+
+We are expanding to Seoul, South Korea on 10th September, hosting a dedicated international edition of UpStart to bridge early-stage innovators with Korea's world-class tech hubs, angel networks, and institutional venture partners.
+
+Cross-Border Market Access
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Global VC & Angel Networking
+
+Global Incubation & Ecosystem Support
+
+Upstart Nationals
+
+Glimpses of last year...
+
+Venue: Outreach Centre SIIC
+
+Prizes Worth
+
+15+ Lakhs
+
+Venue: We Works
+
+250+ Startups
+
+Participated
+
+Bangalore
+
+Top Investor Network
+
+50+ VCs
+
+Venue: t-works
+
+Pan India Presence
+
+4 Locations
+
+Incentives
+
+One on One Mentorship
+
+1 month long one on one mentorship from industry professionals (finale participants only)
+
+Get Incubated
+
+Incubation opportunity to your nearest incubation center which are our incubation partner for UpStart'26.
+
+Networking Opportunity
+
+On the spot funding opportunities from top Venture Capital Firms (details about the VC Panel can be found below) , Networking opportunities with dignitaries at E-Summit'26
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Delhi Angels Denx
+
+Startup Founders Linkedin Branding [ Profile optimisation for Top 3 Winners ] Worth 20,000 each, Business Growth Strategies Consulting to Top 3 Winners, Chance to get Selected for Our Accelerator Program worth Rs.2.5 Lakhs.
+
+The StartupLab
+
+Legal Services Worth 10 thousand free to winners and 15% discount to all the finalist startups
+
+Caller Desk
+
+Free idea subscription to all the zonelist. 16000 worth of free credits to all the finalists valid for six month
+
+Swipe
+
+Free Swipe Pro Plan (₹2,799) for all participants and Biz Plan (₹50,000) for Top finalists, equipping founders with premium invoicing, payments & growth tools. Integrations with Tally, Shopify & Shiprocket included.
+
+Finleaf
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+12 months of expert legal support for all Finalists and 6 Months for all Zonalist Startups
+
+Past Winner Testimonials
+
+Hear from startup founders who pitched at UpStart and unlocked incubation, funding, and national recognition.
+
+Kalki Ocean Energy
+
+UpStart Winner
+
+“We are thankful and delighted to be a part of UpStart. Coordination and support from E-Cell IIT Kanpur is required for every startup to up start their growth in the global market. The preliminary pitch events had eminent mentors and evaluators who helped refine our vision.”
+
+★★★★★
+
+Verified Founder
+
+Pankti Shah
+
+Founder, Euphoria
+
+“The E-Cell IITK team did a great job with the UpStart Competition. Thank you and the whole team for making this one of the most memorable events, giving us the exposure and stage to display our business model to top investors.”
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Treacle Tech
+
+UpStart Finalist
+
+“We at Treacle Tech participated in the UpStart event organized by E-Cell IIT Kanpur in collaboration with C3iHub. The event was exceptionally managed, and the discussions with various investors amplified our pitching capabilities and investor networking.”
+
+Upstart Edge
+
+In official collaboration with C3i Hub, IIT Kanpur
+
+₹2 CR+
+
+ON SPOT FUNDING
+
+15+
+
+STARTUPS PARTICIPATED
+
+7+
+
+TOP VC PANEL
+
+Past Edge Delegates
+
+Eminent government advisors, corporate CTOs, and international venture leaders who graced UpStart.
+
+Dr. Ajay Sood
+
+Principal Scientific Advisor
+
+Abhay Karandikar
+
+DST Secretary
+
+Mr. Anant Krishnan
+
+Group CTO of TCS
+
+Puru Modani
+
+Judge, UpStart Nationals
+
+Dr. Sandeep Verma
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+SERB Secretary
+
+Mahima Jinah Kim
+
+Judge, UpStart Korea
+
+Dr. S. Chandrasekhar
+
+Former DST Secretary
+
+Tanmay Yadav
+
+Ms. Ekta Kapoor
+
+Mission Director DST
+
+Judging Criteria
+
+Every entry in UpStart is rigorously evaluated by VC panels based on these core parameters:
+
+01
+
+Concept & Originality
+
+Originality of Idea and innovative value proposition.
+
+Scalability in terms of growth potential and venture replication.
+
+Well-conceived implementation plan and realistic execution timetable.
+
+Overall likelihood of achieving demonstrable market results.
+
+02
+
+Market Demand & Competitiveness
+
+03
+
+Performance Benchmark
+
+04
+
+Financial Model & Fundability
+
+05
+
+Risk Assessment & Mitigation
+
+06
+
+Leadership & Team Capability
+
+07
+
+Mentorship Iteration & Improvement
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Open for Early-Stage Startups
+
+Startup Eligibility
+
+UpStart is a competition meant only for early stage startups. We have set the following criteria for entry into the Final Round:
+
+Incorporation Status
+
+Official Status
+
+The Startup must have been incorporated at least, if not registered for official business operations.
+
+Age Requirement
+
+Timeline Criteria
+
+The Startup's date of incorporation should be on or after 1st January 2013.
+
+Original Work & Ownership
+
+Founder Ownership
+
+Startup entries must be the original work of participants i.e. team members competing must be the principal owners of the venture.
+
+Our Partners
+
+Backed by a powerful network of media platforms, incubation centers, and venture partners.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Media Partner
+
+Terms And Conditions
+
+Please read the official rules and submission guidelines governing participation in UpStart 2026:
+
+NO offline submissions of Pitch Decks for UpStart 2026 will be accepted.
+
+All necessary documents must be compulsorily submitted along with the Pitch Deck.
+
+Participants are only allowed to participate in one UpStart Nationals region.
+
+Participants are free to participate in other business plan competitions.
+
+Entries submitted after the announced deadline shall not be considered.
+
+Provided resources and example Pitch Decks are strictly for reference only.
+
+All legal conflicts are subject to the jurisdiction of Kanpur courts only.
+
+Strict confidentiality of all submitted entries and ideas is fully guaranteed.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+All submitted entries remain the sole intellectual property of their legal owner.
+
+Entries must possess innovative value offering a new solution or tech advancement.
+
+Meet Our Team
+
+The passionate team at Entrepreneurship Cell, IIT Kanpur orchestrating UpStart 2026.
+
+Anand
+
+Overall Coordinator
+
++91 9024729137
+
+anand@ecelliitk.com
+
+LinkedIn Profile
+
+Hirani shah
+
++91 7817816661
+
+hirani@ecelliitk.com
+
+Gunjan
+
+Head Events
+
++91 7015688383
+
+gunjan@ecelliitk.com
+
+Deepika
+
+Head Marketing
+
++91 6309799177
+
+deepika@ecelliitk.com
+
+Contact Info
+
+📍Room No G2, Imagineering LaboratoryGate No. 4, IIT Kanpur - 208016
+
+✉️events@ecelliitk.com
+
+📞+91 9024729137
+
+Send a Message
+
+Quick Navigation
+
+Entrepreneurship Cell
+
+IIT Kanpur's premier student organization dedicated to fostering innovation, venture creation, and startup leadership across India.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Upstart]
+Copyright © 2026 All rights reserved | Entrepreneurship Cell, IIT Kanpur
+
+=== E-Cell page: Bootcamp ===
+
+Structure
+
+Why Bootcamp
+
+Testimonials
+
+Team
+
+Contact Us
+
+For IITK Startups
+
+For Non-IITK Startups
+
+Your road to startup success
+
+Concepts | Case Studies | Masterclasses | Pitch Sessions
+
+Introduction
+
+Join us on a journey to become an innovator and learn the skills to lead in the world of entrepreneurship. The wait is finally over — we’re excited to bring you a unique opportunity packed with value-driven events, exciting pitch experiences, and hands-on workshops. Over the course of a month-long Entrepreneurial Bootcamp, you’ll explore your hidden potential — just like a seed that holds the promise of a mighty tree.
+
+Pitch competitions are a powerful way to sharpen entrepreneurial skills. They push you to refine your business model, tell your story clearly, and present a strong, convincing pitch. Our Bootcamp will wrap up with an energetic and competitive Pitching Competition, where you’ll showcase all you’ve learned.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Bootcamp]
+We want this program to reach as many people as possible. That’s why it’s open to everyone, not just IIT Kanpur students. You can participate individually, but we encourage team participation to make the most of the experience.
+
+Program Structure
+
+ORIENTATION & PROBLEM IDENTIFICATION
+
+Week 1
+
+16th & 20th June
+
+Design Thinking
+
+Problem Identification
+
+Opportunity Discovery
+
+CUSTOMER IDENTIFICATION & IDEA GENERATION
+
+Week 2
+
+24th & 27th June
+
+Customer Discovery
+
+Idea Validation
+
+Solution Ideation
+
+MVP DEVELOPMENT & MARKET ANALYSIS
+
+Week 3
+
+1st & 4th July
+
+Market Analysis
+
+Competitive Mapping
+
+MVP Development
+
+BUSSINESS MODELLING & PITCHING
+
+Week 4
+
+8th & 11th July
+
+Business Modelling
+
+Startup Finance
+
+Pitching Fundamentals
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Bootcamp]
+PITCH PREPARATION & DEMO DAY
+
+Week 5
+
+15th July
+
+Pitch Preparation
+
+Demo Day
+
+Startup Showcase
+
+Why Bootcamp?
+
+Our main goal is to ensure that participants gain a strong understanding of the entrepreneurial journey — from idea generation to pitching a viable business model. The Bootcamp offers a hands-on learning experience through interactive sessions, milestone submissions, and expert feedback.
+
+The entire Bootcamp will conclude with a 3 phase evaluation process. In Week 5, participants will submit their final milestones for review.
+
+Venture Launch in 10 Weeks
+
+Access to Incubators / Accelerators
+
+Validated Investor Pitch endorsed through a Global Jury
+
+Pitching Opportunities to potential Investors
+
+AWS Credit Worth $5000
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Bootcamp]
+Access to Mentors
+
+E Certificate
+
+Shoutout on Social Media
+
+The customised support and guidance by the Entrepreneurial Bootcamp benefitetd us immensely
+
+Reshma Singh
+
+Founder, SriMitra Indian
+
+Entrepreneurial Bootcamp provided me with complete clarity on what problem I am going to solve and how
+
+Asmeeta Jacob
+
+Founder, Max Rental
+
+Entrepreneurial Bootcamp is intensive with an experienced faculty.I recommend it highly to entrepreneurs
+
+Smriti Chaudhry
+
+Founder, Contrato
+
+I found the Entrepreneurial Bootcamp to be structured and well-designed;it taught us how to pitch to the investors
+
+Aparna Sastry
+
+Co-founder, Earthlings Design
+
+Entrepreneurial Bootcamp gave me immense confidence to scale my startup
+
+Arpita Sarda
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Bootcamp]
+Founder, Kreative Kids Klub
+
+HIRANI SHAH
+
+OVERALL COORDINATOR
+
+SHREEDHAR GUPTA
+
+Head Startup Development
+
+MOHIT YADAV
+
+Head Events
+
+ANKIT MASOOM
+
+Head Design
+
+GET IN TOUCH
+
+Phone +91 7817816661
+
+Phone
+
+Email Address ecell@iitk.ac.in oc@ecelliitk.com
+
+Email Address
+
+Address Room No G2, Imagineering Laboratory Gate No. 4 Academic Area Near DOAA canteen IIT Kanpur- 208016
+
+Address
+
+We are always ready to connect with you.
+
+E-Cell, IIT Kanpur.
+
+Ideate Innovate Incubate
+
+Facebook
+
+Messenger
+
+Twitter
+
+YouTube
+
+Get Notified.
+
+Response Saved Successfully
+
+=== E-Cell page: Ca ===
+
+Why CA?
+
+Responsibilities
+
+Apply Now
+
+Contact Us
+
+Entrepreneurship Cell , IIT Kanpur
+
+Campus Ambassador Program
+
+Be the representative of your campus
+
+ABOUT
+
+The Campus Ambassador program is our effort to create an entrepreneurial web of college students across the country and provide them with ample opportunities to develop and revolutionize the start-up world. The selected Campus Ambassadors will work collectively with our team and become the face of E-Cell, IIT Kanpur in their respective campuses. The program will give them the room to enhance their skill-set while simultaneously bringing about entrepreneurial advancement in their colleges.
+
+Entrepreneurship Cell, IIT Kanpur, is a non-profit organization established to nurture entrepreneurial culture in IITK, and open doors for our next generation innovators, entrepreneurs and changemakers to get out there and leave their marks on the world. Owing to our well-established network, we work in collaboration with acclaimed Venture capitalists, PE Investors, Startup firms and Incubation centers, to provide every out of the box proposal the chance and the vital means and resources to one day become the next ‘Big Idea’.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Ca]
+1000+
+
+WHY SHOULD YOU APPLY?
+
+Get Internship Opportunity
+
+Get an Oppurtunity to intern at top companies like Statwig, FitBuddy, FortyTwoLabs, and CRUBN, etc.
+
+Acquire Skills
+
+Working with one of the most dedicated teams from IITK will help you in acquiring more skills and professionalism. You will add many new dimensions to your personality along the way by enhancing your skills.
+
+Certificate of Leadership
+
+Get certificate of appreciation after the successful completion of tenure. This certificate along with being highlight in your resume will also be a good source of motivation.
+
+Organize Events
+
+Organize various entrepreneurship-related events in your college in collaboration with E cell ITK. This will give you a great first-hand experience of event management and will also introduce you to the creative side of yours.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Ca]
+Get Updated
+
+Stay updated about the business world and develop a better understanding and possibilities of the intersection of technology and entrepreneurship.
+
+WHAT WILL YOU DO?
+
+Organize
+
+Organize entrepreneurship-related events in your college to sow the entrepreneurial seed in the mind of campus junta.
+
+Publicity
+
+Managing the public image of E-cell and spreading information about E cell through various activities like putting up posters on the notice board.
+
+Promote
+
+Ensure to select interested and enthusiastic people from your college to attend various events conducted by E-Cell throughout the year.
+
+Social Media
+
+Sharing e-posters on social media platforms like facebook, instagram and WhatsApp. Forwarding mails to the college mailing list. Be the face of E-cell IITK in your college.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Ca]
+FOR QUERIES CONTACT US
+
+Aryan Mittal
+
+Overall Coordinator
+
+Himanshu
+
+Head Events
+
+Kalpak Agrawal
+
+Manager Events
+
+Sanvi Jain
+
+Head Media and Publicity
+
+Our Partners
+
+Learning Partner
+
+Courses coupons, E-certficates and mock interviews for top performing CAs.
+
+Outreach & Workshop Partner
+
+courses coupons, E-certficates and mock interviews for top performing CAs
+
+Listing Partner
+
+Free pro membership to top CA's & unstop coins to redeem exciting offers
+
+Internship Partner
+
+provide internship to top performing Campus Ambassadors
+
+Career Development workshops and Free access to career connect program for CAs
+
+Savings Partner
+
+Exclusive Coupons for Top Performing CAs
+
+Students from colleges across India can apply
+
+ENTREPRENEURSHIP CELL, IIT KANPUR
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Ca]
+Ideate | Innovate | Incubate
+
+=== E-Cell page: Combinator ===
+
+Register
+
+Register Startup Mentor Angel Investor Angel Fund
+
+Team
+
+Contact Us
+
+Get the power of IITK network for your startup
+
+Apply Now
+
+30+ Starups
+
+20+ Mentors
+
+10+ Investors
+
+Greetings from Alumni Association IIT Kanpur & Entrepreneurship Cell IIT Kanpur! We bring to you, IITK Combinator. An ecosystem to bring together students, professors and alumni of IIT Kanpur from different parts of the startup journey where they can help each other grow. We want to onboard startups, mentors, promoters and investors to connect them with each other and foster entrepreneurship. We will conduct an online event every month to connect the shortlisted startups with mentors & investors. Interested individuals can fill the relevant form below.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Combinator]
+Get the expert’s advice
+
+Get connected with IIT Kanpur Alumni who have immeasurable experience and have been in the startup space for years. They are known to have combated multiple battles and their experience will rightfully guide you in having a smooth startup journey of your own. With their mentorship your startup can achieve great heights.
+
+Expand your business with great connections
+
+Through our Founder groups, get help in expanding your business by connecting with founders working in the same domain. Founder groups will help you use other IITK Founders’ experiences and contacts to help you grow. Furthermore, have a chance to grab mentorship and investment opportunities in our networking events.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Combinator]
+Mentor / Invest in great Startups
+
+If you are an investor looking for a good opportunity to support, who better than the brightest minds of the country. Find great startups to mentor and invest in, founded by IIT Kanpur Alumni with great potential and zeal to outperform. You can also join a proposed Angel Fund to invest in startups founded by IITK Students, Professors and Alumni.
+
+Startups
+
+If you are a entrepreneur looking for mentors or investors for your startup
+
+Mentors
+
+If you are a mentor / promoter interested in participating
+
+Angel Investors
+
+If you are an angel investor intersted in provide funds
+
+Angel Fund
+
+If you are interested in joining proposed angel fund
+
+Shyamendra Narain
+
+President Alumni Association IIT Kanpur
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Combinator]
+Vinit Toshniwal
+
+Manager Startup Development E-Cell
+
+Contact
+
+Location:
+
+E-Cell: Room No G2, Imagineering Laboratory Gate No. 4 Academic Area Near DOAA canteen IIT Kanpur, Uttar Pradesh - 208016 Alumni Association: Room no. 301, 3rd Floor Academic Affairs Building IIT Kanpur, Uttar Pradesh - 208016
+
+Email:
+
+startup@ecelliitk.com shyamendranarain@iitkalumni.org
+
+Call:
+
++91-9636330733
+
+Loading
+
+Your message has been sent. Thank you!
+
+Response Saved Successfully
+
+Room No G2, Imagineering Laboratory Gate No. 4 Academic Area Near DOAA canteen IIT Kanpur, Uttar Pradesh - 208016 Phone: +91-9636330733 Email: startup@ecelliitk.com
+
+Useful Links
+
+Social Network
+
+©Copyright- E-Cell IITK. All rights reserved.
+
+=== E-Cell page: Entreverse ===
+
+Competitions
+
+Speakers
+
+E-Cell IIT Kanpur Presents
+
+ENTREVERSE — CONTINUUM OF INNOVATION
+
+1ST–4TH OCTOBER, 2026
+
+IIT Kanpur's flagship entrepreneurship arena. 2 days of high-velocity prototyping, live investor bidding rounds, and direct SIIC incubation.
+
+ABOUT
+
+Entrepreneurship Cell IIT Kanpur envisages EntreVerse as an exhilarating and thought provoking event. With a lineup of competitions, insightful workshops and enriching panel discussions, this event will provide the audience a wholesome exposure to the vast world of business. This universe would give a golden opportunity to inquisitive minds to interact with and get inspired by our worthy speakers and also to prove their mettle in competitions.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Entreverse]
+Compete in 4 Flagship Arenas
+
+Venture And Verdict
+
+Exclusively Y26
+
+Strategic decision-making and smart investments are the keys to this challenge. Teams (preferably Y26s) will bid for the most promising opportunities from a set of firms, using provided summaries to evaluate their options, make calculated decisions, and outsmart their competitors. Shortlisted teams will advance to the finale to present their portfolios and compete for exciting prizes.
+
+Startup Builder
+
+PGs & PhDs
+
+An opportunity to dive into the world of entrepreneurship, this challenge invites participants (preferably PGs) to step into the shoes of aspiring business innovators. Teams will tackle real-world problems, think creatively, and develop impactful solutions, transforming ideas into ventures with the potential to make a difference.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Entreverse]
+Start-up-Sprint
+
+Open to All
+
+24 hours on the clock. Draw a domain on the spot, identify a pressing problem, and take your solution from whiteboard sketch to a working MVP before dawn. Demo live to investors and mentors for instant SIIC incubation backing.
+
+Idea Matters Most
+
+Open to All · Ideation
+
+Ideas Matter Most: Beyond the Obvious is a premium thought-leadership platform bringing together founders, investors, industry leaders, innovators, academics, and changemakers. The event aims to challenge conventional thinking through meaningful conversations around entrepreneurship, technology, innovation, and the future of enterprise. It will explore founder journeys, unconventional ideas, emerging opportunities, and the decisions that shape impactful ventures. The IIT Kanpur edition will provide students with access to diverse perspectives and real-world insights from accomplished leaders. Through engaging conversations, interactive sessions, and networking opportunities, the event will foster curiosity, innovation, and entrepreneurial thinking.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Entreverse]
+4 Oct · 11:00 AM – 1:30 PM
+
+· The Session is About
+
+Challenging conventional thinking
+
+Questioning assumptions
+
+Exploring unconventional ideas
+
+Discovering new perspectives
+
+Thinking differently about opportunities and innovation
+
+Meet the Speakers
+
+Learn from diverse perspectives, experiences, and ideas from leaders and innovators across industries.
+
+2 / 6
+
+Dr. Mamtha Satish
+
+CEO and Founder, The Innerworld Counselling for Mental Wellbeing Pvt. Ltd.
+
+4 Oct
+
+Shivangi Narula
+
+Founder & CEO, Skilldify
+
+Anupriya Nagar
+
+Film Producer, Hanuman Ansh | Economist | Storyteller
+
+Sandeep Chatterjee
+
+Global Supply Chain & Sustainability Strategist, Transformation & Innovation Leader
+
+Dinesh Rajpurohit
+
+Entrepreneur | Manufacturing Leader | Chairman & Managing Director – Eleanor Industries Pvt. Ltd.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Entreverse]
+Anurag Saini
+
+Wealth Partner – W by Groww, Guinness World Record Holder, Ultra Marathon Runner
+
+Auto-sliding · Hover to pause · Use arrows to navigate
+
+Festival
+
+Keynotes
+
+Register
+
+E-Cell IITK
+
+Official Website
+
+SIIC Incubation
+
+Stay in the Loop
+
+Organized by Entrepreneurship Cell, IIT Kanpur
+
+EntreVerse 2026 · IIT Kanpur
+
+=== E-Cell page: Hii ===
+Overview
+
+Mr. Ajay Dubey is a distinguished alumnus of IIT Kanpur (BT/CHE/1980). With a career marked by leadership in the technology sector, he has served as Vice President at Infosys, where he led the Pune Development Center. He later held the position of Chief Operating Officer at Persistent Systems Pvt. Ltd. Currently, he is an active angel investor at Clodura Systems, where he continues to support innovation and drive growth in the startup ecosystem.
+
+Health technology is defined as "application of organized knowledge and skills in the form of devices, medicines, vaccines, procedures, and systems developed to solve a health problem and improve quality of lives".
+
+HII program is to support students of IITK in the field of Healthtech innovation to convert their ideas into reality. Young minds are a treasure of innovation and thriving ideas. Through this program, such talented students will get a chance to prove their talent and convert their project ideas to develop product design prototypes. The stalwarts and big businesses of today were at one time just mere ideas of innovation. These ideas were supported and encouraged to cause market disruption and they lead to the success that the world sees today.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Why health tech?
+
+Health tech is a delightful amalgamation of healthcare with modern technology to plain-sail the journey of saving millions of lives.
+
+It's a rising sun setting new bars for the existing poor healthcare standards.
+
+Poor care quality leads to more deaths than insufficient access to healthcare. 1.6 million Indians died due to poor quality of care in 2016, nearly twice as many as due to the non-utilization of healthcare services - (The Lancet).
+
+Focusing primarily on this sector can bring young innovators on board, help them relinquish the emerging healthcare market, and cater to 1.5 billion Indians.
+
+The poor healthcare sector is a misery with no end unless it's looked after.
+
+Offerings
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+A Substantial grant will be provided to develop the prototype
+
+Mentorship from experienced industry experts
+
+Engagement with medical institution
+
+Support for the development of idea from early to commercial stage
+
+Opportunity to Incubate in SIIC IIT Kanpur post-prototype development
+
+Eligiblity Criteria
+
+The program is open to all current students of IIT Kanpur, including:
+
+Undergraduate (UG) students from the 2nd semester onward
+
+Postgraduate (PG) students from the 1st semester onward
+
+PhD students from all academic departments
+
+Dual Degree students who have completed their 6th semester
+
+Can the student participate alone or with a group outside the IITK?
+
+The program supports only students from the institute and no outsiders would be able to participate directly or indirectly.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Journey for the HII Program
+
+- Rooma & Ajay Dubey Healthcare Innovation and Ideation Program (HII Program)
+
+Apply Now
+
+Frequently Asked Questions
+
+What is Rooma & Ajay Dubey’s HII Program?
+
+It is a program for supporting the students of IITK in the field of Health-care innovation to convert their ideas into reality. Through this program, such talented students will get a chance to prove their talent and convert their project ideas to develop product design prototypes.
+
+Who is Mr. Ajay Dubey?
+
+Is it an institute-supported program or a donor-supported program?
+
+It is a donor-supported program.
+
+Have we received the funding for the program?
+
+Yes
+
+Is the program approved by the Director of IIT Kanpur?
+
+What is the purpose of the program?
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+To promote entrepreneurship in the healthcare sector among the students and support innovative technologies and drive creative solutions to improve the way people access and manage healthcare.
+
+What is the timeline for the program?
+
+Who is eligible to participate in the program?
+
+How can I apply for the program?
+
+Are there any application costs associated with participating?
+
+No
+
+What are the benefits of participating in the program?
+
+Clinical Immersion: Gain firsthand exposure to hospitals and the medical institution to understand real-world challenges in the Indian healthcare system and identify critical problem areas.
+
+Opportunity to Innovate at Scale: Be part of a unique initiative to develop disruptive, technology-driven solutions that can transform healthcare and impact millions of lives across India.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Entrepreneurial Training: Participate in a structured program designed to equip you with the knowledge, mindset, and tools needed to build and lead a healthcare startup.
+
+Field-Driven Problem Identification: Learn to identify high-impact engineering problems through field immersion and develop context-specific solutions.
+
+Funding & Networking Access: Connect with funding sources, peer networks, and experienced mentors to accelerate your innovation journey and build lasting relationships in the ecosystem.
+
+Expert Community Support: Engage with a robust support system comprising successful entrepreneurs, industry leaders, investors, and IIT Kanpur faculty who bring unparalleled technical and business insights.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Infrastructure Access: Utilize IIT Kanpur’s world-class labs, prototyping facilities, and co-working spaces at subsidized faculty/student rates.
+
+Support Across Startup Stages: Access multiple funding pipelines and mentoring programs across various stages—from ideation to prototyping and seed funding. Leverage national programs like SPARSH, BIG, TIDE 2.0, NIDHI-EIR, and IAIN to support your startup’s growth.
+
+What is the selection process ( will be conducted by SIIC)?
+
+Who will be the selection committee members?
+
+Is any stipend provided to the selected student groups for this program?
+
+What all costs will be covered?
+
+Travel, Accommodation, Food expenses and any other miscellaneous expenses required to complete the Summer Internship.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+How much will I receive for all the expense heads mentioned in the previous question?
+
+It will be decided once the students are selected.
+
+Who will be managing these all expenses?
+
+The generous contribution of Mr. Dubey will cover all the expenses for the program.
+
+Unfortunately, the program supports only students from the institute and no outsiders would be able to participate directly on indirectly.
+
+Is it mandatory for the student groups to come back after completing the Summer Internship Program and participate in the process of development of prototype?
+
+How many students can take part in a group?
+
+3 to 4 students
+
+Is there any mandate to incubate in SIIC?
+
+Yes. The student group sign a binding agreement for this.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Do student groups need to sign any agreement?
+
+What will happen if the student group will fail to develop a prototype?
+
+A detailed report needs to be submitted for all projects. Such reports will be signed by a faculty mentor. If the attempt to make the prototype failed for genuine reasons, beyond the control of the group, there will be no consequences.
+
+How much will the student group budget?
+
+It will be determined on a case-to-case basis
+
+What after prototype development?
+
+The program goals to give an entrepreneurship exposure to the students after they have completed the innovation journey.
+
+POC from E Cell, IITK DF and SIIC?
+
+What is Clinical immersion?
+
+One of the part of the program is clinical immersion in which the fellows get to visit Clinical institutions, learn about the technology and healthcare system of the country and to find problem statements that they should pursue during the course of this program.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Hii]
+Where did the students of the previous Cohort go for the clinical immersions?
+
+The fellows of the last cohort went to Sree Chitra Tirunal Institute of Medical Sciences and Technology, Trivandrum, Kerela.
+
+Contact Us
+
+Indian Institute of Technology Kanpur, Kalyanpur, Kanpur Nagar, Uttar Pradesh-208016, India
+
+Follow Us:
+
+=== E-Cell page: Policies ===
+IDEATE. INNOVATE. INCUBATE.
+
+Entrepreneurship Policies IIT Kanpur
+
+A Step Towards Entrepreneurship
+
+IITK Policies
+
+With an ongoing 'startup' zeal all over the nation, the institute has a firm belief in entrepreneurism, and drives its students to convert their ideas into reality. IIT Kanpur brings many policies for entrepreneurial growth of its students, ranging from early stage programs like SUEP to distinctive policies like DPP.
+
+Students can meaningfully engage in entrepreneurship during their academic tenure as a student. The policy provides tremendous impetus to the vibrant ecosystem for nurturing innovation, entrepreneurship and intellectual property. An ecosystem that heretofore exists at the Indian Institute of Technology Kanpur. Such initiatives need center stage of academic discourse to promptly initiate a societal change in the attitude towards entrepreneurship, turning students into job creators instead of job seekers and give towards our prime mission of #AatmaNirbharBharat.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Policies]
+01. STUDENT ENTREPRENEURSHIP POLICY (SEP) Read More
+
+02. DEFERRED PLACEMENT PROGRAMME (DPP) Read More
+
+IIT Kanpur has the potential to give great technical and non-technical startups to the nation. But many students take up jobs because of the responsibilities or pressure from their family to go for a decent job, to settle as soon as possible. DPP allows the students to defer their placement season up to a couple of years later. These couple of years can be utilized by students to focus their time and efforts completely on their ventures with no academic pressure of any sort.
+
+SUEP will allow students who have completed their 4th semester to invest their summer break into their own start up and hopefully build up their own businesses. Nurturing the flair of entrepreneurship right from such an early stage gives students a head start into their careers. Since the program has a proper supervisory and guidance structure in place, the students have a support system while also having freedom. The students will also be provided with a stipend for the duration of the program. The evaluation will be done in two phases and the final evaluation committee will consist of Venture Capitalists, Serial Entrepreneurs, Angel Investors, Startup Mentors, etc.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Policies]
+03. SUMMER UNDERGRADUATE ENTREPRENEURSHIP PROGRAMME (SUEP) Read More
+
+What's entailed in the policy?
+
+All institute students can undertake entrepreneurship activities under the mentorship of a faculty or external mentor by following two distinct routes :
+
+1
+
+By registering for the academic semester and opting for 'Innovation and Entrepreneurship Credits (IEC as per the policy).
+
+2
+
+By willingly taking a semester drop for doing innovation and entrepreneurship activities (in which possible case no IEC registration is necessary). Students can consider a combination of normal academic credit load and IECS, within the framework of the allowed maximum load.
+
+UGS can begin entrepreneurship activity after earning credits equivalent to four semesters of the standard academic loads (two semesters for two Year MSC students) as per the template of their respective departments (~200 credits or equivalent).
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Policies]
+ROADMAP
+
+1st Year
+
+An Entrepreneur’s journey begins with an idea and motivation. An idea that starts as a seed buds into a beautiful tree, if given the proper nutrition and sunlight. Entrepreneurship Cell provides you the platform to develop your ideas and pack in the motivation you need. With Entrepreneurs and mentors from all across the world there to help, along with Competitions and Workshops that pave the path for your perfect entrepreneurial journey. There are a lot of things to offer, the point is how do you use them to your advantage?
+
+2nd Year
+
+Your entrepreneurial journey in IIT Kanpur can seed as early as the sophomore year! The Summer Undergraduate Entrepreneurship Program provides the perfect platform where you can invest your summer break into working on your startup idea. Get mentored by IIT Kanpur professors and give your startup a jumpstart by receiving funding from Venture Capitalists and Angel Investors.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Policies]
+3rd Year
+
+Having successfully utilizing your summers in ideation and developing your MVP, go ahead and take the benefits provided by the Student Entrepreneurship Policy! Pack in some IECs (Innovation and Entrepreneurship Credits), lighten up your semester’s academic load, or if you must take a semester drop, give in some hours to your startup! Utilize the funding that SEP provides and get mentored by the marvelous IIT Kanpur professors, give your venture the time it needs to grow.
+
+4th Year and beyond:
+
+An Entrepreneur’s journey is that of perseverance and belief. The dilemma of sitting in for placements or continuing your venture is generally a hard one. This is where the Deferred Placement Policy (DPP) comes into play. DPP allows the students to defer their placements for up to a couple of years. These couple of years can be utilized by students to focus their time and efforts completely on their ventures with no academic pressure of any sort. In case the venture that you are pursuing somehow does not attain the success you were hoping for you may return back to IIT Kanpur for Placements after up to 2 years of your Graduation!
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Policies]
+Team
+
+Anand Bugalia
+
+Overall Coordinator
+
+Hirani Shah
+
+Contact Us
+
+GET IN TOUCH
+
+Phone +91 7817816661
+
+Phone
+
+Email Address
+
+Address
+
+Response Saved Successfully
+
+The Entrepreneurship Cell | IIT Kanpur
+
+Copyright © 2024 All rights reserved/ Made With Love.
+
+=== E-Cell page: Sip ===
+
+About Us
+
+Team
+
+Sign In
+
+Sign Up
+
+Internship Policies
+
+Preparation
+
+Resume Guidelines
+
+Terms and Conditions
+
+Startup Internship Program
+
+SIP provides IITK students with an unprecedented opportunity to connect with young and upcoming companies who are set to become the powerhouses of NexGen India.
+
+Learn while you Earn
+
+Through SIP, we aim to collaborate with the start-ups willing to offer internship opportunities to the students of IIT Kanpur. This initiative has been extremely beneficial for both start-ups as well as students.
+
+Why intern at a startup?
+
+Learn more
+
+Big companies are already established, hence the problems encountered during the internship might not be multi-dimensional, which are encountered in startups. With small companies, work is fluid, because of the fragile divisions between streams.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Sip]
+Contribute more
+
+At large companies, an intern’s work is likely to disappear in the ocean of large projects and ideas. On the other hand, interning in a startup, would make you more responsible and your scale of contribution to the company would be more, in comparison.
+
+Network better
+
+While working for a startup, you develop more affectionate contacts with the whole team. This might help greatly if that startup shoots up suddenly and goes big. While in the bigger league, people are a lot more professional and such contacts are not easy to make.
+
+Broaden horizons
+
+As you get to interact with other interns and colleagues in that startup, you come to know about other domains you could work in, and eventually you might just end up pursuing a stream that you find more fascinating and fulfilling.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Sip]
+Success of SIP
+
+SIP has been instrumental in providing internship opportunities to the students of IIT Kanpur. The below infographic of SIP 2022 tells our success story by itself. This year, SIP is open to each and every student of IIT Kanpur. Moreover, you can apply even if you have previously interned through SIP.
+
+200+
+
+Startups
+
+500+
+
+Internships Offered
+
+35k
+
+Average Stipend
+
+120k
+
+Highest Stipend
+
+About SIP
+
+Startup Internship program is a part of Entrepreneurship Cell IIT Kanpur. Through SIP, we aim to collaborate with the start-ups willing to offer internship opportunities to the students of IIT Kanpur. This initiative has been extremely beneficial for both start-ups as well as the students. Startups get a bunch of highly enthusiastic students, with a high susceptibility to learning new things; and creative minds that are determined on proving their mettle in the next big league of their life.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Sip]
+SIP Internship season would kick off in the month of January. E-Cell through SIP help students get real life entrepreneurial experience. Startups from all over the world register with SIP and organize skype interviews or personal interviews with students for summer internships. Resume workshops, preparation sessions among more are conducted every year as part of the recruitment process with these startups.
+
+Testimonials
+
+My opinions and contributions mattered to the company and this is what I liked the most.
+
+Mahesh Saboo
+
+They had an excellent, vibrant working environment. They were open to ideas and all the employees were very supportive.
+
+Rishabh Chaturvedi
+
+This experience gave me the sense of achievement which I desired and helped me learn a lot of things which I couldn’t have without it. It allowed me to make a lot of good connections and friends which is not easy in a corporate life.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Sip]
+Tarun Agrawal
+
+Great Experience. Amazing mentor. Got opportunity to be a contributor to substantial progress of the company.
+
+Anant Prakash
+
+I felt like I had much more freedom on the project that I was working on. People there are very supportive and always try to help you.
+
+Bhavy Khatri
+
+Gunjan Head, Events
+
++91 7015688383 gunjank24@iitk.ac.in
+
+Contact Us for any queries.
+
+Copyright © 2024 E-Cell, IIT Kanpur
+
+=== E-Cell page: Startup Service Provision ===
+
+Service Partners
+
+IITK Offer
+
+Be a Partner
+
+Startup Service Provision
+
+A curtain of the best companies providing the best services to make your startup dream come true
+
+We got you covered
+
+Startup Services Provision is an initiative to empower budding student entrepreneurs by providing essential services necessary for a startup on its journey to growth and success. Right from web design, marketing to registering your startup officially, we've partnered with likeminded companies that wish to see you make it big in the startup world.
+
+Design & Development
+
+Design websites, mobile apps, and develop them as per your startup needs and requirements
+
+Business & Funding
+
+Do audit & accounts, incorporate into company, raise funds, and many more to grow your startup
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Startup Service Provision]
+Social Media & Marketing
+
+Create campaigns for brand, ad film endorsements, content for social meida, and many more
+
+Our Service Partners
+
+SeedUp is a cloud based online platform for business and compliance services. They offer quality services through expert consultation at affordable prices to help entrepreneurs start, run and grow their business.
+
+Services that will be provided
+
+Incorporation of firms and companies
+
+Business Licenses
+
+MCA Form
+
+Fund Raise
+
+Audit & Accounts
+
+Income Tax Filings
+
+Are you a student of Indian Insitute of Technology, Kanpur. Current students and those graduated with in the last three years can fill out the form to get special discounts.
+
+Want to be our service partner ?
+
+Provide your email and we will get back to you.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Startup Service Provision]
+*By providing my email, I consent to receiving communications from Entrepreneurship cell, IIT Kanpur.
+
+© Entrepreneurship cell, IIT Kanpur. All rights reserved
+
+Ideate | Innovate | Incubate
+
+=== E-Cell page: Yec ===
+IIT KANPUR
+
+ABOUT
+
+TIMELINE
+
+EXPECTATIONS
+
+INCENTIVES
+
+PARTNERS
+
+TEAM
+
+REGISTER
+
+YOUTH ENTREPRENEURSHIP CHALLENGE
+
+Empowering school students across India to tackle real-world problems, build innovative business models, and present to esteemed startup judges.
+
+What is Youth Entrepreneurship Challenge?
+
+Youth Entrepreneurship Challenge (YEC) offers an ideal platform for curious young minds to tackle everyday problems with ingenuity and originality. From imparting fundamental concepts of entrepreneurship to refining imaginative ideas, crafting business plans, and presenting to a panel of respected judges — this platform has it all!
+
+Empowering Tomorrow's Business Leaders
+
+Youth Entrepreneurship Challenge (YEC) aims to ignite the spark of innovation, encouraging school students across India to solve real-world problems with ingenuity, strategy, and entrepreneurial spirit.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Yec]
+1. Ignite Innovation
+
+Inspiring students to think outside the box and turn everyday challenges into creative business opportunities.
+
+2. Build Viable Ventures
+
+Teaching core business strategy, prototyping, business modeling, and pitching to expert startup judges.
+
+3. Future Leadership
+
+Cultivating confidence, public speaking, decision-making, and teamwork skills essential for future pioneers.
+
+2026
+
+Timeline
+
+23rd Aug
+
+Registration Open
+
+Website live & registration starts
+
+11th Oct
+
+Preliminary Session
+
+Online masterclass session
+
+18th Oct
+
+Registration Closes
+
+Registration portal closed
+
+25th Oct
+
+Quiz 1
+
+Online aptitude & strategy quiz
+
+29th Oct
+
+Quiz 1 Results
+
+Shortlist announcement
+
+1st Nov
+
+Session 2
+
+Business model guidance
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Yec]
+12th Nov
+
+Pitch Deck Starts
+
+Submission portal open
+
+29th Nov
+
+Deck Deadline
+
+Last date of submission
+
+5th Dec
+
+Final Results
+
+10th–25th Dec
+
+Mentorship
+
+1-on-1 with startup founders
+
+GRAND FINALE
+
+23rd Jan
+
+Campus Finale
+
+Live pitch @ IIT Kanpur
+
+What You Can Expect From The Workshop
+
+Understand Entrepreneurship
+
+Develop Entrepreneurial Mindset
+
+Identify Real-World Problems
+
+Understand User Needs
+
+Turn Problems into Ideas
+
+Generate & Evaluate Solutions
+
+Build Your First Prototype
+
+Test & Validate Your Idea
+
+Improve Your Solution
+
+Live Activities & Challenges
+
+Entrepreneurial Keynotes
+
+Create Real-World Impact
+
+Incentives & Benefits
+
+Prizes Worth ₹3 Lakhs
+
+Exciting cash awards and preliminary incentives for winning school teams.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell page: Yec]
+1-on-1 Mentorship
+
+Direct masterclasses and guidance from industry leaders & founders.
+
+IIT Kanpur Certificates
+
+Official recognized certificates from Entrepreneurship Cell, IIT Kanpur.
+
+ESummit'26 Passes
+
+Free VIP passes to attend E-Cell IIT Kanpur's flagship ESummit'26.
+
+Previous Year School Partners
+
+Meet The Team
+
+MOHIT YADAV
+
+Head Events
+
+ANKIT MASOOM
+
+Head Design
+
+SONI
+
+SRUJANA
+
+Head Media & Publicity
+
+Empowering young innovators and building tomorrow's business leaders through Youth Entrepreneurship Challenge.
+
+Quick Links
+
+About YEC
+
+Expectations
+
+Incentives
+
+Queries & Support
+
+Social Media
+
+© E-Cell IIT Kanpur. All Rights Reserved.
+
+=== E-Cell overview from the 2024 snapshot (text not already given above) ===
+Entrepreneurship Cell IIT Kanpur
+ABOUT US
+EVENTS
+EntreVerse' 26
+YEC' 26
+CA-Program' 26
+TEDx' 25
+What We Do.
+E-SUMMIT
+E-Summit is an annual flagship event of IIT Kanpur effectuated with the intention to foster entrepreneurial initiatives and activities in the campus to accomplish IIT Kanpur's mandate of nurturing India's future technopreneurs. Sharing of entrepreneurship endeavour and experiences, discussion of ideas and opportunities will be a profuse learning experience for the active leaders of entrepreneurship in the savant community who can then disperse these ideas further
+TEDX
+UPSTART
+STARTUP MASTER CLASS
+STARTUP INTERNSHIP PROGRAM
+E-Cell, IIT Kanpur achieved great success with Startup Internship Program 2017-18 season with a total of 151 Startups that registered. The profiles included IT/Programming, Core, and Marketing/Business Development. The season saw recruitment from startups like Invento Robotics, Ridlr, Dunzo, Pharmeasy, EarlySalary to name a few. The season witnessed a 73 % boom in the total internships offered than the previous year.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+CAMPUS HANGOUTS
+Ensight'21
+We are thrilled to release our first issue of Ensight - an Insight in the vast universe of Entrepreneurship through the eyes of Entrepreneurship Cell, IIT Kanpur.\n\nEnjoy taking an insight in the phenomenal activites organised by the Cell round the year - a well flavoured combination of online and offline affairs to promote the spirit of entrepreneurship. The first issue contains everything from ideas to possibilities, from candid conversations to opportunities.\n\nHave fun exploring!!
+We are thrilled to release our first issue of Ensight - an Insight in the vast universe of Entrepreneurship through the eyes of Entrepreneurship Cell, IIT Kanpur.\n\nEnjoy taking an insight in the phenomenal activites organised by the Cell round the year - a well flavoured combination of online and offline affairs to promote the spirit of entrepreneurship. The first issue contains everything from ideas to possibilities, from candid conversations to opportunities.\n\nHave fun exploring!!
+We are thrilled to release our first issue of Ensight - an Insight in the vast universe of Entrepreneurship through the eyes of Entrepreneurship Cell, IIT Kanpur.
+
+Enjoy taking an insight in the phenomenal activites organised by the Cell round the year - a well flavoured combination of online and offline affairs to promote the spirit of entrepreneurship. The first issue contains everything from ideas to possibilities, from candid conversations to opportunities.
+
+Have fun exploring!!
+E-SUMMIT'23-INQUISITION OF INFINITY
+Unleashing the theme of 'Inquisition' where uncharted realms await your curiosity's embrace. Venture into the unknown, question the unquestioned, and sculpt innovation from mere ideas. With 'Infinity,' dream beyond horizons, paint success without borders. Let this fusion kindle a wildfire of revolutionary thinking, where entrepreneurs script tomorrows unseen.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+STARTUP EXPO
+Startup expo offers a platform for startups to showcase their unique ideas and the opportunity to orchestrate Product Launches, network with investors, and gain exposure to a wider audience.
+UPSTART
+UpStart being the flagship pitching event of E-Cell has always catered to the budding startups of the nation. With 500+ registrations, UpStart has managed to sow the seeds of entrepreneurship across the country.\nREAD MORE\nNETWORKING DINNER\nE-Cell IIT Kanpur holds a networking dinner with the aim of not just connecting people but connecting people with ideas and people with opportunities.
+UpStart being the flagship pitching event of E-Cell has always catered to the budding startups of the nation. With 500+ registrations, UpStart has managed to sow the seeds of entrepreneurship across the country.\nREAD MORE\nNETWORKING DINNER\nE-Cell IIT Kanpur holds a networking dinner with the aim of not just connecting people but connecting people with ideas and people with opportunities.
+UpStart being the flagship pitching event of E-Cell has always catered to the budding startups of the nation. With 500+ registrations, UpStart has managed to sow the seeds of entrepreneurship across the country.
+READ MORE
+NETWORKING DINNER
+E-Cell IIT Kanpur holds a networking dinner with the aim of not just connecting people but connecting people with ideas and people with opportunities.
+COMPETITIONS
+Decrypt:
+Upstart Campus:
+Cryptocraze:
+Get ready to ride the CryptoCraze wave, a thrilling virtual crypto trading competition where fortune favors the boldest! Seize control of your financial destiny and showcase your trading prowess. Dive into the undiscovered realms of the entrepreneurial world!
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Sell your Sole:
+Model United Corporations:
+Unlock the thrill of corporate leadership! Join Model United Corporations and immerse yourself in the world of CEOs, CMOs, and CFOs. Conquer high-pressure decision-making, strategic challenges, and teamwork. Sharpen your skills, seize the spotlight, and prove you\'ve got what it takes to lead in the boardroom. Join the competition, transform into a corporate titan!"
+Be An Angel:
+Experience the investor's perspective in Be an Angel:Shark Tank Edition. Role-play as an Angel Investor with $5 million to invest. Assess startups, pitch investment strategies, and face VC judges. Understand both sides of the table in this nerve-wracking pitch competition.
+Youth Entrepreneurship Challenge offers an ideal platform for curious young minds to tackle everyday problems with ingenuity and originality. From imparting fundamental concepts of entrepreneurship to refining imaginative ideas, to crafting a business plan and presenting it to a panel of respected judges, this platform/challenge has it all!
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Youth Entrepreneurship Challenge aims to ignite the spark of innovation and problem-solving, encouraging young individuals to think outside the box and come up with novel solutions. Through this platform/challenge, participants will learn to turn their passion into profitable ventures and develop essential skills that will serve them well in their personal and professional lives.
+Mr Ajay Dubey (BT/CHE/1980) esteemed alumnus of IIT Kanpur, has implemented Rooma & Ajay Dubey Healthcare Innovation and Ideation Program (HII Program) with his generous contribution. Health technology is defined as "application of organized knowledge and skills in the form of devices, medicines, vaccines, procedures, and systems developed to solve a health problem and improve quality of lives".
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+WORKSHOPS
+PITCH DECK MAKING
+Everyone has ideas but the way you frame it and present it creates the difference. PDM is a workshop on how to create your pitch and present your startup ideas in front of the judge. A good pitch is a balancing act that gets people in the room to believe in you and your startup. This workshop is centred to teach you this highly valuable skill.
+PORTFOLIO BUILDING
+In today's stock markets scenario, a well-constructed portfolio is vital to wealth creation. In this scenario, the big question that arises is, what are the things to keep in mind when making your portfolio? Financial investments like stocks, bonds, commodities, cash, and cash equivalents, are the backbone for all the industries. This workshop will cover all the elements related to portfolio building.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+HOW TO THINK LIKE A VC ?
+There’s no single soul among us unacquainted to the wave of entrepreneurship initiated by multiple seasons of Shark Tank. Does it not occur to you as to how these sharks decide upon their investments? We bring to you “How to think like a VC?” , a workshop which aims to clear your doubts and introduce you to the art of angel investing with acclaimed venture capitalists joining us in.
+COMPETITIONS
+GAME OF AUCTIONS
+Game of Auctions would require strategic trade-offs, teamwork, and the ability to take prompt decisions to best utilise monetary resources. Teams will be given a budget to contest in an auctioning event and followed by the strategic presentation.
+PARALLEL UNIVERSE
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+In this competition teams of students will be assigned a product, they will have to then pitch a product that has the opposite utility of the given product. This competition will test the creativity and innovation of contestants and their skill to sell their product.
+India's biggest celebration of something which is not for the faint-hearted but which lies at the heart of every passion-driven endeavor - "ENTREPRENEURSHIP". Entrepreneurial Extravaganza(E Square), India's biggest virtual entrepreneurial event where the distinction between a newbie enthusiast and an experienced entrepreneur will be blurred because if someone attends, they are getting to be a part of the galore of the same knowledge and perspective as everyone else. E Square is a week-long virtual entrepreneurial event, scheduled to be held from July 26th - August 2nd, 2020, where passion, experience, resources, and opportunities will converge to make it a once in a lifetime experience for many. It brings together a bunch of talks, panel discussions, workshops, and competitions focusing on interdisciplinary approaches that will eventually break the barrier to entrepreneurship.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+STOCK THE STOCK
+Stock the Stock, a live stock trading competition where the bright minds compete against each other to design the most marketable portfolio from the rendered stocks through excessive bidding. E- Cell IIT K presents “Stock the Stock”, now show off your Fin Gyan by trading in a live stock trading competition. Apply your aptitude, analyze the market fluctuations, make profitable bidding and let the market play its game. Get ready for a power-packed environment and experience unlimited fun. Compete against the smart-witted minds to design the most valuable portfolio from the provided stocks and win exciting prizes!
+EXTRAVAGANZA QUIZ
+Does your wanderlust for the world of entrepreneurship, startups, and business doesn’t allow your mind to settle down at one place? We are here to take you on a fascinating journey to this infinite space of diapason of a giant to small startups and ideas. Get ready to be a part of this cliff-hanger event of Extravaganza where you would be vying with the real virtuoso and nimble minds with a passion for the business world. Extravaganza Quiz promises you to provide the best quizzing experience, mind-boggling questions, nail-biting tension, taking calculated risk situations and a lot more unexpected things.
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+STARTUPS:
+
+DELHIVERY
+Provider of logistics management solutions for e-commerce businesses founded in 2011
+Founders :
+Kapil Bharati, Mohit Tandon, Sahil Barua, Suraj Saharan
+
+RAILYATRI
+App-based platform that provides real-time rail transit information and ticketing solutions founded in 2011
+Founders :
+Kapil Raizada, Manish Rathi, Sachin Saxena
+
+NOBROKER
+Provider of a listing platform for residential and commercial properties founded in 2014
+Founders :
+Akhil Gupta, Amit Agarwal
+
+URBANCLAP
+Provider of electronics repair services
+Founders :
+Abhiraj Singh Bhal, Bike Doctor, Raghav Chandra, Varun Khaitan
+
+INMOBI
+Platform offering mobile ad network software founded in  2007
+Founders :
+Abhay Singhal, Amit Gupta, Mohit Saxena, Naveen Tewari, Piyush Shah
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+SHARECHAT
+App-based social platform for sharing media content founded in 2015
+Founders :
+Ankush Sachdeva, Bhanu Pratap Singh, Bhanu Singh, Farid Ahsan
+
+MYNTRA
+Online marketplace offering multi-category fashion products founded in 2007
+Founders :
+Mukesh Bansal, Vineet Saxena, Ashutosh Lawania
+
+OKCREDIT
+App-based bookkeeping and accounting solutions for small businesses founded in 2017
+Founders :
+Aditya Prasad, Harsh Pokharna, Gaurav Kunwar
+
+NOCCARC ROBOTICS
+Established in the year 2017, Noccarc Robotics Private Limited is engaged in manufacturing of ICU Ventilator
+Founders :
+Nikhil Kurele, Harshit Rathore
+
+MOGLIX
+B2B marketplace platform offering industrial goods founded in 2015
+Founders :
+Rahul Garg, Sachin Chaudhary, Anurag Srivastava
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+CURE.FIT
+Provider of digital and offline fitness services founded in 2016
+Founders :
+Mukesh Bansal, Ankit Nagori
+
+INPHI
+Provider of high-speed analog semiconductors founded in 2000
+Founders :
+Gopal Raghavan
+
+GLANCE
+Provider of mobile lock screen content management & advertising solutions founded in 2009
+Founders :
+Naveen Tewari
+
+MPL
+An online platform offering e-sports and real money casino gaming activities founded in 2018
+Founders :
+Sai Srinivas Kiran Garimella, Shubham Malhotra
+
+KAAGAZ SCANNER
+Document Scanner, PDF Reader, PDF Editor, Document Manager & Cloud Storage all rolled into one.
+Founders :
+Gaurav Shrishrimal
+
+PUBMATIC
+Founders :
+Amar Goel, Anand Das, Mukul Kumar, Rajeev Goel
+
+GEOIQ
+GeoIQ is a locational intelligence platform that tells the value of each location - people, their behaviours, businesses, and potentials - as easily consumable layers on maps.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Dev Fuloria, Ankita Thakur, Tusheet Shrivastava
+
+PIAZZA
+The predominant social learning platform connecting students, instructors and employers.
+Founders :
+Pooja Sankar
+
+JUNIPER
+Juniper Networks is leading the revolution in networking, making it one of the most exciting technology companies in Silicon Valley today. Liencres nearly 20 years ago, Juniper’s sole mission has been to create innovative products and solutions that meet the growing demands of the connected world.
+Founders :
+Pradeep Sindhu
+
+IXIGO
+AI-based online platform providing multiple travel services founded in 2007
+Founders :
+Aloke Bajpai, Dharmendra Yashovardhan, Rajnish Kumar
+
+INFOSYS
+Provider of digital marketing, data analytics, and IT suite services founded in 1981
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Ashok Arora, K. Dinesh, Kris Gopalakrishnan, N.R.Narayana Murthy, Nandan Nilekani, NS Raghavan, Parv Saini, S.D. Shibulal
+
+ONLINETYARI
+OnlineTyari is here to change the way students and job aspirants prepare for various exams in India. We are building smart tech solutions for delivering educational content, mock tests and guidance online through our web and app platform. We are already India’s largest test preparation platform with more than 5 million app downloads and growing rapidly! Founded in 2014
+Founders :
+Bhola Meena, Udai Meena, Vipin Agarwal
+
+ABLE JOBS
+Online candidate assistance solution provider founded in 2018
+Founders :
+Ravish Agrawal, Siddharth Srivastav, Swatantra Kumar
+
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+SHUTTL
+Founded in 2015, Shuttl is India’s largest office commute service provider. With a mission of solving the pain of commute, Shuttl offers a space-efficient, safe, and cost-effective solution for urban India.
+Founders :
+Deepanshu Malviya, Amit Singh
+
+AERON
+Aeron Systems located in Pune, India, focuses on development of technology applying its expertise in embedded electronics to domains encompassing aerospace, automotive, renewable energy and agriculture founded in 2008.
+Founders :
+Ashvani Shukla, Abhijeet Bokil
+
+HEALTHCAREMAGIC
+HealthcareMagic is a fast-growing consumer-centric health company founded to transform how people approach their health and wellness. HealthcareMagic is now the largest website where people get answers from Doctors, around the world, around the clock founded in 2008.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Abhilash Thirupathy, Kunal Sinha, Nitesh Pant, Shekhar Sahu
+
+METTL
+Online assessment platform to test pre-hires and employees founded in 2010
+Founders :
+Ketan Kapoor, Tonmoy Shingal
+
+KNOWLARITY
+Cloud based telephony solution provider for SMEs founded in 2009
+Founders :
+Ambarish Gupta, Pallav Pandey
+
+ZEEMAPS
+Our goal at ZeeMaps is to provide you with the simplest mechanisms to create your own customized maps with minimal effort. We give you options such as crowd-sourcing map data, or directly uploading and synchronizing from spreadsheets. You can use maps created with ZeeMaps in the myriad ways that people have traditionally used maps, or put them to more innovative use with the new technology and all that it entails, e.g., get a visceral sense of location data, convey geographical reach to colleagues, friends, customers, search through a prospects list, and so forth. We provide you with the technology to create maps — what you do with it is up to you.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Pankaj Garg
+
+TOWNSCRIPT
+Townscript is India's leading Experiences Marketplace with Organisers hosting 20k+ events & experience annually to sell tickets across 100+ Indian cities. BookMyShow, India's leading Online Entertainment Platform, did strategic investment in Townscript in 2018 founded in 2012.
+Founders :
+Sachin Sharma, Sanchit Malik
+
+LIVSPACE
+Online platform offering in-home interior designs for home improvement founded in 2014
+Founders :
+Anuj Srivastava, Ramakant Sharma, Shagufta Anurag
+
+SUPERPROFS
+Superprofs.com is revolutionizing the online education industry by bringing classrooms of India's Best professors online, so that students preparing for competitive exams like CA, CS, GATE, IIT-JEE, Civil Services etc. can attend them from anywhere, at anytime! Students can now attend HD-quality coaching classes from the comfort of their homes. The Professors who teach at SuperProfs.com are not only experts in their respective fields, but they are also result oriented, tech savvy and student friendly. The courses available on SuperProfs are curated and offer guaranteed 100% syllabus coverage. Real-time doubt clearing, assessments and exclusive study material are also provided to ensure comprehensive learning experience for students founded in 2010.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Piyush Agarwal, Sujeet Kumar
+
+GETMECAB
+GetMeCab is India's largest intercity cab booking platform (cab aggregator) for Outstation Round and One Way Trips from Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Pune, Gurgaon, Noida, Jaipur, Chandigarh, Kolkata, Agra, Bhopal, Shimla, Manali, and More founded in 2010.
+Founders :
+Amit Lakhodia, Bhola Meena, Kapil Sehgal, Sanjeev Duggal
+
+PARIKSHA
+Pariksha is the largest vernacular EdTech company. It is solving the massive problem of accessibility and affordability of outcome-based education for the mobile 1st internet users of Bharat. Our vision is to become the world’s largest EdTech company, our mission is to make affordable, outcome-based, education available to all, and our purpose is to democratizing equal access to learning opportunities.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Deepak Choudhary, Karanvir Singh Shekhawat, Utkarsh Bagri, Vikram Shekhawat
+
+CYIENT
+Provider of digital engineering and technology solutions founded in 1991
+Founders :
+Venkat Rama Mohan Reddy
+
+SHOP101
+Online reselling platform for multi-category products founded in 2015
+Founders :
+Abhinav Jain, Aditya Gupta, Rishabh Dhall
+
+GOFRO
+Gofro.com is a start-up in travel domain with a potential to disrupt the way the travel industry operates. The company is founded by Amitabh Misra, who as CTO of Snapdeal, led development of India's Largest Online Marketplace and backed by MakeMyTrip, India's #1 Online Travel Company founded in 2015.
+Founders :
+Amitabh Misra
+
+TARS
+Tars helps marketing and customer service teams optimize their conversion funnels, automate their customer service interactions, and redefine their customer experience using chatbots founded in 2016.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Ish Jindal, Vinit Agrawal
+
+PROMPTCLOUD
+PromptCloud is a leading web data crawling & extraction company, serving customers across the globe with valuable data to suit their business needs. Based on the Data-as-a-Service (DaaS) model, PromptCloud uses cloud computing & machine-learning techniques to offer big data solutions to enterprises founded in 2009.
+Founders :
+Prashant Kumar
+
+SKYFI LABS
+At Skyfi Labs, we help students all over the world develop practical skills. The curriculum in schools and colleges does not allow students to develop the much needed practical exposure. Skyfi Labs helps students overcome this challenge and develop these practical skills very easily. Students can enroll in our online courses, receive kit(s)/ software tools at their doorstep, and build projects. Skyfi Labs platform helps students to pick projects of their interest and build real working projects from their homes via online courses or directly from our experts through our live training programs founded in 2012.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Aditya Chundi, Pavan Ponnaganti
+
+SHOOLINI UNIVERSITY
+Founded by leading academicians and professionals, Shoolini University is a young, research-focussed, philanthropic university. Established in 2009, this is an innovation-led centre of learning consistently ranked among India’s top 100 universities (NIRF). One of India’s highest generators of patents, Shoolini University matches the world’s best universities in research output. That has made us India’s No. 1 private university as per Times Higher Education and QS World University Rankings founded in 2009.
+Founders :
+Atul Khosla
+
+ROCKETIUM
+Rocketium is an agile CreativeOps platform that helps enterprises take their communications to market faster and at lower costs. With the combined strength of creative automation, seamless collaboration, automated brand compliance, powerful creative analytics, and smart content management, our platform empowers enterprises to do more with their existing teams, processes, and tools founded in 2015.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Anurag Dwivedi, Satej Sirur
+
+PRAMATI
+Pramati is a privately held software company that builds independent technology businesses focused on profitable and emerging markets in cloud, data, intelligence, and mobility. Its unique corporate incubator model spins ventures that provide enterprises and ISVs with best of breed platforms to develop secure cloud-native solutions, improve employee productivity and make customer experience more engaging founded in 1998.
+Founders :
+Vijay Pullur
+
+TRENDLYNE
+Trendlyne is a ‘Retail Bloomberg platform’ enabling decision making for retail investors, research analysts and Portfolio advisors with real time data analytics. Our technology turns every financial data point into structured data, on which strategies can be created and back tested in real time. Trendlyne DVM scores provide a headline insight on how good or bad a stock is - simplifying investment decision making founded in 2017.
+[Context: ENTREPRENEURSHIP CELL (E-CELL), IIT KANPUR - PROGRAMMES, EVENTS AND POLICIES > E-Cell overview from the 2024 snapshot (text not already giv]
+Founders :
+Amber Pabreja
+
+KREDX
+Integrated cash flow solution provider founded in 2015
+Founders :
+Anurag Jain, Manish Kumar
+
+THE PORTER
+App-based platform offering on-demand truck booking and courier delivery services founded in 2014
+Founders :
+Pranav Goel, Uttam Digga, Vikas Choudhary
+
+PROPERTYSHARE
+Crowdfunding platform for real estate investment founded in 2015
+Founders :
+Hashim Khan, Kunal Moktan
+
+TAG-HIVE
+Provider of AI-powered quiz application founded in 2017
+Founders :
+Pankaj Agarwal
+

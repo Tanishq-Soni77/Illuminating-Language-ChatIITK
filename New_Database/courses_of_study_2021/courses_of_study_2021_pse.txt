@@ -1,0 +1,63 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF PSE (PHOTONICS SCIENCE AND ENGINEERING) COURSES
+Name: All courses of Department of PSE (Photonics Science and Engineering) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course PSE601 - INTRODUCTION TO PHOTONICS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Photonics deals with light generation, amplification, guiding, manipulation, and detection for harvesting information. This course introduces some of the fundamental aspects of photonics excluding generation and detection. Maxwell’s Equations, Wave Equations, Dielectric Media, Constitutive Relations Electromagnetic Waves Gaussian Beams, Absorption and Dispersion Spatial and Temporal Coherence Boundary conditions, Fresnels equations and coefficients, Brewster and critical angles. Course Reference: 1. E. Hecht, Optics, 4th ed., Pearson Education (2001); 2. G. R. Fowles, Introduction to Modern Optics, Dover (1989); 3. Smith, F.G. & King, T.A. Optics and Photonics: An introduction, John Wiley and Sons (2007).
+
+Course PSE601A - INTRODUCTION TO PHOTONICS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Photonics deals with light generation, amplification, guiding, manipulation, and detection for harvesting information. This course introduces some of the fundamental aspects of photonics excluding generation and detection. Maxwell Equations, Wave Equations, Dielectric Media, Constitutive Relations Electromagnetic Waves Gaussian Beams, Absorption and Dispersion Spatial and Temporal Coherence Boundary conditions, Fresnels equations and coefficients, Brewster and critical angles, Course Reference: 1. E. Hecht, Optics, 4th ed., Pearson Education (2001); 2. G. R. Fowles, Introduction to Modern Optics, Dover (1989); 3. Smith, F.G. & King, T.A. Optics and Photonics: An introduction, John Wiley and Sons (2007).
+
+Course PSE602 - PRINCIPLES OF LASERS AND DETECTORS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to light sources, Lasers, principle of lasing Optical cavities, longitudinal, transverse modes, Stability Interaction of radiation with matter, Spontaneous emission Absorption and stimulated emission, line broadening mechanisms Population inversion, absorption and gain coefficients Pumping schemes (Rate equation based Lasing model) Three and four level lasers CW and pulsed lasers, Q switching and modelocking. Course Reference: 1. Principles of Lasers, O. Svelto and D. C. Hanna,5th edition, 2010; 2. Laser Physics, Peter W. Milonni and Joseph H. Eberly, Wiley, 2nd edition, 2010; 3. Lasers, Anthony E. Siegman, University Science Books; 1st edition, 1986; 4. Laser Electronics, Joseph T. Verdeyen, Prentice Hall; 3rd edition, 1995; 5. Laser spectroscopy, W. Demtroder, 3rd edition, 2004
+
+Course PSE602A - PRINCIPLES OF LASERS AND DETECTORS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to light sources, Lasers, principle of lasing Optical cavities, longitudinal, transverse modes, Stability Interaction of radiation with matter, Spontaneous emission Absorption and stimulated emission, line broadening mechanisms Population inversion, absorption and gain coefficients Pumping schemes (Rate equation based Lasing model) Three and four level lasers CW and pulsed lasers, Q switching and mode locking. Course Reference: 1. Principles of Lasers, O. Svelto and D. C. Hanna,5th edition, 2010; 2. Laser Physics, Peter W. Milonni and Joseph H. Eberly, Wiley, 2nd edition, 2010*Lasers; 3. Anthony E. Siegman, University Science Books; 1st edition, 1986; 4. Laser Electronics, Joseph T. Verdeyen, Prentice Hall; 3rd edition, 1995; 5. Laser spectroscopy, W. Demtroder, 3rd edition, 2004
+
+Course PSE603 - NUMERICAL METHODS IN OPTICS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Linear algebra: matrices, matrix inversion; QR, Singular value decomposition, systems of equations, eigen values, eigen vectors, orthonormalization, condition number Laplace and Fourier transforms Vector calculus, Cartesian tensors Ordinary differential equations, series solution, Fourier series, Special functions Iterative and direct methods for linear algebraic equations; generalized inverses, least squares Numerical differentiation and integration; Numerical solution of 1st and second order ODEs, RungeKutta method, stability, stiff systems Partial differential equations, second order equations, classification, separation of variables, Course Reference: 1. E. Kreyszig, Advanced Engineering mathematics, 8th edition, McGrawHill, New York,2000; 2. M.D. Greenberg, Advanced Engineering Mathematics, Prentice Hall, New Jersey, International edition, 1998; 3. I. P. Castro, An Introduction to the Digital Analysis of Stationary Signals, Taylor andFrancis, (1989).
+
+Course PSE603A - NUMERICAL METHODS IN OPTICS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Linear algebra: matrices, matrix inversion; QR, Singular value decomposition, systems of equations, eigen values, eigenvectors, orthonormalization, condition number Laplace and Fourier transforms Vector calculus, Cartesian tensors Ordinary differential equations, series solution, Fourier series, Special functions Iterative and direct methods for linear algebraic equations; generalized inverses, least squares Numerical differentiation and integration; Numerical solution of 1st and second order ODEs, RungeKutta method, stability, stiff systems Partial differential equations, second order equations, classification, separation of variables, Course Reference: 1. E. Kreyszig, Advanced Engineering mathematics, 8th edition, McGrawHill, New York,2000; 2.M.D. Greenberg, Advanced Engineering Mathematics, Prentice Hall, New Jersey, International edition, 1998; 3. I. P. Castro, An Introduction to the Digital Analysis of Stationary Signals, Taylor and Francis, (1989).
+
+Course PSE604 - PHOTONICS SYSTEMS AND APPLICATIONS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Principles and Applications of Solidstate Laser Systems Laser diode Structures, Mechanism of photon emission in semiconductor laser, Tunable semiconductor diode laser, Rare earth doped lasers, NdGlass/NdYag/Erdoped/VdYag Lasers, Transition metal lasers, Ruby/Ti Saphire lasers, High Power Diode lasers, DPSS Lasers, Quantum cascade Laser. Principles and Applications of Liquid and Gas Laser Systems Dye laser, Tunable Lasers, Frequency stabilization, Tuning Techniques, Ar+ lasers, HeNe laser, CO2 lasers. Course Reference: 1. Kjell J. Gasvik, Optical Metrology, 3rd Edition, John Wiley and Sons, 2002; 2. O. Svelto and D C Hanna, Principles of lasers, 4th Ed., 1998; R W Boyd, Nonlinear optics, Academic Press, 2nd Ed, 2003; 3. M. H. Niemz, Laser Tissue Interaction Fundamentals and Applications.
+
+Course PSE604A - PHOTONICS SYSTEMS AND APPLICATIONS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Principles and Applications of Solidstate Laser Systems Laser diode Structures, Mechanism of photon emission in semiconductor laser, Tunable semiconductor diode laser, Rare earth doped lasers, NdGlass/NdYag/Erdoped/VdYag Lasers, Transition metal lasers, Ruby/TiSaphire lasers, High Power Diode lasers, DPSS Lasers, Quantum cascade Laser. Principles and Applications of Liquid and Gas Laser Systems Dye laser, Tunable Lasers, Frequency stabilization, Tuning Techniques, Ar+ lasers, HeNe laser, CO2 lasers. Course Reference: 1. Kjell J. Gasvik, Optical Metrology, 3rd Edition, John Wiley and Sons, 2002; 2. O. Svelto and D C Hanna, Principles of lasers, 4th Ed., 1998; 3. R W Boyd, Nonlinear optics, Academic Press, 2nd Ed, 2003; 4. M. H. Niemz, Laser Tissue Interaction Fundamentals and Applications,
+
+Course PSE605 - PHOTONICS LAB TECHNIQUES
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Electrooptic effect using LiNbO3 crystal, Acoustooptic modulator, Study of effects of loss, dispersion, amplifier noise on 10Gbps links, 40Gbps QAM modulation and coherent demodulation, Nonlinearities in fiber: Four wave mixing, Raman scattering etc. SHG generation and OPO using Nd: YAG laser OPO using BBO crystal Fresnel and Fraunhofer Diffraction HeNe laser beam parameters, Laser diode characteristics: LI characteristic, beam profile measurement, modes and spectrum using FP cavity, Michelson interferometer: setup, refractive index measurement, Nd: YAG laser characteristics, Fiber Mach Zehnder interferometer, Holography
+
+Course PSE605A - PHOTONICS LAB TECHNIQUES
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 1-0-6-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Electrooptic effect using LiNbO3 crystal Acoustooptic modulator, Study of effects of loss, dispersion, amplifier noise on 10Gbps links 40 Gbps QAM modulation and coherent demodulation, Nonlinearities in fiber: Fourwave mixing, Raman scattering etc. SHG generation and OPO using Nd: YAG laser, OPO using BBO crystal, Fresnel and Fraunhofer Diffraction, HeNe laser beam parameters, Laser diode characteristics: LI characteristic, beam profile measurement, modes and spectrum using FP cavity, Michelson interferometer: setup, refractive index measurement, Nd: YAG laser characteristics, Fiber Mach Zehnder interferometer, Holography
+
+Course PSE606 - RESEARCH IN PHOTONICS AND LASERS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 3-0-0-0-4. Source: Courses of Study 2021, IIT Kanpur.
+Biophotonics, nanobiophotonics, Optical communication, Quantum cryptography Nonlinear optics Tomography Quantum dots, photonic crystals Laser manufacturing and materials processing Laser instrumentation, PIV, thermography, microscale imaging Satellite imaging, Clouds, aerosols, Lidar spectroscopy Multiphoton imaging.
+
+Course PSE606A - RESEARCH IN PHOTONICS AND LASERS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): 0-0-9-0-9. Source: Courses of Study 2021, IIT Kanpur.
+Biophotonics, nanobiophotonics, Optical communication, Quantum cryptography Nonlinear optics Tomography Quantum dots, photonic crystals Laser manufacturing and materials processing Lase instrumentation, PIV, thermography, micro scale imaging Satellite imaging, Clouds, aerosols, Lidar spectroscopy Multiphoton imaging.
+
+Course PSE699 - M. TECH THESIS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+(no course content text in the source)
+
+Course PSE799 - PHD THESIS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+(no course content text in the source)
+
+Course PSE899 - MS - RESEARCH THESIS
+Department: Department of PSE (Photonics Science and Engineering). Credits (L-T-P-D-C): not listed. Source: Courses of Study 2021, IIT Kanpur.
+(no course content text in the source)

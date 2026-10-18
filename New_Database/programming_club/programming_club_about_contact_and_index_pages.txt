@@ -1,0 +1,1303 @@
+PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES
+Name: Programming Club IIT Kanpur (PClub): about us, current coordinators and tech leads, home page, lists of projects, roadmaps and blog archive.
+Type: STUDENT CLUB - Programming Club (PClub), a technical club of IIT Kanpur's Science and Technology Council; website https://pclub.in. Snapshot: scraped in 2026 (latest posts dated up to Oct 2026).
+
+=== About ===
+Source: https://pclub.in/about/
+
+About
+
+Programming Club (or PClub) is a community of students highly enthusiastic about coding, ethical hacking, Web Designing and all other aspects of programming. We are a team currently of 5 coordinators (pre-final year), 5 tech leads (pre-final year) and 35 secretaries.
+
+Our Instagram page boasts around 4K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
+
+We organize activities related to development, systems, web3, graphics, competitive programming, programming contests, hackathons, Capture The Flag contests, Machine Learning and many more. Lecture series are regularly taken on algorithms, web hijacking, development, among other things.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > About]
+Programming Club is also dedicated to developing various applications that are beneficial for the campus junta, such as Puppy Love (during Valentine’s week), Student Search, Linux Install fest, and promoting open-source software.
+
+During summers, we offer a large number of projects to the first year students through our Summer Camp. The 2022 Summer Camp saw close to 300 applicants.
+
+Feel free to contact any of our members any time in case of any queries! We hang out on Discord
+
+Happy Coding!
+
+while(!(succeed = try () ));
+
+=== Contact Us ===
+Source: https://pclub.in/contact/
+
+Contact Us
+
+Current Coordinators
+
+Aditya Sai
+
+6302848456
+
+Ketan
+
+9610407327
+
+Parth Patil
+
+9834453746
+
+Ritika Batra
+
+9528477602
+
+Suvan Arora
+
+9779564566
+
+Current Tech Leads
+
+Anany Rai
+
+9870401439
+
+Ashish Gautam
+
+8955774719
+
+Priyanshu
+
+7339894751
+
+Shivam Sah
+
+9315060115
+
+Vishu Khare
+
+8368600051
+
+Current Secretaries
+
+Name |
+Hall |
+Email-ID |
+GitHub |
+Instagram |
+
+Aaahana Mehrotra |
+6 |
+
+aaahanamehrotra
+
+aaahanamehrotra
+
+Aaron Dominic |
+3 |
+
+Aaron-d-k
+
+aaron_d858
+
+Aditya Gupta |
+2 |
+
+Brillanxe
+
+simplyaditya1
+
+Aditya Prakash Gupta |
+5 |
+
+Adion52330
+
+me._.apg
+
+Amogh Bansal |
+12 |
+
+Amogh-0562
+
+amogh3756
+
+Anika Prasad |
+6 |
+
+anikaprd-gif
+
+___anikaaa._
+
+Anindita Padhi |
+6 |
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+
+AninditaP
+
+abhaa0777
+
+Arnav Sharma |
+2 |
+
+redinent
+
+redinent_arnav
+
+Aryaman Das |
+2 |
+
+coffee007
+
+aryaman.d37
+
+Aryan A |
+5 |
+
+aryananiish
+
+aryananiish
+
+Deepinder Singh Dhillon |
+5 |
+
+deepinder2006
+
+deepinder._dhillon
+
+Harssh A Gupta |
+5 |
+
+harsshg31085
+
+harssh235
+
+J Aryan |
+5 |
+
+7sparky77
+
+j_aryan_9.x
+
+Krish Pandey |
+12 |
+
+Krish-Pandey2007
+
+krish_pandey_3
+
+Moksh Bhatt |
+12 |
+
+Moksh-IITK
+
+142_.moksh._219
+
+Nityam Aditya |
+2 |
+
+nityam1089
+
+nityam.aditya
+
+Prachi Jain |
+6 |
+
+niajihcarp
+
+prachiii_2403
+
+Pugazhendhi G S |
+5 |
+
+gloriaelator
+
+gloriaelator
+
+Rohan Rajeev Bharadwaj |
+5 |
+
+Rohanrbharadwaj
+
+Roshan Ram B |
+5 |
+
+rram-bot
+
+r05hanram
+
+Samiksha Giri |
+6 |
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+6 |
+
+samikshagiri25cmg
+
+sami.kshagiri
+
+Sabyasachi Choudhury |
+12 |
+
+RKResident
+
+shobo3.14
+
+Shantanu Maurya |
+5 |
+
+MShantanu110
+
+shantanumaurya30
+
+Shubh Gupta |
+5 |
+
+ShubhgIITK25
+
+Shubh__g6
+
+Shubh Sahu |
+12 |
+
+shubhsahu066
+
+shubh0_66
+
+Siddharth Muthu |
+5 |
+
+Xorz37
+
+notsiddharthmuthu
+
+Siddhesh Mande |
+5 |
+
+skm183
+
+sid.18.03
+
+Soumil Aggarwal |
+5 |
+
+Soumil5
+
+soumil_zzz
+
+Srisharan Reddy Allala |
+5 |
+
+Srisharan268
+
+srisharan_allala
+
+Suhaan Garg |
+2 |
+
+mod1e9
+
+suhaan_garg
+
+Tanish Gupta |
+12 |
+
+tanish0807
+
+tanish25_gupta
+
+Tarpan Ghosh |
+3 |
+
+tarpan01x
+
+tarpan01x
+
+Ujjwal Agarwal |
+2 |
+
+Agarwal-Ujjwal
+
+ag_ujjwal
+
+Vidhaan Agarwal |
+3 |
+
+VidhaanAgarwal
+
+agarwalvidhaan
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+
+Yash Sharma |
+2 |
+
+YashSh42
+
+yash.sharma.42
+
+2025 - 26 Coordinators
+
+Aayush Anand
+
+aayush01x
+
+Himanshu Sharma
+
+BlakkTyger
+
+Kshitij Gupta
+
+Kshitijg18
+
+Manas Jain Kuniya
+
+this-is-mjk
+
+2024 - 25 Coordinators
+
+Burhanuddin Merchant
+
+bmerchant22
+
+Divyansh Garg
+
+hash-brow
+
+Hardik Jindal
+
+hardik1408
+
+Yash Pratap Singh
+
+its-me-yps
+
+2023 - 24 Coordinators
+
+Devansh Jain
+
+devansh-jain-2002
+
+Pratham Sahu
+
+prathamsahu52
+
+Rahul Jha
+
+juggernautjha
+
+Ridin Datta
+
+rhydberg
+
+2022 - 23 Coordinators
+
+Het Patel
+
+Application Developer Internship at Oracle 2023.
+
+wiredinhp
+
+Parinay Chauhan
+
+System Engineer Internship at Quadeye 2023.
+
+parinayc20
+
+Prem Bharwani
+
+Natural Language Processing Engineer at Counsello AI 2023.
+Application Engineer Internship at Oracle 2023.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+PremBharwani
+
+Shivam Mishra
+
+Quantitative Research Consultant WorldQuant.
+Software Engineer Intern, Research Intern at Microsoft 2023.
+Developer at The Linux Foundation 2022-23.
+
+7shivamx
+
+2021 - 22 Coordinators
+
+Atharv Singh Patlan
+
+Quantitative Researcher 2023-24.
+Research Assistant NUS 2022-23.
+Intern at D.E. Shaw summer 2022, NetherMind 2022.
+
+AthaSSiN
+
+Kartikeya Gupta
+
+Graduate Mechanical Engineer at Jaguar Land Rover.
+Engineering Graduate Intern at Jaguar Land Rover 2022.
+
+kartikcode
+
+Naman Gupta
+
+Quant Strategist at Quadeye.
+Quant Research Intern in summer 2022.
+
+namangup
+
+Som Tambe
+
+MS in Industrial and Product Design at PoliMi.
+Summer of Code Intern Julia 2021.
+
+SomTambe
+
+2020 - 21 Coordinators
+
+Deepankur Kansal
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+Founder RozReturns.
+Co-Founder Azamate.
+Intern at JPMorgan 2021, WANNA 2020, PyMaths 2019.
+
+DeepankurK
+
+Nilay Majorwar
+
+Software Engineer at Quadeye 2+ years.
+Software Engineer Intern at Zomato 2021.
+Completed GSOC under GDevelop 2020.
+
+NilayMajorwar
+
+Nirmal Suthar
+
+Analyst, Trading Systems at AlphaGrep 2+years.
+Software Engineer Intern at Microsoft 2021,2022.
+Data Science Intern ShareChat 2021-22.
+
+nirmal-suthar
+
+Priydarshi Singh
+
+Software Engineer at IMC Trading.
+Software Engineer at Optiver 2022-24.
+Software Engineering Intern at Foyer 2022, Amazon 2021.
+
+dryairship
+
+2019 - 20 Coordinators
+
+Aditya Gulati
+
+Research Fellow at UCSB 2020, 2021-22.
+Security Intern at H4U 2021.
+Backend Development Intern at New York Office IITK 2018.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+ditttu
+
+Anish Saxena
+
+Research Intern at NVIDIA 2024, AMD 2023, Micron 2022.
+PhD in CS at Georgia Tech.
+HPC GPU Advocate Intern NVIDIA in summer 2021.
+Architecture Research Intern at Intel Labs in summer 2020.
+
+Anish-Saxena
+
+Kushagra Gupta
+
+Machine Learning Engineer at Cadence.
+Data Scientist Nissan 2022-23.
+Data Scientist Internship at Google in Summer 2022.
+Data Science Researcher World Bank 2021-22.
+
+kushagragpt99
+
+Yugesh Kothari
+
+Doctoral Student at EPFL, Switzerland.
+Founding Member Stealth AI. Self Employed.
+Lead Technical Consultant at PeakMind 2021-23.
+
+yugeshk
+
+2018 - 19 Coordinators
+
+Ahsan Barkati
+
+Software Engineer at Google since 2022.
+Software Engineering Consultant SigNoz in spring 2022.
+Dgraph Labs Distributed Systems Engineer for 2 years.
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+Completed GSOC in 2019 and 2020 under FreeBSD.
+
+ahsanbarkati
+
+Anant Prakash
+
+Software Engineer at Tesla.
+Research Assistant at CMU 2022-23.
+Software Engineer Intern Google in summer 2023.
+Previously worked at Rubrik, Dunzo, Tower Research, Matrix.
+
+apwhitehat
+
+Ayush Bansal
+
+Co-founder & CTO at NimbleEdge 2021-24.
+Core Developer at OpenMined 2021-22.
+Low Latency Software Developer at Tower Research 2020-21.
+
+ayush268
+
+2017 - 18 Coordinators
+
+Arjun Sinha
+
+Software Engineer at Rubrik, Inc for 5+ years.
+Interned at Tower Research summer 2018.
+ACM ICPC World Finalist.
+
+ajs97
+
+Milind Luthra
+
+Senior Software Engineer at Confluent for 2+ years.
+Member Of Technical Staff 3 at Cohesity 2021-22.
+Systems Engineer at Quadeye 2019-21.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+milindl
+
+Varun Khare
+
+Founder/CEO at NimbleEdge.
+Federated Learning Lead / Core Developer at OpenMined for 2 years.
+Research Scholar at Berkeley 2020, Max planck Institute 2019-20, NUS 2018.
+
+varunkhare1234
+
+Yash Srivastav
+
+Software Engineer at Meta for 5+ years.
+Research Intern at New York University in Summer 2018.
+Completed GSoC under Linux Foundation in 2017.
+
+yashsriv
+
+2016 - 17 Coordinators
+
+Kunal Kapila
+
+Technical Lead | Senior Software Developer
+at Tower Research Capital 5+ years.
+Interned at Tower Research in Summer 2017.
+Chairperson, Students' Senate 2017-18.
+
+kunalapila
+
+Pallav Agarwal
+
+Engineering Lead at Even Healthcare 3+ years.
+Software Engineer Google,India in 2018-21.
+Interned at Google, NYC in Summer 2017. Successfully
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Contact Us]
+completed GSoC in 2016 under the Gentoo Foundation.
+
+pallavagarwal07
+
+Saksham Sharma
+
+Director, Quantitative Research Technology
+at Tower Research Capital, NYC for 6+ years.
+Interned at Google in Summer 2017.
+Research Fellow at Max Planck Institute for Software Systems.
+
+sakshamsharma
+
+Vinayak Tantia
+
+Facebook AI Research (Reality Labs) 2018-22.
+Visiting Researcher MILA 2018.
+Software Engineer Google 2017.
+
+vtantia
+
+2026 © Programming Club | IITKDeveloped & Maintained by Programming Club IITK.
+
+=== Programming Club IIT Kanpur (Oct 11, 2026) ===
+Source: https://pclub.in/
+
+Programming Club IIT Kanpur
+
+Talk is cheap, Show us the code.
+
+31 min read
+
+Oct 11, 2026
+
+Rolling the Dice
+
+Algorithms
+
+Competitive Programming
+
+Randomized Algorithms
+
+Number Theory
+
+8 min read
+
+Aug 11, 2026
+
+Procedural Generation: Algorithms for Infinite Worlds
+
+graphics
+
+procedural-generation
+
+terrain-generation
+
+perlin-noise
+
+fractal-brownian-motion
+
+splines
+
+signed-distance-fields
+
+11 min read
+
+Jul 15, 2026
+
+Extracting AI Memories
+
+Machine Learning
+
+Offensive AI
+
+Python
+
+19 min read
+
+Jul 14, 2026
+
+Demystifying GPU Computing
+
+GPU
+
+Edge-Computing
+
+Nvidia
+
+CUDA
+
+5 min read
+
+May 17, 2026
+
+WiredIn | Our Infosec Team
+
+WiredIn Recruitment
+
+6 min read
+
+Mar 26, 2026
+
+Exploiting IITK Exam Scheduler
+
+IITK
+
+Infosec
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Programming Club IIT Kanpur (Oct 11, 2026)]
+Bug Bounty
+
+15 min read
+
+Jun 30, 2025
+
+Merkle Trees & its Application in VCS
+
+Merkle Trees
+
+git
+
+VCS
+
+Algorithms
+
+6 min read
+
+May 25, 2025
+
+Secretary Recruitment: Interviews
+
+Secretary Recruitment
+
+Load More
+
+=== Projects ===
+Source: https://pclub.in/projects
+
+Projects
+
+SpectroMorph: Advanced Audio Machine Learning
+
+Deep dive into ML with a focus on audio applications. Covers audio-specific techniques like denoising, super-resolution, and style transfer.
+
+ScyllaAgent: Scalable and Low Latency Agentic Chatbot
+
+Deploy a Scalable and Low-Latency Agentic Chatbot  in python using cutting edge techniques like Cache Augmented Retrieval. Implement a professional MLOps Pipeline to ensure visibility, scalability, low latency, logging and continuous feature integration and deployment.
+
+QubitFlow: Quantum Computing and Machine Learning
+
+Introduction to Quantum Computing and building some Quantum Machine Learning Algorithms like QNNs, Quantum Regression and Classification, QSVCs, QCNNs.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Projects]
+Lord of the Chains: Exploring Web3 and Blockchain
+
+Provides a structured introduction to Web3 focusing on blockchain. At the end, mentees will create a functional decentralized application(DApp).
+
+Game Hacking: Exploiting the Pwnie Island Game
+
+The project progresses from basics of memory exploitation to advanced kernel level anti-cheat bypasses. We will be exploiting the Pwnie Island game (a deliberately vulnerable MMORPG).
+
+Campus Compass: Navigation Application for the Campus Junta
+
+Mentees will learn the basics of software development workflow, and build a maps platform to route to the unexplored places of IITK in a fun way.
+
+Build Your Own Database (byod): Distributed SQL Database Engine in C
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Projects]
+Implementing a rudimentary database to instill the idea of the inner working of a database
+
+The Transformer Nostradamus
+
+This project seamlessly integrated theoretical and practical aspects to comprehensively explore deep learning concepts offline.
+
+Sumarizzing
+
+This project aimed to introduce 20 mentees to machine learning and explore natural language processing.
+
+Mastering Web 3.0
+
+The project aimed at introducing Web3 to the campus junta along with developing a Web3 ecosystem at IIT Kanpur.
+
+LampStack
+
+The project aimed at teaching various aspects of web development and server management.
+
+Intro to Infosec
+
+The project aimed to familiarize mentees with hacking concepts, including past vulnerabilities and exploits.
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Projects]
+AlgoArena
+
+The project was meant to introduce the mentees to the world of Competitive Programming and teach various algorithms and techniques.
+
+Antaragni-App
+
+The objective of this project was to update the android app Antaragni-App 15 making it more dynamic and user-friendly for the Antaragni-16
+
+Ethical Hacking
+
+Ethical Hacking was a project under the PClub with an aim to familiarise the campus junta with the field and to prepare for CTFs.
+
+Web Forum
+
+This project is a forum where you can Read posts, Write , Discuss , Share your views and Ask your questions.
+
+Air War Unity
+
+This is a single player air-fight based game built on Unity3D platform. The scripts were written in C# language using Microsoft Visual Studio
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Projects]
+Forex Prediction
+
+The project is designed to predict foreign exchange rates. It takes opening , maximum and minimum price as inputs
+
+WiFi Captive Portal with Dashboard
+
+The objective of the project was to create a system for authenticating users for free WiFi and a dashboard for the management of the same.
+
+Handwriting Recognition By Machine Learning
+
+This project uses Neural Network Modelling  for identification of Handwriting from Optical Images.
+
+N-Body Simulation
+
+The N-body simulation is an interesting topic in Physics, and finds applications in astrophysics, biomoecular studies
+
+Smart Mirror
+
+It displays the current weather, your schedule for the day, notifications and performs facial recognition from your mobile
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Projects]
+AR navigation
+
+Our aim was to design a navigation app which instead of showing top view of map shows directions on real time camera feed.
+
+Handwriting Recognition using Machine Learning
+
+Using neural networks and optimization the model learns the similarities of the training datasets which have a common result
+
+=== Roadmaps ===
+Source: https://pclub.in/roadmaps
+
+Roadmaps
+
+Web3 Roadmap
+
+Systems Roadmap
+
+Agentic AI and RAG Guide
+
+Reinforcement Learning Roadmap 🦝
+
+Concurrency Roadmap
+
+Graphics Roadmap
+
+Natural Language Processing Roadmap 🦝
+
+Computer Vision Roadmap 🦝
+
+Competitive Programming Roadmap
+
+App Development Roadmap
+
+Web Development Roadmap
+
+Machine Learning Roadmap
+
+Information Security Roadmap
+
+=== Archive ===
+Source: https://pclub.in/archive/
+
+Archive
+
+October 2026
+
+Rolling the Dice
+
+August 2026
+
+July 2026
+
+Extracting AI Memories
+
+July 2026
+
+Demystifying GPU Computing
+
+May 2026
+
+WiredIn | Our Infosec Team
+
+March 2026
+
+Exploiting IITK Exam Scheduler
+
+November 2025
+
+Web3 Roadmap
+
+November 2025
+
+Systems Roadmap
+
+November 2025
+
+Agentic AI and RAG Guide
+
+November 2025
+
+Reinforcement Learning Roadmap 🦝
+
+October 2025
+
+Concurrency Roadmap
+
+July 2025
+
+Graphics Roadmap
+
+June 2025
+
+Merkle Trees & its Application in VCS
+
+May 2025
+
+May 2025
+
+May 2025
+
+May 2025
+
+May 2025
+
+May 2025
+
+May 2025
+
+May 2025
+
+Secretary Recruitment: Interviews
+
+May 2025
+
+Secretary Recruitment: Preface
+
+April 2025
+
+Containerization and Scaling: From Zero to Millions (and Beyond!)
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Archive]
+February 2025
+
+Spiking Neural Networks- A new concept in Neural Networks
+
+January 2025
+
+C++ Policy Based Data Structures
+
+December 2024
+
+Technical Deep Dive into BitTorrent
+
+November 2024
+
+Winter of Code
+
+August 2024
+
+Natural Language Processing Roadmap 🦝
+
+August 2024
+
+Computer Vision Roadmap 🦝
+
+August 2024
+
+Kolmogorov–Arnold Networks
+
+July 2024
+
+Competitive Programming Roadmap
+
+July 2024
+
+App Development Roadmap
+
+June 2024
+
+Web Development Roadmap
+
+June 2024
+
+Machine Learning Roadmap
+
+June 2024
+
+Information Security Roadmap
+
+April 2024
+
+Password Cracking
+
+March 2024
+
+Linux Demystified: Strap-On! (Part 2)
+
+March 2024
+
+Codecraft at PClub
+
+November 2023
+
+The Transformer Nostradamus
+
+November 2023
+
+Sumarizzing
+
+November 2023
+
+Mastering Web 3.0
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Archive]
+November 2023
+
+LampStack
+
+November 2023
+
+Intro to Infosec
+
+November 2023
+
+AlgoArena
+
+August 2023
+
+Quantum Computing - Clutching the Game of Computational Power
+
+December 2022
+
+Domain Name System
+
+December 2021
+
+Linux Demystified
+
+December 2020
+
+Getting Started with PClub
+
+August 2020
+
+Celebrating Open Source at IITK!
+
+October 2019
+
+Travis CI
+
+October 2019
+
+Nomination Portal
+
+October 2019
+
+Music App
+
+October 2019
+
+Mess Portal
+
+October 2019
+
+Map Integration
+
+October 2019
+
+Election Portal
+
+October 2019
+
+Buy and Sell
+
+October 2019
+
+Blogs
+
+July 2019
+
+Introductory Workshop 2019
+
+May 2019
+
+Technical Blog on Generative Adverserial Networks
+
+April 2019
+
+Data Encryption Standard
+
+April 2019
+
+Variational Autoencoders
+
+August 2017
+
+Introductory Workshop 2017
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Archive]
+May 2017
+
+Summer'17 Plans and Workshops
+
+March 2017
+
+Antaragni-App
+
+March 2017
+
+I got my first PR accepted!
+
+January 2017
+
+Ethical Hacking
+
+January 2017
+
+Web Forum
+
+January 2017
+
+Install Fest: Linux Mint
+
+January 2017
+
+Install Fest: Debian
+
+January 2017
+
+Install Fest: Ubuntu
+
+January 2017
+
+Linux Install Fest
+
+January 2017
+
+Installarch
+
+January 2017
+
+Installing Ubuntu 18.04 In Latest Asus Rog PCs
+
+December 2016
+
+Air War Unity
+
+September 2016
+
+WebD: Introduction
+
+September 2016
+
+Forex Prediction
+
+September 2016
+
+WiFi Captive Portal with Dashboard
+
+September 2016
+
+August 2016
+
+Open Source Software
+
+August 2016
+
+N-Body Simulation
+
+August 2016
+
+Dynamic Programming Optimization with Convex Hull Trick
+
+August 2016
+
+Introductory Workshop 2016
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Archive]
+August 2016
+
+Summer WPC
+
+August 2016
+
+Weird Chemists
+
+August 2016
+
+Tree Tank
+
+August 2016
+
+Rendezvous
+
+August 2016
+
+Om Nom and Candies
+
+August 2016
+
+Miranda Writes
+
+August 2016
+
+Lizzy's Queries
+
+August 2016
+
+Inverted GCD
+
+August 2016
+
+Horn OK Please
+
+August 2016
+
+Find a Triangle
+
+August 2016
+
+Andrew and His Bike
+
+August 2016
+
+Alternating Sequences
+
+August 2016
+
+Monochrome Tree
+
+July 2016
+
+HTML5 Game Development
+
+July 2016
+
+Smart Mirror
+
+July 2016
+
+AR navigation
+
+June 2016
+
+Managing Processes in Linux
+
+May 2016
+
+Image Processing using OpenCV
+
+May 2016
+
+AngularJS --- Superheroic Javascript Framework
+
+May 2016
+
+Introduction to R (Part 1)
+
+May 2016
+
+Setting up a CI for pclub.in
+
+May 2016
+
+NERDCommenter
+
+May 2016
+
+Plugin Managers for Vim
+
+May 2016
+
+[Context: PROGRAMMING CLUB (PCLUB) IIT KANPUR - ABOUT, CONTACT AND INDEX PAGES > Archive]
+Contributing to pclub.in
+
+April 2016
+
+Kickstart to Vim
+
+April 2016
+
+A Coding Primer
+
+January 2016
+
+[Context: PROGRAMMING CLUB IITK - BLOG TAGS AND SITE FOOTER]
+=== Programming Club blog: 'Explore Tags' tag cloud (topics under which blog posts on pclub.in are tagged) ===
+Source: https://pclub.in/
+Algorithms Analytics BitTorrent Block Cipher Bug Bounty CTF CUDA Competitive Programming Containers Cryptography Cyber Security DES Dashboard Data Plotting Data Structures Deep Learning Docker Dynamic Programming Edge-Computing GPU Hacking Hashing Algorithms IITK InfoSec Infosec Libraries ML Machine Learning Merkle Trees Networking Neural Networks Number Theory Nvidia Offensive AI Python R Randomized Algorithms Scaling Secretary Recruitment Spikes Statistics Summers Symmetric Cipher System Design VCS WPC Web Development Wifi Portal WiredIn Recruitment agents ai android angularjs app augmented_reality bash bitcoin blockchain codecraft competitive computer vision concurrency cryptocurrency cv dev ethereum filecoin fractal-brownian-motion game dev git graphics gsoc html5 iitkpclub infosec introduction ios ip ipfs javascript language language processing lecture linux machine learning meta ml networking nlp open source opensource operating systems optimizing divergences pclub perlin-noise probabilistic machine learning probability distributions procedural-generation programming project quantum computing rag reinforcement learning rl roadmap rust signed-distance-fields splines summer16 summer23 summer25 systems terrain-generation tutorial vim vision web web development web3 webd winter winter19 winterofcode wocproject
+
+Site footer on every pclub.in page: 2026 © Programming Club | IITK. Developed & Maintained by Programming Club IITK.

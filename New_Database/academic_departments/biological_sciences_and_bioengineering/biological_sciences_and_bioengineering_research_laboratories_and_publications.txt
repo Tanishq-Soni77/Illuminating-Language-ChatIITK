@@ -1,0 +1,34 @@
+DEPARTMENT OF BIOLOGICAL SCIENCES AND BIOENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Biological Sciences and Bioengineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/bsbe. Snapshot: scraped in 2026.
+
+=== facilities ===
+Source: https://www.iitk.ac.in/bsbe/facilities
+UG/PG Teaching Labs (2900 sq ft):
+
+The department has two laboratories (total 1600 Sq ft) with necessary facilities (microscopes, centrifuges, laminar hood, incubators, geldoc system, fermentor, electrophoressis apparatus, etc) for conducting lab courses (microbiology, molecular biology, biochemistry, biochemical engineering and biomaterials) for the undergraduate students (about 100/year), and a computational facility for bioinformatics lab (920 sq ft) equipped with work stations and network access to servers. In addition, an instrumentation lab (420 sq ft) for housing equipments for the UG/PG teaching is allotted in the teaching wing.
+
+Core facilities of the Department (2600 Sq ft):
+
+[Context: DEPARTMENT OF BIOLOGICAL SCIENCES AND BIOENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, > facilities]
+Each of the three floors of the department houses two central laboratories and special facilities to house the core facilities of the department. These included the ultra centrifuges, large volume centrifuges, shaker incubators, confocal and fluorescence microscopes, geldoc systems, water purifier, autoclaves, cold rooms, deep freezers, computational servers, scanning electron microscopes, virus culture facility, HPLC, peptide synthesizer, DNA sequencer, cell sorter, fractionator, etc.
+
+X-ray crystallography facility (350 Sq ft) and Radioisotope facility (300 sq ft):
+
+The basement of the BSBE building houses these two facilities. These include the X-ray diffractor, scintillation counter, phosphoimager etc.
+
+=== mfcem central facility booking ===
+Source: https://www.iitk.ac.in/bsbe/mfcem-central-facility-booking
+Intranet Access: 172.31.55.186/mfcem
+
+Internet Access: 172.31.55.186/mfcem
+
+=== research ===
+Source: https://www.iitk.ac.in/bsbe/research
+Since the birth of the department in 2001 the department has put in efforts to address key questions in most of the fields of modern biology. It has labs working dedicatedly in all these fields namely; Bioinformatics, Biomaterials, Cancer Biology, Cell Biology, Developmental Biology, Gene therapy, Molecular genetics, Metabolic Disorders, Microbiology, Structural Biology, Neuroscience, Neurophysiology, Neuroengineering and Tissue Engineering,’. Please visit the lab page of individual faculty members to know details in each of these research areas.
+
+Furthermore, the department has a strong industry-academia relation with multiple start-up as well as established companies which bring about specific expertise and exposure for the labs and the students.
+
+[Context: DEPARTMENT OF BIOLOGICAL SCIENCES AND BIOENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, > research]
+The establishment of Gangwal School of Medical Sciences and Technology will exponentially increase clinically oriented research in the department with strong collaborations with clinicians housed in there.
+

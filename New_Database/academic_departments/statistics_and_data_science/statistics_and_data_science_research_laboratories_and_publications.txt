@@ -1,0 +1,245 @@
+DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Statistics and Data Science, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/sds. Snapshot: scraped in 2026.
+
+=== advisory group ===
+Source: https://www.iitk.ac.in/sds/advisory-group
+Prof. Vivek Borkar
+
+IIT Bombay
+
+Prof. N Balakrishnan
+
+McMaster University
+
+Prof. Probal Chaudhuri
+
+ISI Kolkata
+
+Dr. Shantanu Godbole
+
+IBM Research
+
+Dr. Prateek Jain
+
+Google DeepMind India
+
+Prof. Bhramar Mukherjee
+
+Yale University
+
+Prof. Aaditya Ramdas
+
+Stanford University
+
+Prof. Bharath Sriperumbudur
+
+The Pennsylvania State University
+
+Prof. Ambuj Tewari
+
+University of Michigan
+
+=== research ===
+Source: https://www.iitk.ac.in/sds/research
+Probability and Stochastic Processes
+
+Statistical Modelling and Inference
+
+Applied Statistics and Data Science
+
+Machine Learning and Computational Statistics
+
+Game Theory and Game-Theoretic Statistics
+
+Research in Game Theory focuses on the mathematical modelling and analysis of strategic interactions among competing and cooperative agents. The area encompasses mechanism design, social and choice theory, matching theory, combinatorial games, fair division, and game-theoretic models of probability, providing rigorous frameworks for studying strategic decision-making. These models find applications in auctions, bargaining, voting, queuing, and resource allocation. Research in this area draws on techniques from combinatorics, graph theory, probability, mathematical analysis, and algebra.
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+A growing research direction is Game-Theoretic Statistics, which replaces classical p-values with e-values (or betting scores). By formulating statistical inference as a game between a Skeptic and a Forecaster, this framework enables safe, anytime-valid inference, allowing continuous data monitoring and optional stopping while preserving statistical validity. By integrating martingale methods and game-theoretic probability with statistical decision theory, it provides a unified perspective connecting Bayesian, frequentist, and adversarial approaches to statistical inference.
+
+Faculty: Soumyarup Sadhukhan
+
+Rates of Convergence of Markov Chain Monte Carlo Algorithms
+
+A fundamental area of research in Markov chain Monte Carlo (MCMC) is the study of how quickly sampling algorithms converge to their target distributions and how this affects the accuracy of statistical inference. This area seeks to develop theoretical guarantees on convergence and sampling efficiency while identifying the factors that influence algorithmic performance. Such analyses provide the foundation for designing faster, more reliable Monte Carlo methods that are applicable to increasingly complex statistical and machine learning problems.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Dootika Vats
+
+Stochastic Partial Differential Equations
+
+The study of Stochastic calculus, more specifically, that of stochastic differential equations and stochastic partial differential equations, has a broad range of applications across various disciplines or branches of Mathematics, such as Partial Differential Equations, Evolution systems, Interacting particle systems, Finance, Mathematical Biology. Theoretical understanding for such equations was first obtained in finite dimensional Euclidean spaces. Later on, to describe various natural phenomena, models were constructed (and analyzed) with values in Banach spaces, Hilbert spaces and in the duals of nuclear spaces. Important topics/questions in this area of research include existence and uniqueness of solutions, Stability, Stationarity, Stochastic flows, Stochastic Filtering theory and Stochastic Control Theory, to name a few.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Suprio Bhar
+
+Stochastic Orders and Reliability Theory
+
+The theory of stochastic orders provides a powerful mathematical framework for comparing random variables and stochastic systems and has important applications in reliability engineering, survival analysis, operations research, and risk assessment.
+
+Research in this area has focused on the application of stochastic ordering techniques to problems involving coherent systems, optimal redundancy allocation, and stochastic comparisons of system lifetimes. These studies establish theoretical foundations for comparing alternative system configurations and identifying allocation strategies that optimize system reliability. The theory has also been employed to investigate probabilistic properties of lifetime distributions and survival models, leading to mathematically rigorous methodologies for analysing complex stochastic systems encountered in engineering and applied sciences.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Neeraj Misra
+
+Adaptive Statistical Methods for Clinical Trials
+
+Adaptive clinical trial designs have emerged as a powerful alternative to conventional fixed designs by allowing pre-planned modifications to ongoing trials based on accumulating data without compromising their validity or integrity. Such designs improve the efficiency of drug development by reducing study duration, optimizing resource utilization, and minimizing patient exposure to ineffective or unsafe treatments.
+
+Research in this area focuses on the development of statistical methodology for adaptive treatment selection, particularly in seamless Phase II/III clinical trials based on Drop-the-Loser (DLD) designs. A central challenge in these studies is that treatment selection introduces additional stochastic dependence, making conventional inferential procedures inappropriate. Current research is directed towards developing statistically efficient estimation procedures that explicitly account for the adaptive selection mechanism while possessing desirable properties such as unbiasedness, consistency, and minimum risk. Ongoing work also addresses methodological issues arising in more general adaptive designs involving multiple competing treatments and complex response structures.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Neeraj Misra
+
+Entropy-Based Statistical Inference
+
+Entropy provides a fundamental measure of uncertainty and information and has wide-ranging applications in statistics, molecular sciences, computational biology, and information theory. Estimation of entropy plays an important role in understanding molecular conformations, protein folding, intermolecular interactions, and other biological processes.
+
+Research in this area has focused on developing statistically efficient methods for entropy estimation under both parametric and nonparametric settings. Improved estimators have been developed for multivariate normal models with enhanced statistical efficiency over conventional likelihood-based methods. To overcome the limitations of normality assumptions in molecular modelling, nonparametric methodologies have also been developed that provide greater flexibility for analysing complex molecular systems. The work further extends to entropy-based hypothesis testing, demonstrating how information-theoretic measures can be effectively employed for developing powerful nonparametric inferential procedures.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Neeraj Misra
+
+Infinite-dimensional Data Analysis
+
+Infinite-dimensional data analysis (IDA) focuses on statistical methods and algorithms for analyzing data whose observations are mathematical objects, such as continuous functions, curves, surfaces, images, or shapes. Unlike traditional multivariate data analysis, where each observation is represented by a finite-dimensional vector of numbers, infinite-dimensional data analysis treats each observation as an entire function or trajectory defined over a continuous domain, such as time, space, wavelength, or frequency. This perspective enables the analysis of the intrinsic geometric and functional characteristics of the data, rather than relying solely on a finite set of discrete measurements.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Infinite-dimensional analysis requires shifting from classical linear algebra to functional analysis in Hilbert and Banach spaces. For example, the functional data can be represented as a function over a time parameter. Strictly speaking, the observations are generally assumed to be realizations of an underlying smooth stochastic process. Besides, the sequence data and the image data are also infinite dimensional data.
+
+Some core methodological developments of Infinite-dimensional data are functional regression (e.g., scalar-on-functional regression, function-on-function regression etc), Basis expansions (e.g., Splines, Fourier series, and wavelets) and dimension reduction (e.g., using Kosambi–Karhunen–Loève type approach). Overall, infinite-dimensional data analysis is particularly useful for analyzing functional and high-dimensional data, where traditional statistical techniques often become inadequate or fail to provide reliable inference.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Subhra Sankar Dhar, Suprio Bhar
+
+Linear Models
+
+The theory of linear models plays an important role in establishing the mathematical and statistical foundations for regression and econometric modelling. Estimating the parameters of any model, selecting the appropriate estimation method to produce results close to the true values, and evaluating the statistical properties of the estimators are areas that support regression and econometric modelling by providing the mathematical justification, which is the task covered under the purview of the area of linear models.
+
+Faculty: Shalabh
+
+Sampling Theory and Its Application
+
+Sampling theory lays the foundation for any statistical analysis. The area of sampling theory faces challenges in both theory and practice. Applications usually do not depend on a single sampling scheme but rather on a combination of several schemes. Developing estimators in such situations and modifying them under nonstandard statistical conditions is an area of interest. For example, how to handle the sampling scheme and parameter estimation when the observations are not directly observed but are contaminated with measurement errors. Determining the finite-sample properties of estimators and their standard errors is another challenge in sampling theory. How the traditional sampling theory can be translated to other areas of statistics, e.g., regression models, is another area of interest.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Shalabh
+
+Statistical Inference under Order Restrictions
+
+Prior structural information is frequently available in statistical problems in the form of order or inequality constraints on model parameters. Incorporating such information into statistical inference can substantially improve estimation efficiency while preserving desirable theoretical properties.
+
+Research in this area focuses on estimation under restricted parameter spaces for a variety of probability models. Methodological developments have led to improved estimators that effectively utilize the available order information and outperform conventional unrestricted procedures. Particular emphasis has been placed on establishing theoretical properties of the proposed estimators within the framework of statistical decision theory, including admissibility, minimaxity, and risk performance. These studies contribute to the broader theory of constrained statistical inference and demonstrate how prior structural information can be systematically incorporated into optimal estimation procedures.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Neeraj Misra, Subhra Sankar Dhar
+
+Non-Parametric and Robust Statistical Methods
+
+Detection of different features (in terms of shape) of non-parametric regression functions are studied; asymptotic distributions of the proposed estimators (along with their robustness properties) of the shape-restricted regression function are also investigated. Apart from this, work on the test of independence for more than two random variables is pursued. Statistical Signal Processing and Statistical Pattern Recognition are the other areas of interest.
+
+Faculty: Subhra Sankar Dhar
+
+Optimal Experimental Design
+
+The area of optimal experimental design has long been an integral part of scientific investigations across agriculture, biology, medicine, the physical and chemical sciences, clinical trials, and industrial research. A well designed experiment makes optimal use of limited resources, such as cost, time, and experimental units, to answer the underlying scientific question with maximum efficiency and precision.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Current research in experimental design encompasses a broad range of modern study designs, including multiple treatment comparisons, crossover trials, longitudinal studies, cluster randomized trials, stepped wedge trials, and staircase trials. Another important area of research is the development of optimal designs under order restricted settings. In addition, optimal design methodologies for spatial data and spatially correlated experiments continue to be an active area of investigation.
+
+Faculty: Satya Prakash Singh
+
+Ranking and Selection, Post-Selection Inference, and Multiple Comparisons
+
+Many scientific investigations require the identification and comparison of the best, worst, or otherwise optimal populations from several competing alternatives. Such problems arise naturally in clinical studies, industrial experimentation, quality improvement, agricultural research, and comparative performance evaluation.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Research in this area is based on the principles of statistical decision theory and focuses on the development of optimal procedures for ranking and selection, estimation following selection, and simultaneous multiple comparisons. Methodological contributions include decision-theoretic procedures for simultaneous selection of the best and/or worst populations, estimation of parameters associated with selected populations, and inference for ordered parameters when the ordering is unknown a priori. General methodologies have also been developed for simultaneous comparisons with both the best and the worst populations, extending the scope of classical multiple comparison procedures. Collectively, these investigations contribute to the broader theory of post-selection statistical inference by explicitly incorporating the randomness introduced through the selection process.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Neeraj Misra
+
+Regression Modelling
+
+The outcome of any experiment depends on several variables, and such dependence involves some randomness which can be characterised by a statistical model. Statistical tools in regression analysis help determine such relationships based on sample experimental data. This helps further describe the behaviour of the process involved in the experiment. Regression analysis tools can be applied across the social sciences, basic sciences, engineering sciences, and medical sciences, among others. The relationship among the variables can be linear or nonlinear, to be determined solely from a sample of experimental data. Regression analysis tools help determine such relationships under standard statistical assumptions. In many experimental situations, the data do not satisfy the standard assumptions of statistical tools, e.g., multicollinearity, heteroskedasticity, autocorrelation, missing data, measurement errors, constraints on model parameters, etc.  So the need arises to develop new statistical tools for detecting problems, analysing non-standard data using different models, and identifying relationships among variables under non-standard statistical conditions. The development of such tools and the study of their theoretical statistical properties, using finite-sample and asymptotic theory, supplemented by numerical studies based on simulation and real data, are the objectives of the research in this area.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Shalabh
+
+Robust Estimation in Nonlinear Models
+
+Efficient estimation of parameters of nonlinear regression models is a fundamental problem in applied statistics. Isolated large values in the random noise associated with model, which is referred to as an outliers or an atypical observation, while of interest, should ideally not influence estimation of the regular pattern exhibited by the model and the statistical method of estimation should be robust against outliers. The nonlinear least squares estimators are sensitive to presence of outliers in the data and other departures from the underlying distributional assumptions. The natural choice of estimation technique in such a scenario is the robust M-estimation approach. Study of the asymptotic theoretical properties of M-estimators under different possibilities of the M-estimation function and noise distribution assumptions is an interesting problem. It is further observed that a number of important nonlinear models used to model real life phenomena have a nested superimposed structure. It is thus desirable also to have robust order estimation techniques and study the corresponding theoretical asymptotic properties. Theoretical asymptotic properties of robust model selection techniques for linear regression models are well established in the literature, it is an important and challenging problem to design robust order estimation techniques for nonlinear nested models and establish their asymptotic optimality properties. Furthermore, study of the asymptotic properties of robust M-estimators as the number of nested superimposing terms increase is also an important problem. Huber and Portnoy established asymptotic behavior of the M-estimators when the number of components in a linear regression model is large and established conditions under which consistency and asymptotic normality results are valid. It is possible to derive conditions under which similar results hold for different nested nonlinear models.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Debasis Kundu, Amit Mitra
+
+Step-Stress Modelling
+
+Traditionally, life-data analysis involves analysing the time-to-failure data obtained under normal operating conditions. However, such data are difficult to obtain due to long durability of modern days products, lack of time-gap in designing, manufacturing and actually releasing such products in market, etc. Given these difficulties as well as the ever-increasing need to observe failures of products to better understand their failure modes and their life characteristics in today’s competitive scenario, attempts have been made to devise methods to force these products to fail more quickly than they would under normal use conditions. Various methods have been developed to study this type of “accelerated life testing” (ALT) models. Step-stress modelling is a special case of ALT, where one or more stress factors are applied in a life-testing experiment, which are changed according to pre-decided design. The failure data observed as order statistics are used to estimate parameters of the distribution of failure times under normal operating conditions. The process requires a model relating the level of stress and the parameters of the failure distribution at that stress level. The difficulty level of estimation procedure depends on several factors like, the lifetime distribution and number of parameters thereof, the uncensored or various censoring (Type I, Type II, Hybrid, Progressive, etc.) schemes adopted, the application of non-Bayesian or Bayesian estimation procedures, etc.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Debasis Kundu, Sharmishtha Mitra
+
+Topological Data Analysis
+
+Topological Data Analysis (TDA) is an emerging field in data science and mathematics that uses techniques from algebraic topology to uncover the underlying "shape" of complex datasets. In TDA, datasets are viewed as a collection of discrete points sitting in a high-dimensional space. To find shapes, TDA connects data points that are close to one another. By growing multi-dimensional "bubbles" (spheres) around each point, it builds geometric structures like lines (edges), triangles, and tetrahedrons. For instance, the betti numbers are algebraic signatures used to count the number of topological holes in the shape.
+
+In analysing the shape of the data, persistent homology (subsequently, persistent diagrams and persistent barcodes) and the mapper algorithm are two well-known toolkits used in TDA. Overall, the techniques in TDA are useful in reducing the signal to noise ratio in sparse data and dimension reduction as well. Finally, it has numerous applications in various disciplines in sciences.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Subhra Sankar Dhar
+
+Econometric Modelling
+
+Econometric modelling involves the analytical study of complex economic phenomena with the help of sophisticated mathematical and statistical tools. The size of a model typically varies with the number of relationships and variables it replicates and simulates at the regional, national, or international level in an economic system. On the other hand, the methodologies and techniques address the issues of its basic purpose – understanding the relationship, forecasting the future, and/or building “what-if” scenarios. Econometric modelling techniques are not confined to macroeconomic theory; they are also widely applied in microeconomics, finance, and other basic and social sciences. The successful estimation and validation of the model rely heavily on a proper understanding of the asymptotic theory of statistical inference. Different types of econometric models, such as multiple regression models, restricted regression models, missing-data models, panel-data models, time-series models, measurement-error models, simultaneous-equation models, seemingly unrelated regression equation models, etc., are employed in such situations.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Shalabh, Sharmishtha Mitra, Subhra Sankar Dhar
+
+Environmental Statistics
+
+The main goal of environmental statistics is to build sophisticated modelling techniques that are necessary for analysing temperature, precipitation, ozone concentration in air, salinity in seawater, fire weather index, etc. There are multiple sources of such observations, like weather stations, satellites, ships, and buoys, as well as climate models. While station-based data are generally available for long time periods, the geographical coverage of such stations is mostly sparse. On the other hand, satellite-derived data are available only for the last few decades, but they are generally of much higher spatial resolution. While the current statistical literature has already explored various techniques for station-based data, methods available for modelling high-resolution satellite-based datasets are relatively scarce and there is ample opportunity for building statistical methods to handle such datasets. Here, the data are not only huge in volume, but they are also spatially dependent. Modelling such complex dependencies is challenging also due to the high nonstationary often present in the data. The sophisticated methods also need suitable computational tools and thus provide scopes for novel research directions in computational statistics. Apart from real datasets, statistical modelling of climate model outputs is a new area of research, particularly keeping in mind the issue of climate change. Under different representative concentration pathways (RCPs) of the Intergovernmental Panel for Climate Change (IPCC), different carbon emission scenarios are studied.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Arnab Hazra
+
+Spatial Statistics
+
+The branch of statistics that focuses on the methods for analysing data observed across some spatial locations in 2-D or 3-D (most common), is called spatial statistics. The spatial datasets can be broadly divided into three types: point-referenced data, areal data, and point patterns. Temperature data collected by a few monitoring stations spread across a city on some specific day is an example of the first type. When data are obtained as summaries of some geographical regions, they are of the second type, crime rate dataset from the different states of India on a specific year is an example. An example of the third type is the IED attack locations in Afghanistan during a year, where the geographical coordinates are themselves the data. Because of the natural dependence among the observations obtained from two close locations, the data cannot be assumed to be independent. When the study domain is large, often we have a large number of observational sites and at the same time, those sites are possibly distributed across a nonhomogeneous area. This leads to the necessity of models that can handle a large number of sites as well as the nonstationary dependence structure and this is a very active area of research. Apart from common geostatistical models, a very active area of research is focused on spatial extreme value theory where max-stable stochastic processes are the natural models to explain the tail-dependence. While the available methods for such spatial extremes are highly scarce, specifically for moderately high-dimensional problems, different future research directions are being explored currently in the literature. For better uncertainty quantification and computational flexibility using hierarchically defined models, the Bayesian paradigm is often a natural choice.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Arnab Hazra
+
+Statistical Signal Processing
+
+Signal processing may broadly be considered to involve the recovery of information from physical observations. The received signals are usually disturbed by thermal, electrical, atmospheric or intentional interferences. Due to the random nature of the signal, statistical techniques play an important role in signal processing. Statistics is used in the formulation of appropriate models to describe the behaviour of the system, the development of appropriate techniques for estimation of model parameters, and the assessment of model performances. Statistical Signal Processing basically refers to the analysis of random signals using appropriate statistical techniques. Different one and multidimensional models have been used in analyzing various one and multidimensional signals. For example ECG and EEG signals, or different grey and white or colour textures can be modelled quite effectively, using different non-linear models. Effective modelling are very important for compression as well as for prediction purposes. The important issues are to develop efficient estimation procedures and to study their properties. Due to non-linearity, finite sample properties of the estimators cannot be derived; most of the results are asymptotic in nature. Extensive Monte Carlo simulations are generally used to study the finite sample behaviour of the different estimators.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Debasis Kundu, Amit Mitra, Subhra Sankar Dhar
+
+Data Driven Modelling: Data Science
+
+In many real-life situations, it is difficult to obtain data on the input variables that affect the outcome, as in regression analysis. The data is available only on the output variables. It then becomes imperative to analyse the data on the output variable and understand the process's behaviour as depicted by the random variable. Choosing the relevant variable, determining its distribution, deciding which statistical methods to utilise to obtain the relevant information, forecasting the behaviour of the process, etc., are some of the challenges in data-driven statistical modelling in data science.
+
+Faculty: Shalabh, Subhra Sankar Dhar
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Data Mining in Finance
+
+Economic globalization and evolution of information technology has in recent times accounted for huge volume of financial data being generated and accumulated at an unprecedented pace. Effective and efficient utilization of massive amount of financial data using automated data driven analysis and modelling to help in strategic planning, investment, risk management and other decision-making goals is of critical importance. Data mining techniques have been used to extract hidden patterns and predict future trends and behaviours in financial markets. Data mining is an interdisciplinary field bringing together techniques from machine learning, pattern recognition, statistics, databases and visualization to address the issue of information extraction from such large databases. Advanced statistical, mathematical and artificial intelligence techniques are typically required for mining such data, especially the high frequency financial data. Solving complex financial problems using wavelets, neural networks, genetic algorithms and statistical computational techniques is thus an active area of research for researchers and practitioners.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Amit Mitra, Sharmishtha Mitra
+
+Inference for Stochastic Optimization Schemes
+
+Modern machine learning algorithms rely on stochastic optimization schemes like stochastic gradient descent (SGD) for prediction. Due to the nature of the method, uncertainty quantification in both estimators and predictions is challenging and is critically dependent on the learning rate schedule employed. We focus on quantifying variability of SGD estimators and assess downhill uncertainty quantification in predictions. Critical issues arise when applying methods to scale to high-dimensional and online data.
+
+Faculty: Dootika Vats
+
+Efficient and Reliable Markov Chain Monte Carlo
+
+Markov chain Monte Carlo (MCMC) algorithms produce correlated samples from a desired target distribution, using an ergodic Markov chain. Due to the lack of independence of the samples, and the challenges of working with Markov chains, many theoretical and practical questions arise. Much of the research by the group can be summarized into two broad areas: (1) development of efficient new sampling algorithms for complicated and possibly non-smooth target distributions and (2) measuring the quality of MCMC samples in an effort to quantify the variability in the final estimators of the features of the target.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES > research]
+Faculty: Dootika Vats
+

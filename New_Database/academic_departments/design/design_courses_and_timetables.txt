@@ -1,0 +1,178 @@
+DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Design, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/design. Snapshot: scraped in 2026.
+
+=== courses offered ===
+Source: https://www.iitk.ac.in/design/courses-offered.php
+
+×
+
+DES601: Design Theory
+
+Examines the principal philosophies behind art and design movements, changing ideas of beauty and aesthetics, and the basic grammar of visual communication, the elements and principles of design. Through a simultaneous act of looking, thinking and doing (including drawing, rendering and printmaking), students sharpen rational thinking and develop the vocabulary to analyse form, function, style and the cultural contexts that shape design practice.
+
+Communication Design
+
+DES630: Fundamentals of Graphics
+
+A studio-driven introduction to graphic sensibility: visual style, colour combination, quality of line and visual perception. Students take on poster, brochure, advertisement and package design, learn to translate ideas into images and icons, and build an analytical understanding of art and design movements, design appreciation and criticism.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Fundamentals
+Communication Design
+
+DES634: Electronics for Designers
+
+A practice-based introduction to the electronics fundamentals designers need to prototype their ideas, and to judge a product's feasibility while it is still being conceived. Participants build a product from scratch across electronics, mechanics, and software, working hands-on with Arduino, Raspberry Pi, and NodeMCU, and covering sensors, signals, systems, data processing and inference, PCB design, and rapid prototyping. Open to students from engineering and non-engineering backgrounds alike. The course ends with a self-designed prototype; the winning team gets to work with state-of-the-art eye-gaze, hand-movement, and full-body motion trackers.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Product Design
+
+DES635: Methods in Design Research
+
+Introduces qualitative and quantitative methods of design research, from interviews, observation and ethnographic inquiry to surveys, experiments and statistical analysis, equipping students to plan studies, gather and interpret data, and ground design decisions in evidence.
+
+Fundamentals
+
+DES638: Human Machine Interaction
+
+A hands-on course exploring how humans and machines interact through eye tracking, gesture, haptics, XR, sound, and AI-assisted tools. Students prototype and evaluate their own interaction systems, from assistive interfaces to artistic installations, and exhibit them at HMI Horizon, a public showcase. (https://www.youtube.com/watch?v=iyxEQMl1qRI)
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Interaction Design
+Experience Design
+
+DES640: Interaction Design in Complex Systems
+
+The course introduces students to Interaction design in complex systems.The course covers design processes such as ecological interface design, situation awareness, analysis processes related to task analysis, cognitive work analysis, cognitive human factors, cognitive basis of human factors related design, evaluation methods, along with foundations of interaction design in complex systems. This course lies at the intersection of cognitive human factors, interaction design and design theory for human machine interaction/ human automation interaction in complex systems. Examples include defence, cybersecurity, finance, amongst others.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Interaction Design
+Human Factors
+
+DES644: Entrepreneurship for Designers
+
+Equips students to transform creative ideas into viable, sustainable ventures, bridging design thinking and business strategy. Students work with tools such as the Business Model Canvas and Value Proposition Canvas, apply Lean Startup methodology to build and validate MVPs, and learn branding, storytelling and pitching to potential stakeholders.
+
+Entrepreneurship
+
+DES645: Human Centred Design for Systems, Strategies, Services, and Speculations
+
+The course will address the human-centered design of systems, services, strategies, and speculations as an interwoven and interdisciplinary approach. The current course is primarily a design course which is builds on human-centered design theory, systems thinking, and futures thinking. This course is meant to be a survey course of these areas: Systems-Oriented Design, Service Design, Strategic Design, and Speculative Design. While the traditional avenues of design have focused on products, interaction, and media, there is an increasing need for design to move beyond this boundary in the realm of complex systems and services. Here, design is not a part of creating tools to satisfy needs and desires; it is about envisioning and providing alternatives for living. This design dimension is sorely needed due to the ongoing transformations that will affect most of humanity. How will the next generation of Indians bring about a better future? What will the role of human-centered design principles be in a sustainable future? What are alternatives when human-centered design plays a leading role?
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Systems Design
+Service Design
+Speculative Design
+Strategic Design
+
+DES648: Music Technology: Sound Design & Musical Interfaces
+
+"An interdisciplinary, studio-based course exploring psychoacoustics, sound design, and music performance through design and technology. Students learn UX sound, film sound, and AI-assisted music production, build interactive systems using MIDI/OSC/Max MSP/Arduino, and design new musical interfaces. The course culminates in a public performance showcasing original works.
+
+Past works video: https://www.youtube.com/watch?v=QGf6TXCTHuU
+
+Sound Design
+Experience Design
+
+DES649: Computer Aided Design and Prototyping
+
+Develops the ability to translate creative ideas into precise digital representations and tangible prototypes. Students gain practical experience in 2D drafting, 3D modelling and assembly design, rendering and visualisation, and digital fabrication, 3D printing, laser cutting and CNC machining, along with simulation-driven design optimisation, culminating in a CAD-to-prototype project.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Product Design
+
+DES651M: Sustainable Agrotechnologies for Designers
+
+Sustainable technologies for agriculture require translating context-specific solutions designed with local communities to revolutionize food production, water conservation, and soil regeneration. This course introduces students to futuristic agrotechnologies, from precision nutrient delivery and hydroponic modules to bioreactor meat and synthetic soils. This will equip design students with the know-how to design agroecosystem- centric, resilient, and scalable solutions by balancing ecology, economics, and global trade demands to address nutritional security.
+
+Agro-Eco Design
+
+DES652M: Nature-Inspired Design
+
+The course ‘Nature- Inspired Design’ attempts to immerse students in the wondrous world of the oldest designer, ‘Nature.’ The intent is to cultivate a holistic design process that incorporates the basic elements of nature’s design process, embedded with multifunctionality, sustainability, and recyclability.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Agro-Eco Design
+
+DES653: Design for Life
+
+Communication in nature is a complex interplay of engaging various sensory modalities that have evolved over billions of years. Through case studies of olfactory, auditory, visual, electromagnetic, tactile and multimodal communication in plants and animals, from pheromones and the honeybee waggle dance to bioluminescence and echolocation, students explore design directions for products and services that offer an overall immersive experience through cohesive integration of these multiple modalities.
+
+Agro-Eco Design
+
+DES654: Physical Ergonomics in Product and Facility Design
+
+An essential skillset for user-centred design: foundational knowledge of ergonomics, anthropometry, biomechanics, postural risk assessment, and environmental stressors such as noise, vibration, thermal comfort and illumination. Emphasises experiential learning through structured fieldwork, user research and workshop-based prototyping.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Product Design
+
+DES655: Typography
+
+Typography is the art and technique of arranging type for effective communication. Through lectures and studio practice, students study letterform anatomy, type classification (Latin and non-Latin), the history of type and printing technologies, and principles of typographic design applied to posters, signage, books and motion graphics across print and digital media.
+
+Fundamentals
+Communication Design
+
+DES656: Cognitive Ergonomics in Hybrid Physical-Digital Interfaces
+
+Equips designers to create usable, safe, and cognitively appropriate interfaces - crucial for product interface design.
+
+Product Design
+
+DES657: Metaphor as Design Method: Culture, Cognition and Practice
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Presents metaphor as a practical design tool for understanding and shaping meaning in everyday artefacts and systems. Through observation, guided interpretation, and studio-based exploration, students learn to approach design as a process of meaning-making rather than just form creation. Emphasising how embodied experience and cultural patterns influence interpretation across interaction, product and communication design, students first respond to a design problem intuitively, then revisit it through structured metaphorical reasoning.
+
+Communication Design
+
+DES658: Cognitive Human Factors and Applied Psychology for Designers
+
+The aim of this course is to provide a comprehensive foundation in cognitive human factors and applied psychology for designers, enabling them to understand the scientific basis of human behavior and use these principles to design. The course will introduce the principles of human behavior and its applicability in design problems.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Fundamentals
+Interaction Design
+Communication Design
+Human Factors
+
+DES661: Product Aesthetics
+
+Introduces product aesthetics as a fundamental aspect of how we perceive, select, use, and develop emotional connections with products. Through hands-on exercises, students develop the ability to manipulate aesthetic elements and principles to evoke intended meanings. Starting with freehand sketching, students learn to develop product Form and Colour-Material-Finish (CMF) through mood boarding, sketching, CAD modelling, and physical model making.
+
+Product Design
+
+DES663: Design of Agricultural Farms and Cropping Systems
+
+The agricultural farm is the basic unit of food production, shaped by natural, economic, social and technological factors. Provides a comprehensive, systems-level understanding of farm design and cropping patterns, farm layout, labour, records, farming systems and their economics, training students to design farms as regenerative food-production entities.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Agro-Eco Design
+
+DES665: Design Project 1 – Product Design
+
+An introduction to product (industrial) design as a profession, its history, universal principles and typical process. Students learn to visualise and detail concepts using CAD, then execute a full design project spanning research, design brief formulation, ideation, concept development, prototyping, user testing and documentation.
+
+Product Design
+
+DES666: Fundamentals of Interaction Design
+
+A foundational course on the design of interactive systems: core concepts, interaction models and paradigms, contemporary trends across unimodal and multimodal interfaces, the interaction design process (including the PACT framework), and formative and summative evaluation, equipping early-stage designers to imagine and assess new interactions across distinct contexts.
+
+[Context: DEPARTMENT OF DESIGN IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > courses offered]
+Fundamentals
+Interaction Design
+
+605H, Department of Design
+
+Diamond Jubilee Academic Complex, IIT Kanpur
+
+Kalyanpur, Uttar Pradesh, India - 208016
+
++91-512-2597509
+
+head_des@iitk.ac.in
+©Copyright IIT Kanpur All Rights Reserved. Designed by Aditi Sharma, Vivek Kant, DoD IITK. Developed and Maintained by Institute Webteam.
+

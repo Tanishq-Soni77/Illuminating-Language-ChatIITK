@@ -1,0 +1,41 @@
+NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Nuclear Engineering and Technology (NET) programme, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/net. Snapshot: scraped in 2026.
+
+=== courses ===
+Source: https://www.iitk.ac.in/net/courses
+The course work consists of a set of required courses covering the basic concepts of nuclear science and engineering, experimental techniques and a set of electives that may be taken from within or outside of the Programme. Some of the courses are listed below
+
+NT 612 Reactor Physics
+
+NT 602 Nuclear and Reactor Physics
+
+NT 611 Nuclear Power Engineering I
+
+NT 614 Nuclear Power Engineering II
+
+NT 615 Nuclear Power Engineering III
+
+NT 621 Nuclear Measurements Laboratory
+
+NT 631 Neutron Transport Theory
+
+NT 632 Radioisotope Application in Engineering
+
+NT 633 Nuclear Fusion
+
+NT 634 Nuclear Reaction and Interaction of Radiation with Matter
+
+NT 641 Introduction to Computerized Tomography
+
+[Context: NUCLEAR ENGINEERING AND TECHNOLOGY (NET) PROGRAMME IIT KANPUR - COURSES, CURRICULA AND TIMETABL > courses]
+NT 642 Nondestructive Evaluation
+
+NT 651 Fast Reactor Technology
+
+NT 652 Nuclear Fuel Cycle (Contents)
+
+NT 661 Nuclear Reactor Safety
+
+ME 681 Mathematical Methods in Engineering
+

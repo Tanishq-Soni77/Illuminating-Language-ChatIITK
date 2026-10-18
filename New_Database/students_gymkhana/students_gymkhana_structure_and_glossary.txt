@@ -1,0 +1,65 @@
+STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES
+Purpose of this file: to state clearly WHAT KIND OF THING each name is (council, cell, club, institute team, festival, inter-hall event, inter-IIT event, institute office), so that events are never mistaken for clubs and similar-sounding names are not mixed up.
+Based on: the Students' Gymkhana website text (2021 snapshot), the Media and Cultural Council page, the Academics and Career Council page, student articles on "That's IITK" (Quora), the Alumni Affairs "Grapevine" newsletters and VOX articles. Details of office-bearers change every year; names of office-bearers in the source snapshots are not current.
+
+[Students' Gymkhana glossary]
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+1. WHAT THE STUDENTS' GYMKHANA IS
+The Students' Gymkhana is the students' government organization of IIT Kanpur, established in 1962. It works through the Students' Senate (an elected representative body) and five elected executives: the President, the General Secretary (UG/PG) Academics and Career, the General Secretary Games and Sports, the General Secretary Media and Cultural, and the General Secretary Science and Technology. It is a student body, not an academic department and not an institute office.
+
+[Students' Gymkhana glossary]
+2. THE FOUR COUNCILS (each council contains Clubs, Hobby Groups and Institute Teams)
+- Academics and Career Council (AnC / ANC): academics, research, international relations and career development of students. Wings: UG/PG Academics, Research, International Relations, Career Development.
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+- Games and Sports Council (GnS): voice of the IITK sports community; manages all sporting events on campus and the institute sports teams (together with the faculty Sports and Physical Education Committee, SPEC).
+- Media and Cultural Council (MnC): cultural activities all year; contains 15 clubs/societies (Anime Society, Book Club, Dance Club, Debating Society, Design and Animation Club, Dramatics Club, English Literary Society, Fine Arts Club, Film Club, Hindi Sahitya Sabha, Humour House, Music Club, Photography Club, Quiz Club, Student Film Society).
+- Science and Technology Council (SnT): community of science and technology enthusiasts; recognizes the science-and-technology institute teams and runs the SnT summer projects and the SnT Pavilion. (SnT = Science and Technology.)
+
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+[Students' Gymkhana glossary]
+3. THE SIX CELLS (bodies of the Students' Gymkhana that are not under a council)
+Community Welfare Cell (CWC); Election Commission; Entrepreneurship Cell (E-Cell); Outreach Cell (works with the Dean of Resources and Alumni); Public Policy and Opinion Cell (PPOC); Vox Populi (VOX, the student media body).
+Also: the President's Office (added to the Gymkhana in 2016-17) which assists the President, looks after the Students' Activity Centre (SAC) and Students' Server, council finances, and events such as Nostalgia, Melange, Riwayat and Gymkhana Day.
+
+[Students' Gymkhana glossary]
+4. THE THREE GYMKHANA FESTIVALS (inter-collegiate, open to students of other colleges)
+- Antaragni: annual CULTURAL festival.
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+- Techkriti: annual TECHNICAL and ENTREPRENEURIAL festival (launched in 1995).
+- Udghosh: annual SPORTS festival (held in October).
+These are festivals/events, not clubs.
+
+[Students' Gymkhana glossary]
+5. INTER-HALL EVENTS (halls of residence compete; winner of the overall contest gets the General Championship)
+- Galaxy: inter-hall cultural championship (dance, music, fine arts, literature ...), run by the Media and Cultural Council.
+- Takneek: inter-hall technical competition (robotics, electronics, astronomy, coding ...), annual, for UG and PG students.
+- Inferno: inter-hall sports event. Main Inferno = inter-hall sports meet for all; Freshers' Inferno = inter-hall sports meet for freshers. It also serves as a talent hunt for institute teams.
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+- Josh: informal sports meet open to all. Enthusia: sports meet for PG students.
+- Freshers' Nite, Impressions (events for post-graduate students) and the Montage Film Festival are other Media and Cultural Council events.
+
+[Students' Gymkhana glossary]
+6. INTER-IIT EVENTS - THESE ARE COMPETITIONS BETWEEN IITs, NOT CLUBS
+- INTER IIT SPORTS MEET: an annual sports competition among the IITs, started in 1961 at IIT Bombay, held every year in (usually) December and hosted in turn by one of the IITs. A separate Inter-IIT Aquatics Meet is held earlier in the year as part of the main meet, and a General Championship is awarded for the combined performance. It covers about twelve sports in individual and team categories, for men and women. IIT Kanpur sends a contingent of players each year and hosted the Sports Meet in December 2009. It is an EVENT, not a club, and it is not part of any club. When students just say "Inter IIT" they mean the Inter IIT Sports Meet; the Cultural and Tech meets are always called by their full names.
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+- INTER IIT CULTURAL MEET ("Get.Set.Cult."): the cultural competition among IITs; IIT Kanpur's participation is organised through the Media and Cultural Council.
+- INTER IIT TECH MEET: the technical competition among IITs (problem statements such as UAV fleet challenges; science-and-technology teams of IIT Kanpur take part). IIT Kanpur won 3 of the first 7 Tech Meets; the 8th edition was contested with the motto #KanpurForGold.
+Note on older web pages: the very old Students' Gymkhana website (2003-04) lists "Inter IIT sports meet" in a flat list under "Games council" next to the "Captains" and "Taekwondo club". That list is a list of things the Games council deals with; the Inter IIT Sports Meet in it is an EVENT.
+
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+[Students' Gymkhana glossary]
+7. SCIENCE AND TECHNOLOGY INSTITUTE TEAMS (recognised by the Science and Technology Council; they get funding and come directly under the Students' Gymkhana)
+Team Humanoid, Aerial Robotics Team, IITK Motorsports (SAE IIT Kanpur), Team VISION (earlier Team IGVC-IITK), ERA (Equipe de Robotique Autonome) and Team AUV (autonomous underwater vehicles) - six teams at the time the student article was written (c. 2020-22); five of them work on robotics. Other student technical groups include the IITK Rocketry and Space Exploration Team (IRASET), the Electronics Club, the Brain and Cognitive Society, the Game Development Society (GameDev), DesCon (Design and Construction) Society and the Programming Club (PClub).
+
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+[Students' Gymkhana glossary]
+8. NAMES THAT ARE EASILY CONFUSED
+- STC in the "iitk.ac.in/stc" website = the ISRO-IITK SPACE TECHNOLOGY CELL (established 2 March 2001 under DORD, joint programme of ISRO and IIT Kanpur). It is NOT the Gymkhana's Science and Technology Council (SnT).
+- SPO = Students' Placement Office (placements and internships; organises the career festival Samvardhan). Not a club.
+- ICS / Counselling Service = Institute Counselling Service (mental health and wellbeing support, an institute service, not a Gymkhana club).
+- DoAA = Dean of Academic Affairs office (academic calendar, rules, UG/PG academics). DoRA = Dean of Resources and Alumni office (alumni relations, fundraising). DORD = Dean of Research and Development. DoSA = Dean of Student Affairs.
+[Context: STUDENTS' GYMKHANA, IIT KANPUR - STRUCTURE AND GLOSSARY OF NAMES]
+- Students' Senate = the elected legislative body of the Gymkhana. Academic Senate = the institute's faculty body, to which the Gymkhana President and Senate Chairperson are special invitees.
+- VOX / Vox Populi = student media body (voxiitk.com). Programming Club (PClub) = the coding club (pclub.in). E-Cell = Entrepreneurship Cell.
+- BCS = Brain and Cognitive Society; it ran the "Lluminating Language" summer project that built ChatIITK.
+- Hall of residence (Hall) = student hostel; a "pool" in Riwayat = a group of halls.

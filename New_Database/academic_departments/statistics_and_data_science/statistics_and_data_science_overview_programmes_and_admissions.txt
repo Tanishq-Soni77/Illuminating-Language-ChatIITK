@@ -1,0 +1,809 @@
+DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS, CONTACT AND GENERAL PAGES
+Name: Department of Statistics and Data Science, IIT Kanpur - overview, history, programmes, admissions, contact and general pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/sds. Snapshot: scraped in 2026.
+
+=== about us ===
+Source: https://www.iitk.ac.in/sds/about-us
+The Department of Statistics and Data Science at IIT Kanpur was established in June 2026, building upon the Institute’s distinguished legacy in probability and statistics that dates back to the 1970s. The Department traces its roots to the renowned Probability and Statistics Group, which flourished for decades within the Department of Mathematics and made nationally and internationally recognized contributions to research, education, and the advancement of the statistical sciences in India. The Group trained generations of statisticians and researchers who have gone on to make significant contributions in academia, industry, and government. As the discipline has evolved to embrace new challenges and opportunities arising from data science and machine learning, the time was ripe for a dedicated Department. Its establishment is both a celebration of a rich academic heritage and a commitment to shaping the future of the Statistical Sciences.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > about us]
+As one of the first dedicated departments in the Statistical Sciences among the IITs and IISERs, the Department reflects both the growing importance of the discipline and IIT Kanpur’s longstanding leadership in the field. It inherits a strong tradition of scholarship in probability theory, statistical inference, stochastic processes, and applied statistics, while expanding its scope to address emerging challenges in data science, machine learning, and artificial intelligence.
+
+The Department is committed to fostering cutting-edge research across the broad spectrum of the Statistical Sciences, encompassing probability, statistics, data science, and machine learning. It promotes interdisciplinary collaboration within IIT Kanpur and beyond, recognizing that many of today’s most significant scientific and societal challenges require expertise that transcends traditional disciplinary boundaries.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > about us]
+Looking ahead, the Department aspires to be a leading global centre for research and education in the Statistical Sciences. Through its undergraduate, postgraduate, and doctoral programs, we seek to nurture future generations of scholars, innovators, and leaders equipped to advance knowledge, shape technology, and contribute to evidence-based decision making for the benefit of society.
+
+=== home ===
+Source: https://www.iitk.ac.in/sds/
+OSCAR
+
+Welcome to the Department of Statistics and Data Science (SDS) at IIT Kanpur!
+The establishment of DSDS in June 2026 marks an important milestone in the history of IIT Kanpur and reflects the growing significance of the Statistical Sciences in an increasingly data-driven world. The Department traces its roots to the renowned Probability and Statistics Group that flourished within the erstwhile Department of Mathematics and Statistics and made nationally and internationally recognized contributions to research, education, and the development of the statistical sciences in India.
+
+-Prof. Neeraj Misra
+Head, Department of Statistics and Data Science (DSDS)
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > home]
+Read More..
+
+News
+
+Calendar
+
+Events
+
+IIT Kanpur establishes the Department of Statistics and Data Science.
+
+Jul 18 2026
+
+Conference on Statistical Theory and Applications in honour of Prof. Debasis Kundu
+
+Jul 15 2026
+
+Featured News
+
+Prof. Dootika Vats was one of the winners of the COPSS Emerging Leader awards for 2026 presented during the Joint Statistical Meeting held in Boston. Congratulations Dootika!
+
+On 18th July, the Department was delighted to host a Conference on Statistical Theory and Applications in honour of Prof. Debasis Kundu who superannuated last month. It was a wonderful occasion to celebrate...Read More
+
+Congratulations to BS Statistics and Data Science graduating student Aditya V for being awarded the Director's Gold Medal during the 59th Convocation at IIT Kanpur. We are proud of Aditya and all the graduating students!
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > home]
+Congratulations to PhD Student Apratim Shukla for winning a Best Poster Prize at the 2026 World Meeting of International Society for Bayesian Analysis!
+
+Prof. Dootika Vats was awarded the Gopal Das Bhandari Memorial Distinguished Teacher Award during the 59th Convocation of IITK! This award honours an outstanding teacher and is chosen by the graduating UG students
+
+Prof. Arnab Hazra joins the editorial board of Spatial Statistics! This new responsibility is an acknowledgement of his tremendous expertise in spatial modeling.
+
+Prof. Neeraj Misra was bestowed the Distinguished Teacher Award during IIT Kanpur's annual Teacher's Day celebrations. Congratulations Neeraj!
+
+joomla social media module
+
+=== admissions ===
+Source: https://www.iitk.ac.in/sds/admissions
+Admissions for each of the academic programs is through their respective centralized systems:
+
+BS and BS-MS Statistics and Data Science: Admission to the BS program is through JEE (Advanced) and this is a highly sought after four-year program. Students interested in pursuing an MS may apply to obtain a BS-MS by continuing on for a fifth year.
+
+MSc Statistics: Admission to the MSc program is through JAM and remains one of the most sought after Statistics MSc programs in the country.
+
+PhD Statistics: Admission to the PhD program happens centrally through the Dean of Academic Affairs, twice a year for admission in July and December. More information can be found here: https://iitk.ac.in/doaa/pgadmission/
+
+=== contact ===
+Source: https://www.iitk.ac.in/sds/contact
+Head
+
+Prof. Neeraj Misra
+
+Department Under Graduate Committee (DUGC) Convenor
+
+Prof. Soumyarup Sadhukhan
+
+Department Post Graduate Committee (DPGC) Convenor
+
+Prof. Satya Prakash Singh
+
+Department Students’ Affairs Committee (DSAC)
+
+Prof. Sharmishtha Mitra
+
+OSCAR Convenor
+
+Prof. Dootika Vats
+
+=== msc ===
+Source: https://www.iitk.ac.in/sds/msc
+The MSc in Statistics program was started in 1971 and is a highly sought-after program with admissions through the Joint Admission Test for Masters (JAM). Recent updates in the curriculum ensure that students are well trained for both industry and academia, with the curriculum striking a balance between theory and practice. Our students are extremely well placed in industry, and many also go to do a PhD pursuing an academic career.
+
+The Template for students before (and including) Y25 is available in Section 4.5 here: https://iitk.ac.in/doaa/data/UGARC-2020-21-Report.pdf
+
+Below is the template for students entering the program in 2026 and after.
+
+MSc Statistics
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > msc]
+Two-year Program |
+
+Semester 1 |
+Semester 2 |
+Semester 3 |
+Semester 4 |
+
+MSO205 (11)
+Introduction to Probability Theory |
+SDS309 (11)
+Probability Theory  |
+SDS441 (10)
+Linear Regression and Anova |
+SDS312 (05)
+Data Science Lab 3 |
+
+SDS432M (06)
+Sampling Theory |
+SDS418 (11)
+Inference I  |
+SDS515 (11)
+Inference II |
+SDS314 (10)
+Multivariate Analysis |
+
+SDS434M (06)
+Complex Analysis |
+SDS209 (05)
+Data Science Lab 2 |
+SDS516 (11)
+Non-Parametric Inference |
+DE-2 (09) |
+
+SDS433 (11)
+Analysis – I |
+SDS210 (10)
+Statistical Computing |
+DE-1 (09) / SDS598 (09) |
+DE-3 (09) |
+
+SDS208 (05)
+Data Science Lab 1 |
+SDS212M (06)
+Elementary Stochastic Processes I |
+OE-1 (09) |
+DE-4 (09) / SDS599 (09) |
+
+SDS206M (06)
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > msc]
+Matrix Algebra and Linear Estimation I |
+SDS313M (06)
+Elementary Stochastic Processes II |
+OE-2 (09) |
+
+SDS207M (06)
+Matrix Algebra and Linear Estimation II |
+
+ELC114 (09) |
+
+Credits: 60 |
+Credits: 49 |
+Credits: 50 |
+Credits: 51 |
+
+=== oscar ===
+Source: https://www.iitk.ac.in/sds/oscar
+The Office of Statistical Collaboration and OutReach (OSCAR) will serve as the epicenter of statistical consulting and collaboration at IIT Kanpur. The office will work on both internal projects within IIT Kanpur and external projects that require broad-spectrum expertise from various research groups at IIT Kanpur. More information on the office will be shared soon.
+
+=== phd ===
+Source: https://www.iitk.ac.in/sds/phd
+The Department offers a PhD program in Statistics with the objective of preparing motivated researchers, who can work in frontline areas of Statistics and Data Science. The stress in training is both in theoretical rigor, as well computational experience.
+
+Structure Of The Programme
+
+Following are the requirements for the degrees.
+
+Course work:
+
+During the first two semesters, students are required to complete the minimum credit requirements (54) from course work. The minimum number of courses to be done is 6, out of which 3 are compulsory:
+
+Advanced Calculus
+
+Probability Theory
+
+Statistical Inference
+
+Minimum research credit requirement for the programme is 72 and students are required to register for 36 research credit per semester after finishing the course-work. Students are also required to credit a modular 6-credit Communications course SDS 888M.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > phd]
+Comprehensive examination:
+
+Students registered in the PhD programme must pass a Comprehensive examination designed to test the overall comprehension of the student in Statistics. A student can appear in the comprehensive examination only after they have completed the course requirements and satisfied the minimum specified CPI requirement, i.e., 7.0 (out of 10.0).
+
+State of Art Seminar:
+
+A student enrolled in the PhD programme is formally admitted to the candidacy for the PhD degree after they have completed the course requirements for the degree with a CPI of at least 7.0 and have passed the comprehensive examination. Every PhD student admitted to the candidacy for the PhD degree is required to deliver a general seminar covering the State of Art of the area of research. This seminar, viz., the State of Art Seminar must be delivered within six months of passing the comprehensive examination.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > phd]
+Open Seminar:
+
+Before finalizing the thesis, every PhD student must deliver an Open Seminar in which the research work will be presented to obtain comments and criticism, which are to be incorporated in the thesis. The maximum time duration for the submission of the thesis after the delivery of the open seminar is six months.
+
+=== sbajpai ===
+Source: https://www.iitk.ac.in/sds/sbajpai.html
+Saurabh Bajpai
+
+Senior Technical Superintendent
+
+Department of Statistics and
+Data Science
+
+Kanpur-208016, India
+
+Office: |
+FB-520 |
+
+Phone: |
+91-512-2596778 (O) |
+
+91-512-2598447 (R) |
+
+E-mail: |
+
+sbajpai@iitk.ac.in
+saurabhbajpayee@gmail.com   |
+
+Publications:
+
+Sur, S., Chitranshi, S. Ganesh, S. Moona, R. Sharma, M., Bajpai S. and Katiyar S. K.,
+"Living in farming communities (FC) provides children greater protection against asthma attacks than living in poor hygienic conditions (PHC)". JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY  Vol.119(1), 2007,  pp.S46-S46.  (PDF)
+
+R.P. Gupta and Saurabh Bajpai, "Feasibility Study of Data Communication for
+Power Distribution Automation",  Proceedings of International Conference on
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > sbajpai]
+Power Systems (ICPS-2004), Kathmandu, Nepal, November 3-5, 2004, pp. 450-
+454.
+
+Academics:
+
+M.Tech. |
+Information Technology   |
+
+M.B.A. |
+Information Technology & Electronics Commerce.
+
+M.Sc. |
+Computer Science   |
+
+M.A. |
+Economics |
+
+=== ug ===
+Source: https://www.iitk.ac.in/sds/ug
+The BS and BS-MS program in Statistics and Data Science was established in 2021 and is one of the only programs admitted through JEE (Advanced) that is focused on Statistical Sciences. The program aims to balance mathematical rigor along with practical experience, striking a balance between theory and practice, preparing graduates for careers in research, academia, industry, and government. The program also provides an opportunity for students from other disciplines to pursue a Double Major or Minor in Statistics and Data Science. Our students are exceptionally well placed, as well as routinely pursue Masters and PhD degrees.
+
+The course template for admission years before (and including) Y25 can be found here: https://iitk.ac.in/doaa/data/template/SDS-template.pdf
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+BS Statistics and Data Science Template
+
+BS Statistics and Data Science
+Template for 3rd to 8th semester |
+
+Sem 3 |
+Sem 4 |
+Sem 5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+SCHEME-2 (9-11) |
+SCHEME-3 (9-11) |
+SCHEME-4 (9) |
+SCHEME-5 (9) |
+SCHEME-6 (9) |
+
+ESC201 (14)  |
+SDS209 (05)
+Data Science Lab 2 |
+SDS441 (10)
+Linear Regression and Anova |
+SDS442 (10)
+Introduction to Bayesian Analysis |
+DE - 1 (09) |
+DE – 4 (09) |
+
+ESO/SO-1: MSO205 (11)
+Introduction to Probability Theory |
+SDS210 (10)
+Statistical Computing |
+SDS442 (10)
+Time Series Analysis  |
+SDS443 (10)
+Statistical & AI Techniques in Data Mining   |
+DE - 2 (09) |
+DE – 5 (09) |
+
+SDS208 (05)
+Data Science Lab 1 |
+SDS211 (11)
+Theory of Statistics |
+ESO/SO-3:  ESO 207 (12)
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Data Structures and Algorithms |
+SDS314 (10)
+Multivariate Analysis |
+DE – 3 (09) |
+OE – 5 (09) |
+
+SDS207M (06)
+SDS212M (1st half) (06)
+Elementary Stochastic Processes I |
+ESO/SO-3:  MSO202M (06)
+Complex Analysis |
+SDS312 (05)
+Data Science Lab 3 |
+OE – 3 (09) |
+OE - 6 (09) |
+
+SDS433 (11)
+Real Analysis |
+ESO/SO-2: (09) |
+OE - 1 (09) |
+OE-2 (09) |
+OE – 4 (09) |
+
+Credits: 56-58 |
+Credits: 50-52 |
+Credits: 47 |
+Credits: 53 |
+Credits: 54 |
+Credits: 45 |
+
+Note: Undergraduate Projects (UGPs) are NOT mandatory. However, depending on the consent of the supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE (if taken within the department) / OE (if taken outside the department, as consented by the DUGC) requirements. A student can also take a 4th UGP, which, however, will NOT be counted towards fulfilling the graduation requirements
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: The department recommends PHY114 & PHY115 for the SDS students.
+
+Note: (As per the Senate-approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses SDS321 Internship I, SDS322 Internship II, SDS323 Internship Ill, SDS324 Internship IV, SDS325 Internship V, each of 9 credits. One would have an option to earn 45 credits of OE through internship courses by spending a full semester in an industry, or may do online internships (under one or more OEs) from the industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and identifies a supervisor in the SDS department. The student, in consultation with the host industry/organization, submits a proposal to the DUGC with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval, and the requisite number of credits (in multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: In view of the institute guidelines regarding Credits for External Activities (CEA), the total combined credits earned from internship courses (mentioned in the above note) and EDE/EOE must be at most 45, with the restriction that at most 27 credits of EDE/EOE are allowed.
+
+Note: The following specific credit restrictions apply to students pursuing a BS in Statistics and Data Science (SDS) due to curriculum overlap with Department Compulsory (DC) courses:
+
+CGS698C will not be counted towards the graduation requirements of a BS SDS student.
+
+Only one of CS771 or EE708, but not both, can be counted as an Open Elective (OE).
+
+Minor in Statistics and Data Science
+To obtain a Minor in Statistics and Data Science students must take the following courses:
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+MSO205: Introduction to Probability Theory
+or MSO201 or HSO201 or CS203
+
+SDS208: Data Science Lab 1
+
+SDS211: Theory of Statistics
+
+SDS441: Linear Regression and ANOVA
+
+The incoming strength for approval of Minor in Statistics and Data Science would be 20% of the sanctioned strength of the program.
+
+Double Major in Statistics and Data Science
+Students from other majors can pursue a double major in Statistics and Data Science once approved by the Office of Academic Affairs. Below are the requirements for completing the Double Major.
+
+Double Major in Statistics and Data Science |
+
+Prerequisites |
+
+MSO205: Introduction to Probability Theory or MSO201 or HSO201 or CS203 |
+11 |
+
+MSO202MComplex Analysis or MTH403 |
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+06 |
+
+ESO 207: Data Structures and Algorithms |
+12 |
+
+Total |
+29 |
+
+Odd Semesters |
+Even Semesters |
+
+SDS208
+Data Science Lab 1 |
+05 |
+SDS209
+Data Science Lab 2 |
+05 |
+
+SDS207M
+06 |
+SDS210
+Statistical Computing |
+10 |
+
+SDS433
+Real Analysis |
+11 |
+SDS211
+Theory of Statistics |
+11 |
+
+SDS441
+Linear Regression and Anova |
+10 |
+SDS212M
+Elementary Stochastic Processes I |
+06 |
+
+SDS442
+Time Series Analysis  |
+10 |
+SDS442
+Introduction to Bayesian Analysis |
+10 |
+
+SDS443
+Statistical & AI Techniques in Data Mining |
+10 |
+
+SDS314
+Multivariate Analysis |
+10 |
+
+SDS312
+Data Science Lab 3 |
+5 |
+
+Total |
+42 |
+67 |
+
+Note: The mandatory SDS courses list above has courses that have prerequisites from the same list. A student cannot take these courses in a single semester.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+BSH Statistics and Data Science
+A BS with Honors (BSH) can be pursued by a BS student with a CPI above 8.5 by taking appropriate postgraduate courses after approval from the Office of Academic Affairs.
+
+BSH Statistics and Data Science
+Template for 3rd to 8th semester |
+
+Sem 3 |
+Sem 4 |
+Sem 5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+SCHEME-2 (9-11) |
+SCHEME-3 (9-11) |
+SCHEME-4 (9) |
+SCHEME-5 (9) |
+SCHEME-6 (9) |
+
+ESC201 (14)  |
+SDS209 (05)
+Data Science Lab 2 |
+SDS441 (10)
+Linear Regression and Anova |
+SDS442 (10)
+Introduction to Bayesian Analysis |
+DE - 1 (09) |
+DE – 2 (09) |
+
+ESO/SO-1: MSO205 (11)
+Introduction to Probability Theory |
+SDS210 (10)
+Statistical Computing |
+SDS442 (10)
+Time Series Analysis  |
+SDS443 (10)
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Statistical & AI Techniques in Data Mining   |
+OE - 3 (09) |
+DE – 3 (09) |
+
+SDS208 (05)
+Data Science Lab 1 |
+SDS211 (11)
+Theory of Statistics |
+ESO/SO-3:  ESO 207 (12)
+Data Structures and Algorithms |
+SDS314 (10)
+Multivariate Analysis |
+OE – 4 (09) |
+OE – 6 (09) |
+
+SDS207M (06)
+SDS212M (1st half) (06)
+Elementary Stochastic Processes I |
+ESO/SO-3:  MSO202M (06)
+Complex Analysis |
+SDS312 (05)
+Data Science Lab 3 |
+OE – 5 (09) |
+UGP2 (09) |
+
+SDS433 (11)
+Real Analysis |
+ESO/SO-2: (09) |
+OE - 1 (09) |
+OE-2 (09) |
+UGP1 (09) |
+
+DEH - 1 (09) |
+DEH - 2 (09) |
+DEH - 3 (09) |
+
+Credits: 56-58 |
+Credits: 50-52 |
+Credits: 47 |
+Credits: 62 |
+Credits: 63 |
+Credits: 54 |
+
+Note: CPI Criterion - 8.5
+
+Note: UGP1 and UGP2 are mandatory UGPs (DE) for BSH
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: A student may take additional UGP3 of 09 credits against DE (if taken within the department) I OE (if taken outside the department, as consented by the DUGC) requirements. A student can also take a 4th UGP; however, it will NOT be counted towards fulfilling the graduation requirements.
+
+Note: The department recommends PHY114 & PHY115 for the SDS students.
+
+Note: (As per the Senate-approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses SDS321 Internship I, SDS322 Internship II, SDS323 Internship Ill, SDS324 Internship IV, SDS325 Internship V, each of 9 credits. One would have an option to earn 45 credits of OE through internship courses by spending a full semester in an industry, or may do online internships (under one or more OEs) from the industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and identifies a supervisor in the SDS department. The student, in consultation with the host industry/organization, submits a proposal to the DUGC with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval, and the requisite number of credits (in multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: In view of the institute guidelines regarding Credits for External Activities (CEA), the total combined credits earned from internship courses (mentioned in the above note) and EDE/EOE must be at most 45, with the restriction that at most 27 credits of EDE/EOE are allowed.
+
+Note: The following specific credit restrictions apply to students pursuing a BS in Statistics and Data Science (SDS) due to curriculum overlap with Department Compulsory (DC) courses:
+
+CGS698C will not be counted towards the graduation requirements of a BS SDS student.
+
+Only one of CS771 or EE708, but not both, can be counted as an Open Elective (OE).
+
+Note: For BSH, the student must do 27 credits of DEH courses from the Honors course basket given below.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Honors Course Basket (SDS - BSH)
+
+SDS614 - Introduction to Stochastic Calculus
+
+SDS636 - Game Theory
+
+SDS643 - Spatial Statistics
+
+SDS665 - Asymptotic Statistics
+
+SDS673 - Robust Statistical Methods
+
+SDS676 - Econometrics
+
+SDS681 - Statistical Decision Theory
+
+SDS682 - Order Statistics
+
+SDS684 - Statistical Simulation, Data Analysis & Model Building
+
+SDS686 - Nonlinear Regression
+
+SDS689 - Linear & Nonlinear Models
+
+SDS690 - Probabilistic Theory of Pattern Recognition
+
+SDS695 - Empirical Processes
+
+SDS707 - Markov Chain Monte Carlo
+
+SDS754 - Probability Theory
+
+SDS781 - Statistical Pattern Recognition
+
+SDS784 - Statistical Reliability Theory
+
+SDS785 - Econometric Theory
+
+BSM Statistics and Data Science
+A BS with Management (BSM) can be pursued by a BS student by taking appropriate electives in management sciences.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+BSM Statistics and Data Science
+Template for 3rd to 8th semester |
+
+Sem 3 |
+Sem 4 |
+Sem 5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+SCHEME-2 (9-11) |
+SCHEME-3 (9-11) |
+SCHEME-4 (9) |
+SCHEME-5 (9) |
+SCHEME-6 (9) |
+
+ESC201 (14)  |
+SDS209 (05)
+Data Science Lab 2 |
+SDS441 (10)
+Linear Regression and Anova |
+SDS442 (10)
+Introduction to Bayesian Analysis |
+DE - 1 (09) |
+DE – 2 (09) |
+
+ESO/SO-1: MSO205 (11)
+Introduction to Probability Theory |
+SDS210 (10)
+Statistical Computing |
+SDS442 (10)
+Time Series Analysis  |
+SDS443 (10)
+Statistical & AI Techniques in Data Mining   |
+OE - 2 (09) |
+OE – 3 (09) |
+
+SDS208 (05)
+Data Science Lab 1 |
+SDS211 (11)
+Theory of Statistics |
+ESO/SO-3: ESO 207 (12)
+Data Structures and Algorithms |
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+SDS314 (10)
+Multivariate Analysis |
+MTB – 2 (09) |
+MTB – 5 (09) |
+
+SDS207M (06)
+SDS212M (1st half) (06)
+Elementary Stochastic Processes I |
+ESO/SO-3: MSO202M (06)
+Complex Analysis |
+SDS312 (05)
+Data Science Lab 3 |
+MTB - 4 (09) |
+MTB - 6 (09) |
+
+SDS433 (11)
+Real Analysis |
+ESO/SO-2: (09) |
+OE - 1 (09) |
+MTB - 1 (09) |
+
+Credits: 56-58 |
+Credits: 50-52 |
+Credits: 47 |
+Credits: 53 |
+Credits: 54 |
+Credits: 45 |
+
+Note: Undergraduate Projects (UGPs) are NOT mandatory. However, depending on the consent of the supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE (if taken within the department) / OE (if taken outside the department, as consented by the DUGC) requirements. A student can also take a 4th UGP, which, however, will NOT be counted towards fulfilling the graduation requirements
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: The department recommends PHY114 & PHY115 for the SDS students.
+
+Note: (As per the Senate-approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses SDS321 Internship I, SDS322 Internship II, SDS323 Internship Ill, SDS324 Internship IV, SDS325 Internship V, each of 9 credits. One would have an option to earn 45 credits of OE through internship courses by spending a full semester in an industry, or may do online internships (under one or more OEs) from the industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and identifies a supervisor in the SDS department. The student, in consultation with the host industry/organization, submits a proposal to the DUGC with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval, and the requisite number of credits (in multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Note: In view of the institute guidelines regarding Credits for External Activities (CEA), the total combined credits earned from internship courses (mentioned in the above note) and EDE/EOE must be at most 45, with the restriction that at most 27 credits of EDE/EOE are allowed.
+
+Note: The following specific credit restrictions apply to students pursuing a BS in Statistics and Data Science (SDS) due to curriculum overlap with Department Compulsory (DC) courses:
+
+CGS698C will not be counted towards the graduation requirements of a BS SDS student.
+
+Only one of CS771 or EE708, but not both, can be counted as an Open Elective (OE).
+
+BS-MS in Statistics and Data Science
+The BS program may be extended into a 5th year to pursue an MS provided the student is eligible. An MS in Statistics and Data Science can be Category A (students enrolled in BS Statistics and Data Science) or Category B (students enrolled in another major).
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+BS - MS Statistics and Data Science
+PG Part
+Category A (from the same department) |
+
+Semester 9 |
+Semester 10 |
+
+MS Project (PGP-1, PGP-2) |
+18 |
+MS Project (PGP-3, PGP-3) |
+18 |
+
+DE PG - 1 |
+09 |
+DE PG - 2 |
+09 |
+
+OE PG - 1 |
+09 |
+OE PG - 3 |
+09 |
+
+OE PG - 2 |
+09 |
+OE PG - 4 |
+09 |
+
+Total |
+45 |
+Total |
+45 |
+
+BS - MS Statistics and Data Science
+PG Part
+Category B (from other programs) |
+
+Semester 9 |
+Semester 10 |
+
+SDS208
+Data Science Lab 1 |
+05 |
+SDS209
+Data Science Lab 2 |
+05 |
+
+SDS207M
+06 |
+SDS210
+Statistical Computing |
+10 |
+
+SDS433
+Real Analysis |
+11 |
+SDS211
+Theory of Statistics |
+11 |
+
+SDS441
+Linear Regression and Anova |
+10 |
+SDS212M
+Elementary Stochastic Processes I |
+06 |
+
+10 |
+SDS442
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSION > ug]
+Introduction to Bayesian Analysis |
+10 |
+
+SDS443
+Statistical & AI Techniques in Data Mining   |
+10 |
+
+SDS314
+Multivariate Analysis |
+10 |
+
+SDS312
+Data Science Lab 3 |
+5 |
+
+Total |
+42 |
+67 |
+
+PG Requirement |
+
+Semester 9 |
+Semester 10 |
+
+MS Project (PGP-1, PGP-2) |
+18 |
+MS Project (PGP-3, PGP-3) |
+18 |
+
+DE PG - 1 |
+09 |
+DE PG - 2 |
+09 |
+
+OE PG - 1 |
+09 |
+OE PG - 3 |
+09 |
+
+OE PG - 2 |
+09 |
+OE PG - 4 |
+09 |
+
+Total |
+45 |
+Total |
+45 |
+
+=== visitors ===
+Source: https://www.iitk.ac.in/sds/visitors
+Distinguished Honorary Professor
+
+Prof. Ori Davidov
+Department of Statistics, University of Haifa
+
+Personal homepage
+

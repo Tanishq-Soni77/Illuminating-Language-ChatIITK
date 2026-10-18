@@ -1,0 +1,17 @@
+# Built by the project: python ingest.py recreates it
+chroma_db/
+
+# Scraper output
+Web_Scraping/scraped_data/
+Web_Scraping/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and logs
+token.txt
+.env
+*.log

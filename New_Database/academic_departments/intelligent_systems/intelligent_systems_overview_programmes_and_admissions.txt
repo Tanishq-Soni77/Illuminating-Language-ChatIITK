@@ -1,0 +1,1412 @@
+DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTELLIGENT SYSTEMS) IIT KANPUR - OVERVIEW, HISTORY, PROGRAMMES, ADMISSIONS, CONTACT AND GENERAL PAGES
+Name: Department of Intelligent Systems (established 2025 within the Wadhwani School for AI and Intelligent Systems), IIT Kanpur - overview, history, programmes, admissions, contact and general pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/dis. Snapshot: scraped in 2026.
+
+=== about us ===
+Source: https://www.iitk.ac.in/dis/about-us
+Established in 2025 within the Wadhwani School for AI and Intelligent Systems, the Department of Intelligent Systems at IIT Kanpur is committed to pioneering research and education in the rapidly evolving field of artificial intelligence and related disciplines. Our mission is to explore and innovate across a broad spectrum of topics vital to creating intelligent software and cyber-physical systems. This includes, but is not limited to, Machine Learning, Big Data Analytics, Natural Language Processing, Computer Vision and Pattern Recognition, Optimization and Control, Pervasive and Mobile Computing, Cybersecurity, Software Engineering, Human-Computer Interaction, and robotics.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > about us]
+A central focus of our department is to translate cutting-edge AI research into practical, real-world applications that can positively impact society. We aspire to develop intelligent systems capable of transforming lives, both within India and globally, by addressing important social, economic, and technological challenges.
+
+Our department is dedicated to nurturing the next generation of innovative engineers and researchers. Through rigorous undergraduate (BTech) and postgraduate (MTech, MS, and PhD) programs, we aim to equip students with the knowledge and skills necessary to develop advanced intelligent software and cyber-physical systems. By fostering interdisciplinary collaboration, we aspire to make significant contributions to the fields of AI and intelligent systems, ultimately shaping a safer, smarter, and more connected future.
+
+=== home ===
+Source: https://www.iitk.ac.in/dis/
+Welcome
+
+Established in 2025 within the Wadhwani School for AI and Intelligent Systems, the Department of Intelligent Systems at IIT Kanpur is committed to pioneering research and education in the rapidly evolving field of artificial intelligence and related disciplines. Our mission is to explore and innovate across a broad spectrum of topics vital to creating intelligent software and cyber-physical systems..... - Read More
+
+Prof. Indranil Saha
+Head, Department of Intelligent Systems
+
+Latest News
+
+Current events
+
+List of Candidates Selected for Admission to the MS(R) Programme 2026–27 (Semester-I)
+
+B.Tech. in Intelligent Systems (DIS) – Frequently Asked Questions (FAQ)
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > home]
+Find answers to common queries related to admissions, curriculum, etc.
+Click here to read the FAQs.
+
+List of Candidates Shortlisted for Interview – MS(R) Programme 2026–27 (I Semester) Round 2
+
+List of Candidates Shortlisted for Interview – MS(R) Programme 2026–27 (I Semester) Round 1
+
+List of Candidates Selected for Admission to the Ph.D. Programme 2026–27 (Semester-I)
+
+List of candidates shortlisted for interview for admission to the Ph.D. Programme for the 2026–27 (I Semester)
+
+PhD / MTech / MS(R) Admissions 2026
+
+Applications are invited for admission to the July 2026 semester for PhD / MTech / MS (By Research) programmes.
+
+The online application portal is open from March 19, 2026 (Thursday), 02:00 PM to April 15, 2026 (Wednesday), 02:00 PM.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > home]
+Application Link: https://www.iitk.ac.in/doaa/pgadmission/
+
+Brochure: https://www.iitk.ac.in/doaa/pgadmission/assets/data/info-brochure/Intelligent-system.pdf
+
+For eligibility criteria and other details, applicants may refer to the Admission tab on the DIS homepage.
+
+Note: Online degrees are not eligible for MTech, MS and PhD programs.
+
+Faculty position advertisement link: https://www.iitk.ac.in/dofa/faculty-advertisement-dis-wsais
+
+See All
+
+Centres
+
+Wadhwani Superhub Translation Centre (WSTC)
+
+Wadhwani Center for Robotics (WCR)
+
+Wadhwani Center for AI Policy and Outreach (WCAPO)
+
+Wadhwani Center for Developing Intelligent Systems (WCDIS)
+
+Wadhwani Center for Cybersecurity of Critical Infrastructure (WC3i)
+
+=== b tech admission ===
+Source: https://www.iitk.ac.in/dis/b-tech-admission
+Admission into the undergraduate programs of all departments of all IITs is made once a year through a Joint Entrance Examination (JEE).
+
+For the detailed procedure in this regard, visit the JEE- Advanced Website.
+
+The Department of Intelligent Systems at IIT Kanpur offers an interdisciplinary undergraduate degree that combines core engineering fundamentals with modern topics in artificial intelligence, machine learning, robotics, control, and cyber‑physical systems. The curriculum blends rigorous coursework in mathematics, computer science, and electrical engineering with hands‑on laboratory work and project‑based learning to train students in building smart, autonomous, and trustworthy systems. Students gain practical experience through well‑equipped labs, industry internships, and opportunities to collaborate with active research groups at the institute, while modules on safety, ethics, and societal impact prepare them to deploy responsible AI solutions. Graduates are expected to be well-positioned for careers in research, product development, and entrepreneurship across sectors such as robotics, autonomous vehicles, healthcare, IoT, and data‑driven services, or for advanced study in premier institutions.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+Frequently Asked Questions (FAQ)
+B.Tech. in Intelligent Systems (BTIS), DIS, IIT Kanpur
+
+1. What is the B.Tech. in Intelligent Systems?
+
+The B.Tech. in Intelligent Systems is a multidisciplinary engineering program designed to train students in the development of real-world AI-driven systems. The curriculum includes, but is not limited to, Machine Learning, Big Data Analytics, Natural Language Processing, Computer Vision and Pattern Recognition, Optimisation and Control, Pervasive and Mobile Computing, Cybersecurity, Software Engineering, Human-Computer Interaction, and robotics.
+
+2. Why has IIT Kanpur introduced this program?
+
+IITK launched this new program with industry input that there is significant demand for professionals well-trained to develop AI-driven systems. This program will train students in all aspects of developing such systems, starting with mathematical foundations and progressing to theoretical and system development.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+Students will be eligible for major MNCs dealing with AI-driven software and cyber-physical systems/ robotics.
+
+3. Is Intelligent Systems the same as Artificial Intelligence (AI)?
+
+Intelligent Systems (IS) is broader than AI: AI refers to algorithms and models for learning from data (ML, NLP, vision, etc.), while IS focuses on building complete, useful systems that leverage those methods. IS covers two complementary classes: AI‑driven software systems (domain chatbots, recommenders, fraud detection, face/voice recognition, etc.) that integrate models into scalable products and workflows, and embodied systems (robots, autonomous vehicles, drones, etc.) that combine sensing, perception, planning, control, and real‑time hardware–software integration. Both rely on AI methods, but software systems emphasize data pipelines, infrastructure, and user/domain integration, whereas embodied systems add sensor fusion, control, and safety constraints. Our academic program, spanning both, prepares students to design end‑to‑end solutions across the software and physical domains.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+4. How is this department different from Computer Science and Engineering (CSE)?
+
+Computer Science is the discipline that studies computation, algorithms, and information processing, both the theoretical foundations (e.g., algorithms, complexity, logic) and practical systems (software, hardware, networks) that implement computation. Artificial intelligence is considered one specialization within computer science, among many. IIT Kanpur’s Intelligent Systems (IS) program builds on core computing and AI foundations but is distinct from conventional Computer Science in its application‑oriented, systems‑level focus: IS integrates AI models into AI‑driven software products and workflows (domain chatbots, recommender systems, biometrics, fraud detection) and combines machine learning and AI with sensing, perception (camera/LiDAR), control theory, embedded/real‑time systems and hardware–software co‑design to build embodied agents (robots, drones, autonomous vehicles). While CSE emphasizes algorithms, theory, large‑scale software, and systems engineering, IS focuses on data-driven system development with end‑to‑end integration — turning AI models into deployed, safety‑aware systems. As the program has a systems focus, most courses include hands‑on labs, and the curriculum includes course-embedded and interdisciplinary projects. IS students get earlier and deeper exposure to AI/ML-driven software development skills as well as core concepts of embodied AI, such as sensors and actuators, system dynamics and control, and deployment challenges, preparing them for roles in autonomy, robotics, embedded AI, industrial automation, and applied AI product teams, or for advanced study in applied machine learning and embodied AI. In short, CSE gives broad computing depth, whereas IS trains students to design, build, and deploy intelligent solutions that operate in real‑world, uncertain environments.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+5. What is the curriculum of the program?
+
+Detailed curriculum documents are available at:
+https://www.iitk.ac.in/dis/btech
+
+6. Is the curriculum approved by the IIT Kanpur Senate?
+
+Yes. In addition, the new department and the school were enthusiastically approved by the BoG IITK in 2025.
+
+7. Is the Department of Intelligent Systems an independent department?
+
+Yes. The Department of Intelligent Systems (DIS) is an independent academic department of IIT Kanpur. Students admitted to this program receive a B.Tech. degree from IIT Kanpur, just like students in any other department.
+
+8. Since the program is new, should students be concerned?
+
+No. The program has been carefully designed based on extensive academic planning and industry feedback. It leverages IIT Kanpur's strengths in computer science, electrical engineering, mechanical engineering, economics, mathematics, and AI research while introducing several new courses specifically tailored to intelligent systems engineering.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+9. How are the faculty members in DIS?
+
+The Department of Intelligent Systems has a highly qualified faculty with expertise spanning AI, machine learning, algorithms, robotics, control systems, optimisation, computer vision, data science, and intelligent decision-making.
+
+Faculty profiles are available at:
+https://www.iitk.ac.in/dis/faculty
+
+10. What kind of learning experience can students expect?
+
+Most of our core courses have a lab component, and the higher-level elective courses have a project component. The students can expect to learn the fundamental concepts through hands-on experiments and advanced concepts through assignments and projects. The students may opt for multiple semester-long undergraduate projects where they will apply their knowledge acquired through various courses to solve a challenging problem in this field. The students will have opportunities for internships at top companies in the field and renowned academic institutions, preparing them further for industrial positions and higher studies.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+11. How will placements compare with other engineering branches?
+
+Placement outcomes depend on multiple factors, including student performance, industry trends, and company requirements. However, the curriculum has been designed to align with areas of strong industry demand, particularly in AI-driven software systems, intelligent automation, robotics, and advanced engineering technologies. WSAIS and DIS are already getting enthusiastic requests, from some companies, to get access to our students for internships and placements.
+
+12. What opportunities are available for higher studies?
+
+Our B.Tech students will be eligible to pursue postgraduate studies in any department that offers programs in artificial intelligence, robotics, and related areas. Recently, many renowned institutes in India and abroad have created such a department. They will also be eligible for a PhD in computer science and engineering, and in electrical and computer engineering, as some subfields within computer science and engineering, such as machine learning, computer vision, and natural language processing, and within Electrical Engineering, such as robotics and control, optimisation, will be thoroughly covered in our B.Tech curriculum.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+13. What is the difference between a Major-Minor and a Double Major?
+
+Major + Minor
+
+Complete a major in one discipline and a minor in another.
+
+Typically completed within the standard 4-year B.Tech. duration.
+
+Double Major
+
+Complete the requirements of two major programs.
+
+Typically requires an additional year and is completed over 5 years.
+
+Specific eligibility requirements and academic regulations are governed by IIT Kanpur's academic policies.
+
+14. Will students have the flexibility to explore courses outside the department?
+
+Yes. IIT Kanpur's academic structure provides students with opportunities to take electives, pursue minors, participate in interdisciplinary projects, and explore courses offered by other departments, subject to institute regulations and prerequisites.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > b tech admission]
+15. Will students from batches admitted before AY 2026–27 be eligible to opt for the Dual Degree/Minor/Double Major programme in the Department of Intelligent Systems?
+
+No. The Dual Degree/Minor/Double Major programme options in the Department of Intelligent Systems are being introduced for students admitted to IIT Kanpur from the Academic Year 2026–27 onwards. Students from earlier batches are not eligible for these options.
+
+=== btech ===
+Source: https://www.iitk.ac.in/dis/btech
+Department of Intelligent Systems, IIT Kanpur offers a four-year B.Tech. degree program.
+
+More information about the credits and course template can be found here: Link
+
+Department of Intelligent Systems course details can be accessed here: Link
+
+“Tentative course templates subject to Senate approval.”
+For any further clarification, please contact: [email address hidden on the website]
+For any further clarification, please contact: [email address hidden on the website]
+
+=== committees ===
+Source: https://www.iitk.ac.in/dis/committees
+Department Committees
+
+Department Post-Graduate Committee
+
+Prof. Ketan Rajawat (Convener)
+
+Prof. Rohit Budhiraja
+
+Prof. Shakti S. Gupta
+
+Prof. Piyush Rai
+
+Prof. Sayak Ray Chowdhury
+
+Prof. Indranil Saha (Head)
+
+Aditya Ojha, Student Representative
+
+Department Under-Graduate Committee
+
+Prof. Indranil Saha (Convener)
+
+Prof. Soumya Ranjan Sahoo
+
+Prof. Vimal Kumar
+
+Prof. Ketan Rajawat (as DPGC)
+
+Prof. Sruti S. Ragavan
+
+Prof. Nisheeth Srivastava
+
+Department Finance Committee
+
+Prof. Indranil Saha (Convener)
+
+Prof. Nitin Saxena
+
+Prof. Piyush Rai
+
+Prof. Shakti S. Gupta
+
+Prof. Vimal Kumar
+
+Department Library Committee
+
+Prof. Vimal Kumar (In-Charge)
+
+Prof. Indranil Saha (Head)
+
+=== contact ===
+Source: https://www.iitk.ac.in/dis/contact
+Address : FB 269, Faculty Building, IIT Kanpur, 208016
+
+Phone : +91 512 259 6343, 6636
+
+=== double major in is ===
+Source: https://www.iitk.ac.in/dis/double-major-in-is
+Double Major in IS (DM-IS)
+
+Odd Semester |
+Even Semester |
+
+ESOXXX+ ESOXXX (14) |
+IS203 (11) |
+
+IS201 (10) |
+IS204 (12) |
+
+IS202 (11) |
+IS205 (12) |
+
+IS302 (12) |
+DE-2 (9) |
+
+DE-1 (9) |
+DE-3 (9) |
+
+56 credits |
+53 credits |
+
+Total 109 mandatory credits for a second major in IS
+
+Up to 36 OE credits may be waived from the parent department BT/BS graduation requirements when used to fulfill DM-IS requirements.
+
+=== dual degree ===
+Source: https://www.iitk.ac.in/dis/dual-degree
+Dual Degree in IS (BT-MT-IS)
+
+Category A: for a student pursuing a BT in IS department
+
+Sem 1-6 |
+Sem 7 |
+Sem 8 |
+Summer |
+Sem 9 |
+Sem 10 |
+
+Identical to BT-IS program |
+SCHEME
+HSS-2
+(9) |
+PG DE-1 (9) |
+MT Thesis (9) |
+PG DE-5 (9) |
+PG DE-6 (9) |
+
+DE-3 (9) |
+PG DE-2 (9) |
+MTech Thesis (36) |
+MTech Thesis (36) |
+
+DE-4 (9) |
+PG DE-3 (9) |
+
+DE-5 (9) |
+PG DE-4 (9) |
+
+DE-6 (9) |
+DE-7 (9) |
+
+316 |
+45 |
+45 |
+9 |
+45 |
+45 |
+
+Remarks
+
+PG DE Credits: 54, Thesis Credits: 81
+
+PG DE credits must be obtained from courses having a number of the form IS LXX where L = 6/7
+
+For BT-MT-IS-CatA students, up to 36 OE credits from the BT-IS minimum requirements may be waived and used to fulfill MT requirements instead. All other BT-IS credit requirements (semesters 1-8) must be fulfilled.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > dual degree]
+Category B: for a student from a department other than IS
+
+Sem 1-7 |
+Sem 8 |
+Summer |
+Sem 9 |
+Sem 10 |
+
+Identical to BT-IS program |
+PG DE-1 (9) |
+MT Thesis (9) |
+PG DE-5 |
+PG DE-6 |
+
+PG DE-2 (9) |
+MT Thesis (36) |
+MT Thesis (36) |
+
+PG DE-3 (9) |
+
+PG DE-4 (9) |
+
+316 |
+45 |
+9 |
+45 |
+45 |
+
+Remarks
+
+PG DE Credits: 54, Thesis Credits: 81
+
+PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 5/6/7/
+
+For BT-MT-IS-CatB students, up to 36 OE credits from the students’ parent department’s minimum requirements may be waived and used to fulfill MT requirements instead. All other credit requirements (semesters 1-8) must be fulfilled.
+
+Dual Degree in IS with Management (BTM-MT-IS)
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > dual degree]
+Sem 1-6 |
+Sem 7 |
+Sem 8 |
+Summer |
+Sem 9 |
+Sem 10 |
+
+Identical to BTM-IS |
+SCHEME
+HSS-2
+(9) |
+PG DE-1 (9) |
+MT Thesis (9) |
+PG DE-5 (9) |
+PG DE-6 (9) |
+
+DE-3 (9) |
+PG DE-2 (9) |
+MT Thesis (36) |
+MT Thesis (36) |
+
+MTB-3 (9) |
+PG DE-3 (9) |
+
+MTB-4 (9) |
+PG DE-4 (9) |
+
+MTB-5 (9) |
+MTB-6 (9) |
+
+316 |
+45 |
+45 |
+9 |
+45 |
+45 |
+
+Remarks
+
+PG DE Credits: 54,Thesis Credits: 81
+
+PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 5/6/7
+
+For BTM-MT-IS students, up to 9 DE and 27 OE credits from the BTM-IS minimum requirements may be waived and used to fulfil MT requirements. All other BTM-IS credit requirements (semesters 1-8), including 54 MTB credits, need to be fulfilled.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > dual degree]
+Dual Degree in IS with Honors (BTH-MT-IS)
+
+Sem 1-6 |
+Sem 7 |
+Sem 8 |
+Summer |
+Sem 9 |
+Sem 10 |
+
+Identical to BTH-IS program |
+SCHEME
+HSS-2
+(9) |
+DE-5 (9) |
+MT Thesis (9) |
+PG DE-8 (9) |
+PG DE-9 (9) |
+
+DE-3 (9) |
+DE-6 (9) |
+MT Thesis (36) |
+MT Thesis (36) |
+
+DE-4 (9) |
+DE-7 (9) |
+
+PG DE-2 (9) |
+PG DE-5 (9) |
+
+PG DE-3 (9) |
+PG DE-6 (9) |
+
+PG DE-4 (9) |
+PG DE-7 (9) |
+
+311-316 |
+54 |
+54 |
+18 |
+45 |
+45 |
+
+Remarks
+
+PG DE Credits: 81, Thesis Credits: 81
+
+A BTH-MT-IS student must complete 27 PG DE credits toward BTH-IS requirements, and then 54 additional PG DE credits to fulfill MT requirements, for a total of 81 PG DE
+
+PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 6/7
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > dual degree]
+To balance the semester loads, the BTH-MT-IS template recommends 18 thesis credits in the summer semester instead of the usual 9 credits.
+
+For BTH-MT-IS students, up to 36 OE credits from the BTH-IS minimum requirements may be waived and instead be used to fulfill MT requirements. All other BTH-IS credit requirements (semesters 1-8) need to be fulfilled.
+
+BTH-MT-IS students must do at least 18 and at most 36 credits of UGP (possibly taken as DE) but at most 27 UGP credits can be counted towards graduation requirements.
+
+The UG CPI (instead of graduation CPI) for BTH-MT-IS students must be at least 5 for the “Honor” qualification to be awarded for the UG part.
+
+=== dual degree programme ===
+Source: https://www.iitk.ac.in/dis/dual-degree-programme
+Dual Degree Programme
+
+Department of Intelligent Systems, IIT Kanpur offers a five-year BTech + MTech dual degree program. Link
+For any further clarification, please contact: [email address hidden on the website]
+
+Note "The Dual Degree, Minor, Double Major programme options in the Department of Intelligent Systems will be available only to students admitted to IIT Kanpur from the Academic Year 2026–27 onwards. Students admitted in earlier batches will not be eligible for these options"
+
+=== m tech admission ===
+Source: https://www.iitk.ac.in/dis/m-tech-admission
+The Department of Intelligent Systems (IS) is now accepting applications for its M.Tech. program through the Online Application Portal.
+
+Admission Requirements
+
+All candidates will be shortlisted on the basis of marks/CPI (wherever applicable as per the eligibility criteria) and GATE Score (as per eligibility criteria), via the COAP portal. Additional selection criteria (if any) will be updated in this website in due course.
+
+Candidates applying for part-time, sponsored, or external registration will be selected based on interview instead of GATE score.
+
+Eligibility Criteria
+
+This information in this section is also contained in the PG manual, which is available at https://iitk.ac.in/doaa/pg-manual Only eligible candidates will be called for interviews.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > m tech admission]
+The “specified minimum” marks/CPI (Cumulative Performance Index), referred to in subsequent sections, implies a minimum of 55 percent marks /5.5 (on a 10 point scale) as long as it is not less than the minimum pass marks/CPI; otherwise, the “specified minimum” marks/CPI implies the minimum pass marks/CPI.
+
+The candidate must have one of the following:
+
+Bachelor's Degree in Engineering or a 4-year Bachelor's Degree in Science or a Master's Degree in Science or an allied area with marks/CPI not below the specified minimum.
+
+A valid GATE score is required for admission to M. Tech program for regular (non-sponsored/non-project) candidates. The requirement of GATE score is waived for the B.Tech candidates, graduated from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B.Tech.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > m tech admission]
+Online degrees are not accepted for admission.
+
+Candidates belonging to the reserved category (OBC-NCL/EWS/SC/ST/DAP) should provide appropriate category certificate in the prescribed format of Government of India for OBC-NCL/EWS/SC/ST/DAP, or else they will be admitted as general students. There is no reservation for candidates belonging to the OBC category.
+
+Shortlisting
+
+Regular candidates will be shortlisted on the basis of marks/CPI (wherever applicable as per the eligibility criteria) and GATE Score (as per eligibility criteria), via the COAP portal. Additional selection criteria (if any) will be updated in this website in due course.
+
+Candidates applying for part-time, sponsored, or external registration will be shortlisted based on their marks/CPI.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > m tech admission]
+Valid GATE specializations
+
+Wherever GATE is required, students only from the following GATE specializations will be considered for shortlisting:
+
+CS: Computer Science and Information Technology
+
+EC: Electronics and Communication Engineering
+
+DA: Data Science and Artificial Intelligence
+
+Documents
+
+At the time of applications, the candidates must provide the following:
+
+Marksheets for their qualifying degree
+
+GATE score card, if applicable
+
+NOC from employer, if applicable (format)
+
+Category certificate, if applicable
+
+The dates for interviews along with other relevant details will be announced in due course of time. Please keep checking this page continuously.
+
+=== minors in is ===
+Source: https://www.iitk.ac.in/dis/minors-in-is
+Minors in IS (M-IS)
+
+Minor in Digital IS |
+Minor in Cyberphysical IS |
+
+COMPULSORY |
+COMPULSORY |
+
+ESOXXX + ESOXXX (14) |
+ESOXXX + ESOXXX (14) |
+
+IS201 (10) |
+IS203 (11) |
+
+IS205 (12) |
+IS204 (12) |
+
+One course from the D-basket (9) |
+One course from the C-basket (9) |
+
+45 credits* |
+46 credits* |
+
+* Slightly outside of the allowable maximum credit limit 44
+
+=== ms admission ===
+Source: https://www.iitk.ac.in/dis/ms-admission
+The Department of Intelligent Systems (IS) is now accepting applications for its MS(R) program through the Online Application Portal.
+
+Admission Requirements
+
+All candidates will be selected on the basis of marks/CPI (wherever applicable), GATE Score, and interview.
+
+Eligibility Criteria
+
+Bachelor's degree in Engineering, or a 4-year bachelor's degree in Science, or a master's degree in Science or an allied area, with marks/CPI not below the specified minimum (as specified in PG manual).
+
+A valid GATE score is required for admission to the MS (Research) program for regular (non-sponsored/non-project) candidates. The requirement of GATE score is waived for the B.Tech candidates, graduated from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two years in B.Tech.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms admission]
+Shortlisting
+
+The department may utilize a cut-off CPI/GATE score for shortlisting the candidates being called for interview. The cut-off score will depend on the number of applications received.
+
+Valid GATE specializations
+
+ME: Mechanical Engineering
+
+ST: Statistics
+
+MA: Mathematics
+
+XH: Humanities and Social Sciences (Paper C1)
+
+Documents
+
+Marksheets for their qualifying degree
+
+GATE score card, if applicable
+
+Category certificate, if applicable
+
+Sponsored and Part-time MS(R)
+
+Interested applicants may refer to Sec. 2.7, 2.8, and 2.9 in the PG manual provided here: https://iitk.ac.in/doaa/pg-manual
+
+Such candidates should submit an NOC form their employer in the required format.
+
+=== ms program ===
+Source: https://www.iitk.ac.in/dis/ms-program
+Master of Science (MS) by Research Program
+
+The MS program is for those students who want to earn a master degree by contributing significantly to a research project. The course workload for this program is minimal and the major focus is on conducting research leading to a tangible outcome (e.g., publication, patent, product, etc.).
+
+Duration of the Program
+
+The residence requirements for the MS program is four semesters. The maximum duration for completing the MS Program is four years.
+
+Academic Session
+
+The academic year normally begins in the fourth week of July. The academic year consists of three terms, two semesters and a summer term: First Semester from August first week to December first week, Second Semester from January first week to May first week, and Summer Term from mid May to mid July.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms program]
+Program Requirement
+
+An MS student in the Department of Intelligent Systems is required to do 144 credits of course work and thesis. The minimum course requirement is 36 credits. In addition, the student must complete a minimum of 72 credits of thesis work. Remaining 36 credits may be through either coursework or thesis work. However, as the MS program is a research-oriented program, the students are advised to earn most of these credits through research work.
+
+A typical load per semester is 36 credits, but a student may be allowed to register for 27 credits if he/she wishes to go underload. A student can register for 9 or 18 credits of thesis in a summer session.
+
+The courses a student does have to be from the list of IS post-graduate courses. At least one of these courses has to be from the Digital AI basket and at least one course from the Cyber- Physical Systems basket.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms program]
+A student, in consultation with her/his advisor, may propose a course outside this list to be a suitable course for her/his MS coursework. A written request must be submitted to DPGC for registration in such courses and the student must receive a written permission to register in such course(s). The deadline for submitting such a request is EOD the pre-registration process starts for the next semester. The DPGC convener, in consultation with the DPGC members, may approve such a course as an IS-equivalent PG course within two days.
+
+The template of the MS program is provided below.
+
+Sem 1 |
+Sem 2 |
+Summer |
+Sem 3 |
+Sem 4 |
+
+PG DE-1 (9) |
+PG DE-5 (9) / MS Thesis (9) |
+MS Thesis (36) |
+MS Thesis (36) |
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms program]
+PG DE-2 (9) |
+PG DE-6 (9) / MS Thesis (9) |
+
+PG DE-3 (9) |
+PG DE-7 (9) / MS Thesis (9) |
+
+PG DE-4 (9) |
+PG DE-8 (9) / MS Thesis (9) |
+
+36 |
+36 |
+36 |
+36 |
+
+Financial Assistance
+
+Non-sponsored candidates admitted to the regular full-time MS Program who are Indian Nationals are eligible for financial assistance as follows:
+
+Teaching Assistantship: Candidates admitted to the MS program after qualifying GATE will be offered the Teaching Assistantship (TA) or Research Assistantship (RA) provided they have secured at least 60 percent marks (55 percent for SC/ST candidates) in their qualifying degree A teaching assistant can be asked to conduct labs, take tutorial sessions, help an instructor in grading, and other course-related tasks. A TA may be asked to support the department in various academic activities, such as providing help in maintaining and upgrading department labs, downloading, installing software, etc. Currently the assistantship amount is Rs. 12,400/- per month. It also gives a 50% waiver in tuition fee.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms program]
+Research Assistantship: Several faculty members are working on sponsored projects, supported by government funding agencies such as MHRD, DIT, DST, DRDO, Some projects are also funded by Industry. An MS student can be hired by a faculty member as a research assistant to help him conduct research. In such cases, an assistantship amount, decided by the concerned faculty member, can be provided. Unlike the MS program where most students avail a teaching assistantship, most MS students are expected to be funded by a project led by the advisor of the student
+
+No student can draw more than one scholarship/assistance at a time.
+
+Further Details
+
+For more details about the institute-wide rules and regulations about the MS program, please refer to the PG manual.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > ms program]
+Post Graduate Courses
+
+=== mtech ===
+Source: https://www.iitk.ac.in/dis/mtech
+Master of Technology (MTech) Program
+
+The MTech program offers a broad curriculum alongside focused research culminating in a thesis, providing students with the breadth and depth needed for careers in both academia and industry.
+
+Duration of the Program
+
+The residence requirements for the MTech program is four semesters. The maximum duration for completing the M.Tech Program is four years.
+
+Academic Session
+
+Program Requirement
+
+An MTech student in the Department of Intelligent Systems is required to do 144 credits of course work and thesis. The minimum course requirement is 63 credits. In addition, the student must complete a minimum of 72 credits of thesis work. Remaining 9 credits may be through either a course or thesis work.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > mtech]
+Of all the courses a student does, at least seven courses have to be from the list of IS post- graduate courses. At least one of these courses has to be from the Digital AI basket and at least one course from the Cyber-Physical Systems basket.
+
+A student, in consultation with her/his advisor, may propose a course outside this list to be a suitable course for her/his M.Tech coursework. A written request must be submitted to DPGC for registration in such courses and the student must receive a written permission to register in such course(s). The deadline for submitting such a request is EOD the pre-registration process starts for the next semester. The DPGC convener, in consultation with the DPGC members, may approve such a course as an IS-equivalent PG course within two days.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > mtech]
+The template of the M.Tech program is provided below.
+
+Sem 1 |
+Sem 2 |
+Summer |
+Sem 3 |
+Sem 4 |
+
+PG DE-1 (9) |
+PG DE-5 (9) |
+MT Thesis (36) |
+MT Thesis (36) |
+
+PG DE-2 (9) |
+PG DE-6 (9) |
+
+PG DE-3 (9) |
+PG DE-7 (9) |
+
+PG DE-4 (9) |
+MT Thesis (9)/ PG DE-8 (9) |
+
+36 |
+36 |
+36 |
+36 |
+
+Financial Assistance
+
+Non-sponsored candidates admitted to the regular full-time MTech Program who are Indian Nationals are eligible for financial assistance as follows:
+
+Teaching Assistantship: Candidates admitted to the MTech program after qualifying GATE will be offered the Teaching Assistantship (TA) or Research Assistantship (RA) provided they have secured at least 60 percent marks (55 percent for SC/ST candidates) in their qualifying degree A teaching assistant can be asked to conduct labs, take tutorial sessions, help an instructor in grading, and other course-related tasks. A TA may be asked to support the department in various academic activities, such as providing help in maintaining and upgrading department labs, downloading, installing software, etc. Currently the assistantship amount is Rs. 12,400/- per month. It also gives a 50% waiver in tuition fee.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > mtech]
+Research Assistantship: Several faculty members are working on sponsored projects, supported by government funding agencies such as MHRD, DIT, DST, DRDO, Some projects are also funded by Industry. An MTech student can be hired by a faculty member as a research assistant to help him conduct research. In such cases, an assistantship amount, decided by the concerned faculty member, can be provided.
+
+Further Details
+
+For more details about the institute-wide rules and regulations about the M.tech program, please refer to the PG manual.
+
+Post Graduate Courses
+
+=== phd ===
+Source: https://www.iitk.ac.in/dis/phd
+Doctor of Philosophy (Ph.D.) Program Requirements
+
+The Department of Intelligent Systems is actively engaged in cutting-edge research across all current areas related to intelligent systems such as machine learning, data science, natural language processing, computer vision, cyber-physical systems, robotics, and related fields. The focus of our PhD program is on intensive research training with a high level of specialization. The objective of this training is to equip our PhD students with deep expertise in their respective areas, enabling them to pursue careers in academia, research, or industry in the rapidly evolving field of intelligent systems.
+
+Advising
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Each PhD student is advised by a faculty member from the department. In some exceptional cases, a student may have a secondary advisor together with the primary advisor. At the time of admission, a newly admitted PhD student will be provided with one or more options for the PhD advisor. These are the faculty members who show interest in mentoring the student in her PhD research work. The student has to choose one of them as her primary advisor before registering with the PhD program. Upon the advice of the primary advisor, a secondary advisor may also be chosen later. The student is expected to start her coursework in consultation with her advisors.
+
+In certain unavoidable cases, the advisors may be changed upon written request from the student. It is important that the student finds an alternative advisor before submitting a change of advisor request.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Major Fields
+
+A PhD student in the department is expected to conduct research on a topic within a broad range of research areas, including but not limited to:
+
+Artificial Intelligence
+
+Machine Learning and Algorithms
+
+Data Science and Big Data Analytics
+
+Natural Language Processing
+
+Computer Vision and Pattern Recognition
+
+Embedded and Cyber-Physical Systems
+
+Optimization and Control
+
+Robotics and Autonomous Systems
+
+Pervasive and Mobile Computing
+
+Computer Security
+
+Software Engineering
+
+Human-Computer Interaction
+
+Wireless Communication Systems
+
+Economics of AI
+
+Public Policy related to AI
+
+Credit Requirement and Coursework
+
+For PhD students who have an M.Tech./MDes/MBA/MD/MVSc/MPharma degree, the minimum requirement is 144 credits, out of which at least 36 credits should be through regular post-graduate courses and at least 72 credits should be through research.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+In case of PhD students holding a B.Tech./BS/MSc/MCA degree, the minimum requirement is 216 credits, out of which 36 credits should be through post-graduate courses and at least 72 credits should be through research.
+
+A typical course is considered to be of 9 credits. All the courses in the PhD program are electives. A large number of electives are offered each semester. The exact courses offered will depend on the availability of faculty members in a particular semester.
+
+To continue in the PhD program, the student needs to maintain a CPI of at least 6.5.
+
+Comprehensive Examination
+
+Students registered in the Ph.D. programme must pass a comprehensive examination designed to test the overall comprehension of the student in the various subjects. A student can appear in the comprehensive examination only after he/she has completed the course requirements and satisfied the minimum specified CPI requirement. The comprehensive exam is conducted by a committee that includes the thesis advisor(s), at least two other members from the department and one institute faculty member outside the department.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+The examination will be in the oral form but may be supplemented with a written component. The specific format of the comprehensive examination is decided by the committee.
+
+A PhD student must pass the comprehensive examination within four months of completing the minimum credits through coursework. In no case, the date of passing the comprehensive examination should go beyond four semesters after the first registration.
+
+State-of-the-art Seminar
+
+Once a PhD student passes the comprehensive examination successfully, she is admitted to the candidacy for the Ph.D. degree. Every Ph.D. candidate is required to give a general seminar in the department covering the State of Art of the area of research. This seminar must be given within six months of passing the comprehensive examination.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Doctoral Dissertation
+
+Each doctoral student must produce a dissertation that demonstrates their ability to conduct original, independent research and make a meaningful contribution to the body of knowledge in their main field of study. Ideally, the dissertation should be based on research papers published in reputable venues related to intelligent systems, including but not limited to
+
+conferences such as AAAI, IJCAI, AAMAS, ICAPS, ICML, NeurIPS, ICLR, SIGIR, WWW, KDD, ACL, EMNLP, NAACL, CVPR, ICCV, EMSOFT, RTSS, RTAS, ICCPS, HSCC, CDC, ACC, ICRA, IROS, RSS, MobiCom, MobiSys, SenSys, CCS, IEEE S&P, USENIX Security, FSE, ICSE, ASE, CHI, and UBICOMP.
+
+Journals such as IEEE TRO, IEEE TWC, IEEE TCOM, ACM TECS, AIJ, and JMLR
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Open Seminar
+
+Before proceeding to finalize the thesis, each Ph.D. student must deliver an open seminar to faculty and students in which their research work will be presented. Feedback obtained from the seminar may be incorporated in the thesis before submission.
+
+Thesis Submission and Review
+
+The thesis has to be submitted within six months of delivering the open seminar. Once the student submits her thesis, it is sent to the oral board which includes the thesis advisor(s) and three other members. At least two members of the thesis board (other than the supervisor(s)) must be from outside the Institute and at least one of these two must be from within the country.
+
+Final Oral Examination (Defense of the Thesis)
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Once the reviews from the members of the oral board are received, the student has to address all the comments provided by them and submit the revised thesis to the PhD oral board. PhD oral board consists of four members in addition to the thesis supervisor(s). Of the four, three shall be from among the faculty members of the institute (including those, if any, on the thesis board) and one shall be from among the members of the thesis board within the country but outside the institute. Of the three members from IIT Kanpur, at least one shall be from a different department or IDP.
+
+Finally, the student has to deliver a seminar defending her thesis in front of an open audience. The members of the oral board will attend the seminar. Upon successfully passing the oral examination, the student is conferred the PhD degree.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Financial Assistance
+
+Non-sponsored candidates admitted to the regular full-time PhD Program who are Indian Nationals are eligible for financial assistance. Each Ph.D student is given a stipend of Rs. 37,000 per month for the first two years which increases to Rs. 42,000 per month for the next three years. Each PhD student receiving financial assistance from the institute is required to be involved in teaching activities such as being a teaching assistant or tutor for a course or research activities as assigned by the department. Any such involvement will be restricted to eight hours per week.
+
+Opportunities in Sponsored Research
+
+Sponsored research and development activities are actively pursued in the department, with many projects addressing currently relevant problems involving advanced technologies. PhD students are encouraged to participate in these funded projects, which not only offer opportunities to work on state-of-the-art and practically meaningful topics but may also provide additional financial support.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+Students are further encouraged to align their research problems with these ongoing activities, enabling them to make use of sophisticated facilities and contribute to impactful work. In special cases, qualified candidates may join projects as Research Associates and concurrently carry out both research, usually related to their thesis, and project work. Such candidates may receive remuneration higher than the standard MHRD norms for PhD scholarships.
+
+PhD Templates
+
+PhD in IS (PhD-IS) Template: Admission after Masters
+
+A total of 144 credits are required to obtain the PhD-IS degree for those who join the PhD program with M.Des., M.Tech., or MBA (with B.Tech., B.S. (4 years), M.Sc., M.A.), M.Pharm, M.D., M.V.Sc degree.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+At least 36 credits must be obtained using course work.
+
+At least 72 credits must be obtained using thesis work.
+
+A typical semester load is 36 credits, but a student may register for 27 credits.
+
+A student may register for 0 or 9 or 18 credits in a summer session.
+
+Students must take all courses in consultation with their PhD supervisor, who will ensure that the courses are relevant and do not overlap with other courses.
+
+Sem 1 |
+Sem 2 |
+Sem 3-12 |
+
+OE (9) |
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+
+OE (9) |
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+
+OE (9) /PhD Thesis (9) |
+PhD Thesis (9) |
+PhD Thesis (9) |
+
+OE (9) /PhD Thesis (9) |
+PhD Thesis (9) |
+PhD Thesis (9) |
+
+36 |
+36 |
+Remaining Credits |
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+PhD in IS (PhD-IS) Template: admission after Bachelors/MSc
+
+A total of 216 credits are required to obtain the PhD-IS degree for those who join the PhD program after Tech., B.S. (4 years), M.Sc., M.C.A.
+
+At least 54 credits must be obtained from course work
+
+At least 72 credits must be obtained using thesis work.
+
+A typical semester load is 36 credits, but a student may register for 27 credits.
+
+A student may register for 0 or 9 or 18 credits in a summer session.
+
+Students must take all courses in consultation with their PhD supervisor, who will ensure that the courses are relevant and do not overlap with other courses.
+
+Sem 1 |
+Sem 2 |
+Sem 3-12 |
+
+OE (9) |
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd]
+OE (9) |
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+PhD Thesis (9) |
+
+OE (9) /PhD Thesis (9) |
+OE (9) /PhD Thesis (9) |
+PhD Thesis (9) |
+
+36 |
+36 |
+Remaining Credits |
+
+=== phd admission ===
+Source: https://www.iitk.ac.in/dis/phd-admission
+The Department of Information Systems (IS) is now accepting applications for its PhD program through the Online Application Portal.
+
+Admission Requirements
+
+Candidates with Master's degree in engineering will be selected on the basis of marks/CPI and interview. Candidates with a bachelor's degree in engineering or science (4 year program) will be selected on the basis of marks/CPI, GATE AIR (wherever applicable), and an interview.
+
+Eligibility Criteria
+
+Master’s degree in Engineering with marks/ CPI not below the specified minimum (as specified in PG manual)
+
+Bachelor's degree in Engineering or Science (4 year program) with a minimum of 75 percent marks/7.5 CPI and a GATE AIR within 5% of the total candidates (requirement for GATE score is waived for candidates with bachelor's degree in engineering or science from CFTIs)
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > phd admission]
+Master's degree in Science or an allied area while satisfying each of the following three criteria:(a) a minimum of 65 percent marks/6.5 CPI in the master's degree, (b) first division in bachelor's degree, and (c) GATE AIR within 5% of the total candidates/JRF (this requirement of JRF/GATE score is waived for candidates with master's degree in science or allied area from CFTIs with a CPI > 8.0).
+
+Shortlisting
+
+Valid GATE specializations
+
+ME: Mechanical Engineering
+
+ST: Statistics
+
+MA: Mathematics
+
+Documents
+
+Marksheets for their qualifying degree
+
+GATE score card, if applicable
+
+Category certificate, if applicable
+
+Sponsored and Part-time PhD
+
+Preference for a faculty supervisor
+
+Before the interviews, the candidates will be asked (via email) to specify up to two preferences for the faculty members whom they wish to join. However, the PhD thesis supervisor will be finalized only after the student joins and makes an application to the department.
+
+=== prospective postdocs ===
+Source: https://www.iitk.ac.in/dis/prospective-postdocs
+Prospective Postdoctoral Fellows
+
+Department of Intelligent Systems is inviting application under the Institute Post Doctoral Fellowship Scheme, from Indian Nationals, Persons of Indian Origin (PIO), Overseas Citizens of India (OCI) and foreign nationals who have completed their Ph.D within last five years. The positions are purely temporary. The initial appointment will be for a period of one year, and extendable subject to satisfactory performance.
+
+We welcome applications in a broad range of research areas, including but not limited to:
+
+Artificial Intelligence
+
+Machine Learning
+
+Data Science and Big Data Analytics
+
+Natural Language Processing
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > prospective postdocs]
+Computer Vision and Pattern Recognition
+
+Embedded and Cyber-Physical Systems
+
+Optimization and Control
+
+Robotics and Autonomous Systems
+
+Pervasive and Mobile Computing
+
+Computer Security
+
+Software Engineering
+
+Human-Computer Interaction
+
+A candidate who has experience in publishing in the following venues would be a good fit: AAAI, IJCAI, AAMAS, ICAPS, ICML, NeurIPS, ICLR, SIGIR, WWW, KDD, ACL, ENMLP, NAACL, CVPR, ICCV, EMSOFT, RTSS, RTAS, ICCPS, HSCC, CDC, ACC, ICRA, IROS, RSS, MobiCom, MobiSys, SenSys, CCS, IEEE S&P, USENIX Security, FSE, ICSE, ASE, CHI, UBICOMP, and Marquee conferences or journals in CSE or EE.
+
+Benefits
+
+Fellowship Amount: Fellowship amount will be INR 80000 per month for the first year, INR 90000 per month for the second year, and INR 100000 per month in the third year. Extensions to the second and the third year are contingent upon satisfactory performance of the candidate.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > prospective postdocs]
+Contingency: A contingency amount of INR 1,50,000 per year will be provided to the candidate, which can be spent for conference registration, travel, purchasing minor equipment and books not available in the library.
+
+Medical Benefits: A Postdoctoral Fellow may avail outpatient facilities in the Institute Health Centre. No reimbursement of cost of medicines in treatment is permissible, any outside referral shall not be reimbursable. However, the routine medicines stocked in the Pharmacy of the Health Centre & outsourced Pharmacy available at Health Centre of the Institute will be provided free of charge. The dependents of PDF will be eligible for OPD facility at Health Centre & medicines available at Pharmacy of Health Centre. A medical booklet shall be provided to each Postdoctoral Fellow & his/her dependent. Dependents for this purpose shall be limited to spouse & maximum two children.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > prospective postdocs]
+Leave rules: A Postdoctoral Fellow will be eligible for 30 days personal leave and 8 days of casual leave in an academic year. Leave on medical ground without pay, duly supported by a medical certificate, may be granted for up to 20 days per academic year.
+
+A female Postdoctoral Fellow may be granted maternity leave for a maximum of 3 months. Leave up to 6 weeks can also be granted for miscarriage including medical termination of pregnancy, if supported by a proper medical certificate. Such leave can be combined with any other leave due and will not entail any loss of financial assistantship.
+
+Accommodation: No on campus accommodation will be provided. HRA may be paid at the prevailing rates of the fellowship amount for off-campus housing.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > prospective postdocs]
+Campus facilities: Postdoctoral Fellows will enjoy the same benefits as registered students with respect to ID, Computer Center, Central Library, sports facilities, and Swimming Pool etc.
+
+Application Procedure
+
+An interested candidate is requested to submit his/her application through the following web portal:
+
+https://pingala.iitk.ac.in/IITKFR-0/login
+
+The candidate is requested to also send (a) his/her complete CV, (b) Cover letter mentioning preferred laboratory/faculty members of our department for undertaking research and (c) Detailed research plan in pdf form by email to:
+
+Professor Indranil Saha,
+
+Head, Department of Intelligent Systems
+
+=== template for b tech in intelligent systems ===
+Source: https://www.iitk.ac.in/dis/template-for-b-tech-in-intelligent-systems
+Template for B.Tech in Intelligent Systems
+
+ESC - Essentials for Scientific Computing
+
+ESO - Engineering Science Options
+
+Bachelor of Technology in IS (BT-IS)
+
+Sem 1 |
+Sem 2 |
+Sem 3 |
+Sem 4 |
+Sem 5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+SCHEME
+ELC10X (9) |
+ETH111
+(3)  |
+SCHEME
+HSS-1
+(11) |
+SCHEME
+EME
+(9-11) |
+SCHEME
+HSS-2
+(9) |
+SCHEME
+HSS-2
+(9) |
+SCHEME
+HSS-2
+(9) |
+DE-5
+(9) |
+
+MTH111M
+MTH112M
+(6+6) |
+MTH113M
+MTH114M
+(6+6) |
+ESC201
+(14) |
+ESO207
+(12) |
+ESO-1
+(9-11) |
+DE-1
+(9) |
+DE-3
+(9) |
+DE-6
+(9) |
+
+PHY111
+PHY114
+(3+11) |
+PHY112
+(11) |
+IS201
+(10) |
+CS771 /
+IS205
+(12)  |
+IS301
+(3) |
+DE-2 /
+UGP-1
+(9) |
+DE-4 /
+UGP-2
+(9) |
+DE-7 /
+UGP-3
+(9) |
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > template for b tech in intelligent systems]
+CHM112M +
+CHM113M
+(4+4) |
+CHM111
+(3) |
+EE200 /
+IS202
+(11) |
+EE250 /
+IS204
+(11) |
+EE320 /
+IS304
+(11) |
+OE-1
+(9) |
+OE-3
+(9) |
+OE-5
+(9) |
+
+ESC111M
+ESC112M
+(7+7) |
+ESOXXX +
+ESOXXX
+(7+7) |
+IS203
+(12) |
+IS302
+(12) |
+OE-2
+(9) |
+OE-4
+(9) |
+OE-6
+(9) |
+
+TA111
+(9) |
+LIF111
+(6) |
+ME381/
+IS305
+(7) |
+
+PE111
+(3) |
+PE112
+(3) |
+
+55 |
+52 |
+60 |
+56-58 |
+51-53 |
+45 |
+45 |
+45 |
+
+Credit Table for BT Program in Intelligent Systems |
+
+Course Type |
+Recommended Credit Range |
+Minimum Credits Required for Graduation |
+
+Institute Core |
+112 |
+112 |
+
+ESO |
+18-45 |
+35-37 |
+
+Department
+Requirements |
+144-179 |
+152 (89 DC + 63 DE) |
+
+Open Electives |
+51-57 |
+54 |
+
+SCHEME |
+54-58 |
+54-58 |
+
+Total |
+391-420 |
+406-412 |
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > template for b tech in intelligent systems]
+BT in IS with Management (BTM-IS)
+
+Sem 1-5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+Identical to BT-IS program |
+SCHEME HSS-2
+(9) |
+SCHEME HSS-2
+(9) |
+OE-2
+(9) |
+
+DE-1
+(9) |
+OE-1
+(9) |
+OE-3
+(9) |
+
+DE-2 /
+UGP-1
+(9) |
+DE-3 /
+UGP-2
+(9) |
+DE-4 /
+UGP-3 |
+
+MTB-1 (9) |
+MTB-3 (9) |
+MTB-5 (9) |
+
+MTB-2 (9) |
+MTB-4 (9) |
+MTB-6 (9) |
+
+271 |
+45 |
+45 |
+45 |
+
+Remarks
+
+The BTM-IS template replaces 27 DE + 27 OE credits with 54 MTB (management track basket) credits
+
+A list of courses that will be notified as being eligible for MTB credits will be communicated at the time of application for the BTM program.
+
+BTM-IS students can take up to 4 UGPs, but only at most 3 UGPs (27 credits) can be counted towards graduation requirements. All UGPs are optional.
+
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > template for b tech in intelligent systems]
+Up to 36 OE credits may be waived from the minimum requirements for students opting for either the Dual Degree or Double Major programs.
+
+BT in IS with Honors (BTH-IS)
+
+Sem 1 |
+Sem 2 |
+Sem 3 |
+Sem 4 |
+Sem 5 |
+Sem 6 |
+Sem 7 |
+Sem 8 |
+
+SCHEME
+ELC10X (9) |
+ETH111
+(3)  |
+SCHEME
+HSS-1
+(9-11) |
+SCHEME
+EME
+(9-11) |
+SCHEME
+HSS-2
+(9) |
+SCHEME
+HSS-2
+(9) |
+SCHEME
+HSS-2
+(9) |
+DE-3
+(9) |
+
+MTH111M
+MTH112M
+(6+6) |
+MTH113M
+MTH114M
+(6+6) |
+ESC201
+(14) |
+ESO207
+(12) |
+ESO-1
+(9-11) |
+DE-1
+(9) |
+DE-2
+(9) |
+DE-4
+(9) |
+
+PHY111
+PHY114
+(3+11) |
+PHY112
+(11) |
+IS201
+(10) |
+CS771 /
+IS205
+(12)  |
+IS301
+(3) |
+UGP-1
+(9) |
+UGP-2
+(9) |
+DE-5 /
+UGP-3
+(9) |
+
+CHM112M +
+CHM113M
+(4+4) |
+CHM111
+(3) |
+EE200 /
+IS202
+(11) |
+EE250 /
+IS204
+[Context: DEPARTMENT OF INTELLIGENT SYSTEMS (ESTABLISHED 2025 WITHIN THE WADHWANI SCHOOL FOR AI AND INTEL > template for b tech in intelligent systems]
+(11) |
+EE320 /
+IS304
+(11) |
+OE-1
+(9) |
+OE-3
+(9) |
+OE-5
+(9) |
+
+ESC111M
+ESC112M
+(7+7) |
+ESOXXX +
+ESOXXX
+(7+7) |
+IS203
+(12) |
+IS302
+(12) |
+OE-2
+(9) |
+OE-4
+(9) |
+OE-6
+(9) |
+
+TA111
+(9) |
+LIF111
+(6) |
+ME381/
+IS305
+(7) |
+PG DE-1
+(9) |
+PG DE-2
+(9) |
+PG DE-3
+(9) |
+
+PE111
+(3) |
+PE112
+(3) |
+
+55 |
+52 |
+58-60 |
+56-58 |
+51-53 |
+54 |
+54 |
+54 |
+
+Remarks
+
+In the BTH-IS template, 27 additional PG DE credits must be 2 UGPs are mandatory for the BTH program
+
+A student must have a graduation CPI of at least 5 to be eligible for B.Tech. Honours.
+
+=== Other URLs whose page content is a duplicate of a page above ===
+https://www.iitk.ac.in/dis/minor-programme (minor programme)

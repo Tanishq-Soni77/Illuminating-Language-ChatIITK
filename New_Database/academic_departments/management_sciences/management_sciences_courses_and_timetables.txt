@@ -1,0 +1,324 @@
+DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Management Sciences (DoMS), IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/doms. Snapshot: scraped in 2026.
+
+=== dual degree course ===
+Source: https://www.iitk.ac.in/doms/dual-degree-course
+Dual Degree Options
+
+B. S./B. Tech. + M. B. A.
+Department Name: Department of Management Sciences Mandatory Credits from UG (BS/BTech): NA
+
+Total Credits from DoMS: 68 (old credit system)
+
+PG component - 68 (old credit system)
+
+Credits of Masters' thesis: 0
+
+Maximum Number of Students Admitted to Dual Degree: 15
+
+Details of DoMS Requirements
+
+Item | List of Courses / No. of Credits | No. Of Credits |
+
+Mandatory Courses |
+
+a.) MBA 601, plus
+
+b.) Any 4 of the following courses:
+(i) MBA 606, MBA 607, MBA 611, MBA 616,
+MBA 617, MBA 631, MBA 661
+
+c.) MBA 699 I, MBA 699 II, plus
+
+d.) MBA 697 (Summer Internship after 8 Semesters)
+
+4
+
+16
+
+8
+
+0
+
+Advanced IME Open Electives (OEs) |
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > dual degree course]
+a.) 10 Open Elective courses (40 Credits Total)
+
+(1.)To be chosen from a variety of IME OEs
+Offered (See DoMS Website
+for further Details)
+
+(i)5 IME OEs to be taken during UG
+(ii)5 IME OEs to be taken in 2 Semesters
+during the 5th Year
+
+20
+20
+
+Thesis |
+68 |
+
+TOTAL CREDITS |
+68 |
+
+B. S./B. Tech. + M. Tech.
+Department Name: Department of Management Sciences Mandatory Credits from UG (BS/BTech): 22 Credits (ESC 201, ESO 209) (2*11 = 22 Credits)
+
+Total Credits from DoMS: 45 Credits (5*9 = 45 Credits)
+
+Credits of Masters' thesis: 72 Credits (8*9 = 72 Credits)
+
+Maximum Number of Students Admitted to Dual Degree: 7
+
+Details of DoMS Requirements
+
+Item | List of Courses / No. of Credits | No. Of Credits |
+
+Mandatory Courses |
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > dual degree course]
+Any 5 of the following courses (9 Credits each):
+a.) IME 604, IME 611, IME 624, IME 625,
+IME 630, IME 633, IME 634, IME 641,
+IME 648, IME 681, IME 684, IME 692
+b.) And any of the MBA Courses deemed
+fit by DPGC and required by Thesis Advisor
+(i) To be taken during UG (5*9 = 45 Credits)
+
+45
+
+Mandatory Summer Internship |
+During the summer before Thesis Work begins |
+0 |
+
+Thesis |
+Full two semesters of Thesis Work (8*9 = 72 Credits) |
+72 |
+
+TOTAL CREDITS |
+117 |
+
+Guidelines
+For students wanting to opt for an M.Tech/ M.S./MBA in a department that is not his/her parent department,the following rules apply:
+
+Students can apply for the M.Tech/M.S./MBA program in a different department,at the end of the sixth semester of their academic program.
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > dual degree course]
+The student should have no backlogs,with respect to the UG template of their parent department,at the time of application.
+
+The student should have a minimum CPI of 6.0 at the time of appilcation. Dualdegree option should be given against the desired options,according to availability of seats and CPI of the student.
+
+Migration to the PG program will be done only after all credit requirements,for an undergraduate degree in the parent department,are completed.
+
+The student may wish to not continue with the PG program at the end of his/her regular B.Tech/B.S program. Approval for withdrawal will be given against a written request to the Chari man SUGC,through the DUGC convener of the parent department.
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > dual degree course]
+The PG program change will be withdrawn if the student accumulates more than 40 credits of backlog by the end of the eight semester of his academic program.
+
+Application for program change should be made to Chari man SUGC,through DUGC convener of the parent department.
+
+=== m tech courses ===
+Source: https://www.iitk.ac.in/doms/m-tech-courses
+Course Structure and Curriculum
+
+Minimum Total Credits - 144
+
+Residential Requirement: 4 Semesters
+
+Core Courses: Three (3) – 27 credits
+
+Probability and Statistics (9 credits)
+
+Introduction to Computing (9 credits)
+
+Operations Research for Management (9 credits)
+
+Elective Courses: Six (6) – 54 credits
+
+Students can take elective courses from DoMS and/or other departments of IIT Kanpur.
+
+Seminar Course: Zero (0) credits
+
+Seminar course should be taken in every semester for which attendance is compulsory.
+
+Industrial Project: Zero (0) credits
+
+During the summer break, i.e., after the end of second semester an industrial project should be taken up. This is a mandatory requirement.
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > m tech courses]
+COURSES |
+CREDITS |
+
+CORE |
+27 |
+
+ELECTIVES |
+54 |
+
+THESIS CREDITS |
+63 |
+
+TOTAL |
+144 |
+
+*CLICK HERE to view the List of Courses as offered by DoMS
+
+=== mba course structure ===
+Source: https://www.iitk.ac.in/doms/mba-course-structure
+"To transform today's professionals in technology into tomorrow's world class leaders. The emphasis of MBA at IIT Kanpur is to nurture leaders who dare to unlearn and relearn in the dynamic world of business"
+
+=== mba courses ===
+Source: https://www.iitk.ac.in/doms/mba-courses
+Course Details
+
+Course Structure and Curriculum
+
+Total Credits |
+216 |
+
+Residential Requirements |
+4 Semesters |
+
+Core-Courses |
+Seven (7) - 70 credits
+Marketing Management (10 credits)
+
+Accounting and Finance (10 credits)
+
+Organisation Structure and Design (10 credits)
+
+Economic Analysis for Management (10 credits)
+
+Quantitative Methods for Decision Making (10 credits)
+
+Production and Operations Management (10 credits)
+
+Socio-Political and Ethical Aspects of Business (10 credits)
+
+Elective-Courses |
+Students can take elective courses from DoMS and other departments of IIT Kanpur. |
+
+Management Seminar Course |
+Every Semester (0 Credit). Attendance is compulsory. |
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mba courses]
+Capstone Project |
+To Read more about Capstone Project, click CAPSTONE PROJECT tab. |
+
+Summer Project |
+During summer break, after second semester is compulsory (10 Credits). |
+
+COURSES |
+CREDITS |
+
+CORE |
+70 |
+
+ELECTIVES |
+100 |
+
+SUMMER PROJECT |
+10 |
+
+CAPSTONE PROJECT |
+9+27 |
+
+MANAGEMENT SEMINARS |
+0 |
+
+TOTAL |
+216 |
+
+CLICK HERE to view the List of Courses as offered by DoMS
+
+Capstone Project
+
+The Capstone Project is a two-semester process in which students pursue independent research on a question or problem of their choice, engage with companies in relevant disciplines, and - with the guidance of a faculty mentor - produce a substantial paper that reflects a deep understanding of the topic.
+
+Capstone Project generally progresses in one of the 3 avenues:
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mba courses]
+A continuation of the problem statement adopted during the summer program, if mutually agreed with the organisation or as a problem of technical interest as a by-project with fresh start which may lead to a substantial work towards a solution of the problem statement
+
+A mutually agreed to project with a start-up or an organisation with a clear objective and a possible timeline of delivery. The startup environment fostered by the SIDBI IIT Kanpur often provides innumerable opportunities for fostering professional ideation and implementation of solutions which can be visibly observed in the accelerated startups
+
+Students are strongly encouraged to choose a topic in which they have some competence based on their academic work, professional experience, or exploration of future career options
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mba courses]
+The Capstone Project has been implemented after rigorous feedback from industry, faculty and our alumni. The broad objectives of the Capstone project are:
+
+To inculcate the understanding of sustainability and innovation to bring a student in tune with the changing times and future requirements
+
+Enable a student to not only implement function specific techniques and knowledge, but also to learn the integrative skills where knowledge across specific streams can be applied to a real-life problem
+
+Enable companies to benefit from the insights and solutions provided by the students while working on Capstone project
+
+This project runs simultaneous to the curriculum and creates an environment that engages, motivates, and inspires a student to learn more as students can create something vibrant, engaging, and meaningful because they have chosen their area of interest, put their personal touch on it and as a result it bridges the gap between the academic material and what they have created. They then retain the information better because they have designed something from a real-world experience.
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > mba courses]
+*Capstone Web
+
+=== nptel online courses ===
+Source: https://www.iitk.ac.in/doms/nptel-online-courses
+About NPTEL ONLINE Course
+
+NPTEL is an acronym for National Programme on Technology Enhanced Learning which is an initiative by seven Indian Institutes of Technology (IIT Bombay, Delhi, Guwahati, Kanpur, Kharagpur, Madras and Roorkee) and Indian Institute of Science (IISc) for creating course contents in engineering and science.
+
+CLICK HERE to go to NPTEL Homepage
+
+NPTEL as a project originated from many deliberations between IITs, Indian Institutes of Management (IIMs) and Carnegie Mellon University (CMU) during the years 1999-2003. A proposal was jointly put forward by five IITs (Bombay, Delhi, Kanpur, Kharagpur and Madras) and IISc for creating contents for 100 courses as web based supplements and 100 complete video courses, for forty hours of duration per course. Web supplements were expected to cover materials that could be delivered in approximately forty hours. Management courses contents on Finance, Marketing, Operations Management, Management Information Systems etc. have are based on the model curriculum suggested by All India Council for Technical Education (AICTE) and the syllabi of major affiliating Universities in India.
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel online courses]
+NPTEL Online Courses(Web/Video) conducted by DoMS IIT Kanpur Professors
+
+Video Courses
+
+Web Courses
+
+=== ph d course structure and curriculum ===
+Source: https://www.iitk.ac.in/doms/ph-d-course-structure-and-curriculum
+Coursework Stage |
+
+Compulsory Courses:
+
+Research Methodology
+
++
+
+At least one of following three courses:
+
+Introduction to Probability and Statistics
+
+Operations Research for Management
+
+Quantitative Methods for Decision Making
+
++
+
+Seminar Course: Every Semester till submission of the thesis.
+
+Elective Courses:
+
+Students can take elective courses from DoMS and other departments of IIT Kanpur.
+
+Post coursework Stage |
+A student is required to register themselves for 4 units of research credits and a seminar course till submission of the thesis. |
+
+Comprehensive Exam |
+A student is required to appear for the comprehensive examination after the completion of coursework. |
+
+[Context: DEPARTMENT OF MANAGEMENT SCIENCES (DOMS) IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > ph d course structure and curriculum]
+State of the Art Seminar (SoTA)   |
+A student is required to give a seminar covering the State of the Art of the area of research after passing the comprehensive examination. |
+
+Open Seminar of Ph.D. Students |
+Before proceeding to the final submission of the thesis, student is required to deliver a seminar covering the research work to obtain relevant feedback and suggestions. |
+
+Thesis Submission and Evaluation   |
+Thesis is submitted to academic section after the open seminar. Upon submission, thesis is sent for evaluation to the external experts. |
+
+Ph.D. Oral Examination |
+Upon satisfactory evaluation of the thesis, student is required to deliver the final seminar as a part of oral examination to the oral board which culminates into final award of PhD degree. |
+

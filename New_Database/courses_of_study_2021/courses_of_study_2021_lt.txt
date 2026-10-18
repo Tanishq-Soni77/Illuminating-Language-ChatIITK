@@ -1,0 +1,23 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF LT (LT) COURSES
+Name: All courses of Department of LT (LT) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course LT601 - INTRODUCTION TO LASERS
+Department: Department of LT. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Introduction to general lasers and their types, Brief intro. quantum physics, Schrodinger wave eqn., Atomic systems, emission and absorption processes, Population inversion, gain, optical cavities, three and four level lasers, CW and pulsed lasers, Q switching and mode locking, Physics of gas discharge, Atomic, Ionic, molecular, liquid, and excimer lasers, Optical pumping.
+
+Course LT611 - LASER SYSTEMS AND APPLICATIONS
+Department: Department of LT. Credits (L-T-P-D-C): 3-0-0--4. Source: Courses of Study 2021, IIT Kanpur.
+Atomic, ionic, molecular, excimer and liquid laser systems and applications, Solid state lasers. Short Pulse generation and measurement. Laser applications in medicine and surgery, Materials processing, Optical Communication Lasers, Metrology and LIDAR.
+
+Course LT631 - INTRODUCTION TO COHERENT AND LASER OPTICS
+Department: Department of LT. Credits (L-T-P-D-C): 3-0-3--4. Source: Courses of Study 2021, IIT Kanpur.
+Maxwell’s eqns. and electromagnetic waves, Wave properties of light and propagation. Waveguides, Optical resonators. Ray Optics, Matrix methods, Optical Anisotropic materials. Interference and interferometers, Diffraction and Fourier Optics, Optical components (Laser mirrors, windows, Polarizors, Holography, Meteorology).
+
+Course LT699 - M TECH THESIS
+Department: Department of LT. Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+M. Tech. Thesis
+
+Course LT799 - PHD THESIS
+Department: Department of LT. Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D. Thesis

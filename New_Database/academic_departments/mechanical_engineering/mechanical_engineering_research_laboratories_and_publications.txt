@@ -1,0 +1,2528 @@
+DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Department of Mechanical Engineering, IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/me. Snapshot: scraped in 2026.
+
+=== 5 axis machining center ===
+Source: https://www.iitk.ac.in/me/5-axis-machining-center
+5-Axis Machining
+
+EMCO Concept Mill 250 Machining Center
+
+The EMCO Concept Mill 250 is a sturdy but compact machine ideal for producing medium scale work pieces requiring high amounts of material removal using modern CNC control software (ESPIRT CAM Software). The roll of Concept Mill 250 in edu-cation is defined by its interchangeable control systems. The soft-ware can be switched in a minute from FANUC 21M control to SIEMENS 810/840 fully supported by Fanuc and Siemens. The machine is equipped with powerful AC servo motors for all axes, and a 20-station Automatic Tool Changer. Work piece is rotatable in every position desired at any time. It has the ESPIRT Software, which is considered to be the most powerful CAM Software. It is a high performance computer aided manufacturing system for a full range machine tool operation The Concept Mill 250 can be integrated into FMS and CIM systems along with the robotics in-terface. Accessories includes a Rotating and swiveling unit as 5th axis with high precision harmonic gear.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > 5 axis machining center]
+Specifications:
+
+Model/Make: EMCO Concept Mill 250
+
+Max Speed: 10,000 RPM, Power 7KW
+
+20 Station Tool Drum with directional logic
+
+Travel- X350mm, Y250mm, Z300mm
+
+Clamping Surface- 500 X 300mm
+
+PC Controlled CNC: Machining center with Interchangeable control
+
+EMCO Software Win NC
+
+SINUMERIK 810/840D machine license (32bit)
+
+Software EMCO 3D View
+
+4th Axis- NC Dividing Head WALTER TANI 80 NEG
+
+5th Axis- Turntable DSE25 –
+
+Spindle Speed A axis 15rpm
+
+Spindle Speed B axis 3rpm
+
+Size- X/Y/Z = 520/260/150
+
+Swiveling Height = 80mm
+
+Swiveling Area of 4th Axis = Max. 910
+
+ESPRIT CAM Software: Powerful Spectrum Programming for:
+
+2-5 Axis Milling,
+
+2-22 Axis Turning,
+
+2-5 Axis Wire EDM,
+
+Multitasking Mill Turn Machining,
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > 5 axis machining center]
+Swiss Turn and B-Axis Machine Tools High Speed 3 and 5- Axis machining
+
+=== academics pg pg admission master of science ms by research ===
+Source: https://www.iitk.ac.in/me/academics/pg/pg-admission/master-of-science-ms-by-research
+Master of Science (MS) by Research
+
+The applicant must have a bachelor's degree in engineering or a master's degree in science with marks/CPI not below 55% marks (or Cumulative Performance Index (CPI) of 5.5 on a 10-point scale) or the minimum pass marks (or CPI) whichever is greater. Candidates with background other than Mechanical Engineering may be required to appear in a written test/ interview. Candidates belonging to the Scheduled Castes/Scheduled Tribes who have a bachelor's degree in engineering or a master's degree in science are eligible to apply irrespective of the marks/CPI.
+
+The admission to MS(R) will be made in the following two categories.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > academics pg pg admission master of science ms by research]
+Non-sponsored Category:
+
+Shortlisting and Selection of candidates: A valid GATE score is required.
+Financial Support: Financial support will be provided by the institute for 22 months (at the rate same as that of M.Tech. students)
+Tuition Fee: Same as for regular M.Tech. Students on institute fellowship
+
+Sponsored Category (GATE score is not mandatory*)
+
+Sponsored Category-A (Sponsored from organization outside IIT Kanpur)
+
+Shortlisting and Selection of candidates: Shortlisting will be done separately from non- sponsored category. The final selection will be based on written test and/or interview by a separate selection committee.
+Tuition Fee: Same as for sponsored candidates (sponsored by organization outside IIT Kanpur)
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > academics pg pg admission master of science ms by research]
+Financial Support:Financial support will be provided by the sponsoring organization for the entire duration of the program.
+
+Sponsored Category-B (Project Sponsored)
+
+Shortlisting and Selection of candidates: Shortlisting will be done separately from non- sponsored category. The final selection will be based on written test and/or interview by a separate selection committee
+
+Declaration by PI: At the time of selection of the candidate a declaration from the PI to the effect that the financial assistance for at least one year will be provided to the selected candidate from the project is required. PI will be supervisor of the candidate.
+
+*Financial support: All the project sponsored candidates will be supported by PI for at least the first year. In case there is no support available from PI/ Department in the second year, the student may be provided assistantship from the institute at the level of M.Tech. assistantship for at most 10 months subject to the student having a valid GATE score on the day of starting the institute assistantship. DPGC recommendation is required for switching to institute assistantship.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > academics pg pg admission master of science ms by research]
+Declaration by the candidate at the time of admission regarding the financial support in the 2nd year: At the time of admission the candidate is required to submit a declaration that the financial support in the 2nd year is not guaranteed. The financial support, if provided in the 2nd year, will be based on the performance in the first year and on the recommendation of the PI and DPGC. The support from the institute will require a valid GATE score at the time of switch over to institute fellowship.
+
+Tuition Fee: Same as for regular M.Tech. students with Institute Assistantship.
+
+=== academics ug ug research ===
+Source: https://www.iitk.ac.in/me/academics/ug/ug-research
+Undergraduate Project (UGP)
+
+Undergraduate research allows students to engage in original research from the early years, helping them move beyond traditional classroom instruction and become active contributors within their discipline. Pursuing undergraduate research under faculty mentorship can help students foster a deeper understanding of the scientific methodology and cultivate essential professional skills. Many of these undergraduate research efforts also yield conference presentations or peer-reviewed publications, which significantly bolster a student’s profile for graduate admissions or competitive job markets. Undergraduate (B. Tech.) students enrolled in the Department of Mechanical Engineering at IIT Kanpur are required to complete an undergraduate project (UGP) under the guidance of a faculty member during their final year. For more information regarding undergraduate term projects, please refer to our UGP Policy. For enrollment and assessment during the course of this project, please submit the requisite forms provided below:
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > academics ug ug research]
+UGP Enrollment Form
+
+UGP Midterm Report
+
+UGP Endterm Report
+
+=== academics ug ug teaching laboratories ===
+Source: https://www.iitk.ac.in/me/academics/ug/ug-teaching-laboratories
+Teaching laboratories in the Department of Mechanical Engineering provide a hands-on environment for students to gain a practical understanding of the theoretical concepts introduced in class. Most of these teaching laboratories are associated with a course and are an integral part of the undergraduate program at the department. The department offers the following teaching laboratories in the undergraduate degree programs:
+
+Energy Conversion Laboratory
+
+Experimental Stress Analysis Laboratory
+
+Manufacturing Science Laboratory
+
+Material Testing Laboratory
+
+=== activities books published ===
+Source: https://www.iitk.ac.in/me/activities/books-published
+Polymer Electrolyte Membranes for Fuel Cell Devices: Materials, Challenges, and Future Prospects
+
+Editors: Kamal K. Kar, Soma Banerjee, and Bablu Mordina
+Publisher: CRC Press, Taylor & Francis Group
+Publishing Year: 2026
+
+Sustainable Water Harvesting: Principles and Technologies
+
+Editors: Ramesh Narayanaswamy, Malay Kumar Das and K. Muralidhar
+Publisher: Springer Nature
+Publishing Year: 2026
+
+Acoustic Analysis and Design of Short Elliptical End-Chamber Mufflers
+
+Author: Akhilesh Mimani
+Publisher: Springer Nature
+Publishing Year: 2021
+
+Environmental Contaminants
+
+Editor(s): Tarun Gupta, Avinash K Agarwal, Rashmi A Agarwal, Nitin K Labhsetwar
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Publisher: Springer, Singapore
+Publishing Year: 2018
+
+Computational Fluid dynamics and Heat Transfer
+
+Author(s): P.S. Ghoshdastidar
+Publisher: Cengage India
+Publishing Year: 2017
+
+Nanofinishing Science and Technology: Basic and Advanced Finishing and Polishing Processes
+
+Editor(s): V.K. Jain
+Publisher: CRC Press, Taylor andf Francis Group
+Publishing Year: 2017
+
+Composite Materials: Processing, Applications, Characterizations
+
+Editor(s): Kamal K. Kar
+Publisher: Springer Nature
+Publishing Year: 2016
+
+Plasticity: Shapes and Dynamics of Granular Minor Planets
+
+Author(s): Ishan Sharma
+Publisher: Springer, New York
+Publishing Year: 2016
+
+Nanoscale and Microscale Phenomena: Fundamentals and Applications
+
+Editor(s): Yogesh M. Joshi, Sameer Khandekar
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Publisher: Springer
+Publishing Year: 2015
+
+Handbook of Polymer Nanocomposites. Processing, Performance and Application, Volume B: Carbon Nanotube Based Polymer Nanocomposites
+
+Editor(s): Kamal K. Kar, Jintendra Kumar Pandey, Sravendra Rana
+Publisher: Springer Nature
+Publishing Year: 2015
+
+Plasticity: Fundamentals and Applications
+
+Author(s): P.M. Dixit and U.S. Dixit
+Publisher: CRC Press, Taylor and Francis Group
+Publishing Year: 2014
+
+Transport Phenomena in Microfluidic Systems
+
+Author(s): P.K. Panigrahi
+Publisher: John Wiley and Sons
+Publishing Year: 2014
+
+Computational Fluid Flow and Heat Transfer, Second Edition
+
+Editor(s): K. Muralidhar, T. Sundararajan
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2014
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Fundamentals of Design and Manufacturing
+
+Author(s): G. K. Lal, Vijay Gupta, N. Venkata Reddy
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2014
+
+Fundamentals of Manufacturing Processes
+
+Author(s): G. K. Lal, S. K. Choudhury
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2014
+
+IC Engines:Combustion and Emissions
+
+Author(s): B. P. Pundir
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2014
+
+Advanced Engineering Fluid Mechanics, Second Edition
+
+Author(s): K. Muralidhar, G. Biswas
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2013
+
+Dropwise Condensation on Inclined Textured Surfaces
+
+Editor(s): Sameer Khandekar and K. Muralidhar
+Publisher: Springer Nature
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Publishing year: 2013
+
+Micro-Holographic PIV/PTV Technique
+
+Author(s): D. K. Singh and P. K. Panigrahi
+Publisher: Springer Nature
+Publishing year: 2013
+
+Micromanufacturing Processes
+
+Author(s): V. K. Jain
+Publisher: CRC Press, Taylor and Francis Group
+Publishing year: 2013
+
+Schlieren and Shadowgraph methods in heat and Mass Transfer
+
+Author(s): Panigrahi, P. K. and Muralidhar, K.
+Springer Nature
+Publishing year: 2012
+
+Imaging Heat and Mass Transfer Processes- Visualization and Analysis
+
+Author(s): P. K. Panigrahi and K. Muralidhar
+Publisher: Springer Nature
+Publishing year: 2012
+
+Heat Transfer
+
+Author: P. S. Ghoshdastidar
+Publisher: Oxford University Press
+Publishing year: 2012
+
+Nanofinishing process using magneto rheological polishing medium
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Author(s): Manas Das, V. K. Jain, P. S. Ghosdastidar
+Publisher: Lap lambert Academic publishing GmbH & Co. Ka, Germany
+Publishing year: 2012
+
+Mechanical Sciences
+
+Author(s): G. K. Lal, Vijay Gupta, N. G. R. Iyengar, B. N. Banerjee, K. Ramesh
+Publisher: Narosa Publishing House
+Publishing Year: Reprint 2011
+
+Modelling Techniques for Metal Forming Processes
+
+Author(s): G. K. Lal, P. M. Dixit, N. Venkata Reddy
+Publisher: Narosa Publishing House
+Publishing Year: 2011
+
+Carbon Nanotube based Nanocomposites: Recent Development
+
+Editor(s): Kamal K. Kar and Alma Hodzic
+Publisher: Research Publishing Services, Singapore
+Publishing Year: 2011
+
+Conduction and Radiation
+
+Editor(s): K. Muralidhar, Jyotirmay Banerjee
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Publisher: Narosa Publishing House
+Publishing Year: 2010
+
+Handbook of Combustion, 5 Volumes
+
+Editor(s): Maximilian Lackner, Franz Winter, Avinash K. Agarwal
+Publisher: Wiley VCH, (Eds.)
+Publishing year: 2010
+
+Introduction to Micromachining
+
+Author: V. K. Jain
+Publisher: Narosa Publishing House, New Delhi
+Publishing year: 2010
+
+Combustion Science and Technology:Recent Advances
+
+Editor(s): A. K. Agarwal, A. Kushari, S. K. Aggarwal, A. K. Runchal
+Publishing Year: 2009
+
+Introduction to Engineering Plasticity
+
+Author(s): G. K. Lal, N. Venkata Reddy
+Publishing Year: 2009
+
+Modelling of Metal Forming and Machining Processes by Finite Element and Soft Computing Methods
+
+Author(s): P. M. Dixit, U. S. Dixit
+Publisher: Springer-Verlag London
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities books published]
+Publishing Year: 2008
+
+Applied Mathematical Methods
+
+Author: Bhaskar Dasgupta
+Publisher: Pearson
+Publishing Year: 2006
+
+Computer Aided Engineering Design
+
+Author(s): Anupam Saxena, Birendra Sahay
+Publisher:  Springer Nature
+Publishing Year: 2005
+
+Turbulent Flows
+
+Editor(s): Gautam Biswas & Eswaran
+Publisher: Narosa Publishing House
+Publishing year: 2002
+
+Numerical Fluid Flow and Heat Transfer
+
+Author: P. S. Ghoshdastidar
+Publisher: Tata McGrawhill Publishing Company Limited, New Delhi
+Publishing Year: 1998
+
+=== activities research scholars day ===
+Source: https://www.iitk.ac.in/me/activities/research-scholars-day
+Research Scholar’s Day is a yearly event organized by the Department of Mechanical Engineering to showcase graduate research from the department, with poster sessions by final year M.Tech. students and talks delivered by senior Ph.D. candidates on their ongoing research efforts. The purpose of this event is to promote research awareness among the new postgraduate students and foster student-faculty interactions. This event includes the R.S. Pandey Lecture Series delivered by distinguished experts in the field.
+
+Research Scholar’s Day 2026
+
+For information regarding Research Scholar’s Day 2026, check out the event poster and detailed schedule
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities research scholars day]
+R.S. Pandey Lecture (see here for details)
+
+Title: Effect of Initial Perturbations on Stability of Autonomous Bicycle — A Graphical Approach
+
+Speaker: Prof. N.N. Kishore
+
+Abstract:
+
+The present paper attempts to perform a quasi-dynamic analysis of bicycle stability from the viewpoint of initial perturbations and understand the stable and unstable behaviours. As earlier researchers did, the bicycle is idealized as four interconnected bodies—the front wheel, the front fork, the main body, and the rear wheel, all joined by revolute joints. The forces acting on the bicycle are limited to its weight, centrifugal forces, and gyroscopic moments. The two primary degrees of freedom analyzed are the bicycle's lean (tilt) angle and the front wheel's steering angle. A systematic MATLAB simulation analysis illustrates the results through trajectories, phase plots, and moment contours. This graphical approach helps to identify the effect of small but finite initial perturbations on the stability, offering intuitive insights into the nonlinear dynamics governing self-stability.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities research scholars day]
+About the Speaker:
+
+Prof. N. N. Kishore has been a faculty member at IIT Tirupati in the Department of Mechanical Engineering since January 2016. Earlier, he worked at the Indian Institute of Technology, Kanpur, as a faculty member for 31 years. He obtained his B.E. from Andhra University in 1971, and his M.Tech. and Ph.D. from the Indian Institute of Technology, Kanpur (Mech. Eng.) in 1974 and 1980, respectively. He worked as a Post Doctoral Fellow at Drexel University, Philadelphia, from 1980-84. He also interacted with the Institute of NDT in Saarbrücken, Germany, on NDT research projects. His major areas of interest are in Wave Mechanics, Composite Materials, Finite Element Methods, Non-Destructive Evaluation, and Dynamic Fracture Mechanics. He guided several Ph.D. students and published technical papers in national and international journals. He served IIT Kanpur in various administrative capacities as Head of the Department of Mechanical Engineering during 2001-04 and as Professor-in-Charge of Administration during 2015.
+
+=== activities student groups ===
+Source: https://www.iitk.ac.in/me/activities/student-groups
+Association of Mechanical Engineering (AME)
+
+The association of mechanical engineering (AME) at IIT Kanpur is a student body. It routinely organizes workshops on various design and simulation software like Solidworks, Autodesk Inventor, Abaqus, MSC Adams, etc, which provides much needed exposure to the real life engineering problems, both technical as well as managerial kind by organizing industrial tours visits, lectures on topics of general interests and seminars of specific interest etc.
+
+Besides this, it also organizes fresher's welcome, farewell for the graduating students and happy hours throughout the year. It also serves as an interface between the students and the faculty and strives for improvement in student-faculty interaction. For more information, visit here.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities student groups]
+Society of Automotive Engineers (SAE)
+
+The Society of Automotive Engineers at IIT Kanpur is a collegiate chapter of SAE India. It was established in January 2011 by the collective efforts of a group of students with a strong urge to complement the theoretical knowledge imparted in classrooms, emphasizing on the practical aspects of engineering. Their idea was to develop an automotive culture revolutionized the institute and SAE IIT Kanpur started with an initial strength of over 150 student members.
+
+One of the most important qualities of SAE IIT Kanpur is its diversity with students from almost all departments of the institute. Any passionate student of the institute can be a participating member of this society. It provides a platform for students to share and increase their engineering know-how through increased interaction between students at all levels via group activity, lectures, workshops, brainstorming sessions and many institute level competitions.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > activities student groups]
+More information is available here .
+
+=== consulting consulting projects ===
+Source: https://www.iitk.ac.in/me/consulting/consulting-projects
+Aero-Engine Modelling Using Neural Networks
+Duration: 2013-Ongoing
+Budget: 481041 INR
+PI & Co-PI: Dr. N.S.Vyas
+
+Parameter Identification in Automotive Vehicles
+Duration: 2011-13
+Budget: 2205000 INR
+PI & Co-PI: Dr. N.S.Vyas
+
+Prediction of Steering System Performance Variation Due to Manufacturing Errors
+Duration: 2009-10
+Budget: 972000 INR
+PI & Co-PI: Dr. N.S.Vyas
+
+Automotive Speed Sensor & Distance Logging
+Duration: 2008
+Budget:192000 INR
+PI & Co-PI: Dr. N.S.Vyas
+
+Improvement in Bottom Discharge System of BOBRN Wagon
+Duration: 2010-12
+Budget: 2475000 INR
+PI & Co-PI: Dr. N.S.Vyas
+
+Thermal ratcheting in cylindrical pipes due to an axially oscillating temperature front
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting consulting projects]
+Duration: 3 years
+Budget:18.8 lakhs
+PI & Co-PI: Dr. Ishan Sharma , Dr. P M Dixit
+
+Segregation in vibrated granular materials
+Duration: 3 years
+Budget: 33.816 lakhs
+PI & Co-PI: Dr. Ishan Sharma , Dr. Jayant Singh
+
+Shapes, stability and dynamics of granular minor planets
+Duration: 3 years
+Budget: 23.736 lakhs
+PI & Co-PI: Dr. Ishan Sharma
+
+Motion and Interaction of Domains in Fluid Lipid Membranes
+Duration: 3 years
+Budget: 24.36 lakhs
+PI & Co-PI: Dr. Sovan Lal Das
+
+Use of mode localization for quieter auxiliary flat panels and panels of
+Duration: 2 years
+Budget: 24 lakhs
+PI & Co-PI: Dr. Shakti S Gupta , Dr. P Venkitanarayanan
+
+Feasibility study and simulation of Electric brakes for TEJAS aircraft
+Duration: 3 months (2009)
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting consulting projects]
+Budget: 1.63 lakhs
+PI & Co-PI: Dr. Ashish Dutta , Dr. S.P.Das
+
+Development of a Strain Path Independent Forming Limit Diagram
+Duration: 3 years
+Budget: 23.8 lakhs
+PI & Co-PI: Dr. P.M. Dixit , Dr. N.V. Reddy
+
+Predictive Models for Sheet thinning and spring Back in incremental sheet Forming
+Duration: 3 years
+Budget: 65.9 lakhs
+PI & Co-PI: Dr. P.M. Dixit , Dr. N.V. Reddy
+
+Analysis of Spot failures in WagonR rear doors at SMIL
+Duration: 02 months
+Budget: 45000 INR
+PI & Co-PI: Dr. Shantanu Bhattacharya
+
+Pipeline Design and validation for GMADA
+Duration: 01 month
+Budget: 150000 INR
+PI & Co-PI: Dr. Pranav Mahapatra , Dr. Shantanu Bhattacharya
+
+Industrial Workshop on nanotechnology and applications
+Duration: 02 days
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting consulting projects]
+Budget: 35000 INR
+PI & Co-PI: Dr. Shantanu Bhattacharya , Dr. Ashim Pradhan
+
+Friction study of new coated and textured steel surface for application in the oil well
+Duration: 2009
+Budget: SGD$2400
+PI & Co-PI: Dr. S.K.Sinha
+
+Development of technology for Nano-finishing of curved and sculptured surface
+Duration: 2 years
+Budget:8.27 lakhs
+PI & Co-PI: Dr. V.K. Jain
+
+Development of a technique for finishing blade bearing of a propeller of HS748 transport aircraft
+Duration: 09 months
+Budget: 14 lakhs
+PI & Co-PI: Dr. V.K. Jain
+
+Development of ECM machine
+Duration: 2 years
+Budget: 5 lakhs
+PI & Co-PI: Dr. V.K. Jain
+
+Development of prototype of Abrasive Flow Finishing Machine for Nano-level finishing
+Duration: 2 years
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting consulting projects]
+Budget: 7.01 lakhs
+PI & Co-PI: Dr. V.K.Jain
+
+Examination of the proposed facilities in capacity augmentation scheme of BHEL for augmenting capacity from 15000MW to 20000MW
+Duration: 02 months
+Budget: 218394
+PI & Co-PI: Dr. V.K.Jain
+
+Shaped Tube Electro-machining of Inconel Alloys
+Duration: 1 year
+Budget: 1 lakh
+PI & Co-PI: Dr. V.K Jain
+
+Development of STPECM Machine
+Duration: 01 month
+Budget: 5 lakhs
+PI & Co-PI: Dr. V.K.Jain
+
+“CFD evaluation of aerodynamics and internal cooling performance of a gas turbine blade”, Sponsored by NTPC
+Duration: 3 years
+Budget: 17.525 lakhs
+PI & Co-PI: Dr. S. Sarkar
+
+Feasibility study of extracting coal from Compressed LPG
+Duration: 3 years
+Budget: 17.525 lakhs
+PI & Co-PI: Dr. S. Sarkar
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting consulting projects]
+Interfacing of ECU of EFI with Test Commander , RDSO
+Duration:04 months
+Budget: 29.50 lakhs
+PI & Co-PI: Dr. A.K. Agarwal
+
+=== consulting patents ===
+Source: https://www.iitk.ac.in/me/consulting/patents
+List of Indian Patents
+
+Patentees | Title | Date |
+
+Siddhant Shrivastava, Dr. J Ramkumar |
+Wearable Device and Method for Providing Alert Signals to A User with Visual Impairments |
+22.09.2025 |
+
+Dr. Kamal Krishna Kar, Kapil Dev Verma |
+A method for preparing a highly pure MAX Phase and MXene film |
+15.09.2025 |
+
+Raj Kumar, Murli Manohar, Dr. J. Ramkumar, Dr. Kantesh Balani |
+Scaffold For Bone Tissue Engineering Applications and Method of Fabrication Thereof |
+15.09.2025 |
+
+Dr. Bishakh Bhattacharya, Shree Ram Pandey, Anirudha Bhattacharjee |
+System for Regulating Heat in Heat-generating Applications and Method Thereof |
+29.08.2025 |
+
+Archana Raichur, Dr. Niraj Sinha |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Hybrid Multi-layered Membrane for Comprehensive Water Purification and Drinking Water Quality Enhancement |
+28.08.2025 |
+
+Dr. Kamal Krishna Kar, Kogara Rasi, Pratiti Pradhan |
+Alstonia Scholaris Fibers Reinforced Polymer Composite and Method Thereof |
+23.07.2025 |
+
+Sagnik Sarma Choudhury, Nitish Katiyar, Ranamay Saha, Dr. Abhishek Sarkar, Dr. Shantanu Bhattacharya |
+A Zinc-Ion Battery System for Dendrite Suppression Using Magnetic Field |
+30.06.2025 |
+
+Dr. Kamal Krishna Kar, Kapil Dev Verma, Kogara Rasi, Kogara Rasi, Pratiti Pradhan |
+A Water Purification System Using Saptaparni Flower-activated Carbon with Advanced Monitoring and Regeneration Capabilities |
+04.06.2025 |
+
+Nayan Jyoti Baishya, Anirudha Bhattacharjee, Mahendra Kumar Gohil, Dr. Bishakh Bhattacharya, Akshay Bankar, Pradeep Singh Chauhan, B. B. Mukherjee, Subir Sen |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+System And Method for Determining Parameters in An Electric Grid Infrastructure by Autonomous Robotic Devices |
+03.06.2025 |
+
+Dr. Kamal Krishna Kar, Swati Gangwar, Dr. M. Jaleel Akhtar  |
+Highly Flexible, Ultra-Light Weight, Ultrathin and Hydrophobic Electromagnetic Interference (EMI) Shielding Composite Based on Human Hair |
+23.04.2025 |
+
+Prateek Yadav, Nitik Jain, Ratnangshu Das, Dr. Indranil Saha |
+Computer-Implemented Stigma Separation System and Method for Separating Stigmas from Flowers |
+29.03.2025 |
+
+Anirudha Bhattacharjee, Mahendra Kumar Gohil, Dr. Bishakh Bhattacharya |
+Device For Determining Plant Health and Method Thereof |
+14.03.2025 |
+
+Ashish Shukla, Akshay Bankar, Prof Bishakh Bhattacharya  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Device For Automatic Water Sampling to Determine Water Quality Parameters and Method Thereof |
+28.02.2025 |
+
+Dr. Anindya Chatterjee |
+System for Optimizing Hybrid Electric Vehicle and Method Thereof |
+20.02.2025 |
+
+Sudeb Bhattacharya, Kajal Chaudhary, Dr. Kumar Vaibhav Srivastava, Dr. J. Ramkumar |
+Method For Selective Etching of Indium Tin Oxide from Dielectric Substrates for Industrial Scale Manufacturing |
+23.01.2025 |
+
+Dr. Ira Gupta, Dr. Hiroj Bagde, Dr. Janardhana ABJ, Virendra Kumar Sachan, Megha Sachan, Shivam Sachan, Dr. J. Ramkumar |
+Device For Assisting in Intraoral Operations and Method Thereof |
+20.01.2025 |
+
+Anant Tiwari, Antrakrate Gupta, Prof. Shikhar Krishn Jha, Prof. J. Ramkumar, Ramendra Pathak |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Device For Soil Tilling and Method Thereof |
+31.12.2024 |
+
+Dr. Kamal Krishna Kar, Kapil Dev Verma, Dr. Sri Niwas Singh |
+An Advanced Supercapacitor Electrode Material from Hair Biomass and A Sustainable Synthesis Method Thereof |
+23.12.2024 |
+
+Dr. Kamal Krishna Kar, Kapil Dev Verma, Kogara Rasi, Kogara Rasi, Pratiti Pradhan, Dr. Sri Niwas Singh |
+Synthesis Of Activated Carbon from Indian Devil Tree Pollen Fibers for High-performance Symmetric Supercapacitors |
+30.10.2024 |
+
+Anubhav Mishra, Dr. Nachiketa Tiwari |
+A Quadcopter Drone with an out of-plane Folding Mechanism |
+23.10.2024 |
+
+Gaganpreet Singh, Kajal Chaudhary, Dr. Kumar Vaibhav Srivastava, Dr. J. Ramkumar, Dr. S. Anantha Ramakrishnan  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+A Metamaterial Based Wearable and A Method Thereof |
+11.10.2024 |
+
+Kanhaiya Lal Chaurasiya, Shivam Gupta, Dr. Bishakh Bhattacharya, Dr. Gautam Biswas, Dr. Arun Kumar Varma |
+Air-Levitation Based Hyperloop Transporting
+System with Robot Vehicle for Transporting Goods |
+20.09.2024 |
+
+Siddhant Shrivastava, Dr. J Ramkumar |
+Orthopedic Device for Alleviating Pain of a Body Part and Method Thereof |
+19.09.2024 |
+
+Dr. Kamal Krishna Kar, Mukesh Kumar, Dr. Manas K. Ghorai, Dr. Sri Niwas Singh |
+A Flexible Shape Memory Supercapacitor Device and Fabricating Process Thereof |
+05.09.2024 |
+
+Dr. Kamal Krishna Kar, Mukesh Kumar, Dr. Manas K. Ghorai, Dr. Sri Niwas Singh |
+An Advanced Hybrid Composite Material for Enhanced Supercapacitor Electrodes |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+12.08.2024 |
+
+Indrajeet Singh, Shivani Gaur, Neeraj Dhandia, Dr. Kantesh Balani |
+A Bio-Ceramic for Bone Tissue Engineering and Method of Fabricating Thereof |
+23.07.2024 |
+
+Anubhav Mishra, Dr. J. Ramkumar, Abhishek Verma, Amandeep Singh  |
+A Walking Device for Enhancing Capabilities of a Visually Impaired Person |
+26.06.2024 |
+
+Rajesh Ranjan, Basava Kumar M, Dr. Bishakh Bhattacharya |
+Methods and Systems for Health Monitoring |
+24.06.2024 |
+
+Harsh Jain, Jagadesh Santosh Kumar R, Aruna Angelin D, Rishika Saraswat, Ayush Patel, Dr. Nachiketa Tiwari |
+IoT Based System and Method for Multilingual Braille Learning |
+24.06.2024 |
+
+Dr. Bishakh Bhattacharya, Kanhaiya Lal Chaurasiya, Yashaswi Sinha |
+An Automated Pipe Following Modular Bulk Carrier for Continuous Material Transportation |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+12.06.2024 |
+
+Antrakrate Gupta, Divakar Tiwari, Priyanshu Sinha, Dr. Nidhi Sharma, Dr. Shikhar Krishn Jha |
+A Cryo-grinding System for Synthesis of Metallic, Non-metallic and Organic Nanoparticles |
+05.06.2024 |
+
+Abhishek Verma, Brijesh Kumar, Prof. J. Ramkumar, Dr. Sanjay Kumar Singh, Dr. Triveni Dutt |
+A Softening and Dilation Device for Cervix of Animals |
+28.05.2024 |
+
+Dr. Bishakh Bhattacharya, Shubham Kumar, Dhrupal R Shah, Harshit Kumar Sankhla  |
+Smart Stick |
+22.04.2024 |
+
+Mubashir Ali, Dr. J. Ramkumar, Dr. Ranjan Bhargava |
+Portable Medical Suction Device |
+14.03.2024 |
+
+Dr. Avinash Kumar Agarwal, Akhilendra Pratap Singh  |
+Fuel Vaporizer |
+05.03.2024 |
+
+Siddhant Shrivastava, Dr. Shalini Gupta, Dr. J. Ramkumar, Dr. M. L. B. Bhatt, Dr. Sameer Gupta  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Jaw Opening device for Diagnostic Inspection |
+05.03.2024 |
+
+Shreyansh Tatiya, Lakhpat Raj Tatia, Ramesh Kumar Gattani, Dr. Shantanu Bhattacharya, Shiwangi Maurya |
+A Process for Treatment and Neutralization of Highly Acidic Wastewater Effluent |
+29.02.2024 |
+
+Kanhaiya Lal Chaurasiya, Dr. Bishakh Bhattacharya, S. Barathy, Sanjeev Kumar  |
+Speed Control System for Pipe Health Monitoring Robot |
+29.02.2024 |
+
+Digvijay Shukla, Dr. Pradipta Kumar Panigrahi, Manoj Sharma |
+A Hybrid Electrospray and Ionic Wind Based Cooling System for Thermal Management Devices |
+28.02.2024 |
+
+Geeta Bhatt, Mohammed Rashiku B. C., Poonam Sundriyal, Dr. Shantanu Bhattacharya  |
+Lateral Flow Immunoassay based Point of Care Diagnostic Device for Ultrasensitive Colorimetric Detection of Dengue |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+27.02.2024 |
+
+Dr. Shantanu Bhattacharya, Dr. Gurunath Ramanathan, Monalisha Nayak, Deepak Singh, Rishi Kant |
+An Integrated Microchip for the Detection of a Biological Cell |
+22.02.2024 |
+
+Himanshu Panday, Vaishnavi Bhope, Dr. Bishakh Bhattacharya  |
+Home Automation System Utilizing Digital Waste |
+13.02.2024 |
+
+Vitthal Manohar Khatik, Dr. Anupam Saxena |
+System for Providing Flexion and Extension Movement to Articulated Finger Units of An Artificial Hand |
+09.02.2024 |
+
+Dr. Bishakh Bhattacharya, Shree Ram Pandey |
+A Shape Memory Alloy-based Adaptive Thermal Fin for Thermal Management |
+08.02.2024 |
+
+Vitthal Manohar Khatik, Dr. Anupam Saxena |
+A Device for Providing Assistance and Rehabilitation During Flexion and Extension Movement of Fingers |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+07.02.2024 |
+
+Dr. Abhishek Dubey, Vimal C., Dr. J. Ramkumar, Dr. Balendra Pratap Singh, Dr. Kantesh Balani, Dr. Suryakant  |
+System, Method and Device for Responsive Advancement of Mandible |
+06.02.2024 |
+
+Dr. Nachiketa Tiwari, Mahendra Kumar Gohil, Saurabh Zajam, Sandep Kumar, Ankur Dwivedi, Madhavrao Londhe, Shalab Vaishnav  |
+A Device for Measuring the Amount of Fuel Introduced into a Vehicle |
+05.02.2024 |
+
+Gopal Ashok Gupta, Dr. Janakarajan Ramkumar, Dr. Tarun Gupta, Dr. Sandip Patil |
+An Adjustable Air Filter Testing Device for Testing Performance of Air Filters |
+05.02.2024 |
+
+Dr. Kamal K Kar, Chhatrasal Gayner, Raghunandan Sharma, Dr. Malay K Das  |
+High Performance Thermoelectric Material with High Electrical Conductivity and Power Factor and Method of Manufacturing the Same |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+31.01.2024 |
+
+Pushpal Dey, Dr. J. Ramkumar, Dr. Vinita Agarwal  |
+A Sample Extraction Device and Operator Thereof |
+30.01.2024 |
+
+Christian Oliver Paschereit, Dr. Lipika Kabiraj, Dr. Aditya Saurabh  |
+Method for Controlling a Combustion Apparatus and Control Device |
+29.01.2024 |
+
+Dr. Kamal K Kar, Dr. Nirmal Kumar Gupta, Mridul Bharadwaj, Meraj Ahmed, Dr. Malay Kumar Das, Dr. Krishnamurthy Muralidhar, Sutapa Mondal  |
+Spherical Tri-leaflet Heart Valve |
+24.01.2024 |
+
+Dr. Kamal Krishna Kar, Dr. J. Ramkumar, Gopal Ashok Gupta  |
+Surface Finishing Composition for AFM Process and AFM Process Using the Same |
+24.01.2024 |
+
+Dr. Md Jaleel Akhtar, Dr. Kamal K Kar, Prakrati Azad, Sandeep Kumar Singh  |
+RF Gas Sensor for the Detection of Hazardous Gases in the Environment |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+19.01.2024 |
+
+Abirami S., Jay Harkishanbhai Prajapati, Kartikeya Dixit, Mandeep Singh Rana, Rushit Mansukhbhai Bhanderi, Sunita Mehta, Supriya Das, Vikas Kannojiya, Harindra Prasad Sharma, Manoj Sharma, Phool Chand Gond, Dr. K. Muralidhar, Dr. Pranav Joshi, Dr. Niraj Sinha, Dr. Kantesh Balani, Dr. Jayandharan Giridhara Rao, Dr. Amitabha Bandyopadhyay, Dr. Santanu Kumar Mishra |
+VAD Demonstrator System with Mock Circulatory Loop for Testing, Demonstrating Functions and Performance of VAD |
+19.01.2024 |
+
+Dr. J. Ramkumar, Amal Sudheendran Kumar, Dr. Mohan Gurjar  |
+Automated Subglottic Aspiration Device |
+19.01.2024 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar  |
+An Automatic Safety Gate System for Staircase |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+18.01.2024 |
+
+Nishant Agarwal, Dr. Niraj Sinha, Dr. Pankaj Wahi  |
+A Bionic Prosthetic Hand Device for Trans-radial Amputee |
+18.01.2024 |
+
+Vishvendra Rustagi, Dr. Anindya Chatterjee, Dr. Mangal Kothari  |
+Angular Momentum Device for Stabilization and Control for Tailless Aircraft |
+16.01.2024 |
+
+Divyansh Patel, Dr. J. Ramkumar, Dr. V. K. Jain  |
+Apparatus for Performing an Electrochemical Micro-machining Process |
+12.01.2024 |
+
+Divyansh Patel, Dr. J. Ramkumar, Dr. V. K. Jain  |
+Large Area Micro-Texturing on Free-Form Surfaces by Flexible-Electrode Through-Mask Electrochemical Machining |
+12.01.2024 |
+
+Indrajeet Singh, Dr. Niraj Sinha, Dr. Kartikeya Dixit, Dr. Kantesh Balani |
+A 3D Printed Scaffold and A Process for Fabrication Thereof |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+09.01.2024 |
+
+Dr. Kamal Krishna Kar, Meraj Ahmed, Dr. Sutapa Mondal |
+A Mono-leaflet Prosthetic Heart Valve |
+06.01.2024 |
+
+Eshan Sadasivan, Dr. Shantanu Bhattacharya, Dr. Mainak Das  |
+Carry Bag Making Machine |
+05.01.2024 |
+
+Dr. Nachiketa Tiwari, Dr. Devendra Gupta, Girijesh Mathur  |
+A Protective Respirator System and Method Thereof |
+04.01.2024 |
+
+Antrakrate Gupta, Priyanshu Sinha, Divakar Tiwari, Dr. Shikhar Krishn Jha, Dr. Nidhi Sharma, Dr. Alok Bhadauria |
+A Wearable Heating Device for Heating Surfaces |
+01.01.2024 |
+
+Dr. Kamal Krishna Kar, Prerna Sinha |
+A Process for Synthesis of a Composite Electrode Material and Product Thereof |
+01.01.2024 |
+
+Dr. Niraj Sinha, Sangh Priy, Rakesh Thapliyal, Gagan Agrawal, C. G. S. Reddy, H.P. Sharma |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Seed Sowing Boot for Grain and/or Granular Fertilizer |
+27.12.2023 |
+
+Anant Tiwari, Antrakrate Gupta, Ramendra Pathak, Priyanshu Sinha, Vijay Kumar Yadav, Dr. Shikhar Krishn Jha, Dr. K. K. Dokania |
+A Kiosk for Determining One or More Vital Signs and Method Thereof |
+26.12.2023 |
+
+Anubhav Mishra, Dr. Nachiketa Tiwari |
+Unmanned Aerial Vehicle |
+26.12.2023 |
+
+Dr. Sameer Khandekar, Dr. B Bhattacharya, Abhishek Srivastava, Rishav Garg, Utkarsh Sinha, Shashank Kumar |
+Bicycle Mounted Solar Energy Harvesting Unit |
+26.12.2023 |
+
+Karthik P. B., Dr. Jayesh Sardhara, Dr. N. Tiwari, Dr. Sanjay Behari  |
+Surgical Correction of Congenital Atlanto Axial Dislocation & Basilar Invagination of a Novel Instrument, C1/C2 Distractor and Reducer |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+21.12.2023 |
+
+Pratiti Srakar, Dr. J. Ramkumar  |
+Multicolor Interchangable Flaps and Convertible Form of Bag |
+20.12.2023 |
+
+Gaganpreet Singh, Dr. S. A. Ramakrishna, Dr. J. Ramkumar, Kumar Vaibhav Srivastava  |
+Controlled Micro-texturing of Transparent Conducting Oxide Thin Films for Uniform Transparency |
+20.12.2023 |
+
+Md Haseen Akhtar, Dr. J. Ramkumar |
+Method and Apparatus for Manufacturing Furniture from Waste Material |
+18.12.2023 |
+
+Aman Garg, Chinthulal V. S., Dr. Bishakh Bhattacharya, Dr. Devender Gupta  |
+A Wireless Pressure Sensor Node for an Inflatable Structure |
+12.12.2023 |
+
+Surekha Yadav, Dr. Krishanu Biswas, Dr. Arvind Kumar  |
+A Multicomponent High-entropy Alloy Composite, a Preparation Method and Characterization Thereof |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+06.12.2023 |
+
+Dr. Kamal Krishna Kar, Alekha Tyagi, Dr. Sri Niwas Singh  |
+Catalyst for Oxygen Reduction Reaction for Fuel Cells and Method of Manufacturing Same |
+24.11.2023 |
+
+Aman Garg, Dr. Bishakh Bhattacharya, Dr. Anil Agarwal, Dr. Sujeet Gautam  |
+A Sensing-Based Guidance Device for Endotracheal Intubation and a Method for Operating the Same |
+21.11.2023 |
+
+Dr. Manas K. Ghorai, Dr. Kamal Krishna Kar, Sugandha Singh, Manish Kumar, Dr. Debabrata Samanta |
+A Trifunctional Electrocatalyst and Process for Synthesis Thereof |
+27.10.2023 |
+
+Dhananjay Dubey, Dr. J. Ramkumar, Dr. V. K. Jain, Sanjeev Verma  |
+Apparatus for Finishing of Ball using Abrasive Flow Finishing |
+18.10.2023 |
+
+Pankaj Singh Chauhan, Aditya Choudhary, Dr. Urmila Brighu, Dr. Shantanu Bhattacharya  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Method And Apparatus for the Treatment of Industrial Wastewater |
+16.10.2023 |
+
+Dr. Sameer Khandekar, Navneet Singh, Piyush Jain, Varun Rai  |
+Nano Polishing of Tubes using Magnetorheological Fluid |
+17.10.2023 |
+
+Ashish Mohandas, Dr. Nachiketa Tiwari, Dr. Sanjay Behari  |
+A Patient Transfer System |
+04.10.2023 |
+
+Dr. Kamal K. Kar, Prerna Sinha  |
+Human Hair Derived Activated Carbon Nanosheets, Process of Preparation and Application Thereof |
+25.09.2023 |
+
+Dr. Manas K. Ghorai, Dr. Kamal Krishna Kar, Sugandha Singh, Manish Kumar, Dr. Debabrata Samanta |
+A Tri-functional Electrocatalyst and A Process for Preparing the Same |
+20.09.2023 |
+
+Dr. Kamal K Kar, Raghunandan Sharma |
+Carbon Nanotube Coated Carbon Fiber Filaments for Incandescent Electric Lamp and Method of Manufacturing the Same |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+18.09.2023 |
+
+Divakar Tiwari, Dr. J. Ramkumar, Dr. Amandeep Singh, Dr. K. K. Dokania, Jitendra Kumar Sharma |
+Shoe Insole Heating System |
+30.08.2023 |
+
+Kajal Chaudhary, Dr. J. Ramkumar, Dr. S. A. Ramakrishna, Dr. K. V. Srivastava, Dr. Praveen C. Ramamurthy  |
+Protective Layer for Microwave Metamaterial Absorbers and Method Thereof |
+16.08.2023 |
+
+Dr. Kamal K Kar, Sowntharya Logapperumal  |
+Method for Preparing Highly Conducting and Thermally Stable PVDF-HFP Based Electrolytes for Lithium Ion Battery Application |
+09.08.2023 |
+
+Shubhankar Khara, Jayesh Zambre, Dr. Sandeep Sangal, Dr. Kallol Mondal, Dr. Bishakh Bhattacharya, Ashim Bose  |
+Highly Porous Earthenware Material with High Damping Property and Method Thereof |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+19.07.2023 |
+
+Rajesh Ranjan, Basava Kumar M., Dr. Bishakh Bhattacharya  |
+Flow Control Device for Intravenous Lines |
+14.07.2023 |
+
+Ravi Raj, Shantanu Agarwal, Nilanjan Maiti, Dr. J. Ramkumar  |
+Automatic Mechanical Pricking Machine |
+12.07.2023 |
+
+Siddhant Shrivastava, Dr. J Ramkumar, Diwakar Tiwari, Dr. K. Dokania |
+Multipurpose Heating System for Heating One or More Objects and A Method Thereof |
+03.07.2023 |
+
+Md Haseen Akhtar, Dr. J. Ramkumar |
+A Process for Making a House from Recycled Waste Materials |
+30.06.2023 |
+
+Shlok Sharma, Vaibhav Raj Singh, Varun Garg, Divya Jyoti Pandey, Sahil Kalra, Dr. Bishakh Bhattacharya, Dr. Darre J. Hartl  |
+A System for Origami Based Re-Configurable Antenna with Steering Mechanism |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+28.06.2023 |
+
+Dr. Niraj Sinha, Indveer Singh, Jose Philip  |
+A Prosthetic Assembly with Dynamic Ankle Joint |
+30.05.2023 |
+
+Ajay Dashora, Dr. Bharat Lohani, Dr. Deb Kalyanmoy,  |
+Flight Planning for Airborne Data Acquisition |
+18.05.2023 |
+
+Abhinav Verma, Dr. Arvind Kumar, Sanjeev Kumar Verma, Sanjeev Kumar Pandey |
+An Automated TIG Welding Device for a Twisted Chain |
+11.05.2023 |
+
+Dr. Alok Bhadauria, Priyanshu Sinha, Antrakrate Gupta, Dr. Nidhi Sharma, Divakar Tiwari, Dr. Shikhar Krishn Jha |
+Air Purifier Device for Removing Impurities from Air |
+02.05.2023 |
+
+Dr. Manas K. Ghorai, Dr. Kamal Krishna Kar, Sugandha Singh |
+A Trifunctional Electrocatalyst and Process for Synthesis Thereof |
+27.04.2023 |
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Dr. Kamal K Kar, Pankaj Chamoli  |
+A Green Reduction Approach for Scalable Synthesis of Bilayer Graphene |
+31.03.2023 |
+
+Geeta Bhatt, Dr. Shantanu Bhattacharya  |
+A Device for Detecting One or More Fragments of DNA |
+13.03.2023 |
+
+Rishi Kant, Dr. Shantanu Bhattacharya, Abhijit Verma, Naman Kumar Rawal  |
+Micropump for Fluidic Applications |
+27.02.2023 |
+
+Rohit Kumar Singh, Dr. Bishakh Bhattacharya  |
+Vibration Energy Harvesting Device |
+21.02.2023 |
+
+Dr. Sameer Khandekar, Dr. S A Ramakrishna, Dheeraj Pratap, Ankush Panwar, Prabhanshu Pavecha, Shobhit Yadav  |
+Compact Air Cooler using Nano-structured Surfaces |
+24.01.2023 |
+
+Dr. V K Jain, Prabhat Ranjan, Dr. V K Suri, Dr. R Balasubramaaniam |
+A Finishing Device |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+19.01.2023 |
+
+Yogesh Nimdeo, Subhajit Kar, Dr. Yogesh M. Joshi, Dr. K. Muralidhar  |
+Mass Diffusivity Measurement System |
+13.01.2023 |
+
+Archana Raichur, Dr. Niraj Sinha |
+Nanothylakoids for Selective Removal of Antibiotic- and Metal- Resistant Bacteria from Polluted Water |
+12.01.2023 |
+
+Mahendra Kumar Gohil, Anirudha Bhattacharjee, Dr. Bishakh Bhattacharya, Dr. Samir Kumar Biswas |
+A Robot System for Automatically Managing Agricultural Activities |
+04.01.2023 |
+
+Vandana Jain, Dr. K. Muralidhar, Dr. Sameer Khandekar |
+A Printed Circuit Board (PCB) Based Electro-wetting-on-dielectric (EWOD) Medical Diagnostic System |
+02.01.2023 |
+
+Basav Kumar M., Dr. B. Bhattacharya |
+Multifunctional Interactive Walking Stick |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+27.12.2022 |
+
+Kanhaiya Lal Chaurasiya, Dr. Bishakh Bhattacharya, A. Sri Harsha |
+Bipennate Muscle Architecture-based Shape Memory Alloy Embedded Hierarchical Actuator |
+09.12.2022 |
+
+Dr. Shantanu Bhattacharya, Ankur Gupta, Shashank S. Pandey  |
+A Process for the Production of High Surface Area Nano Metal Oxides |
+07.12.2022 |
+
+Dr. Anil Kumar Vermar, Dr. Manoj Kumar Sharma, Dr. J. Ramkumar  |
+A Bronchotraining Device |
+02.12.2022 |
+
+Dr. S Khandekar, Dr. B Bhattacharya, Ajay Kumar Jain  |
+Shape Memory Alloy (SMA) Wire as Sensor for Taylor Bubble Flow Regime of Two-phase Flows |
+22.11.2022 |
+
+Dr. Pranav Joshi, Dr. Archana Raichur  |
+An Espresso Emulsification Method for Synthesis of Uniform Hollow Polymer Nanoparticles |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+15.11.2022 |
+
+Dr. Sameer Khandekar, Dr. Bishakh Bhattachary |
+An Integrated Solar Energy Harvesting and Storage |
+27.10.2022 |
+
+Sachin N. P., Dr. Shantanu Bhattacharya, Vimal C, Dr. Satyaki Roy  |
+An Efficient Writing Tool for Visually Impaired |
+26.08.2022 |
+
+Bharat Sarkar, Dr. J. Ramkumar  |
+A Hanger to Hang a Plurality of Garments for Drying, Organizing and Exhibition/showcasing |
+23.08.2022 |
+
+Dr. Bishakh Bhattacharya, Dr. Nachiketa Tiwari, Nayan Jyoti Baishya, Himanshu Panday, Vaibhav Verma, S. Barathy, Raj Kumar Kashyap, Parivesh Chugh, T. P. Yuvaraj |
+A Novel Self Powered, Intelligent Pipe Health Monitoring Robot (PHMR) for Inspecting Gas Pipe Line |
+18.08.2022 |
+
+Dr. K. S. Venkatesh, Dr. J. Ramkumar, Hitendra Kumar  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Parametric Anisotropic BRDF for 3D Surface Reconstruction and Micro Texture Evaluation |
+17.08.2022 |
+
+Sahil Kalra, Dr. Bishakh Bhattacharya, Dr. B. S. Munjal,  |
+A Self Locking Actuation System |
+29.07.2022 |
+
+Mahendra Kumar Gohil, Anirudha Bhattacharjee, Divya Jyoti Pandey, Chetan Vashishtha, Dr. Bishakh Bhattacharya  |
+A System for Facilitating Two-dimensional Fluid Movement of an Object Over an Area |
+21.07.2022 |
+
+Dr. Kamal K Kar, Amit Kumar Yadav, Madhur Kasaudhan  |
+Method for Preparing Silicon Based Highly Flexible Smart Battery Micro Fiber in the Form of Lithium Ion Batteries |
+06.07.2022 |
+
+Dr. Kamal K Kar, Poonam Benjwal  |
+One Step Method for the Preparation of Zinc-doped Titania Nanotube Array |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+06.05.2022 |
+
+Dr. K Muralidhar, Manoj Sharma, Ankit Jain, Ras Dwivedi, Prateek Khanna, A. Rama Rao |
+Functional Pump Generator |
+04.04.2022 |
+
+Dr. V K Jain, Satish Kumar, Dr. Ajay M. Sidpara  |
+Rotational-Magnetoreological Abrasive Flow Finishing (R-MRAFF) Process for Nano Finishing of Complex Surfaces/knee Joint Implant |
+18.01.2022 |
+
+Kavita Rathore, Dr. Prabhat Munshi, Dr. Sudeep Bhattacharjee |
+An Improved Emission Tomographic Measurement System Device and A Method Thereof |
+18.01.2022 |
+
+Dr. Kamal K. Kar, Poonam Benjwal  |
+Method for Preparing Zinc-manganese Co-doped Titania Nanoparticles for Improved Photocatalytic Activity |
+18.01.2022 |
+
+Dr. Kamal K. Kar, Raghunandan Sharma |
+Solar Hybrid Polymer
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Electrolyte Membrane Fuel Cell (PEMFC) |
+31.12.2021 |
+
+Shanu Sharma, Dr. Bishakh Bhattacharya, Arvind Shanmuga Sundaram M., Dr. J. Ramkumar  |
+A Novel Tube-well Hand Pump |
+16.12.2021 |
+
+Dr. V. K. Jain, Pawan Basera |
+Finishing Apparatus |
+08.12.2021 |
+
+Abhinav Parashar, Rahul Singh, Manoj Sharma, Dr. P K Panigrahi, Dr. K. Muralidhar  |
+Identification of Vascular Deformation |
+13.08.2021 |
+
+Surya Prakash Singh, Shruti Dubey, Dr. Kantesh Balani, Dr. J. Ramkumar  |
+A Thermally Stable and Reinforced Polypropylene-SiC Nanocomposite, A Method and Application Thereof |
+04.08.2021 |
+
+Ayaj Ahamad Ansari, Dr. Samarshi Chakraborty, Randeep Ravesh, Dr. Malay K. Das, Dr. Pradipta Kumar Panigrahi  |
+A Nanofluid for CO2 Sequestration via Hydrate Formation and Process of Synthesizing Thereof |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+02.08.2021 |
+
+Pawandeep Singh Matharu, Dr. Bishakh Bhattacharya  |
+Apparatus and Method for Real-time, in Situ Monitoring of Water Quality |
+22.07.2021 |
+
+Sanghamitro Chatterjee, Dr. Sudeep Bhattacharjee, Sanjeev K Maurya, Vyas Srinivasan, Dr. Krishnacharya Khare, Dr. Sameer Khandekar  |
+A Method for Transforming the Wettability of a Surface |
+12.03.2021 |
+
+Dr. Kamal Krishna Kar, Dr. J. Ramkumar, Yaswanth Kumar Penke, Amit Kumar Yadav, Iram Malik, Alekha Tyagi  |
+Mn-Al-Fe Impregnated RGO Hybrid Composite for Arsenic Adsorption and its Sludge as Super-capacitor |
+28.01.2021 |
+
+Dr. Kamal Krishna Kar, Dr. J. Ramkumar, Kiran Kumar Surthi  |
+A Process for Synthesis of Nano Particles of LiNi0.5C0.5PO4 (LNCP) and Use Thereof |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+23.11.2021 |
+
+Dr. Kamal K. Kar, Raghunandan Sharma |
+A Method of Preparing Helically Coiled Carbon Nanotube (CCNT) using Star Shaped Nano Particle |
+18.01.2021 |
+
+Shanu Sharma, Dr. Shatarupa Thakur Roy, Dr. Satyaki Roy, Dr. J. Ramkumar, Sathish Sekar  |
+A Self Propelled Stair Climbing Wheel Chair |
+10.11.2020 |
+
+Dr. Sanjay G. Dhande, Dr. Nachiketa Tiwari, Joshima V. M.  |
+A System and Method for Transmitting Mails from a First Location to a Second Location |
+28.08.2020 |
+
+Ravi Sankar, Dr. V K Jain, Dr. J. Ramkumar  |
+A Medium for Nano-finishing of Complex Component's Internal/external Surfaces and a Method for Preparation Thereof |
+21.07.2020 |
+
+Dr. Kamal K. Kar, Amit Kumar Yadav, Deepak Pandey, Sowntharya Logapperumal  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Method for Preparing Carbon Based Highly Flexible Smart Battery Micro Fiber in the Form of Lithium Ion Batteries |
+06.07.2020 |
+
+Dr. Sanjay G. Dhande, Dr. Nachiketa Tiwari, Joshima V. M.  |
+A System for Providing the Users a Secured Service Relating to Deposit, Withdrawal and Transfer of One of Inputted and Processed Data Including Financial Instrument |
+19.05.2020 |
+
+Dr. Kamal K Kar, Raghunandan Sharma |
+Electrocatalyst for Oxygen Reduction Reaction in Fuel Cells from Bio-waste Feather Fiber |
+27.05.2020 |
+
+Dr. Kamal K Kar, Raghunandan Sharma |
+Ferromagnetic Metal Nanoparticle Encapsulated Carbon Nanotubes as Nano-heaters for Cancerous Cell Treatment and Method of Manufacturing the Same |
+18.05.2020 |
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Dr. Bishakh Bhattacharya, Ankur Agarwal  |
+A Modular Robotic System |
+27.04.2020 |
+
+Dr. Kamal K Kar, Soma Banerjee  |
+Novel Phosphonated Poly Ether Ether Ketone Polymer as an Alternative to Nafion for Polymer Electrolyte Membrane Fuel Cell and the Method of Manufacturing the Same |
+23.04.2020 |
+
+Dr. Sanjay G Dhande, Brij Mohan Shukla |
+Safety System for Vehicles |
+13.03.2020 |
+
+Dr. Sanjay G Dhande, Brij Mohan Shukla |
+Signal Detection System |
+07.02.2020 |
+
+Dr. Kamal K. Kar, Pankaj Chamoli  |
+A Green Reduction Approach for Graphene Oxide into Graphene Nanosheets by Urea |
+30.01.2020 |
+
+Dr. J. Ramkumar, Sathish Sekar |
+A Multipurpose Transporter with Modular Configuration |
+04.12.2019 |
+
+Dr. Kamal K. Kar, Raghunandan Sharma |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Ferromagnetic Nanoparticle Encapsulated Carbon Nanotubes with High Encapsulation/filling Ratio for High Density |
+19.11.2019 |
+
+Dr. Kamal K. Kar, S. K. Ariful Rahman, Niranjan Patra, Sanjay Dasgupta |
+Controlled Growth of Carbon Nanocones on Carbon Fiber (s) /fabric and Method of Synthesis Thereof |
+02.09.2019 |
+
+Dr. Kamal K. Kar, Jayesh Cherusseri  |
+Flexible Supercapacitors Utilizing Electrochemically Active Materials Based Nanocomposite Hybrid Electrodes and Method of Manufacturing Thereof |
+23.08.2019 |
+
+Dr. Kamal K. Kar, S.K. Ariful Rahman |
+Method of Manufacturing of Carbon Nano Tube Coated Glass Fiber/ Fabric and its Hybric Nanocomposites |
+29.04.2019 |
+
+Dr. J. Ramkumar, Dr. Prashant Kumar |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Fabrication of Jute Fiber Sandwich Composites |
+06.02.2019 |
+
+Dr. V. K. Jain, Dr. R. Shekhar, Dr. D. S. Bilgi, Anjali V. Kulkarni, Aatish Chavan |
+Process for Drilling Contoured Deep Hole in Super Alloys using Sted to Enhance Cooling in Turbine Blades |
+19.02.2019 |
+
+Dr. B. Basu, Dr. Shantanu Bhattacharya, Rajeev Kumar Singh  |
+A Method for Creation of 2 and 3-dimensional Micro Channels of Varied Dimensions using Replication and Molding Around a Wire |
+10.04.2018 |
+
+Dr. K. K. Kar, Ahankari Sandeep Sureshrao |
+A Functionally Graded Elastomer Nanocomposites (FGENCS) and a Process for Preparation Thereof |
+20.03.2018 |
+
+Dr. Kamal K. Kar, Sumit Pramanik |
+Spherical Crystalline Nano Hydroxyapatite and Method of Manufacture from Calcium Oxide |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+28.11.2017 |
+
+Dr. Sunil Jha, Dr. J. Ramkumar, Sandeep Nair |
+A Device for Magnetic Abrasive Finishing of Multiple Workpieces and Magnetic Abrasive Finishing Process |
+06.10.2017 |
+
+Dr. J. Ramkumar, Sunil Jha |
+Magnetic Float Levitative Finishing |
+20.04.2017 |
+
+Dr. Kamal K. Kar, Ahankari Sandeep Sureshrao |
+Functionally Graded Polymer Nanocomposites/composites having Crosslinking Density Variation and Their Manufacture |
+18.08.2016 |
+
+Dr. Kamal K. Kar, Ahankari Sandeep Sureshrao |
+A Novel Functionally Graded Polymer(s) / Polymeric Nanocomposite(s) [FGP(s)] / FGPNC(s)] having Glass Transition Temperature Variation and a Process for Preparation Thereof |
+10.08.2016 |
+
+Dr. Kamal K Kar, Prahbat K. Agnihotri, Sanjay Dasgupta |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+A Carbon Nanotubes Coated Long Fiber and a Process for Preparation Thereof |
+13.06.2016 |
+
+Dr. Kamal K Kar, Dr. J. Ramkumar, Piyushkumar Bipinchandra Tailor  |
+A Novel Viscoelastic Media Used for a Nano-finishing of Materials Through Abrasive Flow Machining Process and a Method of Manufacture Thereof |
+15.09.2015 |
+
+Dr. Kamal K. Kar, Pradip Paik |
+A Process for Preparation of Micron Sized High Molecular Weight Polymer |
+31.08.2015 |
+
+Dr. Avinash Kumar Agarwal, ME |
+Conversion of Vegetable Oils to Biodiesel |
+22.07.2015 |
+
+Dr. Avinash Kumar Agarwal, Deepak Agarwal |
+Design of an Integrated System for using Straight Vegetable Oils as Fuels for Diesel Engines |
+11.03.2015 |
+
+Dr. Kamal K. Kar, Ahankari Sandeep Sureshrao |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Functionally Graded Magnetic Materials and a Method for Preparation of the Same |
+12.01.2015 |
+
+Dr. Kamal K. Kar, Ariful Rahaman |
+Carbon Nanotube(s) Coated Cutting Tool(s) and a Method of Manufacture Thereof |
+12.11.2013 |
+
+Dr. Kamal K. Kar, Dr. Animesh Biswas, Ahankari Sandeep Sureshrao |
+Functionally Graded Wide-band Polymeric Composites for Microwave Absorbers and Method of Manufacturing Same |
+10.04.2013 |
+
+Dr. V. K. Jain, S. Jha  |
+An Abrasive Flow Finishing Device, an Abrasive Flow Finishing Process and Magnetorheological Polishing Fluid |
+26.03.2013 |
+
+Dr. V.K. Jain, Dr. Raghu-Ram, D. K. Singh |
+A Method for Magnetic Abrasive Finishing using a Pulsating Flexible Magnetic Abrasive Brush and a Magnetic Abrasive Finishing Device |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+13.03.2013 |
+
+Dr. Kamal K. Kar, Prashant Kumar, Tinkuu K. Sah, S. D. Sharma |
+A Method of Preparing Fiber Reinforced Plastic Articles using Rubber Pressure Moulding Technique |
+23.02.2012 |
+
+Dr. Kamal K. Kar, Sanjay Dasgupta, Prahbat K. Agnihotri  |
+A Method for Preparation of Nanoparticles Coated Carbon Fiber |
+21.12.2011 |
+
+Dr. Kamal K. Kar, Prahbat K. Agnihotri, Sanjay Dasgupta |
+A Nickel Coated Carbon Fiber Re-inforced Polymer Composites and a Method for the Preparation Thereof |
+18.10.2011 |
+
+Dr. Sudipta Mukherjee, Anupam Nagory  |
+A Novel Attachment for Affixing to Luggage Articles |
+28.10.2005 |
+
+List of Foreign Patents
+
+Patentees | Title | Foreign Country | Date |
+
+Dr. Bishakh Bhattacharya, Kapil Das Sahu, Kanhaiya Lal Chaurasiya, Ujjain Kumar Bidila and Mani Kumar P |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Actuator with Shape Memory Alloy Elements for Operating a Valve |
+United States |
+19.05.2026 |
+
+Dr. Nishith Verma, Dr. J Ramkumar and Prateek Khare  |
+Polymeric Nanocomposite Films with Embedded Channels and Methods of Their Preparation and Use |
+United States |
+16.04.2019 |
+
+Dr. Kamal K. Kar and Ariful Rahman |
+Carbon Nanofiber / Carbon Nanocoil Coated Substrate and Nano Composites |
+Japan |
+10.03.2017 |
+
+Dr. K. Muralidhar and McGregor Robert |
+Method, System and Device for Enhancing Flow Field Data |
+United States |
+25.11.2014 |
+
+Dr. Kamal K. Kar, Ariful Rahman, Raghunandan Sharma, Sanjay Agarwal |
+Filament Including Carbon Nanotubes and Method of Making a Filament Including Carbon Nanotubes |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+United States |
+07.10.2014 |
+
+Dr. Kamal K Kar and Sumit Pramanik |
+Hydroxyapatite Poly (Etheretherketone) Nanocomposities and Method of Manufacturing Same |
+United States |
+18.02.2014 |
+
+List of Design Patents
+
+Patentees | Title | Date |
+
+Dr. Amar Kumar Behera, Atharv Jiwane, Ishita, Jahnvi Singh, Mihir Gupta, Nikita Yadav, Shreya Verma, Shreya Yadav |
+Magnetic Clip 3D Glasses |
+05.08.2025 |
+
+R. VarunKrishana, Divakar Tiwari, Dr. K. K. Dokania, Dr. J Ramkumar, Dr. Amandeep Singh, Jaya Chandra Reddy Bhavanam, Himanshu Gupta |
+Self-operation Enema for Managing Constipation |
+01.07.2025 |
+
+Raj Kumar, Dr. J. Ramkumar, Dr. Kantesh Balani |
+TPMS Scaffold for Bone Tissue Engineering |
+20.03.2025 |
+
+Amruta P. Karkare, Shivam Sachan, Ramendra Pathak, Dr K. K. Dokania, Dr. J. Ramkumar |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+JIVHAA’ – A Prognostic Tongue Depressor for Paediatricians |
+10.03.2025 |
+
+Raj Kumar, Murli Manohar, Dr. J. Ramkumar, Dr. Kantesh Balani |
+Ineosin Hybrid Graded TPMS-based Scaffold for Bone Tissue Engineering Applications |
+13.09.2024 |
+
+Dr. Bishakh Bhattacharya, Dr. Vivek Kant, Darshan Chavhan, Nayan Jyoti Baishya, Anirudha Bhattacharjee |
+Adaptive Smart Walking Stick |
+05.09.2024 |
+
+Sanjeet Kumar Singh, Dr. Shantanu Bhattacharya |
+Noise Blocker |
+22.08.2024 |
+
+Yogesh Kumar Singh Solanki, Dr. J. Ramkumar |
+Chair Walker |
+10.05.2024 |
+
+Oosheen Tanya, Rahul Sagwal, Ishan Patel, Krishan Pandey, Rohan Singh, Sayan Deori, Dr. Nachiketa Tiwari |
+Quadric Chain Pedal |
+18.04.2024 |
+
+Samarth Sachan, Prasanna Patil, Sanjukta Sen, Chaithanya V, Som Tambe, Shashwat Agarwal, Dr. Nachiketa Tiwari |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+SQUAT-SIT COMMODE - Closed |
+12.04.2024 |
+
+Dr. Bhavana Harish, Prof. J. Ramkumar |
+Therapy Exercise Gloves |
+28.03.2024 |
+
+Jayasankar P, Amruta Pansee Karkare, Jagadesh Santosh Kumar, Yogesh Kumar Singh Solanki, Dr. J Ramkumar, Dr. K. K. Dokania |
+Kurzo – A Chair for Staircase |
+22.03.2024 |
+
+Abirami S., Jay Harkishanbhai Prajapati, Kartikeya Dixit, Mandeep Singh Rana, Rushit Mansukhbhai Bhanderi, Sunita Mehta, Supriya Das, Harindra Prasad Sharma, Manoj Sharma, Phool Chand Gond, Dr. K. Muralidhar, Dr. Pranav Joshi, Dr. Niraj Sinha, Dr. Kantesh Balani, Dr. Jayandharan Giridhara Rao, Dr. Amitabha Bandyopadhyay, Dr. Santanu Kumar Mishra |
+Brushless DC (BLDC) Motor |
+06.03.2024 |
+
+Dr. Kamal Krishna Kar, Meraj Ahmed, Deepak Yadav, Dr. Sutapa Mondal |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Mechanical Heart Valve- Closed |
+29.02.2024 |
+
+Jayasankar P. and Dr. J. Ramkumar |
+Respiratory Muscle Trainer |
+29.02.2024 |
+
+Yogesh Kumar Singh Solanki, Dr. J. Ramkumar |
+Chair with Toilet Seat |
+23.02.2024 |
+
+Yogesh Kumar Singh Solanki, Dr. J. Ramkumar |
+Multifunctional Chair |
+16.02.2024 |
+
+Jayasankar P., Akshit Verma, Anuj Kapoor, Nandita Nupur, Raj Varshith, Yatharth Singh, Dr. Nachiketa Tiwari |
+Modular-Adjustable-Compressible Table |
+31.01.2024 |
+
+Dr. Aman Singh Solanki, Saumya Saini, Kalpana Nishad, Aman Rawat, Yogesh Kumar Singh Solanki, Dr. Nachiketa Tiwari |
+Pencil-Ruler |
+25.01.2024 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar, Rohit Kumar |
+Indoor Box Cricket Game |
+11.01.2024 |
+
+Mubashir Ali, Dr Janakarajan Ramkumar, Dr. Amaandep Singh |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+A Plunger to Remove Wax from Ear |
+07.12.2023 |
+
+Mubashir Ali, Dr J. Ramkumar, Dr. Amaandep Singh |
+A Plunger to Remove Wax from Ear |
+29.11.2023 |
+
+Virendra Kumar Sachan, Shivam Sachan, Dr. J. Ramkumar |
+Glass Ampoule Breaker |
+06.11.2023 |
+
+Dr. Kamal Krishna Kar, Meraj Ahmed, Deepak Yadav, Dr. Sutapa Mondal |
+Mechanical Heart Valve- Open |
+13.07.2023 |
+
+Samarth Sachan, Prasanna Patil, Sanjukta Sen, Chaithanya V, Som Tambe, Shashwat Agarwal, Dr. Nachiketa Tiwari |
+SQUAT-SIT COMMODE - Open |
+03.07.2023 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar |
+Spring Based Jaw Opening Device |
+01.06.2023 |
+
+Karan Singh, Ashok Kumar Prajapati, Shivam Sachan, Dr. J. Ramkumar  |
+Weight Training Device for Cramps, Medical Injury & Exercise in Leg |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+26.05.2023 |
+
+Jitendra Kumar Sharma, Dr. Amandeep Singh, Dr. J. Ramkumar |
+Lotus Shaped Holding Device |
+16.05.2023 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar |
+Jaw Opening Device |
+30.03.2023 |
+
+Santosh Pramanik, Dr. Amandeep Singh, Dr. J. Ramkumar |
+Smart Biogas Plant |
+13.03.2023 |
+
+Anubhav Mishra, Dr. Nachiketa Tiwari |
+Freewheel Differential Clutch |
+09.03.2023 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar |
+Matrix Based Electric Heating & Cooling Pad |
+25.01.2023 |
+
+Divakar Tiwari, Dr. J Ramkumar, Dr. Alok Bhadauria, Dr. K. K. Dokania, Dr. Amandeep Singh  |
+Light Weight Breathing Device for Virus and Pollution Protection |
+23.01.2023 |
+
+Anubhav Mishra, Dr. Nachiketa Tiwari |
+Robotic Three Finger Gripper |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+20.01.2023 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar |
+Gear Based Jaw Opening Device |
+13.01.2023 |
+
+Jitendra Kumar Sharma, Dr. Amandeep Singh, Dr. J. Ramkumar |
+Seed Oil Extractor |
+10.01.2023 |
+
+Ashok Kumar Prajapati, Shivam Sachan, Dr. J. Ramkumar |
+Fountain Tower for Wastewater Treatment |
+09.01.2023 |
+
+Saurabh Gupta, Sanjeet Kumar Singh, Dr. Syam Nair, Dr. Shantanu Bhattacharya  |
+Collapsible Multiple Drawing Sheets Holding Device |
+02.12.2022 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar  |
+SITOLIA-The Table Game |
+02.02.2022 |
+
+Saurabh Gupta, Sanjeet Kumar Singh, Dr. Syam Nair, Dr. Shantanu Bhattacharya  |
+Video Recording Setup for Smartphones |
+14.01.2022 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Multipurpose Extension Key to reduce human contacts in public Places |
+19.04.2021 |
+
+Dr. Shantanu Bhattacharaya, Akshay Purwar, Sandip Kumar Jain, Kuldeepak Mahto, Nishant Kumar, Swagatam Mitra, Shishir Kumar Singh, Virendra Singh  |
+Commode on Wheels |
+18.01.2021 |
+
+Dr. J. Ramkumar, Ravi Raj, Om Prakash, Shantanu Agarwal, Sunil Kumar  |
+Grater |
+07.12.2020 |
+
+Siddhant Srivastava, Ayush Gupta, Dr. Arshad Ahmad, Dr. J. Ramkumar, Dr. K. S. Venkatesh, Virendra Singh |
+Multipurpose Proctoscope: Hinge Type |
+17.08.2020 |
+
+Siddhant Srivastava, Ayush Gupta, Dr. Arshad Ahmad, Dr. J. Ramkumar  |
+Multipurpose Proctoscope: Nested Type |
+28.07.2020 |
+
+Kaniska Biswas, Pushpal Dey, Esha Ray, Dr. B. Bhattacharya, Dr. Tarun Gupta  |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+Ergonomic Retractable Novel Stair (closed View) |
+19.06.2020 |
+
+Shyam Sunder Nishad, Anirban Choudhary, Dr. Ashish Dutta, Dr. Anupam Saxena  |
+Robotic Hand Rehabilitation Device for Post Stroke Therapy |
+08.01.2020 |
+
+Kaniska Biswas, Pushpal Dey, Esha Ray, Dr. B. Bhattacharya, Dr. Tarun Gupta  |
+Ergonomic Retractable Novel Stair (open View) |
+04.10.2019 |
+
+Jeyakumar M and Dr. J. Ramkumar  |
+Tool for Measuring and Drawing Quadrilateral |
+30.09.2019 |
+
+Jeyakumar M and Dr. J. Ramkumar  |
+Tool for Measuring and Drawing Triangles |
+29.08.2019 |
+
+L. V. Sairam Jagatani, Dr. Nirmalya Guha, Dr. J Ramkumar |
+Interactive Board Game |
+22.11.2018 |
+
+Dr. J. Ramkumar, Dr. Raman Saxena, Shailendra Kumar  |
+Bicycle for Vegetable Transport |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+23.03.2018 |
+
+Dr. J. Ramkumar, Vimal C  |
+Irilla (Lamp) |
+07.02.2018 |
+
+Dr. J. Ramkumar, Dr. Raman Saxena, Shailendra Kumar  |
+Bicycle for Carrying Food Articles |
+04.12.2017 |
+
+Mritunjay Kumar, Aboobacker Siddique and Dr. J Ramkumar  |
+Samaritan (Phototherapy Unit) |
+18.09.2017 |
+
+Eshan Sadasivan, Dr. Shantanu Bhattacharya, Dr. Mainak Das, Dr. Toshib Bagde, Abhinav Basak  |
+School Bag Convertible to Study Table |
+06.09.2017 |
+
+Dr. J. Ramkumar, Dr. Raman Saxena, Shailendra Kumar  |
+Milkman Bicycle |
+10.03.2017 |
+
+Dr. J. Ramkumar, Dr. Uday S. Racherla, Shivakumar  |
+Business Purpose Utility Vehicle-saloon |
+18.11.2016 |
+
+Dr. J. Ramkumar, Dr. Uday S. Racherla, Shivakumar  |
+Peltify Wearable Device for Thermoregulation |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+16.09.2016 |
+
+Dr. Shantanu Bhattacharya, Dr. Jhumkee Iyengar, Charu  |
+Design for Disability: A Waist Wearable for Visually Challenged for Indoor Navigation |
+12.09.2016 |
+
+Dr. J. Ramkumar, Dr. Uday S Racherla, Shivakumar  |
+Business Purpose Utility Vehicle-ironing Cart |
+31.08.2016 |
+
+Dr. J. Ramkumar, Dr. Uday S Racherla, Shivakumar  |
+Business Purpose Utility Vehicle-vegetable Cart |
+31.08.2016 |
+
+Dr. K Muralidhar, Manoj Sharma, Ankit Jain, Ras Dwivedi, Prateek Khanna, A. Rama Rao |
+Multi Drug Delivery Medical Pump |
+10.08.2012 |
+
+Shanu Sharma, Dr. Shatarupa Thakur Roy, Dr. Satyaki Roy, Dr. J. Ramkumar, Sathish Sekar  |
+Stair Climbing Wheel Chair |
+13.07.2012 |
+
+Dr. J Ramkumar, Sathish Sekar |
+A Multipurpose Transporter with Modular Configuration |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+26.08.2011 |
+
+Dr. Bishakh Bhattacharya, Atul R. Sultane |
+A Green Harvesting Device for Low Power Electronic Equipment |
+26.08.2011 |
+
+Dr. J. Ramkumar, Dr. Satyaki Roy, Sathish Sekar |
+The Drift-battery Operated Campus Vehicle |
+01.01.2010 |
+
+List of Copyright Patents
+
+Patentees | Title | Date |
+
+Siddhant Shrivastava, Dr. J. Ramkumar, Agartha Singh |
+IoT based Menstrual Teaching Doll |
+10.12.2024 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar |
+Algorithm for the working of Home Based Oxygen Concentrator |
+13.10.2023 |
+
+Md Haseen Akhtar, Rohit Kakkar, J. Ramkumar |
+Stress Free Games |
+12.12.2023 |
+
+Siddhant Shrivastava, Dr. J Ramkumar, Praveen Kumar, Abhishek Verma |
+Smart, Multilinguistic Talking Bot for Learning & Educating Children for Child Abuse |
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > consulting patents]
+31.10.2022 |
+
+Siddhant Shrivastava, Dr. J. Ramkumar, Akshat Shrivastava, Abhishek Verma |
+Learn by Shapes |
+17.05.2022 |
+
+=== energy conversion laboratory ===
+Source: https://www.iitk.ac.in/me/energy-conversion-laboratory
+Address:
+
+Energy Conversion Laboratory (Near DOAA canteen, in front of central workshop)
+
+Overview:
+
+This lab is used for the under-graduate courses (ME-401A & ME-344). The objective is to keep pace with the recent technological advancement in the field of energy conversion (IC engines, refrigeration), Fluid Mechanics, and Turbines.
+
+Equipment:
+
+Computerized Demonstration Set Up for Francis Turbine
+
+Pelton Wheel Turbine
+
+Centrifugal Pump
+
+Axial Fan Unit
+
+Hydraulic Coupling
+
+Gas Turbine Model
+
+Centrifugal Compressor
+
+Kaplan Turbine
+
+Educational models related to turbo machinery and instrumentation to measure, temperature, pressure, velocity, flow and visualisation, rotational speed, torque etc.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > energy conversion laboratory]
+Experiments:
+
+Estimate of the performance characteristics of two-stages axial flow fan.
+
+Demonstration of the principles of operation and to evaluate the characteristics of a small-scale hydro power unit (Pelton turbine).
+
+Finding the operating characteristic in serial and parallel mode of a Serial and Parallel centrifugal Pump.
+
+Evaluation of efficiency and performance characteristics of a multi-stage centrifugal compressor.
+
+Evaluation of thermal efficiency and output of a Rankine Cycler.
+
+Performance study on Variable Compression Ratio (VCR) Four-stroke C.I Engine and to obtain characteristics curves at variable operating conditions.
+
+To study the operating characteristics on a cascade tunnel.
+
+Evaluation of Performance Characteristics for a Francis Turbine.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > energy conversion laboratory]
+To understand the operating characteristics of a vapor compression system via calculation of COP at different operating conditions with real time data acquisition.
+
+Relevant Information (if any): N/A
+
+Faculty-in-Charge: Dr. Aditya Saurabh
+
+Contact Person:
+Dr. C. S. Goswami
+Energy Conversion Laboratory
+0512-259-7658
+
+Axial Flow Fan
+
+Turbine Blade Instrumentation
+
+Impulse Turbine
+
+High Speed Centrifugal Compressor
+
+Rankine Cycler
+
+Variable Compression Ratio (VCR)
+
+Francis Turbine
+
+Evaporator in Parallel & Series Refrigeration System
+
+=== experimental stress analysis laboratory ===
+Source: https://www.iitk.ac.in/me/experimental-stress-analysis-laboratory
+Address:
+
+Northern Laboratories 1, UG Lab Complex
+
+Overview:
+
+The Experimental Analysis Laboratory in the Department of Mechanical Engineering at IIT Kanpur is dedicated to the experimental investigation of the mechanical behavior of materials and structures. The laboratory provides state-of-the-art facilities for conducting experiments in solid mechanics, experimental stress analysis, material characterization, and structural mechanics.
+
+The laboratory serves as a core teaching and research facility for undergraduate, postgraduate, and doctoral programs. Through a combination of conventional testing methods and advanced optical measurement techniques, students develop a comprehensive understanding of deformation, stress, strain, failure mechanisms, and the validation of analytical and computational models.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > experimental stress analysis laboratory]
+Our facilities support both instructional laboratory courses and research activities, offering students hands-on experience with modern experimental methods widely used in academia and industry.
+
+Equipment:
+
+25 KN Servo Hydraulic Universal Testing Machine
+
+Strain Conditioners and Data Acquisition Systems
+
+Field Emission Scanning Electron Microscope with EDS
+
+Universal Testing Machine
+
+Hardness Tester (Brinell, Vickers, Rockwell Superficial)
+
+Poldi Portable Hardness Tester (Shore A and Shore D)
+
+Fatigue Tester (Rotating Bending and Reverse Bending)
+
+Experiments:
+
+Application of strain gauge techniques: lecture on strain gauge based methods, cantilever beam and portal frame experiments
+
+Application of strain gauge techniques: experiment on combined bending and torsion
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > experimental stress analysis laboratory]
+Applications of photoelasticity: demonstration of photoelastic techniques
+
+Applications of photoelasticity: calibration of the photoelastic constant, determination of the stress field in a beam under bending
+
+Applications of Digital Image Correlation: demonstration of DIC techniques, determination of strain fields in the gauge section of a polymeric dog-bone specimen under tension
+
+Applications of DIC: determination of thermoelastic stress and strain fields using DIC
+
+Relevant Information (if any): N/A
+
+Faculty-in-Charge: Dr. Ushasi Roy
+
+Contact Person:
+1. Anurag Goel
+2. Raghavendra Kushwaha
+Northern Laboratories 1, UG Lab Complex
+0512-679-7966
+
+Stresses in a cantilever beam
+
+Strain and deflection of a portal frame
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > experimental stress analysis laboratory]
+Measurement of shear modulus
+
+Stresses due to combined bending and torsion using stain gauges in different bridge configuration
+
+Stress analysis using photoelasticity
+
+Digital Image Correlation
+
+=== featured research ===
+Source: https://www.iitk.ac.in/me/featured-research
+A team of researchers at Indian Institute of Technology Kanpur has studied experimentally the fluid flow pattern inside the droplet in sitting drop method of protein crystallization using micro-PIV technique.
+
+Dropwise condensation is a heterogeneous phase-change process in which vapor condenses in the form of discrete liquid drops on or underneath a cold substrate.
+
+A team of researchers at Indian Institute of Technology Kanpur have designed and experimentally evaluated a new 8-DOF biped robot with compliant shanks.
+
+Chromium Etching by Laser
+
+Florescence images of translation of dyed DNA samples on SiO2 surface
+
+=== fluid mechanics laboratory ===
+Source: https://www.iitk.ac.in/me/fluid-mechanics-laboratory
+Address:
+
+Workshop 1, Department of Mechanical Engineering
+
+Overview:
+
+The Fluid Mechanics Laboratory in the Department of Mechanical Engineering is an instructional laboratory for both undergraduate and graduate students. Presently, it provides support to the undergraduate course ME333 and the graduate course ME649. It provides a wide array of experiments designed to deepen the understanding of the concepts that the students are introduced to in the classroom, and also an opportunity to explore the broader area of fluid mechanics.
+
+Equipment:
+
+Low Speed Wind Tunnel
+
+Smoke Tunnel
+
+Flow Rate Measurement Using Flow Meter
+
+Manometry (U-tube, Micro manometer)
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > fluid mechanics laboratory]
+Pitot Tube and Pitot Static Tube
+
+Hot-wire Anemometer
+
+Computer Aided DAQ System
+
+Precision Pressure Sensor
+
+Precision Digital Balance
+
+Rotating Cup Viscometer
+
+Experiments:
+
+Jet impact on flat and curved surfaces
+
+Measurement of drag on a circular cylinder in high Reynolds number flow
+
+Energy loss measurements in subcritical and supercritical open channel flow
+
+Measurement of fluid viscosity
+
+Determination of friction factor as a function of Reynolds number in pipe flow
+
+Studying laminar-turbulent transition for flow in a tube
+
+Study of a Turbulent Mixing Layer (ME – 649)
+
+Relevant Information: Additional Details
+
+Faculty-in-Charge: Dr. Pranav Joshi
+
+Contact Person:
+
+Mr. Manoj Sharma
+Instrumentation Room, Workshop 1
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > fluid mechanics laboratory]
+0512-259-7928
+
+Low Speed Wind Tunnel
+
+Smoke Tunnel: Flow Visualization Demonstration
+
+Flow Rate Measurement Using Flow Meter
+
+Manometry (U-tube, Micro-manometer)
+
+Pitot Tube
+
+Hot Wire Anemometry
+
+Computer Aided DAQ System
+
+Precision Pressure Sensor
+
+Rotating Cup Viscometer
+
+=== heat transfer laboratory ===
+Source: https://www.iitk.ac.in/me/heat-transfer-laboratory
+Address
+
+1st Floor, Northern Laboratories Extension, UG Lab Complex
+
+Overview
+
+Heat transfer laboratory is an undergraduate teaching laboratory housing a handful of experimental apparatus pertaining to fundamental heat transfer problems and their applications. This laboratory supports the curriculum for third-year undergraduate students undertaking the course “ME334: Experiments in Mechanical Engineering - II”.
+
+Equipment
+
+HT10XC Computer Compatible Heat Transfer Unit
+
+HT17 Unsteady State Heat Transfer Unit
+
+Pin Fin Apparatus
+
+Critical Heat Flux Measurement Apparatus
+
+Emissivity Measurement Apparatus
+
+HT15 Extended Surface Apparatus
+
+Heat Transfer in Natural Convection
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > heat transfer laboratory]
+Fluke FMW-9143A Dry Well Thermocouple Calibration Facility
+
+Thermocouple Spot Welding Machine
+
+Experiments
+
+Unsteady heat conduction
+
+Heat transfer from a pin fin under forced convection heat transfer mode
+
+Pool boiling phenomenon up to critical heat flux point
+
+Measurement of emissivity
+
+Heat transfer from an extended surface under natural convection and radiation
+
+Natural convection heat transfer for a vertical tube
+
+Calibration of thermocouples
+
+Relevant Information: Lab Manuals, Overview of Experiments
+
+Faculty: Dr. Umesh Madanan
+
+Contact Person:
+Mr. Farhan Babu
+Heat Transfer Laboratory, UG Lab Complex
+0512-259-6649
+
+Critical Heat Flux Apparatus
+
+Thermocouple Calibration System
+
+Unsteady Conduction Equipment
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > heat transfer laboratory]
+Emissivity Measurement Apparatus
+
+Pin Fin Appratus
+
+Natural Convection Heat Transfer Appratus
+
+Extended Surface System
+
+=== manufacturing science laboratory ===
+Source: https://www.iitk.ac.in/me/manufacturing-science-laboratory
+Address
+
+102 Diamond Jubilee Academic Complex
+
+Overview:
+
+The UG courses (ME261 / ME361) introduce students to primary and secondary manufacturing processes, including casting, joining, bulk deformation, additive manufacturing, conventional and non-conventional machining, and measurement techniques. It covers process classification, design aspects, working of machines, mechanistic analysis, process physics and defects formed during the process.
+
+Equipment
+
+Die Casting Setup: Bottom pouring type aluminium die casting machine, for sample preparation – VOLTZ Sander, micro-balance (AFCOSET), polishing equipment (double disk single drive Bainpol Metco), and Nikon LV100D microscope for characterization.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > manufacturing science laboratory]
+Welding Setup: Fronius TransSteel 3000 Pulse, CO2 and argon gas cylinders for shielding, and TC-08 data logger.
+
+Hydraulic Press Setup: USB microscope, load cell, LabVIEW software, NI DAQ card, vernier caliper, proving ring, chop saw, and blank-making die-punch for sample sheet (disk) cutting.
+
+Multi Gating Channel Flow during Mold Filling Setup: Complete setup with accessories.
+
+3D Printing machine: FDM 3D printing machines, vernier calipers, 3D CAD software, and Ultimaker Cura 5.0.
+
+CNC Lathe Setup: LabVIEW software, Three-component piezo-crystal type dynamometer (Kistler), NI DAQ card, micro-balance, Dino-Lite USB microscope, and vernier caliper.
+
+EDM Setup: Electronica ZNC EDM machine, for sample/tool preparation - HMT radial drill machine, HMT LB-17 lathe and Praga surface grinding machine, micro-balance, Dino-Lite USB microscope, micrometer, and stopwatch.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > manufacturing science laboratory]
+Milling Setup: Multi-component dynamometer (Kistler), LabVIEW software, NI DAQ card, Dino-Lite USB microscope, vernier calipers, HMT LB-17 lathe, Praga surface grinding machine for sample/tool preparation, microbalance, and ELGI air compressor with dryer for dry and compressed air.
+
+Metrology Setup: 3D Coordinate Measuring Machine (Accurate Spectra 5.6.4) and Kaeser air dryer, ELGI air compressor for dry and compressed air.
+
+Experiments:
+
+To cast Aluminium in a metal mould. To measure temperature as the molten Aluminium solidifies, evaluate cooling curves, and prepare samples from the cast piece to characterize their microstructure.
+
+To study and observe the welding techniques through practice (MMAW and MIG). To make a Butt-Joint and measure the temperature through TC-08 Data Logger, and study the effect on Metal Deposition Rate by varying torch speed in MIG Welding.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > manufacturing science laboratory]
+To draw a cup by cup drawing process and measure forming forces, and linear, area and volumetric strains.
+
+To observe mold filling behaviour using the Multi Gating Channel Flow Experiment
+
+To fabricate a 3D object using the fused deposition additive manufacturing process and to measure dimensions using a vernier caliper.
+
+To measure cutting forces in turning machining operation and to identify cutting force coefficients, estimate cutting force coefficient from the estimated chip thickness ratio, and study influence of cutting speed on cutting forces.
+
+To study and observe the EDM machining technique. To determine material removal rate (MRR) and tool wear rate (TWR) during machining of EN8 steel.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > manufacturing science laboratory]
+To mechanistic identification of cutting force coefficients in the Milling operation.
+
+To measure features and part dimensions of the part fabricated through additive manufacturing, and to demonstrate measuring of other complex parts using the coordinate measuring machine (CMM).
+
+Relevant Information: N/A
+Faculty-in-Charge: Dr. Supratik Mukhopadhyaya
+Contact Person:
+1. Mr. Atul Kumar Gangwar
+DJAC-102, Manufacturing Science UG Laboratory
+0512-259-7923
+
+2. Mr. Sanjeev Kumar Verma
+DJAC-102, Manufacturing Science UG Laboratory
+0512-679-7553
+
+Aluminium Die casting
+
+Deep Drawing through Hydraulic Press
+
+Mechanistic identification of cutting force coefficients in milling
+
+Co-ordinate Measuring Machine (C.M.M.) Metrology
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > manufacturing science laboratory]
+MIG & ARC Welding
+
+Oblique Cutting and Cutting Force Coefficient Identification
+
+Electric Discharge Machining (EDM)
+
+=== material testing laboratory ===
+Source: https://www.iitk.ac.in/me/material-testing-laboratory
+Address
+
+1st Floor, Northern Laboratories 1 Extension, UG Lab Complex
+
+Overview:
+
+The Materials Testing Laboratory, located on the Undergraduate Laboratory Complex, serves as an important instructional facility for undergraduate students in Department of Mechanical Engineering, Indian Institute of Technology Kanpur. The laboratory is designed to bridge the gap between theoretical concepts taught in their materials-related courses and their real-world engineering applications. At present, the laboratory supports experiments associated with the courses ME222 (Nature and properties of materials), ME683 (Techniques in non-destructive evaluation), and ME723 (Wave propagation in solids) providing students with practical exposure to the behavior and characterization of engineering materials. The Laboratory, offered under Course Code ME333 (Experiments in Mechanical Engineering-I), comprises a series of structured experiments designed to provide students with hands-on experience in evaluating the mechanical properties of engineering materials. The experiments cover properties such as strength, hardness, ductility, fatigue life, elastic modulus, shear modulus, and surface characteristics of various materials, including mild steel, aluminium, copper, brass, polymers, elastomers, and thin-film specimens. The facility is equipped with a wide range of testing and characterization instruments including universal testing machine, micro vickers hardness tester, digital brinell hardness tester, rotating cantilever fatigue testing machine, metallography station, contact angle meter, ellipsometer, tear resistance tester. These instruments enable experimental studies related to tensile testing, fatigue analysis, hardness measurement, metallographic examination, wettability assessment, surface energy evaluation, and thin film characterization. The experiments conducted in the laboratory help students understand concepts such as stress-strain behavior, S-N curve generation, material failure mechanisms, surface properties, microstructural analysis, and estimation of elastic constants.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > material testing laboratory]
+Equipment
+
+Universal Testing Machine – Not working
+
+Double Disc Polishing Machine
+
+Specimen Cutter Machine
+
+Metallography Station
+
+Rotating Cantilever Type Fatigue Testing Machine
+
+Ellipsometer
+
+Digital Micro Vickers Hardness Tester
+
+Load Cell Based Digital Brinell Hardness Tester
+
+Tear Resistance Tester
+
+Vickers Hardness Tester
+
+Ultrasonic Pulsar-Receiver Module
+
+Contact Angle Meter
+
+Shore-A & Shore-D Hardness Tester
+
+Experiments:
+
+Study of Stress-Strain Behaviour of Mild Steel and Aluminium under Tensile Loading using a Universal Testing Machine
+
+Study of Hardness of given Metallic specimen using Brinell Hardness Tester
+
+Study of Hardness of given Metallic specimen using a Micro Vickers Hardness Tester
+
+Study of Wettability and Surface Energy using Contact Angle Meter
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > material testing laboratory]
+Study of Hardness of Rubbers, Plastics, and Elastomers using Shore A and Shore D Durometer
+
+Study of Fatigue Behaviour of Mild Steel and Aluminium by Plotting S-N Curve using Rotating Cantilever Type Fatigue Testing Machine
+
+Study of Hardness of given Metallic Samples (Mild Steel, Aluminium, Copper, Brass, etc.) using Rockwell Hardness Tester
+
+To determine the film thickness and refractive index of a thin-film specimen deposited on a substrate using an ellipsometer
+
+Relevant Information: N/A
+
+Faculty-in-Charge: Dr. C. Chandraprakash
+
+Contact Person:
+Gourav Kumar Jha
+1st floor, UG Lab Complex
+0512-679-7355
+
+Rockwell Hardness Tester
+
+Micro Vickers Hardness Tester
+
+Inverted Mettalography Station
+
+Rotating Cantilever Type Fatigue Testing Machine
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > material testing laboratory]
+Ellipsometer
+
+Standard Samples Used in Ellipsometer
+
+Software Interface - Ellipsometer
+
+Double Disc Polishing Machine
+
+Contact Angle Meter
+
+Software Interface – Contact Angle Meter
+
+Load Cell Based Digital Brinell Hardness Tester
+
+Vickers Hardness Tester
+
+Universal Testing Machine
+
+Elemendorf Type Tear Tester
+
+Software Interface – Tear Tester
+
+Specimen Cutter Machine
+
+=== mechanisms laboratory ===
+Source: https://www.iitk.ac.in/me/mechanisms-laboratory
+Address:
+
+Northern Laboratories 1, UG Lab Complex
+
+Overview:
+
+This laboratory explores the fundamental building blocks of machinery by constructing linkages like the Watts, Peaucellier-Lipkin and Pantograph, experimentally verifying the Grashof Criterion and its various inversions, Epicyclic gear train torque balancing, mapping of cam profiles, static and dynamic balancing of rotating and reciprocating masses.
+
+Equipment:
+
+MAKIT - Master Kit
+
+Epicyclic Gear Train Apparatus
+
+CAM Analysis Apparatus
+
+Static & Dynamic Balancing Apparatus
+
+Balancing of Reciprocating Masses Apparatus
+
+Experiments:
+
+Develop the understanding of different types of links, joints, mechanism, its actions and curve traces by making Peaucelliar-Lipkin Linkage, Watts, Pantograph and a four bar mechanism with a translational link using the kit provided.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > mechanisms laboratory]
+Understand Grashof Criterion, its inversions, form Grashof, non-Grashof Mechanism and all possible cases of its mechanism and inversions using the kit provided.
+
+Measure the input, output and holding torque using spring balance to study torque relationship and verify the correlation between speed and torque in epicyclic gear train.
+
+Draw the cam profile from the observed (deg/ displacement) and compare it with the actual profile.
+
+Balanced a simple rotating mass system (a) Statically by randomly orienting two masses and analytically solve to get the orientation of rest of two masses. (b) Dynamically by statically balancing the masses along the length of the rotor such that the net moment become zero.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > mechanisms laboratory]
+(a) Balanced a simple rotating mass system using 2 Plane Balancing approach by placing two masses at specified positions and orientations and analytically solve to get the orientation of rest of two masses at pre-specified plan along the length of the rotor.
+(b) Observe reciprocating unbalance by adding masses to the pre balanced system.
+
+Relevant Information: Manual - Lab 1, Manual - Lab 2, Manual - Lab 3, Manual - Lab 4, Manual - Lab 5, Manual - Lab 6
+
+Faculty: Dr. Anindya Chatterjee
+
+Contact Person:
+
+1. Gyanendra Prakash Tripathi
+2. Rohit Kumar Singh
+3. Ashutosh Singh
+102 Northern Laboratories 1
+0512-679-7913
+
+MAKIT – Master Kit
+
+Epicyclic Gear Train Apparatus
+
+CAM Analysis Apparatus
+
+Static & Dynamic Balancing Apparatus
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > mechanisms laboratory]
+Balancing of Reciprocating Masses Apparatus
+
+=== microsystems fabrication laboratory ===
+Source: https://www.iitk.ac.in/me/microsystems-fabrication-laboratory
+The Microsystems laboratory has been commissioned within the Department of Mechanical Engineering in the year 2009-2010 by the financial support provided by the institute CARE program and through the external merit based funding that has been obtained by the Principle investigator and Co-PI of this CARE proposal.
+
+Vision of the Laboratory:
+
+Our Long term vision is to establish a working micro-engineering center for excellence in functional micro-scale prototypes. The goal is to promote basic MEMS research and training, developing MEMS sensor modules for commercial and futuristic applications, generate resources for the institute through grant proposals, sale of patented technologies and developing MEMS educational modules. The bigger objective of this center is to develop the 21st century engineering and technical task force who would take up the technological challenges of the future decades. Tangible Impacts to the Institute
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+Development of MEMS technology and products through a heavily iterative design process and reliability analysis of prototypes.
+
+State of the art MEMS fabrication facility for national and international users from neighboring nations. This would generate a lot of institute good will and also monetary resources and would increase the visibility of IIT-Kanpur in the global arena.
+
+Possibility of getting foreign scholars and students for training modules from the neighboring nations and Asian and Middle Eastern countries in general. The institute can eventually think of establishing MEMS engineering school associated with the design/ prototyping center for excellence.
+
+Possibility of getting funded research projects from industries and national agencies by demonstrating the capabilities. The laboratory is currently housed in the first floor of NET building and has a covered area of almost 3500 sqft. Mentioned below is a detailed list of the equipments and systems which are currently available and operational in this laboratory.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+List of Equipment available at the laboratory:
+
+Sputtering/ PECVD Dual System
+
+Sputtering is an important technique of deposition of thin films using Argon and other inert gas plasma created within the right chamber of the shown equipment. The other chamber is a PECVD tool (left chamber which is used to create material films on a substrate. In a PECVD process, gaseous reactants are introduced into a reaction chamber and a plasma is created out of the reactants. Reactions occur on heated substrate surfaces, resulting in deposition of the solid product. Other gaseous reaction products leave the chamber. The gas that carries the reactants is called carrier gas. The PECVD process have a part of their energy delivered by the momentum transfer by the ions in plasma; thus lower substrate temperature is needed, typically of the order of 100 ✁ 3000C. The PECVD at this time is in need for a Silane system which is very important for feeding the reactants which would react to formulate material films.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+Oxidation Furnace
+
+Thermal oxidation is a simple route to cover a silicon substrate with oxide. In micro devices oxide may be used for a variety of purposes from chemical attachment and modifiability of surfaces to using oxide as a filler material in gaps etc. in microfluidic channels with sub-micron accuracy level or making micro cantilevers. Based on the type of oxidation thermal oxide may be categorized as dry and wet oxides. In dry oxidation pure oxygen reacts with silicon at high temperatures from 8000C to about 12000C.
+
+Dicing Saw
+
+A dicing saw employs a high-speed spindle fitted with an extremely thin diamond blade to dice or groove semiconductor wafers and other work-pieces.
+
+Spin Coater
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+Spin coating is a procedure used to apply uniform thin films to flat substrates. In short, an excess amount of a solution is placed on the substrate, which is then rotated at high speed in order to spread the fluid by centrifugal force. A machine used for spin coating is called a spin coater, or simply spinne
+
+Gravity Convection Oven
+
+A special gas or electric oven equipped with a fan that provides continuous circulation of hot air around the sample to be heated.
+
+Fume Hood
+
+A fume hood or fume cupboard is a type of local ventilation device that is designed to limit the user's exposure to hazardous or noxious fumes, vapors or dusts. A fume hood is typically a large piece of equipment enclosing five sides of a work area, the bottom of which is most commonly located at a standing work height
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+DI Water System
+
+Distilled water is perfect for applications where minerals and contaminants would cause problems. Distilled water can be used in irons for steam settings or as coolant for car engines. Because there are no minerals that can stain or build up, distilled water is mostly recommended for use in machinery and cleaning products. The system produces Distiller water by heating and vaporization followed by collection and condensation of the vapours.
+
+Wire Bonder
+
+Wire bonding is a method of making interconnections between a microchip and other electronics as part of semiconductor device fabrication
+
+Optical Table
+
+A rigid horizontal bar or track for holding optical devices in experiments; it allows device positions to be changed and adjusted easily. The vibration isolation table is used along at the base for prevention of vibration transmission to the optical setup kept over this.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+Desk Top Mask Aligner
+
+Mask aligners are used in most micro-fabrication research laboratories and in even in low-volume production facilities. Almost any micro scale device or structure requires more than one photo mask step. The job of the contact aligner is to allow its user to align features on a substrate (wafer) to features on a photo mask. The production of sophisticated electronic devices may involve ten or more of these alignment steps.
+
+Chemical Balance
+
+A beam balance of great precision used in quantitative chemical analysis.
+
+Air cooled Chiller
+
+A chiller is a machine that removes heat from a liquid via a vapor-compression or absorption refrigeration cycle. A vapor-compression water chiller comprises the 4 major components of the vapor-compression refrigeration cycle (compressor, evaporator, condenser, and some form of metering device). The chiller will be used to fed the PECVD/ Sputtering systems etc.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > microsystems fabrication laboratory]
+Nano Cal-C
+
+The Nano Cal-c is a thin film measurement instrument which is capable of measurement of stacks of transparent films upto 500nm. It is based on the principle of reflectance measurements carried out by a laser and detector.
+
+=== research department facilities ===
+Source: https://www.iitk.ac.in/me/research/department-facilities
+Some of the facilities within the Mechanical Engineering department are:
+
+Thermo-vacuum (Thermovac) Facility
+
+=== robotics laboratory ===
+Source: https://www.iitk.ac.in/me/robotics-laboratory
+Address:
+
+Northern Laboratories 1, UG Complex
+
+Overview:
+
+The robotics lab has been designed to complement the theory part of the course ME381- Robotics, offered in 5th Semester to UG students. The topics taught in the lecture class related to forward and inverse kinematics, sensors, actuators, control systems and industrial robot programming are connected to the experiments conducted in the lab, so that students can have hands on learning and also relate the theory with actual practical applications. All the experiments are run using microcontroller control along with a laptop, so that the students become familiar with concepts of microcontroller programming as well as modern sensors, actuators and controllers. This exposes students to the basics of all modern control systems like robots, electric vehicles, drones, CNC machines, etc.
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > robotics laboratory]
+Equipment:
+
+Microcontrollers - Arduino Uno
+
+Sensors
+
+DC Motor
+
+Stepper Motor
+
+Servo Motor
+
+2R Manipulator
+
+5R Manipulator
+
+Mobile Robot
+
+Industrial Robots - Svaya SR-L6
+
+PUMA 560
+
+Experiments:
+
+Basics of Microcontroller, LED blink, etc.
+
+Basics of microcontroller communication (time dependent execution and communication)
+
+Sensor interfacing with microcontroller, e.g., encoder, proximity, hall effect, joystick, etc.
+
+Actuators: Stepper and Servo motors position control
+
+Actuators: DC motor position and speed control with magnetic encoder
+
+Forward and inverse kinematics of a two-link serial planar manipulator
+
+Kinematics of parallel manipulators
+
+Industrial manipulator programming - PUMA 560 and Svaya SR-L6
+
+Mobile robot control and its application
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > robotics laboratory]
+Relevant Information: N/A
+
+Faculty: Dr. Ashish Dutta
+
+Contact Person:
+Ashutosh Singh
+312 Northern Laboratories 1
++91-7880409461
+
+Basics of Microcontroller (Time Dependent Execution and Communication)
+
+Different Sensor Interfacing with Microcontroller
+
+Actuators: Stepper and Servo Motors Position Control
+
+Actuators: DC Motor with Encoder – Speed and Position Control
+
+Kinematics of a Two-Link Serial Planar Manipulator
+
+Mobile Robot Control and Its Application
+
+Kinematics of a Five-Bar Parallel Planar Manipulator
+
+Svaya SR-L6
+
+PUMA 560
+
+=== sem laboratory ===
+Source: https://www.iitk.ac.in/me/sem-laboratory
+Instruments:
+
+SIGMA Field Emission Scanning Electron Microscope From CARL ZEISS
+
+Integrated Energy Dispersive Spectroscopy (EDS) from OXFORD INSTRUMENTS
+
+Integrated 300 N MICROTENSILE STAGE from GATAN
+
+Sputter Coating Setup.
+
+(a) FESEM       (b) Sputter Coating Setup
+
+=== vibration and control laboratory ===
+Source: https://www.iitk.ac.in/me/vibration-and-control-laboratory
+Address:
+
+Hall I, 103 Northern Laboratories, UG Lab Complex
+
+Overview:
+
+A Vibration and Control Laboratory is an advanced engineering laboratory used to study the system like "rigid" hinged beam, with a single degree of freedom, oscillating about its hinge. A spring and a damper are attached to the beam at two different locations. The free vibrations are generated by displacing the beam from its equilibrium position and the forced vibrations are generated by an electrical motor-driven imbalance exciter. Further study in:
+
+Mechanical vibrations
+
+Dynamic systems
+
+Stability and damping
+
+Sensors and actuators
+
+Feedback control systems
+
+Structural health monitoring
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > vibration and control laboratory]
+Signal processing
+
+Mechatronics and automation
+
+It is widely used in:
+
+Aerospace Engineering
+
+Civil Engineering
+
+Automotive Engineering
+
+Robotics
+
+Railways
+
+Industrial automation
+
+Défense and space research
+
+Equipment:
+
+Mechanical Shaker – Transmissibility
+
+Electrodynamic Shaker
+
+TMD Setup
+
+Universal Vibration Setup
+
+Pendulum Setup
+
+Sensors:
+
+Accelerometers
+
+Displacement sensors
+
+Proximity probes
+
+Strain gauges
+
+Load cells
+
+Gyroscopes
+
+Experiments:
+
+Vibration Experiments:
+
+Free Vibration of Spring-Mass System
+
+Forced Vibration Experiment
+
+Torsional Vibration Setup
+
+Beam Vibration Experiment
+
+Multi Degree of Freedom (MDOF) System
+
+Control System Experiments:
+
+PID Control
+
+DC Motor Speed Control
+
+Inverted Pendulum
+
+Active Vibration Control
+
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > vibration and control laboratory]
+Current Experiments:
+
+Study of a beat phenomenon of a coupled pendulum
+
+Determination of effective radius of gyration of an irregular body through torsional oscillation of trifilar suspension
+
+Determinations of natural frequencies of beams under simply supported and cantilever boundary conditions
+
+Study of dynamic vibration absorber
+
+Active vibration control
+
+DC motor speed control with various sensors
+
+Measurement of linear displacement by potentiometer
+
+Speed torque characteristics of DC servomotor
+
+Balancing of ball and beam system through PID control
+
+Balancing of Rotary Inverted pendulum through feedback control
+
+Relevant Information: Overview of Experiments
+
+Faculty: Dr. Pankaj Wahi
+
+Contact Person:
+[Context: DEPARTMENT OF MECHANICAL ENGINEERING IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PRO > vibration and control laboratory]
+1. Rohit Kumar Singh, MDES, IIT Kanpur
+Indian Institute of Technology Kanpur, Kanpur 208016, Uttar Pradesh
+0512-679-2163 / 6097 / 7508 (Lab)
+
+2. Gyanendra P Tripathi
+Indian Institute of Technology Kanpur, Kanpur 208016, Uttar Pradesh
+0512-679-7913
+
+Platform supported by two strips allows lateral vibration without tilting (tilting would require one of the strips to either lengthen, shorten, or buckle). Two strips make the single degree of freedom model appropriate. With one strip, there would be lateral displacement as well as tilting, requiring a two degree of freedom model
+
+Experimental setup. (B) Base (D) Primary system (E) Added extra mass (F) Piezo sensor (G) Spring (H) Linear bearing.
+
+Experimental setup. (A) Motor (B) Base (C) Viscous damper (D) Primary mass system (E) Added extra mass (F) Piezo sensor.
+
+=== water tunnel test facility ===
+Source: https://www.iitk.ac.in/me/water-tunnel-test-facility
+The water tunnel test facility has been set-up to undertake the flow measurements for various flow configurations at higher Reynolds numbers. Two PhD students are working full time in this laboratory. The facility has been equipped with the following instrumentations.
+
+Laser Doppler Velocimeter (LDV)
+
+Laser Induced Fluorescence (LIF)
+
+Hotwire Anemometer
+
+Load-Cell
+
+Calibration unit of load-cell and anemometer.
+
+Smoke visualization facility.
+

@@ -1,0 +1,724 @@
+IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)
+Name: IIT Kanpur faculty directory: faculty names with designation and department, grouped under Economics, Engineering, Humanities, Inter-disciplinary Programs, Schools and Sciences.
+Type: INSTITUTE FACULTY DIRECTORY (https://www.iitk.ac.in/iitk-faculty). Snapshot: scraped in 2026. The web page showed only the first dozen faculty of each department under a 'Load More' button, so this list is partial; the full faculty lists with phone, e-mail and research interests are in the academic_departments folder (one folder per department) and condensed research-interest lines are in iitk_faculty_research_interest_summaries_by_department.txt.
+
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Faculty
+IIT Kanpur is renowned for its exceptional faculty members, who play a pivotal role in shaping the institute's academic landscape and research endeavors. Dedicated to nurturing talent, promoting innovative thinking, and conducting cutting-edge research, the faculty at IIT Kanpur comprises distinguished academics, researchers, and industry experts.
+Browse Faculty by
+Economic Sciences
+Aerospace Engineering
+Biological Sciences & Bioengineering
+Chemical Engineering
+Civil Engineering
+Computer Science & Engineering
+Design
+Electrical Engineering
+Intelligent Systems
+Materials Science & Engineering
+Management Sciences
+Mechanical Engineering
+Space, Planetary and Astronomical Sciences and Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Sustainable Energy Engineering
+Humanities and Social Sciences
+Materials Science Programme
+Nuclear Engineering & Technology
+Photonics Science and Engineering Programme
+Gangwal School of Medical Sci. & Tech.
+Kotak School of Sustainability
+Wadhwani School of AI & Intelligent Systems (WSAIS)
+Chemistry
+Cognitive Science
+Earth Sciences
+Mathematics
+Physics
+Statistics and Data Science
+Departments
+All
+Economics
+Engineering
+Humanities
+Inter-disciplinary Programs
+Schools
+Sciences
+Economics
+Economic Sciences
+Aditya Vikram
+Assistant Professor, Department of Economic Sciences
+Anna David Thottappilly
+Assistant Professor, Department of Economic Sciences
+Anujit Chakraborty
+Visiting Assistant Professor, Department of Economic Sciences
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Bikramaditya Datta
+Associate Professor, Department of Economic Sciences
+Esha Chatterjee
+Assistant Professor, Department of Humanities and Social Sciences + Economic Sciences Adjunct Faculty
+Hargungeet Singh
+Assistant Professor, Department of Economic Sciences
+Joydeep Dutta
+Professor,  Department of Economic Sciences
+Kumar Alok
+Visiting Professor of Practice, Department of Economic Sciences
+Mahamitra Das
+Assistant Professor, Department of Economic Sciences
+Malabika Koley
+Assistant Professor, Department of Economic Sciences
+Manpreet Singh
+Assistant Professor, Department of Economic Sciences
+Mohammad Arshad Rahman
+Associate Professor, Department of Economic Sciences
+Engineering
+Aerospace Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Abhijit Kushari
+Professor, Department of Aerospace Engineering
+Abhishek
+Professor, Department of Aerospace Engineering
+Ajay Vikram Singh
+Associate Professor, Department of Aerospace Engineering
+Akhilesh Mimani
+Associate Professor, Department of Mechanical Engineering + AE Adjunct Faculty
+Alakesh Chandra Mandal
+Professor, Department of Aerospace Engineering
+Arnab Samanta
+Associate Professor, Department of Aerospace Engineering
+Arun Kumar Perumal
+Associate Professor, Department of Aerospace Engineering
+Ashish Tewari
+Professor, Department of Aerospace Engineering
+Ashoke De
+Professor, Department of Aerospace Engineering
+Chandra Shekhar Upadhyay
+Professor, Department of Aerospace Engineering
+D. Chaitanya Kumar Rao
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Assistant Professor, Department of Aerospace Engineering
+Debi Prasad Mishra
+Professor, Department of Aerospace Engineering
+Biological Sciences & Bioengineering
+Amitabha Bandyopadhyay
+Professor, Department of Biological Sciences & Bioengineering
+Anusmita Sahoo
+Assistant Professor, Department of Biological Sciences & Bioengineering
+Appu Kumar Singh
+Associate Professor, Department of Biological Sciences & Bioengineering
+Arjun Ramakrishnan
+Assistant Professor, Department of Biological Sciences & Bioengineering
+Arun Kumar Shukla
+Professor, Department of Biological Sciences & Bioengineering
+Ashok Kumar
+Professor, Department of Biological Sciences & Bioengineering
+Ashwani Kumar Thakur
+Professor, Department of Biological Sciences & Bioengineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Bushra Ateeq
+Professor, Department of Biological Sciences & Bioengineering
+Debanjan Dasgupta
+Assistant Professor, Department of Biological Sciences & Bioengineering
+Debdeep Dutta
+Assistant Professor, Department of Biological Sciences & Bioengineering
+Dhirendra Sushilendra Katti
+Professor, Department of Biological Sciences & Bioengineering, Currently on Deputation as Director, IIT Goa.
+Dibyendu Kumar Das
+Associate Professor, Department of Biological Sciences & Bioengineering
+Chemical Engineering
+Akash Choudhary
+Assistant Professor, Department of Chemical Engineering
+Animangsu Ghatak
+Professor, Department of Chemical Engineering
+Anurag Tripathi
+Professor, Department of Chemical Engineering
+Arijit Bose
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Distinguished Visiting Professor, Department of Chemical Engineering
+Ashutosh Sharma
+Professor, Department of Chemical Engineering + Adjunct Faculty in MSP (Materials Science Programme) + SEE + Kotak School of Sustainability (KSS)
+Dipin Sasidharan Pillai
+Associate Professor, Department of Chemical Engineering
+Dr. Samiran Mahapatra
+Adjunct Professor, Department of Chemical Engineering
+Goutam Deo
+Professor, Department of Chemical Engineering
+Harshwardhan Hemant Katkar
+Assistant Professor, Department of Chemical Engineering
+Himanshu Sharma
+Associate Professor, Department of Chemical Engineering + SEE Adjunct Faculty
+Indranil Saha Dalal
+Associate Professor, Department of Chemical Engineering
+Ishan Bajaj
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Assistant Professor, Department of Chemical Engineering
+Civil Engineering
+Abhas Singh
+Professor, Department of Civil Engineering
+Abhijith G. R.
+Assistant Professor, Department of Civil Engineering + Adjunct Faculty in Kotak School of Sustainable
+Aditya Medury
+Assistant Professor, Departement of Civil Engineering
+Amar Nath Roy Chowdhury
+Assistant Professor, Department of Civil Engineering
+Animesh Das
+Professor, Department of Civil Engineering
+Anubha Goel
+Professor, Department of Civil Engineering + Department of Sustainable Energy Engineering (joint appointment)
+Arghya Das
+Professor, Department of Civil Engineering
+Balaji Devaraju
+Associate Professor, Department of Civil Engineering
+Bharat Lohani
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Professor, Department of Civil Engineering + Photonics Science and Engineering
+Bipin Kumar Gupta
+Assistant Professor, Department of Civil Engineering
+Chinmoy Kolay
+Assistant Professor, Department of Civil Engineering
+Chirag Kothari
+Assistant Professor, Department of Civil Engineering
+Computer Science & Engineering
+Adithya Vadapalli
+Assistant Professor, Department of Computer Science & Engineering
+Amey Karkare
+Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Amitangshu Pal
+Assistant Professor, Department of Computer Science & Engineering
+Angshuman Karmakar
+Assistant Professor, Department of Computer Science & Engineering + Joint Appointment in Wadhwani School of AI & Intelligent Systems (WSAIS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Anil Seth
+Professor, Department of Computer Science and Engineering
+Anshu Yadav
+Assistant Professor, Department of Computer Science & Engineering
+Arnab Bhattacharya (অর্ণব ভট্টাচার্য)
+Professor, Department of Computer Science and Engineering
+Ashutosh Modi
+Associate Professor, Department of Computer Science & Engineering
+Debadatta Mishra
+Associate Professor, Department of Computer Science & Engineering
+Debapriya Basu Roy
+Assistant Professor, Department of Computer Science & Engineering
+Dr. Amartya Sanyal
+Adjunct Assistant Professor,  Department of Computer Science & Engineering
+Dr. Nisheeth K. Vishnoi
+Visiting Professor, Department of Computer Science & Engineering
+Design
+Abhishek Shrivastava
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Associate Professor, Department of Design
+Amar Kumar Behera
+Associate Professor, Department of Design
+Ashish Kumar Singh
+Assistant Professor, Department of Design
+Girish Ishwar Lone
+Professor of Practice, Department of Design
+Gowdham Prabhakar P. G.
+Assistant Professor, Department of Design
+Himanshi Jangir
+Assistant Professor, Department of Design
+Janakarajan Ramkumar
+Professor, Department of Design
+Mainak Das
+Professor, Department of Design
+Ms. Jhumkee Iyengar
+Adjunct Professor,  Department of Design
+Nilutpal Borgohain
+Assistant Professor, Department of Design
+Rajeev Jindal
+Professor of Practice, Department of Design
+Saptarshi Kolay
+Assistant Professor, Department of Design
+Electrical Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+A Ranganath Harish
+Professor, Departement of Electrical Engineering
+Abheejeet Mohapatra
+Professor, Department of Electrical Engineering
+Abhilash Patel
+Assistant Professor, Department of Electrical Engineering.
+Abhishek K Gupta
+Associate Professor, Department of Electrical Engineering
+Abhyudai Singh
+Visiting Faculty, Department of Electrical Engineering
+Aditya Kiran Jagannatham
+Professor, Department of Electrical Engineering
+Adrish Banerjee
+Professor, Department of Electrical Engineering
+Ajit Kumar Chaturvedi
+Professor, Department of Electrical Engineering
+Alok Ranjan Verma
+Associate Professor, Department of Electrical Engineering
+Amit Verma
+Associate Professor, Department of Electrical Engineering + MSP Adjunct Faculty
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Anirudh Gautam
+Professor of Practice, Department of Electrical Engineering
+Ankush Sharma
+Professor, Department of Electrical Engineering
+Intelligent Systems
+Amey Karkare
+Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Ashwin Verma
+Assistant Professor, Department of Intelligent Systems
+Indranil Saha
+Professor, Department of Computer Science and Engineering + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Ketan Rajawat
+Professor, Department of Electrical Engineering + AE Adjunct Faculty + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Manindra Agrawal
+Professor, Department of Computer Science and Engineering + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Nisheeth Srivastava
+Professor, Department of Computer Science and Engineering + Department of Cognitive Science (joint appointment) + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Nitin Saxena
+Dean, Department of Wadhwani School of AI & Intelligent Systems + Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS)
+Piyush Rai
+Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Rajiv Ratn Shah
+Associate Professor, Department of Intelligent Systems
+Rohit Budhiraja
+Professor, Department of Electrical Engineering + Joint Appointment in  Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Shakti Singh Gupta
+Professor, Department of Mechanical Engineering + Joint Appointment in  Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Soumya Ranjan Sahoo
+Professor, Department of Electrical Engineering + AE Adjunct Faculty + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Materials Science & Engineering
+Amarendra Kumar Singh
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Professor, Department of Materials Science and Engineering
+Anish Upadhyaya
+Professor, Department of Materials Science and Engineering
+Anshu Gaur
+Associate Professor, Department of Materials Science and Engineering
+Arunabh Meshram
+Assistant Professor, Department of Materials Science and Engineering
+Dipak Mazumdar
+Emeritus Fellow, Department of MSE
+Heena Khanchandani
+Assistant Professor, Department of Materials Science and Engineering
+Kallol Mondal
+Professor, Department of Materials Science and Engineering
+Kantesh Balani
+Professor, Department of Materials Science and Engineering
+Kaustubh Narhar Kulkarni
+Professor, Department of Materials Science and Engineering
+Krishanu Biswas
+Professor, Department of Materials Science and Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Monica Katiyar
+Professor, Department of Materials Science and Engineering
+Nilesh Prakash Gurao
+Professor, Department of Materials Science and Engineering
+Management Sciences
+Abhinava Tripathi
+Assistant Professor, Department of Management Sciences
+Amit Shukla
+Associate Professor, Department of Management Sciences
+Anoop Singh
+Professor, Department of Management Sciences
+Avijit Khanra
+Assistant Professor, Department of Management Sciences
+B V Phani
+Professor, Department of Management Sciences
+Deepu Philip
+Professor, Department of Management Sciences
+Devlina Chatterjee
+Professor, Department of Management Sciences + Adjunct Faculty in Kotak School of Sustainable (KSS)
+Dr. Ram Sewak Sharma
+Distinguished Visiting Professor, Department of Management Sciences
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Faiz Hamid
+Associate Professor, Department of Management Sciences
+Giridhar Vishlavath
+Assistant Professor, Department of Management Sciences
+Harshal Rajan Mulay
+Assistant Professor, Department of Management Sciences
+Jitender Kumar
+Assistant Professor, Department of Management Sciences
+Mechanical Engineering
+Abhishek Sarkar
+Assistant Professor, Department of Mechanical Engineering
+Aditya Saurabh
+Assistant Professor, Department of Mechanical Engineering
+Akhilesh Mimani
+Associate Professor, Department of Mechanical Engineering + AE Adjunct Faculty
+Anikesh Pal
+Associate Professor, Department of Mechanical Engineering
+Anindya Chatterjee
+Professor, Department of Mechanical Engineering
+Anupam Saxena
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Professor, Department of Mechanical Engineering
+Anurag Gupta
+Professor, Department of Mechanical Engineering
+Arun K. Saha
+Professor, Department of Mechanical Engineering
+Arvind Kumar
+Professor, Department of Mechanical Engineering
+Ashish Dutta
+Professor, Department of Mechanical Engineering
+Atanu Dolai
+Assistant Professor, Department of Mechanical Engineering
+Avinash Kumar Agarwal
+Professor (Mechanical Engineering), Currently on Deputation as Director, IIT Jodhpur
+Space, Planetary and Astronomical Sciences and Engineering
+Abhay Gupta
+Adjunct Professor, Department of SPASE
+Amitesh Omar
+Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+Chhavi Jain
+Assistant Professor, Department of Space, Planetary and Astronomical Sciences and Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Dr. Arun K. Misra
+Distinguished Visiting Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+Dr. Hiroaki Katsuragi
+Visiting Professor of Practice, Department of Space, Planetary & Astronomical Sciences & Engineering
+Ishan Sharma
+Professor, Department of Mechanical Engineering + Department of Space, Planetary and Astronomical Sciences and Engineering (joint appointment)
+J. S. Yadav
+Visiting Professor,  Department of Space, Planetary & Astronomical Sciences & Engineering
+Kunal Prakash Mooley
+Assistant Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+Mohit Bhardwaj
+Assistant Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Mugundhan Vijayaraghavan
+Assistant Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+Pankaj Jain
+Emeritus Fellow, Department of Space, Planetary & Astronomical Sciences & Engineering
+Prashant Pathak
+Assistant Professor, Department of Space, Planetary & Astronomical Sciences & Engineering
+Sustainable Energy Engineering
+Aakash Chand Rai
+Associate Professor, Department of Sustainable Energy Engineering
+Amarendra Edpuganti
+Assistant Professor, Department of Sustainable Energy Engineering
+Anubha Goel
+Professor, Department of Civil Engineering + Department of Sustainable Energy Engineering (joint appointment)
+Arunavo Mukerjee
+Visiting Professor of Practice,  Department of Sustainable Energy Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Ashish Garg
+Professor, Department of Sustainable Energy Engineering
+Ashutosh Sharma
+Professor, Department of Chemical Engineering + Adjunct Faculty in MSP (Materials Science Programme) + SEE + Kotak School of Sustainability (KSS)
+Debopam Das
+Professor, Department of Aerospace Engineering + Department of Sustainable Energy Engineering (joint appointment)
+Deepika Swami
+Assistant Professor, Department of Sustainable Energy Engineering
+Dr. Satyam S. Sahay
+Visiting Professor of Practice, Department of Sustainable Energy Engineering
+Hari Mohan Upadhyaya
+Visiting Professor, Department of Sustainable Energy Engineering
+Himanshu Sharma
+Associate Professor, Department of Chemical Engineering + SEE Adjunct Faculty
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Indu Shekhar Chaturvedi
+Visiting Professor, Department of Sustainable Energy Engineering
+Humanities
+Humanities and Social Sciences
+Anindita Chakrabarti
+Professor, Department of Humanities and Social Sciences + Adjunct Faculty in Kotak School of Sustainable (KSS)
+Braj Bhushan
+Professor, Department of Humanities and Social Sciences
+Chaithra Puttaswamy
+Associate Professor, Department of Humanities and Social Sciences
+Chinmay Vijay Dharurkar
+Assistant Professor, Department of Humanities and Social Sciences
+Esha Chatterjee
+Assistant Professor, Department of Humanities and Social Sciences + Economic Sciences Adjunct Faculty
+Feroz Hassan
+Assistant Professor, Department of Humanities and Social Sciences
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Gurumurthy Neelakantan
+Emeritus Fellow, Department of Humanities and Social Sciences
+Jillet Sarah Sam
+Associate Professor, Department of Humanities and Social Sciences
+Koumudi Prakash Patil
+Associate Professor, Department of Humanities & Social Sciences
+Kumar Ravi Priya
+Professor, Department of Humanities and Social Sciences
+Lakshmana Rao Pinninti
+Assistant Professor, Department of Humanities and Social Sciences
+Lalit Saraswat
+Associate Professor, Department of Humanities and Social Sciences
+Inter-disciplinary Programs
+Materials Science Programme
+Amit Verma
+Associate Professor, Department of Electrical Engineering + MSP Adjunct Faculty
+Ashutosh Sharma
+Professor, Department of Chemical Engineering + Adjunct Faculty in MSP (Materials Science Programme) + SEE + Kotak School of Sustainability (KSS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Kamal Krishna Kar
+Professor, Department of Mechanical Engineering + MSP (Joint Appointment)
+Mohammad Jaleel Akhtar
+Professor, Department of Electrical Engineering + MSP (Joint Appointment)
+Pritam Chakraborty
+Professor, Department of Aerospace Engineering + MSP Adjunct Faculty
+Raj Ganesh Santharam Pala
+Professor, Department of Chemical Engineering + MSP (Joint Appointment)
+Rajeev Gupta
+Professor, Department of Physics + MSP (Joint Appointment)
+Rohit Medwal
+Assistant Professor, Department of Physics + MSP (Joint Appointment)
+Siddhartha Panda
+Professor, Department of Chemical Engineering + MSP (Joint Appointment)
+Sri Sivakumar
+Professor, Department of Chemical Engineering + MSP (Joint Appointment)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Yashowanta Narayan Mohapatra
+Emeritus Fellow, Department of Physics + MSP (Joint Appointment)
+Yogesh Moreshwar Joshi
+Professor, Department of Chemical Engineering + Materials Science Programme Adjunct Faculty
+Nuclear Engineering & Technology
+Pankaj Wahi
+Professor, Department of Mechanical Engineering
+Raj Ganesh Santharam Pala
+Professor, Department of Chemical Engineering + MSP (Joint Appointment)
+Photonics Science and Engineering Programme
+Bharat Lohani
+Professor, Department of Civil Engineering + Photonics Science and Engineering
+Debabrata Goswami
+Professor, Department of Chemistry + Photonics Science and Engineering
+Harshawardhan Wanare
+Professor, Department of Physics + Photonics Science and Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Krishnamurthy Muralidhar
+Emeritus Fellow, Department of Mechanical Engineering + Photonics Science and Engineering
+Mohammed Ibrahim Sugarno
+Associate Professor, Department of Aerospace Engineering + Department of Photonics Science and Engineering Programme (joint appointment)
+Naren Naik
+Professor, Departement of Electrical Engineering + Photonics Science and Engineering
+Pradeep Kumar Krishnamurthy
+Professor, Department of Electrical Engineering + Photonics Science and Engineering
+Pradipta Kumar Panigrahi
+Professor, Department of Mechanical Engineering + Photonics Science and Engineering
+Pratik Sen
+Professor (HAG), Department of Chemistry + Photonics Science and Engineering
+R. Vijaya
+Professor, Department of Physics + Photonics Science and Engineering
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Rajshekhar Gannavarpu
+Professor, Department of Electrical Engineering + Photonics Science and Engineering
+Sapam Ranjita Chanu
+Assistant Professor, Department of Physics + Department of Photonics Science and Engineering Programme (joint appointment)
+Schools
+Gangwal School of Medical Sci. & Tech.
+Alok Bajpai
+Visiting Professor of Practice, Gangwal School of Medical Sciences and Technology
+Dr. Nazneen Aziz
+Visiting  Professor, Gangwal School of Medical Sciences and Technology
+Dr. Prashant Kumar
+Adjunct Professor, Gangwal School of Medical Sciences and Technology
+Dr. Richard Anthony Strugnell
+Distinguished Visiting Professor, Gangwal School of Medical Sciences and Technology
+Dr. Sridhar Sivasubbu
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Adjunct Professor, Gangwal School of Medical Sciences and Technology
+Dr. Venkataramanan Ramachandran
+Adjunct Professor, Gangwal School of Medical Sciences and Technology
+Dr. Vinod Scaria
+Adjunct Professor, Gangwal School of Medical Sciences and Technology
+Prof. Jaideep Srivastava
+Distinguished Visiting Professor, Gangwal School of Medical Sciences and Technology
+Kotak School of Sustainability
+Abhijith G. R.
+Assistant Professor, Department of Civil Engineering + Adjunct Faculty in Kotak School of Sustainable
+Anindita Chakrabarti
+Professor, Department of Humanities and Social Sciences + Adjunct Faculty in Kotak School of Sustainable (KSS)
+Ashutosh Sharma
+Professor, Department of Chemical Engineering + Adjunct Faculty in MSP (Materials Science Programme) + SEE + Kotak School of Sustainability (KSS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Corey Glickman
+Visiting Professor of Practice, Kotak School of Sustainability
+Devlina Chatterjee
+Professor, Department of Management Sciences + Adjunct Faculty in Kotak School of Sustainable (KSS)
+Dr. Praneet Prakash
+Assistant Professor, Kotak School of Sustainability (KSS)
+Durga Shanker Mishra
+Visiting Professor of Practice, Kotak School of Sustainable
+G. Asok Kumar
+Professor of Practice, Kotak School of Sustainability
+Mahendra Kumar Verma
+Professor, Department of Physics + Department of Kotak School of Sustainability (joint appointment)
+Manoj Kumar Tiwari
+Associate Professor, Department of Civil Engineering + Adjunct Faculty in Kotak School of Sustainable
+Nanditha J S
+Assistant Professor, Kotak School Of Sustainability
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Peeyush Khare
+Assistant Professor, Kotak School of Sustainability (KSS)
+Wadhwani School of AI & Intelligent Systems (WSAIS)
+Amey Karkare
+Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Angshuman Karmakar
+Assistant Professor, Department of Computer Science & Engineering + Joint Appointment in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Anirban Roy
+Professor of Practice, Wadhwani School of AI & Intelligent Systems (WSAIS)
+Arun Dixit
+Visiting Professor of Practice, Wadhwani School of AI & Intelligent Systems (WSAIS)
+Indranil Saha
+Professor, Department of Computer Science and Engineering + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Ketan Rajawat
+Professor, Department of Electrical Engineering + AE Adjunct Faculty + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Manindra Agrawal
+Professor, Department of Computer Science and Engineering + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Nisheeth Srivastava
+Professor, Department of Computer Science and Engineering + Department of Cognitive Science (joint appointment) + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Nitin Saxena
+Dean, Department of Wadhwani School of AI & Intelligent Systems + Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS)
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Piyush Rai
+Professor, Department of Computer Science and Engineering + Joint Appointment in Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Rohit Budhiraja
+Professor, Department of Electrical Engineering + Joint Appointment in  Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Shakti Singh Gupta
+Professor, Department of Mechanical Engineering + Joint Appointment in  Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS)
+Sciences
+Chemistry
+Amalendu Chandra
+Professor, Department of Chemistry
+Anand Singh
+Professor, Department of Chemistry
+Anantharaj Sengeni
+Assistant Professor, Department of Chemistry
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Anantharaman Ganapathi
+Professor, Department of Chemistry
+Apparao Draksharapu
+Associate Professor, Department of Chemistry
+Arnab Ghosh
+Assistant Professor, Department of Chemistry
+Ashis Kumar Patra
+Professor, Department of Chemistry
+Basker Sundararaju
+Professor, Department of Chemistry
+Dasari LVK Prasad
+Associate Professor, Department of Chemistry
+Dattatraya Hanumant Dethe
+Professor, Department of Chemistry
+Debabrata Goswami
+Professor, Department of Chemistry + Photonics Science and Engineering
+Devendra Mani
+Assistant Professor, Department of Chemistry
+Cognitive Science
+Anveshna Srivastava
+Assistant Professor, Department of Cognitive Science
+Ark Verma
+Associate Professor, Department of Cognitive Science
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Devpriya Kumar
+Associate Professor, Department of Cognitive Science
+Himanshu Yadav
+Assistant Professor, Department of Cognitive Science
+Narayanan Srinivasan
+Professor, Department of Cognitive Science
+Nisheeth Srivastava
+Professor, Department of Computer Science and Engineering + Department of Cognitive Science (joint appointment) + Department of Intelligent Systems (DIS) in Wadhwani School of AI & Intelligent Systems (WSAIS) Joint Appointment
+Pragathi P. Balasubramani
+Assistant Professor, Department of Cognitive Science
+Sharika K. M.
+Assistant Professor, Department of Cognitive Science
+Earth Sciences
+Amar Agarwal
+Associate Professor, Department of Earth Sciences
+Animesh Mandal
+Associate Professor, Department of Earth Sciences
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Anupam Banerjee
+Assistant Professor, Department of Earth Sciences
+Debajyoti Paul
+Professor, Departement of Earth Sciences
+Deepa Mele Veedu
+Assistant Professor, Department of Earth Sciences
+Deepak Dhingra
+Associate Professor, Department of Earth Sciences
+Dibakar Ghosal
+Associate Professor, Department of Earth Sciences
+Govindarao Boddepalli
+Assistant Professor, Department of Earth Sciences
+Hiranya Sahoo
+Assistant Professor, Department of Earth Sciences
+Indra Sekhar Sen
+Associate Professor, Department of Earth Sciences
+Ishwar Kumar Cukkemane
+Assistant Professor, Department of Earth Sciences
+Javed Noormohamed Malik
+Professor, Department of Earth Sciences
+Mathematics
+Abhijit Biswas
+Assistant Professor, Department of Mathematics
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Abhijit Pal
+Associate Professor, Department of Mathematics
+Adimurthi Adi
+Distinguished Visiting Professor, Department of Mathematics
+Ajay Singh Ramdin Thakur
+Associate Professor, Department of Mathematics
+Akash Anand
+Professor, Department of Mathematics
+Alok Kumar Maloo
+Professor, Department of Mathematics
+Amit Shekhar Kuber
+Associate Professor, Department of Mathematics
+Aparna Dar
+Emeritus Fellow, Department of Mathematics
+Arijit Ganguly
+Associate Professor, Department of Mathematics
+Ashis Mandal
+Associate Professor, Department of Mathematics
+B V Rathish Kumar
+Professor, Department of Mathematics
+Bidyut Sanki
+Associate Professor, Department of Mathematics
+Physics
+Adhip Agarwala
+Assistant Professor, Department of Physics
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Aditya Hemchandra Kelkar
+Associate Professor, Department of Physics
+Amit Agarwal
+Professor, Department of Physics
+Anand Kumar Jha
+Professor, Department of Physics
+Anjan Kumar Gupta
+Professor, Department of Physics
+Apratim Kaviraj
+Assistant Professor, Department of Physics
+Arijit Kundu
+Professor, Department of Physics
+Arjun Bagchi
+Professor, Department of Physics
+Avinash Singh
+Emeritus Fellow, Department of Physics
+Chanchal Sow
+Associate Professor, Department of Physics
+Chandrima Banerjee
+Assistant Professor, Department of Physics
+Debtosh Chowdhury
+Associate Professor, Department of Physics
+Statistics and Data Science
+Amit Mitra
+Professor, Department of Statistics and Data Science
+Arnab Hazra
+[Context: IIT KANPUR FACULTY DIRECTORY BY DEPARTMENT (NAMES AND DESIGNATIONS)]
+Assistant Professor, Department of Statistics and Data Science
+Debasis Kundu
+Professor, Department of Statistics and Data Science
+Dootika Vats
+Associate Professor, Department of Statistics and Data Science
+Neeraj Misra
+Professor, Department of Statistics and Data Science
+Satya Prakash Singh
+Assistant Professor, Department of Statistics and Data Science
+Shalabh
+Professor, Department of Statistics and Data Science
+Sharmistha Mitra
+Professor, Department of Statistics and Data Science
+Soumyarup Sadhukhan
+Assistant Professor, Department of Statistics and Data Science
+Subhra Sankar Dhar
+Professor, Department of Statistics and Data Science
+Suprio Bhar
+Associate Professor, Department of Statistics and Data Science

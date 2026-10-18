@@ -1,0 +1,352 @@
+DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Economic Sciences, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/eco. Snapshot: scraped in 2026.
+
+=== economic courses ===
+Source: https://www.iitk.ac.in/eco/economic-courses
+Course No. | Course Title |
+
+INTRODUCTION TO ECONOMICS |
+ECO101A |
+
+INTRODUCTON TO MACROECONOMIC PROBLEMS AND POLICIES |
+ECO112A |
+
+MICROECONOMICS I |
+ECO201A |
+
+MACROECONOMICS I |
+ECO221A |
+
+INTRODUCTION TO MATHEMATICAL ECONOMICS |
+ECO261A |
+
+MICROECONOMICS II |
+ECO301A |
+
+DEVELOPMENT ECONOMICS |
+ECO311A |
+
+MACROECONOMICS-II |
+ECO321A |
+
+ECONOMETRICS I |
+ECO341A |
+
+ECONOMETRICS II |
+ECO342A |
+
+PUBLIC ECONOMICS AND PUBLIC POLICY |
+ECO371A |
+
+TECHNICAL COMMUNICATION |
+ECO397A |
+
+UG PROJECT (UGP-I) |
+ECO398A |
+
+UG PROJECT -II |
+ECO399A |
+
+ADVANCED MACRO ECONOMICS |
+ECO408A |
+
+INDUSTRIAL ECONOMICS |
+ECO411A |
+
+INTERNATIONAL ECONOMICS AND FINANCE |
+ECO412A |
+
+INDIAN ECONOMIC PROBLEMS |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > economic courses]
+ECO413A |
+
+FINANCIAL ECONOMICS |
+ECO423A |
+
+ECONOMIC ANALYSIS OF LAW |
+ECO424A |
+
+UNDER GRADUATE PROJECT-III |
+ECO498A |
+
+UNDER GRADUATE PROJECT-IV |
+ECO499A |
+
+ENVIRONMENTAL ECONOMICS AND POLICY |
+ECO501A |
+
+APPLIED GAME THEORY |
+ECO502A |
+
+ECONOMIC ANALYSIS OF LAW |
+ECO504A |
+
+BEHAVIOURAL AND EXPERIMENTAL ECONOMICS |
+ECO506A |
+
+MANAGERIAL ECONOMICS & BUSINESS ANALYSIS |
+ECO507A |
+
+MARKET DESIGN |
+ECO511A |
+
+MONEY AND BANKING |
+ECO521A |
+
+MONETARY ECONOMICS |
+ECO522A |
+
+ECONOMIC GROWTH THEORY AND PRACTICE |
+ECO523A |
+
+HETEROGENOUS FIRMS AND INTERNATIONAL TRADE |
+ECO524A |
+
+PLANNING TECHNQUE |
+ECO525A |
+
+PUBLIC ECONOMICS |
+ECO535A |
+
+EMPIRICAL METHODS IN APPLIED MICROECONOMICS |
+ECO541A |
+
+PANEL DATA PROCEDURES AND ANALYSIS |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > economic courses]
+ECO542A |
+
+BAYESIAN DATA ANALYSIS |
+ECO543A |
+
+BAYESIAN ECONOMETRICS |
+ECO545A |
+
+HEALTH ECONOMICS AND POLICY |
+ECO560A |
+
+PRODUCTIVITY AND EFFICIENCY ANALYSIS |
+ECO572A |
+
+WTO Issues and Trade Facilitation |
+ECO580A |
+
+PROJECT-I |
+ECO598 |
+
+PROJECT-II |
+ECO599 |
+
+M SC THESIS |
+ECO699 |
+
+FOUNDATIONS OF FINANCE |
+ECO711A |
+
+DYNAMIC MACROECONOMICS |
+ECO724A |
+
+PUBLIC ECONOMICS AND PUBLIC POLICY |
+ECO731A |
+
+ECONOMETRICS |
+ECO732A |
+
+PROGRAM EVALUATION: METHODS AND APPLICATIONS |
+ECO733A |
+
+INDUSTRIAL ORGANISATION AND POLICY |
+ECO734A |
+
+DEVELOPMENT ECONOMICS |
+ECO735A |
+
+ADVANCES IN MICROECONOMIC THEORY |
+ECO737A |
+
+INTER-INDUSTRY ECONOMICS |
+ECO738A |
+
+PRODUCTION ECONOMICS |
+ECO741A |
+
+EFFICIENCY AND PRODUCTIVITY ANALYSIS |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > economic courses]
+ECO742A |
+
+ADVANCED MONETARY THEORY |
+ECO745A |
+
+ENVIRONMENTAL ECONOMICS LEGISLATION AND SOCIAL IMPACT |
+ECO747A |
+
+ADVANCED MACROECONOMICS |
+ECO750A |
+
+LAW AND ECONOMICS |
+ECO751A |
+
+QUANTITATIVE ANALYSIS OF INTERNATIONAL TRADE |
+ECO752A |
+
+LABOUR ECONOMICS |
+ECO753A |
+
+GAME THEORY |
+ECO754A |
+
+CONTRACT THEORY |
+ECO755A |
+
+PROGRAMME EVALUATION: METHODS AND APPLICATIONS |
+ECO756A |
+
+NONLINEAR DYNAMICS AND CONTROL IN ECONOMICS AND FINANCE |
+ECO757A |
+
+TOPICS IN ECONOMIC GROWTH |
+ECO758A |
+
+MATHEMATICAL ANALYSIS FOR ECONOMICS |
+ECO760A |
+
+APPLIED ECONOMETRICS |
+ECO761A |
+
+BAYESIAN DATA ANALYSIS |
+ECO762A |
+
+BAYESIAN ECONOMETRICS |
+ECO763A |
+
+FINANCIAL ECONOMETRICS |
+ECO764A |
+
+PHD THESIS |
+ECO799 |
+
+=== nptel courses ===
+Source: https://www.iitk.ac.in/eco/nptel-courses
+Economic Sciences faculty have offered the following online courses under the National Programme on Technology Enhanced Learning (NPTEL)
+
+Course Name | Instructor | Year | Link | Syllabus Template |
+
+NOC:Introduction to Microeconomics in Hindi and without Calculus (Video) |
+Dr. Vimal Kumar |
+2022 |
+https://archive.nptel.ac.in/courses/130/104/130104115/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/130104115.pdf |
+
+NOC:Economics of Banking and Finance Markets |
+Prof. Sukumar Vellakkal |
+2022 |
+https://archive.nptel.ac.in/courses/130/104/130104116/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/130104116.pdf |
+
+NOC:Microfoundations of Macroeconomics |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel courses]
+Prof. Wasim Ahmad |
+2021 |
+https://archive.nptel.ac.in/courses/130/104/130104114/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/130104114.pdf |
+
+NOC:Applied Statistics and Econometrics |
+Prof. Deep Mukherjee |
+2020 |
+https://archive.nptel.ac.in/courses/109/104/109104182/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104182.pdf |
+
+NOC:Indian Economy: Some Contemporary Perspectives |
+Prof. Wasim Ahmad |
+2020 |
+https://archive.nptel.ac.in/courses/109/104/109104184/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104184.pdf |
+
+NOC:Calculus of Several Real Variables |
+Dr. Joydeep Dutta |
+2019 |
+https://archive.nptel.ac.in/courses/111/104/111104125/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/111104125.pdf |
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel courses]
+Microeconomics: Theory and Applications |
+Prof. Deep Mukherjee |
+2018 |
+https://archive.nptel.ac.in/courses/110/104/110104093/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/110104093.pdf |
+
+NOC:An Introduction to Microeconomics |
+Dr. Vimal Kumar |
+2017 |
+https://archive.nptel.ac.in/courses/109/104/109104125/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104125.pdf |
+
+NOC:Calculus of One Real Variable |
+Dr. Joydeep Dutta |
+2017 |
+https://archive.nptel.ac.in/courses/109/104/109104124/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104124.pdf |
+
+NOC:Probability and Stochastic for Finance II |
+Dr. Joydeep Dutta |
+2016 |
+https://archive.nptel.ac.in/courses/109/104/109104104/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104104.pdf |
+
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel courses]
+NOC:Probability and Stochastics for finance |
+Dr. Joydeep Dutta |
+2016 |
+https://archive.nptel.ac.in/courses/111/104/111104089/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/111104089.pdf |
+
+NOC:Strategy: An Introduction to game Theory |
+Prof. Aditya K. Jagannatham and
+Dr. Vimal Kumar |
+2015 |
+https://archive.nptel.ac.in/courses/110/104/110104063/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/110104063.pdf |
+
+Macro Economics |
+Prof.Surajit Sinha |
+2015 |
+Content is in private mode. Under Review. |
+
+Game Theory for Economists |
+Dr. Sarani Saha |
+2015 |
+https://archive.nptel.ac.in/courses/109/104/109104034/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104034.pdf |
+
+NOC:Basic Calculus for Engineers, Scientists and Economists |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel courses]
+Dr. Joydeep Dutta |
+2015 |
+https://archive.nptel.ac.in/courses/111/104/111104085/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/111104085.pdf |
+
+Money & Banking |
+Prof.Surajit Sinha |
+2014 |
+https://archive.nptel.ac.in/courses/109/104/109104076/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104076.pdf |
+
+Foundations of Optimization |
+Dr. Joydeep Dutta |
+2014 |
+https://archive.nptel.ac.in/courses/111/104/111104071/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/111104071.pdf |
+
+Convex Optimization |
+Dr. Joydeep Dutta |
+2013 |
+https://archive.nptel.ac.in/courses/111/104/111104068/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/111104068.pdf |
+
+International Economics |
+Dr. Somesh K. Mathur |
+[Context: DEPARTMENT OF ECONOMIC SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > nptel courses]
+2013 |
+https://archive.nptel.ac.in/courses/109/104/109104035/ |
+https://archive.nptel.ac.in/content/syllabus_pdf/109104035.pdf |
+

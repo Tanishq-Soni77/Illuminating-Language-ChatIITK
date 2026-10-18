@@ -1,0 +1,11 @@
+IIT KANPUR COURSES OF STUDY 2021 - DEPARTMENT OF STA (STATISTICS) COURSES
+Name: All courses of Department of STA (Statistics) in the Courses of Study 2021 of IIT Kanpur, with credits and detailed content.
+Type: ACADEMIC COURSE CATALOGUE - Courses of Study 2021, IIT Kanpur (official catalogue of all courses: course ID, title, credits as L-T-P-D-C where L=lecture, T=tutorial, P=practical, D=departmental/discussion hours, C=credits, content and references). Snapshot: edition 2021; course availability, credit patterns and codes may have changed since (codes ending in 'A' are the newer credit pattern, e.g. 3-0-0-0-9).
+
+Course STA799 - Ph. D THESIS
+Department: Department of STA (Statistics). Credits (L-T-P-D-C): 0-0-0--. Source: Courses of Study 2021, IIT Kanpur.
+Ph. D Thesis
+
+Course STA800 - RESEARCH
+Department: Department of STA (Statistics). Credits (L-T-P-D-C): ----. Source: Courses of Study 2021, IIT Kanpur.
+RESEARCH

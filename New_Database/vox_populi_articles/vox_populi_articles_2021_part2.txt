@@ -1,0 +1,541 @@
+VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 (part 2 of 2)
+Name: Vox Populi (VOX) articles of 2021: campus news, reports, interviews, As We Leave series, internship experiences, events, Gymkhana, institute and academic stories.
+Type: STUDENT MEDIA BODY - Vox Populi (VOX), the student media body of IIT Kanpur and a Cell of the Students' Gymkhana; articles from https://voxiitk.com. Vox Populi aims to be the voice of the campus community and a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. Snapshot: scraped in 2026 (articles 2014-2026; entries marked 'from the 2024 snapshot' carry category tags recorded then).
+Notices that appeared on the site: 'Vox Populi, IIT Kanpur, is the exclusive owner of the information on this website. No part of this content may be duplicated, paraphrased, or interpreted in any other way without written consent from Vox Populi. For reproduction contact the chief editors or voxpopuli@iitk.ac.in.' Opinion pieces (As We Leave etc.) carried: 'The views presented below are the author's own and are not in any manner representative of the views of Vox Populi as a body or IIT Kanpur in general.'
+
+=== In Conversation with Prof. Abhay Karandikar, Director, IIT Kanpur ===
+Source: https://voxiitk.com/in-conversation-with-prof-abhay-karandikar-director-iit-kanpur/
+Date: 2021-09-02
+
+This interview was originally published by PhDs Of India on 1st September 2021.
+
+PhDs of India is a group of scholars who are running an initiative to bring out the stories of research scholars at various Indian institutes who work behind the scenes and contribute steadily to the progress of science, culture and finance.
+
+Do make sure to follow their work at: https://phdsofindia.in/
+
+What was your motivation to pursue engineering and then follow it with a PhD?
+
+I was born and brought up in a family of engineers. That and my love for Mathematics initially influenced me to pursue a BE in Electrical Engineering. During my undergraduate studies, I developed an interest in Communications and felt the need to delve more into the topic. So, instead of following the conventional route of taking up a job after engineering, I opted for an MTech at IIT Kanpur. I met some of the best scholars in my field at IITK who transformed my perspective towards research. Therefore, in the hope of doing fundamental communication research, I joined ISRO after my MTech. But I quit after a year and enrolled myself in the PhD program at IIT Kanpur. My experiences there during my MTech had convinced me that I wouldn’t find a better research environment anywhere else to pursue a PhD.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+How was your PhD journey?
+
+My five years as a PhD student at IIT Kanpur were some of the best years of my life. I got the opportunity to interact and learn not just from renowned scholars but also from outstanding peers. The frequent interactions with my supervisor, Professor P.R.K. Rao enriched my day. In addition to profound scientific advice, he also inspired me to learn things outside my research area. Although my journey was relatively smooth, doing a PhD in the pre-internet era posed some significant challenges for all of us.
+
+How was your experience publishing papers at that time?
+
+Publishing papers in high-impact international journals was difficult. Telephones and letters were the only modes of communication. In addition, there was an obvious bias at the time as India wasn’t recognized at the international level for cutting-edge research. Fortunately, things have changed for the better in the last fifteen years. The IITs and other institutes have now started emphasizing research and technology development while increasing the intake of post-graduate and PhD students. We now have an ecosystem where students can nurture their scientific acumen and produce good quality work, capable of competing at the global level.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+How do you balance your research and administrative work?
+
+I spent the initial days at IIT Bombay delivering good quality content and making an impact in my courses. I guess that motivated some exceptional students to join my group. I worked closely with them in the laboratories and in classes to implement my research ideas. Sadly, the interactions got affected over the years, as I started to dabble with administrative roles. I became a part of government committees and regulatory bodies and actively took part in policy-making. I believe it is essential for researchers to be a part of policymaking in line with the current technological trends to create possible roadmaps for future research. They might find them uninteresting due to a lack of deep technical content. However, it is imperative for the country’s development because their participation can make a huge difference. Now, as a Director of IIT Kanpur, I can only dedicate weekends to my students. I have been fortunate to have students who took the initiative and didn’t require much assistance. All they usually needed was a slight nudge and encouragement. My students are one of the reasons why I have been able to balance my research, academic and administrative responsibilities. However, the ongoing pandemic has brought in considerable challenges to researchers, faculty and administrators alike.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+What motivated you to work on the Frugal 5G challenge?
+
+After my PhD, when I eventually joined IIT Bombay as a faculty member, I wanted to focus on developing technologies indigenously and making India technologically self-reliant. The motivation to do so traces back to my early research days, where I had observed that some of the challenges we faced were unique to our country. And when I was in the process of building my research group, I met some incredible academicians who shared my vision. Prof. Ashok Jhunjhunwala was one of them. His mission was to develop beneficial indigenous technologies and make them accessible to the country’s larger population. Similarly, in my entire research career spanning about thirty years, my focal point has been developing indigenous technology and making the country technologically superior. For the last twenty years, my research group has extensively focused on system building and making technological interventions like broadband and wireless systems accessible to a larger population. The concept of ‘Frugal 5G’, i.e., delivering affordable wireless broadband to rural areas, is one of the outcomes of our research endeavor.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+How has the pandemic affected you as a Supervisor and a Director?
+
+As an administrator, taking a call that would please everyone is generally a difficult task. The current crisis has made it even more challenging to make some tough decisions. We always carefully weigh the ‘pros and cons’ and keep the larger interest of the institute in mind. But still, it was a hard time when we had to send the students back to their homes considering their best interest. It is not always possible to make decisions we ‘like’ in an administrative position. Not everyone may like the decision and not every decision turns out to be correct, especially when a judgment call needs to be taken quickly, like during a pandemic. But we have to keep moving forward. A good administrator corrects their mistakes whenever the opportunity to do so presents itself.Like everyone else, research in my group has been affected too. Unlike those who work on theoretical problems, some of my students who work extensively on experimental testbeds for 5G needed access to hardware and a laboratory and were greatly impacted by the lockdown. Nonetheless, despite such technical difficulties, I am fortunate to say that all my students have received full financial assistance even after their stipulated five to six years.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+How important do you think are academic and industrial collaborations?
+
+I have always been a cheerleader of industry-academia collaborations and have collaborated with industries and government since the beginning. While the funding from government agencies has gone towards setting up the laboratories and other infrastructure, the industry projects are funding the manpower. Industrial collaborations can make researchers aware of real-life problems, thereby paving the path for translational research. A significant amount of understanding is required for realizing prototypes and developing user-friendly products and although in our country, some industries do not have an in-house R&D ecosystem and are looking at basic engineering solutions, the scenario is changing in many places. Such facilities are gradually being set up and I think it is an equal responsibility of academicians to collaborate with these industries and improve their research.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+What is your opinion about the current entrepreneurial ecosystem in India?
+
+We have been working in the direction of making our country self-reliant and globally competitive by developing cutting-edge state-of-the-art technology. The IITs and IISc were originally set up to be the hubs for technological and entrepreneurial advancements. While the initial 30-35 years of the IITs were mostly spent on teaching and mentoring engineers, the focus has shifted to research and entrepreneurial pursuits in the last 15-20 years. PhD students are now highly encouraged to work on translational research and allow their ideas to become prototypes, products, and finally go commercial. It has even inspired NITs and other colleges to take this route and build such ecosystems for research and entrepreneurship. With a population of 1.3 billion, there is no dearth of talent in our country. In fact, it can be seen as the engine that drives the country to develop an entrepreneurial ecosystem rooted in high-end technology and become self-reliant in the true sense.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+Do you think India should have its own research journals?
+
+Initially, when the Telecom Standards Development Society, India (TSDSI) was formed along with Prof. Bhaskar Ramamurthi, Prof. Ashok Jhunjhunwala, and several other colleagues, we asked ourselves, “should we be adopting India-specific standards to further our work?”. I think if we do so, we aren’t taking advantage of economies of scale operating globally. Our objective should be to develop intellectual property, patents, and influence global standards, ensuring impact at both national and global levels.Though I strongly believe in making India self-sufficient in technological advancements, I don’t however think we are at a similar level to start our own journals addressing these indigenous research work. The readership is an essential factor; without an active engagement, we cannot sustain write-only journals. We need more researchers and more academics and strive to improve the quantity and quality of research so that a wide range of people can read and understand the work done here.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Abhay Karandikar, Director, IIT K]
+How important is it to publicize your research on social media?
+
+At this moment, social media and science communication play a prominent role in engaging the general public in research. In my opinion, it is not just enough to do high quality research but also to communicate it to the public. People, in general, might not understand everything you do, but conveying your research on social media serves to get feedback from the layman. Sometimes such feedback triggers ideas on how to improve your research or direct it to help society in a better way. Science communication also prevents research from being confined to a small community.
+
+What makes one a good PhD student and a good supervisor?
+
+As PhD students, you should keep in mind that you aren’t in an endgame and shouldn’t get disheartened if you don’t get favorable results or your papers are rejected. PhD is just the beginning and you have an entire life to develop your skills and make progress. The guidance from a supervisor plays a vital role in these scenarios. The supervisors should help and encourage students to do high end research that gets global recognition and ensure more of their research gets published in international journals. As a final piece of advice, I would like to point out that every individual has strengths and weaknesses; recognize those and harness your strengths instead of focusing on eliminating your weaknesses.
+
+=== Cheating Unmasked- How, Why & Where? ===
+Source: https://voxiitk.com/cheating-unmasked/
+Date: 2021-09-03
+
+In July ‘21, our team conducted an anonymous survey (forwarded on the students’ list) to dive deep into the issue of cheating and plagiarism in exams. The survey received 629 responses, with about 40% Y20 respondents, 21% Y19 respondents and 15% Y18 respondents, among others. To present a balanced perspective on the issue, we talked to 9 professors about cheating, their views and policies. Here are the findings from the survey and our conversations with professors-
+
+How and Where are Students Cheating?
+
+The survey results say it loud and clear- most respondents have been involved in one or the other form of cheating! However, the means and motivation behind cheating varied. Most respondents claimed that they cheat only in specific courses that they find difficult or uninteresting.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Moreover, according to our survey, cheating is relatively less prevalent among postgraduate and PhD students than undergraduate students. Moreover, while postgraduate students mostly seem to cheat in assignments and projects, UG students cheat primarily in semester exams and minor exams(such as quizzes).
+
+We also asked our respondents about the method of cheating. We find that among those involved in cheating, 80% of respondents discuss with friends, 70% refer to notes or slides of the course during a closed book exam and 55% refer to online resources.
+Interestingly, we also found that of the 33 TAs/tutors who responded to our survey, about 20% of them said that they have unfairly helped the students they tutor at least once.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Why Do Students Cheat?
+
+Students’ Side
+When we asked our respondents about their motivation to cheat, a massive 54.4% respondents said that they cheat because they fear being left behind due to relative grading, since a large number of their classmates are cheating as well. Other popular motivations were to get a better CPI and the lack of utility of the course in their career goals. A noteworthy 19.4% respondents said that they cheat because other obligations and circumstances have made it difficult to focus on academics. The response patterns remained similar across batches, except that a significant share of UG Y20 respondents cheated because they aspired to change their branch.
+
+When asked if they feel guilty about cheating, the response was rather distributed! While about a quarter of the respondents felt guilty but couldn’t let go of cheating as a habit, about 20% found cheating acceptable in the given circumstances. Another 13% said they did feel guilty, but they found the course content irrelevant anyway.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+On the other hand, when asked if our respondents would report cheating, the responses were highly skewed! 60% respondents said they’d not report any instance of cheating, while about 19% said they’d report it only if it is a major violation. Similar but less skewed trends were seen among TAs and tutors; About 30% respondent TAs said they did not report cheating instances despite spotting students.
+
+Professors’ Take
+Nearly all the professors who talked to Vox said that the root cause of cheating is our education system, which gives little incentive on learning but more on grades. “We are so grade-centric that learning has gone out of focus. If learning was my main motive, why would I cheat?” said Professor Harshvardhan Wanare from the Physics Department.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+“Failure is not perceived as normal in our world, while success is. If success is the goal, the shortest route is bound to attract some. So, one should not be surprised if some people found that opportunity in the online Semester,” said Prof. Achla Raina, the Dean of Academic Affairs.
+Professor Amitabha Bandyopadhyay called cheating an ‘act of desperation’, which has only ‘normalised to the extent that it does not induce guilt.’ Prof. Harshavardhan and Prof. YN Mohapatra went on to call cheating an ‘Asian Problem’ (too few opportunities and too many people). Prof. YN Mohapatra also mentioned that the greed for opportunities and the premonition that “everyone else is cheating” further incentivised cheating.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Measures Against Cheating- What’s Working & What Isn’t?
+
+Students’ Take
+Our survey asked students to identify the measures they think were most effective against cheating. The most popular options were having group assignments and exams, open-book/ open-internet tests and making course lectures more interesting- each of these was chosen by more than half of our respondents. Other popular options were: continuous assessment policies, lenient grading policies and increased interaction with tutors and instructors.
+Interestingly, only 19% of respondents think that strict proctoring and invigilation is effective against cheating! Also, a fifth of our respondents took the view that no measures can reduce cheating. Other subjective suggestions included taking oral viva exams, avoiding objective questions and making classes more interactive.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Professors’ Take
+Four professors who talked to Vox (Prof. Amitabha Bandopadhyay, Prof. Jonaki Sen, Prof. Harshwardhan Wanare and Prof. Dheeraj Sanghi) said that, if the class size allows, they’d prefer evaluating students based on vivas and post-lab interviews to gauge clarity in the subject.
+Prof. Nisheeth said that he never had weightage for attendance in his offline classes but had tweaked the policy during the online semester. He said, “During the online sem, some people attend classes from villages, with poor internet connection. I, in the comforts of city life, can not comment on their situation. Hence, I tweaked my policy here. The least I can expect from the students is that they attend the lectures. Over my blabbering voice, there is bound to be something that they understand, even if they listen distractedly. “
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+He also argues for a much liberal policy for specialised courses, but not for an IC course. ”While taking the ESC101 course last year, which recruiters look upon as a measure of the basic coding knowledge, I didn’t promote collaboration among students. However, for specialised courses, which are taken up by students who are interested in learning the course content and are not directly relevant to recruiters, I’ve permitted collaboration among students. In this way, the students will have to study something and contribute in a group,” said Prof. Nisheeth.
+Prof.Dheeraj Sanghi also suggested offline regional exam centres for better-proctoring facilities.
+
+Spillover & Effect on the Offline Semester
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Students’ Take
+When we asked non-Y20 respondents if they cheated to the same extent in the offline semester, only 3.1% respondents said they cheated as much as they do now! More than two-thirds of the respondents had never cheated in an offline semester.
+
+Additionally, we asked students from all batches if they would cheat when we go back to the offline semester. To this, a massive 65% respondents said they wouldn’t cheat at all, and an additional 23% said they wouldn’t cheat unless in a desperate situation like failing. The response distribution was similar for both Y20 and non-Y20 batches.
+
+Professors’ Take
+Most professors believe that plagiarism and cheating have become much more widespread in the online semesters not because the mentality to cheat has changed but because it is easier to cheat now.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+“In an online semester, things might have been lax, and thus it has been easier to cheat. In offline mode, we have an army of invigilators, and we take strict measures against it,” said Prof Bandyopadhyay.
+Professor Braj Bhushan told Vox that plagiarism had survived through different modes, whether offline or online. “Those who are not able to exhibit better self-control are likely to repeat these actions irrespective of whether one is handling the situation online or offline,” he added. Professor YN Mohapatra voiced similar sentiments, “Most of the students are sitting on the fence. Their decision to cheat or not is determined by their friends and how strict the rules are.”
+Several professors connected the psychology of cheating with what is at stake. Professor Harshwardhan Wanare explained with an example, “the thing at stake when you do something wrong on foreign soil is your Visa, and no one wants to hamper their career prospects for a few marks. Thus the same student when they go to a different nation, we see a different being. A much better version of them.”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Prof. Bandhyopadhyay raised concerns, in particular about the freshmen who have not had an offline semester ever-  “Your understanding and analytical growth will be stunted. You will not be as efficient as your seniors in the offline semester. Again, the shift from online to offline will negatively impact anyone who hasn’t taken academics seriously.”
+Prof. Achla Raina, the Dean of Academic Affairs, talked about the silver lining, “in the online semester, we have experimented with novel means of evaluation and assessment, some of which have worked extremely well. You will see many of these continue in the offline semesters!”
+
+Professors’ Wisdom & The Way Ahead
+
+Prof Nisheeth compares the mindset of IITs to that of the prison system, in contrast to that of an army camp. He says, “there are instances where the students themselves complain about the incidents of cheating and are disturbed that it is happening, but at the same time do not wish to name the students involved. It is like a prison system! The prisoners complain about their problems to the jailer, but they do not want to take up the responsibility to make those changes. They leave it up to the jailers, the administration in this case, to make changes. This is in contrast to an army camp, where a soldier not performing up to the mark is seen as the failure of the entire contingent. So the soldiers take it up to them to help their fellow mates perform well and train harder. ”
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Meanwhile, Prof Harshawardhan offers a Panchatantra analogy, “the problem with our educational system is that we seek assessment before understanding. Before a firm grasp of knowledge is established, we uproot the plant to gauge and evaluate its progress, forgetting that doing so inhibits the very growth we desire. There are, presently, more exams than learning goals. Exams are not part of learning, and we need to understand that.”
+He goes on to assert, “as a system, we professors are equally responsible. But sanctioning collective cheating in the garb of the pandemic? No, I can not accept that. In fact, this is the peer talk which everyone should be having.”
+“One might think that this may happen only once, but you will have to live with it. If you do it once, you will do it for the rest of your life. You will be on the lookout for such connections to find an easy path in the future. This needs to be stopped right at the start. If we’re not stopping you from doing it then, we’re training you poorly,” believes Prof Harshawardhan.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Cheating Unmasked- How, Why & Where?]
+Prof. Amitabha Bandhopadhyay and Prof. Jonaki Sen asked students to ‘learn the subject for their own good.’ Prof YN Mohapatra goes on to add, “the value of inner life is not understood in this age. Finally, the joy of having done a job well comes not just from being good at it but also from having done it honestly!”
+When asked if she had a message for the students, the Dean of Academic Affairs, Prof. Achla Raina said, “Don’t do anything that you might be ashamed of later!”
+Writing – Sanika Gumaste, Lavanya Ingle, Dev Barbhaya, Pradeep Suresh, Anushka Panda, Gauri Menon
+Editor- Abhimanyu Sethia
+Graphics- Vijay Bharadwaj
+
+=== On Plagiarism: Prof. Feroz Hassan ===
+Source: https://voxiitk.com/prof-feroz-hassan-on-plagiarism/
+Date: 2021-09-05
+
+Prof. Feroz Hassan is an Assistant Professor in the Department of Humanities and Social Sciences. He specialises in film theory, aesthetic politics and world cinema. He writes on plagiarism by students!
+
+Every semester, way more often than I would like to (which is never), I give students a zero on an assignment for plagiarism. This, despite laying out the plagiarism policy in the course handout, discussing what constitutes plagiarism in class, AND sometimes after having already penalized the student on an earlier assignment for plagiarism. Such desperate cases make me wonder if there is something really impenetrable about the idea of plagiarism. I think back to incidents from a landmark film, The 400 Blows (1957, France), to remind myself that the concept is not always self-evident.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+The 400 Blows is about Antoine Doinel, a kid who gets into trouble regularly at school, treating it as part of all fun-and-games and as a way of dealing with unsympathetic adults. But sometimes it gets serious enough to involve his parents, so he tries to stay out of trouble by staying out of school, taking a day off to explore the city, which only lands him in more trouble. Antoine’s mother decides to deal with him gently for once, offering him a reward if he does well on his French exam. Sufficiently motivated, Antoine starts reading French literature, and is particularly struck by the description of an old man’s death in a novel by one of the foremost French writers, Honoré de Balzac (1799-1850). He is so affected by this description that he builds a little shrine to Balzac in the house, places a candle in front of it and prays to it. This almost burns the house down.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+Stills from The 400 Blows (François Truffaut, 1957, France)
+Come exam time, on being asked to write an essay on a topic of his choice, Antoine writes about the death of “his” grandfather, reproducing Balzac’s words, which he has by now memorized thoroughly, verbatim. The thing to note is that he does not copy. When returning the students’ answer scripts, the teacher accuses him of plagiarism. The writing is certainly not a 12-year old’s and Balzac’s work is too famous to go unremarked. (Plagiarism is generally very easy to notice until the undergraduate level.) But Antoine very sincerely protests his innocence, and his friend backs him up by asserting that Antoine did not copy. The teacher, of course, will have none of it, and both Antoine and his supportive friend are thrown out of class. Antoine ends up in deeper trouble.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+As a spectator, we know that what Antoine did technically constitutes plagiarism, but also that he really did believe he was being honest in what he wrote. We have been witness to his enchantment by Balzac’s novel, and he identifies so strongly with the events it narrates that they become his own. Our sympathies, therefore, are entirely with the student and against the pedantic teacher. And when I come across yet another case of plagiarism, I do have to pause and wonder if I am being the pedant, failing to see an earnest attempt gone wrong, which probably won’t change the evaluation but might give the student a chance to make amends.
+
+In the end, I wish there were enough evidence to label me a pedant, but there generally isn’t. Antoine managed to memorize a substantial text through a strong desire to become attached to it. In our courses, we come across copy-paste jobs from random sources. Antoine knows that a certain quality of writing cannot be improved. We come across attempts by students to cover their tracks by using a thesaurus to substitute words, making for garbled sentences. (Synonyms listed in a thesaurus are words with related meanings, but whose usage can differ vastly depending on context. Using them interchangeably yields nonsense.) Finally, unlike Antoine, you have been told what plagiarism is.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+I do understand the challenges for students in writing something on their own when their entire education so far has been based on rewards for rote learning. The difficulties of writing in a language not your own is another major problem. Dealing with entirely new ways of understanding things and new ideas, is yet another challenge. The shift from the level of education in schools to the undergraduate level is drastic for most of us. But these can be addressed to some extent if you approach your instructors early enough and put in the extra work needed to overcome them. You also need to give yourselves time, generally a couple of years, to learn new ways of doing things. Merely expecting a free pass because you have been taught skills that are no longer valid, if they ever were to begin with, will only postpone your having to deal with them in your careers.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+Lastly, plagiarism is part of a larger issue, which is of giving importance to what is said and how it is said. Temptation to plagiarize can be resisted if you attach importance to your own thoughts, believe that you have something important to say about whatever it is you are studying, and take responsibility for making yourself understood by others in expressing your thoughts clearly, with skills however limited. I have taught students whose native language is English, and just as many of them as students here struggle with writing, which suggests that the problem is elsewhere.
+
+If you are doing a course or an assignment merely to make up the numbers, then you may have to learn to take your results as impersonally, in as detached a manner, as you take the course.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > On Plagiarism: Prof. Feroz Hassan]
+(Do look up The 400 Blows! You won’t regret it.)
+
+~ Prof. Feroz Hassan
+
+=== Reopening Campus – Part 1 ===
+Source: https://voxiitk.com/reopening-campus-part-1/
+Date: 2021-09-07
+
+Since March 2020, the return of UG students has always been a much-awaited topic of discussion. With the PG students returning to campus in a phased manner in the last couple of months, the UG community has eagerly been waiting for an update. With increasing vaccination numbers and the active caseload at an all-time low, the student community is buzzing with hopes for any information from the administration regarding the matter. But the threat of a third wave still looms over the nation.
+
+As the discussion and debate on the return of UG students heat up, it becomes important to analyse issues in retrospect. It hasn’t been long since the last time graduating students were on campus. In October 2020, the administration began calling back PG students on campus, followed by the graduating UG students in March 2021. This was also the time when the devastating second wave of the coronavirus hit the country, and its adverse effects were seen on campus too. With students being asked to vacate rooms, and active cases on campus reaching the three-digit mark, chaos ensued in the final months of the even-semester.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+In March 2021, with the UG students coming back on campus, the protocols and logistics on campus were completely in alignment with the government guidelines, and precautionary measures were being taken. So what went wrong? While the initial testing and quarantining measures were being followed as decided, a major fallacy in the plan that came forward was the absence of regular testing and monitoring of numbers. After the initial RT-PCR tests, there was an absence of monitoring of symptoms for students on campus. Also, with multiple staff members coming in and going out of campus, the campus wasn’t exactly isolated from the city. It was left to the students to report if they were feeling any of the COVID symptoms, and subsequently, if they tested positive, the entire wing would have to be quarantined and be under lockdown. This was one of the reasons for the social stigmatisation of coming forward since it implied that the remaining people would have to face the consequences, which led to a sense of irresponsibility creeping in.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+In March 2021, several instances of blatant flouting of rules and regulations came forward. A digital footprint indicating the clear violation of guidelines came forward, and the students on campus were seen disrespecting the gravity of the pandemic. Scenes from campus included social gatherings, celebrations in confined spaces and disregard of curfews and lockdown. In a specific incident, a student had broken quarantine and went on to roam the campus. In another incident, a COVID positive student had complained to the staff of the Health Center without a mask, which led to the staff being quarantined as well. With the second wave hitting the country and the lack of cognizance by the campus community, the number of cases escalated quickly. This eventually led to sending back the students in the middle of both the semester and the pandemic since the facilities and resources on campus proved insufficient.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+In conversation with a graduating student on campus, a concern brought forward was that of the curfew. While the curfew was imposed city-wide, it also brought certain problems to light. Students mentioned how only the evenings were available to them post their classes and lab work and that the curfew implied that they had to stay within their hostels. This, in turn, inadvertently led to increased social gatherings within confined spaces and contributed to the chain reaction. A work-around for the rules was found, and this led to catastrophe. One of the major points also brought forward was that while PG students were also violating the regulations, there was a lack of accountability and a ‘time of our lives’ attitude displayed by the graduating UG students on campus, leading to large gatherings and parties. However, it is becoming apparent that students now better understand the gravity of the situation and the responsibility that they possess.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+In addition, it has also come forward in recent days that masks are not being religiously worn at all places, including labs, offices and messing areas by PG students and staff. With the resumption of open messing areas and academic offices, people are susceptible to the spread of the delta variant of the virus. With masks not being worn diligently and a lack of regular testing and monitoring post-arrival, there exists a need for the entire campus community to be more cognizant of the responsibility and take adequate note of regulations that need to be followed.
+
+The following summer of 2021 was crucial for the Students’ Gymkhana. On 7th June 2021, the Students’ Senate decided to form a subcommittee to ‘deal with the obstacles in return of the students to the campus.’ The subcommittee intended to develop Standard Operational Procedures to ensure the safety and health of the student community when on campus. The subcommittee discussed and formulated plans on the following fronts:
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+Formulation and enforcement of rules and regulations for student residents
+Logistics related to COVID-19 at the Hall level, including but not limited to quarantine issues (duration, batch size etc), sanitation, food delivery etc.
+Proper dissemination of information, developments and policies
+Resolving issues of movement of student residents on the campus after quarantine in order to strike a balance between safety and personal freedom
+
+The following major takeaways were made in the minutes of the meetings of the subcommittee:
+
+It was announced that every department has been appointed a coordinator to stay in constant touch with the students of their respective departments. Their primary task is to disseminate information and make sure departmental concerns, such as laboratory constraints are addressed well.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+The final set of guidelines included minimising contact between residents and workers and constituting a Hall Task Force for each hall of residence. The Hall Task Force is supposed to communicate guidelines and instructions from the Institute to the students of the hall and maintain Whatsapp groups with members of each wing. If any person does not feel healthy, then a 7-step procedure was also proposed to handle such situations.
+
+The formulation of the Hall Task Force is a mechanism to ensure that a breakout like last time is prevented and that the situation can be arrested before it begins to spiral for the worse.
+
+The minutes of the sub-committee meetings have been attached in the annexure to the article.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+In an email dated 30 August 2021, The Chairperson, Students’ Senate shared the resolution proposed by the President, Students’ Gymkhana and submitted it to the administration regarding the plan for the return of UG students.
+
+The resolutions’ proposals call for the return of UG students beginning 20 September 2021, and that priority is to be given to students with resource constraints highlighted in the online semester. About 12%(~365 students) of the UG Y18, Y19 and Y20 were assumed to be facing certain constraints, among which 165 and 200 are estimated to be double dose and single-dose vaccinated, respectively. The proposal also called for the return of UG Y18 students, citing the upcoming placement season and high vaccination numbers of the student strength. The resolution postscript mentioned the following statement by the Student Body – “..collectively promise to uphold the undertaking that would be sent by the institute. We will also adhere to the guidelines and believe that those who will violate the rules should be penalised. The student body will stand by the institute in any cases of violations which are committed particularly with respect to the pandemic.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+The resolution was received by the administration, and an initial meeting was held with regards to the proposals made and the calling back of UG resource-constrained students was presented. However, any substantial update from the administration will only be given after the Heads Group convenes, and there may be a delay due to the evaluation of resource constraints. Students have begun organized efforts on social media and otherwise to bring attention to this issue and display their disappointment due to the lack of information themselves. Reports of classes being interrupted via voice or chat and asking the professor to address the issue have started flowing in since 6th September. Amidst conversations of mass mailing, interrupting more classes, boycotting mid-semester exams and student opinion surveys – it’s important to understand that the decision to reopen campus lies with the Heads Group consisting of the Director, DoSA, DoAA and the HoDs of all departments. Several professors have sympathized with the students on the issue already and cannot do much except convey the grievances.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+A significant part of the promise of UG students returning to campus rests on the shoulders of the student community already on campus and those who may return in the coming weeks. If the student community can display a sense of responsibility and accountability to the stakeholders by following the SOPs and guidelines, it should be safe to proceed with the return of all students in a phased manner. Since the country has risen from the abysmal state that it faced in the second wave, cities are opening up, and the vaccination drive is in full gear, the situation now is very different and considerably safer than the one during the second wave. Many students are suffering from serious problems related to mental health or financial situation, to cite a couple, due to the endless online semesters and it is becoming more and more imperative to reopen the campus. At the very least, the UG student community demands dialogue (in the form of an open house) and a detailed response. Multiple petitions for the same have been circulated via social media.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Reopening Campus – Part 1]
+ANNEXURE:  https://drive.google.com/drive/folders/1bVtLpznHtt0yrHUI__Ph1BGfVUjZL5zz?usp=sharing
+
+– The Editorial Board, Vox Populi.
+
+=== Inequity Unattended ===
+Source: https://voxiitk.com/inequity-unattended/
+Date: 2021-09-10
+
+As another online semester reaches its mid-way, the lack of access to the Internet and consistent electricity supply has come across as a major bottleneck for the resource-constrained students. Vox Populi talked to resource-constrained undergraduate students across different batches to learn about the challenges they face during the online semesters and the assistance, if any, they have received from the administration.  The stories were narrated to Vox correspondents over phone calls and have been presented as-is. All names have been used with the consent of the concerned students.
+
+Chandra Shekhar (Y19, CE)
+
+I come from Jehanabad, Bihar. In the online semesters, I broadly face three problems: one, I have a very slow internet; two, the electricity supply here is very erroneous and goes off often; and three, my daily expenses in college were reimbursed by an external scholarship I had managed to get. But now at home, since I cannot provide the bills (like mess bills for food), I am unable to avail the scholarship and that has financially affected my family.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Due to frequent blackouts in my area, I nearly missed interviews I was shortlisted for, in the internship season this year. In fact, to give Citi Corp’s interview, I had to go to a friend’s house, which had an inverter.
+
+The response of professors to my problems have been varied, differing from professor to professor. Unfortunately, there is no uniform policy, which the college administration follows about these problems. But most of the professors do not accept email submissions, saying that it isn’t their problem and defer the responsibility to the DoAA. This creates huge trouble for me.
+
+I feel like people who have contacts and more friends are able to perform better during the online semesters. I have very few social contacts and hence, I think I suffer academically due to high averages.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Yes! If I am called back to the campus, most of my problems- electricity supply, slow internet and scholarship- would be solved!
+
+Pratap Singh (Y19, CHE)
+
+I reside in a village in Rajasthan. The internet speed I get here is 0.3 kbps! To put this in perspective, I need to walk 1 kilometre from my village to send a Whatsapp message!
+
+The previous president (Nikunj) had helped me a lot. I used to get offline material in pen drives and my quizzes used to happen over email. However, in the next semester, when the president changed, all of this stopped! (He said he hasn’t contacted the current president with his issues yet).
+
+In addition to the Internet issues, my family’s financial conditions are very poor. Also, I live in a joint family, so my house does not have a proper environment to study. Therefore, I rented a room in the city, where I could get better internet. I stayed there for 3 months, during which time my academic performance significantly improved.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+But since we couldn’t afford the room any longer, I have come back now! Due to poor internet access, I cannot watch lectures and have to make do with the downloaded slides.
+
+I also couldn’t prepare for the internship season because all resources were online and thereby, inaccessible to me. Moreover, I couldn’t seek help from friends, since I have lost contact with most of them during the online semester.
+
+Some professors have helped me a lot like Prof. Pankaj Apte had waived some of my quizzes where I faced internet problems. However, some professors are ‘cruel’- they do not allow students in the class after the first 5 minutes and so, I am often left in the waiting room!
+
+I had emailed the DoAA a lot of times about my problems, but have received no reply. The only help I have received was from the previous president.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+I believe that I can do much better academically if I get access to better internet. I am doubly vaccinated now and hence, request the administration to call me back to the campus as soon as possible!
+
+<Name Retracted> (Y18, MSE)
+
+I come from a village in Rajasthan and here, we have pathetic internet speed!
+
+With 3 labs every week of 3 hours each, I face a lot of problems due to my internet. Moreover, exams which have proctoring over Zoom or which require submission of large files are very troublesome for me. The other issue is that I live in a house with 24 members – hence, the environment is not exactly conducive for my academic pursuits.
+
+I am very concerned about the upcoming placements because firstly, I am unable to access online resources, thanks to my internet problems. And secondly, I cannot attend long Zoom interviews as my internet gives up after some time!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+I have emailed the DoAA and the DoSA multiple times but haven’t received any help from them! The only help I have received is that some professors have given me 10-20 extra minutes for submission, but that was also not allowed by all professors.
+
+<Name Retracted> (Y20,CE)
+
+In my district, there is only one network provider, who provides decent connectivity. However, the tariff plans are substantially expensive. With ‘camera on’ policies being adopted in some of my courses, if we have a couple of classes and an exam on the same day, then rationing of the internet plan becomes a major hassle. In case of a disruption, my instructors have most often not paid any heed to submissions via emails and appeals through forums have not garnered any response.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Additionally, I come from a Hindi-medium school. Although I attended remedial classes, I find it hard to grasp lecture content. In fact, one of my professors also ridiculed Hindi-medium students in a class and called them ‘backward’.
+
+I tried reaching out to the Counselling Service and the Hall Office for help, but I did not receive any concrete response to my concerns and the network connectivity issues still persist.
+
+I think it would be very helpful if the institute provides some financial aid to students facing such issues in the online semester so that we can at least make a substantial effort to catch up with our peers in academics.
+
+Jitesh Sethi (Y20, CHM)
+
+I live in a town in Nagaland and face frequent power cuts. Even today, we didn’t have power for the entire day. In fact, I don’t own a laptop, which means that I have to attend all my classes and appear for my exams with the help of my phone. This is a major bottleneck for me because I faced issues in my first year where I was only able to submit 3-4 pages of my 16-page long answer scripts.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Moreover, I live in a joint family and I don’t have a personal room for attending classes and appearing for exams. There are always people present since we don’t have separate rooms for everyone.
+
+With sporadic internet connectivity and limited facilities, the online semester is tough to keep up with. I had emailed professors in my first year about my concerns but I didn’t get any reply. This semester, I brought my problem up with a professor in class, however, I was told that it wasn’t his domain to act on it and that there was little he could do. There isn’t any formal mechanism in place to ask for any aid in this matter!
+
+Campus reopening would definitely solve most of my problems since a little personal space, ample internet connectivity and appearing for exams would be comparatively very easy than what it is now.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Bhawani Shankar (Y20, ME)
+
+I live in a home with only one room, meaning that some of my family members are often present while I have to take exams or attend classes. Since my home is also near the highway, it becomes quite cumbersome to attend lectures without disturbance. Screen times have increased drastically in the online semester, and health-related concerns like body aches, the strain on the eyes and ears and improper sleep too have affected my academic performance to a significant extent.
+
+The network connectivity issue is very real. I’ve faced disruptions in connectivity during lectures and the problem during exams has led to me losing a lot of marks in the first couple of semesters. I tried to reach out to professors regarding the network connectivity concerns, however, I’ve either not received any reply or have been told that it is my problem to deal with.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+With the lab courses this semester, a number of us living in rural cities face a problem since we need to go to the city, which is about 20km from my place, to get the necessary apparatus to complete the experiment. This frequent travel and the unavailability of certain materials in my locality means that I’ve to spend added time and money to be prepared for the coursework. I also know of certain friends who are not able to afford expensive laptops and are facing issues running heavy softwares like AutoDesk Fusion 360, which are mandatory for coursework in my department.
+
+Reopening of campus would mean that several of these problems are solved for resource-constrained students. It’d also help to reduce academic stress on students. Any aid from the administration and the faculty would really help us, students, to make the most out of the coursework we have.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Inequity Unattended]
+Our opinion
+
+While we could cover only so many students, these problems plague a much larger section of the student community. The online semesters have led to increased inequity, as we all do not have access to the same resources. We believe that calling back resource-constrained students would solve most of these problems, and this should have been prioritised long before. It is welcome to hear from the DoSA (in his email dated 6 September) that discussions to call back resource-constrained students have begun but it remains to be seen when the actual plan materialises.
+
+Credits- Abhimanyu Sethia, Aryan Pandeya, Parikshit Tomer
+
+Graphics- Vijay Bharadwaj
+
+=== In Conversation with Prof. Yogesh M. Joshi ===
+Source: https://voxiitk.com/in-conversation-with-prof-yogesh-m-joshi/
+Date: 2021-09-23
+
+Prof. Yogesh Joshi, from the Department of Chemical Engineering at IIT Kanpur, has recently been chosen for the prestigious Academy Excellence Award of the Defense Research and Development Organization. He is presently serving as the Dean of International Relations and Pandit Girish & Sushma Rani Pathak Chair Professor. With his 17 years of service at IIT Kanpur, Dr Joshi has made significant contributions in his field of research and expertise. He is an elected fellow of the Indian National Academy of Engineering and has a number of awards and honours to his name. He was graced with the Shanti Swarup Bhatnagar Award in Engineering Sciences for his pioneering scientific research work.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+In the following excerpts, Prof. Joshi talks about his journey as a part of the institute, shares experiences from his research career and opines the situation and scope of modern-day undergraduate research interests.
+
+You have been recently chosen for the prestigious Academy Excellence Award of Defence Research and Development Organization. Can you detail us on it and provide some bits of your concerning work?
+
+I cannot detail my DRDO related work given the confidentiality, but I’d like to briefly talk about both experimental and theoretical work undertaken in my field of research.
+
+The thrust of my work is on a topic called ‘Soft Matter’, which, in a very crude language can be defined as a material with modulus less than 1 MPa. Several liquids with significantly high viscosity to soft solids fall under this domain and can be seen in our day-to-day lives as well as in industry. More specifically, I work in the field of ‘Rheology’, wherein essentially the deformation and the flow dynamics of soft materials is studied. Besides practising the fundamental work, we have also been in close association with several agrochemical, petroleum, home-care and personal-care industries for at least 10 years now.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+What were your initial goals and expectations at the start of your research career? How has your experience been since then? What has been the most rewarding aspect of your academic career?
+
+While being in an institute like IIT Kanpur, teaching has always been the most rewarding experience for me. One thing which I have immensely enjoyed in the last 17 years is to teach subjects like Thermodynamics, Fluid Mechanics and Rheology.
+
+Basically, when it comes to teaching, any subject which has a strong mathematical basis tends to attract me. I also like to bring out the mathematical richness of a particular subject, primarily because it simplifies the concepts even more. Besides, getting involved in research and publishing papers, mentoring the Masters and PhD students has been an important aspect of a faculty’s career.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+I did my PhD from IIT Bombay in 2001, and for 3 years I was in New York as a Postdoc. After that, when I was planning to come back to India, my Postdoc advisor suggested, “If you are going back to India, the best place is IIT Kanpur.” Since 2004, I have enjoyed being here and IIT Kanpur is indeed worth it!
+
+You have been a part of IIT Kanpur for 17 years as a faculty member. How has been your experience as a professor? Do you draw out an influence of your teaching in your research work?
+
+I have met very hard-working and dedicated colleagues in the institute who have been a constant source of inspiration for the last 17 years of my work. Seeing them progress through publishing notable papers and making strides in their field of work has motivated me to propel myself forward through these years. The PhD students have contributed a lot to my research work and have been amazing to work with, besides the undergraduate students whose curiosity and dedication have never stopped astonishing me!
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+I would say, and I believe that excellence is valued at IITK and this place has been nothing short of heaven for me throughout these years.
+
+How do you think the research facilities of the institute have developed and changed over the time period that you have been here?
+
+From the early 2000s, this place has changed so much and for the better. The research facilities and the infrastructure is second to none. And whatever the rankings may say, IIT Kanpur has an excellent environment for the growth of a faculty and any student.
+
+A thing I have often heard of is that IIT Kanpur is more exacting than other IITs, which according to me is definitely an asset and not a liability.
+
+There is a general myth around research that it is not as rewarding as the corporate world and many students tend to deviate from it thereby, what is your say on this?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+Academia is a totally different ball game than the corporate world, in fact, both are disparate at their very essence. Some may want to solve industry-level problems in two ways, either by doing corporate research or by indulging in academia. Both the options have their perks and pitfalls, so we can’t conclude whether one is superior to the other. While the industry may give you a higher salary, academia, on the other hand, will give you the option to dictate your research problems.
+
+In academia, “you are your own boss” and you have to make a choice about what you want to do, irrespective of whether someone likes it or not.
+
+How are you coping with your research and teaching strategies in current times, given the limited resources and no real interaction with the students?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+While several problems remain tacit in these challenging times; for me, giving online lectures poses a considerable hindrance. While recording lectures, I make it a point to make sure that my PhD students attend them, since there is nothing more dispiriting than simply speaking in front of an empty screen. As for the postgraduate students working with me, I give them theoretical problems, given the present resources constraints. Although this gets significantly abstract, since not all students can proficiently analyse and explore those experimental domains through theoretical fronts, in the present times, we are left with no other option.
+
+You’ve been a visiting professor at numerous institutes over the years; so according to you, what are some aspects where we differ from other institutions on research fronts or have a scope of improvement?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+From what I believe in, IIT Kanpur has its own strengths and downsides. While we have a splendid infrastructure and creditable quality of education, we do lack on certain fronts. As a matter of fact, it is generally deemed that the research output of the western universities is far better when compared to the Indian ones. This output is an essential consequence of everyone’s share of work, and it is the hard work component we lack upon.
+
+In the American system, the faculty is taken to an absolute task, i.e. to be confirmed in their job position, they are expected to complete a set of predefined tasks. Other western countries follow the tenure system. This system evaluates the newly recruited and existing faculty members through assessments and impels them to work rigorously throughout their careers.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+On average, the postgraduate students abroad are significantly more hardworking than what we find in India. I do feel that Indian academia is not on par with other globally adopted systems, and there certainly lies a scope of improvement. At every juncture, students and faculty members have to improve their work ethics to curb the qualitative difference which stands stark today.
+
+To be successful in academia, you need three things – hard work, hard work and hard work. I believe everyone has more or less similar intellectual capacity, hard work is something that differentiates you from the rest. Even if you are the finest brain, without working righteously, you may end up doing nothing productive in life.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+It is quite recent that you’ve become the senior editor of Langmuir – an acclaimed publication of the American Chemical Society. How has your experience been as a part of it?
+
+I consider myself fortunate to be on the Editorial Board of Langmuir. Being the youngest person on board, at times, I do not consider myself to be as worthy as other senior colleagues. It’s a prestigious responsibility and I have to deal with the best possible research papers from anywhere in the world. But from a realistic perspective, it is an honorary job and a greatly learnable experience to cherish for years to come.
+
+In research, there can be days at a stretch when you don’t find something worthwhile and it requires constant patience at one’s end. How did you tackle those days and what keeps you motivated to work during those hours?
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+There are two aspects of research work – several times we indulge in focused research where the problem is well studied theoretically, and we know about significant parts of the domain. However, for other nebulous fronts of it, the work is focused enough to yield results from the researcher’s end. This is unlike other kinds of research, where one is exploring a field from the start, with a fair chance of failure.
+
+While doing experimental research, one has to be very patient. Getting the results just once is not sufficient; you must have reproducibility of it. This might be coupled with any possible forthcoming difficulty. There can be instances when the instruments may give up and stop working altogether, and one needs to wait to resume the work on the same.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+As an experienced faculty member, I am well aware of these aspects, but this can be highly demoralizing for the one who is just beginning a career. Thus we tend to occupy students with both difficult and simple problems so that if something fails, then there is always another thing to look forward to.
+
+As a PhD fellow, you need to have your work done on some good sets of problems. But if you happen to stumble in your project, this often brings discouragement and loss of interest. So as a professor, you need to be in close and continuous contact with the students and guide them through thick and thin.
+
+When one doesn’t succeed, it is not a personal loss, it’s a team loss.
+
+A successful PhD is not about the number of papers you’ve come up with. It is essentially about how successfully you’ve trained yourself in a particular field. That makes the entire difference. Independent thinking, good writing abilities and problem analyzing skills are all part and parcel of doing a PhD and count for success.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+How would you comment on the undergraduate research interests in the institute? A number of students have fair research interests but they lack in settling with a decision on whether to pursue it. What do you say about it?
+
+Talking of undergraduate research interests, I believe that if a number of students aren’t enthusiastic to pursue it, then they aren’t the ones solely accountable. Instead, it is a failure on our part as well, for the inefficacy in keeping up with student’s interest in the research environment.
+
+I also feel that students must have a more disciplined life during their academically focused phases. They should be working all over the year and not during the onset of exams. Reading, playing sports and good utilization of time should be practised wisely.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+At the end of the day, it’s their life and they are the ones responsible for the decisions they make.
+
+With several coveted awards, fellowships and experience in hand, what are some of the greatest takeaways which you have had from your journey? What would be your advice to the students who want to develop a career in the same?
+
+For any career, one must be prepared to do hard work. One should be observant, possess an inquisitive nature and believe in things only after reasoning them rationally. Blind faith is one of the poisons of research. The practice of reading extensively and developing good writing skills goes a long way.
+
+One should manage time well and be surrounded with good company; set vivid goals and have the conviction that you have taken birth to do great things in life.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > In Conversation with Prof. Yogesh M. Joshi]
+In the words of Swami Vivekananda,
+
+“All the power is within you. You can do anything.“
+
+Interview and Writing – Atharva Dehadraya, Dev Barbhaya, Ishita Agarwal, Lavanya Ingle
+
+Editing – Astha Pant
+
+=== Sports Culture : Pandemic Positive ===
+Source: https://voxiitk.com/sports-culture-pandemic-positive/
+Date: 2021-09-27
+
+A new academic year is here, leaving us with a list of things we would have done had the campus been open. A fitting tribute to the bygones would be to turn the lens on something that has been talked about more and more during these trying times. Through this piece, we review and analyse the incumbent sports culture to take a look at what the future holds for it in the institute and how the council has adapted to the new online regime.
+
+With a year and more of working from home, we have witnessed significant changes in the institute’s sports conditions. Though all sports events are virtual and lack the same vigour as that of an offline one, yet the situation is deemed to have its own upsides. The Games and Sports council has conducted a range of events throughout the span of time to keep the student community healthy and foster sports enthusiasm among all.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+The team is currently operating Fit India Freedom Run, a seven-week long initiative involving the institute coaches to guide and train students through multiple domains of fitness sports. The initiative to organize Ranbhoomi, an inter hall tournament for the UG and PG freshers, covering competitive events of a majority of sports, provided a platform for students to showcase skills and embark on to be a part of the teams. The Adventure Club recently hosted the Never Ending Adventure 2.0 training workshop consisting of live workout, boxing and yoga sessions. The council also conducted live Zumba sessions spread over two weeks for fun-laden fitness interactions. Besides, a number of events and talks were organized to accentuate both mental and physical fitness strategies as a part of the Win India campaign.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+As a current point of concern, in order to revive the intensity of training after returning to campus, it is important that the council starts reaching out to new prospective students now. Anshika Chaudhary, the current General Secretary of the Games and Sports council, in this regard, remarks,
+
+“We are trying to ensure a basic level of fitness for the new members by practising in-home exercises so that they don’t have to spend most of their time regaining their fitness and rather work on improving their skills. Also, people are now consciously making time to take care of their bodies and mind and stay healthy.”
+
+The biggest takeaway from the pandemic has been the increasing awareness about the importance of health and fitness. Like they say, it is darkest before dawn, the increased concern will spill over to the offline shift and people will engage more consciously in physical activity through games and sports on campus. It has also led to an explosive interest in e-gaming among the students as they find this to be one of the few fun and social activities that they can engage in with friends.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+The council is now taking measures to help the people with their physical and mental fitness during the pandemic. Talks on mental health, yoga, meditation activities along with live online workout sessions are aiding the interested people in upping their health game. When enquired about the possible gap in the continuity of the sports performance among the teams, we receive,
+
+“The passing out of the most experienced players will indeed have an effect on the teams, but this gap will prevail among all IITs. Given the fierce competition, it is imperative to connect with the new batches as they will comprise the majority of the team members. There will be a step-by-step process to welcome new students. A camp will be conducted for the upcoming batch students after they reach campus to initiate them into the practice and training sessions of the different teams, clubs and societies.”
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+The council currently upholds regular interactions and competitions to keep the members motivated and preserve their pride and identity in their activity. Teams are having farewells, meetings and virtual workout sessions, however, the council does acknowledge the difficulty in operation. Regarding the new challenges faced online, this stands as the right time to get new ideas and approaches to try out things. The team is parallelly working to encourage sports startups and technology to make students cognizant of such career opportunities, given that they are gaining traction in India. The current team is now also focussing on making the council structure more inclusive to bring increased involvement of PGs and women representatives.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+In conversation with the Ex-General Secretary, Soumarup Bhattacharyya, we delved into the uncertainty the council faced after the lockdown. Although the break was inevitable, the team started organising esports tournaments to revive the activities, which received a huge response and eventually resulted in an esports society today. It was one of the positives of lockdown and the first time an initiative involving more than 100 applicants for society leaders and secretaries was instigated, with Deepak Kumar, the former Associate Head Teams, playing a huge role in promoting and popularizing it to varied grounds. But keeping in mind the possible repercussions, the number of tournaments was restricted to 1 per E-game so that any addiction isn’t encouraged. They then focussed on updating all social media accounts to also recognize the Inter-IIT players through these public platforms. The website was revamped and infrastructural upgrades were done when the postgraduates were on the campus. The council helped rebuild the gym with new equipment using a budget of 12 lakhs as funded by DORA.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+In this regard, he also commends the efforts and initiatives of the past General Secretary, Jaspreet Singh, and the then Associate Head, Neelakshi Shaku, for building up a strong foundation of the council. As a message to the aspiring sportspersons on campus, he adds,
+
+“I will ask the people to remain focussed in their academics, ensure physical and mental wellness, and not get swayed by their emotions and anxiety. Participate in all the fitness events and competitions conducted by the council. Stay informed about the activities of the council by inquiring regularly and staying connected.”
+
+For Institute Teams, a whole different story emerges. Usually, an average team player has four years to develop his skill, each stage being crucial in the long run. In the first year, one gets into the rhythm of the sport after being out of touch for so long or tries his hand on a new one. The second year is when the athlete requires maximal input and effort. According to the general trend, players reach their peak in their second and third campus year and their skills fairly improve in the final years. However, this schema is disturbed now and it would require an enormous will to revive. The council has thus decided to organise regular conditioning sessions and drills along with workshops and talks to help the team members maintain their fitness and be match ready. These sessions will be open to all, thus providing aspiring candidates an overview of the functioning of the institute teams.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+The Associate Head of Institute Teams, Ankul Kumar, stressed the importance of recruiting new players given the current requirement of filling in the vacancies of those passing out. But the recruitment process is strenuous in the online mode, as it is difficult to judge a player’s grasp over a particular sport without physical interaction. He commented that the pandemic has adversely affected the collective culture and rendered an added responsibility on the council and coaches to acquaint the new students with the culture and practices of each team. However, the remote working has made it easier to reach out to alumni who otherwise had to explicitly spare time to come to campus and talk to the students. After curating the necessary database, the council is planning to facilitate student-alumni interaction to pass on the sports know-how and legacy to prospective future players.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+Clubs and Societies make up an integral part of the GnS council. Most of the clubs require a physical presence on the campus to operate appropriately and their functioning has been adversely affected by the pandemic. On this concern, Shambhavi Dube, Associate Head Clubs and Societies, states that they are holding regular meetings to address the administrative issues. Besides, the focus also revolves around spreading awareness and apprising the students of the plethora of clubs and societies they can explore. In conversation with Shubham Gupta, Associate Head Events, we were informed that the team is trying to arrange various kinds of events besides the online sports activities. Some of these will even focus on the player’s fitness regime highlighting its significance and implementing it remotely.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > Sports Culture : Pandemic Positive]
+It is true that the pandemic has had adverse implications on the working of the council, however, best efforts are made to give way to an efficient sports culture in the institute. When it comes to games and sports, it is important that we keep going and continuing without a stop. The team bears the hope that campus reopening will stage the resumption of activities and events and infuse sports enthusiasm back again to revive the celebrated sports culture of IITK. This prospect provides the spectrum of a healthy lifestyle with physical and mental well being, today and beyond.
+
+Writing – Pradeep Suresh, Ritam Jana
+
+Editing –  Ananya Gupta, Aryan Pandeya, Astha Pant
+
+Graphics – Vijay Bharadwaj, Raj Varshith Moora
+
+=== A Year of the New DoSA Office ===
+Source: https://voxiitk.com/a-year-of-the-new-dosa-office/
+Date: 2021-10-28
+
+Prof. Siddharth Panda took charge as the Dean of Student Affairs on October 1, 2020. On the one year anniversary of the new DoSA office, we would like to take a look at various things that have changed and been implemented in the eventful past year by the DoSA office under Prof. Panda’s leadership, thus enhancing the student’s experience and easing the processes.
+
+Impact on festivals:
+
+Before becoming the DoSA, Prof. Panda was the Techkriti ’20 Festival Chairman and proactively associated with the then student’s core team to understand and resolve various on-ground issues faced by students in festival bodies. After assuming the position of the DoSA, he directed all DoSA office officials towards devising collaborative measures, and brought about a much-needed ideology shift where fests are viewed as IITK’s prestigious events rather than mere student activities. This became a key in not only handling the logistics to conduct festivals, but also maintain the standard according to IIT Kanpur’s stature. One of the phenomenal initiatives was the maintenance of a constant feedback loop from the student bodies, which led to identification, addressing and quick resolution of all existing problems.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+A major result of his efforts in this field is reflected by the fact that the accountability and promptness of the DoSA office towards festival issues has increased significantly. One of the parameters that highlight the success is the reduction of Turn-Around Time (TAT) to 5 working days from 20 working days, and our DoSA aims to reduce it down to 48 hours for any problem. There has been a drastic enhancement in the transparency and efficient management of financial accounts of festivals from the past DoSA.
+
+The most prominent issue prevalent in the history of all festivals was the carrying over of work and dues from past editions of festivals leading to massive delays in planning of current editions and constant pestering to students.This has now been completely solved by the DoSA. Overall, the processes have been outlined and guidelines have been structured, and the vision of aligning festivals with IIT Kanpur’s vision thus bridging student activities with a long term mission of IIT Kanpur has come into play under Prof. Panda’s able leadership.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+Facilitating the return of students:
+
+After the first wave of COVID had subsided in the country, numerous committees were formed to streamline the return of students back to campus starting September 2020. Although Prof. Panda officially became DoSA on 1st October 2020, he along with other committee members played a pivotal role in bringing back the students and resuming normal operations in the campus in the aforementioned committees. His office in tandem with offices of DoAD, Security, DoIP, and Health Centre devised ways to ensure that the students could start coming back without any major hassles.
+
+The proactive attitude of the DoSA office led to the return of students in a phased manner, thus making it a stand-out decision in an unprecedented and challenging situation. Proper SoPs were laid out which realistically made the return a carefully planned event. DoSA ensured and instructed all officials to promote regular sanitization, proper quarantine and availability of adequate infrastructure making the stays of the students hassle-free. When the infamous decision to send back the students was taken in April 2021 due to the onset of the deadly second wave, DoSA and the concerned offices arranged for important supplies such as masks, face shields, medicines etc. as well as conducting RT-PCR tests, aiming for the safe transportation of students.
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+After the second wave had died down, the DoSA office became fully engaged in managing the return of students back to campus. A separate batch of resource-constrained students was also called back to campus – a decision that DoSA supported Students’ Gymkhana. He maintained a rapport with students through constant interactions over problems and student’s apprehensions and worked towards resolving them on the highest priority. “Our 50-minute discussion classes often stretched to 2-3 hour-long discussions in which sir talked to us in the capacity of a regular person, rather than in the capacity of DoSA or a course instructor.”, said Ayush Anand, a 2nd-year student enrolled in the CHE251 course under Prof. Panda.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+Creation of DSAC and ISAC
+
+Once the students had been sent back, DoSA felt there was a need for structure in student affairs similar to that in academic affairs, implementing a ground-up mechanism that ensures a more democratic process for decision-making. Thus, ISAC (Institute Student Affairs Committee) and DSAC (Department Student Affairs Committee) were born. Apart from a convener, DSAC has student nominees. This is in line with DoSA’s belief in student governance. ISAC and DSAC function as strong recommendation bodies working on entry and exit guidelines, quarantine policies and other decisions pertaining to student affairs. The creation of both DSAC and ISAC has led to increased student representation and student voice in decision making over student affairs.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+Recent protest over HMC document
+
+Recently, there was a massive sit-in protest against regressive changes introduced by a committee formed on 16 August 2019. It was before Prof. Panda’s tenure as DoSA, this committee constituted by the HMC was formed. It is to be noted that the recommendations formulated in a report were forwarded to the Chairperson Academic Senate before he assumed the charge for DoSA. This has been further warranted by the statement “(submitted to the Chairperson Senate on September 30, 2020 for admittance in Senate)” in the interim ruling of the Chairperson Academic Senate.
+
+The DoSA himself was at the site of the protest to answer to the student groups and bring light on this issue. Being associated with the IIT culture for a long time, himself being an undergraduate from IITKGP, the DoSA firmly believes in the IITK culture that gives rights to students. He is of the opinion that rights should be given to students & they should go hand in hand with responsibility. He further works with the philosophy that a collaborative effort between the administration and the student bodies can go a long way in building up an accountable, quick and democratic process in IITK.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+Increased visibility and promptness to respond to issues raised by student representatives
+
+It is important to understand that DoSA is a facilitator of decisions. DoSA has taken up prompt action to almost all the issues raised by the student representatives. One such key issue was the summer term of 2021. Since the students had missed out on the lab components of the course due to the academics shifting to online mode as per the new normal of covid times, the institute decided to complete the lab components of all the institute core courses in the summers, so no difficulties are faced in future regarding the completion of the degree. Since students need to pay tuition fees for the courses taken up during the summer term, many students felt it was unfair on the part of the institute to demand fees for the courses which would’ve been completed during a normal semester. When the student representatives reached out to DoSA, a decision from the office was conveyed to the campus community regarding the fee waiver. All this happened in a matter of a few hours.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+Another major issue addressed promptly by the DoSA was the extension of the deadline for a scholarship. It was due to some clerical error leading to many queries on the part of students. DoSA, again went ahead to help students out with the extension of the deadline to apply for the scholarship.
+
+Decrease in Bureaucracy
+
+Earlier the roles of members in the DoSA office were ad hoc and tasks were performed by anyone who would be available at the moment. During the one year of his tenure as the DoSA, Professor Siddharth Panda has been prompt and has segregated the roles of various individuals in the office, increasing the ownership of the work of any individual. Now everyone has a definite set of tasks/queries which they will cater to. Measures have been taken to revamp the DoSA website where contact details of all the members from the DoSA office were shared to help students to reach out to relevant authorities without going through layers of bureaucratic delegations. To improve the efficiency of work and make things easier for the staff, various cells have been formed and each staff member reports to a dean in-charge of their activities. This has made the work environment very friendly for the staff who feel they are being valued for their work and treated well, and ensured a productive environment.
+
+[Context: VOX POPULI (VOX), STUDENT MEDIA BODY OF IIT KANPUR - ARTICLES PUBLISHED IN 2021 > A Year of the New DoSA Office]
+We all acknowledge the vast amount of initiatives and work done by DoSA in a small time of 1 year given the fact that he took charge of the seat in the most challenging times, when not only us but the whole world was facing hardships. We thank him and appreciate the efforts and his constant support to the student body. We are looking forward to having more new developments as he starts with the second innings of his tenure.
+
+Writing – Ayush Anand, Bhavya Sikarwar, Dev Bharbhaya
+
+Editing – Ananya Gupta
+

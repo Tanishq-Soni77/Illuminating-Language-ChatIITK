@@ -1,0 +1,723 @@
+DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Earth Sciences, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/es. Snapshot: scraped in 2026.
+
+=== course structure bs ms programme ===
+Source: https://www.iitk.ac.in/es/course-structure-bs-ms-programme
+Distribution of credits in BS-MS Program
+
+BS PROGRAMME IN EARTH SCIENCES |
+
+I Semester |
+II Semester |
+
+S: MTH 101 |
+3-1-0-0 (11) |
+S:MTH 102 |
+3-1-0-0 (11) |
+
+S: PHY 102/PHY 103 |
+3-1-0-0 (11) |
+S: PHY 103/PHY 102 |
+3-1-0-0 (11) |
+
+S: PHY 101/CHM 101 (Lab) |
+0-0-3-0 (02) |
+S: CHEM 101/PHY 101 (Lab) |
+0-0-3-0 (03) |
+
+TA: TA 101 |
+2-0-3-0 (09) |
+ES: ESC 101 |
+3-1-3-0 (14) |
+
+S: LIF 101 |
+2-0-0-0 (06) |
+S: CHM 102 |
+2-1-0-0 (08) |
+
+HSS: ENG 112/HSS-1 (Level 1) |
+3-1-0-0 (11) |
+MPCFL: PE 102 |
+0-0-3-0 (03) |
+
+MPCFL: PE 101 |
+0-0-3-0 (03) |
+
+Total |
+54 |
+Total |
+50 |
+
+III Semester |
+IV Semester |
+
+ES: ESC 201: Electronics |
+3-1-3-0 (14) |
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+HSS: HSS-2 (Level 1) |
+3-1-0-0 (11) |
+
+ES: SO-1: Introduction to Earth Sciences |
+3-0-0-0 (09) |
+S: SO-2: Probability & Statistics |
+3-1-0-0 (11) |
+
+ES: ESO-2: Fluid Mechanics |
+3-1-0-0 (11) |
+DC-3: Geomorphology & Earth Surface Processes |
+3-0-0-0 (09) |
+
+DC-1: Mineralogy and Crystallography |
+3-0-2-0 (11) |
+DC-4: Fundamentals of Geophysics |
+3-0-0-0 (09) |
+
+TA: TA 201 (MSE) |
+1-0-3-0 (06) |
+DC-5: Igneous & Metamorphic Petrology |
+3-0-2-0 (11) |
+
+MPCFL: Composition (web) |
+0-0-2-0 (02) |
+TA: TA 202 (ME) |
+1-0-3-0 (06) |
+
+DC-2: Field Geology I |
+0-0-3-0 (03) |
+
+Total |
+56 |
+Total |
+57 |
+
+V Semester |
+VI Semester |
+
+ES: ESO-3: ESO202: Thermodynamics |
+3-1-0-0 (11) |
+DC-10: Geological Remote Sensing |
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+2-0-2-0 (08 |
+
+DC-6: Structural Geology |
+2-0-3-0 (09) |
+DC-11: Hydrological system analysis/Engineering Hydrology (CE361) |
+2-0-0-0 (06) |
+
+DC-7: Sedimentary processes & stratigraphic principles |
+2-0-2-0 (08) |
+DC-12: Exploration Geophysics |
+2-0-2-0 (08) |
+
+DC-8: Geochemistry |
+2-0-0-0 (06) |
+HSS: HSS-3 (Level 2) |
+3-0-0-0 (09) |
+
+DC-9: Field Geology II |
+0-0-6-0 (06) |
+OE-1: Open Elective |
+3-0-0-0 (09) |
+
+DE-1: Departmental Elective (Eco. Geology) |
+(08-11) |
+OE-2 : Open Elective |
+3-0-0-0 (09) |
+
+MPCFL: Communication Skill |
+0-0-2-0 (02) |
+
+Total |
+50-53 |
+Total |
+49 |
+
+VII Semester |
+VIII Semester |
+
+DC-13: Tectonics and Evolution of Indian Plate |
+2-0-0-0 (06) |
+DE-4/UGP-3 |
+(8-11) |
+
+DE- 2: Departmental Elective |
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+(08-11) |
+OE-5: Open Elective |
+3-0-0-0 (09) |
+
+DE -3: Departmental Elective |
+(08-11) |
+OE-6: Open Elective |
+3-0-0-0 (09) |
+
+OE-3/UGP-2 |
+3-0-0-0 (09) |
+HSS: HSS-5 (Level 2) |
+3-0-0-0 (09) |
+
+OE-4: Open Elective |
+3-0-0-0 (09) |
+DE-5: Departmental Elective |
+(08-11) |
+
+HSS: HSS-4 (Level 2) |
+3-0-0-0 (09) |
+
+DC-14: Field Geology III |
+0-0-4-0 (04) |
+
+Total |
+53-59 |
+Total |
+43-49 |
+
+MS PROGRAMME IN EARTH SCIENCES |
+
+IX Semester |
+X semester |
+
+DE-6: Departmental Elective |
+(08-11) |
+MS Thesis |
+(63) |
+
+DE-7: Departmental Elective |
+(08-11) |
+
+DE-8: Departmental Elective |
+(08-11) |
+
+DE-9: Departmental Elective |
+(08-11) |
+
+DE-10: Departmental Elective |
+(08-11) |
+
+MS Thesis |
+(09) |
+
+Total |
+49-64 |
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+Total |
+63 |
+
+Notes: A student will be allowed UGP-3 only if he has done UGP-2.
+
+Distribution of courses and credits (BS PROGRAMME)
+
+Course Group |
+Group Code |
+Total credits
+(Min) |
+% of total credits |
+ARC recommendation
+(% of total credits) |
+
+HSS (excluding Management, comm. skills etc) |
+HSS |
+49 |
+11.9 |
+10 |
+
+Science (including electives)1 |
+S |
+75 |
+18.2 |
+20 |
+
+Engineering Science (Esc, ESO etc.) |
+ES |
+59 |
+14.3 |
+10 |
+
+Technical Arts |
+TA |
+21 |
+5.1 |
+5 |
+
+Management + PE + Communication Skills + Foreign Language |
+MPCFL |
+10 |
+2.4 |
+5 |
+
+Core courses (Mandatory) |
+DC |
+104 |
+25.2 |
+25 |
+
+Electives2 |
+DE |
+40 |
+9.7 |
+10 |
+
+Open Electives2 |
+OE |
+54 |
+13.1 |
+15 |
+
+Total |
+412 |
+100 |
+100 |
+
+1. Minimum credits; may increase depending on the courses chosen by the student.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+List of departmental electives and specializations (BS-MS PROGRAMME)
+
+(a) Applied Geology |
+Structure |
+Credits |
+
+Geology of Fuels |
+2-0-2-0 |
+08 |
+
+Economic Geology (DE-1) |
+3-1-0-0 |
+11 |
+
+Mineral Exploration Methods |
+3-0-0-0 |
+09 |
+
+Engineering Geology and Hydrogeology |
+2-0-2-0 |
+08 |
+
+(b) Water and climate |
+
+Ecohydrology (CE619) |
+
+Earth, Life and Sustainability |
+3-0-0-0 |
+09 |
+
+Global Climate Change (ES646) |
+3-0-0-0 |
+09 |
+
+Atmospheric Physics and Chemistry (EEM613) |
+
+(c) Applied Geophysics |
+
+Geophysical Field Theory |
+2-1-0-0 |
+08 |
+
+Seismic Exploration & Subsurface Imaging |
+2-1-0-0 |
+08 |
+
+Inverse Theory & Data Assimilation |
+2-1-0-0 |
+08 |
+
+Well logging |
+2-1-0-0 |
+08 |
+
+(d) Solid Earth Geology |
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure bs ms programme]
+
+Rheology of Earth |
+3-0-0-0 |
+09 |
+
+Analytical methods in Earth Science |
+2-0-3-0 |
+09 |
+
+Isotope geochemistry |
+3-0-0-0 |
+09 |
+
+Geodynamics |
+3-0-0-0 |
+09 |
+
+(e) Natural Hazards |
+
+Quaternary geology and tectonic geomorphology |
+3-0-0-0 |
+09 |
+
+Disaster Mental Health (PSY 794) |
+
+GPS and Geodesy (CE674) |
+
+Disaster Management and Risk Mitigation |
+3-0-0-0 |
+09 |
+
+In addition, the students will be encouraged to take electives from outside the department as and when available.
+
+=== course structure phd m tech ===
+Source: https://www.iitk.ac.in/es/course-structure-phd-m-tech
+A. OVERVIEW OF THE COURSE STRUCTURE FOR M. Tech. PROGRAM
+
+TABLE 1: Course structure and distribution of credits in M. Tech. Program
+
+Minimum Total Credits | Min. Credit Through Course Work | Min. Credit Through Research | Min. Duration | Max. Duration |
+
+144 |
+54 |
+63 |
+4 Semesters |
+4 years |
+
+TABLE 2: Semester wise course distribution for M.Tech degree
+
+Semester I
+DC1: Mathematics for Earth Sciences.
+DC2: Remote Sensing & GIS for Geo-resource evaluation.
+DC3: Introduction to Profession & Communication Skills in Earth Sciences.
+DE1: Elective
+DE2: Elective |
+Semester II
+DC4: Geophysical methods.
+DC5: PG seminar in Earth Sciences.
+DE3: Elective
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure phd m tech]
+DE4: Elective
+DE5: Elective |
+
+Semester III
+THESIS (36 credits) |
+Semester IV
+THESIS (36 credits) |
+
+*DC: Departmental Compulsory Course, DE: Departmental Elective Course
+
+TABLE 3: List of Departmental Elective Courses (PG level)
+
+1. Active Tectonics and Paleoseismology
+
+2. Advanced Structural Geology
+
+3. Advance Metamorphic Petrology
+
+4. Applied Hydrogeology
+
+5. Applied sedimentology and Basin Analysis
+
+6. Aqueous Geochemistry
+
+7. Experimental Rock mechanics and Rock physics
+
+8. Geodynamics
+
+9. Geology and Geochemistry of petroleum
+
+10. Instrumentation in Earth Sciences
+
+11. Isotope Geochemistry and Applications
+
+12. Mineral Resource Exploration
+
+13. Natural Hazards
+
+14. Non-Traditional Stable Isotope Geochemistry
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure phd m tech]
+15. Physics of Earthquakes
+
+16. Planetary Geomorphology: Processes and Landforms
+
+17. Potential field theory in applied geophysics
+
+18. River Science
+
+19. Rock Magnetism
+
+20. Seismic Exploration & Subsurface Imaging.
+
+21. Solid Earth Geophysics
+
+22. Quaternary Geology and Tectonic Geomorphology
+
+*Among these DE courses some of them may be offered in a particular semester depending on the availability of the expertise in the department.
+
+B. OVERVIEW OF THE COURSE STRUCTURE FOR PhD PROGRAM
+
+TABLE 4: Course structure and distribution of credits in Ph.D. Program
+
+Academic Program | Min. Credit Requirements | Min. Credit Through Coursework | Min. Credit Through Research work | Minimum Duration | Maximum Duration |
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure phd m tech]
+Ph.D. with M.Tech |
+144 |
+36 (4 courses) |
+72 |
+4 semesters |
+6 years |
+
+Ph.D. with master's degree except M.Tech |
+180 |
+54 (6 courses) |
+72 |
+5 semesters |
+6 years |
+
+Ph.D. with bachelor's degree |
+216 |
+72 (8 courses) |
+72 |
+6 semesters |
+7 years |
+
+There are two compulsory courses for Ph.D. students:
+ES600A [1-0-0-0(3)]: Introduction to profession and communication skills in Earth Sciences.
+
+ES702A [0-0-0-0(0)]: PG Seminar in Earth Sciences.
+
+PhD students should take ES702A for two times or two semesters during their PhD duration. At least for one time, they must complete this course before appearing for the comprehensive examination.
+
+The Ph.D. students should opt only for PG-level They may opt for courses in other departments based on the supervisor’s and/or doctoral monitoring committee (DMC)’s recommendation.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure phd m tech]
+Ph.D. students must finish with the required minimum course credits and CPI (as per PG manual) before appearing for the Comprehensive examination.
+
+*Ph.D. students can opt for any PG level (DC and/or DE) courses as mentioned under section A to fulfil their course requirements.
+
+C. OVERVIEW OF THE REGISTARTION PROCESS
+
+A student is required to register for I semester, II semester and summer term for each academic year.
+
+Registration involves:
+Pre-registration through PINGALA portalfor the courses/thesis credits that he/she intends to pursue in that semester/term.
+
+Payment of fees for that semester/term and clearance of any outstanding dues, and signing the registration roll with the office of the Dean of Students Affairs (DOAA).
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > course structure phd m tech]
+The normal semester load is defined as equivalent of 36 credits. For a well merited case the SPGC may permit a student to register for a maximum of 45 creditsor a minimum of 27 credits.
+
+A student is required to register in the summer term for up to a maximum of half the normal semester load (i.e., 18 credits) and a minimum of 9 credits.
+
+PLEASE REFER TO IIT KANPUR PG MANUAL FOR MORE DETAILS ON ACADEMIC REQUIREMENTS AND OTHER RELATED GUIDELINES
+
+=== list of courses bs ms programme ===
+Source: https://www.iitk.ac.in/es/list-of-courses-bs-ms-programme
+ESO213A: Fundamentals of Earth Sciences Universe and its characteristics
+
+Course Content: Solar System and Earth; The primitive Earth; Geological Time scale; Origin of life and major geological events; Numerical Dating. Rocks, minerals and soils; Plate Tectonics and Mountain building; Deformation and Geodynamics; Earthquakes, Volcanoes. Earth, Ocean, Land, Rivers, Atmosphere, Biosphere, Cryosphere and Climate; Energy budget; Carbon Cycle; Hydrological Cycle; Weathering and erosion. Coupled processes in Earth System; climate change, Geological resource (minerals, hydrocarbons and water); Sustainability and Anthropocene activities.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-1 Mineralogy and Crystallography (ES311)
+
+Course Content: Chemical and physical properties and identification of common rock-forming (silicates, carbonates and oxides) minerals; crystallography, Unit cells, Crystal symmetry, classes and rotation, Systems, Plane and Bravais Lattices, Axial Ratios, Parameters, Miller Indices, Point Groups, Crystal Form, Zones, Crystal Habit, Stereographic Projection of Crystal Faces, Polymorphs and Pseudomorphs, Twinning; optical mineralogy, uniaxial, biaxial minerals; introductions to x-ray crystallography; crystal structures, chemistry, and origin and significance of the rock-forming minerals, Mineralogy of the Earth's crust, upper mantle, lower mantle and its Core.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+Lab-work: Identification of minerals and rocks (hand specimens and optical microscopes). Independent projects that will include operation of scanning electron microscope, electron microprobe and x-ray facilities.
+
+DC-2 Field Geology I (ES312)
+
+Course Content: This course will provide an introduction to field work activities (3-4 days), how to use a Brunton Compass, reading of topographic maps, dip and strike measurements, and basics of lithological mapping.
+
+DC-3 Geomorphology and Earth Surface processes (ES313)
+
+Course Content: Fundamental concepts of geomorphic system; Earth's energy balance, global heat transfer, topography and bathymetry, liberation and flux of sediments, hydrological cycle and water budget. Guiding Principles of earth's surface processes: Conservation, transport rules, event size and frequency; rates of processes and ages of landscapes. Whole Earth morphology and large-scale topography; Exogenic and endogenic processes. The Surface water system: Drainage basins and river systems, river morphology and hydrology, hydraulic geometry and governing principles of open channel flow; river processes and landforms, river dynamics. The Groundwater system: Groundwater in hydrological cycle, groundwater flow and storage; chemistry of groundwater. The Atmospheric System: Atmospheric composition and mixing, atmospheric circulation, greenhouse effect. The Ocean and Coastal system: Coastal environment, waves, tides and currents; The relative movement of land and sea; coastal processes and landforms. Cryosphere – growth and decay of ice sheets, controlling factors, Himalayan glaciers; Wind activity and geomorphic work, desertification and controlling factors. Global geomorphology and tectonics: Earth's physiography and landscape evolution; Landforms and tectonics of plate margins and plate interiors; Tectonic uplifts and denudation – rates and controlling factors, Sea level change – evidence, mechanism and effects; coupled tectonic-surface process models.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-4 Fundamentals of Geophysics (ES314)
+
+Course Content: Introduction to geophysics, Earth as a planet and member of the solar system, origin and evolution of the Earth, Internal structure of the Earth; Concept of plate tectonics, plate motions and triple junctions; Gravitation, gravity anomalies and its variations, geoid, isostasy, rheology; Geomagnetic field, its origin and variations, paleomagnetism, and geomagnetic reversals; Introduction to seismology, seismic waves - P, S and surface waves, seismograph, travel time curves and radial Earth structures, general properties of surface waves and normal modes, earthquake source theory, intensity and magnitude scales of earthquakes, PREM model, elastic rebound theory, global seismicity and tectonics, focal mechanisms, seismic anisotropy; Heat within the Earth, thermal structure of continental and oceanic lithospheres at subduction zones and spreading centers, mantle convection.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-5 Igneous & Metamorphic Petrology (ES315)
+
+Course Content: This course will introduce igneous and metamorphic rocks and focus on the processes and principles involved in the generation of these rocks in a wide range of tectonic settings. Emphasis will be on developing skills necessary to understand and evaluate melt generation and crystallization, differentiation and chemical evolution of magma, and metamorphic processes etc. Topics to be discussed in detail are: Classification and Nomenclature of Igneous Rocks; Textures and Petrogenetic Interpretations; Thermodynamic evaluation of phase diagrams, Phase Diagrams for Binary and Ternary Systems; Chemical Petrology: Major and minor element, and isotopic compositional variations; graphical and mathematical models of magma evolution; Fractionation of trace elements during melting and crystallization; Generation and diversification of magmas; Types of metamorphism; Classification of metamorphic rocks; textures; Metamorphic mineral assemblages and chemographic (ACF, AKF, and AFM) diagrams; Metamorphic Facies; Metamorphic Reactions. Laboratory exercises will focus on hand-specimens and thin sections (optical microscopy) characterization, igneous and metamorphic textures and petrogenesis interpretations.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-6 Structural Geology (ES411)
+
+Course Content: Concepts of deformation and structures in Earth and planetary systems; Concepts of Continuum, Solid, Fluid, Tensor, Force, Stress and Strain; Basics of rheology and deformation mechanisms; Structures associated with extensional, compressional, sliding tectonics and erosion; Fold morphology, kinematics and mechanism; Normal, reverse, oblique and strike-slip faults; Fold and thrust belts; Measurement and presentation of 1-, 2- and 3D structural elements; Ductile shear zones; Poly-phase (superposed) deformation and overprinting relationships; Application of Structural Geology.
+
+Lab-work: Measurement and presentation of structural elements; Stereographic projection and interpretation; Construction and interpretation of structural map, profile and balanced cross section; measurement of finite strain; studying structures under optical/electron microscope.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-7 Sedimentary Processes and Stratigraphic Principles (ES412)
+
+Course Content: Basinal Sedimentary Systems : Sedimentary basins and production of sediments; Transport of sediment grains; depositional processes and forms; Post-depositional changes-lithification and diagenesis. Sediment grain, Bedforms and Sedimentary Structures: Mechanics of sediment transport and transport laws; Grain size parameters and distribution, grain shape and form; primary grain fabric; Bedforms & inorganic primary sedimentary structures. Sedimentary Facies analysis: Concept of sedimentary facies; facies relationships; controlling factors; facies association and models; Fluvial environments and facies; Lacustrine facies, Deltaic environments and facies models. Clay Sedimentology: Origin of clay minerals, clay minerals in fluvial, aeolian and lacustrine environments, paleoenvironmental interpretations. Techniques in clastic sedimentology: Grain size determination; X-ray diffraction; Heavy mineral analysis; cathodoluminescence microscopy. Earth's history in rock record, stratigraphic principles – lithostratigraphy, cyclostratigraphy, chronostratigraphy, event stratigraphy; depositional models, accommodation space seismic and sequence stratigraphy; Magnetostratigraphy, Application of paleomagnetism to the solution of problems in stratigraphic correlation and to the construction of a high-precision geological timescale, climatic and tectonic controls on stratigraphic development, case studies.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-8 Geochemistry (ES413)
+
+Course Content: This course will focus on the chemical evolution of the Earth over geological time, and how chemical principles are used to study Earth Science.The following topics will be covered: internal structure of atoms, electronic structure, chemical bonding, and chemical properties of elements. Fundamnetals of Thermodynamics and its application in Earth Sciences. Aquatic geochemistry, primary silicates and chemical weathering, acids and bases, dissolution and precipitation reactions, mineral stability diagrams, Eh-pH diagrams, oxidation-reduction reactions. The origin and evolution of Earth and the solar system through high temeparture chemical processes, trace elements in igneous processes, modeling trace element partition during magma genesis. Radiogenic isotope geology and geochronology. Stable isotope geochemistry. Earth's hydrosphere and its interaction with surficial rocks, sediments, soils, biosphere and the atmosphere.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-9 Field Geology II (ES414)
+
+Course Content: General overview of geological structures in the field; Concept of orientation and scale in the field; Identification, measurement and presentation of different structural elements (lineation, cleavage, foliation, schistocity etc.) and their mutual relationships. Morphology and elements of folds, fractures, faults, shear zones and macrostructures; Strain analysis from deformed objects; Techniques and ethics of geological samples collection; Large and small scale litho-structural mapping (on topo-sheet and white paper), cross-sections, and their interpretation for regional tectonics.
+
+DC-10 Geological Remote Sensing and GIS (ES415)
+
+Course Content: Spectra of earth's surface material; Basic principles of digital image processing – point and algebric operations, filtering and neighbourhood processing, RGB-HIS transformations, image fusion analysis, PCA, image classification and geometric operations; Modern platforms and techniques - INSAR techniques and its applications, UAV, and airborne sensors. Basic principles of Geographic Information System (GIS) and its application – decision support and uncertainty, multi-criteria evaluation. Remote sensing applications - River basin management, groundwater prospecting, lake and wetland studies, water quality mapping, vegetation Mapping and forestry applications; applications in glaciology and snow hydrology; snow cover mapping and prediction of snowmelt runoff; Coastal zone mapping and other related applications; Natural hazards – floods, landslides, earthquakes; Mineral resources evaluation.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-11 is a course in Civil Engineering (CE361)
+
+Course Content:
+
+DC-12 Exploration Geophysics (ES416)
+
+Course Content: Introduction to exploration geophysics;Gravity and Magnetic methods: History of gravity-magnetic explorations, elementary theories of gravity and magnetic methods, densities and magnetic susceptibilities of rocks and minerals, brief on gravimeters and magnetometers, data reductions, gravity-magnetic anomalies, interpretation and applications; Electrical and electromagnetic methods: Electrical properties of rocks and minerals, self potential and its origin, concepts of D.C. resistivity, various electrode configurations for sounding and profiling, interpretation of resistivity field data, induced polarization; Basic concept of EM induction, Maxwells equations, different EM methods, earth's natural electromagnetic field, magneto-tellurics, various applications of EM; Seismic methods: Basics of seismic theory, Geometry of seismic wave paths, seismic events, reflection and refraction methods, seismic data acquisition system, convolutional model, basic processing steps, basic velocity-depth modeling, interpretation of seismic data; Radiometric methods: Principles of radioactivity, radioactivity of rocks and minerals, measuring instruments and applications; Well logging: Borehole environment, concepts of porosity, permeability and saturation, principles of electrical, nuclear, density and sonic logging and well log interpretation.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+Laboratory classes will provide hands-on experience with different geophysical instruments.
+
+DC-13 Geological Evolution of Indian Plate (ES417)
+
+Course Content: Overview of geologic and tectonic evolution of the Indian plate, major geologic and tectonic features of the Indian sub-continent, Geodynamics and major structural grains in the Indian sub-continent; Indian Mountain-buildings in geological time and space; Cratons (Dharwar, Singbhum, Bastar, Bundelkhand, Aravalli etc.) and their development in the Archean; Proterozoic basins (Chhatisgarh, Cuddapah, Marwar, Pranhita-Godavari and Vindhyan), Gondwana basin; Rifting, drifting, palaeomagnetic interpretation and the evolution of India's continental margins; The concept of Large Indian Provinces in global context; Rajmahal and Deccan volcanic provinces; Plateau uplift (Deccan, Tibet and Shillong); Phanerozoic stratigraphic records of peninsular India; The Himalaya mountains; northward flight of India and collisional orogenesis; Classification of the Himalayan ranges; Himalayan foreland development and Indus-Ganga-Brahmaputra plains.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses bs ms programme]
+DC-14 Field Geology III (ES418)
+
+Course Content: The course is designed to provide practical experience in stratigraphy including field logging of stratigraphic sections, sedimentary facies identification and description, interpretation of sedimentary processes, depositional environments, post-depositional changes; soil profiles and soil-forming processes. The students will also be taught geophysical data acquisition using available geophysical equipments (e.g., gravimeter, magnetometer, VLF electromagnetic equipment, resistivitimeter equipment, GPR, Seismic, and Global positioning system).
+
+=== list of courses phd m tech ===
+Source: https://www.iitk.ac.in/es/list-of-courses-phd-m-tech
+PhD and M.Tech. courses download the entire content in pdf
+
+Active Tectonics and Paleoseismology (ES659) [9 credit]
+
+Course Content: Crustal deformation and earthquakes; Significance of seismicity; Identification of Prehistoric Earthquakes based on Primary and Secondary signatures preserved in landforms and sediment succession; Interpretation and Identification of Active Fault and associated Tectonic Landforms – Photogeologic Mapping, on-fault and off-fault landforms, identification and mapping of active faults and associated landforms in field, structural analysis of active faults & its implication to regional scale tectonics; Field Techniques in Paleoseismology, quantification of active fault scarp by precise mapping, identification of old (prehistoric) earthquake by trenching, mapping of deformed sedimentary succession by faulting, estimation of net displacement during single event, slip rate, magnitude of historic earthquake, recurrence interval, and prediction of future earthquake if possible; Identification and mapping of secondary effects due to strong seismic shaking – Identification of paleo-liquefaction features; Dating techniques; Correlation of paleoseismic data with existing geodetic and geophysical data; Delineation of seismogenic faults. Paleo-tsunami geology – Identification of Paleo-tsunami and Mega-subduction zone earthquakes signatures in the coastal region along subduction zones; Understanding land-level change caused by major earthquakes; decoupling the role of climate and tectonics; Understanding the effect of near-field and far-field earthquakes from stratigraphic records; effects of near-field and far-field tsunami.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Advanced Structural Geology (ES654) [9 credit]
+
+Course Content: Introduction and methods of quantitative Structural Geology; Force and stress fields in Earth; Displacement and strain; Stress and Strain tensors; Mohr Circles; Geological analysis of field data (stereographic analysis and cross section construction); Strain analysis from deformed rocks; Stress-Strain-Time relationship under different conditions; Failure Mechanism; Deformation mechanisms and Rheology of cataclasis, crystal-plasticity and dissuasive mass transfer; Role of fluids and Fluid flow; Deformation in Brittle, Ductile and Brittle-Ductile transition; Structural anatomy and strength profile of tectonic boundaries; Applications.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Advance Metamorphic Petrology (ES662) [9 credit]
+
+Course Content: Basics of petrology; Rock classifications; Structures and textures of rocks; Metamorphic Facies; Magmatism and metamorphism at various tectonic settings with associated rock-types and mineral assemblages. Electron microprobe, EPMA data processing, Ideal mixing activity, Mineral formula and Endmember calculations. Metamorphic stable mineral assemblages; Projections; Gibbs free energy; Phase rule, Metamorphic reactions; Mineral equilibrium; Influence of compositional variations. Geothermobarometry; Schreinemakers method; Petrogenetic grid; Phase diagrams; P-T-t paths, Thermochronology. Metamafics and Metaultramafics: Assemblages, Facies series; Metamorphism of felsic rocks; Metapelites: Barrovian sequence; Metacarbonates and metacalcareous rocks; Fluid inclusions; Metasomatism; Tectonic significance. High-pressure (HP) and High-temperature (HT), Ultra high-pressure (UHP), Ultra high-temperature (UHT) metamorphism: P-T ranges, textures, Mineral assemblages, Mineral chemistry and Tectonic setting. Metamorphism in plate boundaries; Collisional tectonics. Using petrological datasets; linking petrology with field information, structure, geochemistry and geochronology; Petrogenesis and tectonics interpretations. Case studies and examples on metamorphic evolution, P-T history; petrogenesis and tectonic setting of some global and Indian metamorphic terranes.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Applied Hydrogeology (ES666) [9 credit]
+
+Course Content: Role of water in Earth’s climate; Hydrological cycle and its components; Monitoring of hydrologic storages and fluxes; Water budget computations; Water-bearing properties of rocks - porosity, intrinsic permeability, specific yield and specific retention; Vertical distribution of sub-surface water; Classification of aquifers; quantitative assessment of aquifer properties; Aquifer parameters: transmissivity, hydraulic conductivity and storage coefficient; Determination of permeability in laboratory; Concept of heterogeneity and anisotropy; Characteristic differences between confined and unconfined aquifers; Hydrostatic pressure; Fluid potential; Energy in groundwater; Hydraulic head; Theory of groundwater flow; Darcy's law and its applications; Specific discharge; Limitations of Darcy’s Law; Reynolds Number; Governing equation for flow through porous medium; Steady and non-steady state flow - Initial and boundary conditions; Solution of flow equations; Dupuit’s Assumption; Boussinesq Equation; Groundwater flownet analysis; Groundwater flow patterns, Groundwater-Surface water interactions; Determination of flow direction. Flow through aquifers: 2-D groundwater flow equations; Flow under steady and non-steady state conditions; Evaluation of aquifer parameters of confined, semi-confined and unconfined aquifers - Thiem, Theis and Jacob methods.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Applied Sedimentology and Basin Analysis (ES653) [9 credit]
+
+Course Content: Introduction to applied sedimentology, Siliciclastic, Carbonate, Phosphates, Iron-rich and Evaporite sediments and their economic significance; Physical properties of sediments – density, porosity and permeability, field and laboratory methods of their determination (rock physics properties); Sedimentary Basins- Basin-forming mechanisms; Basins due to lithospheric stretching, flexure and strike-slip; classification and evolution of sedimentary basins; Metallogeny, and Petroleum system in sedimentary basins; Major external controls on sedimentation; Continental sedimentary environments; Marine sedimentary environment; Basin fills and stratigraphy; Subsidence and Thermal history; Sediment to rock - the Subsurface Environment.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Aqueous Geochemistry (ES643) [9 credit]
+
+Course Content: Course will primarily cover (1) the quantification of key geological processes controlling the chemical composition of water, precipitation and dissolution of certain minerals, and fluid–mineral interaction; (2) Chemical principles of weathering and its effects on water chemistry; (3) application of stable and radioisotopes to understand the source, pathways, and age of water; (4) contaminant geochemistry of some elements. Detailed topics to be discussed are: chemical thermodynamics and kinetics, aqueous complexation, acids and bases, redox geochemistry and Eh-pH-pE diagrams, carbonate geochemistry, chemical weathering, adsorption-desorption reactions, tracing of water cycle, controls on water chemistry, groundwater dating, and contaminant geochemistry.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Communication skills in Earth Sciences (ES650) [0 credit]
+
+Course Content: This course is mainly designed to improve the presentation skills of our students. Any topic in Earth Sciences, including geochemistry, geophysics, structural geology, environment and climate change, sedimentology etc., can be selected a based on the expertise of the instructor.
+
+Experimental Rock Mechanics & Rock Physics (ES657) [9 credit]
+
+Course Content: Introduction and historical development; Principles and terminologies; Sensors, transducers and their calibrations; Design of deformation apparatus, safety features; Selection, preparation and dimension of samples; Uniaxial, biaxial, triaxial and torsion test set-up; Rock mechanics at room and high pressure temperature; Rate dependent rheology; Role of porosity, pore-fluid, grain size and mechanical anisotropy; Collection and processing of experimental data; Understanding stress-strain and related curves; Calculation of flow-laws, effective-viscosity and frictional properties; Mechanics of crystalline and porous rocks; Recovery and post-processing of deformed samples for further physical and chemical analysis; Measurement of electrical; thermal and hydraulic (liquid and gas) conductivity of rocks; Techniques of ultrasonic pulse transmission (Vp-Vs) and acoustic emission; Applications and limitations.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Geodynamics (ES667) [9 credit]
+
+Course Content: The course is designed to understand the dynamics, flow of mass and energy of solid Earth in a quantitative manner. It contains Kinematics of Plate Tectonics - Earth’s structure, hotspots and mantle plumes, convergent, divergent and transform plate boundaries, plate motion on flat and sphere Earth; Basics of Elasticity and Flexure – body and surface forces; stresses in 2D and 3D; isostasy, linear elasticity, uniaxial stress and strain, pure and simple shear, 2D bending or flexure of plates, application to Earth’s lithosphere; Heat transfer - Fourier’s Law of heat conduction, Earth’s surface heat flux, 1D and 2D heat conduction with advection, basics of thermochronology, frictional heating on Faults; Fluid mechanics - 1D channel flow, pipe flow, Asthenospheric Counterflow, mantle convection, diffusion of groundwater; Faulting - classification of faults, friction on faults, Anderson theory of faulting, thrust sheets and gravity sliding, earthquakes.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Geophysical Methods (ES656) [9 credit]
+
+Course Content: Introduction to different geophysical methods; Concepts of gravity and magnetism, working principles of measuring instruments, field operations, micro-gravity survey, gravity and magnetic gradiometry, data reductions, regional-residual separation, direct and indirect interpretation and applications; Elementary theories of DC resistivity, resistivity surveying equipment's and different arrays, interpretation of electrical sounding and profiling data, IP measurements in time and frequency domains, applications of SP methods; EM induction theory, time and frequency domain EM, EM systems for ground, marine and airborne surveys, working principles of VLF, MT and GPR and their applications; Theory of elasticity and wave propagation, concept of rays, ray paths in layered media, principles of marine and land seismic sources and receivers, land and marine seismic data acquisition techniques, data pre-processing - static corrections, multiple attenuation techniques, filtering and processing steps – NMO, velocity analysis, stacking, migration, interpretation of migrated sections, basics of Tomography and AVO; Principles of well logging, Archie’s law, different petro-physical parameters, different logging techniques and interpretation of field log data.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Geology and Geochemistry of Petroleum (ES647) [9 credit]
+
+Course Content: History of petroleum and gas exploration in India; Carbon cycle, origin and preservation of organic matter-the source material of petroleum; Oil and gas bearing rocks, reservoir rocks, trap and seal rocks- the petroleum system key components; Petroleum generation, migration, and accumulation- the petroleum system processes; Composition of crude oil and oilfield water – upstream and downstream linkages; Multiple controls on petroleum biodegradation and impact on oil quality; Classification of oil and gas accumulations; Geochemical screening of source rocks and petroleum - total organic carbon, petrographic analysis of macerals, vitrinite reflectance, elemental analysis of kerogen, rock eval pyrolysis, thermal alteration index, organic biomarkers, trace metals, carbon isotopes, and radiogenic isotopes; Application of geochemical tracers in petroleum exploration. Age of oil deposits, oil-oil correlation and oil-source correlation techniques, reservoir compartmentalization issues, identification of oil-bearing horizons and reservoir rocks from geochemical logs, and reservoir filling history; Unconventional oil and gas resources. Oil shales, tar sands, and gas hydrates; Petroliferous basins of India. Case studies on specific oil producing Indian basins; Petroleum and environment; future of hydrocarbon resources.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Instrumentation in Earth Sciences (ES648) [9 credit]
+
+Course Content: Near subsurface mapping using Ground Penetrating Radar (GPR) – mapping of buried structures, depth determination of underground bodies and lithounits; Generation of Digital Elevation Models (DEM); Landform mapping using Total Station, Integrated TS-GPS system and by Real Time Kinematic (RTK) survey; Field training including geological mapping; X-Ray Diffraction – sample preparation and interpretation of XRD charts for qualitative and semi-quantitative analysis of crystalline materials; Principles and theory of Scanning Electron Microscopy (SEM); Sample preparation, coating, imaging and analysis; X-Ray Fluorescence – sample preparation and semi quantitative and quantitative chemical analysis of geological samples; sample-acid digestion and chemical analysis by Inductively Coupled Plasma Mass Spectrometry (ICP-MS).
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Isotope Geochemistry and Applications (ES649) [9 credit]
+
+Course Content: Nucleosynthetic processes and the isotopic abundances of elements, Decay mechanisms of radioactive atoms, Equations of Radioactive Decay and Radiogenic Growth, Geochronology using radioactive decay schemes of Rb-Sr, Sm-Nd, U-Th-Pb, K-Ar, U-series disequilibrium method of dating, 14C dating, Fission track Dating, Analytical methods in Thermal Ionization Mass Spectrometry, Isotope Geochemistry of the Earth's Mantle and crust, Isotopic evidence regarding the formation of the Earth, Stable Isotope Theory, Kinetic and equilibrium isotope fractionation, Analytical methods in Stable isotope ratio mass spectrometry, Specific applications of stable isotopes in hydrology, climate and environment, archaeology and paleontology, Carbon cycle and climate.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Mathematics for Earth Sciences (ES651) [9 credit]
+
+Course Content: Introduction to importance of mathematics in Earth sciences, Basics of MATLAB; Vector analysis, Grad, Div, Curl, application of Gauss’s Theorem to potential methods and seismology; Matrix analysis, Matrix inversion for the solution of simultaneous equations; Coordinate systems: Curvilinear coordinates, Cartesian, Cylindrical, and Spherical coordinates, Applications of coordinate systems to Plate motion, (non) seismic; Complex analysis in geosciences; Tensor analysis and its application to (non) seismic and geodynamics; Ordinary and partial differential equations, separation of variable, numerical solution to Heat diffusion equation; different data types in Earth sciences, methods of data analysis: Univariate Statistics, Empirical distributions, theoretical distributions, statistical tests (χ2, Kolmogorov-Smirnov and Kuiper tests), Bivariate and multivariate Statistics, Correlation coefficient, linear regression analysis, bootstrap estimates, Data modeling, best fit, fitness evaluation; Multiple correlation coefficients; basics of geophysical signal processing.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Mineral Resource Exploration (ES671) [9 credit]
+
+Course Content: Introduction to mineral exploration; stages of mineral exploration, crustal abundance and geochemical behaviour of the elements; geochemical anomalies; geochemical cycle: primary dispersion, secondary dispersion; pathfinder/indicator elements; geodynamic settings of mineral deposit systems; different types of ore deposits and their metallogeny, surface and subsurface mineral exploration methods, analytical techniques in mineral exploration, ore reserve estimation, national mineral policy, Indian mineral deposits, prospecting techniques for base and strategic metals.
+
+Natural Hazards (ES658) [9 credit]
+
+Course Content: Natural Hazards and Disasters, Human Impact on Natural Disaster, Predicting Catastrophe (01), Mitigating Hazards; Plate Tectonics and related Hazards; Earthquakes and their causes, Ground Motion and Failures; Tsunami: Giant Tsunamis, Generation and movement, Tsunami Hazard Assessment; Volcanic Eruption and Hazard: Eruption-Type of Volcanoes and Tectonic environment; Landslide and other downslope movements: Causes of Landslides, Type of downslope movement, associated hazard; Land Subsidence and associated hazard; Floods and Human Interaction, Flood Frequency and Recurrence Interval; Human intervention and mitigation; Storms: Tropical Cyclone, Hurricane, Tornado, Storm damage and safety; Wildfires: Fire Process and Secondary effects.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Non-traditional Stable Isotope Geochemistry (ES663) [9 credit]
+
+Course Content: Notation for stable isotope systems, reference standards, equilibrium and kinetic fractionations of non-traditional stable isotopes, history of non-traditional stable isotope-based research, method of sample preparation (e.g., ion exchange chromatography), measurement techniques (in-situ and non-in-situ) by mass spectrometry, data correction (e.g., sample-standard bracketing, internal normalisation, double spike etc.) and representation, applications of stable Ca, Mg, Li, K and Zn isotope systems in low and high T systems including isotopic fractionation during continental weathering, surface runoff, nutrient transfer from root to leaf of vegetation etc.; coupling of continental and oceanic processes, inter-mineral isotopic fractionation and bond-lengths, bulk-silicate Earth compositions, diffusion in silicate melts, isotopic compositions igneous rocks formed at different tectonic settings, isotopic compositions of Lunar and Martian rocks, isotopic fractionation during nucleosynthesis and early volatile depletion process, isotope transport model from food to blood, between soft tissues, bone loss or bone cancer.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Physics of Earthquakes (ES665) [9 credit]
+
+Course Content: Elastic rebound theory, earthquake and its mechanism, tectonic plate motion, earthquake characteristics, earthquake source parameters, seismic moment and magnitude, seismic intensity, seismic wave types and properties, faulting in nature, types of fault setting, fault asperities, seismic cycle and a wide range of fault slip behaviors (stable creep, slow slip, regular earthquakes, supershear ruptures and more), frictional laws, concepts of static and kinetic friction, Amonton’s law, Byerlee’s law, stick-slip and stability of frictional sliding, velocity-jump experiments, Rate- and State-dependent friction law and parameters, elastodynamic parameters, loading conditions, velocity-weakening and velocity-strengthening properties, stability condition, earthquake cycle modeling, modeling methods, spring-slider model, finite-fault modeling, model parameters and applications, estimating static and dynamic stress drop, slip, and recurrence interval, a multi-disciplinary approach involving seismological observations, laboratory friction experiments, and numerical modeling, case studies of observations and modeling of stable creep, slow slip and tremors, bilateral and unilateral ruptures, repeating earthquakes, supershear ruptures, etc.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Planetary Geomorphology: Processes and Landforms (ES683) [11 credit]
+
+Course Content: This course will introduce the workings of various surface geological processes on planetary bodies other than Earth. The course would cover a diverse array of landscapes carved out by geological processes in substrates made up of various compositional species. The course aims at broadening the perspective on how a geological process operates, what are its various facets and how they interact with the substrate to produce a landscape. The course would therefore equip the students to infer geologic history of a region based on the study of its landscape. The course would comprise a combination of lectures and labs.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Potential Field Theory in Applied Geophysics (ES681) [9 credit]
+
+Course Content: This course will provide comprehensive background about the concept of potential field theory, related mathematical tools, and its application in geophysics. It will help to develop the concepts of various data processing and interpretation approaches related to potential field methods (e.g., Gravity and magnetic methods). The major topics of this course are: Introduction to potential field theory: fields and potential, Poisson’s & Laplace’s equations, Helmholtz theorem, Delta & Green’s functions, Green’s identities.
+
+Fourier series and Fourier transform in spatial domain: power spectra analysis; Solution to Laplace’s equation in cartesian & spherical co-ordinates: upward and downward continuation, spherical harmonics, Geoid & ellipsoid, and geomagnetic field representation; Gravity and magnetic methods of prospecting: instruments, data processing/enhancement, and interpretation.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Remote Sensing and GIS for Geo-resource Evaluation (ES644) [9 credit]
+
+Course Content: Remote sensing platforms – satellite-based and airborne sensors; Basic principles of image interpretation; Spectra of earth’s surface material; Interpretation of regional geological and geomorphological features; Lithological and structural mapping, mapping of landforms and interpretation; Basic principles of Geographic Information System (GIS) and its application; Analytical Hierarchy Process (AHP) technique and its integration into GIS. River basin management – drainage mapping, channel movement and morphological changes; river erosion studies; Identification of groundwater potential zones; criteria for identification, integration of controlling factors into GIS; Lake and wetland studies using remote sensing; Water quality mapping; water quality parameters, indices of water quality monitoring; Vegetation Mapping and forestry applications; Application in glaciology and snow hydrology; Coastal zone mapping and other related applications; Natural hazards – floods, landslides, earthquakes; causative factors, choice of data and use of remote sensing technique for mapping and prediction; Mineral resources evaluation with particular reference to digital remote sensing; Application of thermal infrared data for mapping surface moisture and rock types and environmental studies.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+River Science (ES645) [9 credit]
+
+Course Content: Integrated Multi-Disciplinary Approach in river science; River Science in Indian Context; Geomorphic Analysis of River Systems - Key Concepts in River Geomorphology, Catchment Scale Controls on River Morphology, Catchment Hydrology, Sediment Movement and Deposition in River System, Channel Geometry, Floodplain Forms and Processes, River Diversity and River Evolution, Human Impacts on River Systems; River Ecosystem Synthesis - Introduction to hydrogeomorphic patches, functional process zones, hierarchical patch dynamics and biocomplexity, river as a continuum, longitudinal, lateral, temporal, vertical dimensions; Hierarchical patch dynamics in riverine landscapes; hydrogeomorphic character of a riverine ecosystem.; Ecological Implications of RES Biocomplexity Concepts; River Health and River Futures - Human impacts on river systems including climate change impacts; river hazards and their causes, Environmental Flow (e-flow) – definition, data requirement, different approaches for e-flow estimation; Integrated approach to river management, River health and river futures.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Rock Magnetism (ES664) [9 credit]
+
+Course Content: Rock magnetism is an umbrella term that covers the study and application of magnetism and magnetic fields of natural crystals, minerals and rocks, which have formed and deformed at various pressures and temperatures. The five broad titles and the topics covered therein are as follow: (1) Introduction: Introduction to magnetism. Types of magnetism. Magnetic fields in the Solar system. (2) Magnetic mineralogy: Ferro-, para- and diamagnetic minerals; hysteresis, coercivity and magnetic domains; sampling, measurement and analysis. (3) Magnetic anisotropy: Types of anisotropies of magnetic susceptibilities (AMS); AMS parameters and ellipsoid; primary magnetic fabrics; secondary magnetic fabrics; sampling, measurement and analysis. (4) Geomagnetism: Earth's magnetic field origin, present and past; Induced and remnant magnetization; Sampling, measurement and analysis. (5) Applications: AMS, tectonic deformation and strain; magnetic shock barometers; magnetic anomalies on extraterrestrial crust; seafloor spreading and paleogeographical reconstruction; paleomagnetism and tectonics; lava emplacement conditions; Bio-, environmental-, archeo-magnetism; Rock magnetics in mining, petroleum and geothermal industry.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Solid Earth Geophysics (ES655) [11 credit]
+
+Course Content: This course will introduce the laws of physics in understanding the Earth Structures and geological processes associated with the Earth. It will focus on the application of basic mathematics and physical concepts to better understand the structure and composition of the Earth's interior and interaction among crust, mantle, and core. It will provide qualitative as well as quantitative knowledge on Earth structures and plate tectonics using Earth’s gravity-magnetic fields, seismic reflection and refraction, seismology and thermal processes.
+
+Seismic Exploration & Subsurface Imaging (ES682) [9 credit]
+
+Course Content: Acoustic and elastic wave equation, energy partitioning at interface, AVO analysis, Fourier analysis and seismic signals, signal processing, reciprocity and Green's function, land and marine seismic data acquisition techniques, wavefield sampling, wavefield, decomposition, land and marine seismic data processing (filtering, deconvolution, CMP, CDP, stack, migration), advanced migration techniques (RTM, PreSDM), seismic inversion, optimization techniques, tomography, finite difference scheme for 2D/3D seismic modeling, Ambient noise tomography, land and marine seismic interpretation
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Quaternary Geology and Tectonic Geomorphology (ES680) [9 credit]
+
+Course Content: Quaternary time scale; Quaternary stratigraphy and geochronology – dating Quaternary records, radiometric, luminescence and other methods of dating. Climate archives and proxies, Methods of reconstructing Quaternary climate - sedimentary archives, biotic proxies, geological and geochemical proxies. Sea level changes, glacial/interglacial cycles, sea floor spreading, carbon reservoir, vegetation dynamics, migration history, response of vegetation to climatic reversals. Tectonic geomorphology and landforms: mapping active tectonic landforms, geomorphic markers and indices; Tectonics-climate coupling, BLAG hypothesis, Uplift-weathering hypothesis.
+
+[Context: DEPARTMENT OF EARTH SCIENCES IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > list of courses phd m tech]
+Planetary Remote Sensing (ES661A) [9 credit]
+
+Course Content: This course is aimed at developing perspectives on geological processes on planetary bodies (apart from the Earth) and how remote sensing is used for deciphering planetary composition, structure and evolutionary history. The course would explore diverse geological processes, some of which do not occur on the Earth (e.g. space weathering) and others that occur in a very different form (e.g. convection in ice). The major objectives of this course are: i) Develop a sound understanding of the diverse geological processes on planetary bodies. ii) Become well-versed with remote sensing applications in planetary science. iii) Utilize this knowledge to view Earth and its geological processes with a fresh perspective and ask interesting new questions. The course would involve introductory lectures, research-paper-based discussions and in-class exploration of remote sensing data from recent missions (e.g. Chandrayaan-1, ISRO; Kaguya, JAXA; Lunar Reconnaissance Orbiter; NASA, Cassini, NASA). The class would identify some special topics for detailed discussion. The course would also include a project component which would either be a critical evaluation of a scientific problem (based on available literature) or data analysis based project after consultation with the instructor.
+

@@ -1,0 +1,300 @@
+RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS
+Name: ResearchGate institution page of IIT Kanpur: member count, recent publications by IIT Kanpur authors, sample members, address and head of institution.
+Type: RESEARCH PUBLICATIONS of IIT Kanpur authors, from ResearchGate. Snapshot: scraped in 2026 (publication pages dated up to early 2027 as listed by ResearchGate).
+
+=== ResearchGate institution page: Indian Institute of Technology Kanpur ===
+Source: https://www.researchgate.net/institution/Indian-Institute-of-Technology-Kanpur
+
+Indian Institute of Technology Kanpur
+
+Kanpur, India
+
+Overview
+Members (12,987)
+Recent publications
+Modeling Incomplete Solute Mixing at Pipe Junctions in Water Distribution Networks: Parametric CFD Simulations and a Predictive Regression Approach
+Article
+
+January 2027 · 16 Reads
+
+Journal of Hydraulic Engineering
+
+Richárd Wéber · Levente Sándor · Gopinathan R. Abhijith · [...] · Avi Ostfeld
+
+High-quality drinking water is essential for modern settlements, and accurate modeling of solute mixing at pipe junctions is crucial in water distribution networks (WDNs). While complete mixing is often assumed, recent studies emphasize the need to account for incomplete mixing. This paper advances the understanding of incomplete mixing effects on water quality dynamics in WDNs. Computational fluid dynamics (CFD) simulations are employed to examine how pipe connection angles in cross junctions influence solute mixing. The results highlight the significance of the junction angle and the relative distribution of inflow and outflow rates, whereas the diffusion coefficient and the turbulent Schmidt number have a limited influence. A generic regression model is developed to capture the nonlinear relationships between the dominant factors, providing accurate predictions of mixing at pipe junctions with minimal computational cost. The model is validated against experimental data from the literature and can be integrated into traditional WDN solvers such as EPANET. The findings improve the simulation reliability of contaminant concentration profiles, supporting more robust water quality analysis and advancing the state of the art in WDN modeling.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+A Fully Soft-Switched Primary Parallel Compensated IPT System for Entire Load and Coupling Variations in EV Applications
+Article
+
+December 2026 · 3 Reads
+
+IEEE Transactions on Power Electronics
+
+Akhouri Prateek Sinha · Suvendu Samanta
+Efficient and Coupled 1D-2D Hydrodynamic Framework to Model Catchment Scale Surface Flow Dynamics
+Article
+
+December 2026 · 21 Reads
+
+Journal of Hydrologic Engineering
+
+Ravi Shukla · Naveed Ul Hassan Bhat · Alok Kumar · Gourabananda Pahar
+
+Surface flow in a catchment consists of slowly varying overland flow and a predominantly fast and concentrated flow through channels. Since channel width is generally small relative to the catchment extent, accurate channel representation requires fine domain discretization, thereby increasing computational overhead. This study aims to develop a computationally efficient hybrid coupled 1D-2D framework with module-specific time-stepping for channel and overland flows, based on various forms of depth-averaged conservation laws, selected in accordance with their physical applicability. Overland flow is modeled using the 2D dynamic and diffusive variants of the shallow water equations, and the 1D dynamic (width-averaged, hyperbolic) counterpart governs the flow through channel(s). Bends/junctions formed by channel network involve changes in flow direction and are resolved locally as a 2D system. All the modules are duly coupled at the shared boundary between 1D and 2D systems through interfacial fluxes. The governing partial differential equations are solved on a regular finite-volume grid using an explicit shock-capturing scheme for the dynamic variants, whereas the diffusive model is solved with an implicit temporal discretization. The numerical framework incorporates appropriate treatment of bed variation, wet–dry transitions, and friction to ensure physically admissible solutions. The proposed framework is validated against multiple benchmark scenarios, including experimental cases involving variable-width-channel, channel-networks, and overland-flow (with/without channel) scenarios as well as an extension to real catchments with varying topographical features. The results demonstrate that the dynamic variant better captures rapidly varying and inertia-dominated flows, while the diffusive variant provides computational advantages for gradually varying shallow overland flow.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+A Unified Arching-Based Framework for Predicting Active Earth Pressures on Retaining Walls under Different Wall Movements
+Article
+
+December 2026 · 1 Read
+
+Journal of Geotechnical and Geoenvironmental Engineering
+
+Ashutosh Verma · Sathiyamoorthy Rajesh
+
+Arching is the fundamental mechanism governing the development of earth pressures on retaining walls. This phenomenon, driven by soil rearrangement, initiates during construction and therefore comprises two components: construction-phase arching and active-phase arching. Although several studies have addressed arching under active conditions, the contribution of the construction phase remains underexplored. This study develops an analytical framework that incorporates the combined effects of construction-phase and active-phase arching into the prediction of normal stress distribution, total active thrust, and resultant point of application on retaining walls. Three principal modes of wall movement, namely, rotation about the base and translation (producing concave soil arches) and rotation about the top (inducing convex arches) are examined. Both planar and parabolic failure surfaces are employed to derive the loci of soil arches corresponding to each movement mode. Design charts are formulated to determine the arch coefficient and curvature factor for varying degrees of wall–soil friction mobilization and different backfill friction angles. Furthermore, a comprehensive formulation for evaluating the stress ratio is proposed using a differential slice approach that accounts for the bin coefficient and explicitly incorporates construction-phase arching. Results demonstrated that construction-phase arching substantially influences the stress distribution and increases the magnitude of active thrust by a considerable margin, whereas the height of thrust application remains relatively unaffected. Additionally, comparison with existing theories and available experimental data demonstrated satisfactory agreement. These findings highlight the necessity of accounting for construction-phase arching in design practice for retaining structures to avoid underestimation of earth pressures.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Closure to “An Empirical Model for Time to Ponding Accounting for Root Water Uptake”
+Article
+
+December 2026
+
+Journal of Irrigation and Drainage Engineering
+
+Uma Maheswara Rao Songa · Richa Ojha
+Flow Topology and Boundary-layer Transition Signatures over a Reusable Launch Vehicle Using Temperature-sensitive Paint
+Article
+
+December 2026 · 3 Reads
+
+Journal of Applied Fluid Mechanics
+
+K. S. Singh Chandrasekaran · Sathesh Mariappan · D. Das · [...] · R. Saravanan
+
+The paper demonstrates the application of eosin Y-based temperature-sensitive paint (TSP) to visualize flow topology over a reusable launch vehicle (RLV) under low-speed aerodynamic conditions relevant to the landing regime. The RLV has a strake-delta wing with two vertical fins anchored to the fuselage. Strake and leading-edge vortices emerge on the wings, and a horseshoe vortex occurs at the fin-fuselage junction. The TSP method captures the footprint and trajectory of the above vortices. Furthermore, it identifies signatures of natural laminar to turbulent transition over the fuselage. The above flow topologies are studied at various angles of attack, sideslip angles, and free-stream velocities. The previous surface oil-flow visualization data are in good qualitative agreement with the conclusions drawn from the TSP measurements. On the whole, we present the TSP method as a promising complementary surface flow visualization technique in addition to the existing ones. This study demonstrates the unique capability of eosin Y-based TSP to simultaneously identify vortex footprints, trajectories, and transitions over a complex RLV configuration.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Evaluating Financial Support Mechanisms for Robust Recycling Enterprises Managing Construction and Demolition Waste
+Article
+
+November 2026 · 9 Reads
+
+Journal of Management in Engineering
+
+Harshal Tikam · Chirag Kothari
+
+Construction waste recycling enterprises (CWRE) play a pivotal role in construction and demolition waste management. However, their potential in emerging economies remains largely untapped due to widespread absence and substandard operational conditions, largely attributable to financial barriers. This underscores the imperative of well-designed economic instruments (e.g., targeted subsidies, tax relief, concessional loans, etc.) to strengthen their financial viability within a dynamic environment. Despite their importance, existing research offers limited insights into the financial performance of CWRE under scenarios involving multiple economic instruments amid uncertain operational conditions. Addressing this gap is crucial for designing effective instruments that ensure long-term financial sustainability of CWRE. In response, this study develops a probabilistic financial model to evaluate the investment viability and financial sustainability of CWRE across diverse policy scenarios involving multiple economic instruments, explicitly incorporating uncertainties and variabilities in key operational parameters. The model integrates detailed cost structure, revenue streams, financing mechanisms, and policy-linked variables for scenario-based simulations that assess performance across modeled scenarios. These include a baseline case without external support, interventions based on CAPEX or OPEX subsidies, and hybrid approaches combining both, thereby providing a structured evaluation of synergies, policy effectiveness, financial risks, and the critical factors determining project success or failure. For the case under consideration, CWRE remained financially unviable in purely market-driven contexts without external support and scenarios relying solely on CAPEX support. In contrast, OPEX and hybrid interventions proved particularly effective in stabilizing revenues, improving debt serviceability, and enhancing equity attractiveness, thereby enabling project success. These outcomes underscore the critical role of well-designed economic instruments over isolated fiscal measures in ensuring long-term financial sustainability. The analysis further identifies key failure drivers and outlines corrective measures, offering actionable insights to foster financially viable, scalable recycling enterprises.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Shear-Induced Pore Evolution in Granular Materials: Micromechanical Effects of Stress Path, Particle Shape, and Packing Density
+Article
+
+November 2026 · 25 Reads
+
+Journal of Engineering Mechanics
+
+Suaiba Mufti · Madhu Sudan Negi · Mousumi Mukherjee · Arghya Das
+
+Understanding the microstructural evolution of granular soils under different loading conditions is essential for linking grain-scale mechanisms to macroscopic behavior. This study introduces a combined discrete element method and image analysis framework to investigate the evolution of pore space characteristics in granular assemblies. Using 3D discrete element method simulations, assemblies of spherical and ellipsoidal particles with different initial densities are sheared under three commonly encountered drained stress paths: axisymmetric compression, axisymmetric extension, and plane strain. A 3D image-based analysis is employed to segment the pore space and extract individual pore characteristics at different strain levels. Results show that stress path, particle shape, and packing density significantly affect the evolution of pore morphology and pore fabric anisotropy during shearing. Comparisons between pore orientation fabric and other structural measures, such as particle orientation, contact normal, and contact force direction, reveal strong interdependencies that evolve with strain level. This study provides new insights into how particle-scale rearrangements and loading conditions govern the development of pore-scale anisotropy, with implications for understanding and modeling the hydromechanical behavior of granular soils.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Identification of Modal and Stiffness Parameters of Time-Varying Train–Bridge Systems from Train-Induced Vibrations Using Autoregressive Modeling and Truncated UKF
+Article
+
+November 2026 · 7 Reads
+
+Journal of Engineering Mechanics
+
+Adrita Kundu · Ashish Pal · Suparno Mukhopadhyay
+
+In the identification of railway bridges using train-induced vibrations, moving heavy train mass continuously affects the measured responses, making the modal parameters of the train–bridge system time-varying. A method is developed to identify such time-varying modes, utilizing small overlapping time windows sweeping across the entire response, with the modes identified in each window using autoregressive modeling coupled with the eigensystem realization algorithm. Thereafter, a clustering and outlier analysis is performed for extraction of the meaningful modes. This identified sequence of modal parameters represents the time-varying modes of the train–bridge system as the train passes over the bridge. The identified modes are next used in suitable model-informed constraints, for joint state-parameter estimation from the measured responses, using the truncated unscented Kalman filter (UKF), a constraint-enforcing version of the popular Bayesian estimation algorithm UKF. The methodology is illustrated using numerical examples as well as laboratory-scale experiment with a moving train on a two-span continuous bridge. It is observed that the first few modes are estimated with reasonable accuracy, and also some higher frequency modes can be identified. The mode-based constraints improve the estimation of physical parameters of the train–bridge system, e.g., the bridge stiffness parameters. In the experimental example, it is also seen that the identified parameters can be used for bridge damage detection.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Curcumin-Anchored Luminescent and Photocytotoxic Ruthenium Complex for Theragnostic Applications
+Article
+
+October 2026
+
+Dalton Transactions
+
+Payal Srivastava · Abhijit Saha · Madhu Verma · [...] · Ashis Kumar Patra
+
+A new heteroleptic luminescent and cytotoxic ruthenium(II) polypyridyl complex, [RuII(bphen)2(cur)]+ (bphen = bathophenanthroline, cur = curcumin), has been thoroughly investigated for its photophysical properties with potential applications as a luminescent...
+
+Emotional reactivity and decision-making under social deprivation: the role of trait anxiety during quarantine
+Article
+Full-text available
+
+October 2026
+
+Royal Society Open Science
+
+Avisha · Akhilesh Tayade · Arjun Ramakrishnan
+
+Social isolation measures enforced during the COVID-19 pandemic highlighted the importance of the social environment in shaping affective states and decision-making. However, the day-to-day experience and psychological recovery from social deprivation, especially among individuals with high trait anxiety, remains poorly understood. We conducted a 10-day longitudinal study with 116 university students returning to campus, collecting approximately 31 000 momentary assessments of affect and social interactions during a 3-day quarantine and subsequent period. Quarantine increased the need for social interaction and altered patterns of social engagement, whereas trait anxiety was robustly associated with reduced positive affect and elevated negative affect. Close interactions following quarantine were associated with higher positive affect. We also administered a virtual patch-foraging task to participants during and after quarantine. Greater variability in negative affect was associated with lower patch exit thresholds, suggesting a tendency to persist in depleted patches. These findings highlight how trait anxiety shapes emotional experience and social behaviour in daily life and reveal how fluctuations in negative affect can influence sequential decision-making under uncertainty.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Download
+Regularity and existence for a mixed local-nonlocal parabolic equation with variable singularities and measure data
+Article
+Publisher preview available
+
+October 2026 · 13 Reads
+
+Nonlinear Differential Equations and Applications NoDEA
+
+Stuti Das
+
+This article establishes existence, non-existence, regularity, and asymptotic behavior of weak solutions to a class of mixed local-nonlocal parabolic problems involving singular nonlinearities and measure data. We address both the purely singular and the perturbed singular cases in a framework where the source terms are simultaneously allowed to be measure-valued under the assumption that the measure associated with the singular term is non-singular with respect to the Lebesgue measure. To the best of our knowledge, this work is the first to address parabolic problems with inverse-power singularities in which the coefficient of the singular term is allowed to be a measure. This novelty persists even when the analysis is restricted to purely local operators. Furthermore, non-existence results for such equations have not been previously investigated. A key additional novelty of this work is the consideration of a variable singular exponent, which introduces new analytical challenges. We also emphasize that all our results remain valid when the operator is taken to be purely local.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+View access options
+
++15
+
+Optimization of solar power forecasting employing an advanced hybrid machine learning approach
+Article
+Publisher preview available
+
+October 2026 · 3 Reads
+
+Energy Systems
+
+Nishant Saxena · Rahul Kumar · Amit Kumar Thakur · [...] · Vineet Singh Sikarwar
+
+Although India's solar power generation capacity is substantial, accurate forecasting of this capacity is challenging because to the country's extreme weather variability. Projections of future solar power generation are now less precise than they once were because of these fluctuations caused by things like seasons and erratic weather predictions. In this paper we have focused on three objectives, first is to identify the prominent locations in India where the abundant solar power is available and can be harnessed to maintain the system's sustainability. The second is to hybridize the two well-known machine learning algorithms to develop an efficient and effective hybrid ML Algorithm to achieve more accurate forecasting results; furthermore, to improve the ML model's efficiency and reduce the iteration time, the optimization of the hyperparameters has been performed with the genetic algorithm technique. The other and last objective is to train the developed model with the historical data of the proposed region on the developed hybrid ML model to testify our results and forecast the solar power with higher accuracy. According to the proposed strategy, the Jodhpur location has been chosen with the available historical meteorological data. Based on the collected meteorological and solar energy data, three separate non-overlapping groups are formed: training data (the upper 70% of the data), validation data (the lower 30% of the data), and testing data (the upper 10% of the data). In this study, the solar power forecasting task is formulated as a supervised regression problem in which continuous-valued daily photovoltaic energy generation is predicted from meteorological and solar irradiance variables such as temperature, sunshine duration, and global solar radiation. By helping the power system operator better manage power pooling at the central grid and reducing the difficulties associated with solar power output uncertainty, the suggested hybrid algorithm has demonstrated the system's dependability potential. For the past seven months, Jaipur's 120 kW SPV power plant has likewise relied on this suggested method to predict solar electricity output. Later, It was observed that the actual and predicted power were accurate, with a percentage error of 0.121% in May’2023. In this work, a total of 95 papers were analyzed, and it has been identified that 75% of the documents were under the SDGs of affordable and clean energy and climate actions. Perhaps there is a lack of research in the solar domain related to the SDGs. The effect of solar photovoltaic (PV) system usage on the SDGs is the focus of this investigation. Graphical abstract
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+View access options
+Effect of alloying additions on the electrical resistivity of Sn–Bi-based solders
+Article
+
+October 2026 · 3 Reads
+
+MRS Communications
+
+Radhakrishnan Sriram · Gulnaz Parween · Ashutosh Padhan · [...] · Nilesh Badwe
+
+We report the influence of alloying (Ag, In, Cu, Sb) on the temperature-dependent (25–90℃) electrical resistivity of near-eutectic Sn–Bi low-temperature solders. Microalloying refined the Bi-rich phase and increased hardness, with Sb producing the strongest strengthening. Ag and Cu reduced room-temperature resistivity, attributed to disruption of high-resistivity Bi pathways and improved Sn-phase connectivity. In showed negligible impact due to competing solid-solution scattering and increased β–Sn phase. Sb increased resistivity owing to solute and precipitate scattering. Temperature coefficients of resistance remained comparable to the base alloy. The results help establish composition–microstructure–property relationships governing electrical performance of Sn–Bi-based solders.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Strain Softening Behavior and Impact of Microalloying in SnBi Solder Alloys
+Article
+Full-text available
+
+October 2026 · 6 Reads
+
+Journal of Electronic Materials
+
+Sean Lai · Hannah N. Fowler · Lijia Xie · [...] · Ganesh Subbarayan
+
+The impact of microalloying additions to SnBi solder alloys’ mechanical behavior is studied in this paper. We examine the microstructure and mechanical behavior of ten SnBi-based low-temperature solder (LTS) alloys against 96.5Sn-3Ag-0.5Cu (SAC305) high-temperature solder (HTS) alloy, focusing on the effects of microalloying additions of Ag, Sb, and Ni on solder alloy performance and the underlying shear deformation mechanisms when soldered onto Cu pads. We specifically compare eutectic and near-eutectic alloys: Sn58Bi, Sn57Bi-1Ag, Sn57.5Bi-0.5Sb, Sn56.5Bi-0.5Sb-1Ag, Sn57Bi-1Sb, Sn56Bi-1Sb-1Ag, and four proprietary and commercially available Bi-containing solder alloys identified here as Alloys 1–4. Since assemblies consisting of solder joints contain intermetallic compounds of Sn with Cu, Ag, Sb, and Ni, which influence mechanical behavior significantly, it is critical to test solder joints in size scale similar to those used in practice. Therefore, the test specimens were microscale solder assemblies on circuit board coupons containing Cu pads with an organic solderability preservative (OSP) surface finish. Extensive monotonic and creep tests of the specimen were carried out using a precision mechanical tester under closed-loop strain rate or load-controlled tests. Post-test scanning electron microscopy (SEM) revealed microcracks in the bulk solder joints of the SnBi alloys, which is consistent with damage accumulation during mechanical deformation and the observed strain-softening behavior. The extent and distribution of microcracking varied with alloy composition. Binary Sn58Bi and Ag-containing Sn57Bi-1Ag exhibited extensive microcrack networks, consistent with their larger load drops during monotonic shear testing. In contrast, Sb-containing solder alloys such as Sn57.5Bi-0.5Sb and Sn57Bi-1Sb showed fewer and smaller microcracks, suggesting that Sb addition is associated with improved ductility, possibly through its influence on microstructural stability and crack propagation behavior. When Sb and Ag were combined, as in Sn56.5Bi-0.5Sb-1Ag and Sn56Bi-1Sb-1Ag, microcracks were still present but appeared more uniformly distributed, suggesting that the combined presence of SnSb and
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Ag
+3
+ Ag 3 Sn precipitates may influence crack path development.
+
+Download
+Organizational Ergonomics in Robotics
+Chapter
+Full-text available
+
+October 2026 · 9 Reads
+
+Vivek Kant · Francesco Rea · Fabrizio Bracco
+
+The chapter introduces the organizational dimension of ergonomics for robotics. Specifically, it introduces the foundations of organizational ergonomics and sociotechnical principles for effective work systems design and development. It then highlights key challenges involved in issues related to work, activities, and quality of life in robotic setups. In this realm, attitudes towards robots and automation play a major role in the adoption of new technologies and change management in organizations. These broad-scale changes are important to be recognized as they shape human–robot interaction in various work settings, ranging from smart manufacturing to defence. The chapter then addresses specific aspects of teamwork and the design of high-performance teams. These topics include team performance and well-being, human function allocation, shared situation awareness, and job roles, amongst other such topics that will be explored later in the book by subsequent chapters. This chapter supplements the previous chapters on physical and cognitive ergonomics, but it goes beyond these aspects to highlight the organizational basis required to develop robotics holistically.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Download
+Ergonomic design and evaluation of woodworking chisel
+Article
+
+October 2026 · 10 Reads
+
+Work
+
+Ritwik Halder · Vaishnavi S · Vikrant Verma · Ashish Kumar Singh
+
+Background Chiselling involves repetitive, precision work with constrained postures and high hand loads, contributing to upper-limb musculoskeletal disorders among artisans. Despite extensive work on workstation ergonomics and general hand-tool design, few studies have systematically translated ergonomic risk-assessment findings into specific chisel-handle design requirements and evaluated the resulting intervention in a real craft-sector setting. Objective This study aimed to characterize ergonomic exposures in chiselling, translate these findings to concrete handle design requirements, and evaluate a prototype handle's short-term usability versus conventional handles. Methods Fifty male artisans underwent NMQ, palm pain mapping, RULA and ART assessment. Risk findings informed a modular ergonomic handle (elliptical contour, 25–40 mm diameter, 10–15° cant, strike ferrule). A counterbalanced in-lab within-subject short-term usability comparison (n = 30) was conducted alongside post-trial acute hand pain mapping and targeted ART posture sub-component reassessment. Results A high prevalence of upper-limb musculoskeletal symptoms and dominant-hand biomechanical risk were identified. The prototype was strongly preferred and rated easier and more comfortable to use, and it markedly reduced acute pain at the thumb base and first finger-web. Usability improved across all items and acute thenar/first-web pain fell substantially (Zones 19–20, paired d > 2.9), with parallel reductions in the wrist-posture and force-demand sub-components of the ART assessment. Conclusions Risk-informed handle redesign yielded immediate, objectively corroborated hand-level benefits. The study contributes a low-cost, retrofittable ergonomic chisel handle and replicable risk-to-design pathway applicable to woodworking artisans and similar occupations. Longitudinal field validation is necessary to establish sustained reductions in musculoskeletal disorder prevalence and productivity gains.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
++2
+
+Modulating Spin‐States of Active Catalysts for Efficient Urea Oxidation in Anion Exchange Membrane Electrolyzer
+Article
+Full-text available
+
+October 2026 · 9 Reads
+
+Small
+Anamika Yadav · Trinh Hai Binh · Ayusie Goyal · [...] · Apparao Draksharapu
+
+The electronic properties of active M(O)OH catalysts can be effectively modified by tailoring the characteristics of their corresponding precatalysts. Herein, we report a coordination site‐modulated precatalyst to access active catalysts for efficient electrocatalytic urea oxidation in an anion exchange membrane (AEM) electrolyzer. A two‐dimensional NiFe‐coordination polymer (NiFe‐2D) was constructed via selective site engineering using hydrazine. Upon electrochemical reconstruction, NiFe‐2D was transformed into an active Fe‐Ni(O)OH catalyst (AC‐2D). X‐ray absorption spectroscopy (XAS) confirmed the changes in the coordination and electronic environment of AC‐2D with a tuned spin state. Remarkably, AC‐2D delivered a current density of 100 mA cm⁻² at 1.50 V vs. RHE for the oxygen evolution reaction (OER) and 1.40 V vs. RHE for the urea oxidation reaction (UOR). AC‐2D also delivered outstanding performance in an AEM electrolyzer, achieving a current of 4 A at 2.9 V cell voltage and maintaining operation for over 8 days for UOR‐assisted water splitting. In situ electrochemical impedance spectroscopy (EIS) and kinetic analysis suggested facile charge transfer during OER and UOR in AC‐2D. In situ Raman studies revealed that Ni⁴⁺ species were identified as the main active centers for OER, while Ni³⁺ species served as the catalytic sites for UOR.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Download
+
++16
+
+Fusion of multi-sensor data for evaluation of probabilistic damage curves: numerical and experimental studies
+Article
+Publisher preview available
+
+October 2026 · 18 Reads
+
+Journal of Civil Structural Health Monitoring
+
+Adarsh Subash · Jagajyoti Panda · Samit Ray-Chaudhuri
+
+Due to high model uncertainty in civil engineering applications, damage detection is often addressed using probabilistic methods. Probabilistic damage curves are a key outcome of probabilistic damage detection. This study examines how Bayesian fusion of displacement and strain modal data, acquired from acceleration and strain measurements, respectively, impacts these curves. The primary objective of this study is to determine whether the additional information obtained through fusion yields an advantage in the damage curves. Four- and 12-story shear buildings are used in the numerical studies, while an experimental study features a four-story shear building model. Various practical aspects are studied, including data noise, the number of modes used, damage locations, sensor locations, and the entropy of the posterior probability density functions. It has been observed that combining both types of modal data can provide benefits for probabilistic damage curves in certain situations, but not always. The numerical study involving the four-story model shows that fusion can reduce the variability of the damage curves. The experimental study revealed that fusion can reduce uncertainty in damage estimates and shift the damage curves from the negative damage level portion to the positive side. This shift towards the positive side implies that the probability of an increase in stiffness after damage decreases. It has been seen that when partial sensor data are used, only certain sensor combinations are advantageous for fusion, and that sensor locations can highly influence the damage curves.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+View access options
+Pressureless liquid-phase sintering of copper with a mechanically milled Cu–Ag eutectic-composition premix
+Article
+
+October 2026 · 4 Reads
+
+Powder Metallurgy
+
+Avinash Singh · Harish Ranot · Mirtunjay Kumar · Anish Upadhyaya
+
+Pressureless liquid-phase sintering of Cu containing a mechanically milled 28Cu–72Ag (wt.%) premix was investigated to relate premix content and thermal history to densification, microstructure, hardness and electrical conductivity. Cu blends containing 0–40 wt.% premix were processed using five schedules that varied heating rate and holding time. Increasing premix content enhanced densification despite lowering green density. D120–Cu–40Et gave the largest mean relative density ( ∼ 93.4%), while H20–Cu–40Et reached ∼ 92.2% after 15 minutes at 800 °C. Longer high-temperature exposure refined pores and increasingly rounded Cu-rich regions at higher premix contents, whereas rapid heating retained finer, heterogeneous Ag-rich intergranular regions. X-ray diffraction and energy-dispersive spectroscopy identified mutually soluble Cu-rich and Ag-rich face-centred-cubic phases without additional crystalline intermetallics. When combined hardness and conductivity are prioritised, with density and hold duration as trade-offs, H20–Cu–40Et is the single recommended tested condition: (67.9 ± 2.3) HV 0.1 and (77.9 ± 2.0)% IACS. D120–Cu–40Et is the density benchmark, not a second overall optimum; the recommendation is based on observed means without significance testing.
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Institution pages aggregate content on ResearchGate related to an institution. The members listed on this page have self-identified as being affiliated with this institution. Publications listed on this page were identified by our algorithms as relating to this institution.
+This page was not created or approved by the institution. If you represent an institution and have questions about these pages or wish to report inaccurate content, you can contact us here.
+
+12,987 members
+View all
+Saravanan Matheshwaran
+
+Indian Institute of Technology Kanpur
+
+Debasis Kundu
+
+Indian Institute of Technology Kanpur
+
+Avinash Gahane
+
+Indian Institute of Technology Kanpur
+
+Soumya Dutta
+
+Indian Institute of Technology Kanpur
+
+[Context: RESEARCHGATE - INDIAN INSTITUTE OF TECHNOLOGY KANPUR INSTITUTION PAGE AND RECENT PUBLICATIONS > ResearchGate institution page: Indian Institute of Technolog]
+Padma S Vankar
+
+Indian Institute of Technology Kanpur
+
+Information
+Address
+Kanpur, India
+Head of institution
+Prof. Abhay Karandikar
+Website
+http://www.iitk.ac.in/

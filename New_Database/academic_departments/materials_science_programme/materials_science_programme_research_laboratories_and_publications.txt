@@ -1,0 +1,334 @@
+MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATORIES, FACILITIES, PROJECTS AND PUBLICATIONS
+Name: Materials Science Programme (interdisciplinary programme), IIT Kanpur - research areas, laboratories, facilities, projects and publications.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/msp. Snapshot: scraped in 2026.
+
+=== experimental facilities ===
+Source: https://www.iitk.ac.in/msp/experimental-facilities
+Experimental facilities in our programme
+
+UV-VIS double beam spectrophotometer (Hitachi 150-20)
+
+LCZ Meter (Hewlett Packard Model 4276A)
+
+Rockwell-type Hardness tester (Buehler Macromet 1)
+
+Electromagnet (Polytronic model HEM-75)
+
+Programmable electrometer/source (Keithley 617)
+
+Null detector/Microvoltmeter (Keithley 155)
+
+Optical metallography set-up (grinder, electric polisher, specimen mounting press, Leitz metallurgical microscope)
+
+Digital autoranging microvoltmeter (Keithley 197)
+
+Debye Scherrer, Oscillation and Laue cameras
+
+Strain meter
+
+Differential Thermal Analyzer (Linseis)
+
+Cryostat (Oxford Instrument )
+
+Minimet Polisher (Bueheler)
+
+Precision balance
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > experimental facilities]
+Moller interferometer
+
+Electrophoresis apparatus
+
+Optical spectrometer
+
+Gas lasers
+
+DPSS laser
+
+Hot and cold microscope stage
+
+Optical Microscopes
+
+CCD detector
+
+UHV e-beam evaporation unit
+
+RF sputtering unit
+
+Low temperature and high temperature electrical characterization system.
+
+Temperature controlled universal testing machine
+
+Scanning electron microscopy
+
+Atomic force microscopy
+
+Optical microscopy
+
+Two roll mixing mill
+
+High temperature hydraulic press
+
+Specimen cutting machine
+
+Hot isostatic press
+
+Micro hardness tester
+
+Chemical vapour deposition unit
+
+Brabender plastic order
+
+High temperature furnace
+
+Environmental controlled high temperature furnace
+
+Sonicator
+
+Differential scanning calorimeter
+
+Differential thermal analyzer
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > experimental facilities]
+Dynamic mechanical analyzer
+
+Goodrich flexometer
+
+Fatigue tester
+
+=== laboratories ===
+Source: https://www.iitk.ac.in/msp/laboratories
+Advanced Nanoengineering Materials Laboratory
+
+Professor Kamal K Kar
+ACMS 208, ACMS 202
+0512-2597818
+Homepage
+
+Area of Interest
+Carbon nanotubes, Nanostructured materials, Functionally graded materials, Fuel cell, Solar cell, Li-battery, Polymer, Thermoelectric materials, Nanocomposites.
+
+Optical Spectroscopy
+
+Professor Rajeev Gupta
+ACMS 107
+0512-2596090
+
+Homepage
+
+Area of Interest
+Experimental condensed matter physics with emphasis on using spectroscopy tools such as Raman scattering to probe the nanoscale dynamics in novel and interesting materials
+
+Photonic and Electronic Materials Laboratory
+
+Professor Y. N. Mohapatra
+ACMS 110B
+0512-2597802
+
+Homepage
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > laboratories]
+Area of Interest
+Electronic and optoelectronic materials, Physics of semiconductor devices and defects
+
+PG Research Lab MSP
+
+Professor Rajeev Gupta
+ACMS 107
+0512-2596090
+
+Homepage
+
+Area of Interest
+Experimental condensed matter physics with emphasis on using spectroscopy tools such as Raman scattering to probe the nanoscale dynamics in novel and interesting materials
+
+=== patents ===
+Source: https://www.iitk.ac.in/msp/patents
+Please check the respective faculties home pages. CLICK HERE
+
+=== publications ===
+Source: https://www.iitk.ac.in/msp/publications
+P. Sati, R. Ali, M. Verma, N. Tiwari, S. Verma, and S. Sivakumar, “Microfabricated liver-on-a-chip with membrane-free endothelial–hepatic interface for long-term culture and drug-induced liver injury modeling,” Adv. Healthcare Mater., 2026,
+doi: https://doi.org/10.1002/adhm.202503454
+
+A. Choudhary, J. Tahalyani and M. J. Akhtar, “Barium strontium titanate and exfoliated graphite nanocomposite integrated with frequency selective surface for enhanced radar absorption,” Mater. Today Commun. Vol 42, no. December 2024, p.11494, 2025,
+doi: https://doi.org/10.1016/j.mtcomm.2025.111494
+
+J. Yadav, Kajal Chaudhary, K. V. Srivastava, and J. Ramkumar, "Fabrication Process Development of a Three Dimensionally Rotated FSS Unit Cell for Wide-Angle Microwave Absorbers," All India Manufacturing Technology, Design and Research Conference (AIMTDR), Varanasi, India, December 8-10,2023.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Offline printing of proceedings
+
+J. Yadav, M. Saikia, K. V. Srivastava, and J. Ramkumar, "Three-Dimensional Rotation of FSS Unit Cell in Broadband Microwave Absorber for Large Oblique Incidence Response," IEEE Transactions on Electromagnetic Compatibility, vol. 65, no. 5, pp. 1320-1328, Oct. 2023.
+DOI:10.1109/TEMC.2023.3288351.
+
+J. Yadav, M. Saikia, K. V. Srivastava, and J. Ramkumar, "Miniaturized Metamaterial Absorber Using Lossy Effective Dielectric-Medium and Resistive Metasurface," International Conference on Metamaterials, Photonic Crystals and Plasmonics (META), Paris, France, July 18-21, 2023.
+Offline printing of proceedings
+
+J. Yadav, M. Saikia, K. V. Srivastava, and J. Ramkumar, "Design and Material Selection of Hexagon Inspired Dielectric Resonator Based Microwave Metamaterial Absorber," International Conference on Precision, Micro, Meso and Nano Engineering, COPEN-12, IIT Kanpur, India, December 8-10, 2022.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Offline printing of proceedings
+
+J. Yadav, R. Vishwakarma, M. Saikia, K. V. Srivastava, and J. Ramkumar, "Enhancement of Oblique Incidence Performance of a Microwave Absorber Using Cylindrical Dielectric Resonator," IEEE Microwaves, Antennas, and Propagation Conference (MAPCON), Bengaluru, India, December 12-15, 2022.
+DOI: 10.1109/MAPCON56011.2022.10047224
+
+R. Vishwakarma, J. Yadav, M. Saikia, A. Verma, and K. V. Srivastava, "Low-Cost Polarization Insensitive L Band FSS Absorber Based on Screen Printing Technique," IEEE Microwaves, Antennas, and Propagation Conference (MAPCON), Bengaluru, India, December 12-15, 2022.
+DOI: 10.1109/MAPCON56011.2022.10047504
+
+Sugandha Singh, Manas K. Ghorai, Kamal K. Kar, Cobalt Nanoparticle-Modified π-Conjugated Mesoporous Polymers for Electrocatalysis, ACS Applied Nano Materials, 2023, 6, 15, 14011–14018, DOI: 10.1021/acsanm.3c01849
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Sugandha Singh, Manas K. Ghorai, Kamal K. Kar, A cobalt harnessed phenanthroline and triphenylamine-based conjugated mesoporous polymer designed by a donor-acceptor approach for trifunctional electrocatalysis, Journal of Materials Chemistry A, 2023, 11, 20290-20301, DOI: 10.1039/D3TA02847J
+
+Sugandha Singh, Manas K. Ghorai, Kamal K. Kar, Exploration of Cobalt (II) modification in Phenanthroline-based conjugated organic polymer towards trifunctional electrocatalysis, Journal of Materials Chemistry A, 2024, 12, 2400-2412, DOI:10.1039/D3TA04961B
+
+A tri-functional electrocatalyst and a process for preparing the same. Manas K. Ghorai, Kamal Krishna Kar, Sugandha Singh, Manish Kumar, Debabrata Samanta, Indian Patent, Application no: 202211022868 A, 19 April 2022, Patent number: 452907, Granted.
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+A trifunctional electrocatalyst and process for synthesis thereof. Manas K. Ghorai, Kamal Krishna Kar, Sugandha Singh, Manish Kumar, Debabrata Samanta, Indian Patent, Application no: 202211035408, 21 June 2022, Patent number: 462768, Granted.
+
+Sugandha Singh, Manas K. Ghorai, Kamal K. Kar, Front cover selected and published in Royal Society of Chemistry, Journal of Materials Chemistry A, 2023, 11, 20275-20275, DOI: doi.org/10.1039/D3TA90208K
+
+Sugandha Singh, Manas K. Ghorai, Kamal K. Kar, Supplementary cover selected and published in American Chemical Society, ACS Applied Nano Materials, 2023, 6, 15, 13732-14620, https://pubs.acs.org/toc/aanmf6/6/15#
+
+Kajal Chaudhary, S. Malik, G. Singh, S. Bhattacharya, J. Ramkumar, S.A. Ramakrishna, K.V. Srivastava, "Flexible Dielectric Spacer with Tunable Dielectric Properties for Metamaterial Absorber Application", Journal of Physics D: Applied Physics vol. 57, no. 5, p. 055101, 2023 (DOI: 10.1088/1361-6463/ad030e)
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Kajal Chaudhary, J. Ramkumar, S.A. Ramakrishna, K.V. Srivastava, P.C. Ramamurthy, "Protective layer for microwave metamaterial absorbers and method thereof", Application number: 201911050380, Indian Patent No. 445111, August 16, 2023 (granted).
+
+Ravi Nigam and Kamal K. Kar, "Effect of simple cubic, face-centered cubic, and body-centered cubic-electrodes on the electric double layer capacitance of supercapacitors", Nanotechnology 34 465405, August 2023. DOI 10.1088/1361-6528/acf04d
+
+J. Tahalyani, M J. Akhtar, K. K. Kar, “Flexible, Stretchable, and Thin Films Based on Functionalized Carbon Nanofiber/Graphene Nanostructures for Electromagnetic Interference Shielding”, ACS Appl. Nano Mater. 2023, 6-10, 8178–8191. https://doi.org/10.1021/acsanm.3c00215
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+S.Singh, M. K. Ghorai and K. K. Kar, "Cobalt (II)-bridged triphenylamine and terpyridine-based donor-acceptor coordination polymer as an efficient trifunctional electrocatalyst," J. Mater. Chem. A, vol. 11, pp. 8003-8012, Feb. 2023. DOI: 10.1039/D2TA08759F
+
+Nigam, R., Kumar, R., Kar, K.K. (2023). Laser as a Tool for Fabrication of Supercapacitor Electrodes. In: Kar, K.K. (eds) Handbook of Nanocomposite Supercapacitor Materials IV. Springer Series in Materials Science, vol 331. Springer, Cham. https://doi.org/10.1007/978-3-031-23701-0_4
+
+Nigam, R., Kar, K.K. (2023). Optical Revolution with Sustainable Energy Framework. In: Kar, K.K. (eds) Handbook of Nanocomposite Supercapacitor Materials IV. Springer Series in Materials Science, vol 331. Springer, Cham. https://doi.org/10.1007/978-3-031-23701-0_15
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+S. Bhattacharya, K. Chaudhary, K.V. Srivastava and J. Ramkumar ""Energy Optimization in Laser Micro-machining of Transparent Metamaterial Absorber"" IEEE Microwaves, Antennas, and Propagation Conference (MAPCON) pp. 106-110, Dec. 2022. DOI: 10.1109/MAPCON56011.2022.10047019
+
+K. Chaudhary, V. K. Singh, M.S. Bisht, J. Ramkumar, S.A. Ramakrishna, and K.V. Srivastava, "Optically transparent adhesives for microwave metamaterial absorber With PET–PDMS interface" IEEE Transactions on Components, Packaging and Manufacturing Technology, vol. 12, no. 8, pp. 1253-1261, Aug 2022.
+DOI: https://doi.org/10.1109/TCPMT.2022.3195880
+
+K. Chaudhary, A. Bhardwaj, R. Vishwakarma, J. Ramkumar, S.A. Ramakrishna and K.V. Srivastava, "Analysis of Protective Coating for Optically Transparent Microwave Metamaterial Absorber" IEEE Microwaves, Antennas, and Propagation Conference (MAPCON) pp. 89-92, Dec 2022.
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+DOI: https://doi.org/10.1109/MAPCON56011.2022.10047267
+
+Ravi Nigam, Kamal K. Kar, "Simulation study of electric double-layer capacitance of ordered carbon electrodes", Langmuir, 2022, 38, 40, 12235–12247. https://doi.org/10.1021/acs.langmuir.2c01865
+
+Prerna Sinha, Mukesh Kumar, Ravi Nigam, Hiroyuki Yokoi, and Kamal K. Kar, "Value-added functional carbon for potential electrodes and its validation", Journal of Energy Storage Volume 56, Part B, 10 December 2022, 106116. https://doi.org/10.1016/j.est.2022.106116
+
+Manas K. Ghorai, Kamal Krishna Kar, Sugandha Singh, A trifunctional
+electrocatalyst and process for synthesis thereof, Application no –
+202211031567, 2022.
+
+Jitendra Tahalyani, M Jaleel Akhtar, Kamal K Kar, “Flexible, stretchable and lightweight polyurethane and graphene nanoplatelets nanocomposite for high performance EMI shielding application”, Materials Today Communications, 2022. DOI: https://doi.org/10.1016/j.mtcomm.2022.104586
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Jitendra Tahalyani, M Jaleel Akhtar, Kamal K Kar, “Graphene Nanoplatelets-Based Lightweight Flexible Nanocomposites for EMI Shielding Application”, IEEE Transactions on Electromagnetic Compatibility, 2022, 1-9. DOI: https://doi.org/10.1109/TEMC.2022.3198646
+
+Kajal Chaudhary , G. Singh, J. Ramkumar, S.A. Ramakrishna, K.V. Srivastava and P.C. Ramamurthy, “Optically transparent protective coating for ITO-coated PET-based microwave metamaterial absorbers,” IEEE Trans. Components, Packaging and Manufacturing Technology, vol. 10, no. 3, pp. 378-388, Feb. 2020. (DOI: 10.1109/TCPMT.2020.2972911) .
+
+Prakrati Azad, N Tiwari, and M J Akhtar, "Study of constitutive properties retrieval technique using planar topology", Proceedings, IEEE MTT-S International Microwave and RF Conference (IMaRC), Kanpur, India, Dec. 17- 19, 2021.
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+S. Srin, J. Ramkumar, R. Bathe “Material Selection for Ultrashort Pulsed Laser Textured Self-cleaning Surfaces” Springer Nature, J. Inst. Eng. India Ser. C, pp.1-7, Jan 2022, (DOI: 10.1007/s40032-022-00818-8).
+
+S. Srin, J. Ramkumar, Ravi Bathe, “Design and developmental approach aimed at polar solvent chemical sensor for biomedical application”, Elsevier, Materials Today: Proceedings, Vol. 56, Part 3, pp. 1255-1260, Apr 2022, (DOI: 10.1016/j.matpr.2021.11.191).
+
+Nigam, R., Sinha, P., Kar, K.K., "Introduction to Supercapacitors." In: Kar, K.K. (eds) Handbook of Nanocomposite Supercapacitor Materials III. Springer Series in Materials Science, vol 313. Springer, Cham, 2021. (https://doi.org/10.1007/978-3-030-68364-1_1)
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Nigam, R., Kar, K.K., "Integrated Energy Storage System." In: Kar, K.K. (eds) Handbook of Nanocomposite Supercapacitor Materials III. Springer Series in Materials Science, vol 313. Springer, Cham, 2021. (https://doi.org/10.1007/978-3-030-68364-1_9)
+
+Nigam, R., Verma, K.D., Pal, T., Kar, K.K. (2020). Applications of Supercapacitors. In: Kar, K. (eds) Handbook of Nanocomposite Supercapacitor Materials II. Springer Series in Materials Science, vol 302, 2020 (Springer, Cham. https://doi.org/10.1007/978-3-030-52359-6_17)
+
+Ravi Bathe, K. S. Srin, and G. Padmanabham, “Method for Preparing Multifunctional and Isotropic, Uni-directional Superhydrophobic Surfaces using Ultrafast Laser” Indian Patent filed (24512/2020-DEL; dated 27/05/2020).
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Prerna Sinha, Amit Yadav, Alekha Tyagi, Pradip Paik, Hiroyuki Yokoi, Amit K. Naskar, Tapas Kuila, Kamal K. Kar, Keratin-derived functional carbon with superior charge storage and transport for high-performance supercapacitors, Carbon, Volume 168, 2020, Pages 419-438, ISSN 0008-6223, https://doi.org/10.1016/j.carbon.2020.07.007.
+
+J. tahalyani, M. J. Akhtar, and K. K. Kar, “Sandwiched between poly(ethylene terephthalate) and polyurethane for flexible electromagnetic shielding application,” ACS Appl. Nano Mater., Vol. 4, no. 11, pp. 12146–12157, Nov. 2021. (DOI: https://doi.org/10.1021/acsanm.1c02657)
+
+S. Srin, G. Padmanabham, R. Bathe , Controllable Superhydrophobic Stainless Steel Surfaces Fabrication by Femtosecond Laser ASTM International, Materials Performance and Characterization Vol. 8 (6), pp.1159-1166, (DOI: 10.1520/MPC20180090).
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+J.Yadav, J.Ramkumar, and Kumar Vaibhav Srivastava, "Design for easy surface machined and highly absorbing metamaterials for Infrared frequencies," World Congress on Micro and Nano Manufacturing (WCMNM 2021), Mumbai, India, September 21-23, 2021.
+
+S.Srivastava and Y. N. Mohapatra, “Defect density of states in natural and synthetic MoS2 multilayer flakes” J. Phys. D: Appl. Phys., May 2022, (https://doi.org/10.1088/1361-6463/ac6f98).
+
+S.Srivastava and Y. N. Mohapatra, “MoS2|ZnO isotype heterostructure diode: Carrier transport and band alignment”, Journal of Applied Physics, Vol. 129, Issue 20, pp. 205702-1 to 205702-8, May 2021, (https://doi.org/10.1063/5.0048592).
+
+S.Srivastava and Y. N. Mohapatra, “Determination of interlayer electron mobility in multilayer MoS2 flake using impedance spectroscopy”, J. Phys. D: Appl. Phys., Vol. 54, Issue 29, pp. 295104, May 2021, (https://doi.org/10.1088/1361-6463/abfbfa).
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+S.Srivastava, and Y. N. Mohapatra, “Facile growth of MoS2 nanopillars using pulsed DC magnetron sputtering technique” AIP Conference Proceedings, Vol. 2220, pp. 020086-1 to 020086-5, May 2020, (https://doi.org/10.1063/5.0002132).
+
+Moumita Mistri, Shrikant Joshi, Kamal K. Kar, Kantesh Balani, "Tribomechanical Insight into Carbide-laden Hybrid Suspension-powder Plasma-sprayed Tribaloy T400 Composite Coatings," Surface & Coatings Technology, Volume 396, 125957, August 2020. (https://doi.org/10.1016/j.surfcoat.2020.125957)
+
+Kiran Kumar Surthi, Kamal.K. Kar, "Spherical shaped LiCo0.5Mn0.5PO4-carbon composite as high voltage cathode material for conventional and flexible Li-ion batteries" Carbon, vol 193, pp 140-150, march, 2022 .(https://doi.org/10.1016/j.carbon.2022.02.034)
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Kiran Kumar Surthi, Kamal.K. Kar, R. Janakarajan, "Shape depended electrochemical properties of LiNi0.5Co0.5PO4/C composites for high voltage secondary, flexible Li-ion batteries"Chemical Engineering Journal vol 418 pp 129362-10, march 2021. (https://doi.org/10.1016/j.cej.2021.129362)
+
+Kiran Kumar Surthi, Kamal.K. Kar, R. Janakarajan, "Shape controlled and structurally stabilized Co-doped olivine lithium phosphate cathodes for high voltage conventional, thin and flexible Li-ion batteries" Chemical Engineering Journal vol 399, 125858-15, june 2020. (https://doi.org/10.1016/j.cej.2020.125858)
+
+Kiran Kumar Surthi, A. Tyagi, K.K. Kar, R. Janakarajan, "First Principle Study on Lithium-ion Diffusion, Electronic and Electrochemical Properties of Cobalt Doped Lithium Metal Borates" Journal of Physics and Chemistry of Solids, vol 148, pp 109779-12, 2021. (https://doi.org/10.1016/j.jpcs.2020.109779)
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Kajal Chaudhary , G. Singh, J. Ramkumar, S.A. Ramakrishna, K.V. Srivastava and P.C. Ramamurthy, “Optically transparent protective coating for ITO-coated PET-based microwave metamaterial absorbers,” IEEE Trans. Components, Packaging and Manufacturing Technology, vol. 10, no. 3, pp. 378-388, Feb. 2020. (DOI: 10.1109/TCPMT.2020.2972911) .
+
+Tayde, K. Chaudhary, G. Singh, A. Dhumal, M. Saikia, K.V. Srivastava, J. Ramkumar and S.A. Ramakrishna, “An optically transparent and flexible microwave absorber for X and Ku bands application,” Microwave and Optical Technology Letters, vol. 62, no. 5, pp. 1850-1859, Jan. 2020. (DOI: 10.1002/mop.32269) .
+
+G. Singh , H. Sheokand, K. Chaudhary, K.V. Srivastava, J. Ramkumar and S.A. Ramakrishna, ‘’Fabrication of a non-wettable wearable textile-based metamaterial microwave absorber,” Journal of Physics D: Applied Physics, vol. 52 no. 38, p. 385304, July 2019. (DOI: 10.1088/1361-6463/ab1c47)
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > publications]
+Kajal Chaudhary , J. Ramkumar and S. A. Ramakrishna,” Surface treatment of ITO coated PET sheet for coating with optically transparent polymer“ Soc. India OSI—Int. Symp. Opt. (OSI-ISO), pp. 118-119, 2018.
+
+Kajal Chaudhary, J. Ramkumar,S. Ramakrishna,K. Srivastava,Praveen Ramamurthy,’ Protective layer for microwave metamaterial absorbers ad method thereof”, Patent application No. 201911050380, filed with the Indian Patent Office on December 6, 2019.
+
+Gaganpreet Singh,Kajal Chaudhary, K. Srivastava,J. Ramkumar, S. Ramakrishna, A microwave absorbing metamaterial based wearable and a preparation method thereof, Patent application No. 201811038763, filed with the Indian Patent Office on December 5, 2018.
+
+=== research activities ===
+Source: https://www.iitk.ac.in/msp/research-activities
+Current research activities in our programme
+
+Phosphors for solid state illumination,
+
+MgO based systems for plasma display panels,
+
+ZnO based transparent conducting oxides for photovoltaics and spintronic device
+
+Multi-elements perovskite-type oxides membranes for gas separation,
+
+Nature of metal-semiconductor interface/ Schottky junctions, and
+
+FIB fabrication of nano-devices
+
+Fast ion conductors/superionic conductors
+
+High energy batteries
+
+High Tc superconductors
+
+Carbon nanotubes
+
+Nanostructured materials
+
+Functionally graded materials
+
+Materials for Fuel cell, Solar cell, Li-battery
+
+Polymer
+
+Thermoelectric materials
+
+Nanocomposites, Biomaterials
+
+[Context: MATERIALS SCIENCE PROGRAMME (INTERDISCIPLINARY PROGRAMME) IIT KANPUR - RESEARCH AREAS, LABORATO > research activities]
+RF Sensors
+
+EMI Shielding Microwave absorber and supercapacitors
+

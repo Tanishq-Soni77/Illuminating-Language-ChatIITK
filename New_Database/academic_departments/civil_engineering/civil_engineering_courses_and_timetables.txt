@@ -1,0 +1,696 @@
+DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES
+Name: Department of Civil Engineering, IIT Kanpur - courses, curricula and timetables.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/ce. Snapshot: scraped in 2026.
+
+=== hydrowater courses ===
+Source: https://www.iitk.ac.in/ce/hydrowater/courses.php
+Hydraulics and Water Resources
+Engineering, IIT Kanpur
+
+CE Main
+
+E-mail
+
+Menu
+
+About Us
+
+Faculty and Staff
+PhD Students
+
+Research Areas
+Featured Research
+
+Courses
+
+Gallery
+
+Courses
+
+UG courses
+
+CE262A: Engineering Hydraulics, 2-0-2-0 [8]
+
+Introduction; Review of the basic equations: continuity, momentum, and energy. Flow through closed conduits: Laminar flow, Turbulent flow, Pipes in Series and Parallel, Pipe Networks, Unsteady flow. Flow through open channels: Uniform flow, Critical flow, Gradually Varied flow, Rapidly Varied flow, Spatially Varied flow, Un-steady flow. Flow Measurement: Pressure, Velocity and Discharge measurements. Forces on immersed bodies: Drag and Lift. Basics of Irrigation Engineering: Crop water requirements, Irrigation methods.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE361A: Engineering Hydrology, 2-0-0-0 [6]
+
+Introduction: Hydrologic cycle, water budget, world water quantities. Precipitation and Abstractions: Forms of precipitation, data analysis, rain gauge networks; Infiltration process, infiltration indices and Horton's equation; Evaporation and Evapo-transpiration Pan evaporation, empirical equations for estimating evaporation and evapo-transpiration; Transpiration, Runoff and Hydrographs: Rainfall runoff relations, time area concept, flow duration curve, mass curve, flow hydrograph, Unit Hydrograph (UH), its analysis, S-curve hydrograph; Floods and Routing: Concepts of return period, flood frequency analysis, Gumbel's and Log Pearson Type I II distributions, Rational method, risk, reliability, and safety factor; Hydrologic storage routing Groundwater Hydrology: Types of aquifers and properties, Darcy's law, steady flow in a confined and unconfined aquifer (without recharge), steady flow to a well.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE462A: Hydraulic and Hydrologic Design, 3-1-0-0 [11]
+
+Synthetic design storms & Estimation of peak discharge, Urban storm drainage design, Culvert design, Detention storage design, Watershed modeling, Flood frequency analysis and hydrologic design under uncertainty; Design of water distribution network, Analysis and design of rigid boundary channels; Tractive-force concepts in channel design, Design of canal head works, distribution works, and cross drainage works; Design of gravity dams, spillways, and energy dissipators.
+
+PG courses
+
+CE610A: Advanced Hydrology, 3-0-0-0 [9]
+
+Hydrologic cycle, systems concept, hydrologic model classification; Reynold's Transport Theorem, continuity, momentum, and energy equations; Atmospheric hydrology: atmospheric circulation, water vapor, formation and forms of precipitation, precipitable water, monsoon characteristics in India, Thunderstorm Cell model, IDF relationships; factors affecting evaporation, estimation and measurement of evaporation, energy balance method, aerodynamic method, Priestley Taylor method, and pan evaporation; Surface Water: Catchment storage concept, Hortonian and saturation overland flow, stream flow hydrographs, base flow separation, index, ERH & DRH, algorithm for abstraction using Green Ampt equation, SCS method, overland and channel flow modeling, time area concepts, and stream net works; Unit Hydrograph: General hydrologic system model, response functions of a linear hydrologic systems and their interrelationships, convolution equation; definition and limitations of a UH; UH derivation from single and complex storms; UH optimization using regression, matrix, and LP methods; Synthetic unit hydrograph, S-Curve, IUH; Subsurface Water: Soil moisture, porosity, saturated and unsaturated flow; Richards' equation, infiltration, Horton's, Philip's, and Green Ampt methods, parameter estimation, ponding time concepts; Groundwater Hydrology: Occurrence of groundwater, aquifers & their properties, Darcy's law, permeability, transmissibility, stratification, confined groundwater flow, unconfined groundwater flow under Dupit's assumptions; Well hydraulics, steady flow into confined and unconfined wells; Unsteady flow in a confined aquifer.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE611A: Advanced Hydraulics, 3-0-0-0 [9]
+
+Basics: dimensional analysis, equations of continuity, motion, and energy, irrotational flow, drag and lift of immersed bodies; Pipe flow: laminar flow, turbulent flow, boundary layer theory, wall turbulent shear flow, free turbulent shear flow; Open Channel flow: energy depth relationships, uniform flow, gradually varied flow, hydraulic jump, rapidly varied flow, spatially varied flow, unsteady flow.
+
+CE612A: Fluid Mechanics Laboratory, 2-0-3-0 [9]
+
+Verification of momentum equation; Friction loss in pipes; Rainfall runoff relationship; Flow over sharp crested weir; Flow in pipe networks; Bernoulli theorem; Fall velocity of objects; Point velocity measurement by ADV; Reynolds apparatus; Venturi-meter and orifice meter; Energy loss in bends; Ground water flow/ well abstraction; Hydrogen bubble flow visualization; Hydraulic jump; Flow past a cylinder.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE613A: Computational Methods in Hydraulics and Hydrology, 2-0-3-0 [9]
+
+Basics: Introduction to computer programming and computation with Matlab. Open channel flow : Estimation of normal and critical depth; uniform flow computations; computation of water surface profile (WSP) gradually varied flow estimation using standard step and direct step methods, WSP in presence of hydraulic structures; unsteady flow Saint Venant equation, kinematic wave routing, diffusion routing, overland flow; steady and unsteady modeling using HECRAS. Closed conduit flow: Steady and unsteady state modeling; pipe network analysis; introduction to EPANET/WaterCAD. Surface water hydrology: Estimation of Unit hydrographs; lumped and distributed flow routing; hydrologic statistics parameter estimation, time series analysis, frequency analysis, geo-statistics; hydrologic modeling using HECHMS. Groundwater hydrology: Solving groundwater flow equation saturated and unsaturated flow, Richards' equation, Green Ampt infiltration model; introduction to MODFLOW; Application of soft computing methods and GIS in Hydraulic and Hydrologic modeling. Laboratory: Programming exercises for the related topics.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE614A: Stochastic Hydrology, 3-0-0-0 [9]
+
+Statistical methods in hydrology, probability distribution of hydrologic variables, hypothesis testing and goodness of fit, flood frequency analysis, single and multiple regression analysis, classification of time series, characteristics of hydrologic time series, statistical principles and techniques for hydrologic time series modeling, time series modeling of annual and periodic hydrologic time series (including AR, ARMA, ARIMA, and DARMA models), multivariate modeling of hydrologic time series, practical considerations in time series modeling applications.
+
+CE616A: Sediment Transportation, 3-0-0-0 [9]
+
+Properties of sediment, incipient motion, bed load, suspended load, total load, sediment measurements, regime concept, bed form mechanics, plan form and stream bed variations of rivers, reservoir sedimentation, erosion and deposition, sediment control, sediment transport in pipes.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE617A: Advanced Modeling of Subsurface Flow and Transport, 3-0-0-0 [9]
+
+Review of Governing Equations: Definition of Variables, Phase Equations, Component Equations, Initial and Boundary Conditions, constitutive relationships. Review of Numerical Methods: Finite Difference Methods, Finite Element Methods, Other Relevant Methods. Simulation of Groundwater Flow: Finite Difference and Finite Element Formulations. Simulation of Contaminant Transport: Finite Difference and Finite Element methods, Improved Eulerian Methods, Fourier analysis, Characteristic Methods. Simulation of Multiphase Flow and transport with emphasis on unsaturated flow and Transport; Introduction to existing packages for simulation of subsurface flow and transport The course will involve two major modeling and simulation projects, one for flow and other for combination of flow and transport. The students will have to make presentations of their results.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE618A: Vadose Zone Hydrology, 3-0-0-0 [9]
+
+The Soil System: Physical properties of soil; soil water potentials, soil water characteristic curves and pedo-transfer functions; spatial variability of soils and scaling issues; Water Flow in Soils: Bernoulli's, Poiseuille's and Darcy’s Laws; unsaturated hydraulic conductivity models; Richards equation and its alternate forms; Solutions of Richards equation: Analytical, approximate and numerical solutions of Richards equation, stability of numerical schemes, numerical dispersion, multi-dimensional water flow: spherical and cylindrical sources; introduction to Hydrus software for solving multidimensional flow problems; Solute Transport in Soils: Solute concentrations; transport mechanisms; transfer functions and stream-tube models; mobile-immobile systems; Heat Transport in Soils: Soil thermal properties; Fourier’s law; steady and unsteady state transport equations and boundary conditions
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+CE619A: Ecohydrology, 3-0-0-0 [9]
+
+Introduction: Origin and scope of ecohydrology. Ecohydrological processes: Interactions between physical, chemical and biological processes at basin scale soil water dynamics, land surface energy budgets; scales of interactions; ecohydrological optimality theory; ecohydrological controls on nutrient cycle; Landscape connectivity morphological, ecological and hydrological connections. Techniques in ecohydrological measurements: Measuring energy and water fluxes in atmosphere, soil and vegetation; atmosphere latent, sensible and CO2 fluxes, distribution of wind, temperature and humidity; soil moisture, soil respiration and soil heat flux; vegetation leaf area index, stomatal conductance and transpiration. Ecohydrological modeling: Governing equations; mathematical models stochastic and deterministic models; process based and empirical models; calibration and validation of models; scale issues in ecohydrological modeling. Applications of ecohydrology: Use of ecohydrogical principles in paleo-hydrology and climate change studies; ecohydrological approach for sustainable management of floods and droughts; case studies from tropical river basins and dry land ecosystems.
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > hydrowater courses]
+Copyright © Hydraulics and Water Resources Engineering IIT Kanpur 2022
+Developed by : Institute Web Team
+
+=== pg courses in civil engineering ===
+Source: https://www.iitk.ac.in/ce/pg-courses-in-civil-engineering
+CE603 |
+MATHEMATICS FOR CIVIL ENGINEERS |
+1.5-0-0-0-5 |
+
+CE604 |
+NUMERICAL METHODS FOR CIVIL ENGINEERS |
+1.5-0-0-0-5 |
+
+CE605 |
+PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS |
+1.5-0-0-0-5 |
+
+CE606M |
+OPTIMIZATION METHODS FOR CIVIL ENGINEERS |
+3-0-0-0-5 |
+
+CE610 |
+ADVANCED HYDROLOGY |
+3-0-0-0-9 |
+
+CE611 |
+ADVANCED HYDRAULICS |
+3-0-0-0-9 |
+
+CE612 |
+FLUID MECHANICS LABORATORY |
+2-0-3-0-9 |
+
+CE613 |
+COMPUTATIONAL METHODS IN HYDRAULICS AND HYDROLOGY |
+2-0-3-0-9 |
+
+CE614 |
+STOCHASTIC HYDROLOGY |
+3-0-0-0-9 |
+
+CE615 |
+INTRODUCTION AI TECHNIQUES |
+3-0-0-0-9 |
+
+CE616 |
+SEDIMENT TRANSPORTATION |
+3-0-0-0-9 |
+
+CE617 |
+ADVANCED MODELING OF SUBSURFACE FLOW AND TRANSPORT |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+3-0-0-0-9 |
+
+CE618 |
+VADOSE ZONE HYDROLOGY |
+3-0-0-0-9 |
+
+CE619 |
+ECOHYDROLOGY |
+3-0-0-0-9 |
+
+CE620 |
+STRUCTURAL DYNAMICS |
+3-0-0-0-9 |
+
+CE621 |
+ENGINEERING MECHANICS |
+3-0-0-0-9 |
+
+CE622 |
+STABILITY OF STRUCTURES |
+3-0-0-0-9 |
+
+CE623 |
+EXPERIMENTAL METHODS IN STRUCTURL ENGINEERING |
+2-0-3-0-9 |
+
+CE624 |
+NONLINEAR STRUCTURAL ANALYSIS |
+3-0-0-0-9 |
+
+CE625 |
+MASONARY STRUCTURES |
+3-0-0-0-9 |
+
+CE626 |
+BRIDGE ENGINEERING AND DESIGN |
+3-0-0-0-9 |
+
+CE627 |
+ADVANCED DESIGN OF STEEL STRUCTURES |
+3-0-0-0-9 |
+
+CE628 |
+DURABILITY OF CONCRETE STRUCTURES |
+3-0-0-0-9 |
+
+CE629 |
+EARTHQUAKE ANALYSIS AND DESIGN OF STRUCTURES |
+3-0-0-0-9 |
+
+CE630 |
+ROCK MECHANICS |
+3-0-0-0-9 |
+
+CE631 |
+ADVANCED GEOTECHNICAL ENGINEERING |
+3-0-0-0-9 |
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+CE632 |
+FOUNDATION ANALYSIS AND DESIGN |
+3-0-0-0-9 |
+
+CE633 |
+REINFORCED EARTH STRUCTURES |
+3-0-0-0-9 |
+
+CE634 |
+GROUND IMPROVEMENT TECHNIQUES |
+3-0-0-0-9 |
+
+CE635 |
+FOUNDATION DYNAMICS |
+3-0-0-0-9 |
+
+CE636 |
+GEOTECHNICAL EARTHQUAKE ENGINEERING |
+3-0-0-0-9 |
+
+CE637 |
+CONSTITUTIVE MODELING OF FRICTIONAL MATERIALS |
+3-0-0-0-9 |
+
+CE638 |
+GEOTECHNICAL MEASUREMENTS AND EXPLORATIONS |
+2-0-3-0-9 |
+
+CE639 |
+ANALYTICAL AND NUMERICAL METHODS IN GEOMECHANICS |
+3-0-0-0-9 |
+
+CE640 |
+INFRASTRUCTURE ASSET MANAGEMENT |
+2-0-0-0-6 |
+
+CE641M |
+PROJECT MANAGEMENT |
+3-0-0-0-5 |
+
+CE642 |
+LABORATORY COURSE IN INFRASTRUCTURE ENGINEERING AND MANAGEMENT |
+3-0-0-0-9 |
+
+CE645 |
+BASIC QUALITY AND SAFETY MANAGEMENT IN CONSTRUCTION |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+1.5-0-0-0-5 |
+
+CE648 |
+REPAIR AND REHABILITATION OF CONCRETE STRUCTURES |
+1.5-0-0-0-5 |
+
+CE653M |
+ADVANCEMENTS OF CONCRETES |
+3-0-0-0-5 |
+
+CE654M |
+CONCRETE SCIENCE AND ENGINEERING PROPERTIES |
+3-0-0-0-5 |
+
+CE656 |
+ENVIRONMENTAL FLUID MECHANICS |
+3-0-0-0-9 |
+
+CE657 |
+CONSTRUCTION ECONOMICS & INFRASTRUCTURE FINANCING |
+3-0-0-0-9 |
+
+CE663 |
+HUMANS, ENVIRONMENT, AND SUSTAINABLE DEVELOPMENT |
+3-0-0-0-9 |
+
+CE664 |
+PHYSICO-CHEMICAL PRINCIPLES AND PROCESS |
+3-0-0-0-9 |
+
+CE665 |
+ECOLOGICAL AND BIOLOGICAL PRINCIPLES AND PROCESS |
+3-0-0-0-9 |
+
+CE666 |
+AIR POLLUTION AND ITS CONTROL |
+3-0-0-0-9 |
+
+CE667 |
+PRINCIPLES OF ENVIROMENTAL MANAGEMENT |
+3-0-0-0-9 |
+
+CE668 |
+ENVIRONMENTAL QUALITY & POLLUTION MONITORING TECHNIQUES |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+2-0-4-0-10 |
+
+CE669 |
+ATMOSPHERIC PHYSICS AND CHEMISTRY |
+3-0-0-0-9 |
+
+CE670 |
+ENVIRONMENTAL GEODESY |
+3-0-2-0-11 |
+
+CE671 |
+INTRODUCTION TO REMOTE SENSING |
+3-0-2-0-11 |
+
+CE672 |
+MACHINE PROCESSING OF REMOTELY SENSED DATA |
+3-0-0-0-9 |
+
+CE673 |
+INSTRUMENTATION, LABORATORY AND FIELD PRACTICES IN GEOINFORMATICS |
+0-0-0-9-9 |
+
+CE674M |
+GLOBAL NAVIGATION SATELLITE SYSTEMS (GNSS) |
+3-0-2-0-6 |
+
+CE675M |
+GLOBAL NAVIGATION SATELLITE SYSTEMS (GNSS) FOR SURVEYING AND MAPPING |
+3-0-2-0-6 |
+
+CE676 |
+LASER SCANNING AND PHOTOGRAMMETRY |
+2-0-3-0-9 |
+
+CE677M |
+INTRODUCTION TO INERTIAL AND MULTI-SENSOR NAVIGATION |
+3-0-2-0-6 |
+
+CE678 |
+PHYSICAL GEODESY |
+3-0-2-0-11 |
+
+CE679 |
+SIGNAL PROCESSING ON THE SPHERE |
+3-0-2-0-11 |
+
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+CE683 |
+TRAFFIC ENGINEERING |
+3-0-0-0-9 |
+
+CE685M |
+URBAN TRANSPORTATION |
+3-0-0-0-5 |
+
+CE687 |
+STATISTICAL AND ECONOMETRIC METHODS FOR TRANSPORTATION DATA |
+3-0-2-0-11 |
+
+CE697 |
+M TECH SEMINAR I |
+0-0-0-0-0 |
+
+CE698 |
+M.TECH SEMINAR II |
+0-0-0-0-0 |
+
+CE699 |
+M. TECH THESIS |
+0-0-0-9-9 |
+
+CE711M |
+CONSTRUCTION EQUIPMENT AND METHODS I |
+3-0-0-0-5 |
+
+CE712M |
+CONSTRUCTION EQUIPMENT AND METHODS II |
+3-0-0-0-5 |
+
+CE713M |
+CONSTRUCTION EQUIPMENT AND METHODS FOR BRIDGES |
+3-0-0-0-5 |
+
+CE718 |
+WATER RESOURCES SYSTEMS ANALYSIS |
+3-0-0-0-9 |
+
+CE719 |
+HYDROMETEOROLOGY |
+3-0-0-0-9 |
+
+CE721 |
+RANDOM VIBRATIONS |
+3-0-0-0-9 |
+
+CE722 |
+GEOTECHNICS OF TAILINGS AND TAILINGS STORAGE FACILITIES |
+3-0-0-0-9 |
+
+CE723 |
+FINITE ELEMENT METHODS FOR CIVIL ENGINEERING APPLICATIONS |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+3-0-0-0-9 |
+
+CE724 |
+RELIABILITY ANALYSIS & RELIABILITY BASED DESIGN OF STRUCTURE |
+3-0-0-0-9 |
+
+CE725 |
+VIBRATION BASED STRUCTURAL HEALTH MONITORING FOR CE APPLICATIONS |
+1.5-0-0-0-5 |
+
+CE727A |
+THEORY OF PLATES AND SHELLS |
+3-0-0-0-9 |
+
+CE730 |
+SOIL-STRUCTURE INTERACTION |
+3-0-0-0-9 |
+
+CE731 |
+RISK & RELIABILITY IN GEOTECHNICAL ENGINEERING |
+3-0-0-0-9 |
+
+CE732 |
+UNSATURATED SOIL MECHANICS |
+3-0-0-0-9 |
+
+CE733 |
+GEOTECHNICAL DESIGN ASPECTS OF SOLID WASTE MANAGEMENT |
+3-0-0-0-9 |
+
+CE734 |
+PLASTIC EQUILIBRIUM IN SOILS |
+3-0-0-0-9 |
+
+CE736 |
+FLOOD MODELLING |
+3-0-0-0-9 |
+
+CE737 |
+MOMENT ANALYSIS FOR CONTAMINANT FATE AND TRANSPORT |
+3-0-0-0-9 |
+
+CE738 |
+HYDROMETRY |
+2-0-3-0-9 |
+
+CE739 |
+IRRIGATION SYSTEMS |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+3-0-0-0-9 |
+
+CE760M |
+SURFACE WATER QUALITY MODELING |
+3-0-0-0-5 |
+
+CE761M |
+SUBSURFACE POLLUTANT FATE AND TRANSPORT |
+3-0-0-0-5 |
+
+CE762M |
+ATMOSPHERIC MODELING |
+3-0-0-0-5 |
+
+CE763M |
+SOLID AND HAZARDOUS WASTE MANAGEMENT |
+3-0-0-0-5 |
+
+CE764M |
+ENVIRONMENTAL TOXICOLOGY AND RISK ASSESSMENT |
+3-0-0-0-5 |
+
+CE765M |
+INDUSTRIAL WASTE MANAGEMENT |
+3-0-0-0-5 |
+
+CE766 |
+AGRICULTURAL SUSTAINABILITY AND CLIMATE CHANGE |
+3-0-0-0-9 |
+
+CE767M |
+SOLID-WATER INTERFACIAL PROCESSES |
+3-0-0-0-5 |
+
+CE768M |
+PLASTIC WASTE MANAGEMENT |
+3-0-0-0-5 |
+
+CE770 |
+ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-I |
+1.5-0-1-0-6 |
+
+CE771 |
+ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-II |
+1.5-0-1-0-6 |
+
+CE772M |
+REFERENCE FRAMES, COORDINATE SYSTEMS AND MAP PROJECTIONS |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+3-0-1-0-6 |
+
+CE773M |
+GEODETIC ASTRONOMY AND INTRODUCTION TO SATELLITE GEODESY |
+3-0-1-0-6 |
+
+CE775M |
+INTRODUCTION TO ROAD SAFETY MODELLING |
+3-0-0-1-5 |
+
+CE780 |
+LABORATORY COURSE IN TRANSPORTATION ENGINEERING |
+0-0-6-3-9 |
+
+CE781M |
+TRAFFIC SIMULATION |
+3-0-2-0-6 |
+
+CE783M |
+ANALYSIS OF CONCRETE PAVEMENT |
+3-0-0-0-5 |
+
+CE784 |
+MACHINE LEARNING AND DATA ANALYTICS FOR CIVIL ENGINEERING APPLICATIONS |
+3-0-0-2-11 |
+
+CE785M |
+PAVEMENT MATERIALS |
+3-0-0-0-5 |
+
+CE786 |
+ANALYSIS AND DESIGN OF BITUMINOUS PAVEMENTS |
+3-0-0-0-9 |
+
+CE787 |
+COMPUTATIONAL TOOLS FOR TRANSPORTATION ENGINEERING |
+3-0-2-0-11 |
+
+CE788M |
+TRANSPORTATION INFRASTRUCTURE MANAGEMENT |
+3-0-1-0-5 |
+
+CE789 |
+TRANSPORTATION NETWORK ANALYSIS |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > pg courses in civil engineering]
+3-0-0-0-9 |
+
+CE791 |
+LITERATURE SEARCH AND REVIEW |
+0-0-0-5-5 |
+
+CE792 |
+SCIENTIFIC WRITING SKILLS |
+0-0-0-5-5 |
+
+CE793 |
+SCIENTIFIC PRASENTATION SKILLS |
+0-0-0-5-5 |
+
+CE794 |
+SCIENTIFIC DATA ANALYSIS, PRESENTATION AND INTERPRETATION |
+0-0-0-5-5 |
+
+CE797 |
+PHD SEMINAR I |
+0-0-0-0-0 |
+
+CE798 |
+PHD SEMINAR II |
+0-0-0-0-0 |
+
+CE799 |
+PHD THESIS |
+0-0-0-9-9 |
+
+CE897 |
+MS RESEARCH SEMINAR I |
+0-0-0-0-0 |
+
+CE898 |
+MS RESEARCH SEMINAR II |
+0-0-0-0-0 |
+
+CE899 |
+MS - RESEARCH THESIS |
+0-0-0-9-9 |
+
+CE999 |
+DIIT Project |
+0-0-0-9-9 |
+
+=== ug courses in civil engineering ===
+Source: https://www.iitk.ac.in/ce/ug-courses-in-civil-engineering
+CE212 |
+ENVIRONMENT AND SUSTAINABILITY |
+3-0-0-0-9 |
+
+CE214 |
+ENVIRONMENTAL QUALITY AND PROCESSES THEORY |
+3-0-0-0-9 |
+
+CE243 |
+CIVIL ENGINEERING MATERIALS |
+2-0-2-0-8 |
+
+CE252 |
+SOIL MECHANICS |
+3-0-2-0-11 |
+
+CE261 |
+FLUID MECHANICS FOR CIVIL ENGINEERS |
+3-0-1-0-11 |
+
+CE272 |
+STRUCTURAL ANALYSIS |
+3-0-0-0-9 |
+
+CE311 |
+ENVIRONMENTAL QUALITY AND PROCESSES PRACTICAL |
+0-0-4-0-4 |
+
+CE331 |
+PRINCIPLES OF GEOINFORMATICS |
+2-0-2-0-8 |
+
+CE332 |
+SURVEY CAMP (UGP I) |
+0-0-0-4-4 |
+
+CE334 |
+MODERN METHODS IN GEOINFORMATICS |
+2-0-2-0-8 |
+
+CE341 |
+CIVIL ENGINEERING COMMUNICATION SKILLS |
+0-0-2-0-2 |
+
+CE351 |
+FOUNDATION DESIGN |
+3-0-1-0-10 |
+
+CE361 |
+ENGINEERING HYDROLOGY |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > ug courses in civil engineering]
+2-0-0-0-6 |
+
+CE362 |
+ENGINEERING HYDRAULICS |
+2-1-0-0-8 |
+
+CE371 |
+DESIGN OF REINFORCED CONCRETE STRUCTURES |
+3-0-0-0-9 |
+
+CE372 |
+DESIGN OF STEEL STRUCTURES |
+3-0-0-0-9 |
+
+CE381 |
+INTRODUCTION TO TRANSPORTATION ENGINEERING |
+3-0-0-0-9 |
+
+CE382 |
+TRANSPORTATION SYSTEMS ANALYSIS |
+3-0-0-0-9 |
+
+CE412 |
+WATER SUPPLY AND WASTEWATER DISPOSAL SYSTEMS |
+3-0-2-0-11 |
+
+CE432 |
+GEOGRAPHICAL INFORMATION SYSTEM (GIS) |
+3-0-2-0-11 |
+
+CE441M |
+CONSTRUCTION MANAGEMENT |
+3-0-0-0-5 |
+
+CE451 |
+APPLICATION OF GEOTECHNICAL ENGINEERING |
+3-0-0-2-11   |
+
+CE462 |
+HYDRAULIC AND HYDROLOGIC DESIGN |
+2-1.5-0-0-9 |
+
+CE481 |
+TRANSPORTATION FACILITIES DESIGN |
+3-0-0-2-11 |
+
+CE491 |
+UNDER GRADUATE RESEARCH -II |
+0-0-0-0-9 |
+
+CE492 |
+UNDER GRADUATE RESEARCH -III |
+[Context: DEPARTMENT OF CIVIL ENGINEERING IIT KANPUR - COURSES, CURRICULA AND TIMETABLES > ug courses in civil engineering]
+0-0-0-0-9 |
+
+CE493 |
+UNDER GRADUATE RESEARCH -IV |
+0-0-0-0-9 |
+

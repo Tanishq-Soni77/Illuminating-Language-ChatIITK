@@ -1,0 +1,89 @@
+CMHW SELF-ASSESSMENT TESTS (CENTER FOR MENTAL HEALTH AND WELLBEING, IIT KANPUR)
+Name: Self-assessment tools offered on the CMHW website (https://www.iitk.ac.in/counsel/cmhw/pages/self-assessments.php).
+Type: Online self-reflection tests, not clinical diagnoses. The six test pages themselves load their questions with JavaScript, so only their identifiers (test codes) are available: ghq-12 (General Health Questionnaire, 12 items), brs, internet-addiction, happiness-scale (Happiness Scale), mental-health-stigma (Mental Health Stigma Test) and gratitude-questionnaire (Gratitude Questionnaire). Results note: "This is a self-assessment tool designed for reflection. It is not a clinical diagnosis. If you have concerns about your mental health, please consult with a mental health professional at CMHW."
+[Context: CMHW SELF-ASSESSMENT TESTS (CENTER FOR MENTAL HEALTH AND WELLBEING, IIT KANPUR)]
+Snapshot: 2026.
+
+=== Counselling page: /cmhw/pages/self-assessments.php ===
+Source: https://www.iitk.ac.in/counsel/cmhw/pages/self-assessments.php
+
+Discover yourself with
+mindful assessments
+
+Evidence-based self-assessment tests to better understand yourself.
+
+2 minutes
+10 questions
+
+Mental Health Stigma Test
+
+Evaluate your attitudes toward mental health and help-seeking. Understand your perspective on mental health challenges and support.
+
+Self-Reflection
+Attitudes
+
+Start Test
+
+2 minutes
+10 questions
+
+Happiness Scale
+
+Assess your current level of happiness and life satisfaction. Get personalized insights and tips for improving your well-being.
+
+Well-being
+Life Satisfaction
+
+Start Test
+
+1 minutes
+6 questions
+
+Gratitude Questionnaire
+
+Measure your disposition toward gratitude. Discover how practicing gratitude can enhance your mental well-being and relationships.
+
+[Context: CMHW SELF-ASSESSMENT TESTS (CENTER FOR MENTAL HEALTH AND WELLBEING, IIT KANPUR) > Counselling page: /cmhw/pages/self-assessments.php]
+Gratitude
+Mindfulness
+
+Start Test
+
+2 minutes
+12 questions
+
+General Health Questionnaire
+
+A widely-used screening tool to assess your recent psychological well-being and detect potential mental health concerns.
+
+Mental Health
+Screening
+
+Start Test
+
+1 minutes
+6 questions
+
+Brief Resilience Scale (BRS)
+
+Assess your ability to bounce back from stress and adversity. Discover your resilience level and learn strategies to strengthen your capacity to overcome challenges.
+
+Resilience
+Coping Skills
+
+Start Test
+
+5 minutes
+20 questions
+
+Internet Addiction Test (IAT)
+
+Evaluate your internet usage patterns and identify potential problematic internet use. Understand how your online habits may be affecting your daily life, relationships, and well-being.
+
+[Context: CMHW SELF-ASSESSMENT TESTS (CENTER FOR MENTAL HEALTH AND WELLBEING, IIT KANPUR) > Counselling page: /cmhw/pages/self-assessments.php]
+Digital Wellness
+Screen Time
+Comprehensive
+
+Start Test
+

@@ -1,0 +1,302 @@
+DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS AND PEOPLE PAGES
+Name: Department of Statistics and Data Science, IIT Kanpur - faculty, staff, students, alumni, awards and people pages.
+Type: ACADEMIC UNIT of IIT Kanpur (academic department, school, centre or programme); website https://www.iitk.ac.in/sds. Snapshot: scraped in 2026.
+
+=== 59th convocation of iit kanpur ===
+Source: https://www.iitk.ac.in/sds/59th-convocation-of-iit-kanpur
+The Department extends its heartfelt congratulations to the graduating batch of BS and BS-MS Statistics and Data Science students, MSc Statistics students, and PhD Statistics scholars on this significant milestone. We warmly welcome you to the 59th Convocation Ceremony of IIT Kanpur, to be held on July 15th. The department ceremony will be hosted and organized by the Department of Mathematics, and more information regarding this will be shared directly by the Department of Mathematics.
+
+=== faculty ===
+Source: https://www.iitk.ac.in/sds/faculty
+Amit Mitra (PhD, IIT Kanpur)
+|    Personal homepage
+0512-259 6064 (O) |    FB 518 (Faculty Building)
+
+Research Interests: Statistical Signal Processing, Data mining in Finance and Econometrics
+
+Arnab Hazra (PhD, North Carolina State University)
+|   Personal homepage
+0512-259 2272 (O) |    FB 576 (Faculty Building)
+
+Research Interests: Spatial Statistics, Bayesian modeling, Extreme value analysis, Environmental Statistics.
+
+Debasis Kundu (PhD, Pennsylvania State University)
+|    Personal homepage
+0512-259 7141 (O) |    FB 522 (Faculty Building)
+Professor Emeritus
+
+Research Interests: Survival Analysis, Non-Linear Regression, Statistical Computing, Statistical Signal Processing
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > faculty]
+Dootika Vats (PhD, University of Minnesota)
+|    Personal homepage
+0512-259-2076 (O) |    FB 580 (Faculty Building)
+
+Research Interests: Markov chain Monte Carlo, Monte Carlo, Bayesian computation, Bayesian statistics
+
+Neeraj Misra (PhD, IIT Kanpur)
+|    Personal homepage
+0512-259 7087 (O) |    FB 515 (Faculty Building)
+
+Research Interests: Statistical Inference, Reliability Theory, Ranking and Selection problems
+
+Satya Prakash Singh (PhD, IIT Bombay)
+|    Personal homepage
+0512-259 2254 (O) |    FB 589 (Faculty Building)
+
+Research Interests: Optimal design of experiments related to cross-over trials, cluster randomised trails, longitudinal studies, and the ordered experiments.
+
+Shalabh (PhD, University of Lucknow)
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > faculty]
+|    Personal homepage
+0512-259 7905 (O) |    FB 584 (Faculty Building)
+
+Research Interests: Econometrics, Regression Analysis, Linear Models, Measurement Error Models, Sampling Theory
+
+Sharmishtha Mitra (PhD, IIT Kanpur)
+|    Personal homepage
+0512-259 6044 (O) |    FB 512 (Faculty Building)
+
+Research Interests: Order statistics and its applications, Order estimation of nested non-linear models, Econometrics
+
+Soumyarup Sadhukhan (PhD, Indian Statistical Institute, Kolkata)
+|    Personal homepage
+0512-259 2258 (O) |    FB 582 (Faculty Building)
+
+Research Interests: Game Theory, Combinatorial Games, Choice Theory, and Mechanism Design
+
+Subhra Sankar Dhar (PhD, Indian Statistical Institute, Calcutta)
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > faculty]
+|    Personal homepage
+0512-259 6950 (O) |    FB 512 (Faculty Building)
+
+Research Interests: Nonparametric Methods, Robust Statistical Methods, Topological Data Analysis and Infinite Dimensional Data Analysis
+
+Suprio Bhar (PhD, Indian Statistical Institute, Bangalore)
+|    Personal homepage
+0512-259 2016 (O) |    FB 509 (Faculty Building)
+
+Research Interests: Stochastic Partial Differential Equations in infinite dimensional spaces, Hilbert valued Stochastic Processes, Rough paths and Regularity Structures.
+
+=== faculty recruitment ===
+Source: https://www.iitk.ac.in/sds/faculty-recruitment
+The Department of Statistics and Data Science invites applications from outstanding candidates with demonstrated excellence in research and a strong commitment to excellence in teaching. Applications are welcome for faculty positions all ranks and across all areas of probability, statistics, machine learning, and data science. Current faculty openings and application portal is available here: https://www.iitk.ac.in/dofa/current-openings and the areas of specialization the department seeks can be found here:
+
+https://www.iitk.ac.in/dofa/department-wise-vacancies-and-area-of-specialization.
+
+More information on the facilities and responsibilities are available in the Faculty Handbook. Interested candidates may also directly contact:
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > faculty recruitment]
+Head,
+Department of Statistics and Data Science
+Indian Institute of Technology
+Kanpur 208 016
+
+=== phdstudents ===
+Source: https://www.iitk.ac.in/sds/phdstudents
+Satish Kumar
+Supervisor: Subhra Sankar Dhar
+|    Personal Homepage
+NCL 310 B
+
+Apratim Shukla
+Supervisor: Dootika Vats
+|    Personal Homepage
+NCL 304 B
+
+Yogesh Katariya
+Supervisor: Neeraj Misra
+|    Personal Homepage
+NCL 310 B
+
+Arghya Mukherjee
+Supervisor: Arnab Hazra
+Co-Supervisor: Dootika Vats
+|    Personal Homepage
+NCL 304 B
+
+Annesha Deb
+Supervisor: Neeraj Misra
+Co-Supervisor: Minerva Mukhopadhyay and Subhajit Dutta (External Supervisors)
+
+NCL 304 B
+
+Soumadeb Pain
+Supervisor: Satya Prakash Singh
+|    Personal Homepage
+NCL 304 B
+
+Sayan Bhowmik
+Supervisor: Arnab Hazra
+
+NCL 304 B
+
+Adarsh Dubey
+Supervisor: Satya Prakash Singh
+
+NCL 304 B
+
+Muneeb Ahmad Wani
+Supervisor: Satya Prakash Singh
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > phdstudents]
+NCL 301 B
+
+Ritik Roshan Giri
+Supervisor: Arnab Hazra
+
+NCL 301 B
+
+Tuhin Subhra Mahato
+Supervisor: Subhra Sankar Dhar
+|    Personal Homepage
+NCL 301 B
+
+Anupama Das
+Supervisor: Dootika Vats
+
+NCL 310 B
+
+Arham Kaiyoom
+Supervisor: Arnab Hazra
+Co-Supervisor: Satya Prakash Singh
+
+NCL 310 B
+
+Debjit Paul
+Supervisor: Arnab Hazra
+
+NCL 310 B
+
+Santanu Roy
+Supervisor: Soumyarup Sadhukhan
+
+NCL 310 B
+
+Saurabh Yadav
+Supervisor: Dootika Vats
+|    Personal Homepage
+NCL 310 B
+
+Aastha
+Supervisor: Dootika Vats
+
+NCL 301 B
+
+Akshay Sanjay Kalantre
+Supervisor: Subhra Sankar Dhar
+
+NCL 301 B
+
+Anirban Dutta
+Supervisor: Satya Prakash Singh
+
+Rajdeep Nandi
+Supervisor: DPGC
+
+Vandana
+Supervisor: DPGC
+
+Vikas
+Supervisor: DPGC
+
+Kousik Pramanik
+Supervisor: DPGC
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > phdstudents]
+Likith S V
+Supervisor: DPGC
+
+Sayanta Biswas
+Supervisor: DPGC
+
+Sneha Patra
+Supervisor: DPGC
+
+Tathastu Ghosh
+Supervisor: DPGC
+
+=== postdoc recruitment ===
+Source: https://www.iitk.ac.in/sds/postdoc-recruitment
+We welcome the candidates with a PhD degree and with good academic standing to apply for post-doctoral fellowship in any area of Statistics and Data Science. Individual faculty may advertise their own project positions. Applications for Institute Postdoctoral Fellows is available at the Dean of Faculty Affairs website:
+
+https://www.iitk.ac.in/dofa/institute-postdoctoral-fellowship
+
+=== postdocs ===
+Source: https://www.iitk.ac.in/sds/postdocs
+Habiba Khatun
+Position: IPDF
+Mentor: Debasis Kundu
+
+Lab 615, ESB - II
+
+Ritik Soni
+Position: IPDF
+Mentor: Dootika Vats
+|    Personal Webpage
+Lab 615, ESB - II
+
+Alam Ali
+Position: IPDF
+Mentor: Satya Prakash Singh
+
+Lab 615, ESB - II
+
+Bidhan Modok
+Position: IPDF
+Mentor: Sharmishtha Mitra
+|    Personal Webpage
+Lab 614, ESB - II
+
+Kuntal Bera
+Position: IPDF
+Mentor: Neeraj Misra
+
+Lab 614, ESB - II
+
+Ojasvi Rajput
+Position: FARE Fellow
+
+Mangala Prasad
+Position: FARE Fellow
+Mentor: Suprio Bhar and Mrinmay Biswas
+
+Raju Dey
+Position: ANRF-NPDF
+Mentor: Neeraj Misra
+|    Personal Webpage
+614, ESB-II
+
+=== staff ===
+Source: https://www.iitk.ac.in/sds/staff
+Saurabh Bajpai
+Senior Technical Superintendent
+
++91 512 259 6778 (O) |    FB 224
+Personal homepage
+
+Deeksha Mishra
+Jr. Assistant
+
++91 512 259 7662 (O) |    FB 224
+
+=== welcome message from head ===
+Source: https://www.iitk.ac.in/sds/welcome-message-from-head
+Welcome to the Department of Statistics and Data Science (SDS) at IIT Kanpur!
+
+The establishment of DSDS in June 2026 marks an important milestone in the history of IIT Kanpur and reflects the growing significance of the Statistical Sciences in an increasingly data-driven world. The Department traces its roots to the renowned Probability and Statistics Group that flourished within the erstwhile Department of Mathematics and Statistics and made nationally and internationally recognized contributions to research, education, and the development of the statistical sciences in India.
+
+Generations of faculty members, students, researchers, and alumni have contributed to building this rich tradition. The creation of DSDS provides an opportunity to carry this legacy forward while embracing the new challenges and opportunities emerging from data science, machine learning, artificial intelligence, and related disciplines.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > welcome message from head]
+Our mission is to foster excellence in research, education, and innovation while promoting interdisciplinary collaborations that address important scientific, technological, industrial, and societal challenges.
+
+The Department is committed to creating an intellectually vibrant environment that encourages curiosity, creativity, and rigorous scholarship. Through our undergraduate, postgraduate, and doctoral programmes, we seek to nurture future generations of statisticians, data scientists, researchers, and leaders who can contribute meaningfully to academia, industry, government, and society.
+
+I invite you to explore our programmes, research activities, and opportunities for collaboration. We look forward to engaging with students, researchers, alumni, industry partners, and the broader academic community as we embark on this exciting journey.
+
+[Context: DEPARTMENT OF STATISTICS AND DATA SCIENCE IIT KANPUR - FACULTY, STAFF, STUDENTS, ALUMNI, AWARDS > welcome message from head]
+With best wishes,
+Prof. Neeraj Misra
+Head, Department of Statistics and Data Science (DSDS)
+
